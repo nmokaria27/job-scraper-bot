@@ -21,17 +21,24 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Run scraper
         env:
+          # Required
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          # Job filtering (optional — falls back to defaults in config.py if not set)
           KEYWORDS: ${{ secrets.KEYWORDS }}
           EXCLUDED_KEYWORDS: ${{ secrets.EXCLUDED_KEYWORDS }}
           LOCATIONS: ${{ secrets.LOCATIONS }}
           MAX_NOTIFICATIONS_PER_RUN: ${{ secrets.MAX_NOTIFICATIONS_PER_RUN }}
+          # SimplifyJobs (optional — defaults to Summer internships + New Grad)
+          SIMPLIFY_URLS: ${{ secrets.SIMPLIFY_URLS }}
+          # HackerNews (optional — defaults to 500 comments)
+          HN_MAX_COMMENTS: ${{ secrets.HN_MAX_COMMENTS }}
         run: python main.py
 
       - name: Commit updated seen_jobs.json

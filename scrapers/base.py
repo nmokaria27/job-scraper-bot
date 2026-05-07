@@ -1,3 +1,4 @@
+import re
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 
@@ -9,8 +10,23 @@ class Job:
     company: str
     location: str
     url: str
-    platform: str    # "greenhouse", "lever", or "ashby"
+    platform: str    # "greenhouse", "lever", "ashby", "simplify", "hackernews"
     posted_at: str   # ISO string or "Unknown"
+
+
+def _word_match(keyword: str, text: str) -> bool:
+    """
+    Return True if `keyword` appears as a complete word in `text`.
+
+    Uses regex word boundaries so short terms like "vp", "lead", "swe"
+    don't accidentally match substrings inside longer words:
+      "intern"  → matches "Intern", "INTERN,"  but NOT "Internal"
+      "vp"      → matches "VP Engineering"      but NOT "MVP"
+      "lead"    → matches "Tech Lead"           but NOT "Leadership Program"
+      "swe"     → matches "SWE Intern"          but NOT "Sweepstakes"
+    """
+    pattern = r"\b" + re.escape(keyword) + r"\b"
+    return bool(re.search(pattern, text, re.IGNORECASE))
 
 
 class BaseScraper(ABC):
@@ -26,13 +42,13 @@ class BaseScraper(ABC):
         excluded_keywords: list[str],
     ) -> bool:
         """
-        Returns True if ANY keyword is found in the title AND
-        NONE of the excluded_keywords are found in the title.
-        Case-insensitive.
+        Returns True if ANY keyword matches the title as a whole word AND
+        NONE of the excluded_keywords match the title as a whole word.
+        Case-insensitive. Uses word-boundary matching to prevent substring
+        false positives (e.g. 'intern' inside 'internal', 'vp' inside 'mvp').
         """
-        title_lower = title.lower()
-        has_keyword = any(kw.lower() in title_lower for kw in keywords)
-        has_excluded = any(ex.lower() in title_lower for ex in excluded_keywords)
+        has_keyword = any(_word_match(kw, title) for kw in keywords)
+        has_excluded = any(_word_match(ex, title) for ex in excluded_keywords)
         return has_keyword and not has_excluded
 
     def matches_location(

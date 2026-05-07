@@ -10,14 +10,11 @@ HN_BASE = "https://hacker-news.firebaseio.com/v0"
 WHOISHIRING_USER_URL = f"{HN_BASE}/user/whoishiring.json"
 ITEM_URL = f"{HN_BASE}/item/{{item_id}}.json"
 
-# Only process this many top-level comments per thread (avoid rate limit abuse)
-MAX_COMMENTS = 200
-
-# Concurrency limit for fetching comments
-SEMAPHORE_LIMIT = 10
-
-# Pause between semaphore-throttled batches (polite to HN's free public API)
+# Pause between semaphore-throttled requests (polite to HN's free public API)
 BATCH_SLEEP = 0.1
+
+# Discord embed title limit is 256 chars; truncate HN first lines conservatively
+HN_TITLE_MAX_CHARS = 200
 
 
 def _strip_html(html_text: str) -> str:
@@ -51,8 +48,8 @@ def _extract_title(raw_text: str) -> str:
     for line in clean.splitlines():
         line = line.strip()
         if line:
-            if len(line) > 120:
-                return line[:120] + "..."
+            if len(line) > HN_TITLE_MAX_CHARS:
+                return line[:HN_TITLE_MAX_CHARS] + "..."
             return line
     return ""
 
@@ -140,7 +137,7 @@ class HackerNewsScraper(BaseScraper):
                 print(f"[ERROR] hackernews: failed to fetch thread {thread_id} — {e}")
                 return []
 
-            comment_ids = (thread.get("kids") or [])[:MAX_COMMENTS]
+            comment_ids = (thread.get("kids") or [])[:config.HN_MAX_COMMENTS]
             if not comment_ids:
                 print("[WARN] hackernews: thread has no top-level comments")
                 return []
@@ -148,7 +145,7 @@ class HackerNewsScraper(BaseScraper):
             print(f"[INFO] hackernews: fetching {len(comment_ids)} comments from thread {thread_id}")
 
             # Step 3: Fetch all comments concurrently with a semaphore
-            semaphore = asyncio.Semaphore(SEMAPHORE_LIMIT)
+            semaphore = asyncio.Semaphore(config.HN_SEMAPHORE_LIMIT)
             raw_comments = await asyncio.gather(
                 *[self._fetch_comment(client, semaphore, cid) for cid in comment_ids]
             )

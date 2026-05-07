@@ -193,7 +193,6 @@ async def main(init_mode: bool = False) -> None:
     # --- INIT MODE: seed seen_jobs.json without notifying ---
     if init_mode:
         # Mark ALL matching jobs as seen (no notifications)
-        all_matched_ids = {job.id for job in matching_jobs}
         for job in matching_jobs:
             if job.id not in seen_ids:
                 mark_seen(seen_data, job.id)
