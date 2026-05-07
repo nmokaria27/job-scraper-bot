@@ -28,9 +28,11 @@ jobs:
 
       - name: Run scraper
         env:
-          # Required
+          # Multi-channel mode (preferred): JSON list, or {"channels": [...]}
+          CHANNELS_JSON: ${{ secrets.CHANNELS_JSON }}
+          # Single-channel fallback
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          # Job filtering (optional — falls back to defaults in config.py if not set)
+          # Single-channel filtering (optional — falls back to defaults in config.py)
           KEYWORDS: ${{ secrets.KEYWORDS }}
           EXCLUDED_KEYWORDS: ${{ secrets.EXCLUDED_KEYWORDS }}
           LOCATIONS: ${{ secrets.LOCATIONS }}

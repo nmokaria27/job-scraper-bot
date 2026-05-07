@@ -1,4 +1,6 @@
+import json
 import os
+from dataclasses import dataclass, field
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -13,15 +15,24 @@ def _parse_list(env_var: str, default: list[str]) -> list[str]:
 
 
 # ---------------------------------------------------------------------------
-# Required
+# Channel configuration
 # ---------------------------------------------------------------------------
 
-# Raises ValueError on startup if not set
+@dataclass
+class ChannelConfig:
+    """One Discord channel with its own webhook, keywords, and filters."""
+    name: str
+    webhook_url: str
+    keywords: list[str] = field(default_factory=list)
+    excluded_keywords: list[str] = field(default_factory=list)
+    locations: list[str] = field(default_factory=list)
+
+
+# ---------------------------------------------------------------------------
+# Single-channel fallback defaults  (used when no channels.json exists)
+# ---------------------------------------------------------------------------
+
 DISCORD_WEBHOOK_URL: str = os.getenv("DISCORD_WEBHOOK_URL", "")
-
-# ---------------------------------------------------------------------------
-# Job filtering
-# ---------------------------------------------------------------------------
 
 KEYWORDS: list[str] = _parse_list(
     "KEYWORDS",
@@ -57,8 +68,6 @@ KEYWORDS: list[str] = _parse_list(
     ],
 )
 
-# Jobs whose titles contain ANY of these whole words are excluded.
-# Uses word-boundary matching — "lead" won't match "leadership", "vp" won't match "mvp".
 EXCLUDED_KEYWORDS: list[str] = _parse_list(
     "EXCLUDED_KEYWORDS",
     default=[
@@ -77,20 +86,14 @@ EXCLUDED_KEYWORDS: list[str] = _parse_list(
     ],
 )
 
-# Optional — only show jobs whose location contains one of these strings.
-# Leave empty (default) to allow all locations.
 LOCATIONS: list[str] = _parse_list("LOCATIONS", default=[])
 
 # ---------------------------------------------------------------------------
 # Rate limiting / run behaviour
 # ---------------------------------------------------------------------------
 
-# Cap Discord notifications per run (prevent spam if a company bulk-posts)
 MAX_NOTIFICATIONS_PER_RUN: int = int(os.getenv("MAX_NOTIFICATIONS_PER_RUN", "25"))
-
-# Seconds to sleep between successive ATS company API calls
 SLEEP_BETWEEN_COMPANIES: float = float(os.getenv("SLEEP_BETWEEN_COMPANIES", "1.5"))
-
 REQUEST_TIMEOUT: int = int(os.getenv("REQUEST_TIMEOUT", "10"))
 
 # ---------------------------------------------------------------------------
@@ -98,18 +101,12 @@ REQUEST_TIMEOUT: int = int(os.getenv("REQUEST_TIMEOUT", "10"))
 # ---------------------------------------------------------------------------
 
 SEEN_JOBS_PATH: str = os.getenv("SEEN_JOBS_PATH", "seen_jobs.json")
-
-# Days before a seen job ID is pruned from seen_jobs.json
 SEEN_JOBS_MAX_AGE_DAYS: int = int(os.getenv("SEEN_JOBS_MAX_AGE_DAYS", "30"))
 
 # ---------------------------------------------------------------------------
 # SimplifyJobs scraper
 # ---------------------------------------------------------------------------
 
-# Comma-separated list of raw JSON URLs to fetch.
-# Default includes both Summer internships AND New Grad positions.
-# Update the year in the Summer URL when a new internship cycle begins
-# (e.g. Summer2026 → Summer2027) or override via SIMPLIFY_URLS secret.
 SIMPLIFY_URLS: list[str] = _parse_list(
     "SIMPLIFY_URLS",
     default=[
@@ -122,22 +119,131 @@ SIMPLIFY_URLS: list[str] = _parse_list(
 # HackerNews scraper
 # ---------------------------------------------------------------------------
 
-# Max top-level comments to fetch from the monthly "Who is Hiring?" thread.
-# HN threads typically have 400-800 comments; 200 (old default) missed 50%+.
 HN_MAX_COMMENTS: int = int(os.getenv("HN_MAX_COMMENTS", "500"))
-
-# Max concurrent HN API requests (semaphore limit)
 HN_SEMAPHORE_LIMIT: int = int(os.getenv("HN_SEMAPHORE_LIMIT", "10"))
 
+# ---------------------------------------------------------------------------
+# Channel file path
+# ---------------------------------------------------------------------------
+
+CHANNELS_PATH: str = os.getenv("CHANNELS_PATH", "channels.json")
+
 
 # ---------------------------------------------------------------------------
-# Validation
+# Channel loader
 # ---------------------------------------------------------------------------
+
+def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
+    """
+    Load channel configurations.  Checked in priority order:
+
+    1. CHANNELS_JSON env var   — raw JSON string (ideal for GitHub Actions secrets)
+    2. channels.json file      — local development
+    3. Single-channel fallback — uses DISCORD_WEBHOOK_URL + KEYWORDS/EXCLUDED/LOCATIONS
+
+    Each channel gets its own webhook URL, keyword list, and exclusion list so
+    the scraper can fan out one scrape run to many Discord channels.
+    """
+    channels: list[ChannelConfig] = []
+
+    def _coerce_channels(data: object, source: str) -> list[ChannelConfig]:
+        if isinstance(data, dict) and "channels" in data:
+            data = data["channels"]
+        if not isinstance(data, list):
+            raise ValueError(f"{source} must be a JSON list or an object with a 'channels' list")
+
+        parsed: list[ChannelConfig] = []
+        for idx, entry in enumerate(data, 1):
+            if not isinstance(entry, dict):
+                raise ValueError(f"{source} channel #{idx} must be an object")
+            try:
+                channel = ChannelConfig(**entry)
+            except TypeError as e:
+                raise ValueError(f"{source} channel #{idx} is invalid: {e}") from e
+
+            channel.name = channel.name.strip()
+            channel.webhook_url = channel.webhook_url.strip()
+            if not channel.name:
+                raise ValueError(f"{source} channel #{idx} is missing name")
+            if not isinstance(channel.keywords, list):
+                raise ValueError(f"{source} channel '{channel.name}' keywords must be a list")
+            if not isinstance(channel.excluded_keywords, list):
+                raise ValueError(
+                    f"{source} channel '{channel.name}' excluded_keywords must be a list"
+                )
+            if not isinstance(channel.locations, list):
+                raise ValueError(f"{source} channel '{channel.name}' locations must be a list")
+
+            channel.keywords = [str(item).strip() for item in channel.keywords if str(item).strip()]
+            channel.excluded_keywords = [
+                str(item).strip() for item in channel.excluded_keywords if str(item).strip()
+            ]
+            channel.locations = [
+                str(item).strip() for item in channel.locations if str(item).strip()
+            ]
+            if not channel.keywords:
+                raise ValueError(f"{source} channel '{channel.name}' must include at least one keyword")
+
+            parsed.append(channel)
+
+        names = [ch.name for ch in parsed]
+        duplicates = sorted({name for name in names if names.count(name) > 1})
+        if duplicates:
+            raise ValueError(f"{source} has duplicate channel name(s): {duplicates}")
+
+        return parsed
+
+    # --- 1. CHANNELS_JSON env var ---
+    raw = os.getenv("CHANNELS_JSON", "").strip()
+    if raw:
+        try:
+            data = json.loads(raw)
+            channels = _coerce_channels(data, "CHANNELS_JSON")
+            print(f"[INFO] Loaded {len(channels)} channel(s) from CHANNELS_JSON env var")
+        except json.JSONDecodeError as e:
+            raise ValueError(f"CHANNELS_JSON env var is invalid JSON: {e}")
+
+    # --- 2. channels.json file ---
+    if not channels:
+        try:
+            with open(CHANNELS_PATH, "r") as f:
+                data = json.load(f)
+            channels = _coerce_channels(data, CHANNELS_PATH)
+            print(f"[INFO] Loaded {len(channels)} channel(s) from {CHANNELS_PATH}")
+        except FileNotFoundError:
+            pass
+        except json.JSONDecodeError as e:
+            raise ValueError(f"{CHANNELS_PATH} is invalid: {e}")
+
+    # --- 3. Fallback: single channel from env vars ---
+    if not channels:
+        if require_webhooks and not DISCORD_WEBHOOK_URL:
+            raise ValueError(
+                "No channel configuration found. Provide one of:\n"
+                "  1. CHANNELS_JSON env var  (raw JSON string)\n"
+                "  2. channels.json file\n"
+                "  3. DISCORD_WEBHOOK_URL env var  (single-channel mode)"
+            )
+        channels = [
+            ChannelConfig(
+                name="default",
+                webhook_url=DISCORD_WEBHOOK_URL,
+                keywords=KEYWORDS,
+                excluded_keywords=EXCLUDED_KEYWORDS,
+                locations=LOCATIONS,
+            )
+        ]
+        print("[INFO] Using single-channel mode (DISCORD_WEBHOOK_URL)")
+
+    # Validate webhook URLs when needed
+    if require_webhooks:
+        for ch in channels:
+            if not ch.webhook_url:
+                raise ValueError(f"Channel '{ch.name}' is missing webhook_url")
+
+    return channels
+
 
 def validate() -> None:
-    """Call this at startup to catch missing required config early."""
-    if not DISCORD_WEBHOOK_URL:
-        raise ValueError(
-            "DISCORD_WEBHOOK_URL environment variable is required but not set. "
-            "Copy .env.example to .env and fill in your webhook URL."
-        )
+    """Validate that normal-run notification configuration is available."""
+    load_channels(require_webhooks=True)

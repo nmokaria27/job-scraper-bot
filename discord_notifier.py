@@ -1,9 +1,7 @@
 import asyncio
-import json
 from datetime import datetime, timezone
 import httpx
 from scrapers.base import Job
-import config
 
 # Discord limits 10 embeds per webhook call
 MAX_EMBEDS_PER_POST = 10
@@ -28,13 +26,25 @@ PLATFORM_COLORS: dict[str, int] = {
 }
 
 
-async def _post_webhook(client: httpx.AsyncClient, payload: dict) -> bool:
+def _default_webhook_url() -> str:
+    import config
+
+    return config.DISCORD_WEBHOOK_URL
+
+
+async def _post_webhook(
+    client: httpx.AsyncClient,
+    payload: dict,
+    webhook_url: str | None = None,
+) -> bool:
     """POST a single webhook payload. Returns True on success."""
+    url = webhook_url or _default_webhook_url()
+    if not url:
+        print("[ERROR] Discord webhook URL is missing")
+        return False
+
     try:
-        response = await client.post(
-            config.DISCORD_WEBHOOK_URL,
-            json=payload,
-        )
+        response = await client.post(url, json=payload)
         response.raise_for_status()
         return True
     except httpx.HTTPStatusError as e:
@@ -79,34 +89,18 @@ def _build_job_embed(job: Job) -> dict:
     }
 
 
-async def notify_job(job: Job) -> bool:
+async def notify_jobs_batch(jobs: list[Job], webhook_url: str | None = None) -> list[Job]:
     """
-    Send a Discord embed for a single job.
-    Returns True if the POST succeeded, False otherwise.
-    Caller should NOT mark the job as seen if this returns False,
-    so it will be retried on the next run.
-    """
-    payload = {"embeds": [_build_job_embed(job)]}
-    async with httpx.AsyncClient(timeout=10) as client:
-        success = await _post_webhook(client, payload)
-    await asyncio.sleep(RATE_LIMIT_SLEEP)
-    return success
-
-
-async def notify_jobs_batch(jobs: list[Job]) -> list[Job]:
-    """
-    Send Discord notifications for a list of jobs.
+    Send Discord notifications for a list of jobs to a specific webhook.
     Returns the subset of jobs that were successfully notified.
     Rate-limits between each POST.
-    Never sends more than MAX_EMBEDS_PER_POST embeds in one call.
     """
     notified: list[Job] = []
 
     async with httpx.AsyncClient(timeout=10) as client:
-        # Send one embed per job (cleaner Discord UX than batching multiple)
         for job in jobs:
             payload = {"embeds": [_build_job_embed(job)]}
-            success = await _post_webhook(client, payload)
+            success = await _post_webhook(client, payload, webhook_url)
             if success:
                 notified.append(job)
             else:
@@ -116,13 +110,21 @@ async def notify_jobs_batch(jobs: list[Job]) -> list[Job]:
     return notified
 
 
-async def send_summary(new_count: int, total_checked: int, capped: bool = False) -> None:
+async def send_summary(
+    new_count: int,
+    total_checked: int,
+    capped: bool = False,
+    webhook_url: str | None = None,
+    channel_name: str = "",
+) -> None:
     """
     Send a summary embed at the end of a run.
     Only sends if new_count > 0.
     """
     if new_count == 0:
         return
+
+    import config  # local import to avoid circular dependency at module level
 
     cap_note = (
         f"\n\u26a0\ufe0f Capped at {config.MAX_NOTIFICATIONS_PER_RUN} notifications. "
@@ -131,10 +133,16 @@ async def send_summary(new_count: int, total_checked: int, capped: bool = False)
         else ""
     )
 
+    title = (
+        f"\U0001f4ca Job Scraper \u2014 {channel_name}"
+        if channel_name
+        else "\U0001f4ca Job Scraper Run Complete"
+    )
+
     payload = {
         "embeds": [
             {
-                "title": "\U0001f4ca Job Scraper Run Complete",
+                "title": title,
                 "color": 3066993,  # Green
                 "fields": [
                     {
@@ -156,4 +164,4 @@ async def send_summary(new_count: int, total_checked: int, capped: bool = False)
     }
 
     async with httpx.AsyncClient(timeout=10) as client:
-        await _post_webhook(client, payload)
+        await _post_webhook(client, payload, webhook_url)

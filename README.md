@@ -1,14 +1,14 @@
 # Job Scraper Discord Bot
 
-Scrapes job postings from Greenhouse, Lever, and Ashby ATS platforms every 30 minutes and sends rich Discord notifications for new matches. Runs entirely on GitHub Actions — no server, no database, no cost.
+Scrapes job postings from Greenhouse, Lever, Ashby, SimplifyJobs, and Hacker News every 30 minutes and sends rich Discord notifications for new matches. Supports one Discord channel or multiple channels with separate keyword/location filters. Runs entirely on GitHub Actions — no server, no database, no cost.
 
 ## How it works
 
 1. GitHub Actions triggers `main.py` on a cron every 30 minutes
-2. The scraper checks every company in `companies.py` across all three platforms
-3. Jobs are filtered by your keyword list (with optional exclusions and location filter)
-4. New job IDs are compared against `seen_jobs.json` — duplicates are skipped
-5. New matches are posted to your Discord channel via webhook
+2. The scraper checks every configured source in `companies.py`
+3. Jobs are filtered for each configured Discord channel
+4. New job IDs are compared against `seen_jobs.json` per channel — duplicates are skipped
+5. New matches are posted to the matching Discord channel webhook
 6. `seen_jobs.json` is committed back to the repo to persist state
 
 ---
@@ -24,17 +24,24 @@ git clone <your-repo-url>
 cd job-scraper-bot
 ```
 
-### 2. Create a Discord webhook
+### 2. Create Discord webhook(s)
 
 1. Open your Discord server → **Server Settings** → **Integrations** → **Webhooks**
 2. Click **New Webhook**, give it a name, choose a channel
-3. Click **Copy Webhook URL** — you'll need this in the next step
+3. Click **Copy Webhook URL** — repeat this for each channel you want to notify
 
 ### 3. Configure local environment (for testing)
 
 ```bash
 cp .env.example .env
-# Edit .env and paste your Discord webhook URL
+# Edit .env and paste either DISCORD_WEBHOOK_URL or CHANNELS_JSON
+```
+
+For local multi-channel config, copy the example:
+
+```bash
+cp channels.json.example channels.json
+# Edit channels.json with your channel names, webhooks, and filters
 ```
 
 ### 4. Install dependencies and run the initialization
@@ -64,10 +71,11 @@ Go to your repo → **Settings** → **Secrets and variables** → **Actions** �
 
 | Secret name | Value |
 |---|---|
-| `DISCORD_WEBHOOK_URL` | Your webhook URL from step 2 |
-| `KEYWORDS` | *(optional)* Comma-separated keywords (leave blank for defaults) |
-| `EXCLUDED_KEYWORDS` | *(optional)* Comma-separated words to exclude from titles |
-| `LOCATIONS` | *(optional)* Comma-separated location substrings (blank = all locations) |
+| `CHANNELS_JSON` | *(preferred for multiple channels)* JSON from `channels.json.example`, compacted into one line |
+| `DISCORD_WEBHOOK_URL` | Single-channel fallback webhook URL |
+| `KEYWORDS` | *(single-channel only, optional)* Comma-separated keywords |
+| `EXCLUDED_KEYWORDS` | *(single-channel only, optional)* Comma-separated words to exclude from titles |
+| `LOCATIONS` | *(single-channel only, optional)* Comma-separated location substrings |
 | `MAX_NOTIFICATIONS_PER_RUN` | *(optional)* Default: `25` |
 
 ### 7. Enable Actions write permissions
@@ -106,7 +114,36 @@ COMPANIES = {
 }
 ```
 
-### Change keywords
+### Configure multiple Discord channels
+
+Use `channels.json` locally or `CHANNELS_JSON` in GitHub Actions. Each channel has its own webhook, keywords, excluded keywords, and optional locations.
+
+```json
+[
+  {
+    "name": "swe-jobs",
+    "webhook_url": "https://discord.com/api/webhooks/...",
+    "keywords": ["intern", "new grad", "software engineer"],
+    "excluded_keywords": ["senior", "staff", "manager"],
+    "locations": []
+  }
+]
+```
+
+After adding channels to an existing repo, run `python main.py --init` once if you want to seed current matches without sending notifications.
+
+The keyword matcher treats mixed early-career and role keywords as an AND filter:
+titles must match both an early-career term such as `intern` or `new grad` and
+a role term such as `software engineer` or `product manager`. This avoids broad
+matches like `HR Intern`. Excluded terms still block titles, except when the
+excluded word appears only inside a positive phrase, such as `manager` inside
+`product manager`.
+
+Location filters keep jobs with blank location fields, since many remote roles
+do not populate structured location data. Short filters like `US`, `CA`, or
+`NY` are matched as standalone tokens to avoid matching unrelated words.
+
+### Change single-channel keywords
 
 Update the `KEYWORDS` secret in GitHub (or `KEYWORDS` in your `.env` for local runs).
 Comma-separated, case-insensitive substring match against job titles.
@@ -136,11 +173,12 @@ Go to **Actions** tab → **Job Scraper** → **Run workflow** button.
 │   ├── lever.py                   # Lever ATS scraper
 │   └── ashby.py                   # Ashby ATS scraper
 ├── companies.py                   # Master list of companies to scrape
-├── config.py                      # Env var loading + defaults
+├── config.py                      # Env/channel loading + defaults
 ├── discord_notifier.py            # Discord webhook integration
 ├── main.py                        # Orchestrator (--init flag for first run)
 ├── test_run.py                    # Standalone scraper verification script
 ├── seen_jobs.json                 # Persisted deduplication state (committed by Actions)
+├── channels.json.example          # Multi-channel config example
 ├── requirements.txt
 ├── .env.example
 └── README.md
