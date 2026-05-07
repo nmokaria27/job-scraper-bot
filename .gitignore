@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# seen_jobs.json must NOT be gitignored — GitHub Actions commits it back to the repo
+# to persist the deduplication state between runs.

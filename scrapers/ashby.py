@@ -1,0 +1,68 @@
+import asyncio
+import json
+import httpx
+from scrapers.base import BaseScraper, Job
+import config
+
+ASHBY_BASE = "https://jobs.ashbyhq.com"
+
+
+class AshbyScraper(BaseScraper):
+    PLATFORM = "ashby"
+    BASE_URL = (
+        f"{ASHBY_BASE}/api/non-auth/v1/job-board"
+        "?organizationHostedJobsPageName={company}"
+    )
+
+    async def fetch_jobs(self, company_slug: str) -> list[Job]:
+        url = self.BASE_URL.format(company=company_slug)
+        try:
+            async with httpx.AsyncClient(timeout=config.REQUEST_TIMEOUT) as client:
+                response = await client.get(url)
+
+                if response.status_code == 404:
+                    print(f"[WARN] ashby/{company_slug}: company not found on Ashby (404)")
+                    return []
+
+                response.raise_for_status()
+                data = response.json()
+
+        except httpx.HTTPStatusError as e:
+            print(f"[ERROR] ashby/{company_slug}: HTTP error {e.response.status_code} — {e}")
+            return []
+        except httpx.RequestError as e:
+            print(f"[ERROR] ashby/{company_slug}: connection error — {e}")
+            return []
+        except json.JSONDecodeError as e:
+            print(f"[ERROR] ashby/{company_slug}: failed to parse JSON — {e}")
+            return []
+
+        jobs: list[Job] = []
+        raw_jobs = data.get("jobs", [])
+
+        for raw in raw_jobs:
+            title = raw.get("title")
+            if not title:
+                continue
+
+            location = raw.get("location") or "Remote / Not Specified"
+
+            # jobUrl may be relative — prefix with Ashby base if needed
+            job_url = raw.get("jobUrl", "")
+            if job_url and not job_url.startswith("http"):
+                job_url = f"{ASHBY_BASE}{job_url}"
+
+            job = Job(
+                id=f"ashby-{company_slug}-{raw['id']}",
+                title=title,
+                company=company_slug.replace("-", " ").title(),
+                location=location,
+                url=job_url,
+                platform=self.PLATFORM,
+                posted_at=raw.get("publishedDate", "Unknown"),
+            )
+            jobs.append(job)
+
+        print(f"[OK] ashby/{company_slug}: {len(jobs)} jobs found")
+        await asyncio.sleep(0)  # yield control back to event loop
+        return jobs
