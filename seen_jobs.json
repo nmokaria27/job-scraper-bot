@@ -2587,10 +2587,14 @@
     {
       "id": "simplify-9259b927-fb9f-421c-95d0-f346a63020a3",
       "seen_at": "2026-05-08T10:00:41.581186+00:00"
+    },
+    {
+      "id": "simplify-917630ba-470e-4fa9-904d-c7feb21fa586",
+      "seen_at": "2026-05-08T15:00:44.823719+00:00"
     }
   ],
-  "last_run": "2026-05-08T14:30:45.453739+00:00",
-  "total_notified": 27,
+  "last_run": "2026-05-08T15:00:45.348974+00:00",
+  "total_notified": 28,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -3238,7 +3242,8 @@
       "simplify-f96fea5f-c7f1-4949-8f04-061ee0f7903f",
       "simplify-67b134e0-653d-4b37-bc63-6df9e5585e40",
       "simplify-a473cbbb-a709-41fc-82c2-254b5306ce3c",
-      "simplify-9259b927-fb9f-421c-95d0-f346a63020a3"
+      "simplify-9259b927-fb9f-421c-95d0-f346a63020a3",
+      "simplify-917630ba-470e-4fa9-904d-c7feb21fa586"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
