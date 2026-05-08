@@ -1,4 +1,5 @@
 import asyncio
+from dataclasses import dataclass
 from datetime import datetime, timezone
 import httpx
 from scrapers.base import Job
@@ -26,6 +27,15 @@ PLATFORM_COLORS: dict[str, int] = {
 }
 
 
+FATAL_WEBHOOK_STATUS_CODES = {401, 404, 405}
+
+
+@dataclass
+class WebhookPostResult:
+    success: bool
+    fatal: bool = False
+
+
 def _default_webhook_url() -> str:
     import config
 
@@ -36,23 +46,26 @@ async def _post_webhook(
     client: httpx.AsyncClient,
     payload: dict,
     webhook_url: str | None = None,
-) -> bool:
-    """POST a single webhook payload. Returns True on success."""
+) -> WebhookPostResult:
+    """POST a single webhook payload."""
     url = webhook_url or _default_webhook_url()
     if not url:
         print("[ERROR] Discord webhook URL is missing")
-        return False
+        return WebhookPostResult(success=False, fatal=True)
 
     try:
         response = await client.post(url, json=payload)
         response.raise_for_status()
-        return True
+        return WebhookPostResult(success=True)
     except httpx.HTTPStatusError as e:
         print(f"[ERROR] Discord webhook HTTP error {e.response.status_code}: {e.response.text}")
-        return False
+        return WebhookPostResult(
+            success=False,
+            fatal=e.response.status_code in FATAL_WEBHOOK_STATUS_CODES,
+        )
     except httpx.RequestError as e:
         print(f"[ERROR] Discord webhook connection error: {e}")
-        return False
+        return WebhookPostResult(success=False)
 
 
 def _build_job_embed(job: Job) -> dict:
@@ -100,11 +113,14 @@ async def notify_jobs_batch(jobs: list[Job], webhook_url: str | None = None) -> 
     async with httpx.AsyncClient(timeout=10) as client:
         for job in jobs:
             payload = {"embeds": [_build_job_embed(job)]}
-            success = await _post_webhook(client, payload, webhook_url)
-            if success:
+            result = await _post_webhook(client, payload, webhook_url)
+            if result.success:
                 notified.append(job)
             else:
                 print(f"[ERROR] Failed to notify: {job.title} @ {job.company}")
+                if result.fatal:
+                    print("[ERROR] Stopping channel notifications because the webhook endpoint is invalid")
+                    break
             await asyncio.sleep(RATE_LIMIT_SLEEP)
 
     return notified

@@ -1,5 +1,8 @@
 name: Job Scraper
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     - cron: '*/30 * * * *'   # Every 30 minutes
@@ -37,6 +40,8 @@ jobs:
           EXCLUDED_KEYWORDS: ${{ secrets.EXCLUDED_KEYWORDS }}
           LOCATIONS: ${{ secrets.LOCATIONS }}
           MAX_NOTIFICATIONS_PER_RUN: ${{ secrets.MAX_NOTIFICATIONS_PER_RUN }}
+          RECENT_POSTING_MAX_AGE_HOURS: ${{ vars.RECENT_POSTING_MAX_AGE_HOURS }}
+          ATS_CONCURRENCY: ${{ vars.ATS_CONCURRENCY }}
           # SimplifyJobs (optional — defaults to Summer internships + New Grad)
           SIMPLIFY_URLS: ${{ secrets.SIMPLIFY_URLS }}
           # HackerNews (optional — defaults to 500 comments)

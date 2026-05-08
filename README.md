@@ -78,6 +78,13 @@ Go to your repo → **Settings** → **Secrets and variables** → **Actions** �
 | `LOCATIONS` | *(single-channel only, optional)* Comma-separated location substrings |
 | `MAX_NOTIFICATIONS_PER_RUN` | *(optional)* Default: `25` |
 
+Optional non-secret repository variables can be set under **Settings** → **Secrets and variables** → **Actions** → **Variables**:
+
+| Variable name | Value |
+|---|---|
+| `RECENT_POSTING_MAX_AGE_HOURS` | Default: `24`; only notify postings with recent timestamps |
+| `ATS_CONCURRENCY` | Default: `5`; number of company job boards fetched concurrently |
+
 ### 7. Enable Actions write permissions
 
 Go to **Settings** → **Actions** → **General** → scroll to **Workflow permissions** → select **Read and write permissions** → Save.
@@ -142,6 +149,10 @@ excluded word appears only inside a positive phrase, such as `manager` inside
 Location filters keep jobs with blank location fields, since many remote roles
 do not populate structured location data. Short filters like `US`, `CA`, or
 `NY` are matched as standalone tokens to avoid matching unrelated words.
+
+Normal runs only notify jobs whose `posted_at` timestamp is within
+`RECENT_POSTING_MAX_AGE_HOURS` hours. Greenhouse exposes `updated_at`, not a
+true first-published timestamp, so recently updated listings may still appear.
 
 ### Change single-channel keywords
 

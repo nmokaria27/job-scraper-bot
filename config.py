@@ -147,6 +147,8 @@ LOCATIONS: list[str] = _parse_list("LOCATIONS", default=[])
 MAX_NOTIFICATIONS_PER_RUN: int = _parse_int("MAX_NOTIFICATIONS_PER_RUN", 25)
 SLEEP_BETWEEN_COMPANIES: float = _parse_float("SLEEP_BETWEEN_COMPANIES", 1.5)
 REQUEST_TIMEOUT: int = _parse_int("REQUEST_TIMEOUT", 10)
+RECENT_POSTING_MAX_AGE_HOURS: int = _parse_int("RECENT_POSTING_MAX_AGE_HOURS", 24)
+ATS_CONCURRENCY: int = _parse_int("ATS_CONCURRENCY", 5)
 
 # ---------------------------------------------------------------------------
 # Persistence

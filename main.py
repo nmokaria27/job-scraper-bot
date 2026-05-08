@@ -184,6 +184,22 @@ def filter_for_channel(jobs: list[Job], channel: ChannelConfig) -> list[Job]:
     ]
 
 
+def filter_recent_jobs(jobs: list[Job]) -> list[Job]:
+    """Keep only jobs whose posting timestamp is within the configured window."""
+    max_age_hours = config.RECENT_POSTING_MAX_AGE_HOURS
+    if max_age_hours <= 0:
+        return jobs
+
+    cutoff = datetime.now(tz=timezone.utc) - timedelta(hours=max_age_hours)
+    recent = [job for job in jobs if _parse_dt(job.posted_at) >= cutoff]
+    skipped = len(jobs) - len(recent)
+    print(
+        f"[INFO] Recent posting filter: kept {len(recent)} of {len(jobs)} "
+        f"(last {max_age_hours}h, skipped {skipped})"
+    )
+    return recent
+
+
 # ---------------------------------------------------------------------------
 # Core scraping logic (raw — no filtering)
 # ---------------------------------------------------------------------------
@@ -218,15 +234,23 @@ async def scrape_all_raw() -> tuple[list[Job], int]:
         all_jobs.extend(jobs)
 
     # --- ATS scrapers per company ---
-    for platform, company_slugs in COMPANIES.items():
-        if platform not in ats_scrapers:
-            continue
-        scraper = ats_scrapers[platform]
-        for slug in company_slugs:
-            jobs = await scraper.fetch_jobs(slug)
-            total_checked += len(jobs)
-            all_jobs.extend(jobs)
-            await asyncio.sleep(config.SLEEP_BETWEEN_COMPANIES)
+    async def fetch_company(platform: str, slug: str, semaphore: asyncio.Semaphore) -> list[Job]:
+        async with semaphore:
+            jobs = await ats_scrapers[platform].fetch_jobs(slug)
+            if config.SLEEP_BETWEEN_COMPANIES > 0:
+                await asyncio.sleep(config.SLEEP_BETWEEN_COMPANIES)
+            return jobs
+
+    semaphore = asyncio.Semaphore(max(1, config.ATS_CONCURRENCY))
+    tasks = [
+        fetch_company(platform, slug, semaphore)
+        for platform, company_slugs in COMPANIES.items()
+        if platform in ats_scrapers
+        for slug in company_slugs
+    ]
+    for jobs in await asyncio.gather(*tasks):
+        total_checked += len(jobs)
+        all_jobs.extend(jobs)
 
     return all_jobs, total_checked
 
@@ -282,6 +306,7 @@ async def main(init_mode: bool = False) -> None:
         return
 
     # --- NORMAL MODE: per-channel filter → dedupe → notify ---
+    all_jobs = filter_recent_jobs(all_jobs)
     total_notified = 0
 
     for ch in channels:
