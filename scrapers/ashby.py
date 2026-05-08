@@ -1,21 +1,20 @@
 import asyncio
 import json
+from urllib.parse import quote
 import httpx
 from scrapers.base import BaseScraper, Job
 import config
 
 ASHBY_BASE = "https://jobs.ashbyhq.com"
+ASHBY_API_BASE = "https://api.ashbyhq.com/posting-api/job-board"
 
 
 class AshbyScraper(BaseScraper):
     PLATFORM = "ashby"
-    BASE_URL = (
-        f"{ASHBY_BASE}/api/non-auth/v1/job-board"
-        "?organizationHostedJobsPageName={company}"
-    )
 
     async def fetch_jobs(self, company_slug: str) -> list[Job]:
-        url = self.BASE_URL.format(company=company_slug)
+        board_name = quote(company_slug, safe="")
+        url = f"{ASHBY_API_BASE}/{board_name}"
         try:
             async with httpx.AsyncClient(timeout=config.REQUEST_TIMEOUT) as client:
                 response = await client.get(url)
@@ -46,20 +45,26 @@ class AshbyScraper(BaseScraper):
                 continue
 
             location = raw.get("location") or "Remote / Not Specified"
+            secondary_locations = [
+                secondary.get("location")
+                for secondary in raw.get("secondaryLocations", [])
+                if secondary.get("location")
+            ]
+            if secondary_locations:
+                location = " / ".join([location, *secondary_locations])
 
-            # jobUrl may be relative — prefix with Ashby base if needed
             job_url = raw.get("jobUrl", "")
             if job_url and not job_url.startswith("http"):
                 job_url = f"{ASHBY_BASE}{job_url}"
 
             job = Job(
-                id=f"ashby-{company_slug}-{raw['id']}",
+                id=f"ashby-{company_slug}-{raw.get('id') or raw.get('jobUrl')}",
                 title=title,
                 company=company_slug.replace("-", " ").title(),
                 location=location,
                 url=job_url,
                 platform=self.PLATFORM,
-                posted_at=raw.get("publishedDate", "Unknown"),
+                posted_at=raw.get("publishedDate") or raw.get("updatedAt") or "Unknown",
             )
             jobs.append(job)
 

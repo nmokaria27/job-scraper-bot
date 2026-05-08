@@ -32,7 +32,7 @@ from scrapers.hackernews import HackerNewsScraper
 
 # --- Configurable test targets ---
 GREENHOUSE_TEST: list[str] = ["stripe", "anthropic"]
-ASHBY_TEST: list[str] = []       # All current slugs are 404; add verified ones here
+ASHBY_TEST: list[str] = ["openai", "perplexity", "Ashby"]
 LEVER_TEST: list[str] = ["anyscale"]
 
 

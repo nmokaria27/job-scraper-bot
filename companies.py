@@ -3,7 +3,7 @@
 # How to find a company's slug:
 #   - Greenhouse: https://boards.greenhouse.io/<slug>/jobs  → verify at boards-api.greenhouse.io/v1/boards/<slug>/jobs
 #   - Lever:      https://jobs.lever.co/<slug>              → verify at api.lever.co/v0/postings/<slug>?mode=json
-#   - Ashby:      https://jobs.ashbyhq.com/<slug>           → verify at jobs.ashbyhq.com/api/non-auth/v1/job-board?organizationHostedJobsPageName=<slug>
+#   - Ashby:      https://jobs.ashbyhq.com/<slug>           → verify at api.ashbyhq.com/posting-api/job-board/<slug>
 #
 # To disable a company without deleting it, comment out its slug.
 # All slugs in this file were verified as of 2026-05-07.
@@ -73,17 +73,19 @@ COMPANIES: dict[str, list[str]] = {
     ],
 
     # -------------------------------------------------------------------------
-    # Ashby ATS — ALL slugs in our original list returned 404 as of 2026-05-07.
-    # These companies appear to have moved to other ATS platforms.
+    # Ashby ATS — verified Ashby-hosted boards.
     # To add a working company:
     #   1. Visit https://jobs.ashbyhq.com/<slug>
-    #   2. Verify the API: curl -s "https://jobs.ashbyhq.com/api/non-auth/v1/job-board?organizationHostedJobsPageName=<slug>"
+    #   2. Verify the API: curl -s "https://api.ashbyhq.com/posting-api/job-board/<slug>"
     #      should return {"jobs":[...]} not {"error":"Not Found"}
     # -------------------------------------------------------------------------
     "ashby": [
-        # All of these 404 as of 2026-05-07 — add new verified slugs here:
+        "openai",
+        "perplexity",
+        "Ashby",
+
+        # Previously checked slugs:
         # "mistral",              # 404
-        # "perplexity",           # 404
         # "anysphere",            # 404 (Cursor)
         # "cognition",            # 404
         # "imbue",                # 404
