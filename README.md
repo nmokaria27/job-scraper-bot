@@ -71,7 +71,9 @@ Go to your repo → **Settings** → **Secrets and variables** → **Actions** �
 
 | Secret name | Value |
 |---|---|
-| `CHANNELS_JSON` | *(preferred for multiple channels)* JSON from `channels.json.example`, compacted into one line |
+| `SWE_WEBHOOK_URL` | SWE Discord channel webhook URL |
+| `PM_WEBHOOK_URL` | PM Discord channel webhook URL |
+| `CHANNELS_JSON` | *(advanced override)* Custom channel JSON; ignored if `SWE_WEBHOOK_URL` or `PM_WEBHOOK_URL` is set |
 | `DISCORD_WEBHOOK_URL` | Single-channel fallback webhook URL |
 | `KEYWORDS` | *(single-channel only, optional)* Comma-separated keywords |
 | `EXCLUDED_KEYWORDS` | *(single-channel only, optional)* Comma-separated words to exclude from titles |
@@ -123,7 +125,13 @@ COMPANIES = {
 
 ### Configure multiple Discord channels
 
-Use `channels.json` locally or `CHANNELS_JSON` in GitHub Actions. Each channel has its own webhook, keywords, excluded keywords, and optional locations.
+For the built-in SWE and PM channels, set `SWE_WEBHOOK_URL` and
+`PM_WEBHOOK_URL` as GitHub repository secrets. The bot will use the default
+SWE/PM keywords, exclusions, and locations from `config.py`.
+
+Use `channels.json` locally or `CHANNELS_JSON` in GitHub Actions only if you
+need custom channel definitions. Each channel has its own webhook, keywords,
+excluded keywords, and optional locations.
 
 ```json
 [

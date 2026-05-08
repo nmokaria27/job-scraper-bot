@@ -31,7 +31,11 @@ jobs:
 
       - name: Run scraper
         env:
-          # Multi-channel mode (preferred): JSON list, or {"channels": [...]}
+          # Preferred multi-channel mode: set these as repository secrets.
+          SWE_WEBHOOK_URL: ${{ secrets.SWE_WEBHOOK_URL }}
+          PM_WEBHOOK_URL: ${{ secrets.PM_WEBHOOK_URL }}
+          # Advanced multi-channel mode: JSON list, or {"channels": [...]}
+          # Ignored when SWE_WEBHOOK_URL or PM_WEBHOOK_URL is present.
           CHANNELS_JSON: ${{ secrets.CHANNELS_JSON }}
           # Single-channel fallback
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}

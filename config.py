@@ -86,58 +86,125 @@ class ChannelConfig:
 
 DISCORD_WEBHOOK_URL: str = os.getenv("DISCORD_WEBHOOK_URL", "")
 
-KEYWORDS: list[str] = _parse_list(
-    "KEYWORDS",
-    default=[
-        # Internship
-        "intern",
-        "internship",
-        # New grad / entry level
-        "new grad",
-        "new graduate",
-        "entry level",
-        "entry-level",
-        "junior",
-        # Role types
-        "software engineer",
-        "swe",
-        "ml engineer",
-        "ai engineer",
-        "research engineer",
-        "machine learning",
-        "data scientist",
-        "data engineer",
-        "backend engineer",
-        "frontend engineer",
-        "full stack",
-        "fullstack",
-        "platform engineer",
-        "infrastructure engineer",
-        "site reliability",
-        "sre",
-        "devops",
-        "research scientist",
-    ],
-)
+DEFAULT_SWE_KEYWORDS: list[str] = [
+    "intern",
+    "internship",
+    "new grad",
+    "new graduate",
+    "university grad",
+    "early career",
+    "entry level",
+    "software engineer",
+    "swe",
+    "ml engineer",
+    "ai engineer",
+    "research engineer",
+    "machine learning",
+    "data scientist",
+    "data engineer",
+    "backend",
+    "frontend",
+    "full stack",
+    "fullstack",
+    "platform engineer",
+    "computer vision",
+    "nlp",
+]
 
+DEFAULT_PM_KEYWORDS: list[str] = [
+    "product manager",
+    "product management",
+    "tpm",
+    "technical program manager",
+    "apm",
+    "associate product manager",
+    "pm intern",
+    "product intern",
+    "product manager intern",
+    "product analyst",
+    "product operations",
+    "intern",
+    "internship",
+    "new grad",
+    "new graduate",
+    "early career",
+]
+
+DEFAULT_SWE_EXCLUDED_KEYWORDS: list[str] = [
+    "senior",
+    "staff",
+    "lead",
+    "director",
+    "principal",
+    "manager",
+    "mid-level",
+    "mid level",
+    "vp",
+    "head of",
+    "president",
+    "officer",
+    "distinguished",
+    "partner",
+    "ii",
+    "iii",
+    "iv",
+    "v",
+    "experienced",
+]
+
+DEFAULT_PM_EXCLUDED_KEYWORDS: list[str] = [
+    "senior",
+    "staff",
+    "lead",
+    "director",
+    "principal",
+    "manager",
+    "mid-level",
+    "mid level",
+    "vp",
+    "head of",
+    "president",
+    "officer",
+    "distinguished",
+    "ii",
+    "iii",
+    "iv",
+    "v",
+    "experienced",
+]
+
+DEFAULT_LOCATIONS: list[str] = [
+    "us",
+    "usa",
+    "united states",
+    "remote",
+    "san francisco",
+    "bay area",
+    "california",
+    "ca",
+    "new york",
+    "ny",
+    "seattle",
+    "wa",
+    "washington d.c.",
+    "dc",
+    "maryland",
+    "md",
+    "virginia",
+    "va",
+    "austin",
+    "tx",
+    "boston",
+    "ma",
+    "chicago",
+    "il",
+]
+
+KEYWORDS: list[str] = _parse_list("KEYWORDS", default=DEFAULT_SWE_KEYWORDS)
 EXCLUDED_KEYWORDS: list[str] = _parse_list(
     "EXCLUDED_KEYWORDS",
-    default=[
-        "senior",
-        "staff",
-        "lead",
-        "director",
-        "principal",
-        "manager",
-        "vp",
-        "head of",
-        "president",
-        "officer",
-        "distinguished",
-        "partner",
-    ],
+    default=DEFAULT_SWE_EXCLUDED_KEYWORDS,
 )
-
 LOCATIONS: list[str] = _parse_list("LOCATIONS", default=[])
 
 # ---------------------------------------------------------------------------
@@ -191,14 +258,42 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
     """
     Load channel configurations.  Checked in priority order:
 
-    1. CHANNELS_JSON env var   — raw JSON string (ideal for GitHub Actions secrets)
-    2. channels.json file      — local development
-    3. Single-channel fallback — uses DISCORD_WEBHOOK_URL + KEYWORDS/EXCLUDED/LOCATIONS
+    1. SWE_WEBHOOK_URL / PM_WEBHOOK_URL — simple two-channel mode
+    2. CHANNELS_JSON env var            — raw JSON string
+    3. channels.json file               — local development
+    4. Single-channel fallback          — uses DISCORD_WEBHOOK_URL + filters
 
     Each channel gets its own webhook URL, keyword list, and exclusion list so
     the scraper can fan out one scrape run to many Discord channels.
     """
     channels: list[ChannelConfig] = []
+
+    def _load_default_channels_from_env() -> list[ChannelConfig]:
+        default_channels: list[ChannelConfig] = []
+        swe_webhook_url = _normalize_webhook_url(os.getenv("SWE_WEBHOOK_URL", ""))
+        pm_webhook_url = _normalize_webhook_url(os.getenv("PM_WEBHOOK_URL", ""))
+
+        if swe_webhook_url:
+            default_channels.append(
+                ChannelConfig(
+                    name="swe-jobs",
+                    webhook_url=swe_webhook_url,
+                    keywords=DEFAULT_SWE_KEYWORDS,
+                    excluded_keywords=DEFAULT_SWE_EXCLUDED_KEYWORDS,
+                    locations=DEFAULT_LOCATIONS,
+                )
+            )
+        if pm_webhook_url:
+            default_channels.append(
+                ChannelConfig(
+                    name="pm-jobs",
+                    webhook_url=pm_webhook_url,
+                    keywords=DEFAULT_PM_KEYWORDS,
+                    excluded_keywords=DEFAULT_PM_EXCLUDED_KEYWORDS,
+                    locations=DEFAULT_LOCATIONS,
+                )
+            )
+        return default_channels
 
     def _coerce_channels(data: object, source: str) -> list[ChannelConfig]:
         if isinstance(data, dict) and "channels" in data:
@@ -247,9 +342,14 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
 
         return parsed
 
-    # --- 1. CHANNELS_JSON env var ---
+    # --- 1. Simple two-channel env var mode ---
+    channels = _load_default_channels_from_env()
+    if channels:
+        print(f"[INFO] Loaded {len(channels)} channel(s) from SWE_WEBHOOK_URL/PM_WEBHOOK_URL")
+
+    # --- 2. CHANNELS_JSON env var ---
     raw = os.getenv("CHANNELS_JSON", "").strip()
-    if raw:
+    if not channels and raw:
         try:
             data = _load_json_secret(raw, "CHANNELS_JSON env var")
             channels = _coerce_channels(data, "CHANNELS_JSON")
@@ -257,7 +357,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
         except ValueError:
             raise
 
-    # --- 2. channels.json file ---
+    # --- 3. channels.json file ---
     if not channels:
         try:
             with open(CHANNELS_PATH, "r") as f:
@@ -269,7 +369,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
         except json.JSONDecodeError as e:
             raise ValueError(f"{CHANNELS_PATH} is invalid: {e}")
 
-    # --- 3. Fallback: single channel from env vars ---
+    # --- 4. Fallback: single channel from env vars ---
     if not channels:
         if require_webhooks and not DISCORD_WEBHOOK_URL:
             raise ValueError(
