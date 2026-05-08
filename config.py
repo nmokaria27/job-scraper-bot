@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from dataclasses import dataclass, field
 from dotenv import load_dotenv
 
@@ -54,6 +55,15 @@ def _load_json_secret(raw: str, source: str) -> object:
         return json.loads(sanitized)
     except json.JSONDecodeError as e:
         raise ValueError(f"{source} is invalid JSON: {e}") from e
+
+
+def _normalize_channel_name(name: object) -> str:
+    collapsed = re.sub(r"\s+", " ", str(name)).strip()
+    return re.sub(r"\s*-\s*", "-", collapsed)
+
+
+def _normalize_webhook_url(url: object) -> str:
+    return "".join(str(url).split())
 
 
 # ---------------------------------------------------------------------------
@@ -203,8 +213,8 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
             except TypeError as e:
                 raise ValueError(f"{source} channel #{idx} is invalid: {e}") from e
 
-            channel.name = channel.name.strip()
-            channel.webhook_url = channel.webhook_url.strip()
+            channel.name = _normalize_channel_name(channel.name)
+            channel.webhook_url = _normalize_webhook_url(channel.webhook_url)
             if not channel.name:
                 raise ValueError(f"{source} channel #{idx} is missing name")
             if not isinstance(channel.keywords, list):

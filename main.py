@@ -310,16 +310,26 @@ async def main(init_mode: bool = False) -> None:
             print(f"[WARN] Capping at {config.MAX_NOTIFICATIONS_PER_RUN} "
                   f"(found {len(new_for_channel)} new)")
 
-        # Mark ALL new jobs as seen for this channel (even if over cap)
-        for job in new_for_channel:
-            mark_seen_global(seen_data, job.id)
-            mark_seen_channel(seen_data, ch.name, job.id)
-
         # Send Discord notifications
         notified = await discord_notifier.notify_jobs_batch(
             jobs_to_notify, ch.webhook_url
         )
         total_notified += len(notified)
+
+        for job in notified:
+            mark_seen_global(seen_data, job.id)
+            mark_seen_channel(seen_data, ch.name, job.id)
+
+        if len(notified) == len(jobs_to_notify):
+            jobs_to_mark_only = new_for_channel[config.MAX_NOTIFICATIONS_PER_RUN:]
+            for job in jobs_to_mark_only:
+                mark_seen_global(seen_data, job.id)
+                mark_seen_channel(seen_data, ch.name, job.id)
+            if jobs_to_mark_only:
+                print(f"[INFO] Silently marked {len(jobs_to_mark_only)} capped jobs as seen")
+        elif jobs_to_notify:
+            failed = len(jobs_to_notify) - len(notified)
+            print(f"[WARN] {failed} notification(s) failed; unsent jobs were left unmarked")
 
         # Send summary embed
         await discord_notifier.send_summary(
