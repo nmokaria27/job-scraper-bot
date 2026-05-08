@@ -2711,10 +2711,98 @@
     {
       "id": "url:https://boards.greenhouse.io/embed/job_app",
       "seen_at": "2026-05-08T22:40:38.917266+00:00"
+    },
+    {
+      "id": "simplify-95f4579d-56be-417d-87ef-3870c70be3bd",
+      "seen_at": "2026-05-08T23:30:37.989735+00:00"
+    },
+    {
+      "id": "url:https://luminatedata.com/careers",
+      "seen_at": "2026-05-08T23:30:37.989814+00:00"
+    },
+    {
+      "id": "simplify-8831a004-750f-4d63-a02e-93b6a2c05513",
+      "seen_at": "2026-05-08T23:30:37.989874+00:00"
+    },
+    {
+      "id": "url:https://boards.eu.greenhouse.io/nice/jobs/4861093101",
+      "seen_at": "2026-05-08T23:30:37.989925+00:00"
+    },
+    {
+      "id": "simplify-38ac6f61-3236-40e1-97c9-04ce6e735088",
+      "seen_at": "2026-05-08T23:30:37.989978+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application",
+      "seen_at": "2026-05-08T23:30:37.990030+00:00"
+    },
+    {
+      "id": "simplify-25c3bab3-3596-4403-a059-06d699b446d3",
+      "seen_at": "2026-05-08T23:30:37.990084+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/energyhub/jobs/8524848002",
+      "seen_at": "2026-05-08T23:30:37.990136+00:00"
+    },
+    {
+      "id": "simplify-adcaf0de-6a1a-47ff-93d1-89469a49e290",
+      "seen_at": "2026-05-08T23:30:37.990191+00:00"
+    },
+    {
+      "id": "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Intern--Software-Engineering_R-26-17553",
+      "seen_at": "2026-05-08T23:30:37.990242+00:00"
+    },
+    {
+      "id": "simplify-48fa6c97-dc78-4daf-bbfc-cdfe9f307d21",
+      "seen_at": "2026-05-08T23:30:37.990348+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961/application",
+      "seen_at": "2026-05-08T23:30:37.990394+00:00"
+    },
+    {
+      "id": "simplify-34e5f044-5304-4c9e-af40-55a70118657b",
+      "seen_at": "2026-05-08T23:30:37.990446+00:00"
+    },
+    {
+      "id": "url:https://www.mongodb.com/careers/job",
+      "seen_at": "2026-05-08T23:30:37.990485+00:00"
+    },
+    {
+      "id": "simplify-0a242b5a-dc37-4797-8809-085298375cce",
+      "seen_at": "2026-05-08T23:30:37.990527+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/snowflake/4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5/application",
+      "seen_at": "2026-05-08T23:30:37.990565+00:00"
+    },
+    {
+      "id": "simplify-d5f7661a-ee59-46f6-a9f2-5dcab7e06996",
+      "seen_at": "2026-05-08T23:30:37.990606+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/cmt/jobs/7909318",
+      "seen_at": "2026-05-08T23:30:37.990644+00:00"
+    },
+    {
+      "id": "simplify-ac6ca7bc-6e7c-4a6a-9bc1-fbe496d7f0a6",
+      "seen_at": "2026-05-08T23:30:37.990685+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/spacex/jobs/8541336002",
+      "seen_at": "2026-05-08T23:30:37.990723+00:00"
+    },
+    {
+      "id": "simplify-8bb432fa-21f1-4d2a-a11c-46955f58d383",
+      "seen_at": "2026-05-08T23:30:39.042794+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/eulerity/jobs/4680400006",
+      "seen_at": "2026-05-08T23:30:39.042864+00:00"
     }
   ],
-  "last_run": "2026-05-08T23:00:39.576607+00:00",
-  "total_notified": 43,
+  "last_run": "2026-05-08T23:30:39.259610+00:00",
+  "total_notified": 54,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -3393,7 +3481,27 @@
       "simplify-bedebebe-c668-4818-85df-e1d4e2329938",
       "url:https://careers-cotiviti.icims.com/jobs/18971/job",
       "simplify-7b73b851-387c-4570-9383-e19114557731",
-      "url:https://boards.greenhouse.io/embed/job_app"
+      "url:https://boards.greenhouse.io/embed/job_app",
+      "simplify-95f4579d-56be-417d-87ef-3870c70be3bd",
+      "url:https://luminatedata.com/careers",
+      "simplify-8831a004-750f-4d63-a02e-93b6a2c05513",
+      "url:https://boards.eu.greenhouse.io/nice/jobs/4861093101",
+      "simplify-38ac6f61-3236-40e1-97c9-04ce6e735088",
+      "url:https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application",
+      "simplify-25c3bab3-3596-4403-a059-06d699b446d3",
+      "url:https://job-boards.greenhouse.io/energyhub/jobs/8524848002",
+      "simplify-adcaf0de-6a1a-47ff-93d1-89469a49e290",
+      "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Intern--Software-Engineering_R-26-17553",
+      "simplify-48fa6c97-dc78-4daf-bbfc-cdfe9f307d21",
+      "url:https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961/application",
+      "simplify-34e5f044-5304-4c9e-af40-55a70118657b",
+      "url:https://www.mongodb.com/careers/job",
+      "simplify-0a242b5a-dc37-4797-8809-085298375cce",
+      "url:https://jobs.ashbyhq.com/snowflake/4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5/application",
+      "simplify-d5f7661a-ee59-46f6-a9f2-5dcab7e06996",
+      "url:https://job-boards.greenhouse.io/cmt/jobs/7909318",
+      "simplify-ac6ca7bc-6e7c-4a6a-9bc1-fbe496d7f0a6",
+      "url:https://boards.greenhouse.io/spacex/jobs/8541336002"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -3801,7 +3909,9 @@
       "greenhouse-vercel-5798416004",
       "greenhouse-lyft-8514380002",
       "greenhouse-lyft-8492315002",
-      "simplify-809f9736-120e-4add-9258-e91d240c6288"
+      "simplify-809f9736-120e-4add-9258-e91d240c6288",
+      "simplify-8bb432fa-21f1-4d2a-a11c-46955f58d383",
+      "url:https://job-boards.greenhouse.io/eulerity/jobs/4680400006"
     ]
   }
 }
