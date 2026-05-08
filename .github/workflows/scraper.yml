@@ -8,6 +8,10 @@ on:
     - cron: '7,22,37,52 * * * *'   # Every 15 minutes at off-peak minutes
   workflow_dispatch:           # Allow manual trigger from the GitHub Actions UI
 
+concurrency:
+  group: job-scraper-main
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -35,7 +39,7 @@ jobs:
           SWE_WEBHOOK_URL: ${{ secrets.SWE_WEBHOOK_URL }}
           PM_WEBHOOK_URL: ${{ secrets.PM_WEBHOOK_URL }}
           # Advanced multi-channel mode: JSON list, or {"channels": [...]}
-          # Ignored when SWE_WEBHOOK_URL or PM_WEBHOOK_URL is present.
+          # Can add extra channels or override built-in channel names.
           CHANNELS_JSON: ${{ secrets.CHANNELS_JSON }}
           # Single-channel fallback
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
@@ -58,5 +62,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add seen_jobs.json
-          git diff --staged --quiet || git commit -m "chore: update seen_jobs [skip ci]"
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: update seen_jobs [skip ci]"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main

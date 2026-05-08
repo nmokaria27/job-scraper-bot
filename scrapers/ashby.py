@@ -7,6 +7,7 @@ import config
 
 ASHBY_BASE = "https://jobs.ashbyhq.com"
 ASHBY_API_BASE = "https://api.ashbyhq.com/posting-api/job-board"
+RETRYABLE_STATUS_CODES = {408, 425, 429, 500, 502, 503, 504}
 
 
 class AshbyScraper(BaseScraper):
@@ -15,25 +16,62 @@ class AshbyScraper(BaseScraper):
     async def fetch_jobs(self, company_slug: str) -> list[Job]:
         board_name = quote(company_slug, safe="")
         url = f"{ASHBY_API_BASE}/{board_name}"
-        try:
-            async with httpx.AsyncClient(timeout=config.REQUEST_TIMEOUT) as client:
-                response = await client.get(url)
+        data: dict | None = None
+        max_attempts = max(1, config.REQUEST_RETRY_ATTEMPTS + 1)
 
-                if response.status_code == 404:
-                    print(f"[WARN] ashby/{company_slug}: company not found on Ashby (404)")
+        async with httpx.AsyncClient(
+            timeout=config.REQUEST_TIMEOUT,
+            follow_redirects=True,
+            headers={"User-Agent": "job-scraper-bot/1.0"},
+        ) as client:
+            for attempt in range(1, max_attempts + 1):
+                try:
+                    response = await client.get(url)
+
+                    if response.status_code == 404:
+                        print(f"[WARN] ashby/{company_slug}: company not found on Ashby (404)")
+                        return []
+
+                    if (
+                        response.status_code in RETRYABLE_STATUS_CODES
+                        and attempt < max_attempts
+                    ):
+                        print(
+                            f"[WARN] ashby/{company_slug}: HTTP {response.status_code} "
+                            f"on attempt {attempt}/{max_attempts}; retrying"
+                        )
+                        await asyncio.sleep(attempt)
+                        continue
+
+                    response.raise_for_status()
+                    data = response.json()
+                    break
+
+                except httpx.HTTPStatusError as e:
+                    print(
+                        f"[ERROR] ashby/{company_slug}: HTTP error "
+                        f"{e.response.status_code} — {e}"
+                    )
+                    return []
+                except httpx.RequestError as e:
+                    if attempt < max_attempts:
+                        print(
+                            f"[WARN] ashby/{company_slug}: "
+                            f"{type(e).__name__} on attempt {attempt}/{max_attempts}; retrying"
+                        )
+                        await asyncio.sleep(attempt)
+                        continue
+                    print(
+                        f"[ERROR] ashby/{company_slug}: connection error "
+                        f"({type(e).__name__}) — {e!r}"
+                    )
+                    return []
+                except json.JSONDecodeError as e:
+                    print(f"[ERROR] ashby/{company_slug}: failed to parse JSON — {e}")
                     return []
 
-                response.raise_for_status()
-                data = response.json()
-
-        except httpx.HTTPStatusError as e:
-            print(f"[ERROR] ashby/{company_slug}: HTTP error {e.response.status_code} — {e}")
-            return []
-        except httpx.RequestError as e:
-            print(f"[ERROR] ashby/{company_slug}: connection error — {e}")
-            return []
-        except json.JSONDecodeError as e:
-            print(f"[ERROR] ashby/{company_slug}: failed to parse JSON — {e}")
+        if data is None:
+            print(f"[ERROR] ashby/{company_slug}: no response data received after retries")
             return []
 
         jobs: list[Job] = []

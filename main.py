@@ -10,8 +10,10 @@ Usage:
 
 import asyncio
 import json
+import re
 import sys
 from datetime import datetime, timedelta, timezone
+from urllib.parse import urlsplit, urlunsplit
 
 import config
 from config import ChannelConfig, load_channels
@@ -206,6 +208,99 @@ def filter_recent_jobs(jobs: list[Job]) -> list[Job]:
     return recent
 
 
+PLATFORM_DEDUPE_PRIORITY: dict[str, int] = {
+    "greenhouse": 4,
+    "lever": 4,
+    "ashby": 4,
+    "simplify": 3,
+    "hackernews": 1,
+}
+
+
+def _normalize_text(value: str) -> str:
+    return re.sub(r"\s+", " ", (value or "")).strip().casefold()
+
+
+def _normalize_job_url(url: str) -> str:
+    raw_url = (url or "").strip()
+    if not raw_url:
+        return ""
+
+    parsed = urlsplit(raw_url)
+    scheme = (parsed.scheme or "https").lower()
+    netloc = parsed.netloc.casefold()
+    path = parsed.path.rstrip("/")
+    return urlunsplit((scheme, netloc, path, "", ""))
+
+
+def get_job_seen_key(job: Job) -> str:
+    normalized_url = _normalize_job_url(job.url)
+    if normalized_url:
+        return f"url:{normalized_url}"
+
+    return "fallback:" + "|".join(
+        [
+            _normalize_text(job.company),
+            _normalize_text(job.title),
+            _normalize_text(job.location),
+        ]
+    )
+
+
+def get_job_seen_keys(job: Job) -> list[str]:
+    keys = [job.id, get_job_seen_key(job)]
+    unique_keys: list[str] = []
+    for key in keys:
+        if key and key not in unique_keys:
+            unique_keys.append(key)
+    return unique_keys
+
+
+def _job_dedupe_rank(job: Job) -> tuple[int, bool, datetime, int, int]:
+    posted_at = _parse_dt(job.posted_at)
+    return (
+        PLATFORM_DEDUPE_PRIORITY.get(job.platform, 0),
+        posted_at != datetime.min.replace(tzinfo=timezone.utc),
+        posted_at,
+        len(job.url or ""),
+        len(job.location or ""),
+    )
+
+
+def dedupe_jobs_for_channel(channel_name: str, jobs: list[Job]) -> list[Job]:
+    deduped_by_key: dict[str, Job] = {}
+    duplicates_removed = 0
+
+    for job in jobs:
+        seen_key = get_job_seen_key(job)
+        existing = deduped_by_key.get(seen_key)
+        if existing is None:
+            deduped_by_key[seen_key] = job
+            continue
+
+        duplicates_removed += 1
+        if _job_dedupe_rank(job) > _job_dedupe_rank(existing):
+            deduped_by_key[seen_key] = job
+
+    if duplicates_removed:
+        print(
+            f"[INFO] Canonical dedupe removed {duplicates_removed} overlapping "
+            f"match(es) for '{channel_name}'"
+        )
+
+    return list(deduped_by_key.values())
+
+
+def job_was_seen(seen_ids: set[str], job: Job) -> bool:
+    return any(key in seen_ids for key in get_job_seen_keys(job))
+
+
+def mark_job_seen(data: dict, channel_name: str, job: Job) -> None:
+    for key in get_job_seen_keys(job):
+        mark_seen_global(data, key)
+        mark_seen_channel(data, channel_name, key)
+
+
 # ---------------------------------------------------------------------------
 # Core scraping logic (raw — no filtering)
 # ---------------------------------------------------------------------------
@@ -293,13 +388,12 @@ async def main(init_mode: bool = False) -> None:
         global_seen = get_seen_ids(seen_data)
 
         for ch in channels:
-            matching = filter_for_channel(all_jobs, ch)
+            matching = dedupe_jobs_for_channel(ch.name, filter_for_channel(all_jobs, ch))
             for job in matching:
-                mark_seen_global(seen_data, job.id)
-                mark_seen_channel(seen_data, ch.name, job.id)
-                if job.id not in global_seen:
+                if not job_was_seen(global_seen, job):
                     seeded += 1
-                    global_seen.add(job.id)
+                mark_job_seen(seen_data, ch.name, job)
+                global_seen.update(get_job_seen_keys(job))
 
         seen_data["last_run"] = _now_iso()
         try:
@@ -321,11 +415,11 @@ async def main(init_mode: bool = False) -> None:
         print(f"{'='*60}")
 
         # Filter jobs for this channel's keywords/exclusions/locations
-        matching = filter_for_channel(all_jobs, ch)
+        matching = dedupe_jobs_for_channel(ch.name, filter_for_channel(all_jobs, ch))
         ch_seen_ids = get_channel_seen_ids(seen_data, ch.name)
 
         # Find jobs not yet sent to THIS channel
-        new_for_channel = [job for job in matching if job.id not in ch_seen_ids]
+        new_for_channel = [job for job in matching if not job_was_seen(ch_seen_ids, job)]
 
         print(f"[INFO] Matching: {len(matching)} | New for channel: {len(new_for_channel)}")
 
@@ -355,14 +449,12 @@ async def main(init_mode: bool = False) -> None:
         total_notified += len(notified)
 
         for job in notified:
-            mark_seen_global(seen_data, job.id)
-            mark_seen_channel(seen_data, ch.name, job.id)
+            mark_job_seen(seen_data, ch.name, job)
 
         if len(notified) == len(jobs_to_notify):
             jobs_to_mark_only = new_for_channel[config.MAX_NOTIFICATIONS_PER_RUN:]
             for job in jobs_to_mark_only:
-                mark_seen_global(seen_data, job.id)
-                mark_seen_channel(seen_data, ch.name, job.id)
+                mark_job_seen(seen_data, ch.name, job)
             if jobs_to_mark_only:
                 print(f"[INFO] Silently marked {len(jobs_to_mark_only)} capped jobs as seen")
         elif jobs_to_notify:

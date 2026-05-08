@@ -73,7 +73,7 @@ Go to your repo → **Settings** → **Secrets and variables** → **Actions** �
 |---|---|
 | `SWE_WEBHOOK_URL` | SWE Discord channel webhook URL |
 | `PM_WEBHOOK_URL` | PM Discord channel webhook URL |
-| `CHANNELS_JSON` | *(advanced override)* Custom channel JSON; ignored if `SWE_WEBHOOK_URL` or `PM_WEBHOOK_URL` is set |
+| `CHANNELS_JSON` | *(advanced override/add-on)* Custom channel JSON; can add new channels or override built-in channel names |
 | `DISCORD_WEBHOOK_URL` | Single-channel fallback webhook URL |
 | `KEYWORDS` | *(single-channel only, optional)* Comma-separated keywords |
 | `EXCLUDED_KEYWORDS` | *(single-channel only, optional)* Comma-separated words to exclude from titles |
@@ -130,9 +130,11 @@ For the built-in SWE and PM channels, set `SWE_WEBHOOK_URL` and
 `PM_WEBHOOK_URL` as GitHub repository secrets. The bot will use the default
 SWE/PM keywords, exclusions, and locations from `config.py`.
 
-Use `channels.json` locally or `CHANNELS_JSON` in GitHub Actions only if you
-need custom channel definitions. Each channel has its own webhook, keywords,
-excluded keywords, and optional locations.
+Use `channels.json` locally or `CHANNELS_JSON` in GitHub Actions when you need
+custom channel definitions. `CHANNELS_JSON` can now add extra channels while
+keeping the built-in SWE/PM channels, or override a built-in channel by
+reusing the same `name`. Each channel has its own webhook, keywords, excluded
+keywords, and optional locations.
 
 ```json
 [
@@ -142,6 +144,13 @@ excluded keywords, and optional locations.
     "keywords": ["intern", "new grad", "software engineer"],
     "excluded_keywords": ["senior", "staff", "manager"],
     "locations": []
+  },
+  {
+    "name": "swe-full-time-ai-ml-jobs",
+    "webhook_url": "https://discord.com/api/webhooks/...",
+    "keywords": ["software engineer", "engineer", "ml engineer", "ai engineer", "llm"],
+    "excluded_keywords": ["intern", "internship", "new grad", "senior", "staff", "manager"],
+    "locations": ["remote", "new york", "seattle", "san francisco"]
   }
 ]
 ```
@@ -155,9 +164,17 @@ matches like `HR Intern`. Excluded terms still block titles, except when the
 excluded word appears only inside a positive phrase, such as `manager` inside
 `product manager`.
 
+SWE defaults now include broader role nouns such as `engineer`,
+`engineering`, `developer`, `software development`, `programmer`, `sde`,
+`llm`, and `agentic`, which lets titles such as `Engineering Intern` or
+`Software Development Intern` pass the early-career intersection filter.
+
 Location filters keep jobs with blank location fields, since many remote roles
 do not populate structured location data. Short filters like `US`, `CA`, or
-`NY` are matched as standalone tokens to avoid matching unrelated words.
+`NY` are matched as standalone tokens to avoid matching unrelated words. The
+default location list also includes full state names and common tech-hub city
+names such as `texas`, `massachusetts`, `bellevue`, `palo alto`, and
+`mountain view`.
 
 Normal runs only notify jobs whose `posted_at` timestamp is within
 `RECENT_POSTING_MAX_AGE_HOURS` hours. Greenhouse exposes `updated_at`, not a
@@ -208,8 +225,8 @@ Go to **Actions** tab → **Job Scraper** → **Run workflow** button.
 
 ## Troubleshooting
 
-**Workflow fails with permission error on `git push`**
-→ Check that **Read and write permissions** is enabled under Settings → Actions → General → Workflow permissions.
+**Workflow fails on `git push`**
+→ Check that **Read and write permissions** is enabled under Settings → Actions → General → Workflow permissions. The workflow now fetches and rebases before pushing `seen_jobs.json`, and runs under a single concurrency group to avoid duplicate notifications when multiple runs land close together.
 
 **No notifications arriving**
 → Run `python test_run.py` locally to verify scrapers return jobs. Check that your `DISCORD_WEBHOOK_URL` secret is set correctly.
