@@ -2679,10 +2679,42 @@
     {
       "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971",
       "seen_at": "2026-05-08T16:11:02.242457+00:00"
+    },
+    {
+      "id": "simplify-a318ad18-59e7-49d1-b285-0792165f55c6",
+      "seen_at": "2026-05-08T22:40:38.916867+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002",
+      "seen_at": "2026-05-08T22:40:38.916944+00:00"
+    },
+    {
+      "id": "simplify-6528014c-d166-4a7a-b3dd-912daae5921d",
+      "seen_at": "2026-05-08T22:40:38.917000+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310/application",
+      "seen_at": "2026-05-08T22:40:38.917050+00:00"
+    },
+    {
+      "id": "simplify-bedebebe-c668-4818-85df-e1d4e2329938",
+      "seen_at": "2026-05-08T22:40:38.917132+00:00"
+    },
+    {
+      "id": "url:https://careers-cotiviti.icims.com/jobs/18971/job",
+      "seen_at": "2026-05-08T22:40:38.917177+00:00"
+    },
+    {
+      "id": "simplify-7b73b851-387c-4570-9383-e19114557731",
+      "seen_at": "2026-05-08T22:40:38.917222+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/embed/job_app",
+      "seen_at": "2026-05-08T22:40:38.917266+00:00"
     }
   ],
-  "last_run": "2026-05-08T22:30:34.213875+00:00",
-  "total_notified": 39,
+  "last_run": "2026-05-08T22:40:39.577349+00:00",
+  "total_notified": 43,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -3353,7 +3385,15 @@
       "simplify-554a1d55-b2ed-4ef9-af44-40bf835c74dd",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2017593",
       "simplify-bfcd7fcc-bedf-4dac-8ae3-4fdfaf21ffa2",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971",
+      "simplify-a318ad18-59e7-49d1-b285-0792165f55c6",
+      "url:https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002",
+      "simplify-6528014c-d166-4a7a-b3dd-912daae5921d",
+      "url:https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310/application",
+      "simplify-bedebebe-c668-4818-85df-e1d4e2329938",
+      "url:https://careers-cotiviti.icims.com/jobs/18971/job",
+      "simplify-7b73b851-387c-4570-9383-e19114557731",
+      "url:https://boards.greenhouse.io/embed/job_app"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
