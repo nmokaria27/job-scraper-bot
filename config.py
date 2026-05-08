@@ -102,6 +102,12 @@ DEFAULT_SWE_KEYWORDS: list[str] = [
     "university grad",
     "early career",
     "entry level",
+    "engineer",
+    "engineering",
+    "developer",
+    "software development",
+    "programmer",
+    "sde",
     "software engineer",
     "swe",
     "ml engineer",
@@ -117,6 +123,8 @@ DEFAULT_SWE_KEYWORDS: list[str] = [
     "platform engineer",
     "computer vision",
     "nlp",
+    "llm",
+    "agentic",
 ]
 
 DEFAULT_PM_KEYWORDS: list[str] = [
@@ -145,6 +153,7 @@ DEFAULT_SWE_EXCLUDED_KEYWORDS: list[str] = [
     "director",
     "principal",
     "manager",
+    "mid",
     "mid-level",
     "mid level",
     "vp",
@@ -157,6 +166,20 @@ DEFAULT_SWE_EXCLUDED_KEYWORDS: list[str] = [
     "iii",
     "iv",
     "v",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "l2",
+    "l3",
+    "l4",
+    "l5",
+    "l6",
+    "e3",
+    "e4",
+    "e5",
+    "e6",
     "experienced",
 ]
 
@@ -167,6 +190,7 @@ DEFAULT_PM_EXCLUDED_KEYWORDS: list[str] = [
     "director",
     "principal",
     "manager",
+    "mid",
     "mid-level",
     "mid level",
     "vp",
@@ -178,6 +202,20 @@ DEFAULT_PM_EXCLUDED_KEYWORDS: list[str] = [
     "iii",
     "iv",
     "v",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "l2",
+    "l3",
+    "l4",
+    "l5",
+    "l6",
+    "e3",
+    "e4",
+    "e5",
+    "e6",
     "experienced",
 ]
 
@@ -192,8 +230,13 @@ DEFAULT_LOCATIONS: list[str] = [
     "ca",
     "new york",
     "ny",
+    "nyc",
+    "brooklyn",
     "seattle",
     "wa",
+    "washington",
+    "bellevue",
+    "redmond",
     "washington d.c.",
     "dc",
     "maryland",
@@ -202,10 +245,19 @@ DEFAULT_LOCATIONS: list[str] = [
     "va",
     "austin",
     "tx",
+    "texas",
     "boston",
     "ma",
+    "massachusetts",
     "chicago",
     "il",
+    "illinois",
+    "palo alto",
+    "mountain view",
+    "menlo park",
+    "sunnyvale",
+    "santa clara",
+    "san jose",
 ]
 
 KEYWORDS: list[str] = _parse_list("KEYWORDS", default=DEFAULT_SWE_KEYWORDS)
@@ -222,6 +274,7 @@ LOCATIONS: list[str] = _parse_list("LOCATIONS", default=[])
 MAX_NOTIFICATIONS_PER_RUN: int = _parse_int("MAX_NOTIFICATIONS_PER_RUN", 25)
 SLEEP_BETWEEN_COMPANIES: float = _parse_float("SLEEP_BETWEEN_COMPANIES", 1.5)
 REQUEST_TIMEOUT: int = _parse_int("REQUEST_TIMEOUT", 10)
+REQUEST_RETRY_ATTEMPTS: int = _parse_int("REQUEST_RETRY_ATTEMPTS", 2)
 RECENT_POSTING_MAX_AGE_HOURS: int = _parse_int("RECENT_POSTING_MAX_AGE_HOURS", 24)
 ATS_CONCURRENCY: int = _parse_int("ATS_CONCURRENCY", 5)
 SEND_NO_NEW_SUMMARY: bool = _parse_bool("SEND_NO_NEW_SUMMARY", False)
@@ -351,6 +404,35 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
 
         return parsed
 
+    def _merge_channels(
+        base: list[ChannelConfig],
+        extra: list[ChannelConfig],
+        source: str,
+    ) -> list[ChannelConfig]:
+        if not extra:
+            return base
+
+        merged_by_name = {channel.name: channel for channel in base}
+        merged_order = [channel.name for channel in base]
+        overridden: list[str] = []
+        added: list[str] = []
+
+        for channel in extra:
+            if channel.name in merged_by_name:
+                overridden.append(channel.name)
+            else:
+                added.append(channel.name)
+                merged_order.append(channel.name)
+            merged_by_name[channel.name] = channel
+
+        print(f"[INFO] Loaded {len(extra)} channel(s) from {source}")
+        if overridden:
+            print(f"[INFO] {source} overrides channel(s): {overridden}")
+        if added:
+            print(f"[INFO] {source} adds channel(s): {added}")
+
+        return [merged_by_name[name] for name in merged_order]
+
     # --- 1. Simple two-channel env var mode ---
     channels = _load_default_channels_from_env()
     if channels:
@@ -358,11 +440,11 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
 
     # --- 2. CHANNELS_JSON env var ---
     raw = os.getenv("CHANNELS_JSON", "").strip()
-    if not channels and raw:
+    if raw:
         try:
             data = _load_json_secret(raw, "CHANNELS_JSON env var")
-            channels = _coerce_channels(data, "CHANNELS_JSON")
-            print(f"[INFO] Loaded {len(channels)} channel(s) from CHANNELS_JSON env var")
+            parsed_channels = _coerce_channels(data, "CHANNELS_JSON")
+            channels = _merge_channels(channels, parsed_channels, "CHANNELS_JSON env var")
         except ValueError:
             raise
 
