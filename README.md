@@ -1,10 +1,10 @@
 # Job Scraper Discord Bot
 
-Scrapes job postings from Greenhouse, Lever, Ashby, SimplifyJobs, and Hacker News every 30 minutes and sends rich Discord notifications for new matches. Supports one Discord channel or multiple channels with separate keyword/location filters. Runs entirely on GitHub Actions — no server, no database, no cost.
+Scrapes job postings from Greenhouse, Lever, Ashby, SimplifyJobs, and Hacker News every 15 minutes (off-peak schedule) and sends rich Discord notifications for new matches. Supports one Discord channel or multiple channels with separate keyword/location filters. Runs entirely on GitHub Actions — no server, no database, no cost.
 
 ## How it works
 
-1. GitHub Actions triggers `main.py` on a cron every 30 minutes
+1. GitHub Actions triggers `main.py` on a cron every 15 minutes (off-peak minutes)
 2. The scraper checks every configured source in `companies.py`
 3. Jobs are filtered for each configured Discord channel
 4. New job IDs are compared against `seen_jobs.json` per channel — duplicates are skipped
@@ -17,7 +17,7 @@ Scrapes job postings from Greenhouse, Lever, Ashby, SimplifyJobs, and Hacker New
 
 ### 1. Fork or clone this repo to a new **public** GitHub repository
 
-> **Why public?** GitHub Actions gives unlimited free minutes for public repos, but only 500 min/month for private. At 30-min intervals, a private repo would exhaust that in ~2 weeks.
+> **Why public?** GitHub Actions gives unlimited free minutes for public repos, but only 500 min/month for private. At 15-min intervals, a private repo can exhaust that quickly (often around ~1 week, depending on workflow runtime).
 
 ```bash
 git clone <your-repo-url>
