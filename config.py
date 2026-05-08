@@ -6,6 +6,22 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
+def _parse_int(env_var: str, default: int) -> int:
+    """Parse an int env var, treating missing/blank as default."""
+    raw = os.getenv(env_var, "").strip()
+    if not raw:
+        return default
+    return int(raw)
+
+
+def _parse_float(env_var: str, default: float) -> float:
+    """Parse a float env var, treating missing/blank as default."""
+    raw = os.getenv(env_var, "").strip()
+    if not raw:
+        return default
+    return float(raw)
+
+
 def _parse_list(env_var: str, default: list[str]) -> list[str]:
     """Split a comma-separated env var into a stripped list, or use default."""
     raw = os.getenv(env_var, "").strip()
@@ -92,16 +108,16 @@ LOCATIONS: list[str] = _parse_list("LOCATIONS", default=[])
 # Rate limiting / run behaviour
 # ---------------------------------------------------------------------------
 
-MAX_NOTIFICATIONS_PER_RUN: int = int(os.getenv("MAX_NOTIFICATIONS_PER_RUN", "25"))
-SLEEP_BETWEEN_COMPANIES: float = float(os.getenv("SLEEP_BETWEEN_COMPANIES", "1.5"))
-REQUEST_TIMEOUT: int = int(os.getenv("REQUEST_TIMEOUT", "10"))
+MAX_NOTIFICATIONS_PER_RUN: int = _parse_int("MAX_NOTIFICATIONS_PER_RUN", 25)
+SLEEP_BETWEEN_COMPANIES: float = _parse_float("SLEEP_BETWEEN_COMPANIES", 1.5)
+REQUEST_TIMEOUT: int = _parse_int("REQUEST_TIMEOUT", 10)
 
 # ---------------------------------------------------------------------------
 # Persistence
 # ---------------------------------------------------------------------------
 
 SEEN_JOBS_PATH: str = os.getenv("SEEN_JOBS_PATH", "seen_jobs.json")
-SEEN_JOBS_MAX_AGE_DAYS: int = int(os.getenv("SEEN_JOBS_MAX_AGE_DAYS", "30"))
+SEEN_JOBS_MAX_AGE_DAYS: int = _parse_int("SEEN_JOBS_MAX_AGE_DAYS", 30)
 
 # ---------------------------------------------------------------------------
 # SimplifyJobs scraper
@@ -119,8 +135,8 @@ SIMPLIFY_URLS: list[str] = _parse_list(
 # HackerNews scraper
 # ---------------------------------------------------------------------------
 
-HN_MAX_COMMENTS: int = int(os.getenv("HN_MAX_COMMENTS", "500"))
-HN_SEMAPHORE_LIMIT: int = int(os.getenv("HN_SEMAPHORE_LIMIT", "10"))
+HN_MAX_COMMENTS: int = _parse_int("HN_MAX_COMMENTS", 500)
+HN_SEMAPHORE_LIMIT: int = _parse_int("HN_SEMAPHORE_LIMIT", 10)
 
 # ---------------------------------------------------------------------------
 # Channel file path
