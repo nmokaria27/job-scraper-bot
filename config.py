@@ -6,6 +6,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
+def _strip_control_chars(raw: str) -> str:
+    """Remove raw ASCII control characters that can break JSON secrets."""
+    return "".join(ch for ch in raw if ch >= " " or ch in "\n\r\t")
+
+
 def _parse_int(env_var: str, default: int) -> int:
     """Parse an int env var, treating missing/blank as default."""
     raw = os.getenv(env_var, "").strip()
@@ -28,6 +33,27 @@ def _parse_list(env_var: str, default: list[str]) -> list[str]:
     if not raw:
         return default
     return [item.strip() for item in raw.split(",") if item.strip()]
+
+
+def _load_json_secret(raw: str, source: str) -> object:
+    """
+    Parse JSON from a secret value.
+
+    GitHub secrets sometimes end up with pasted control characters inside long
+    string values. If strict parsing fails for that reason, retry after
+    stripping raw control characters.
+    """
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError as e:
+        if "Invalid control character" not in str(e):
+            raise ValueError(f"{source} is invalid JSON: {e}") from e
+
+    sanitized = _strip_control_chars(raw).replace("\r", "").replace("\n", "").replace("\t", "")
+    try:
+        return json.loads(sanitized)
+    except json.JSONDecodeError as e:
+        raise ValueError(f"{source} is invalid JSON: {e}") from e
 
 
 # ---------------------------------------------------------------------------
@@ -213,11 +239,11 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
     raw = os.getenv("CHANNELS_JSON", "").strip()
     if raw:
         try:
-            data = json.loads(raw)
+            data = _load_json_secret(raw, "CHANNELS_JSON env var")
             channels = _coerce_channels(data, "CHANNELS_JSON")
             print(f"[INFO] Loaded {len(channels)} channel(s) from CHANNELS_JSON env var")
-        except json.JSONDecodeError as e:
-            raise ValueError(f"CHANNELS_JSON env var is invalid JSON: {e}")
+        except ValueError:
+            raise
 
     # --- 2. channels.json file ---
     if not channels:
