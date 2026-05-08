@@ -185,13 +185,19 @@ def filter_for_channel(jobs: list[Job], channel: ChannelConfig) -> list[Job]:
 
 
 def filter_recent_jobs(jobs: list[Job]) -> list[Job]:
-    """Keep only jobs whose posting timestamp is within the configured window."""
+    """Keep only jobs whose posting timestamp is within the configured window.
+    Jobs with unknown/unparseable timestamps are kept (benefit of the doubt)."""
     max_age_hours = config.RECENT_POSTING_MAX_AGE_HOURS
     if max_age_hours <= 0:
         return jobs
 
     cutoff = datetime.now(tz=timezone.utc) - timedelta(hours=max_age_hours)
-    recent = [job for job in jobs if _parse_dt(job.posted_at) >= cutoff]
+    # datetime.min means unparseable — keep those jobs rather than silently dropping them
+    min_dt = datetime.min.replace(tzinfo=timezone.utc)
+    recent = [
+        job for job in jobs
+        if _parse_dt(job.posted_at) == min_dt or _parse_dt(job.posted_at) >= cutoff
+    ]
     skipped = len(jobs) - len(recent)
     print(
         f"[INFO] Recent posting filter: kept {len(recent)} of {len(jobs)} "
@@ -325,6 +331,13 @@ async def main(init_mode: bool = False) -> None:
 
         if not new_for_channel:
             print(f"[INFO] No new jobs for '{ch.name}'. Skipping.")
+            await discord_notifier.send_summary(
+                new_count=0,
+                total_checked=total_checked,
+                webhook_url=ch.webhook_url,
+                channel_name=ch.name,
+                force=config.SEND_NO_NEW_SUMMARY,
+            )
             continue
 
         # Apply per-run notification cap
@@ -363,6 +376,7 @@ async def main(init_mode: bool = False) -> None:
             capped=capped,
             webhook_url=ch.webhook_url,
             channel_name=ch.name,
+            force=config.SEND_NO_NEW_SUMMARY,
         )
 
         print(f"[INFO] Notified {len(notified)} jobs to '{ch.name}'")

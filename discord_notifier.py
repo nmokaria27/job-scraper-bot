@@ -132,12 +132,13 @@ async def send_summary(
     capped: bool = False,
     webhook_url: str | None = None,
     channel_name: str = "",
+    force: bool = False,
 ) -> None:
     """
     Send a summary embed at the end of a run.
-    Only sends if new_count > 0.
+    Only sends if new_count > 0 unless force=True.
     """
-    if new_count == 0:
+    if new_count == 0 and not force:
         return
 
     import config  # local import to avoid circular dependency at module level
@@ -147,6 +148,11 @@ async def send_summary(
         "Additional matches were marked as seen and will not re-notify."
         if capped
         else ""
+    )
+    description = (
+        "No new matching jobs were found in this run."
+        if new_count == 0
+        else cap_note or "All new matches have been sent above."
     )
 
     title = (
@@ -172,7 +178,7 @@ async def send_summary(
                         "inline": True,
                     },
                 ],
-                "description": cap_note or "All new matches have been sent above.",
+                "description": description,
                 "footer": {"text": "Job Scraper Bot"},
                 "timestamp": datetime.now(tz=timezone.utc).isoformat(),
             }

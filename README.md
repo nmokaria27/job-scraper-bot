@@ -86,6 +86,7 @@ Optional non-secret repository variables can be set under **Settings** → **Sec
 |---|---|
 | `RECENT_POSTING_MAX_AGE_HOURS` | Default: `24`; only notify postings with recent timestamps |
 | `ATS_CONCURRENCY` | Default: `5`; number of company job boards fetched concurrently |
+| `SEND_NO_NEW_SUMMARY` | Default: `false`; set to `true` to send a summary when no new jobs are found |
 
 ### 7. Enable Actions write permissions
 

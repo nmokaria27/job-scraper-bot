@@ -28,6 +28,14 @@ def _parse_float(env_var: str, default: float) -> float:
     return float(raw)
 
 
+def _parse_bool(env_var: str, default: bool) -> bool:
+    """Parse a boolean env var, treating missing/blank as default."""
+    raw = os.getenv(env_var, "").strip().lower()
+    if not raw:
+        return default
+    return raw in {"1", "true", "yes", "y", "on"}
+
+
 def _parse_list(env_var: str, default: list[str]) -> list[str]:
     """Split a comma-separated env var into a stripped list, or use default."""
     raw = os.getenv(env_var, "").strip()
@@ -216,6 +224,7 @@ SLEEP_BETWEEN_COMPANIES: float = _parse_float("SLEEP_BETWEEN_COMPANIES", 1.5)
 REQUEST_TIMEOUT: int = _parse_int("REQUEST_TIMEOUT", 10)
 RECENT_POSTING_MAX_AGE_HOURS: int = _parse_int("RECENT_POSTING_MAX_AGE_HOURS", 24)
 ATS_CONCURRENCY: int = _parse_int("ATS_CONCURRENCY", 5)
+SEND_NO_NEW_SUMMARY: bool = _parse_bool("SEND_NO_NEW_SUMMARY", False)
 
 # ---------------------------------------------------------------------------
 # Persistence

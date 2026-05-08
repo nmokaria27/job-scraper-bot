@@ -46,6 +46,7 @@ jobs:
           MAX_NOTIFICATIONS_PER_RUN: ${{ secrets.MAX_NOTIFICATIONS_PER_RUN }}
           RECENT_POSTING_MAX_AGE_HOURS: ${{ vars.RECENT_POSTING_MAX_AGE_HOURS }}
           ATS_CONCURRENCY: ${{ vars.ATS_CONCURRENCY }}
+          SEND_NO_NEW_SUMMARY: ${{ vars.SEND_NO_NEW_SUMMARY }}
           # SimplifyJobs (optional — defaults to Summer internships + New Grad)
           SIMPLIFY_URLS: ${{ secrets.SIMPLIFY_URLS }}
           # HackerNews (optional — defaults to 500 comments)
