@@ -3031,10 +3031,18 @@
     {
       "id": "url:https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13",
       "seen_at": "2026-05-09T20:11:28.095967+00:00"
+    },
+    {
+      "id": "simplify-07de287a-60cf-4318-9941-284ab79b4148",
+      "seen_at": "2026-05-09T23:27:29.152841+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/eluvio/j/F70F3473E7/apply",
+      "seen_at": "2026-05-09T23:27:29.152954+00:00"
     }
   ],
-  "last_run": "2026-05-09T22:23:00.984113+00:00",
-  "total_notified": 80,
+  "last_run": "2026-05-09T23:27:29.694182+00:00",
+  "total_notified": 81,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -3735,7 +3743,9 @@
       "simplify-ac6ca7bc-6e7c-4a6a-9bc1-fbe496d7f0a6",
       "url:https://boards.greenhouse.io/spacex/jobs/8541336002",
       "simplify-d0f2d758-2008-4c36-8a0f-f2d4e2fc2256",
-      "url:https://jobs.jobvite.com/nutanix/job/oxZfyfw3"
+      "url:https://jobs.jobvite.com/nutanix/job/oxZfyfw3",
+      "simplify-07de287a-60cf-4318-9941-284ab79b4148",
+      "url:https://apply.workable.com/eluvio/j/F70F3473E7/apply"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
