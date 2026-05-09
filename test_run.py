@@ -1,40 +1,38 @@
 """
 Standalone scraper verification script.
 
-Runs scrapers and prints all jobs found, bypassing keyword/location filters.
+Runs scrapers and prints fetch counts, bypassing keyword/location filters.
 Does NOT send Discord notifications and does NOT write to seen_jobs.json.
 
 Usage:
-  python test_run.py                    # Test Greenhouse (stripe, anthropic)
-  python test_run.py --hours 12         # Only show jobs posted in last 12 hours
-  python test_run.py --simplify         # Test SimplifyJobs (first 10 active jobs)
-  python test_run.py --simplify --hours 48  # SimplifyJobs, last 48h (note: dates = original post date)
+  python test_run.py                     # Test ATS platforms
+  python test_run.py --hours 24          # Show only jobs posted in the last 24 hours
+  python test_run.py --simplify          # Test SimplifyJobs
+  python test_run.py --simplify --hours 48
 
 Tips:
   --hours filters on the job's posted_at timestamp (ISO string from each API).
   For SimplifyJobs, date_posted is when the COMPANY posted, not when SimplifyJobs
   indexed it — so filtering by a short window will return 0 for old listings.
-  For Greenhouse/Lever, updated_at/createdAt are live and recent hits are expected.
+  For Greenhouse/Lever/Ashby, updated_at/createdAt/publishedDate should surface
+  fresh hits if the source is returning recent jobs.
 
-Add or change TEST_* lists below to test different platforms/slugs.
+This script is intentionally noisy: it is meant to answer "is the platform
+fetching anything?" before you tune the Discord filters.
 """
 
 import asyncio
 import sys
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 
+from companies import get_companies
 from scrapers.ashby import AshbyScraper
 from scrapers.base import Job
 from scrapers.greenhouse import GreenhouseScraper
 from scrapers.lever import LeverScraper
 from scrapers.simplify import SimplifyScraper
 from scrapers.hackernews import HackerNewsScraper
-
-# --- Configurable test targets ---
-GREENHOUSE_TEST: list[str] = ["stripe", "anthropic"]
-ASHBY_TEST: list[str] = ["openai", "perplexity", "Ashby"]
-LEVER_TEST: list[str] = ["anyscale"]
-
 
 def _parse_hours() -> int | None:
     """Return the value of --hours N if present, else None."""
@@ -80,6 +78,21 @@ def _print_jobs(jobs: list[Job], limit: int | None = None) -> None:
         print(f"     ID:       {job.id}")
 
 
+def _print_summary(jobs: list[Job]) -> None:
+    if not jobs:
+        print("\n[SUMMARY] No jobs found.")
+        return
+
+    by_platform = Counter(job.platform for job in jobs)
+    by_company = Counter(job.company for job in jobs)
+    print("\n[SUMMARY] Jobs by platform:")
+    for platform, count in sorted(by_platform.items()):
+        print(f"  - {platform}: {count}")
+    print("[SUMMARY] Top companies:")
+    for company, count in by_company.most_common(10):
+        print(f"  - {company}: {count}")
+
+
 async def test_simplify(hours: int | None) -> None:
     """Test SimplifyJobs — fetch all active jobs and optionally filter by recency."""
     print("=" * 60)
@@ -112,36 +125,41 @@ async def test_ats(hours: int | None) -> None:
     print("=" * 60)
 
     all_jobs: list[Job] = []
+    raw_by_platform: dict[str, list[Job]] = {}
+    companies = get_companies()
 
-    # --- Greenhouse ---
-    if GREENHOUSE_TEST:
-        print(f"\n[Greenhouse] Testing: {GREENHOUSE_TEST}")
-        scraper = GreenhouseScraper()
-        for slug in GREENHOUSE_TEST:
+    platform_targets = {
+        "greenhouse": companies.get("greenhouse", []),
+        "lever": companies.get("lever", []),
+        "ashby": companies.get("ashby", []),
+    }
+
+    for platform, slugs in platform_targets.items():
+        if not slugs:
+            continue
+        print(f"\n[{platform.title()}] Testing {len(slugs)} configured company board(s)")
+
+        scraper = {
+            "greenhouse": GreenhouseScraper(),
+            "lever": LeverScraper(),
+            "ashby": AshbyScraper(),
+        }[platform]
+
+        for slug in slugs:
             jobs = await scraper.fetch_jobs(slug)
+            raw_by_platform.setdefault(platform, []).extend(jobs)
             all_jobs.extend(jobs)
 
-    # --- Lever ---
-    if LEVER_TEST:
-        print(f"\n[Lever] Testing: {LEVER_TEST}")
-        scraper = LeverScraper()
-        for slug in LEVER_TEST:
-            jobs = await scraper.fetch_jobs(slug)
-            all_jobs.extend(jobs)
-
-    # --- Ashby ---
-    if ASHBY_TEST:
-        print(f"\n[Ashby] Testing: {ASHBY_TEST}")
-        scraper = AshbyScraper()
-        for slug in ASHBY_TEST:
-            jobs = await scraper.fetch_jobs(slug)
-            all_jobs.extend(jobs)
+    print("\n[RAW COUNTS]")
+    for platform in ("greenhouse", "lever", "ashby"):
+        print(f"  - {platform}: {len(raw_by_platform.get(platform, []))}")
 
     if hours and all_jobs:
         before = len(all_jobs)
         all_jobs = _filter_by_recency(all_jobs, hours)
         print(f"\n  → {len(all_jobs)} of {before} jobs posted in last {hours}h")
 
+    _print_summary(all_jobs)
     _print_jobs(all_jobs)
 
 

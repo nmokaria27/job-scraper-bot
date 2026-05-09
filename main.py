@@ -17,7 +17,7 @@ from urllib.parse import urlsplit, urlunsplit
 
 import config
 from config import ChannelConfig, load_channels
-from companies import COMPANIES
+from companies import get_companies
 from scrapers.base import Job
 from scrapers.greenhouse import GreenhouseScraper
 from scrapers.lever import LeverScraper
@@ -325,10 +325,11 @@ async def scrape_all_raw() -> tuple[list[Job], int]:
 
     all_jobs: list[Job] = []
     total_checked = 0
+    companies = get_companies()
 
     # --- Bulk scrapers first ---
     for platform, scraper in bulk_scrapers.items():
-        if platform not in COMPANIES:
+        if platform not in companies:
             continue
         jobs = await scraper.fetch_jobs("")
         total_checked += len(jobs)
@@ -345,7 +346,7 @@ async def scrape_all_raw() -> tuple[list[Job], int]:
     semaphore = asyncio.Semaphore(max(1, config.ATS_CONCURRENCY))
     tasks = [
         fetch_company(platform, slug, semaphore)
-        for platform, company_slugs in COMPANIES.items()
+        for platform, company_slugs in companies.items()
         if platform in ats_scrapers
         for slug in company_slugs
     ]

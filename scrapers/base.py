@@ -25,7 +25,7 @@ def _word_match(keyword: str, text: str) -> bool:
       "lead"    → matches "Tech Lead"           but NOT "Leadership Program"
       "swe"     → matches "SWE Intern"          but NOT "Sweepstakes"
     """
-    pattern = r"\b" + re.escape(keyword) + r"\b"
+    pattern = _keyword_pattern(keyword)
     return bool(re.search(pattern, text, re.IGNORECASE))
 
 
@@ -57,8 +57,15 @@ SCOPED_EARLY_ROLE_KEYWORDS: set[str] = {
 
 
 def _matched_spans(keyword: str, text: str) -> list[tuple[int, int]]:
-    pattern = r"\b" + re.escape(keyword) + r"\b"
+    pattern = _keyword_pattern(keyword)
     return [match.span() for match in re.finditer(pattern, text, re.IGNORECASE)]
+
+
+def _keyword_pattern(keyword: str) -> str:
+    escaped = re.escape(keyword)
+    # Use alphanumeric boundaries instead of \b so symbol terms like "c++"
+    # and "c#" match correctly while still avoiding substring matches.
+    return r"(?<![a-z0-9])" + escaped + r"(?![a-z0-9])"
 
 
 def _span_contains(container: tuple[int, int], inner: tuple[int, int]) -> bool:
@@ -130,7 +137,10 @@ class BaseScraper(ABC):
             return True
 
         early_career_keywords = [
-            kw for kw in keywords if kw.strip().lower() in EARLY_CAREER_KEYWORDS
+            kw
+            for kw in keywords
+            if kw.strip().lower() in EARLY_CAREER_KEYWORDS
+            and kw.strip().lower() not in SCOPED_EARLY_ROLE_KEYWORDS
         ]
         role_keywords = [
             kw for kw in keywords if kw.strip().lower() not in EARLY_CAREER_KEYWORDS

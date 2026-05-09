@@ -71,6 +71,20 @@ class FilterBehaviorTests(unittest.TestCase):
             )
         )
 
+    def test_pm_defaults_do_not_require_generic_early_career_terms(self) -> None:
+        self.assertTrue(
+            self.scraper.matches_keywords(
+                "Product Manager",
+                config.DEFAULT_PM_KEYWORDS,
+                config.DEFAULT_PM_EXCLUDED_KEYWORDS,
+            )
+        )
+
+    def test_symbol_keywords_match_cleanly(self) -> None:
+        self.assertTrue(self.scraper.matches_keywords("C++ Engineer", ["c++"], []))
+        self.assertTrue(self.scraper.matches_keywords("C# Developer", ["c#"], []))
+        self.assertFalse(self.scraper.matches_keywords("MVP Engineer", ["vp"], []))
+
 
 class ChannelLoadingTests(unittest.TestCase):
     def test_channels_json_can_add_and_override_env_channels(self) -> None:
@@ -109,6 +123,22 @@ class ChannelLoadingTests(unittest.TestCase):
         )
         self.assertEqual(channels[0].webhook_url, "https://discord.com/api/webhooks/override")
         self.assertEqual(channels[0].keywords, ["software engineer"])
+
+    def test_full_time_webhook_env_loads_channel(self) -> None:
+        with patch.dict(
+            os.environ,
+            {
+                "SWE_WEBHOOK_URL": "",
+                "PM_WEBHOOK_URL": "",
+                "FULL_TIME_WEBHOOK_URL": "https://discord.com/api/webhooks/fulltime-env",
+                "CHANNELS_JSON": "",
+            },
+            clear=False,
+        ):
+            channels = config.load_channels(require_webhooks=True)
+
+        self.assertEqual([channel.name for channel in channels], ["swe-ai-full-time"])
+        self.assertEqual(channels[0].webhook_url, "https://discord.com/api/webhooks/fulltime-env")
 
 
 class DedupeBehaviorTests(unittest.TestCase):
