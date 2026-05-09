@@ -167,6 +167,147 @@ def mark_seen_channel(data: dict, channel_name: str, job_id: str) -> None:
 
 
 # ---------------------------------------------------------------------------
+# queued_jobs.json helpers (for capped notifications)
+# ---------------------------------------------------------------------------
+
+def load_queued_jobs() -> dict:
+    """
+    Load queued_jobs.json. Returns a dict shaped like:
+      {"channels": {channel_name: [QueuedJob, ...]}, "last_run": ISO timestamp}
+    """
+    try:
+        with open(config.QUEUED_JOBS_PATH, "r") as f:
+            data = json.load(f)
+        data.setdefault("channels", {})
+        data.setdefault("last_run", _now_iso())
+        return data
+    except FileNotFoundError:
+        return {"channels": {}, "last_run": _now_iso()}
+    except (json.JSONDecodeError, ValueError) as e:
+        print(f"[WARN] queued_jobs.json is corrupt ({e}) — starting fresh.")
+        return {"channels": {}, "last_run": _now_iso()}
+
+
+def save_queued_jobs(data: dict) -> None:
+    with open(config.QUEUED_JOBS_PATH, "w") as f:
+        json.dump(data, f, indent=2)
+
+
+def prune_queued_jobs(data: dict) -> dict:
+    cutoff = datetime.now(tz=timezone.utc) - timedelta(hours=config.QUEUED_JOBS_MAX_AGE_HOURS)
+    channels = data.setdefault("channels", {})
+    removed = 0
+    for ch_name, items in list(channels.items()):
+        if not isinstance(items, list):
+            channels[ch_name] = []
+            continue
+        kept = []
+        for item in items:
+            queued_at = _parse_dt((item or {}).get("queued_at", ""))
+            if queued_at != datetime.min.replace(tzinfo=timezone.utc) and queued_at >= cutoff:
+                kept.append(item)
+            else:
+                removed += 1
+        channels[ch_name] = kept
+    if removed:
+        print(f"[INFO] Pruned {removed} stale queued job(s) from queued_jobs.json")
+    return data
+
+
+def _queued_job_payload(job: Job) -> dict:
+    return {
+        "id": job.id,
+        "seen_keys": get_job_seen_keys(job),
+        "title": job.title,
+        "company": job.company,
+        "location": job.location,
+        "url": job.url,
+        "platform": job.platform,
+        "posted_at": job.posted_at,
+        "queued_at": _now_iso(),
+    }
+
+
+def enqueue_capped_jobs(queue_data: dict, channel_name: str, jobs: list[Job]) -> int:
+    queue_data.setdefault("channels", {}).setdefault(channel_name, [])
+    existing = queue_data["channels"][channel_name]
+    existing_keys: set[str] = set()
+    for item in existing:
+        for key in (item or {}).get("seen_keys", []) or []:
+            existing_keys.add(key)
+
+    added = 0
+    for job in jobs:
+        keys = get_job_seen_keys(job)
+        if any(k in existing_keys for k in keys):
+            continue
+        existing.append(_queued_job_payload(job))
+        for k in keys:
+            existing_keys.add(k)
+        added += 1
+    if added:
+        print(f"[INFO] Queued {added} capped job(s) for '{channel_name}'")
+    return added
+
+
+def dequeue_flush_candidates(queue_data: dict, channel_name: str) -> list[Job]:
+    items = queue_data.get("channels", {}).get(channel_name, [])
+    if not items:
+        return []
+
+    cutoff = datetime.now(tz=timezone.utc) - timedelta(hours=config.QUEUED_JOBS_MAX_AGE_HOURS)
+    candidates: list[tuple[datetime, dict]] = []
+    for item in items:
+        queued_at = _parse_dt((item or {}).get("queued_at", ""))
+        posted_at = _parse_dt((item or {}).get("posted_at", ""))
+        min_dt = datetime.min.replace(tzinfo=timezone.utc)
+        freshness = posted_at if posted_at != min_dt else queued_at
+        if freshness == min_dt or freshness < cutoff:
+            continue
+        candidates.append((freshness, item))
+
+    # newest first
+    candidates.sort(key=lambda t: t[0], reverse=True)
+
+    jobs: list[Job] = []
+    for _, item in candidates[: config.MAX_NOTIFICATIONS_PER_RUN]:
+        jobs.append(
+            Job(
+                id=str(item.get("id", "")),
+                title=str(item.get("title", "")),
+                company=str(item.get("company", "")),
+                location=str(item.get("location", "")),
+                url=str(item.get("url", "")),
+                platform=str(item.get("platform", "")),
+                posted_at=str(item.get("posted_at", "Unknown")),
+            )
+        )
+    return jobs
+
+
+def drop_queued_items(queue_data: dict, channel_name: str, notified: list[Job]) -> int:
+    items = queue_data.get("channels", {}).get(channel_name, [])
+    if not items or not notified:
+        return 0
+
+    notified_keys: set[str] = set()
+    for job in notified:
+        for key in get_job_seen_keys(job):
+            notified_keys.add(key)
+
+    kept = []
+    removed = 0
+    for item in items:
+        item_keys = set((item or {}).get("seen_keys", []) or [])
+        if item_keys and (item_keys & notified_keys):
+            removed += 1
+            continue
+        kept.append(item)
+    queue_data["channels"][channel_name] = kept
+    return removed
+
+
+# ---------------------------------------------------------------------------
 # Filtering
 # ---------------------------------------------------------------------------
 
@@ -378,6 +519,10 @@ async def main(init_mode: bool = False) -> None:
     seen_data = prune_seen_jobs(seen_data)
     ensure_channel_seen_state(seen_data, channels)
 
+    # Load + prune queued_jobs.json
+    queue_data = load_queued_jobs()
+    queue_data = prune_queued_jobs(queue_data)
+
     # Scrape all platforms (raw, no filtering)
     print("\n[INFO] Scraping all platforms...")
     all_jobs, total_checked = await scrape_all_raw()
@@ -425,9 +570,22 @@ async def main(init_mode: bool = False) -> None:
         print(f"[INFO] Matching: {len(matching)} | New for channel: {len(new_for_channel)}")
 
         if not new_for_channel:
-            print(f"[INFO] No new jobs for '{ch.name}'. Skipping.")
+            # Flush queue only when there are no new jobs for the channel
+            flush_candidates = dequeue_flush_candidates(queue_data, ch.name)
+            flushed: list[Job] = []
+            if flush_candidates:
+                print(f"[INFO] No new jobs for '{ch.name}'. Flushing {len(flush_candidates)} queued job(s).")
+                flushed = await discord_notifier.notify_jobs_batch(
+                    flush_candidates, ch.webhook_url
+                )
+                total_notified += len(flushed)
+                removed = drop_queued_items(queue_data, ch.name, flushed)
+                if removed:
+                    print(f"[INFO] Flushed and removed {removed} queued job(s) for '{ch.name}'")
+            else:
+                print(f"[INFO] No new jobs for '{ch.name}'. Skipping.")
             await discord_notifier.send_summary(
-                new_count=0,
+                new_count=len(flushed),
                 total_checked=total_checked,
                 webhook_url=ch.webhook_url,
                 channel_name=ch.name,
@@ -453,11 +611,13 @@ async def main(init_mode: bool = False) -> None:
             mark_job_seen(seen_data, ch.name, job)
 
         if len(notified) == len(jobs_to_notify):
-            jobs_to_mark_only = new_for_channel[config.MAX_NOTIFICATIONS_PER_RUN:]
-            for job in jobs_to_mark_only:
-                mark_job_seen(seen_data, ch.name, job)
-            if jobs_to_mark_only:
-                print(f"[INFO] Silently marked {len(jobs_to_mark_only)} capped jobs as seen")
+            jobs_to_queue = new_for_channel[config.MAX_NOTIFICATIONS_PER_RUN:]
+            if jobs_to_queue:
+                # Queue capped jobs so they can be flushed later when there are no new jobs.
+                enqueue_capped_jobs(queue_data, ch.name, jobs_to_queue)
+                # Still mark as seen so they won't keep re-appearing as "new" on every run.
+                for job in jobs_to_queue:
+                    mark_job_seen(seen_data, ch.name, job)
         elif jobs_to_notify:
             failed = len(jobs_to_notify) - len(notified)
             print(f"[WARN] {failed} notification(s) failed; unsent jobs were left unmarked")
@@ -477,12 +637,20 @@ async def main(init_mode: bool = False) -> None:
     # Update metadata and save
     seen_data["last_run"] = _now_iso()
     seen_data["total_notified"] = seen_data.get("total_notified", 0) + total_notified
+    queue_data["last_run"] = _now_iso()
 
     try:
         save_seen_jobs(seen_data)
         print(f"\n[INFO] seen_jobs.json saved ({len(seen_data['jobs'])} total entries)")
     except OSError as e:
         print(f"[ERROR] Failed to save seen_jobs.json: {e}")
+
+    try:
+        save_queued_jobs(queue_data)
+        total_queued = sum(len(v) for v in queue_data.get("channels", {}).values() if isinstance(v, list))
+        print(f"[INFO] queued_jobs.json saved ({total_queued} total queued entries)")
+    except OSError as e:
+        print(f"[ERROR] Failed to save queued_jobs.json: {e}")
 
     print(f"[INFO] Run complete — {total_notified} total notifications sent")
 
