@@ -357,6 +357,9 @@ SEND_NO_NEW_SUMMARY: bool = _parse_bool("SEND_NO_NEW_SUMMARY", False)
 SEEN_JOBS_PATH: str = os.getenv("SEEN_JOBS_PATH", "seen_jobs.json")
 SEEN_JOBS_MAX_AGE_DAYS: int = _parse_int("SEEN_JOBS_MAX_AGE_DAYS", 30)
 
+QUEUED_JOBS_PATH: str = os.getenv("QUEUED_JOBS_PATH", "queued_jobs.json")
+QUEUED_JOBS_MAX_AGE_HOURS: int = _parse_int("QUEUED_JOBS_MAX_AGE_HOURS", 6)
+
 # ---------------------------------------------------------------------------
 # SimplifyJobs scraper
 # ---------------------------------------------------------------------------
