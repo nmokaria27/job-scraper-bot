@@ -2807,10 +2807,234 @@
     {
       "id": "url:https://jobs.jobvite.com/nutanix/job/oxZfyfw3",
       "seen_at": "2026-05-09T02:00:35.134075+00:00"
+    },
+    {
+      "id": "greenhouse-stripe-7417090",
+      "seen_at": "2026-05-09T20:11:28.093143+00:00"
+    },
+    {
+      "id": "url:https://stripe.com/jobs/search",
+      "seen_at": "2026-05-09T20:11:28.093367+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5215124008",
+      "seen_at": "2026-05-09T20:11:28.093434+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5215124008",
+      "seen_at": "2026-05-09T20:11:28.093487+00:00"
+    },
+    {
+      "id": "ashby-openai-8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
+      "seen_at": "2026-05-09T20:11:28.093526+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
+      "seen_at": "2026-05-09T20:11:28.093559+00:00"
+    },
+    {
+      "id": "ashby-openai-9685eb6d-8276-4111-be8c-fd1277ad4555",
+      "seen_at": "2026-05-09T20:11:28.093615+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/9685eb6d-8276-4111-be8c-fd1277ad4555",
+      "seen_at": "2026-05-09T20:11:28.093662+00:00"
+    },
+    {
+      "id": "ashby-openai-71004494-9a55-4ed5-b458-2ff475f0d881",
+      "seen_at": "2026-05-09T20:11:28.093701+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/71004494-9a55-4ed5-b458-2ff475f0d881",
+      "seen_at": "2026-05-09T20:11:28.093745+00:00"
+    },
+    {
+      "id": "ashby-openai-504f12ff-95ce-4c5b-930d-cfd96ac88c80",
+      "seen_at": "2026-05-09T20:11:28.093801+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/504f12ff-95ce-4c5b-930d-cfd96ac88c80",
+      "seen_at": "2026-05-09T20:11:28.093833+00:00"
+    },
+    {
+      "id": "ashby-openai-65913e57-80e0-4a1a-bbc3-265ae8a1a41b",
+      "seen_at": "2026-05-09T20:11:28.093870+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/65913e57-80e0-4a1a-bbc3-265ae8a1a41b",
+      "seen_at": "2026-05-09T20:11:28.093901+00:00"
+    },
+    {
+      "id": "ashby-openai-4a9ce666-e362-4f76-8089-8af255d48398",
+      "seen_at": "2026-05-09T20:11:28.093964+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/4a9ce666-e362-4f76-8089-8af255d48398",
+      "seen_at": "2026-05-09T20:11:28.094008+00:00"
+    },
+    {
+      "id": "ashby-openai-44bfed8b-dd34-40c9-a807-67637b9d4335",
+      "seen_at": "2026-05-09T20:11:28.094044+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/44bfed8b-dd34-40c9-a807-67637b9d4335",
+      "seen_at": "2026-05-09T20:11:28.094075+00:00"
+    },
+    {
+      "id": "ashby-openai-fc38c6bf-5330-435c-99b6-1bcf1f5829a8",
+      "seen_at": "2026-05-09T20:11:28.094141+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/fc38c6bf-5330-435c-99b6-1bcf1f5829a8",
+      "seen_at": "2026-05-09T20:11:28.094181+00:00"
+    },
+    {
+      "id": "ashby-openai-d2bcf864-78b7-4117-bd7a-971970f0e5a8",
+      "seen_at": "2026-05-09T20:11:28.094228+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/d2bcf864-78b7-4117-bd7a-971970f0e5a8",
+      "seen_at": "2026-05-09T20:11:28.094286+00:00"
+    },
+    {
+      "id": "ashby-openai-454dfbeb-69f5-4ee2-9f8f-963359400ad9",
+      "seen_at": "2026-05-09T20:11:28.094334+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/454dfbeb-69f5-4ee2-9f8f-963359400ad9",
+      "seen_at": "2026-05-09T20:11:28.094367+00:00"
+    },
+    {
+      "id": "ashby-openai-05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d",
+      "seen_at": "2026-05-09T20:11:28.094404+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d",
+      "seen_at": "2026-05-09T20:11:28.094457+00:00"
+    },
+    {
+      "id": "ashby-openai-7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a",
+      "seen_at": "2026-05-09T20:11:28.094602+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a",
+      "seen_at": "2026-05-09T20:11:28.094634+00:00"
+    },
+    {
+      "id": "ashby-openai-7eb1ac08-5168-4eff-a96c-90ce0bfd3fde",
+      "seen_at": "2026-05-09T20:11:28.094694+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/7eb1ac08-5168-4eff-a96c-90ce0bfd3fde",
+      "seen_at": "2026-05-09T20:11:28.094740+00:00"
+    },
+    {
+      "id": "ashby-openai-29d40809-10a4-451c-966f-80c3ef7b94ea",
+      "seen_at": "2026-05-09T20:11:28.094776+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/29d40809-10a4-451c-966f-80c3ef7b94ea",
+      "seen_at": "2026-05-09T20:11:28.094809+00:00"
+    },
+    {
+      "id": "ashby-openai-fbc7ebaf-3a26-406d-9ff6-f166f3e246a2",
+      "seen_at": "2026-05-09T20:11:28.094872+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/fbc7ebaf-3a26-406d-9ff6-f166f3e246a2",
+      "seen_at": "2026-05-09T20:11:28.094915+00:00"
+    },
+    {
+      "id": "ashby-openai-e8558280-69dc-438a-b905-623f75ae6d62",
+      "seen_at": "2026-05-09T20:11:28.094952+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/e8558280-69dc-438a-b905-623f75ae6d62",
+      "seen_at": "2026-05-09T20:11:28.094985+00:00"
+    },
+    {
+      "id": "ashby-openai-fca0f787-f3c5-4528-bb20-803dba07501a",
+      "seen_at": "2026-05-09T20:11:28.095050+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/fca0f787-f3c5-4528-bb20-803dba07501a",
+      "seen_at": "2026-05-09T20:11:28.095090+00:00"
+    },
+    {
+      "id": "ashby-openai-29328228-2737-482b-aded-9e9fa2b478a8",
+      "seen_at": "2026-05-09T20:11:28.095128+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/29328228-2737-482b-aded-9e9fa2b478a8",
+      "seen_at": "2026-05-09T20:11:28.095161+00:00"
+    },
+    {
+      "id": "ashby-openai-f6494cf8-efbc-4dbe-ae76-662088b4f32c",
+      "seen_at": "2026-05-09T20:11:28.095278+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/f6494cf8-efbc-4dbe-ae76-662088b4f32c",
+      "seen_at": "2026-05-09T20:11:28.095312+00:00"
+    },
+    {
+      "id": "ashby-openai-60d1420a-8aa3-4d87-847e-e7b73d9d9a0c",
+      "seen_at": "2026-05-09T20:11:28.095376+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/60d1420a-8aa3-4d87-847e-e7b73d9d9a0c",
+      "seen_at": "2026-05-09T20:11:28.095427+00:00"
+    },
+    {
+      "id": "ashby-openai-0f4da2b4-df8a-4560-809d-d0a6ac1ad9bc",
+      "seen_at": "2026-05-09T20:11:28.095464+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/0f4da2b4-df8a-4560-809d-d0a6ac1ad9bc",
+      "seen_at": "2026-05-09T20:11:28.095497+00:00"
+    },
+    {
+      "id": "ashby-openai-1c67d2de-ef49-44c2-978a-ab0d1dd1e236",
+      "seen_at": "2026-05-09T20:11:28.095551+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/1c67d2de-ef49-44c2-978a-ab0d1dd1e236",
+      "seen_at": "2026-05-09T20:11:28.095603+00:00"
+    },
+    {
+      "id": "ashby-openai-11a61b5b-3c1f-472f-93ec-4cb3e37e5ae8",
+      "seen_at": "2026-05-09T20:11:28.095644+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/11a61b5b-3c1f-472f-93ec-4cb3e37e5ae8",
+      "seen_at": "2026-05-09T20:11:28.095679+00:00"
+    },
+    {
+      "id": "ashby-openai-791d2486-1e95-483f-ab79-098b255d1a16",
+      "seen_at": "2026-05-09T20:11:28.095745+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/791d2486-1e95-483f-ab79-098b255d1a16",
+      "seen_at": "2026-05-09T20:11:28.095791+00:00"
+    },
+    {
+      "id": "ashby-openai-f659227e-e916-45fc-8726-6861f60979b6",
+      "seen_at": "2026-05-09T20:11:28.095828+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/f659227e-e916-45fc-8726-6861f60979b6",
+      "seen_at": "2026-05-09T20:11:28.095861+00:00"
+    },
+    {
+      "id": "ashby-perplexity-f25e190e-0508-4707-b575-fcaed358dc13",
+      "seen_at": "2026-05-09T20:11:28.095921+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13",
+      "seen_at": "2026-05-09T20:11:28.095967+00:00"
     }
   ],
-  "last_run": "2026-05-09T19:42:59.561782+00:00",
-  "total_notified": 55,
+  "last_run": "2026-05-09T20:11:28.875542+00:00",
+  "total_notified": 80,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -3921,7 +4145,63 @@
       "greenhouse-lyft-8492315002",
       "simplify-809f9736-120e-4add-9258-e91d240c6288",
       "simplify-8bb432fa-21f1-4d2a-a11c-46955f58d383",
-      "url:https://job-boards.greenhouse.io/eulerity/jobs/4680400006"
+      "url:https://job-boards.greenhouse.io/eulerity/jobs/4680400006",
+      "greenhouse-stripe-7417090",
+      "url:https://stripe.com/jobs/search",
+      "greenhouse-anthropic-5215124008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5215124008",
+      "ashby-openai-8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
+      "url:https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
+      "ashby-openai-9685eb6d-8276-4111-be8c-fd1277ad4555",
+      "url:https://jobs.ashbyhq.com/openai/9685eb6d-8276-4111-be8c-fd1277ad4555",
+      "ashby-openai-71004494-9a55-4ed5-b458-2ff475f0d881",
+      "url:https://jobs.ashbyhq.com/openai/71004494-9a55-4ed5-b458-2ff475f0d881",
+      "ashby-openai-504f12ff-95ce-4c5b-930d-cfd96ac88c80",
+      "url:https://jobs.ashbyhq.com/openai/504f12ff-95ce-4c5b-930d-cfd96ac88c80",
+      "ashby-openai-65913e57-80e0-4a1a-bbc3-265ae8a1a41b",
+      "url:https://jobs.ashbyhq.com/openai/65913e57-80e0-4a1a-bbc3-265ae8a1a41b",
+      "ashby-openai-4a9ce666-e362-4f76-8089-8af255d48398",
+      "url:https://jobs.ashbyhq.com/openai/4a9ce666-e362-4f76-8089-8af255d48398",
+      "ashby-openai-44bfed8b-dd34-40c9-a807-67637b9d4335",
+      "url:https://jobs.ashbyhq.com/openai/44bfed8b-dd34-40c9-a807-67637b9d4335",
+      "ashby-openai-fc38c6bf-5330-435c-99b6-1bcf1f5829a8",
+      "url:https://jobs.ashbyhq.com/openai/fc38c6bf-5330-435c-99b6-1bcf1f5829a8",
+      "ashby-openai-d2bcf864-78b7-4117-bd7a-971970f0e5a8",
+      "url:https://jobs.ashbyhq.com/openai/d2bcf864-78b7-4117-bd7a-971970f0e5a8",
+      "ashby-openai-454dfbeb-69f5-4ee2-9f8f-963359400ad9",
+      "url:https://jobs.ashbyhq.com/openai/454dfbeb-69f5-4ee2-9f8f-963359400ad9",
+      "ashby-openai-05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d",
+      "url:https://jobs.ashbyhq.com/openai/05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d",
+      "ashby-openai-7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a",
+      "url:https://jobs.ashbyhq.com/openai/7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a",
+      "ashby-openai-7eb1ac08-5168-4eff-a96c-90ce0bfd3fde",
+      "url:https://jobs.ashbyhq.com/openai/7eb1ac08-5168-4eff-a96c-90ce0bfd3fde",
+      "ashby-openai-29d40809-10a4-451c-966f-80c3ef7b94ea",
+      "url:https://jobs.ashbyhq.com/openai/29d40809-10a4-451c-966f-80c3ef7b94ea",
+      "ashby-openai-fbc7ebaf-3a26-406d-9ff6-f166f3e246a2",
+      "url:https://jobs.ashbyhq.com/openai/fbc7ebaf-3a26-406d-9ff6-f166f3e246a2",
+      "ashby-openai-e8558280-69dc-438a-b905-623f75ae6d62",
+      "url:https://jobs.ashbyhq.com/openai/e8558280-69dc-438a-b905-623f75ae6d62",
+      "ashby-openai-fca0f787-f3c5-4528-bb20-803dba07501a",
+      "url:https://jobs.ashbyhq.com/openai/fca0f787-f3c5-4528-bb20-803dba07501a",
+      "ashby-openai-29328228-2737-482b-aded-9e9fa2b478a8",
+      "url:https://jobs.ashbyhq.com/openai/29328228-2737-482b-aded-9e9fa2b478a8",
+      "ashby-openai-f6494cf8-efbc-4dbe-ae76-662088b4f32c",
+      "url:https://jobs.ashbyhq.com/openai/f6494cf8-efbc-4dbe-ae76-662088b4f32c",
+      "ashby-openai-60d1420a-8aa3-4d87-847e-e7b73d9d9a0c",
+      "url:https://jobs.ashbyhq.com/openai/60d1420a-8aa3-4d87-847e-e7b73d9d9a0c",
+      "ashby-openai-0f4da2b4-df8a-4560-809d-d0a6ac1ad9bc",
+      "url:https://jobs.ashbyhq.com/openai/0f4da2b4-df8a-4560-809d-d0a6ac1ad9bc",
+      "ashby-openai-1c67d2de-ef49-44c2-978a-ab0d1dd1e236",
+      "url:https://jobs.ashbyhq.com/openai/1c67d2de-ef49-44c2-978a-ab0d1dd1e236",
+      "ashby-openai-11a61b5b-3c1f-472f-93ec-4cb3e37e5ae8",
+      "url:https://jobs.ashbyhq.com/openai/11a61b5b-3c1f-472f-93ec-4cb3e37e5ae8",
+      "ashby-openai-791d2486-1e95-483f-ab79-098b255d1a16",
+      "url:https://jobs.ashbyhq.com/openai/791d2486-1e95-483f-ab79-098b255d1a16",
+      "ashby-openai-f659227e-e916-45fc-8726-6861f60979b6",
+      "url:https://jobs.ashbyhq.com/openai/f659227e-e916-45fc-8726-6861f60979b6",
+      "ashby-perplexity-f25e190e-0508-4707-b575-fcaed358dc13",
+      "url:https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13"
     ]
   }
 }
