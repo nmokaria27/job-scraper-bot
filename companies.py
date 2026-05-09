@@ -1,3 +1,7 @@
+import json
+import os
+from copy import deepcopy
+
 # Master company list — add or remove slugs here to control which companies are scraped.
 #
 # How to find a company's slug:
@@ -99,3 +103,70 @@ COMPANIES: dict[str, list[str]] = {
         # "together-ai",          # 404
     ],
 }
+
+
+ATS_PLATFORMS: tuple[str, ...] = ("greenhouse", "lever", "ashby")
+
+
+def _load_discovered_companies(path: str) -> dict[str, list[str]]:
+    try:
+        with open(path, "r") as f:
+            raw = json.load(f)
+    except FileNotFoundError:
+        return {}
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"[WARN] Failed to load discovered companies from '{path}': {e}")
+        return {}
+
+    if not isinstance(raw, dict):
+        print(f"[WARN] Discovered companies file '{path}' must be a JSON object")
+        return {}
+
+    discovered: dict[str, list[str]] = {}
+    for platform in ATS_PLATFORMS:
+        values = raw.get(platform, [])
+        if not isinstance(values, list):
+            print(f"[WARN] Discovered platform '{platform}' in '{path}' must be a list")
+            continue
+        discovered[platform] = [str(slug).strip() for slug in values if str(slug).strip()]
+    return discovered
+
+
+def get_companies() -> dict[str, list[str]]:
+    """
+    Return static COMPANIES merged with optional discovered companies JSON.
+    Controlled by:
+      - INCLUDE_DISCOVERED_COMPANIES (default: true)
+      - DISCOVERED_COMPANIES_PATH (default: discovered_companies.json)
+    """
+    merged = deepcopy(COMPANIES)
+    include_discovered = os.getenv("INCLUDE_DISCOVERED_COMPANIES", "true").strip().lower()
+    if include_discovered not in {"1", "true", "yes", "y", "on"}:
+        return merged
+
+    path = os.getenv("DISCOVERED_COMPANIES_PATH", "discovered_companies.json").strip()
+    if not path:
+        return merged
+
+    discovered = _load_discovered_companies(path)
+    if not discovered:
+        return merged
+
+    for platform in ATS_PLATFORMS:
+        base_slugs = merged.get(platform, [])
+        new_slugs = discovered.get(platform, [])
+        seen = set(base_slugs)
+        for slug in new_slugs:
+            if slug not in seen:
+                base_slugs.append(slug)
+                seen.add(slug)
+        merged[platform] = base_slugs
+
+    added_total = sum(
+        max(0, len(merged.get(platform, [])) - len(COMPANIES.get(platform, [])))
+        for platform in ATS_PLATFORMS
+    )
+    if added_total:
+        print(f"[INFO] Added {added_total} discovered ATS slug(s) from '{path}'")
+
+    return merged

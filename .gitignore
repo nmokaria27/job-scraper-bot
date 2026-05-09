@@ -1,4 +1,5 @@
 .env
+channels.json
 __pycache__/
 *.pyc
 *.pyo

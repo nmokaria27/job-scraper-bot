@@ -139,11 +139,34 @@ DEFAULT_PM_KEYWORDS: list[str] = [
     "product manager intern",
     "product analyst",
     "product operations",
-    "intern",
-    "internship",
-    "new grad",
-    "new graduate",
-    "early career",
+    "pm apprentice",
+    "product apprentice",
+    "product management apprentice",
+]
+
+DEFAULT_SWE_FULL_TIME_KEYWORDS: list[str] = [
+    "software engineer",
+    "engineer",
+    "engineering",
+    "developer",
+    "software development",
+    "programmer",
+    "sde",
+    "ml engineer",
+    "ai engineer",
+    "research engineer",
+    "machine learning",
+    "data scientist",
+    "data engineer",
+    "backend",
+    "frontend",
+    "full stack",
+    "fullstack",
+    "platform engineer",
+    "computer vision",
+    "nlp",
+    "llm",
+    "agentic",
 ]
 
 DEFAULT_SWE_EXCLUDED_KEYWORDS: list[str] = [
@@ -198,6 +221,54 @@ DEFAULT_PM_EXCLUDED_KEYWORDS: list[str] = [
     "president",
     "officer",
     "distinguished",
+    "ii",
+    "iii",
+    "iv",
+    "v",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "l2",
+    "l3",
+    "l4",
+    "l5",
+    "l6",
+    "e3",
+    "e4",
+    "e5",
+    "e6",
+    "experienced",
+]
+
+DEFAULT_SWE_FULL_TIME_EXCLUDED_KEYWORDS: list[str] = [
+    "intern",
+    "internship",
+    "new grad",
+    "new graduate",
+    "university grad",
+    "early career",
+    "entry level",
+    "entry-level",
+    "student",
+    "co-op",
+    "apprentice",
+    "senior",
+    "staff",
+    "lead",
+    "director",
+    "principal",
+    "manager",
+    "mid",
+    "mid-level",
+    "mid level",
+    "vp",
+    "head of",
+    "president",
+    "officer",
+    "distinguished",
+    "partner",
     "ii",
     "iii",
     "iv",
@@ -334,6 +405,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
         default_channels: list[ChannelConfig] = []
         swe_webhook_url = _normalize_webhook_url(os.getenv("SWE_WEBHOOK_URL", ""))
         pm_webhook_url = _normalize_webhook_url(os.getenv("PM_WEBHOOK_URL", ""))
+        full_time_webhook_url = _normalize_webhook_url(os.getenv("FULL_TIME_WEBHOOK_URL", ""))
 
         if swe_webhook_url:
             default_channels.append(
@@ -352,6 +424,16 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                     webhook_url=pm_webhook_url,
                     keywords=DEFAULT_PM_KEYWORDS,
                     excluded_keywords=DEFAULT_PM_EXCLUDED_KEYWORDS,
+                    locations=DEFAULT_LOCATIONS,
+                )
+            )
+        if full_time_webhook_url:
+            default_channels.append(
+                ChannelConfig(
+                    name="swe-ai-full-time",
+                    webhook_url=full_time_webhook_url,
+                    keywords=DEFAULT_SWE_FULL_TIME_KEYWORDS,
+                    excluded_keywords=DEFAULT_SWE_FULL_TIME_EXCLUDED_KEYWORDS,
                     locations=DEFAULT_LOCATIONS,
                 )
             )

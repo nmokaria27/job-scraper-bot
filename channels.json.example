@@ -1,7 +1,7 @@
 [
   {
-    "name": "swe-jobs",
-    "webhook_url": "https://discord.com/api/webhooks/G",
+    "name": "swe-ai-internships",
+    "webhook_url": "https://discord.com/api/webhooks/YOUR_INTERN_WEBHOOK_URL",
     "keywords": [
       "intern",
       "internship",
@@ -30,7 +30,9 @@
       "fullstack",
       "platform engineer",
       "computer vision",
-      "nlp"
+      "nlp",
+      "llm",
+      "agentic"
     ],
     "excluded_keywords": [
       "senior",
@@ -110,8 +112,8 @@
     ]
   },
   {
-    "name": "pm-jobs",
-    "webhook_url": "https://discord.com/api/webhooks/",
+    "name": "pm-all-roles",
+    "webhook_url": "https://discord.com/api/webhooks/YOUR_PM_WEBHOOK_URL",
     "keywords": [
       "product manager",
       "product management",
@@ -124,11 +126,9 @@
       "product manager intern",
       "product analyst",
       "product operations",
-      "intern",
-      "internship",
-      "new grad",
-      "new graduate",
-      "early career"
+      "pm apprentice",
+      "product apprentice",
+      "product management apprentice"
     ],
     "excluded_keywords": [
       "senior",
@@ -207,8 +207,8 @@
     ]
   },
   {
-    "name": "swe-full-time-ai-ml-jobs",
-    "webhook_url": "https://discord.com/api/webhooks/FULL_TIME_WEBHOOK_ID/FULL_TIME_WEBHOOK_TOKEN",
+    "name": "swe-ai-full-time",
+    "webhook_url": "https://discord.com/api/webhooks/YOUR_FULLTIME_WEBHOOK_URL",
     "keywords": [
       "software engineer",
       "engineer",
@@ -221,6 +221,7 @@
       "ai engineer",
       "research engineer",
       "machine learning",
+      "data scientist",
       "data engineer",
       "backend",
       "frontend",

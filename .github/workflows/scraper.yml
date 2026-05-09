@@ -33,6 +33,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Discover ATS companies
+        if: ${{ vars.RUN_COMPANY_DISCOVERY == 'true' }}
+        env:
+          DISCOVERY_SOURCE_URLS: ${{ vars.DISCOVERY_SOURCE_URLS }}
+          DISCOVERED_COMPANIES_PATH: ${{ vars.DISCOVERED_COMPANIES_PATH }}
+        run: python discover_companies.py
+
       - name: Run scraper
         env:
           # Preferred multi-channel mode: set these as repository secrets.
@@ -51,6 +58,8 @@ jobs:
           RECENT_POSTING_MAX_AGE_HOURS: ${{ vars.RECENT_POSTING_MAX_AGE_HOURS }}
           ATS_CONCURRENCY: ${{ vars.ATS_CONCURRENCY }}
           SEND_NO_NEW_SUMMARY: ${{ vars.SEND_NO_NEW_SUMMARY }}
+          INCLUDE_DISCOVERED_COMPANIES: ${{ vars.INCLUDE_DISCOVERED_COMPANIES }}
+          DISCOVERED_COMPANIES_PATH: ${{ vars.DISCOVERED_COMPANIES_PATH }}
           # SimplifyJobs (optional — defaults to Summer internships + New Grad)
           SIMPLIFY_URLS: ${{ secrets.SIMPLIFY_URLS }}
           # HackerNews (optional — defaults to 500 comments)
@@ -62,6 +71,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add seen_jobs.json
+          git add discovered_companies.json || true
           git diff --staged --quiet && exit 0
           git commit -m "chore: update seen_jobs [skip ci]"
           git fetch origin main
