@@ -3039,10 +3039,18 @@
     {
       "id": "url:https://apply.workable.com/eluvio/j/F70F3473E7/apply",
       "seen_at": "2026-05-09T23:27:29.152954+00:00"
+    },
+    {
+      "id": "greenhouse-robinhood-7747728",
+      "seen_at": "2026-05-10T05:08:10.052704+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/robinhood/jobs/7747728",
+      "seen_at": "2026-05-10T05:08:10.052778+00:00"
     }
   ],
-  "last_run": "2026-05-10T01:23:10.047121+00:00",
-  "total_notified": 81,
+  "last_run": "2026-05-10T05:08:10.262454+00:00",
+  "total_notified": 82,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4211,7 +4219,9 @@
       "ashby-openai-f659227e-e916-45fc-8726-6861f60979b6",
       "url:https://jobs.ashbyhq.com/openai/f659227e-e916-45fc-8726-6861f60979b6",
       "ashby-perplexity-f25e190e-0508-4707-b575-fcaed358dc13",
-      "url:https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13"
+      "url:https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13",
+      "greenhouse-robinhood-7747728",
+      "url:https://boards.greenhouse.io/robinhood/jobs/7747728"
     ]
   }
 }
