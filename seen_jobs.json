@@ -3095,10 +3095,82 @@
     {
       "id": "url:https://databricks.com/company/careers/open-positions/job",
       "seen_at": "2026-05-11T23:14:47.336068+00:00"
+    },
+    {
+      "id": "simplify-9c45103b-7822-4919-a5ff-5ba4283c2a53",
+      "seen_at": "2026-05-12T00:13:41.083803+00:00"
+    },
+    {
+      "id": "url:https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineering-Intern--Summer-2026_10135339-2",
+      "seen_at": "2026-05-12T00:13:41.083885+00:00"
+    },
+    {
+      "id": "simplify-1d09cef0-ee74-42ab-8da4-b8debac1e317",
+      "seen_at": "2026-05-12T00:13:41.083947+00:00"
+    },
+    {
+      "id": "url:https://careers-lmi.icims.com/jobs/14031/job",
+      "seen_at": "2026-05-12T00:13:41.084002+00:00"
+    },
+    {
+      "id": "simplify-342c3878-0f0a-4f31-b343-8989d1ef68b7",
+      "seen_at": "2026-05-12T00:13:41.084065+00:00"
+    },
+    {
+      "id": "url:https://goodrx.wd1.myworkdayjobs.com/Careers/job/New-York-City-NY/AI-Agent-Developer-Intern_JR100607",
+      "seen_at": "2026-05-12T00:13:41.084124+00:00"
+    },
+    {
+      "id": "simplify-0910ff0b-c0a1-4f8f-aeb8-eba0cddb551c",
+      "seen_at": "2026-05-12T00:13:41.084180+00:00"
+    },
+    {
+      "id": "url:http://jobs.ashbyhq.com/heron-power/46097ca0-4093-4a56-9c44-8ec41617bbc0/application",
+      "seen_at": "2026-05-12T00:13:41.084234+00:00"
+    },
+    {
+      "id": "simplify-22ccd792-b030-4ca3-86f6-575f054bd427",
+      "seen_at": "2026-05-12T00:13:41.084363+00:00"
+    },
+    {
+      "id": "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17709",
+      "seen_at": "2026-05-12T00:13:41.084422+00:00"
+    },
+    {
+      "id": "simplify-73ceaf56-0208-4efc-ab70-3dea4246f067",
+      "seen_at": "2026-05-12T00:13:41.084479+00:00"
+    },
+    {
+      "id": "url:http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application",
+      "seen_at": "2026-05-12T00:13:41.084531+00:00"
+    },
+    {
+      "id": "simplify-562cbc1f-78de-477b-af0a-f684cdf59545",
+      "seen_at": "2026-05-12T00:13:41.084586+00:00"
+    },
+    {
+      "id": "url:https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372-1",
+      "seen_at": "2026-05-12T00:13:41.084638+00:00"
+    },
+    {
+      "id": "simplify-d738cea5-b94d-4242-a6e3-00a441104aad",
+      "seen_at": "2026-05-12T00:13:41.084695+00:00"
+    },
+    {
+      "id": "url:https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Software-Engineering-Intern_R52141-1",
+      "seen_at": "2026-05-12T00:13:41.084749+00:00"
+    },
+    {
+      "id": "simplify-338290b2-169c-4c00-b650-320c3455c38e",
+      "seen_at": "2026-05-12T00:13:41.084804+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/spacex/jobs/8542046002",
+      "seen_at": "2026-05-12T00:13:41.084859+00:00"
     }
   ],
-  "last_run": "2026-05-11T23:14:47.546868+00:00",
-  "total_notified": 88,
+  "last_run": "2026-05-12T00:13:41.705174+00:00",
+  "total_notified": 97,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -3807,7 +3879,25 @@
       "simplify-10ea6ba5-ff6a-4396-9ba5-86f0e059112c",
       "url:https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372-2",
       "simplify-f11a31a6-cfa0-4524-81b9-15e3ed97acaf",
-      "url:https://jobs.ashbyhq.com/super.com/026d7e42-85b6-4baa-bab8-bf3f6d10bc0d/application"
+      "url:https://jobs.ashbyhq.com/super.com/026d7e42-85b6-4baa-bab8-bf3f6d10bc0d/application",
+      "simplify-9c45103b-7822-4919-a5ff-5ba4283c2a53",
+      "url:https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineering-Intern--Summer-2026_10135339-2",
+      "simplify-1d09cef0-ee74-42ab-8da4-b8debac1e317",
+      "url:https://careers-lmi.icims.com/jobs/14031/job",
+      "simplify-342c3878-0f0a-4f31-b343-8989d1ef68b7",
+      "url:https://goodrx.wd1.myworkdayjobs.com/Careers/job/New-York-City-NY/AI-Agent-Developer-Intern_JR100607",
+      "simplify-0910ff0b-c0a1-4f8f-aeb8-eba0cddb551c",
+      "url:http://jobs.ashbyhq.com/heron-power/46097ca0-4093-4a56-9c44-8ec41617bbc0/application",
+      "simplify-22ccd792-b030-4ca3-86f6-575f054bd427",
+      "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17709",
+      "simplify-73ceaf56-0208-4efc-ab70-3dea4246f067",
+      "url:http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application",
+      "simplify-562cbc1f-78de-477b-af0a-f684cdf59545",
+      "url:https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372-1",
+      "simplify-d738cea5-b94d-4242-a6e3-00a441104aad",
+      "url:https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Software-Engineering-Intern_R52141-1",
+      "simplify-338290b2-169c-4c00-b650-320c3455c38e",
+      "url:https://boards.greenhouse.io/spacex/jobs/8542046002"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
