@@ -3183,10 +3183,34 @@
     {
       "id": "url:https://boards.greenhouse.io/apptronik/jobs/5993905004",
       "seen_at": "2026-05-12T07:19:23.761381+00:00"
+    },
+    {
+      "id": "simplify-2d438595-f937-4666-af6b-e141fa777079",
+      "seen_at": "2026-05-12T16:58:52.986365+00:00"
+    },
+    {
+      "id": "url:https://careers-cotiviti.icims.com/jobs/18950/job",
+      "seen_at": "2026-05-12T16:58:52.986454+00:00"
+    },
+    {
+      "id": "simplify-0e79ef0c-9caf-4c3b-bc58-270866bd69df",
+      "seen_at": "2026-05-12T16:58:52.986524+00:00"
+    },
+    {
+      "id": "url:https://www.pindrop.com/careers/job-title",
+      "seen_at": "2026-05-12T16:58:52.986586+00:00"
+    },
+    {
+      "id": "simplify-d4f6f6bc-3852-4c6c-9944-6136eaffc260",
+      "seen_at": "2026-05-12T16:58:53.985621+00:00"
+    },
+    {
+      "id": "url:https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Product-Manager--Content-Platforms_R38907",
+      "seen_at": "2026-05-12T16:58:53.985707+00:00"
     }
   ],
-  "last_run": "2026-05-12T14:46:23.646450+00:00",
-  "total_notified": 99,
+  "last_run": "2026-05-12T16:58:54.168207+00:00",
+  "total_notified": 102,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -3917,7 +3941,11 @@
       "simplify-1f487f77-2747-4099-b366-ec3c03fb88d5",
       "url:https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808",
       "simplify-2b6d2595-06f0-4103-b393-558ce3b58804",
-      "url:https://boards.greenhouse.io/apptronik/jobs/5993905004"
+      "url:https://boards.greenhouse.io/apptronik/jobs/5993905004",
+      "simplify-2d438595-f937-4666-af6b-e141fa777079",
+      "url:https://careers-cotiviti.icims.com/jobs/18950/job",
+      "simplify-0e79ef0c-9caf-4c3b-bc58-270866bd69df",
+      "url:https://www.pindrop.com/careers/job-title"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4391,7 +4419,9 @@
       "simplify-f6828d11-8794-49da-965a-3a6dd7bebca2",
       "url:https://ats.rippling.com/energycap-external-career-page/jobs/e448abdb-dbef-4918-9cd9-0987fb413f00",
       "greenhouse-databricks-8542188002",
-      "url:https://databricks.com/company/careers/open-positions/job"
+      "url:https://databricks.com/company/careers/open-positions/job",
+      "simplify-d4f6f6bc-3852-4c6c-9944-6136eaffc260",
+      "url:https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Product-Manager--Content-Platforms_R38907"
     ]
   }
 }
