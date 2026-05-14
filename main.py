@@ -337,10 +337,12 @@ def filter_recent_jobs(jobs: list[Job]) -> list[Job]:
     cutoff = datetime.now(tz=timezone.utc) - timedelta(hours=max_age_hours)
     # datetime.min means unparseable — keep those jobs rather than silently dropping them
     min_dt = datetime.min.replace(tzinfo=timezone.utc)
-    recent = [
-        job for job in jobs
-        if _parse_dt(job.posted_at) == min_dt or _parse_dt(job.posted_at) >= cutoff
-    ]
+    recent = []
+    for job in jobs:
+        posted_dt = _parse_dt(job.posted_at)
+        if posted_dt == min_dt or posted_dt >= cutoff:
+            recent.append(job)
+
     skipped = len(jobs) - len(recent)
     print(
         f"[INFO] Recent posting filter: kept {len(recent)} of {len(jobs)} "
