@@ -71,8 +71,13 @@ async def _post_webhook(
 def _build_job_embed(job: Job) -> dict:
     source_label = PLATFORM_LABELS.get(job.platform, job.platform.capitalize())
     color = PLATFORM_COLORS.get(job.platform, 5814783)
+
+    title = f"\U0001f680 {job.title}"
+    if len(title) > 256:
+        title = title[:253] + "..."
+
     return {
-        "title": f"\U0001f680 {job.title}",
+        "title": title,
         "description": f"**{job.company}**",
         "color": color,
         "fields": [

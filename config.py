@@ -134,6 +134,7 @@ DEFAULT_PM_KEYWORDS: list[str] = [
     "technical program manager",
     "apm",
     "associate product manager",
+    "pm",
     "pm intern",
     "product intern",
     "product manager intern",
