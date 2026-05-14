@@ -3383,10 +3383,18 @@
     {
       "id": "url:https://www.pinterestcareers.com/jobs",
       "seen_at": "2026-05-14T16:52:48.602938+00:00"
+    },
+    {
+      "id": "ashby-openai-73e59b84-2e87-4637-8c4a-d271784afb30",
+      "seen_at": "2026-05-14T19:01:07.136381+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/73e59b84-2e87-4637-8c4a-d271784afb30",
+      "seen_at": "2026-05-14T19:01:07.136451+00:00"
     }
   ],
-  "last_run": "2026-05-14T16:52:49.004953+00:00",
-  "total_notified": 124,
+  "last_run": "2026-05-14T19:01:07.646667+00:00",
+  "total_notified": 125,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4641,7 +4649,9 @@
       "simplify-e773a916-0d51-4285-9184-cc7ac0e53157",
       "url:https://careers.paramount.com/job/New-York-Associate-Product-Manager,-Content-Discovery-NY-10036/1390724500",
       "greenhouse-pinterest-7572846",
-      "url:https://www.pinterestcareers.com/jobs"
+      "url:https://www.pinterestcareers.com/jobs",
+      "ashby-openai-73e59b84-2e87-4637-8c4a-d271784afb30",
+      "url:https://jobs.ashbyhq.com/openai/73e59b84-2e87-4637-8c4a-d271784afb30"
     ]
   }
 }
