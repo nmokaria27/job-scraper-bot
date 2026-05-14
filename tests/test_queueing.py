@@ -1,5 +1,10 @@
 import unittest
-from unittest.mock import AsyncMock, patch
+from unittest.mock import AsyncMock, patch, MagicMock
+import sys
+
+# Mock dependencies
+sys.modules["httpx"] = MagicMock()
+sys.modules["dotenv"] = MagicMock()
 
 import main
 from config import ChannelConfig
@@ -14,7 +19,7 @@ def _job(job_id: str, title: str) -> Job:
         location="Remote",
         url=f"https://example.com/{job_id}",
         platform="greenhouse",
-        posted_at="2026-05-09T20:00:00+00:00",
+        posted_at="2026-05-20T20:00:00+00:00",
     )
 
 
