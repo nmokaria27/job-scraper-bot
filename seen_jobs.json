@@ -3399,10 +3399,66 @@
     {
       "id": "url:https://careers.airbnb.com/positions/7724793",
       "seen_at": "2026-05-14T21:55:11.288146+00:00"
+    },
+    {
+      "id": "simplify-7107711b-0874-460d-932c-0c0d7b729f42",
+      "seen_at": "2026-05-14T23:06:44.757435+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
+      "seen_at": "2026-05-14T23:06:44.757516+00:00"
+    },
+    {
+      "id": "simplify-0b352fd8-7dee-4e65-8846-33b2e923501f",
+      "seen_at": "2026-05-14T23:06:44.757570+00:00"
+    },
+    {
+      "id": "url:https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Systems-Engineering-Intern_JR-050137",
+      "seen_at": "2026-05-14T23:06:44.757618+00:00"
+    },
+    {
+      "id": "simplify-e5bf0800-58fa-41cf-bba9-7799f4f540f5",
+      "seen_at": "2026-05-14T23:06:44.757663+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply",
+      "seen_at": "2026-05-14T23:06:44.757705+00:00"
+    },
+    {
+      "id": "simplify-eca63208-50e6-4098-b86b-605490231b25",
+      "seen_at": "2026-05-14T23:06:44.757757+00:00"
+    },
+    {
+      "id": "url:https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Headquarters-Austin-Texas-USA/AI-Data-Engineer---Intern_R013414",
+      "seen_at": "2026-05-14T23:06:44.757802+00:00"
+    },
+    {
+      "id": "simplify-563916cf-2297-4c6b-93cc-b171f73555c4",
+      "seen_at": "2026-05-14T23:06:44.757845+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329/apply",
+      "seen_at": "2026-05-14T23:06:44.757885+00:00"
+    },
+    {
+      "id": "simplify-41ff9380-1d22-490e-a190-d2eb855c621f",
+      "seen_at": "2026-05-14T23:06:44.757930+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/andurilindustries/jobs/4824364007",
+      "seen_at": "2026-05-14T23:06:44.757973+00:00"
+    },
+    {
+      "id": "simplify-2df094b0-080f-4cc3-afdb-ddeb4e1763c7",
+      "seen_at": "2026-05-14T23:06:45.877224+00:00"
+    },
+    {
+      "id": "url:https://jobs-legrand.icims.com/jobs/10084/job",
+      "seen_at": "2026-05-14T23:06:45.877293+00:00"
     }
   ],
-  "last_run": "2026-05-14T21:55:11.520387+00:00",
-  "total_notified": 126,
+  "last_run": "2026-05-14T23:06:46.117066+00:00",
+  "total_notified": 133,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4171,7 +4227,19 @@
       "simplify-4d7ad178-4be6-479d-bd8b-60b790ff41c0",
       "url:https://careers-here.icims.com/jobs/81365/job",
       "simplify-43b2af20-7249-409a-804c-33660fbc084b",
-      "url:https://careers-here.icims.com/jobs/81366/job"
+      "url:https://careers-here.icims.com/jobs/81366/job",
+      "simplify-7107711b-0874-460d-932c-0c0d7b729f42",
+      "url:https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
+      "simplify-0b352fd8-7dee-4e65-8846-33b2e923501f",
+      "url:https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Systems-Engineering-Intern_JR-050137",
+      "simplify-e5bf0800-58fa-41cf-bba9-7799f4f540f5",
+      "url:https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply",
+      "simplify-eca63208-50e6-4098-b86b-605490231b25",
+      "url:https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Headquarters-Austin-Texas-USA/AI-Data-Engineer---Intern_R013414",
+      "simplify-563916cf-2297-4c6b-93cc-b171f73555c4",
+      "url:https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329/apply",
+      "simplify-41ff9380-1d22-490e-a190-d2eb855c621f",
+      "url:https://boards.greenhouse.io/andurilindustries/jobs/4824364007"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4661,7 +4729,9 @@
       "ashby-openai-73e59b84-2e87-4637-8c4a-d271784afb30",
       "url:https://jobs.ashbyhq.com/openai/73e59b84-2e87-4637-8c4a-d271784afb30",
       "greenhouse-airbnb-7724793",
-      "url:https://careers.airbnb.com/positions/7724793"
+      "url:https://careers.airbnb.com/positions/7724793",
+      "simplify-2df094b0-080f-4cc3-afdb-ddeb4e1763c7",
+      "url:https://jobs-legrand.icims.com/jobs/10084/job"
     ]
   }
 }
