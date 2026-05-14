@@ -3335,10 +3335,50 @@
     {
       "id": "url:https://careers.paramount.com/job/New-York-Associate-Product-Manager,-Content-Discovery-NY-10036/1390724500",
       "seen_at": "2026-05-14T05:29:34.400559+00:00"
+    },
+    {
+      "id": "simplify-bafdf9d6-eb11-43b4-875d-8ac5adff7bf1",
+      "seen_at": "2026-05-14T14:46:42.455364+00:00"
+    },
+    {
+      "id": "url:https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14137",
+      "seen_at": "2026-05-14T14:46:42.455462+00:00"
+    },
+    {
+      "id": "simplify-fc80dc34-b90c-409e-826e-3cb8fe375363",
+      "seen_at": "2026-05-14T14:46:42.455531+00:00"
+    },
+    {
+      "id": "url:https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13850",
+      "seen_at": "2026-05-14T14:46:42.455591+00:00"
+    },
+    {
+      "id": "simplify-2db79cb5-1519-49e1-90eb-ec0df441af72",
+      "seen_at": "2026-05-14T14:46:42.455655+00:00"
+    },
+    {
+      "id": "url:https://careers-here.icims.com/jobs/81364/job",
+      "seen_at": "2026-05-14T14:46:42.455716+00:00"
+    },
+    {
+      "id": "simplify-4d7ad178-4be6-479d-bd8b-60b790ff41c0",
+      "seen_at": "2026-05-14T14:46:42.455783+00:00"
+    },
+    {
+      "id": "url:https://careers-here.icims.com/jobs/81365/job",
+      "seen_at": "2026-05-14T14:46:42.455846+00:00"
+    },
+    {
+      "id": "simplify-43b2af20-7249-409a-804c-33660fbc084b",
+      "seen_at": "2026-05-14T14:46:42.455910+00:00"
+    },
+    {
+      "id": "url:https://careers-here.icims.com/jobs/81366/job",
+      "seen_at": "2026-05-14T14:46:42.455971+00:00"
     }
   ],
-  "last_run": "2026-05-14T12:14:53.046154+00:00",
-  "total_notified": 118,
+  "last_run": "2026-05-14T14:46:43.184761+00:00",
+  "total_notified": 123,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4097,7 +4137,17 @@
       "simplify-94864550-b0e6-450c-8d40-ffb7bd29fb33",
       "url:https://careers-gdms.icims.com/jobs/72599/job",
       "simplify-179d5518-f863-47a7-a59e-16209c5f6e1c",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Data-Engineer-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2619452-1"
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Data-Engineer-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2619452-1",
+      "simplify-bafdf9d6-eb11-43b4-875d-8ac5adff7bf1",
+      "url:https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14137",
+      "simplify-fc80dc34-b90c-409e-826e-3cb8fe375363",
+      "url:https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13850",
+      "simplify-2db79cb5-1519-49e1-90eb-ec0df441af72",
+      "url:https://careers-here.icims.com/jobs/81364/job",
+      "simplify-4d7ad178-4be6-479d-bd8b-60b790ff41c0",
+      "url:https://careers-here.icims.com/jobs/81365/job",
+      "simplify-43b2af20-7249-409a-804c-33660fbc084b",
+      "url:https://careers-here.icims.com/jobs/81366/job"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
