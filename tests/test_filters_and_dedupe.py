@@ -1,7 +1,12 @@
 import json
 import os
 import unittest
-from unittest.mock import patch
+from unittest.mock import patch, MagicMock
+import sys
+
+# Mock dependencies
+sys.modules["httpx"] = MagicMock()
+sys.modules["dotenv"] = MagicMock()
 
 import config
 import main
@@ -150,7 +155,7 @@ class DedupeBehaviorTests(unittest.TestCase):
             location="Remote",
             url=url,
             platform=platform,
-            posted_at="2026-05-08T15:00:00+00:00",
+            posted_at="2026-05-20T20:00:00+00:00",
         )
 
     def test_canonical_dedupe_prefers_direct_ats_posting(self) -> None:
