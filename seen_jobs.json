@@ -3223,10 +3223,42 @@
     {
       "id": "url:https://job-boards.greenhouse.io/vercel/jobs/5979660004",
       "seen_at": "2026-05-13T22:21:19.111074+00:00"
+    },
+    {
+      "id": "simplify-e018a2ac-82d3-4544-85aa-440aa29efa03",
+      "seen_at": "2026-05-14T01:29:26.013862+00:00"
+    },
+    {
+      "id": "url:https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290",
+      "seen_at": "2026-05-14T01:29:26.013952+00:00"
+    },
+    {
+      "id": "simplify-1f3992a5-b615-416d-8650-f6a6a7316db4",
+      "seen_at": "2026-05-14T01:29:26.014083+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/cloudflare/jobs/7914628",
+      "seen_at": "2026-05-14T01:29:26.014162+00:00"
+    },
+    {
+      "id": "simplify-ee43242e-e576-41dd-b7b1-74beb01b8853",
+      "seen_at": "2026-05-14T01:29:26.014230+00:00"
+    },
+    {
+      "id": "url:https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CA-Sunnyvale/Firmware-Engineer-Intern_R56042",
+      "seen_at": "2026-05-14T01:29:26.014296+00:00"
+    },
+    {
+      "id": "simplify-825beba1-766e-4140-8632-472069da865c",
+      "seen_at": "2026-05-14T01:29:26.014363+00:00"
+    },
+    {
+      "id": "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrical-RF-Engineer_R0161386",
+      "seen_at": "2026-05-14T01:29:26.014427+00:00"
     }
   ],
-  "last_run": "2026-05-13T23:33:53.303981+00:00",
-  "total_notified": 104,
+  "last_run": "2026-05-14T01:29:26.760057+00:00",
+  "total_notified": 108,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -3961,7 +3993,15 @@
       "simplify-2d438595-f937-4666-af6b-e141fa777079",
       "url:https://careers-cotiviti.icims.com/jobs/18950/job",
       "simplify-0e79ef0c-9caf-4c3b-bc58-270866bd69df",
-      "url:https://www.pindrop.com/careers/job-title"
+      "url:https://www.pindrop.com/careers/job-title",
+      "simplify-e018a2ac-82d3-4544-85aa-440aa29efa03",
+      "url:https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290",
+      "simplify-1f3992a5-b615-416d-8650-f6a6a7316db4",
+      "url:https://boards.greenhouse.io/cloudflare/jobs/7914628",
+      "simplify-ee43242e-e576-41dd-b7b1-74beb01b8853",
+      "url:https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CA-Sunnyvale/Firmware-Engineer-Intern_R56042",
+      "simplify-825beba1-766e-4140-8632-472069da865c",
+      "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrical-RF-Engineer_R0161386"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
