@@ -3503,10 +3503,26 @@
     {
       "id": "url:https://careers-nikkiso.icims.com/jobs/3975/job",
       "seen_at": "2026-05-15T07:43:08.601799+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-7654981",
+      "seen_at": "2026-05-15T14:39:44.617720+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/7654981",
+      "seen_at": "2026-05-15T14:39:44.617804+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-7608826",
+      "seen_at": "2026-05-15T14:39:44.617871+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/7608826",
+      "seen_at": "2026-05-15T14:39:44.617928+00:00"
     }
   ],
-  "last_run": "2026-05-15T12:15:17.892077+00:00",
-  "total_notified": 139,
+  "last_run": "2026-05-15T14:39:44.812297+00:00",
+  "total_notified": 141,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4791,7 +4807,11 @@
       "greenhouse-airbnb-7724793",
       "url:https://careers.airbnb.com/positions/7724793",
       "simplify-2df094b0-080f-4cc3-afdb-ddeb4e1763c7",
-      "url:https://jobs-legrand.icims.com/jobs/10084/job"
+      "url:https://jobs-legrand.icims.com/jobs/10084/job",
+      "greenhouse-datadog-7654981",
+      "url:https://careers.datadoghq.com/detail/7654981",
+      "greenhouse-datadog-7608826",
+      "url:https://careers.datadoghq.com/detail/7608826"
     ]
   }
 }
