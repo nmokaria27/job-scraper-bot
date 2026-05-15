@@ -3479,10 +3479,26 @@
     {
       "id": "url:https://careers-gdms.icims.com/jobs/72627/job",
       "seen_at": "2026-05-15T00:07:49.272170+00:00"
+    },
+    {
+      "id": "simplify-c623e3d0-43d6-4ba5-93dc-077ec55a1bb3",
+      "seen_at": "2026-05-15T04:31:17.160785+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/phil/4626509e-297e-4a03-b5b1-7d72cbbc5b82/application",
+      "seen_at": "2026-05-15T04:31:17.160918+00:00"
+    },
+    {
+      "id": "simplify-32659ea8-8393-4c4f-a36d-1a066a56d685",
+      "seen_at": "2026-05-15T04:31:17.161001+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2018183",
+      "seen_at": "2026-05-15T04:31:17.161051+00:00"
     }
   ],
-  "last_run": "2026-05-15T00:07:50.264050+00:00",
-  "total_notified": 136,
+  "last_run": "2026-05-15T04:31:18.169710+00:00",
+  "total_notified": 138,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4269,7 +4285,11 @@
       "simplify-441050ea-b57f-4448-ae69-2a4a8646229f",
       "url:https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333/apply",
       "simplify-46331ad3-7edc-4714-b585-604a12f6cc3c",
-      "url:https://careers-gdms.icims.com/jobs/72627/job"
+      "url:https://careers-gdms.icims.com/jobs/72627/job",
+      "simplify-c623e3d0-43d6-4ba5-93dc-077ec55a1bb3",
+      "url:https://jobs.ashbyhq.com/phil/4626509e-297e-4a03-b5b1-7d72cbbc5b82/application",
+      "simplify-32659ea8-8393-4c4f-a36d-1a066a56d685",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2018183"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
