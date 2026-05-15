@@ -3535,10 +3535,50 @@
     {
       "id": "url:https://app.careerpuck.com/job-board/lyft/job/8550252002",
       "seen_at": "2026-05-15T19:56:34.032704+00:00"
+    },
+    {
+      "id": "simplify-78ecf03f-56f1-4a4f-8ec9-e5b351b77080",
+      "seen_at": "2026-05-15T23:15:37.390942+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/docugami/jobs/4014838003",
+      "seen_at": "2026-05-15T23:15:37.391071+00:00"
+    },
+    {
+      "id": "simplify-b01e4509-72ac-44dc-9169-a32bf84581e1",
+      "seen_at": "2026-05-15T23:15:37.391182+00:00"
+    },
+    {
+      "id": "url:https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Software-Developer---Intern_R0043779-1",
+      "seen_at": "2026-05-15T23:15:37.391284+00:00"
+    },
+    {
+      "id": "simplify-80c10135-3bc2-4feb-84a6-60cf4bb215df",
+      "seen_at": "2026-05-15T23:15:37.391377+00:00"
+    },
+    {
+      "id": "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NY-Albany/Summer-2026-Software-Developer--Intern-_RQ216779-3",
+      "seen_at": "2026-05-15T23:15:37.391456+00:00"
+    },
+    {
+      "id": "simplify-fdce2e24-1ce2-4cdb-b33c-fd0b50293bb5",
+      "seen_at": "2026-05-15T23:15:39.045440+00:00"
+    },
+    {
+      "id": "url:https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20260937",
+      "seen_at": "2026-05-15T23:15:39.045615+00:00"
+    },
+    {
+      "id": "simplify-5e8c8a5a-8a17-488a-935d-9489a58c8d4a",
+      "seen_at": "2026-05-15T23:15:39.045733+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/patientpoint/jobs/4695334005",
+      "seen_at": "2026-05-15T23:15:39.045832+00:00"
     }
   ],
-  "last_run": "2026-05-15T22:13:21.809333+00:00",
-  "total_notified": 143,
+  "last_run": "2026-05-15T23:15:39.208675+00:00",
+  "total_notified": 148,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4331,7 +4371,13 @@
       "simplify-32659ea8-8393-4c4f-a36d-1a066a56d685",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2018183",
       "simplify-e131826c-4066-45d3-9279-45b6809548f8",
-      "url:https://careers-nikkiso.icims.com/jobs/3975/job"
+      "url:https://careers-nikkiso.icims.com/jobs/3975/job",
+      "simplify-78ecf03f-56f1-4a4f-8ec9-e5b351b77080",
+      "url:https://job-boards.greenhouse.io/docugami/jobs/4014838003",
+      "simplify-b01e4509-72ac-44dc-9169-a32bf84581e1",
+      "url:https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Software-Developer---Intern_R0043779-1",
+      "simplify-80c10135-3bc2-4feb-84a6-60cf4bb215df",
+      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NY-Albany/Summer-2026-Software-Developer--Intern-_RQ216779-3"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4831,7 +4877,11 @@
       "greenhouse-lyft-8550274002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8550274002",
       "greenhouse-lyft-8550252002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8550252002"
+      "url:https://app.careerpuck.com/job-board/lyft/job/8550252002",
+      "simplify-fdce2e24-1ce2-4cdb-b33c-fd0b50293bb5",
+      "url:https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20260937",
+      "simplify-5e8c8a5a-8a17-488a-935d-9489a58c8d4a",
+      "url:https://job-boards.greenhouse.io/patientpoint/jobs/4695334005"
     ]
   }
 }
