@@ -3623,10 +3623,26 @@
     {
       "id": "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Excellence-Intern_R041330",
       "seen_at": "2026-05-16T22:26:29.323136+00:00"
+    },
+    {
+      "id": "simplify-9fc8a614-08fa-458a-ae94-17287abd6840",
+      "seen_at": "2026-05-16T23:31:45.888543+00:00"
+    },
+    {
+      "id": "url:https://cisecurity.wd1.myworkdayjobs.com/CIS_External_Career_Site/job/Remote/Security-Engineering-Intern---Remote_JR100204",
+      "seen_at": "2026-05-16T23:31:45.888629+00:00"
+    },
+    {
+      "id": "simplify-837f275c-c314-436a-9c5b-9f8c18daa488",
+      "seen_at": "2026-05-16T23:31:45.888684+00:00"
+    },
+    {
+      "id": "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Software-Engineer-Intern_R041331",
+      "seen_at": "2026-05-16T23:31:45.888732+00:00"
     }
   ],
-  "last_run": "2026-05-16T22:26:29.912365+00:00",
-  "total_notified": 154,
+  "last_run": "2026-05-16T23:31:46.478706+00:00",
+  "total_notified": 156,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4437,7 +4453,11 @@
       "simplify-7f826bfb-a9e6-425c-a6dc-82510874e1d0",
       "url:https://boards.greenhouse.io/neuralink/jobs/5469298003",
       "simplify-27c082da-62c4-4f26-8137-74728d05965e",
-      "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Excellence-Intern_R041330"
+      "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Excellence-Intern_R041330",
+      "simplify-9fc8a614-08fa-458a-ae94-17287abd6840",
+      "url:https://cisecurity.wd1.myworkdayjobs.com/CIS_External_Career_Site/job/Remote/Security-Engineering-Intern---Remote_JR100204",
+      "simplify-837f275c-c314-436a-9c5b-9f8c18daa488",
+      "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Software-Engineer-Intern_R041331"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
