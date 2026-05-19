@@ -3695,10 +3695,58 @@
     {
       "id": "url:https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Product-Management-Intern_JR202636494",
       "seen_at": "2026-05-19T01:50:48.272302+00:00"
+    },
+    {
+      "id": "simplify-4c0024f1-02ba-49f5-a0b6-2033ea3e8ccf",
+      "seen_at": "2026-05-19T05:54:24.227685+00:00"
+    },
+    {
+      "id": "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-I--Intern----United-States_2007170",
+      "seen_at": "2026-05-19T05:54:24.227755+00:00"
+    },
+    {
+      "id": "simplify-16f8011e-fc9d-4983-89eb-fa56f1bafc0d",
+      "seen_at": "2026-05-19T05:54:24.227802+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/plus-2/30dd9b9b-48c8-4777-97f6-8edb30db12e4/apply",
+      "seen_at": "2026-05-19T05:54:24.227839+00:00"
+    },
+    {
+      "id": "simplify-80123cbc-f5c6-4a6e-95bd-f97fb3c9d32b",
+      "seen_at": "2026-05-19T05:54:24.227875+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/linqapp/808baa26-e5ba-45dd-9c44-7ab685e742c1/application",
+      "seen_at": "2026-05-19T05:54:24.227909+00:00"
+    },
+    {
+      "id": "simplify-7b728d82-4363-4654-b38a-640d01135c35",
+      "seen_at": "2026-05-19T05:54:24.227945+00:00"
+    },
+    {
+      "id": "url:https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Milpitas-CA/New-Grad--3D-Graphics-Software-Engineer_R6845",
+      "seen_at": "2026-05-19T05:54:24.227979+00:00"
+    },
+    {
+      "id": "simplify-5c4a7def-1af2-41c3-94ca-2c887fe55ef7",
+      "seen_at": "2026-05-19T05:54:24.228021+00:00"
+    },
+    {
+      "id": "url:https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer---ML-Ops_R6028",
+      "seen_at": "2026-05-19T05:54:24.228056+00:00"
+    },
+    {
+      "id": "simplify-dc061f7a-36a5-4776-804f-da5d96e1038a",
+      "seen_at": "2026-05-19T05:54:25.412800+00:00"
+    },
+    {
+      "id": "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Customer-Experience-Product-Management-Specialist-I--Intern----United-States_2008430",
+      "seen_at": "2026-05-19T05:54:25.412860+00:00"
     }
   ],
-  "last_run": "2026-05-19T01:50:48.456177+00:00",
-  "total_notified": 163,
+  "last_run": "2026-05-19T05:54:25.823677+00:00",
+  "total_notified": 169,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4523,7 +4571,17 @@
       "simplify-d3ee5bc4-7518-4aa5-b4c1-53a1a4793a3e",
       "url:https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073/application",
       "simplify-0ee42cec-fd2b-4ffa-8687-8c302e90fbcf",
-      "url:https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application"
+      "url:https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application",
+      "simplify-4c0024f1-02ba-49f5-a0b6-2033ea3e8ccf",
+      "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-I--Intern----United-States_2007170",
+      "simplify-16f8011e-fc9d-4983-89eb-fa56f1bafc0d",
+      "url:https://jobs.lever.co/plus-2/30dd9b9b-48c8-4777-97f6-8edb30db12e4/apply",
+      "simplify-80123cbc-f5c6-4a6e-95bd-f97fb3c9d32b",
+      "url:https://jobs.ashbyhq.com/linqapp/808baa26-e5ba-45dd-9c44-7ab685e742c1/application",
+      "simplify-7b728d82-4363-4654-b38a-640d01135c35",
+      "url:https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Milpitas-CA/New-Grad--3D-Graphics-Software-Engineer_R6845",
+      "simplify-5c4a7def-1af2-41c3-94ca-2c887fe55ef7",
+      "url:https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer---ML-Ops_R6028"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -5031,7 +5089,9 @@
       "simplify-4c6b0af0-6b75-452c-95fd-8cf1d08156bb",
       "url:https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Travel-Product-Intern_JR202636489",
       "simplify-00e94c3e-867f-4c05-895d-7f3ca4d5af12",
-      "url:https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Product-Management-Intern_JR202636494"
+      "url:https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Product-Management-Intern_JR202636494",
+      "simplify-dc061f7a-36a5-4776-804f-da5d96e1038a",
+      "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Customer-Experience-Product-Management-Specialist-I--Intern----United-States_2008430"
     ]
   }
 }
