@@ -3663,10 +3663,42 @@
     {
       "id": "url:https://jobs.smartrecruiters.com/BoschGroup/744000127066949",
       "seen_at": "2026-05-18T23:40:57.467982+00:00"
+    },
+    {
+      "id": "simplify-d3ee5bc4-7518-4aa5-b4c1-53a1a4793a3e",
+      "seen_at": "2026-05-19T01:50:46.685505+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073/application",
+      "seen_at": "2026-05-19T01:50:46.685592+00:00"
+    },
+    {
+      "id": "simplify-0ee42cec-fd2b-4ffa-8687-8c302e90fbcf",
+      "seen_at": "2026-05-19T01:50:46.685715+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application",
+      "seen_at": "2026-05-19T01:50:46.685785+00:00"
+    },
+    {
+      "id": "simplify-4c6b0af0-6b75-452c-95fd-8cf1d08156bb",
+      "seen_at": "2026-05-19T01:50:48.272106+00:00"
+    },
+    {
+      "id": "url:https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Travel-Product-Intern_JR202636489",
+      "seen_at": "2026-05-19T01:50:48.272191+00:00"
+    },
+    {
+      "id": "simplify-00e94c3e-867f-4c05-895d-7f3ca4d5af12",
+      "seen_at": "2026-05-19T01:50:48.272253+00:00"
+    },
+    {
+      "id": "url:https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Product-Management-Intern_JR202636494",
+      "seen_at": "2026-05-19T01:50:48.272302+00:00"
     }
   ],
-  "last_run": "2026-05-18T23:40:58.007004+00:00",
-  "total_notified": 159,
+  "last_run": "2026-05-19T01:50:48.456177+00:00",
+  "total_notified": 163,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4487,7 +4519,11 @@
       "simplify-d29dfc6f-0843-457f-833e-51401c4ef53c",
       "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0161488",
       "simplify-d0bc21c9-3d8f-4e73-8ed7-53c72148c6fd",
-      "url:https://jobs.smartrecruiters.com/BoschGroup/744000127066949"
+      "url:https://jobs.smartrecruiters.com/BoschGroup/744000127066949",
+      "simplify-d3ee5bc4-7518-4aa5-b4c1-53a1a4793a3e",
+      "url:https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073/application",
+      "simplify-0ee42cec-fd2b-4ffa-8687-8c302e90fbcf",
+      "url:https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4991,7 +5027,11 @@
       "simplify-fdce2e24-1ce2-4cdb-b33c-fd0b50293bb5",
       "url:https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20260937",
       "simplify-5e8c8a5a-8a17-488a-935d-9489a58c8d4a",
-      "url:https://job-boards.greenhouse.io/patientpoint/jobs/4695334005"
+      "url:https://job-boards.greenhouse.io/patientpoint/jobs/4695334005",
+      "simplify-4c6b0af0-6b75-452c-95fd-8cf1d08156bb",
+      "url:https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Travel-Product-Intern_JR202636489",
+      "simplify-00e94c3e-867f-4c05-895d-7f3ca4d5af12",
+      "url:https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Product-Management-Intern_JR202636494"
     ]
   }
 }
