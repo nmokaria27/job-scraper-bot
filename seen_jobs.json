@@ -3791,10 +3791,18 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager_JR342622",
       "seen_at": "2026-05-19T10:01:59.227637+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5220143008",
+      "seen_at": "2026-05-19T12:48:47.354132+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5220143008",
+      "seen_at": "2026-05-19T12:48:47.354217+00:00"
     }
   ],
-  "last_run": "2026-05-19T10:01:59.480470+00:00",
-  "total_notified": 175,
+  "last_run": "2026-05-19T12:48:47.559372+00:00",
+  "total_notified": 176,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -5151,7 +5159,9 @@
       "simplify-dc061f7a-36a5-4776-804f-da5d96e1038a",
       "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Customer-Experience-Product-Management-Specialist-I--Intern----United-States_2008430",
       "simplify-3fc8acfe-9511-4618-8089-8f94d686a3b0",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager_JR342622"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager_JR342622",
+      "greenhouse-anthropic-5220143008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5220143008"
     ]
   }
 }
