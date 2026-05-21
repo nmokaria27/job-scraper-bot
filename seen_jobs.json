@@ -4031,10 +4031,34 @@
     {
       "id": "url:https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000048539",
       "seen_at": "2026-05-20T23:41:33.473490+00:00"
+    },
+    {
+      "id": "simplify-ea8eabf4-52d7-48d1-a7f9-706e563d7c7d",
+      "seen_at": "2026-05-21T01:49:23.463201+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-5/XMLNAME-2026-Raytheon-Intern---Software-Engineering---Westford--MA--Onsite-_01846038",
+      "seen_at": "2026-05-21T01:49:23.463303+00:00"
+    },
+    {
+      "id": "simplify-7f652134-0291-4759-8e6a-e499a01587af",
+      "seen_at": "2026-05-21T01:49:23.463384+00:00"
+    },
+    {
+      "id": "url:https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
+      "seen_at": "2026-05-21T01:49:23.463456+00:00"
+    },
+    {
+      "id": "simplify-95ecb2a1-6a8f-4c29-b971-2b3713f37046",
+      "seen_at": "2026-05-21T01:49:23.463530+00:00"
+    },
+    {
+      "id": "url:https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333",
+      "seen_at": "2026-05-21T01:49:23.463602+00:00"
     }
   ],
-  "last_run": "2026-05-20T23:41:33.612283+00:00",
-  "total_notified": 205,
+  "last_run": "2026-05-21T01:49:24.457452+00:00",
+  "total_notified": 208,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4919,7 +4943,13 @@
       "simplify-a7c61c00-3f37-4f60-a827-43ce1d719294",
       "url:https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2289-1",
       "simplify-69d19395-d090-4600-b5c1-67134602eb6b",
-      "url:https://job-boards.greenhouse.io/quince/jobs/5226786008"
+      "url:https://job-boards.greenhouse.io/quince/jobs/5226786008",
+      "simplify-ea8eabf4-52d7-48d1-a7f9-706e563d7c7d",
+      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-5/XMLNAME-2026-Raytheon-Intern---Software-Engineering---Westford--MA--Onsite-_01846038",
+      "simplify-7f652134-0291-4759-8e6a-e499a01587af",
+      "url:https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
+      "simplify-95ecb2a1-6a8f-4c29-b971-2b3713f37046",
+      "url:https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
