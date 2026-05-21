@@ -4071,10 +4071,42 @@
     {
       "id": "url:https://www.coupang.jobs/en/jobs",
       "seen_at": "2026-05-21T12:52:46.760373+00:00"
+    },
+    {
+      "id": "simplify-a2b670ca-0966-45f7-9a77-1365adca98b8",
+      "seen_at": "2026-05-21T16:22:16.585432+00:00"
+    },
+    {
+      "id": "url:https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234",
+      "seen_at": "2026-05-21T16:22:16.585537+00:00"
+    },
+    {
+      "id": "simplify-6dbb6b3a-de81-4494-ae24-41838c36fe5b",
+      "seen_at": "2026-05-21T16:22:16.585621+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200664204",
+      "seen_at": "2026-05-21T16:22:16.585695+00:00"
+    },
+    {
+      "id": "simplify-c8b81aa6-c758-4333-9d45-91a1cf08f83f",
+      "seen_at": "2026-05-21T16:22:16.585771+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200664307",
+      "seen_at": "2026-05-21T16:22:16.585847+00:00"
+    },
+    {
+      "id": "simplify-a8ad6a63-d3a7-49e0-a75c-f5a6ad091c66",
+      "seen_at": "2026-05-21T16:22:17.715036+00:00"
+    },
+    {
+      "id": "url:https://www.google.com/about/careers/applications/jobs/results/112743265135928006",
+      "seen_at": "2026-05-21T16:22:17.715130+00:00"
     }
   ],
-  "last_run": "2026-05-21T12:52:47.703923+00:00",
-  "total_notified": 210,
+  "last_run": "2026-05-21T16:22:17.910587+00:00",
+  "total_notified": 214,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -4969,7 +5001,13 @@
       "simplify-88f5a6f1-62c1-4a91-bf47-30e41b086fde",
       "url:https://job-boards.greenhouse.io/brightai/jobs/6002012004",
       "simplify-21ecea4f-e72f-4898-880c-e5d2542e0799",
-      "url:https://www.coupang.jobs/en/jobs"
+      "url:https://www.coupang.jobs/en/jobs",
+      "simplify-a2b670ca-0966-45f7-9a77-1365adca98b8",
+      "url:https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234",
+      "simplify-6dbb6b3a-de81-4494-ae24-41838c36fe5b",
+      "url:https://jobs.apple.com/en-us/details/200664204",
+      "simplify-c8b81aa6-c758-4333-9d45-91a1cf08f83f",
+      "url:https://jobs.apple.com/en-us/details/200664307"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -5501,7 +5539,9 @@
       "simplify-c28a1baa-646f-4da1-8eb8-9f9e1f8fa9e1",
       "url:https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/Securities-Product-Management-Analyst--Origination---Execution_R-545505",
       "simplify-787f1b89-3b3f-460c-bcaf-93767bb31b68",
-      "url:https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000048539"
+      "url:https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000048539",
+      "simplify-a8ad6a63-d3a7-49e0-a75c-f5a6ad091c66",
+      "url:https://www.google.com/about/careers/applications/jobs/results/112743265135928006"
     ]
   }
 }
