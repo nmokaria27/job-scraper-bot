@@ -4239,10 +4239,82 @@
     {
       "id": "url:https://jobs.jobvite.com/legalzoom/job/oRCaAfwX",
       "seen_at": "2026-05-22T04:39:07.927869+00:00"
+    },
+    {
+      "id": "simplify-526d01e5-61df-44da-b2e9-feac9226e326",
+      "seen_at": "2026-05-22T08:14:56.376552+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200663968",
+      "seen_at": "2026-05-22T08:14:56.376646+00:00"
+    },
+    {
+      "id": "simplify-466ed4e1-53fd-4db3-9dbc-b2b85c1ba40f",
+      "seen_at": "2026-05-22T08:14:56.376722+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200664383",
+      "seen_at": "2026-05-22T08:14:56.376799+00:00"
+    },
+    {
+      "id": "simplify-9dc730cf-7fa0-4052-b285-b1301c4db9e7",
+      "seen_at": "2026-05-22T08:14:56.376870+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200664785",
+      "seen_at": "2026-05-22T08:14:56.376939+00:00"
+    },
+    {
+      "id": "simplify-e385d69d-8eb3-4a95-969e-3d2e6d216b1e",
+      "seen_at": "2026-05-22T08:14:56.377010+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200664320",
+      "seen_at": "2026-05-22T08:14:56.377078+00:00"
+    },
+    {
+      "id": "simplify-9de9af2d-fdd8-4a02-8964-7ef816980d72",
+      "seen_at": "2026-05-22T08:14:56.377148+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200663981",
+      "seen_at": "2026-05-22T08:14:56.377215+00:00"
+    },
+    {
+      "id": "simplify-6a306828-3b85-47ed-89fe-3f0f61322ac7",
+      "seen_at": "2026-05-22T08:14:56.377283+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200664780",
+      "seen_at": "2026-05-22T08:14:56.377348+00:00"
+    },
+    {
+      "id": "simplify-cc65bfdb-925a-4e51-ab70-e5d7927114dd",
+      "seen_at": "2026-05-22T08:14:56.377414+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200664221",
+      "seen_at": "2026-05-22T08:14:56.377478+00:00"
+    },
+    {
+      "id": "simplify-65e5838c-f46c-4b4a-8491-1acb44bb2862",
+      "seen_at": "2026-05-22T08:14:56.377558+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200664419",
+      "seen_at": "2026-05-22T08:14:56.377614+00:00"
+    },
+    {
+      "id": "simplify-4c7a8eb9-496a-49b7-aacf-d00ae8653c6e",
+      "seen_at": "2026-05-22T08:14:56.377671+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200664223",
+      "seen_at": "2026-05-22T08:14:56.377725+00:00"
     }
   ],
-  "last_run": "2026-05-22T04:39:08.791743+00:00",
-  "total_notified": 231,
+  "last_run": "2026-05-22T08:14:57.093640+00:00",
+  "total_notified": 240,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -5177,7 +5249,25 @@
       "simplify-c25a5882-1fd2-473e-b5cd-f38c9238730f",
       "url:https://lifeattiktok.com/search/7600578929549035829",
       "simplify-cc0fb5d7-0673-4321-879d-82013827307c",
-      "url:https://jobs.jobvite.com/legalzoom/job/oRCaAfwX"
+      "url:https://jobs.jobvite.com/legalzoom/job/oRCaAfwX",
+      "simplify-526d01e5-61df-44da-b2e9-feac9226e326",
+      "url:https://jobs.apple.com/en-us/details/200663968",
+      "simplify-466ed4e1-53fd-4db3-9dbc-b2b85c1ba40f",
+      "url:https://jobs.apple.com/en-us/details/200664383",
+      "simplify-9dc730cf-7fa0-4052-b285-b1301c4db9e7",
+      "url:https://jobs.apple.com/en-us/details/200664785",
+      "simplify-e385d69d-8eb3-4a95-969e-3d2e6d216b1e",
+      "url:https://jobs.apple.com/en-us/details/200664320",
+      "simplify-9de9af2d-fdd8-4a02-8964-7ef816980d72",
+      "url:https://jobs.apple.com/en-us/details/200663981",
+      "simplify-6a306828-3b85-47ed-89fe-3f0f61322ac7",
+      "url:https://jobs.apple.com/en-us/details/200664780",
+      "simplify-cc65bfdb-925a-4e51-ab70-e5d7927114dd",
+      "url:https://jobs.apple.com/en-us/details/200664221",
+      "simplify-65e5838c-f46c-4b4a-8491-1acb44bb2862",
+      "url:https://jobs.apple.com/en-us/details/200664419",
+      "simplify-4c7a8eb9-496a-49b7-aacf-d00ae8653c6e",
+      "url:https://jobs.apple.com/en-us/details/200664223"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
