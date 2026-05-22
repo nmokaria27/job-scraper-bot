@@ -4343,10 +4343,58 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
       "seen_at": "2026-05-22T21:38:18.108995+00:00"
+    },
+    {
+      "id": "simplify-21733e97-8cdc-4e2f-ae0c-75d18a8802da",
+      "seen_at": "2026-05-22T22:43:54.754944+00:00"
+    },
+    {
+      "id": "url:https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475",
+      "seen_at": "2026-05-22T22:43:54.755056+00:00"
+    },
+    {
+      "id": "simplify-ed796eec-72b0-4f4c-939e-4e296b818b58",
+      "seen_at": "2026-05-22T22:43:54.755147+00:00"
+    },
+    {
+      "id": "url:https://careers-qinetiqus.icims.com/jobs/12138/job",
+      "seen_at": "2026-05-22T22:43:54.755231+00:00"
+    },
+    {
+      "id": "simplify-c01e4a39-29a1-4e02-876e-5385672cd56d",
+      "seen_at": "2026-05-22T22:43:54.755317+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply",
+      "seen_at": "2026-05-22T22:43:54.755400+00:00"
+    },
+    {
+      "id": "simplify-fc88d475-f678-4ae3-bc2c-5ef19e50476f",
+      "seen_at": "2026-05-22T22:43:54.755484+00:00"
+    },
+    {
+      "id": "url:https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/K12-Zone-Engineering-Intern_JR114632-1",
+      "seen_at": "2026-05-22T22:43:54.755635+00:00"
+    },
+    {
+      "id": "simplify-5353b527-0cda-43e8-a9ef-cdfa8f45bcd8",
+      "seen_at": "2026-05-22T22:43:54.755718+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us",
+      "seen_at": "2026-05-22T22:43:54.755783+00:00"
+    },
+    {
+      "id": "simplify-803fb947-a722-4db2-bb3b-24fd63eb7ed6",
+      "seen_at": "2026-05-22T22:43:54.755852+00:00"
+    },
+    {
+      "id": "url:https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Product-Engineer--New-College-Grad-2026-_R54784",
+      "seen_at": "2026-05-22T22:43:54.755916+00:00"
     }
   ],
-  "last_run": "2026-05-22T21:38:18.307065+00:00",
-  "total_notified": 244,
+  "last_run": "2026-05-22T22:43:55.466695+00:00",
+  "total_notified": 250,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -5301,7 +5349,19 @@
       "simplify-4c7a8eb9-496a-49b7-aacf-d00ae8653c6e",
       "url:https://jobs.apple.com/en-us/details/200664223",
       "simplify-5779ffa5-fa54-4061-9528-8c23dc0bc444",
-      "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089"
+      "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089",
+      "simplify-21733e97-8cdc-4e2f-ae0c-75d18a8802da",
+      "url:https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475",
+      "simplify-ed796eec-72b0-4f4c-939e-4e296b818b58",
+      "url:https://careers-qinetiqus.icims.com/jobs/12138/job",
+      "simplify-c01e4a39-29a1-4e02-876e-5385672cd56d",
+      "url:https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply",
+      "simplify-fc88d475-f678-4ae3-bc2c-5ef19e50476f",
+      "url:https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/K12-Zone-Engineering-Intern_JR114632-1",
+      "simplify-5353b527-0cda-43e8-a9ef-cdfa8f45bcd8",
+      "url:https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us",
+      "simplify-803fb947-a722-4db2-bb3b-24fd63eb7ed6",
+      "url:https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Product-Engineer--New-College-Grad-2026-_R54784"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
