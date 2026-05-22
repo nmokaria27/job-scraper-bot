@@ -4311,10 +4311,26 @@
     {
       "id": "url:https://jobs.apple.com/en-us/details/200664223",
       "seen_at": "2026-05-22T08:14:56.377725+00:00"
+    },
+    {
+      "id": "simplify-5779ffa5-fa54-4061-9528-8c23dc0bc444",
+      "seen_at": "2026-05-22T16:11:17.092389+00:00"
+    },
+    {
+      "id": "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089",
+      "seen_at": "2026-05-22T16:11:17.092496+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5181852008",
+      "seen_at": "2026-05-22T16:11:18.622052+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5181852008",
+      "seen_at": "2026-05-22T16:11:18.622132+00:00"
     }
   ],
-  "last_run": "2026-05-22T13:40:13.001958+00:00",
-  "total_notified": 240,
+  "last_run": "2026-05-22T16:11:18.849138+00:00",
+  "total_notified": 242,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -5267,7 +5283,9 @@
       "simplify-65e5838c-f46c-4b4a-8491-1acb44bb2862",
       "url:https://jobs.apple.com/en-us/details/200664419",
       "simplify-4c7a8eb9-496a-49b7-aacf-d00ae8653c6e",
-      "url:https://jobs.apple.com/en-us/details/200664223"
+      "url:https://jobs.apple.com/en-us/details/200664223",
+      "simplify-5779ffa5-fa54-4061-9528-8c23dc0bc444",
+      "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -5801,7 +5819,9 @@
       "simplify-787f1b89-3b3f-460c-bcaf-93767bb31b68",
       "url:https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000048539",
       "simplify-a8ad6a63-d3a7-49e0-a75c-f5a6ad091c66",
-      "url:https://www.google.com/about/careers/applications/jobs/results/112743265135928006"
+      "url:https://www.google.com/about/careers/applications/jobs/results/112743265135928006",
+      "greenhouse-anthropic-5181852008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5181852008"
     ]
   }
 }
