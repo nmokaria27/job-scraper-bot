@@ -4455,10 +4455,42 @@
     {
       "id": "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026511020-1",
       "seen_at": "2026-05-22T23:52:11.797582+00:00"
+    },
+    {
+      "id": "simplify-06fdb7fb-f7a7-4d74-9a9c-d59f0d316fe4",
+      "seen_at": "2026-05-23T01:32:03.050992+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply",
+      "seen_at": "2026-05-23T01:32:03.051081+00:00"
+    },
+    {
+      "id": "simplify-66f539a8-7319-483c-b09b-58e75cfaa9d2",
+      "seen_at": "2026-05-23T01:32:03.051142+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db/apply",
+      "seen_at": "2026-05-23T01:32:03.051193+00:00"
+    },
+    {
+      "id": "simplify-6d8fbd5f-f59a-4dcf-9018-fd44f9b0f565",
+      "seen_at": "2026-05-23T01:32:03.051245+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply",
+      "seen_at": "2026-05-23T01:32:03.051296+00:00"
+    },
+    {
+      "id": "simplify-ea5d5776-27ae-4cbe-aa4d-47a5dd80052f",
+      "seen_at": "2026-05-23T01:32:03.051348+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266/apply",
+      "seen_at": "2026-05-23T01:32:03.051399+00:00"
     }
   ],
-  "last_run": "2026-05-22T23:52:12.741085+00:00",
-  "total_notified": 258,
+  "last_run": "2026-05-23T01:32:04.173684+00:00",
+  "total_notified": 262,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -5441,7 +5473,15 @@
       "simplify-0367d067-4ad6-400c-89b3-30dd66c9bd2e",
       "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026511020",
       "simplify-48e8e335-64dd-49df-b962-f9c8a914901c",
-      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026511020-1"
+      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026511020-1",
+      "simplify-06fdb7fb-f7a7-4d74-9a9c-d59f0d316fe4",
+      "url:https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply",
+      "simplify-66f539a8-7319-483c-b09b-58e75cfaa9d2",
+      "url:https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db/apply",
+      "simplify-6d8fbd5f-f59a-4dcf-9018-fd44f9b0f565",
+      "url:https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply",
+      "simplify-ea5d5776-27ae-4cbe-aa4d-47a5dd80052f",
+      "url:https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266/apply"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
