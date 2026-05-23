@@ -4495,10 +4495,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/shein/jobs/5229778008",
       "seen_at": "2026-05-23T05:10:16.951166+00:00"
+    },
+    {
+      "id": "simplify-d2de708b-89ff-406f-bd7a-70f5d52cf392",
+      "seen_at": "2026-05-23T18:36:13.190813+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
+      "seen_at": "2026-05-23T18:36:13.190892+00:00"
+    },
+    {
+      "id": "simplify-bafafea5-6539-429a-a420-a25dad2aab58",
+      "seen_at": "2026-05-23T18:36:13.190943+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580",
+      "seen_at": "2026-05-23T18:36:13.190983+00:00"
     }
   ],
-  "last_run": "2026-05-23T17:29:23.722707+00:00",
-  "total_notified": 263,
+  "last_run": "2026-05-23T18:36:13.827013+00:00",
+  "total_notified": 265,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -5491,7 +5507,11 @@
       "simplify-ea5d5776-27ae-4cbe-aa4d-47a5dd80052f",
       "url:https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266/apply",
       "simplify-63062f36-5cde-4017-a806-571bd44c6087",
-      "url:https://job-boards.greenhouse.io/shein/jobs/5229778008"
+      "url:https://job-boards.greenhouse.io/shein/jobs/5229778008",
+      "simplify-d2de708b-89ff-406f-bd7a-70f5d52cf392",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
+      "simplify-bafafea5-6539-429a-a420-a25dad2aab58",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
