@@ -4519,10 +4519,18 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
       "seen_at": "2026-05-23T19:46:25.648529+00:00"
+    },
+    {
+      "id": "simplify-eef653e0-529c-444a-b7a8-d364c206cea1",
+      "seen_at": "2026-05-25T12:41:09.283703+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7642827146549446965",
+      "seen_at": "2026-05-25T12:41:09.283792+00:00"
     }
   ],
-  "last_run": "2026-05-25T04:56:09.195258+00:00",
-  "total_notified": 266,
+  "last_run": "2026-05-25T12:41:09.936413+00:00",
+  "total_notified": 267,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -5519,7 +5527,9 @@
       "simplify-d2de708b-89ff-406f-bd7a-70f5d52cf392",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
       "simplify-bafafea5-6539-429a-a420-a25dad2aab58",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580",
+      "simplify-eef653e0-529c-444a-b7a8-d364c206cea1",
+      "url:https://lifeattiktok.com/search/7642827146549446965"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
