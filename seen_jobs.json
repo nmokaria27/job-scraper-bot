@@ -4551,10 +4551,34 @@
     {
       "id": "url:https://www.brex.com/careers/8438580002",
       "seen_at": "2026-05-26T14:22:44.918769+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5127559008",
+      "seen_at": "2026-05-26T17:46:25.574777+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5127559008",
+      "seen_at": "2026-05-26T17:46:25.574873+00:00"
+    },
+    {
+      "id": "greenhouse-robinhood-7947548",
+      "seen_at": "2026-05-26T17:46:25.574954+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/robinhood/jobs/7947548",
+      "seen_at": "2026-05-26T17:46:25.575070+00:00"
+    },
+    {
+      "id": "greenhouse-lyft-8318645002",
+      "seen_at": "2026-05-26T17:46:25.575149+00:00"
+    },
+    {
+      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8318645002",
+      "seen_at": "2026-05-26T17:46:25.575228+00:00"
     }
   ],
-  "last_run": "2026-05-26T14:22:45.315839+00:00",
-  "total_notified": 270,
+  "last_run": "2026-05-26T17:46:25.984023+00:00",
+  "total_notified": 273,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -6101,7 +6125,13 @@
       "greenhouse-brex-8438581002",
       "url:https://www.brex.com/careers/8438581002",
       "greenhouse-brex-8438580002",
-      "url:https://www.brex.com/careers/8438580002"
+      "url:https://www.brex.com/careers/8438580002",
+      "greenhouse-anthropic-5127559008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5127559008",
+      "greenhouse-robinhood-7947548",
+      "url:https://boards.greenhouse.io/robinhood/jobs/7947548",
+      "greenhouse-lyft-8318645002",
+      "url:https://app.careerpuck.com/job-board/lyft/job/8318645002"
     ]
   }
 }
