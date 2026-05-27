@@ -4591,10 +4591,34 @@
     {
       "id": "url:https://job-boards.greenhouse.io/deepmind/jobs/7477606",
       "seen_at": "2026-05-26T19:47:59.706274+00:00"
+    },
+    {
+      "id": "simplify-e2e3917f-309a-4c40-9db2-2b8beedf29be",
+      "seen_at": "2026-05-27T01:56:12.318555+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application",
+      "seen_at": "2026-05-27T01:56:12.318662+00:00"
+    },
+    {
+      "id": "simplify-7d1cf43e-e1f6-4c90-8aff-9370057da6ba",
+      "seen_at": "2026-05-27T01:56:12.318756+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application",
+      "seen_at": "2026-05-27T01:56:12.318837+00:00"
+    },
+    {
+      "id": "simplify-17609982-0cbe-4cf6-8a18-8077220833cd",
+      "seen_at": "2026-05-27T01:56:12.318916+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply",
+      "seen_at": "2026-05-27T01:56:12.318982+00:00"
     }
   ],
-  "last_run": "2026-05-26T23:51:27.527806+00:00",
-  "total_notified": 275,
+  "last_run": "2026-05-27T01:56:13.074289+00:00",
+  "total_notified": 278,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -5593,7 +5617,13 @@
       "simplify-bafafea5-6539-429a-a420-a25dad2aab58",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580",
       "simplify-eef653e0-529c-444a-b7a8-d364c206cea1",
-      "url:https://lifeattiktok.com/search/7642827146549446965"
+      "url:https://lifeattiktok.com/search/7642827146549446965",
+      "simplify-e2e3917f-309a-4c40-9db2-2b8beedf29be",
+      "url:https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application",
+      "simplify-7d1cf43e-e1f6-4c90-8aff-9370057da6ba",
+      "url:https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application",
+      "simplify-17609982-0cbe-4cf6-8a18-8077220833cd",
+      "url:https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
