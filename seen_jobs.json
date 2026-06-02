@@ -4967,10 +4967,26 @@
     {
       "id": "url:https://boards.greenhouse.io/figma/jobs/6009613004",
       "seen_at": "2026-06-01T23:41:35.007016+00:00"
+    },
+    {
+      "id": "simplify-e27dac85-f95f-4718-add6-3583a28c1975",
+      "seen_at": "2026-06-02T02:05:10.460383+00:00"
+    },
+    {
+      "id": "url:https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/System-Engineer-Intern_R-00182989",
+      "seen_at": "2026-06-02T02:05:10.460525+00:00"
+    },
+    {
+      "id": "simplify-d6d7e09d-52ef-4d34-ac7f-42fad67e9edd",
+      "seen_at": "2026-06-02T02:05:10.460645+00:00"
+    },
+    {
+      "id": "url:https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279",
+      "seen_at": "2026-06-02T02:05:10.460754+00:00"
     }
   ],
-  "last_run": "2026-06-01T23:41:35.290513+00:00",
-  "total_notified": 322,
+  "last_run": "2026-06-02T02:05:11.120907+00:00",
+  "total_notified": 324,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -6045,7 +6061,11 @@
       "simplify-85bb55de-6617-449c-8466-809bcfec537d",
       "url:https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031936",
       "simplify-251ae0a3-b247-4bba-b985-e7a42dda28cd",
-      "url:https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Systems-Application-Engineer---Early-Career_2602267"
+      "url:https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Systems-Application-Engineer---Early-Career_2602267",
+      "simplify-e27dac85-f95f-4718-add6-3583a28c1975",
+      "url:https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/System-Engineer-Intern_R-00182989",
+      "simplify-d6d7e09d-52ef-4d34-ac7f-42fad67e9edd",
+      "url:https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
