@@ -4991,10 +4991,18 @@
     {
       "id": "url:http://getfiber.ai/careers",
       "seen_at": "2026-06-02T06:52:39.666494+00:00"
+    },
+    {
+      "id": "hn-48372101",
+      "seen_at": "2026-06-02T19:30:49.059686+00:00"
+    },
+    {
+      "id": "url:https://news.ycombinator.com/item",
+      "seen_at": "2026-06-02T19:30:49.059808+00:00"
     }
   ],
-  "last_run": "2026-06-02T15:45:01.226001+00:00",
-  "total_notified": 325,
+  "last_run": "2026-06-02T19:30:49.579880+00:00",
+  "total_notified": 326,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -6075,7 +6083,9 @@
       "simplify-d6d7e09d-52ef-4d34-ac7f-42fad67e9edd",
       "url:https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279",
       "simplify-71f5d4c0-dc9d-4fe6-afcc-6d0735570374",
-      "url:http://getfiber.ai/careers"
+      "url:http://getfiber.ai/careers",
+      "hn-48372101",
+      "url:https://news.ycombinator.com/item"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
