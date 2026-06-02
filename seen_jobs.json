@@ -4983,10 +4983,18 @@
     {
       "id": "url:https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279",
       "seen_at": "2026-06-02T02:05:10.460754+00:00"
+    },
+    {
+      "id": "simplify-71f5d4c0-dc9d-4fe6-afcc-6d0735570374",
+      "seen_at": "2026-06-02T06:52:39.666381+00:00"
+    },
+    {
+      "id": "url:http://getfiber.ai/careers",
+      "seen_at": "2026-06-02T06:52:39.666494+00:00"
     }
   ],
-  "last_run": "2026-06-02T02:05:11.120907+00:00",
-  "total_notified": 324,
+  "last_run": "2026-06-02T06:52:40.470919+00:00",
+  "total_notified": 325,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -6065,7 +6073,9 @@
       "simplify-e27dac85-f95f-4718-add6-3583a28c1975",
       "url:https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/System-Engineer-Intern_R-00182989",
       "simplify-d6d7e09d-52ef-4d34-ac7f-42fad67e9edd",
-      "url:https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279"
+      "url:https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279",
+      "simplify-71f5d4c0-dc9d-4fe6-afcc-6d0735570374",
+      "url:http://getfiber.ai/careers"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
