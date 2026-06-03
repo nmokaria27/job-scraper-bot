@@ -4999,10 +4999,106 @@
     {
       "id": "url:https://news.ycombinator.com/item",
       "seen_at": "2026-06-02T19:30:49.059808+00:00"
+    },
+    {
+      "id": "simplify-d6f4cdc5-68b7-4f4f-a0af-e69f110a8a31",
+      "seen_at": "2026-06-03T00:04:01.157737+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply",
+      "seen_at": "2026-06-03T00:04:01.157849+00:00"
+    },
+    {
+      "id": "simplify-5ba6e23d-6e0c-406a-9f67-e88da7202998",
+      "seen_at": "2026-06-03T00:04:01.157928+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/LLNL/3743990013424486",
+      "seen_at": "2026-06-03T00:04:01.157993+00:00"
+    },
+    {
+      "id": "simplify-f96f37aa-90f1-4570-b25c-870dcbcee499",
+      "seen_at": "2026-06-03T00:04:01.158071+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7539992380817639687/detail",
+      "seen_at": "2026-06-03T00:04:01.158141+00:00"
+    },
+    {
+      "id": "simplify-b10c6b57-8e2e-42f5-81f2-1a0ebe432764",
+      "seen_at": "2026-06-03T00:04:01.158209+00:00"
+    },
+    {
+      "id": "url:https://www.psiquantum.com/apply",
+      "seen_at": "2026-06-03T00:04:01.158275+00:00"
+    },
+    {
+      "id": "simplify-3d503fc4-bfe2-4891-bde8-0d134e450913",
+      "seen_at": "2026-06-03T00:04:01.158344+00:00"
+    },
+    {
+      "id": "url:https://hyperproof.io/job-listings",
+      "seen_at": "2026-06-03T00:04:01.158409+00:00"
+    },
+    {
+      "id": "simplify-7d880590-b150-42ab-810a-5e3b723e0a20",
+      "seen_at": "2026-06-03T00:04:01.158489+00:00"
+    },
+    {
+      "id": "url:https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Adserver--NYC-_R-01333",
+      "seen_at": "2026-06-03T00:04:01.158589+00:00"
+    },
+    {
+      "id": "simplify-527e83c9-8667-42c5-ae2d-aa16111a9379",
+      "seen_at": "2026-06-03T00:04:01.158668+00:00"
+    },
+    {
+      "id": "url:https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Demand-Solutions--NYC-_R-01332",
+      "seen_at": "2026-06-03T00:04:01.158732+00:00"
+    },
+    {
+      "id": "simplify-72a3e549-a2c0-4365-a2df-1210910b0451",
+      "seen_at": "2026-06-03T00:04:01.158798+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7539991964504017170/detail",
+      "seen_at": "2026-06-03T00:04:01.158860+00:00"
+    },
+    {
+      "id": "simplify-317d57d2-a3a8-464a-83f5-2030397de656",
+      "seen_at": "2026-06-03T00:04:01.158925+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/queracomputinginc/jobs/5239489008",
+      "seen_at": "2026-06-03T00:04:01.158987+00:00"
+    },
+    {
+      "id": "simplify-2feb94e8-502e-4ec9-b5ee-9a9801829bd7",
+      "seen_at": "2026-06-03T00:04:01.159051+00:00"
+    },
+    {
+      "id": "url:https://www.ixl.com/company/jobs",
+      "seen_at": "2026-06-03T00:04:01.159113+00:00"
+    },
+    {
+      "id": "simplify-4264b14c-508d-468e-85bb-08bd5bb0beae",
+      "seen_at": "2026-06-03T00:04:01.159182+00:00"
+    },
+    {
+      "id": "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Entry-Level-Product-Review-Engineer_JR2026513017-1",
+      "seen_at": "2026-06-03T00:04:01.159245+00:00"
+    },
+    {
+      "id": "simplify-a5a4f5d2-e953-462d-a6ea-fd5fe770de44",
+      "seen_at": "2026-06-03T00:04:01.159310+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005",
+      "seen_at": "2026-06-03T00:04:01.159372+00:00"
     }
   ],
-  "last_run": "2026-06-02T22:08:50.159673+00:00",
-  "total_notified": 326,
+  "last_run": "2026-06-03T00:04:01.824628+00:00",
+  "total_notified": 338,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -6085,7 +6181,31 @@
       "simplify-71f5d4c0-dc9d-4fe6-afcc-6d0735570374",
       "url:http://getfiber.ai/careers",
       "hn-48372101",
-      "url:https://news.ycombinator.com/item"
+      "url:https://news.ycombinator.com/item",
+      "simplify-d6f4cdc5-68b7-4f4f-a0af-e69f110a8a31",
+      "url:https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply",
+      "simplify-5ba6e23d-6e0c-406a-9f67-e88da7202998",
+      "url:https://jobs.smartrecruiters.com/LLNL/3743990013424486",
+      "simplify-f96f37aa-90f1-4570-b25c-870dcbcee499",
+      "url:https://jobs.bytedance.com/en/position/7539992380817639687/detail",
+      "simplify-b10c6b57-8e2e-42f5-81f2-1a0ebe432764",
+      "url:https://www.psiquantum.com/apply",
+      "simplify-3d503fc4-bfe2-4891-bde8-0d134e450913",
+      "url:https://hyperproof.io/job-listings",
+      "simplify-7d880590-b150-42ab-810a-5e3b723e0a20",
+      "url:https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Adserver--NYC-_R-01333",
+      "simplify-527e83c9-8667-42c5-ae2d-aa16111a9379",
+      "url:https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Demand-Solutions--NYC-_R-01332",
+      "simplify-72a3e549-a2c0-4365-a2df-1210910b0451",
+      "url:https://jobs.bytedance.com/en/position/7539991964504017170/detail",
+      "simplify-317d57d2-a3a8-464a-83f5-2030397de656",
+      "url:https://job-boards.greenhouse.io/queracomputinginc/jobs/5239489008",
+      "simplify-2feb94e8-502e-4ec9-b5ee-9a9801829bd7",
+      "url:https://www.ixl.com/company/jobs",
+      "simplify-4264b14c-508d-468e-85bb-08bd5bb0beae",
+      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Entry-Level-Product-Review-Engineer_JR2026513017-1",
+      "simplify-a5a4f5d2-e953-462d-a6ea-fd5fe770de44",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
