@@ -5335,10 +5335,18 @@
     {
       "id": "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726631",
       "seen_at": "2026-06-04T04:58:57.770276+00:00"
+    },
+    {
+      "id": "simplify-25bf1002-16f7-4d53-bcf5-e005d14cffa8",
+      "seen_at": "2026-06-04T15:48:17.857686+00:00"
+    },
+    {
+      "id": "url:https://careers-gdms.icims.com/jobs/72936/job",
+      "seen_at": "2026-06-04T15:48:17.857928+00:00"
     }
   ],
-  "last_run": "2026-06-04T12:10:43.341236+00:00",
-  "total_notified": 368,
+  "last_run": "2026-06-04T15:48:18.581161+00:00",
+  "total_notified": 369,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -6501,7 +6509,9 @@
       "simplify-964d2490-a81d-4955-9750-c982340640a3",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Inference-Performance-Engineer---New-College-Grad-2026_JR2014441",
       "simplify-27661236-09ec-450a-b497-537d69be2c72",
-      "url:https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718813"
+      "url:https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718813",
+      "simplify-25bf1002-16f7-4d53-bcf5-e005d14cffa8",
+      "url:https://careers-gdms.icims.com/jobs/72936/job"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
