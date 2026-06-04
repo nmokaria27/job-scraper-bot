@@ -5351,10 +5351,50 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5247640008",
       "seen_at": "2026-06-04T20:17:40.898613+00:00"
+    },
+    {
+      "id": "simplify-e26e8687-b77f-46d9-bdfe-01a22ce2be5e",
+      "seen_at": "2026-06-04T23:18:09.670369+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7595707875767699765/detail",
+      "seen_at": "2026-06-04T23:18:09.670526+00:00"
+    },
+    {
+      "id": "simplify-56f714dd-27f8-4010-9262-c342a2fdecd0",
+      "seen_at": "2026-06-04T23:18:09.670628+00:00"
+    },
+    {
+      "id": "url:http://www.revance.com/careers/job-listings",
+      "seen_at": "2026-06-04T23:18:09.670712+00:00"
+    },
+    {
+      "id": "simplify-86e692d7-8d43-4433-bd58-22865e4557fa",
+      "seen_at": "2026-06-04T23:18:09.670789+00:00"
+    },
+    {
+      "id": "url:https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Digital-Design---FPGA-Engineering---Intern_R02604",
+      "seen_at": "2026-06-04T23:18:09.670860+00:00"
+    },
+    {
+      "id": "simplify-2be4d166-0f14-4931-b9f1-d0cf0e9564fc",
+      "seen_at": "2026-06-04T23:18:09.670933+00:00"
+    },
+    {
+      "id": "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-1",
+      "seen_at": "2026-06-04T23:18:09.671003+00:00"
+    },
+    {
+      "id": "simplify-c23a7b9a-fd9b-4f1a-9ef3-a39aeada13f8",
+      "seen_at": "2026-06-04T23:18:09.671076+00:00"
+    },
+    {
+      "id": "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2",
+      "seen_at": "2026-06-04T23:18:09.671145+00:00"
     }
   ],
-  "last_run": "2026-06-04T21:55:27.364491+00:00",
-  "total_notified": 370,
+  "last_run": "2026-06-04T23:18:10.182820+00:00",
+  "total_notified": 375,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -6519,7 +6559,17 @@
       "simplify-27661236-09ec-450a-b497-537d69be2c72",
       "url:https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718813",
       "simplify-25bf1002-16f7-4d53-bcf5-e005d14cffa8",
-      "url:https://careers-gdms.icims.com/jobs/72936/job"
+      "url:https://careers-gdms.icims.com/jobs/72936/job",
+      "simplify-e26e8687-b77f-46d9-bdfe-01a22ce2be5e",
+      "url:https://jobs.bytedance.com/en/position/7595707875767699765/detail",
+      "simplify-56f714dd-27f8-4010-9262-c342a2fdecd0",
+      "url:http://www.revance.com/careers/job-listings",
+      "simplify-86e692d7-8d43-4433-bd58-22865e4557fa",
+      "url:https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Digital-Design---FPGA-Engineering---Intern_R02604",
+      "simplify-2be4d166-0f14-4931-b9f1-d0cf0e9564fc",
+      "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-1",
+      "simplify-c23a7b9a-fd9b-4f1a-9ef3-a39aeada13f8",
+      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
