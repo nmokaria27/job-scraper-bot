@@ -5431,10 +5431,58 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5124623008",
       "seen_at": "2026-06-05T21:48:19.963078+00:00"
+    },
+    {
+      "id": "simplify-8ee2c108-7c86-4c94-b7bb-5667b48e3d3a",
+      "seen_at": "2026-06-05T23:54:34.916266+00:00"
+    },
+    {
+      "id": "url:https://careers-peraton.icims.com/jobs/167460/job",
+      "seen_at": "2026-06-05T23:54:34.916386+00:00"
+    },
+    {
+      "id": "simplify-425f9072-8894-4abe-aff3-1bf6ccd9c848",
+      "seen_at": "2026-06-05T23:54:34.916475+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application",
+      "seen_at": "2026-06-05T23:54:34.916557+00:00"
+    },
+    {
+      "id": "simplify-e6ce1af4-91dc-4b7f-9ccb-1409a63ca41d",
+      "seen_at": "2026-06-05T23:54:34.916634+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/fourkites/jobs/7926771",
+      "seen_at": "2026-06-05T23:54:34.916704+00:00"
+    },
+    {
+      "id": "simplify-0d8819e9-06a6-4bf6-9c18-a00012e17263",
+      "seen_at": "2026-06-05T23:54:34.916778+00:00"
+    },
+    {
+      "id": "url:https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a",
+      "seen_at": "2026-06-05T23:54:34.916847+00:00"
+    },
+    {
+      "id": "simplify-7df6766d-b43b-464c-a03e-68387c5ffb37",
+      "seen_at": "2026-06-05T23:54:34.916919+00:00"
+    },
+    {
+      "id": "url:https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
+      "seen_at": "2026-06-05T23:54:34.916991+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-7827238",
+      "seen_at": "2026-06-05T23:54:36.025406+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/7827238",
+      "seen_at": "2026-06-05T23:54:36.025518+00:00"
     }
   ],
-  "last_run": "2026-06-05T22:50:17.386016+00:00",
-  "total_notified": 380,
+  "last_run": "2026-06-05T23:54:36.339168+00:00",
+  "total_notified": 386,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -6617,7 +6665,17 @@
       "simplify-980b782f-08f5-4d65-8cde-74e2a0a76186",
       "url:https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007",
       "simplify-08cd7f52-2589-4b43-90ca-9703fa09314d",
-      "url:https://job-boards.greenhouse.io/coherehealth/jobs/7734482003"
+      "url:https://job-boards.greenhouse.io/coherehealth/jobs/7734482003",
+      "simplify-8ee2c108-7c86-4c94-b7bb-5667b48e3d3a",
+      "url:https://careers-peraton.icims.com/jobs/167460/job",
+      "simplify-425f9072-8894-4abe-aff3-1bf6ccd9c848",
+      "url:https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application",
+      "simplify-e6ce1af4-91dc-4b7f-9ccb-1409a63ca41d",
+      "url:https://job-boards.greenhouse.io/fourkites/jobs/7926771",
+      "simplify-0d8819e9-06a6-4bf6-9c18-a00012e17263",
+      "url:https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a",
+      "simplify-7df6766d-b43b-464c-a03e-68387c5ffb37",
+      "url:https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -7201,7 +7259,9 @@
       "greenhouse-anthropic-5247640008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5247640008",
       "greenhouse-anthropic-5124623008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5124623008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5124623008",
+      "greenhouse-airbnb-7827238",
+      "url:https://careers.airbnb.com/positions/7827238"
     ]
   }
 }
