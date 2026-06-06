@@ -5495,10 +5495,18 @@
     {
       "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493",
       "seen_at": "2026-06-06T04:15:13.611252+00:00"
+    },
+    {
+      "id": "simplify-d11e8fc9-1ec0-4753-90c1-f818c2da83fa",
+      "seen_at": "2026-06-06T14:11:35.282656+00:00"
+    },
+    {
+      "id": "url:https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Modeling---Simulation-Engineer-Entry-Level_327045-1",
+      "seen_at": "2026-06-06T14:11:35.282817+00:00"
     }
   ],
-  "last_run": "2026-06-06T12:14:21.017246+00:00",
-  "total_notified": 388,
+  "last_run": "2026-06-06T14:11:35.947738+00:00",
+  "total_notified": 389,
   "channels": {
     "swe-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -6695,7 +6703,9 @@
       "simplify-403a2dad-0b0c-468b-9e60-ee26df72c318",
       "url:https://wayve.firststage.co/jobs",
       "simplify-2b993794-3395-48ae-a0ac-7d78d66b56aa",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493",
+      "simplify-d11e8fc9-1ec0-4753-90c1-f818c2da83fa",
+      "url:https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Modeling---Simulation-Engineer-Entry-Level_327045-1"
     ],
     "pm-jobs": [
       "simplify-b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
