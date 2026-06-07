@@ -1,10 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-9259b927-fb9f-421c-95d0-f346a63020a3",
-      "seen_at": "2026-05-08T10:00:41.581186+00:00"
-    },
-    {
       "id": "simplify-917630ba-470e-4fa9-904d-c7feb21fa586",
       "seen_at": "2026-05-08T15:00:44.823719+00:00"
     },
@@ -3321,11 +3317,10 @@
       "seen_at": "2026-06-07T09:52:02.200484+00:00"
     }
   ],
-  "last_run": "2026-06-07T09:52:02.783913+00:00",
+  "last_run": "2026-06-07T11:29:54.602168+00:00",
   "total_notified": 439,
   "channels": {
     "swe-jobs": [
-      "simplify-9259b927-fb9f-421c-95d0-f346a63020a3",
       "simplify-917630ba-470e-4fa9-904d-c7feb21fa586",
       "simplify-53f8fb29-baff-4860-abf4-e65d1cd1a500",
       "url:https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
