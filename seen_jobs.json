@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-07de287a-60cf-4318-9941-284ab79b4148",
-      "seen_at": "2026-05-09T23:27:29.152841+00:00"
-    },
-    {
-      "id": "url:https://apply.workable.com/eluvio/j/F70F3473E7/apply",
-      "seen_at": "2026-05-09T23:27:29.152954+00:00"
-    },
-    {
       "id": "greenhouse-robinhood-7747728",
       "seen_at": "2026-05-10T05:08:10.052704+00:00"
     },
@@ -3143,14 +3135,52 @@
     {
       "id": "url:https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13",
       "seen_at": "2026-06-08T21:09:02.187473+00:00"
+    },
+    {
+      "id": "simplify-f9c884e2-2872-4b5c-a69e-3333c788650c",
+      "seen_at": "2026-06-08T23:55:26.698911+00:00"
+    },
+    {
+      "id": "url:https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--FL--Remote/Summer-2026-INTERN---Machine-Learning_J0103465",
+      "seen_at": "2026-06-08T23:55:26.699002+00:00"
+    },
+    {
+      "id": "simplify-ecb57e2b-b9a6-4967-9d05-bd9596de3537",
+      "seen_at": "2026-06-08T23:55:26.699108+00:00"
+    },
+    {
+      "id": "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393",
+      "seen_at": "2026-06-08T23:55:26.699172+00:00"
+    },
+    {
+      "id": "simplify-09ac55f2-d5b4-4e0d-b829-75a23db110d3",
+      "seen_at": "2026-06-08T23:55:26.699229+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Summer-2026_JR2019407",
+      "seen_at": "2026-06-08T23:55:26.699282+00:00"
+    },
+    {
+      "id": "simplify-6c3018a5-875d-4209-99cd-66202dfe188c",
+      "seen_at": "2026-06-08T23:55:26.699338+00:00"
+    },
+    {
+      "id": "url:https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/AI-Engineer--Materia--New-Grad---2026-_JREQ198096-1",
+      "seen_at": "2026-06-08T23:55:26.699391+00:00"
+    },
+    {
+      "id": "simplify-1ea7baf7-4a9c-4892-bd89-139d769a8719",
+      "seen_at": "2026-06-08T23:55:27.974674+00:00"
+    },
+    {
+      "id": "url:https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8096",
+      "seen_at": "2026-06-08T23:55:27.974748+00:00"
     }
   ],
-  "last_run": "2026-06-08T22:52:23.062851+00:00",
-  "total_notified": 473,
+  "last_run": "2026-06-08T23:55:28.177069+00:00",
+  "total_notified": 478,
   "channels": {
     "swe-jobs": [
-      "simplify-07de287a-60cf-4318-9941-284ab79b4148",
-      "url:https://apply.workable.com/eluvio/j/F70F3473E7/apply",
       "simplify-001ac4b8-e3c8-40dd-a035-c12fc1493b30",
       "url:https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372",
       "simplify-10ea6ba5-ff6a-4396-9ba5-86f0e059112c",
@@ -3768,7 +3798,15 @@
       "simplify-92c74e2a-d641-479a-a863-c482e9847e07",
       "url:https://www.tesla.com/careers/search/job/266981",
       "simplify-90b3eda5-0876-4e90-a339-12799f108611",
-      "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/Entry-Level-RF-Engineer_R0163070"
+      "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/Entry-Level-RF-Engineer_R0163070",
+      "simplify-f9c884e2-2872-4b5c-a69e-3333c788650c",
+      "url:https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--FL--Remote/Summer-2026-INTERN---Machine-Learning_J0103465",
+      "simplify-ecb57e2b-b9a6-4967-9d05-bd9596de3537",
+      "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393",
+      "simplify-09ac55f2-d5b4-4e0d-b829-75a23db110d3",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Summer-2026_JR2019407",
+      "simplify-6c3018a5-875d-4209-99cd-66202dfe188c",
+      "url:https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/AI-Engineer--Materia--New-Grad---2026-_JREQ198096-1"
     ],
     "pm-jobs": [
       "greenhouse-robinhood-7747728",
@@ -3936,7 +3974,9 @@
       "ashby-openai-cffa3a8d-918a-4e91-a1c6-3fa84a454408",
       "url:https://jobs.ashbyhq.com/openai/cffa3a8d-918a-4e91-a1c6-3fa84a454408",
       "ashby-perplexity-f25e190e-0508-4707-b575-fcaed358dc13",
-      "url:https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13"
+      "url:https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13",
+      "simplify-1ea7baf7-4a9c-4892-bd89-139d769a8719",
+      "url:https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8096"
     ]
   }
 }
