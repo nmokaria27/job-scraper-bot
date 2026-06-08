@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-d0f2d758-2008-4c36-8a0f-f2d4e2fc2256",
-      "seen_at": "2026-05-09T02:00:35.134018+00:00"
-    },
-    {
-      "id": "url:https://jobs.jobvite.com/nutanix/job/oxZfyfw3",
-      "seen_at": "2026-05-09T02:00:35.134075+00:00"
-    },
-    {
       "id": "greenhouse-stripe-7417090",
       "seen_at": "2026-05-09T20:11:28.093143+00:00"
     },
@@ -3105,12 +3097,10 @@
       "seen_at": "2026-06-07T09:52:02.200484+00:00"
     }
   ],
-  "last_run": "2026-06-07T23:49:35.807532+00:00",
+  "last_run": "2026-06-08T02:05:31.018618+00:00",
   "total_notified": 439,
   "channels": {
     "swe-jobs": [
-      "simplify-d0f2d758-2008-4c36-8a0f-f2d4e2fc2256",
-      "url:https://jobs.jobvite.com/nutanix/job/oxZfyfw3",
       "simplify-07de287a-60cf-4318-9941-284ab79b4148",
       "url:https://apply.workable.com/eluvio/j/F70F3473E7/apply",
       "simplify-001ac4b8-e3c8-40dd-a035-c12fc1493b30",
