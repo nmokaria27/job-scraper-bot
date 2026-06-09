@@ -12,6 +12,7 @@ from scrapers.base import Job
 
 
 def _job(job_id: str, title: str) -> Job:
+    posted_at = (datetime.now(tz=timezone.utc) - timedelta(minutes=5)).isoformat()
     return Job(
         id=job_id,
         title=title,
