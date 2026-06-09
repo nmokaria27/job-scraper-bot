@@ -168,7 +168,11 @@ def _load_existing(path: str) -> dict[str, list[str]]:
     if not isinstance(payload, dict):
         return {"greenhouse": [], "lever": [], "ashby": []}
     return {
-        platform: [str(x).strip() for x in payload.get(platform, []) if str(x).strip()]
+        platform: [
+            re.sub(r"[\r\n]", "", s)
+            for s in (str(x).strip() for x in payload.get(platform, []))
+            if s
+        ]
         for platform in ("greenhouse", "lever", "ashby")
     }
 

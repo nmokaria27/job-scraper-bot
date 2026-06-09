@@ -3,6 +3,12 @@ import os
 import unittest
 from collections import Counter
 from datetime import datetime, timedelta, timezone
+from unittest.mock import MagicMock
+import sys
+
+# Mock dependencies
+sys.modules["httpx"] = MagicMock()
+sys.modules["dotenv"] = MagicMock()
 
 from companies import get_companies
 from scrapers.ashby import AshbyScraper

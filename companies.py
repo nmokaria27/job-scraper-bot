@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from copy import deepcopy
 
 # Master company list — add or remove slugs here to control which companies are scraped.
@@ -128,7 +129,12 @@ def _load_discovered_companies(path: str) -> dict[str, list[str]]:
         if not isinstance(values, list):
             print(f"[WARN] Discovered platform '{platform}' in '{path}' must be a list")
             continue
-        discovered[platform] = [str(slug).strip() for slug in values if str(slug).strip()]
+        # Sanitize slugs by removing control characters to prevent log injection
+        discovered[platform] = [
+            re.sub(r"[\r\n]", "", s)
+            for s in (str(slug).strip() for slug in values)
+            if s
+        ]
     return discovered
 
 
