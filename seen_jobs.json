@@ -5747,10 +5747,18 @@
     {
       "id": "url:https://jobs.ashbyhq.com/Ashby/80c20b00-c3c3-441b-95bd-56eb870e77fb",
       "seen_at": "2026-06-09T02:13:46.436697+00:00"
+    },
+    {
+      "id": "greenhouse-lyft-8582656002",
+      "seen_at": "2026-06-09T04:18:58.355481+00:00"
+    },
+    {
+      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8582656002",
+      "seen_at": "2026-06-09T04:18:58.355615+00:00"
     }
   ],
-  "last_run": "2026-06-09T02:13:46.661772+00:00",
-  "total_notified": 504,
+  "last_run": "2026-06-09T04:18:58.579949+00:00",
+  "total_notified": 505,
   "channels": {
     "swe-jobs": [
       "simplify-001ac4b8-e3c8-40dd-a035-c12fc1493b30",
@@ -7200,7 +7208,9 @@
       "ashby-Ashby-e1eba70b-51ae-422c-ae5d-a36bc5d72441",
       "url:https://jobs.ashbyhq.com/Ashby/e1eba70b-51ae-422c-ae5d-a36bc5d72441",
       "ashby-Ashby-80c20b00-c3c3-441b-95bd-56eb870e77fb",
-      "url:https://jobs.ashbyhq.com/Ashby/80c20b00-c3c3-441b-95bd-56eb870e77fb"
+      "url:https://jobs.ashbyhq.com/Ashby/80c20b00-c3c3-441b-95bd-56eb870e77fb",
+      "greenhouse-lyft-8582656002",
+      "url:https://app.careerpuck.com/job-board/lyft/job/8582656002"
     ]
   }
 }
