@@ -1,4 +1,5 @@
 import unittest
+from datetime import datetime, timedelta, timezone
 from unittest.mock import AsyncMock, patch
 
 import main
@@ -7,6 +8,7 @@ from scrapers.base import Job
 
 
 def _job(job_id: str, title: str) -> Job:
+    posted_at = (datetime.now(tz=timezone.utc) - timedelta(minutes=5)).isoformat()
     return Job(
         id=job_id,
         title=title,
@@ -14,7 +16,7 @@ def _job(job_id: str, title: str) -> Job:
         location="Remote",
         url=f"https://example.com/{job_id}",
         platform="greenhouse",
-        posted_at="2026-05-09T20:00:00+00:00",
+        posted_at=posted_at,
     )
 
 

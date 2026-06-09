@@ -29,6 +29,62 @@ class FilterBehaviorTests(unittest.TestCase):
             )
         )
 
+    def test_intern_channel_excludes_new_grad_and_full_time(self) -> None:
+        for title in (
+            "Software Engineer Intern",
+            "Software Engineering Intern - Summer 2026",
+        ):
+            self.assertTrue(
+                self.scraper.matches_keywords(
+                    title,
+                    config.DEFAULT_SWE_KEYWORDS,
+                    config.DEFAULT_SWE_EXCLUDED_KEYWORDS,
+                ),
+                f"intern channel should match {title!r}",
+            )
+        for title in (
+            "Software Engineer, New Grad",
+            "New Grad Software Engineer (2026)",
+            "Entry Level Software Engineer",
+            "Software Engineer",
+        ):
+            self.assertFalse(
+                self.scraper.matches_keywords(
+                    title,
+                    config.DEFAULT_SWE_KEYWORDS,
+                    config.DEFAULT_SWE_EXCLUDED_KEYWORDS,
+                ),
+                f"intern channel should NOT match {title!r}",
+            )
+
+    def test_full_time_channel_accepts_new_grad_but_not_interns(self) -> None:
+        for title in (
+            "Software Engineer",
+            "Software Engineer, New Grad",
+            "New Grad Software Engineer (2026)",
+            "Entry Level Software Engineer",
+        ):
+            self.assertTrue(
+                self.scraper.matches_keywords(
+                    title,
+                    config.DEFAULT_SWE_FULL_TIME_KEYWORDS,
+                    config.DEFAULT_SWE_FULL_TIME_EXCLUDED_KEYWORDS,
+                ),
+                f"full-time channel should match {title!r}",
+            )
+        for title in (
+            "Software Engineer Intern",
+            "Senior Software Engineer",
+        ):
+            self.assertFalse(
+                self.scraper.matches_keywords(
+                    title,
+                    config.DEFAULT_SWE_FULL_TIME_KEYWORDS,
+                    config.DEFAULT_SWE_FULL_TIME_EXCLUDED_KEYWORDS,
+                ),
+                f"full-time channel should NOT match {title!r}",
+            )
+
     def test_default_locations_match_full_state_names_and_hubs(self) -> None:
         self.assertTrue(
             self.scraper.matches_location(

@@ -45,6 +45,7 @@ jobs:
           # Preferred multi-channel mode: set these as repository secrets.
           SWE_WEBHOOK_URL: ${{ secrets.SWE_WEBHOOK_URL }}
           PM_WEBHOOK_URL: ${{ secrets.PM_WEBHOOK_URL }}
+          FULL_TIME_WEBHOOK_URL: ${{ secrets.FULL_TIME_WEBHOOK_URL }}
           # Advanced multi-channel mode: JSON list, or {"channels": [...]}
           # Can add extra channels or override built-in channel names.
           CHANNELS_JSON: ${{ secrets.CHANNELS_JSON }}
