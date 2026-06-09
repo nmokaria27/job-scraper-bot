@@ -1,4 +1,4193 @@
 {
-  "channels": {},
-  "last_run": "2026-06-08T23:55:28.177080+00:00"
+  "channels": {
+    "swe-ai-full-time": [
+      {
+        "id": "greenhouse-anthropic-5076606008",
+        "seen_keys": [
+          "greenhouse-anthropic-5076606008",
+          "url:https://job-boards.greenhouse.io/anthropic/jobs/5076606008"
+        ],
+        "title": "Research Engineer / Scientist, Societal Impacts",
+        "company": "Anthropic",
+        "location": "San Francisco, CA",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076606008",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T13:39:44-04:00",
+        "queued_at": "2026-06-09T02:13:46.390916+00:00"
+      },
+      {
+        "id": "greenhouse-anthropic-4951844008",
+        "seen_keys": [
+          "greenhouse-anthropic-4951844008",
+          "url:https://job-boards.greenhouse.io/anthropic/jobs/4951844008"
+        ],
+        "title": "Software Engineer, Safeguards",
+        "company": "Anthropic",
+        "location": "San Francisco, CA | New York City, NY",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T11:21:35-04:00",
+        "queued_at": "2026-06-09T02:13:46.390931+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-6669758",
+        "seen_keys": [
+          "greenhouse-robinhood-6669758",
+          "url:https://boards.greenhouse.io/robinhood/jobs/6669758"
+        ],
+        "title": "Android Engineer",
+        "company": "Robinhood",
+        "location": "New York, NY",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.390945+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7350823",
+        "seen_keys": [
+          "greenhouse-robinhood-7350823",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7350823"
+        ],
+        "title": "Android Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.390961+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7754143",
+        "seen_keys": [
+          "greenhouse-robinhood-7754143",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7754143"
+        ],
+        "title": "Backend Software Engineer, Credit Cards & Banking",
+        "company": "Robinhood",
+        "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7754143?t=gh_src=&gh_jid=7754143",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T13:17:41-04:00",
+        "queued_at": "2026-06-09T02:13:46.390974+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7489476",
+        "seen_keys": [
+          "greenhouse-robinhood-7489476",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7489476"
+        ],
+        "title": "Data Scientist, ML (Agentic, CX)",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA; New York, NY",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7489476?t=gh_src=&gh_jid=7489476",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.390986+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7490049",
+        "seen_keys": [
+          "greenhouse-robinhood-7490049",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7490049"
+        ],
+        "title": "Full Stack Engineer, Credit Cards & Banking",
+        "company": "Robinhood",
+        "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7490049?t=gh_src=&gh_jid=7490049",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T13:32:59-04:00",
+        "queued_at": "2026-06-09T02:13:46.390997+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7794027",
+        "seen_keys": [
+          "greenhouse-robinhood-7794027",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7794027"
+        ],
+        "title": "iOS Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391009+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7980523",
+        "seen_keys": [
+          "greenhouse-robinhood-7980523",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7980523"
+        ],
+        "title": "iOS Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7980523?t=gh_src=&gh_jid=7980523",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391020+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-6674980",
+        "seen_keys": [
+          "greenhouse-robinhood-6674980",
+          "url:https://boards.greenhouse.io/robinhood/jobs/6674980"
+        ],
+        "title": "iOS Engineer",
+        "company": "Robinhood",
+        "location": "New York, NY",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391032+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7960680",
+        "seen_keys": [
+          "greenhouse-robinhood-7960680",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7960680"
+        ],
+        "title": "Machine Learning Engineer",
+        "company": "Robinhood",
+        "location": "Bellevue, WA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7960680?t=gh_src=&gh_jid=7960680",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391043+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7896256",
+        "seen_keys": [
+          "greenhouse-robinhood-7896256",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7896256"
+        ],
+        "title": "Salesforce Applications Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7896256?t=gh_src=&gh_jid=7896256",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391053+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7939818",
+        "seen_keys": [
+          "greenhouse-robinhood-7939818",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7939818"
+        ],
+        "title": "Security Engineer, AI Vulnerability Management",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391064+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7697725",
+        "seen_keys": [
+          "greenhouse-robinhood-7697725",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7697725"
+        ],
+        "title": "Security Engineer, Detection & Response",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391073+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975558",
+        "seen_keys": [
+          "greenhouse-robinhood-7975558",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975558"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975558?t=gh_src=&gh_jid=7975558",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391084+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7960734",
+        "seen_keys": [
+          "greenhouse-robinhood-7960734",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7960734"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7960734?t=gh_src=&gh_jid=7960734",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391094+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975480",
+        "seen_keys": [
+          "greenhouse-robinhood-7975480",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975480"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975480?t=gh_src=&gh_jid=7975480",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391104+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975507",
+        "seen_keys": [
+          "greenhouse-robinhood-7975507",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975507"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391115+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975516",
+        "seen_keys": [
+          "greenhouse-robinhood-7975516",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975516"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975516?t=gh_src=&gh_jid=7975516",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391142+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975526",
+        "seen_keys": [
+          "greenhouse-robinhood-7975526",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975526"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975526?t=gh_src=&gh_jid=7975526",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391156+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975529",
+        "seen_keys": [
+          "greenhouse-robinhood-7975529",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975529"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975529?t=gh_src=&gh_jid=7975529",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391167+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975530",
+        "seen_keys": [
+          "greenhouse-robinhood-7975530",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975530"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391178+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975531",
+        "seen_keys": [
+          "greenhouse-robinhood-7975531",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975531"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975531?t=gh_src=&gh_jid=7975531",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391189+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975549",
+        "seen_keys": [
+          "greenhouse-robinhood-7975549",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975549"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975549?t=gh_src=&gh_jid=7975549",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391199+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975550",
+        "seen_keys": [
+          "greenhouse-robinhood-7975550",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975550"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391210+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975557",
+        "seen_keys": [
+          "greenhouse-robinhood-7975557",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975557"
+        ],
+        "title": "Software Engineer",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391220+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7975477",
+        "seen_keys": [
+          "greenhouse-robinhood-7975477",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7975477"
+        ],
+        "title": "Software Engineer, Agentic AI",
+        "company": "Robinhood",
+        "location": "Bellevue, WA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7975477?t=gh_src=&gh_jid=7975477",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391230+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7263592",
+        "seen_keys": [
+          "greenhouse-robinhood-7263592",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7263592"
+        ],
+        "title": "Software Engineer, Backend",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391240+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7684760",
+        "seen_keys": [
+          "greenhouse-robinhood-7684760",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7684760"
+        ],
+        "title": "Software Engineer, Trade PMR",
+        "company": "Robinhood",
+        "location": "New York, NY",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7684760?t=gh_src=&gh_jid=7684760",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391250+00:00"
+      },
+      {
+        "id": "greenhouse-robinhood-7847491",
+        "seen_keys": [
+          "greenhouse-robinhood-7847491",
+          "url:https://boards.greenhouse.io/robinhood/jobs/7847491"
+        ],
+        "title": "Support Engineer",
+        "company": "Robinhood",
+        "location": "Westlake, TX",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/7847491?t=gh_src=&gh_jid=7847491",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T12:44:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391261+00:00"
+      },
+      {
+        "id": "greenhouse-databricks-8570023002",
+        "seen_keys": [
+          "greenhouse-databricks-8570023002",
+          "url:https://databricks.com/company/careers/open-positions/job"
+        ],
+        "title": "Specialist Solutions Architect - Data Engineering",
+        "company": "Databricks",
+        "location": "United States",
+        "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8570023002",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T18:36:27-04:00",
+        "queued_at": "2026-06-09T02:13:46.391273+00:00"
+      },
+      {
+        "id": "greenhouse-reddit-7958354",
+        "seen_keys": [
+          "greenhouse-reddit-7958354",
+          "url:https://job-boards.greenhouse.io/reddit/jobs/7958354"
+        ],
+        "title": "Analytics Engineer",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/7958354",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T20:30:13-04:00",
+        "queued_at": "2026-06-09T02:13:46.391284+00:00"
+      },
+      {
+        "id": "greenhouse-reddit-7980795",
+        "seen_keys": [
+          "greenhouse-reddit-7980795",
+          "url:https://job-boards.greenhouse.io/reddit/jobs/7980795"
+        ],
+        "title": "Frontend Engineer, Ads Growth",
+        "company": "Reddit",
+        "location": "Remote - United States",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/7980795",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T20:30:12-04:00",
+        "queued_at": "2026-06-09T02:13:46.391295+00:00"
+      },
+      {
+        "id": "greenhouse-pinterest-6894747",
+        "seen_keys": [
+          "greenhouse-pinterest-6894747",
+          "url:https://www.pinterestcareers.com/jobs"
+        ],
+        "title": "Sr. Machine Learning Engineer, Applied Science",
+        "company": "Pinterest",
+        "location": "San Francisco, CA, US; Remote, US",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6894747",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T15:37:02-04:00",
+        "queued_at": "2026-06-09T02:13:46.391308+00:00"
+      },
+      {
+        "id": "greenhouse-amplitude-8583053002",
+        "seen_keys": [
+          "greenhouse-amplitude-8583053002",
+          "url:https://job-boards.greenhouse.io/amplitude/jobs/8583053002"
+        ],
+        "title": "Technical Support Engineer (Statsig)",
+        "company": "Amplitude",
+        "location": "New York, NY",
+        "url": "https://job-boards.greenhouse.io/amplitude/jobs/8583053002",
+        "platform": "greenhouse",
+        "posted_at": "2026-06-08T20:14:46-04:00",
+        "queued_at": "2026-06-09T02:13:46.391319+00:00"
+      },
+      {
+        "id": "ashby-openai-240d459b-696d-43eb-8497-fab3e56ecd9b",
+        "seen_keys": [
+          "ashby-openai-240d459b-696d-43eb-8497-fab3e56ecd9b",
+          "url:https://jobs.ashbyhq.com/openai/240d459b-696d-43eb-8497-fab3e56ecd9b"
+        ],
+        "title": "Research Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/240d459b-696d-43eb-8497-fab3e56ecd9b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391330+00:00"
+      },
+      {
+        "id": "ashby-openai-13995549-e8cc-498f-9eaa-1869067ac35b",
+        "seen_keys": [
+          "ashby-openai-13995549-e8cc-498f-9eaa-1869067ac35b",
+          "url:https://jobs.ashbyhq.com/openai/13995549-e8cc-498f-9eaa-1869067ac35b"
+        ],
+        "title": "Software Engineer, RL Training Infra",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/13995549-e8cc-498f-9eaa-1869067ac35b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391341+00:00"
+      },
+      {
+        "id": "ashby-openai-7322d344-9325-4a92-8445-0a2c4e9272f8",
+        "seen_keys": [
+          "ashby-openai-7322d344-9325-4a92-8445-0a2c4e9272f8",
+          "url:https://jobs.ashbyhq.com/openai/7322d344-9325-4a92-8445-0a2c4e9272f8"
+        ],
+        "title": "Research Engineer, Retrieval & Search, Applied Engineering",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/7322d344-9325-4a92-8445-0a2c4e9272f8",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391352+00:00"
+      },
+      {
+        "id": "ashby-openai-3c67f712-697d-48d8-b05c-01be896e61da",
+        "seen_keys": [
+          "ashby-openai-3c67f712-697d-48d8-b05c-01be896e61da",
+          "url:https://jobs.ashbyhq.com/openai/3c67f712-697d-48d8-b05c-01be896e61da"
+        ],
+        "title": "Software Engineer, Scaled Abuse",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/3c67f712-697d-48d8-b05c-01be896e61da",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391362+00:00"
+      },
+      {
+        "id": "ashby-openai-f763c6b3-5167-4a67-b691-4c3fa2c44156",
+        "seen_keys": [
+          "ashby-openai-f763c6b3-5167-4a67-b691-4c3fa2c44156",
+          "url:https://jobs.ashbyhq.com/openai/f763c6b3-5167-4a67-b691-4c3fa2c44156"
+        ],
+        "title": "Software Engineer, Data Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/f763c6b3-5167-4a67-b691-4c3fa2c44156",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391373+00:00"
+      },
+      {
+        "id": "ashby-openai-d8794980-1d3f-4d82-8b48-811449b6c492",
+        "seen_keys": [
+          "ashby-openai-d8794980-1d3f-4d82-8b48-811449b6c492",
+          "url:https://jobs.ashbyhq.com/openai/d8794980-1d3f-4d82-8b48-811449b6c492"
+        ],
+        "title": "Training: ML Framework Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/d8794980-1d3f-4d82-8b48-811449b6c492",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391383+00:00"
+      },
+      {
+        "id": "ashby-openai-2cba0d45-7a4f-4f38-ac73-3f8633bf0349",
+        "seen_keys": [
+          "ashby-openai-2cba0d45-7a4f-4f38-ac73-3f8633bf0349",
+          "url:https://jobs.ashbyhq.com/openai/2cba0d45-7a4f-4f38-ac73-3f8633bf0349"
+        ],
+        "title": "Software Engineer, Developer Productivity",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/2cba0d45-7a4f-4f38-ac73-3f8633bf0349",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391394+00:00"
+      },
+      {
+        "id": "ashby-openai-41d9d129-2e58-4ad3-be81-2e5096f4da4d",
+        "seen_keys": [
+          "ashby-openai-41d9d129-2e58-4ad3-be81-2e5096f4da4d",
+          "url:https://jobs.ashbyhq.com/openai/41d9d129-2e58-4ad3-be81-2e5096f4da4d"
+        ],
+        "title": "Software Engineer, Data Acquisition ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/41d9d129-2e58-4ad3-be81-2e5096f4da4d",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391405+00:00"
+      },
+      {
+        "id": "ashby-openai-fc5bbc77-a30c-4e7a-9acc-8a2e748545b4",
+        "seen_keys": [
+          "ashby-openai-fc5bbc77-a30c-4e7a-9acc-8a2e748545b4",
+          "url:https://jobs.ashbyhq.com/openai/fc5bbc77-a30c-4e7a-9acc-8a2e748545b4"
+        ],
+        "title": "Data Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/fc5bbc77-a30c-4e7a-9acc-8a2e748545b4",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391415+00:00"
+      },
+      {
+        "id": "ashby-openai-bba18df5-f30f-4d2c-909c-30e651f95579",
+        "seen_keys": [
+          "ashby-openai-bba18df5-f30f-4d2c-909c-30e651f95579",
+          "url:https://jobs.ashbyhq.com/openai/bba18df5-f30f-4d2c-909c-30e651f95579"
+        ],
+        "title": "Research Engineer, Frontier Evals & Environments",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/bba18df5-f30f-4d2c-909c-30e651f95579",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391425+00:00"
+      },
+      {
+        "id": "ashby-openai-d4dcd344-40cf-44d6-a7dd-172118eb0842",
+        "seen_keys": [
+          "ashby-openai-d4dcd344-40cf-44d6-a7dd-172118eb0842",
+          "url:https://jobs.ashbyhq.com/openai/d4dcd344-40cf-44d6-a7dd-172118eb0842"
+        ],
+        "title": "Software Engineer, Observability",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/d4dcd344-40cf-44d6-a7dd-172118eb0842",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391435+00:00"
+      },
+      {
+        "id": "ashby-openai-340c0c22-8d8f-4232-b17e-f642b64c25c3",
+        "seen_keys": [
+          "ashby-openai-340c0c22-8d8f-4232-b17e-f642b64c25c3",
+          "url:https://jobs.ashbyhq.com/openai/340c0c22-8d8f-4232-b17e-f642b64c25c3"
+        ],
+        "title": "Software Engineer, Collective Communication",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/340c0c22-8d8f-4232-b17e-f642b64c25c3",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391445+00:00"
+      },
+      {
+        "id": "ashby-openai-2f1c59a8-570b-4192-9b5b-422f1a632cb6",
+        "seen_keys": [
+          "ashby-openai-2f1c59a8-570b-4192-9b5b-422f1a632cb6",
+          "url:https://jobs.ashbyhq.com/openai/2f1c59a8-570b-4192-9b5b-422f1a632cb6"
+        ],
+        "title": "Distributed Training Engineer, Sora",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/2f1c59a8-570b-4192-9b5b-422f1a632cb6",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391455+00:00"
+      },
+      {
+        "id": "ashby-openai-1e4e9985-babf-4bd9-8fe8-a2016250780d",
+        "seen_keys": [
+          "ashby-openai-1e4e9985-babf-4bd9-8fe8-a2016250780d",
+          "url:https://jobs.ashbyhq.com/openai/1e4e9985-babf-4bd9-8fe8-a2016250780d"
+        ],
+        "title": "Software Engineer, Security Observability",
+        "company": "Openai",
+        "location": "San Francisco / Remote - US / Seattle / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/1e4e9985-babf-4bd9-8fe8-a2016250780d",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391465+00:00"
+      },
+      {
+        "id": "ashby-openai-d44c9f70-4aef-45a4-a36a-54fb65663ccb",
+        "seen_keys": [
+          "ashby-openai-d44c9f70-4aef-45a4-a36a-54fb65663ccb",
+          "url:https://jobs.ashbyhq.com/openai/d44c9f70-4aef-45a4-a36a-54fb65663ccb"
+        ],
+        "title": "Research Engineer, Applied AI Engineering",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/d44c9f70-4aef-45a4-a36a-54fb65663ccb",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391474+00:00"
+      },
+      {
+        "id": "ashby-openai-4ef5bf23-cf0e-4b97-a639-11f963c99b88",
+        "seen_keys": [
+          "ashby-openai-4ef5bf23-cf0e-4b97-a639-11f963c99b88",
+          "url:https://jobs.ashbyhq.com/openai/4ef5bf23-cf0e-4b97-a639-11f963c99b88"
+        ],
+        "title": "Software Engineer, Financial Engineering",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/4ef5bf23-cf0e-4b97-a639-11f963c99b88",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391484+00:00"
+      },
+      {
+        "id": "ashby-openai-0322d6d8-6588-4209-a304-83e768063a25",
+        "seen_keys": [
+          "ashby-openai-0322d6d8-6588-4209-a304-83e768063a25",
+          "url:https://jobs.ashbyhq.com/openai/0322d6d8-6588-4209-a304-83e768063a25"
+        ],
+        "title": "Security Engineer, Application Security",
+        "company": "Openai",
+        "location": "San Francisco / Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/0322d6d8-6588-4209-a304-83e768063a25",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391493+00:00"
+      },
+      {
+        "id": "ashby-openai-75420421-5a2a-4d99-8755-9eeff799de95",
+        "seen_keys": [
+          "ashby-openai-75420421-5a2a-4d99-8755-9eeff799de95",
+          "url:https://jobs.ashbyhq.com/openai/75420421-5a2a-4d99-8755-9eeff799de95"
+        ],
+        "title": "Software Engineer, Real Time",
+        "company": "Openai",
+        "location": "Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/75420421-5a2a-4d99-8755-9eeff799de95",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391503+00:00"
+      },
+      {
+        "id": "ashby-openai-991948b7-0305-4125-bb9a-625f5bc24189",
+        "seen_keys": [
+          "ashby-openai-991948b7-0305-4125-bb9a-625f5bc24189",
+          "url:https://jobs.ashbyhq.com/openai/991948b7-0305-4125-bb9a-625f5bc24189"
+        ],
+        "title": "Software Engineer, Integrity Foundations",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/991948b7-0305-4125-bb9a-625f5bc24189",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391514+00:00"
+      },
+      {
+        "id": "ashby-openai-f4e8a433-ae96-44ac-a7f9-97070335395f",
+        "seen_keys": [
+          "ashby-openai-f4e8a433-ae96-44ac-a7f9-97070335395f",
+          "url:https://jobs.ashbyhq.com/openai/f4e8a433-ae96-44ac-a7f9-97070335395f"
+        ],
+        "title": "Software Engineer, Youth Well-Being",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/f4e8a433-ae96-44ac-a7f9-97070335395f",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391524+00:00"
+      },
+      {
+        "id": "ashby-openai-f01b7084-a68d-4e30-ace9-6b5e6d90c517",
+        "seen_keys": [
+          "ashby-openai-f01b7084-a68d-4e30-ace9-6b5e6d90c517",
+          "url:https://jobs.ashbyhq.com/openai/f01b7084-a68d-4e30-ace9-6b5e6d90c517"
+        ],
+        "title": "Technical Threat Investigator, Threat Intel Engineering",
+        "company": "Openai",
+        "location": "San Francisco / New York City / Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/f01b7084-a68d-4e30-ace9-6b5e6d90c517",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391533+00:00"
+      },
+      {
+        "id": "ashby-openai-7809102e-e82a-4678-bf7c-221de8acc0d6",
+        "seen_keys": [
+          "ashby-openai-7809102e-e82a-4678-bf7c-221de8acc0d6",
+          "url:https://jobs.ashbyhq.com/openai/7809102e-e82a-4678-bf7c-221de8acc0d6"
+        ],
+        "title": "Software Engineer, Fleet Management",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/7809102e-e82a-4678-bf7c-221de8acc0d6",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391543+00:00"
+      },
+      {
+        "id": "ashby-openai-a58add97-1968-4d5c-b504-ab62bea12df3",
+        "seen_keys": [
+          "ashby-openai-a58add97-1968-4d5c-b504-ab62bea12df3",
+          "url:https://jobs.ashbyhq.com/openai/a58add97-1968-4d5c-b504-ab62bea12df3"
+        ],
+        "title": "Software Engineer, Fleet Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/a58add97-1968-4d5c-b504-ab62bea12df3",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391553+00:00"
+      },
+      {
+        "id": "ashby-openai-d4780eac-03ad-4dae-861f-99af22b4287e",
+        "seen_keys": [
+          "ashby-openai-d4780eac-03ad-4dae-861f-99af22b4287e",
+          "url:https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e"
+        ],
+        "title": "Software Engineer, Full Stack (People Innovation)",
+        "company": "Openai",
+        "location": "Remote - US / San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391563+00:00"
+      },
+      {
+        "id": "ashby-openai-c1316397-25bb-4add-9e9d-0e3ea8ba929a",
+        "seen_keys": [
+          "ashby-openai-c1316397-25bb-4add-9e9d-0e3ea8ba929a",
+          "url:https://jobs.ashbyhq.com/openai/c1316397-25bb-4add-9e9d-0e3ea8ba929a"
+        ],
+        "title": "Software Engineer, Agent Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/c1316397-25bb-4add-9e9d-0e3ea8ba929a",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391572+00:00"
+      },
+      {
+        "id": "ashby-openai-f92d5695-306d-4af2-8d8b-a09259dd626a",
+        "seen_keys": [
+          "ashby-openai-f92d5695-306d-4af2-8d8b-a09259dd626a",
+          "url:https://jobs.ashbyhq.com/openai/f92d5695-306d-4af2-8d8b-a09259dd626a"
+        ],
+        "title": "AI Deployment Engineer, Startups",
+        "company": "Openai",
+        "location": "New York City",
+        "url": "https://jobs.ashbyhq.com/openai/f92d5695-306d-4af2-8d8b-a09259dd626a",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391582+00:00"
+      },
+      {
+        "id": "ashby-openai-633d5574-92e4-4327-9783-7ea831223dea",
+        "seen_keys": [
+          "ashby-openai-633d5574-92e4-4327-9783-7ea831223dea",
+          "url:https://jobs.ashbyhq.com/openai/633d5574-92e4-4327-9783-7ea831223dea"
+        ],
+        "title": "Software Engineer, Frontier Systems - Power Management",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/633d5574-92e4-4327-9783-7ea831223dea",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391592+00:00"
+      },
+      {
+        "id": "ashby-openai-770d5c3f-4e72-4b49-aec4-d444e8ad7a64",
+        "seen_keys": [
+          "ashby-openai-770d5c3f-4e72-4b49-aec4-d444e8ad7a64",
+          "url:https://jobs.ashbyhq.com/openai/770d5c3f-4e72-4b49-aec4-d444e8ad7a64"
+        ],
+        "title": "Software Engineer, Frontier Clusters Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/770d5c3f-4e72-4b49-aec4-d444e8ad7a64",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391602+00:00"
+      },
+      {
+        "id": "ashby-openai-83b6755d-7785-4186-9050-5ef3ad127941",
+        "seen_keys": [
+          "ashby-openai-83b6755d-7785-4186-9050-5ef3ad127941",
+          "url:https://jobs.ashbyhq.com/openai/83b6755d-7785-4186-9050-5ef3ad127941"
+        ],
+        "title": "Software Engineer, Model Inference",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/83b6755d-7785-4186-9050-5ef3ad127941",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391612+00:00"
+      },
+      {
+        "id": "ashby-openai-1c516e9f-c97d-4a40-8529-9871dac615a5",
+        "seen_keys": [
+          "ashby-openai-1c516e9f-c97d-4a40-8529-9871dac615a5",
+          "url:https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5"
+        ],
+        "title": "Research Engineer / Research Scientist, Post-Training",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391623+00:00"
+      },
+      {
+        "id": "ashby-openai-7649205e-20dc-4bb4-9358-69474a851132",
+        "seen_keys": [
+          "ashby-openai-7649205e-20dc-4bb4-9358-69474a851132",
+          "url:https://jobs.ashbyhq.com/openai/7649205e-20dc-4bb4-9358-69474a851132"
+        ],
+        "title": "Software Engineer, Compute - Storage",
+        "company": "Openai",
+        "location": "San Francisco / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/7649205e-20dc-4bb4-9358-69474a851132",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391633+00:00"
+      },
+      {
+        "id": "ashby-openai-5bc79fde-2f1d-4bb2-8186-4a700ecff37c",
+        "seen_keys": [
+          "ashby-openai-5bc79fde-2f1d-4bb2-8186-4a700ecff37c",
+          "url:https://jobs.ashbyhq.com/openai/5bc79fde-2f1d-4bb2-8186-4a700ecff37c"
+        ],
+        "title": "IT Controls Data Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/5bc79fde-2f1d-4bb2-8186-4a700ecff37c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391643+00:00"
+      },
+      {
+        "id": "ashby-openai-98a36c10-3497-4955-9cc0-a6f211e4dc1b",
+        "seen_keys": [
+          "ashby-openai-98a36c10-3497-4955-9cc0-a6f211e4dc1b",
+          "url:https://jobs.ashbyhq.com/openai/98a36c10-3497-4955-9cc0-a6f211e4dc1b"
+        ],
+        "title": "Solutions Engineer, Pre-Sales",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/98a36c10-3497-4955-9cc0-a6f211e4dc1b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391653+00:00"
+      },
+      {
+        "id": "ashby-openai-00207abc-49b7-465c-a219-f7c1140f8047",
+        "seen_keys": [
+          "ashby-openai-00207abc-49b7-465c-a219-f7c1140f8047",
+          "url:https://jobs.ashbyhq.com/openai/00207abc-49b7-465c-a219-f7c1140f8047"
+        ],
+        "title": "Forward Deployed Software Engineer - SF",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/00207abc-49b7-465c-a219-f7c1140f8047",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391663+00:00"
+      },
+      {
+        "id": "ashby-openai-1faee5e7-3b2f-4d8c-9a6f-ff0f2a4a42a7",
+        "seen_keys": [
+          "ashby-openai-1faee5e7-3b2f-4d8c-9a6f-ff0f2a4a42a7",
+          "url:https://jobs.ashbyhq.com/openai/1faee5e7-3b2f-4d8c-9a6f-ff0f2a4a42a7"
+        ],
+        "title": "Software Engineer, Reliability ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1faee5e7-3b2f-4d8c-9a6f-ff0f2a4a42a7",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391673+00:00"
+      },
+      {
+        "id": "ashby-openai-ecf1abec-898c-4acb-a984-42858836a1ff",
+        "seen_keys": [
+          "ashby-openai-ecf1abec-898c-4acb-a984-42858836a1ff",
+          "url:https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff"
+        ],
+        "title": "Machine Learning Engineer, Integrity",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391684+00:00"
+      },
+      {
+        "id": "ashby-openai-d7efc55b-2fde-4d3f-ae34-2e467f02a57c",
+        "seen_keys": [
+          "ashby-openai-d7efc55b-2fde-4d3f-ae34-2e467f02a57c",
+          "url:https://jobs.ashbyhq.com/openai/d7efc55b-2fde-4d3f-ae34-2e467f02a57c"
+        ],
+        "title": "Software Engineer, Hardware Health",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/d7efc55b-2fde-4d3f-ae34-2e467f02a57c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391694+00:00"
+      },
+      {
+        "id": "ashby-openai-579e2994-ec43-4869-8ad1-8cda8088f74b",
+        "seen_keys": [
+          "ashby-openai-579e2994-ec43-4869-8ad1-8cda8088f74b",
+          "url:https://jobs.ashbyhq.com/openai/579e2994-ec43-4869-8ad1-8cda8088f74b"
+        ],
+        "title": "Data Scientist, Product",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/579e2994-ec43-4869-8ad1-8cda8088f74b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391704+00:00"
+      },
+      {
+        "id": "ashby-openai-305a4b22-7ff9-4fa5-9229-c6a22c9aa64f",
+        "seen_keys": [
+          "ashby-openai-305a4b22-7ff9-4fa5-9229-c6a22c9aa64f",
+          "url:https://jobs.ashbyhq.com/openai/305a4b22-7ff9-4fa5-9229-c6a22c9aa64f"
+        ],
+        "title": "Forward Deployed Engineer (FDE) - SF",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/305a4b22-7ff9-4fa5-9229-c6a22c9aa64f",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391715+00:00"
+      },
+      {
+        "id": "ashby-openai-cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1",
+        "seen_keys": [
+          "ashby-openai-cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1",
+          "url:https://jobs.ashbyhq.com/openai/cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1"
+        ],
+        "title": "Forward Deployed Engineer (FDE) - NYC",
+        "company": "Openai",
+        "location": "New York City",
+        "url": "https://jobs.ashbyhq.com/openai/cf31f5f6-4e67-4695-808c-9cdd2e1fa3b1",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391787+00:00"
+      },
+      {
+        "id": "ashby-openai-8e856e36-075e-40b4-b617-0229b5c1a308",
+        "seen_keys": [
+          "ashby-openai-8e856e36-075e-40b4-b617-0229b5c1a308",
+          "url:https://jobs.ashbyhq.com/openai/8e856e36-075e-40b4-b617-0229b5c1a308"
+        ],
+        "title": "Data Center Infrastructure Mechanical Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/8e856e36-075e-40b4-b617-0229b5c1a308",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391802+00:00"
+      },
+      {
+        "id": "ashby-openai-9d11e1d8-af1d-413b-873f-d8fac2bdee99",
+        "seen_keys": [
+          "ashby-openai-9d11e1d8-af1d-413b-873f-d8fac2bdee99",
+          "url:https://jobs.ashbyhq.com/openai/9d11e1d8-af1d-413b-873f-d8fac2bdee99"
+        ],
+        "title": "Full Stack Engineer, Fleet Scheduling",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/9d11e1d8-af1d-413b-873f-d8fac2bdee99",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391814+00:00"
+      },
+      {
+        "id": "ashby-openai-4e60d650-47a7-44fb-8031-02976c7ddc55",
+        "seen_keys": [
+          "ashby-openai-4e60d650-47a7-44fb-8031-02976c7ddc55",
+          "url:https://jobs.ashbyhq.com/openai/4e60d650-47a7-44fb-8031-02976c7ddc55"
+        ],
+        "title": "TLM, Machine Learning, Integrity",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/4e60d650-47a7-44fb-8031-02976c7ddc55",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391826+00:00"
+      },
+      {
+        "id": "ashby-openai-1e110226-448a-4c0b-b0e4-d0f5df579fbf",
+        "seen_keys": [
+          "ashby-openai-1e110226-448a-4c0b-b0e4-d0f5df579fbf",
+          "url:https://jobs.ashbyhq.com/openai/1e110226-448a-4c0b-b0e4-d0f5df579fbf"
+        ],
+        "title": "Security Engineer, Application Security",
+        "company": "Openai",
+        "location": "Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/1e110226-448a-4c0b-b0e4-d0f5df579fbf",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391837+00:00"
+      },
+      {
+        "id": "ashby-openai-ec5a5d98-6314-44d9-9466-8d4d7ee866f6",
+        "seen_keys": [
+          "ashby-openai-ec5a5d98-6314-44d9-9466-8d4d7ee866f6",
+          "url:https://jobs.ashbyhq.com/openai/ec5a5d98-6314-44d9-9466-8d4d7ee866f6"
+        ],
+        "title": "Security Engineer, Application Security",
+        "company": "Openai",
+        "location": "New York City",
+        "url": "https://jobs.ashbyhq.com/openai/ec5a5d98-6314-44d9-9466-8d4d7ee866f6",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391848+00:00"
+      },
+      {
+        "id": "ashby-openai-bd190cad-99ec-4fe7-8f8f-de96b5aa5969",
+        "seen_keys": [
+          "ashby-openai-bd190cad-99ec-4fe7-8f8f-de96b5aa5969",
+          "url:https://jobs.ashbyhq.com/openai/bd190cad-99ec-4fe7-8f8f-de96b5aa5969"
+        ],
+        "title": "Software Engineer, Backend (Cooperative AI)",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/bd190cad-99ec-4fe7-8f8f-de96b5aa5969",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391859+00:00"
+      },
+      {
+        "id": "ashby-openai-b9dee2a0-9bb3-447e-9bce-2b1bed784e5b",
+        "seen_keys": [
+          "ashby-openai-b9dee2a0-9bb3-447e-9bce-2b1bed784e5b",
+          "url:https://jobs.ashbyhq.com/openai/b9dee2a0-9bb3-447e-9bce-2b1bed784e5b"
+        ],
+        "title": "Software Engineer, AI Safety",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/b9dee2a0-9bb3-447e-9bce-2b1bed784e5b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391870+00:00"
+      },
+      {
+        "id": "ashby-openai-07153f7c-7e8b-4283-a879-cb07a224e083",
+        "seen_keys": [
+          "ashby-openai-07153f7c-7e8b-4283-a879-cb07a224e083",
+          "url:https://jobs.ashbyhq.com/openai/07153f7c-7e8b-4283-a879-cb07a224e083"
+        ],
+        "title": "Software Engineer, Privacy Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/07153f7c-7e8b-4283-a879-cb07a224e083",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391881+00:00"
+      },
+      {
+        "id": "ashby-openai-71e7252f-abb1-4b74-8e69-318413042357",
+        "seen_keys": [
+          "ashby-openai-71e7252f-abb1-4b74-8e69-318413042357",
+          "url:https://jobs.ashbyhq.com/openai/71e7252f-abb1-4b74-8e69-318413042357"
+        ],
+        "title": "AI Deployment Engineer, Startups",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/71e7252f-abb1-4b74-8e69-318413042357",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391891+00:00"
+      },
+      {
+        "id": "ashby-openai-f956b77c-3cc5-4fdd-9463-2a6e5047e57c",
+        "seen_keys": [
+          "ashby-openai-f956b77c-3cc5-4fdd-9463-2a6e5047e57c",
+          "url:https://jobs.ashbyhq.com/openai/f956b77c-3cc5-4fdd-9463-2a6e5047e57c"
+        ],
+        "title": "Security Engineer, Detection and Response",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / New York City / Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/f956b77c-3cc5-4fdd-9463-2a6e5047e57c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391901+00:00"
+      },
+      {
+        "id": "ashby-openai-71655236-0303-42aa-9135-b2f27f2457ab",
+        "seen_keys": [
+          "ashby-openai-71655236-0303-42aa-9135-b2f27f2457ab",
+          "url:https://jobs.ashbyhq.com/openai/71655236-0303-42aa-9135-b2f27f2457ab"
+        ],
+        "title": "Data Scientist, Strategic Finance",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/71655236-0303-42aa-9135-b2f27f2457ab",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391911+00:00"
+      },
+      {
+        "id": "ashby-openai-460b4295-3803-4dda-983d-3b0fea0b0fc4",
+        "seen_keys": [
+          "ashby-openai-460b4295-3803-4dda-983d-3b0fea0b0fc4",
+          "url:https://jobs.ashbyhq.com/openai/460b4295-3803-4dda-983d-3b0fea0b0fc4"
+        ],
+        "title": "Software Engineer, Habitat (Online Data)",
+        "company": "Openai",
+        "location": "Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/460b4295-3803-4dda-983d-3b0fea0b0fc4",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391921+00:00"
+      },
+      {
+        "id": "ashby-openai-eaf9207e-84c9-4fa2-bd57-6877b7eb7f79",
+        "seen_keys": [
+          "ashby-openai-eaf9207e-84c9-4fa2-bd57-6877b7eb7f79",
+          "url:https://jobs.ashbyhq.com/openai/eaf9207e-84c9-4fa2-bd57-6877b7eb7f79"
+        ],
+        "title": "Product Engineer, Marketing Innovation",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/eaf9207e-84c9-4fa2-bd57-6877b7eb7f79",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391931+00:00"
+      },
+      {
+        "id": "ashby-openai-43174eb6-0ffe-4744-9323-c7969e7ea2e1",
+        "seen_keys": [
+          "ashby-openai-43174eb6-0ffe-4744-9323-c7969e7ea2e1",
+          "url:https://jobs.ashbyhq.com/openai/43174eb6-0ffe-4744-9323-c7969e7ea2e1"
+        ],
+        "title": "Backend Software Engineer, GTM Innovation ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/43174eb6-0ffe-4744-9323-c7969e7ea2e1",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391942+00:00"
+      },
+      {
+        "id": "ashby-openai-f386b209-1259-4b79-bf5a-aa97fc7ce77b",
+        "seen_keys": [
+          "ashby-openai-f386b209-1259-4b79-bf5a-aa97fc7ce77b",
+          "url:https://jobs.ashbyhq.com/openai/f386b209-1259-4b79-bf5a-aa97fc7ce77b"
+        ],
+        "title": "Software Engineer, Accelerators",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/f386b209-1259-4b79-bf5a-aa97fc7ce77b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391953+00:00"
+      },
+      {
+        "id": "ashby-openai-fabfc6c5-57b5-49ba-aae9-e7dd5d7030ca",
+        "seen_keys": [
+          "ashby-openai-fabfc6c5-57b5-49ba-aae9-e7dd5d7030ca",
+          "url:https://jobs.ashbyhq.com/openai/fabfc6c5-57b5-49ba-aae9-e7dd5d7030ca"
+        ],
+        "title": "Robotics Software Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/fabfc6c5-57b5-49ba-aae9-e7dd5d7030ca",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391963+00:00"
+      },
+      {
+        "id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
+        "seen_keys": [
+          "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
+          "url:https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53"
+        ],
+        "title": "Research Engineer/Research Scientist, RL/Reasoning",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391973+00:00"
+      },
+      {
+        "id": "ashby-openai-38ddaa2c-a490-427a-8457-0e92bf00138c",
+        "seen_keys": [
+          "ashby-openai-38ddaa2c-a490-427a-8457-0e92bf00138c",
+          "url:https://jobs.ashbyhq.com/openai/38ddaa2c-a490-427a-8457-0e92bf00138c"
+        ],
+        "title": "ChatGPT Performance Engineer",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / Remote - US / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/38ddaa2c-a490-427a-8457-0e92bf00138c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391983+00:00"
+      },
+      {
+        "id": "ashby-openai-4d14449e-5e7f-45d4-b103-8776a6c87086",
+        "seen_keys": [
+          "ashby-openai-4d14449e-5e7f-45d4-b103-8776a6c87086",
+          "url:https://jobs.ashbyhq.com/openai/4d14449e-5e7f-45d4-b103-8776a6c87086"
+        ],
+        "title": "Software Engineer, Inference - Multi Modal",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/4d14449e-5e7f-45d4-b103-8776a6c87086",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.391994+00:00"
+      },
+      {
+        "id": "ashby-openai-4d6a5951-9838-434c-830a-22cb938ea228",
+        "seen_keys": [
+          "ashby-openai-4d6a5951-9838-434c-830a-22cb938ea228",
+          "url:https://jobs.ashbyhq.com/openai/4d6a5951-9838-434c-830a-22cb938ea228"
+        ],
+        "title": "Software Engineer, Research - Human Data",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/4d6a5951-9838-434c-830a-22cb938ea228",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392004+00:00"
+      },
+      {
+        "id": "ashby-openai-be7b1bf5-37ab-40f7-9ec1-e9732244f12a",
+        "seen_keys": [
+          "ashby-openai-be7b1bf5-37ab-40f7-9ec1-e9732244f12a",
+          "url:https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a"
+        ],
+        "title": "AI Deployment Engineer, Public Sector - Federal Civilian",
+        "company": "Openai",
+        "location": "Washington, DC",
+        "url": "https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392015+00:00"
+      },
+      {
+        "id": "ashby-openai-f58cb1eb-9642-4a4d-a14d-d7a57d583a11",
+        "seen_keys": [
+          "ashby-openai-f58cb1eb-9642-4a4d-a14d-d7a57d583a11",
+          "url:https://jobs.ashbyhq.com/openai/f58cb1eb-9642-4a4d-a14d-d7a57d583a11"
+        ],
+        "title": "Software Engineer, GPU Infrastructure - HPC",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/f58cb1eb-9642-4a4d-a14d-d7a57d583a11",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392026+00:00"
+      },
+      {
+        "id": "ashby-openai-f381868f-7b0a-4b22-b215-71c7f5c1b498",
+        "seen_keys": [
+          "ashby-openai-f381868f-7b0a-4b22-b215-71c7f5c1b498",
+          "url:https://jobs.ashbyhq.com/openai/f381868f-7b0a-4b22-b215-71c7f5c1b498"
+        ],
+        "title": "Software Engineer, Post-Training Research",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/f381868f-7b0a-4b22-b215-71c7f5c1b498",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392036+00:00"
+      },
+      {
+        "id": "ashby-openai-551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
+        "seen_keys": [
+          "ashby-openai-551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
+          "url:https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db"
+        ],
+        "title": "Software Engineer, Identity Infrastructure Engineering",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / New York City / Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392045+00:00"
+      },
+      {
+        "id": "ashby-openai-1a979fd4-1bce-484e-a416-aed2810677a6",
+        "seen_keys": [
+          "ashby-openai-1a979fd4-1bce-484e-a416-aed2810677a6",
+          "url:https://jobs.ashbyhq.com/openai/1a979fd4-1bce-484e-a416-aed2810677a6"
+        ],
+        "title": "AI Support Engineer - San Francisco",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1a979fd4-1bce-484e-a416-aed2810677a6",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392055+00:00"
+      },
+      {
+        "id": "ashby-openai-cb9280db-df39-4c88-b411-5fdf149a6e52",
+        "seen_keys": [
+          "ashby-openai-cb9280db-df39-4c88-b411-5fdf149a6e52",
+          "url:https://jobs.ashbyhq.com/openai/cb9280db-df39-4c88-b411-5fdf149a6e52"
+        ],
+        "title": "Product Manufacturing Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/cb9280db-df39-4c88-b411-5fdf149a6e52",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392065+00:00"
+      },
+      {
+        "id": "ashby-openai-bc40de6b-6dbc-49ce-9fc4-d9728baa1ec6",
+        "seen_keys": [
+          "ashby-openai-bc40de6b-6dbc-49ce-9fc4-d9728baa1ec6",
+          "url:https://jobs.ashbyhq.com/openai/bc40de6b-6dbc-49ce-9fc4-d9728baa1ec6"
+        ],
+        "title": "Developer Experience Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/bc40de6b-6dbc-49ce-9fc4-d9728baa1ec6",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392075+00:00"
+      },
+      {
+        "id": "ashby-openai-0da75470-7e1e-44c3-90df-6f93cf90b968",
+        "seen_keys": [
+          "ashby-openai-0da75470-7e1e-44c3-90df-6f93cf90b968",
+          "url:https://jobs.ashbyhq.com/openai/0da75470-7e1e-44c3-90df-6f93cf90b968"
+        ],
+        "title": "Software Engineer, Payments",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/0da75470-7e1e-44c3-90df-6f93cf90b968",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392086+00:00"
+      },
+      {
+        "id": "ashby-openai-57551641-208c-48d9-bfb8-9a298d7e7510",
+        "seen_keys": [
+          "ashby-openai-57551641-208c-48d9-bfb8-9a298d7e7510",
+          "url:https://jobs.ashbyhq.com/openai/57551641-208c-48d9-bfb8-9a298d7e7510"
+        ],
+        "title": "Software Engineer, Fleet Hardware Health",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/57551641-208c-48d9-bfb8-9a298d7e7510",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392097+00:00"
+      },
+      {
+        "id": "ashby-openai-e9bea775-7eb6-438a-ab96-27d5f941e69d",
+        "seen_keys": [
+          "ashby-openai-e9bea775-7eb6-438a-ab96-27d5f941e69d",
+          "url:https://jobs.ashbyhq.com/openai/e9bea775-7eb6-438a-ab96-27d5f941e69d"
+        ],
+        "title": "Security Engineer, Agent Security",
+        "company": "Openai",
+        "location": "San Francisco / Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/e9bea775-7eb6-438a-ab96-27d5f941e69d",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392107+00:00"
+      },
+      {
+        "id": "ashby-openai-e602cd50-002d-4ace-bb30-19db0afcf635",
+        "seen_keys": [
+          "ashby-openai-e602cd50-002d-4ace-bb30-19db0afcf635",
+          "url:https://jobs.ashbyhq.com/openai/e602cd50-002d-4ace-bb30-19db0afcf635"
+        ],
+        "title": "Data Center Infrastructure Electrical Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/e602cd50-002d-4ace-bb30-19db0afcf635",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392117+00:00"
+      },
+      {
+        "id": "ashby-openai-2b5e8e15-7952-4170-a927-2ad68e318ed6",
+        "seen_keys": [
+          "ashby-openai-2b5e8e15-7952-4170-a927-2ad68e318ed6",
+          "url:https://jobs.ashbyhq.com/openai/2b5e8e15-7952-4170-a927-2ad68e318ed6"
+        ],
+        "title": "Software Engineer, Database Systems",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/2b5e8e15-7952-4170-a927-2ad68e318ed6",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392145+00:00"
+      },
+      {
+        "id": "ashby-openai-21bfde35-ffec-42d2-a2c6-8a03dad789d5",
+        "seen_keys": [
+          "ashby-openai-21bfde35-ffec-42d2-a2c6-8a03dad789d5",
+          "url:https://jobs.ashbyhq.com/openai/21bfde35-ffec-42d2-a2c6-8a03dad789d5"
+        ],
+        "title": "Software Engineer, Core Services",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/21bfde35-ffec-42d2-a2c6-8a03dad789d5",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392157+00:00"
+      },
+      {
+        "id": "ashby-openai-a20b7fc6-6f01-4618-ba35-37b40083f93e",
+        "seen_keys": [
+          "ashby-openai-a20b7fc6-6f01-4618-ba35-37b40083f93e",
+          "url:https://jobs.ashbyhq.com/openai/a20b7fc6-6f01-4618-ba35-37b40083f93e"
+        ],
+        "title": "Software Engineer, Caching Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/a20b7fc6-6f01-4618-ba35-37b40083f93e",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392168+00:00"
+      },
+      {
+        "id": "ashby-openai-e71cf565-4b21-4b0d-bf45-b22e58ca95eb",
+        "seen_keys": [
+          "ashby-openai-e71cf565-4b21-4b0d-bf45-b22e58ca95eb",
+          "url:https://jobs.ashbyhq.com/openai/e71cf565-4b21-4b0d-bf45-b22e58ca95eb"
+        ],
+        "title": "Data Scientist, Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/e71cf565-4b21-4b0d-bf45-b22e58ca95eb",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392180+00:00"
+      },
+      {
+        "id": "ashby-openai-8a1b804f-b070-4c61-bd3d-cdf39ef9d935",
+        "seen_keys": [
+          "ashby-openai-8a1b804f-b070-4c61-bd3d-cdf39ef9d935",
+          "url:https://jobs.ashbyhq.com/openai/8a1b804f-b070-4c61-bd3d-cdf39ef9d935"
+        ],
+        "title": "Software Engineer, Privacy",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/8a1b804f-b070-4c61-bd3d-cdf39ef9d935",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392190+00:00"
+      },
+      {
+        "id": "ashby-openai-12342ebb-dcd4-45e2-b875-fc5447fdb7d8",
+        "seen_keys": [
+          "ashby-openai-12342ebb-dcd4-45e2-b875-fc5447fdb7d8",
+          "url:https://jobs.ashbyhq.com/openai/12342ebb-dcd4-45e2-b875-fc5447fdb7d8"
+        ],
+        "title": "Software Engineer, Cloud Infrastructure ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/12342ebb-dcd4-45e2-b875-fc5447fdb7d8",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392201+00:00"
+      },
+      {
+        "id": "ashby-openai-6c6c1ace-12d6-48f0-88f0-488ff8521571",
+        "seen_keys": [
+          "ashby-openai-6c6c1ace-12d6-48f0-88f0-488ff8521571",
+          "url:https://jobs.ashbyhq.com/openai/6c6c1ace-12d6-48f0-88f0-488ff8521571"
+        ],
+        "title": "IT Solutions Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/6c6c1ace-12d6-48f0-88f0-488ff8521571",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392211+00:00"
+      },
+      {
+        "id": "ashby-openai-cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
+        "seen_keys": [
+          "ashby-openai-cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
+          "url:https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9"
+        ],
+        "title": "Research Engineer, Privacy",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392221+00:00"
+      },
+      {
+        "id": "ashby-openai-793964ae-d40b-45e3-9798-84f4b6da48c5",
+        "seen_keys": [
+          "ashby-openai-793964ae-d40b-45e3-9798-84f4b6da48c5",
+          "url:https://jobs.ashbyhq.com/openai/793964ae-d40b-45e3-9798-84f4b6da48c5"
+        ],
+        "title": "Research Engineer, Codex",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/793964ae-d40b-45e3-9798-84f4b6da48c5",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392231+00:00"
+      },
+      {
+        "id": "ashby-openai-6131fc4f-bfc8-49f3-8223-773a55d15583",
+        "seen_keys": [
+          "ashby-openai-6131fc4f-bfc8-49f3-8223-773a55d15583",
+          "url:https://jobs.ashbyhq.com/openai/6131fc4f-bfc8-49f3-8223-773a55d15583"
+        ],
+        "title": "Data Scientist, Strategic Intelligence & Risk",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/6131fc4f-bfc8-49f3-8223-773a55d15583",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392241+00:00"
+      },
+      {
+        "id": "ashby-openai-52c72cb9-7c44-4cba-b440-e05262a38491",
+        "seen_keys": [
+          "ashby-openai-52c72cb9-7c44-4cba-b440-e05262a38491",
+          "url:https://jobs.ashbyhq.com/openai/52c72cb9-7c44-4cba-b440-e05262a38491"
+        ],
+        "title": "Fullstack Engineer, Intelligence Systems",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/52c72cb9-7c44-4cba-b440-e05262a38491",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392251+00:00"
+      },
+      {
+        "id": "ashby-openai-1ba666a4-0be2-4bd0-ad51-39ed7164c241",
+        "seen_keys": [
+          "ashby-openai-1ba666a4-0be2-4bd0-ad51-39ed7164c241",
+          "url:https://jobs.ashbyhq.com/openai/1ba666a4-0be2-4bd0-ad51-39ed7164c241"
+        ],
+        "title": "Software Engineer, Quality & Developer Tools | Consumer Devices",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1ba666a4-0be2-4bd0-ad51-39ed7164c241",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392261+00:00"
+      },
+      {
+        "id": "ashby-openai-c3f437e7-034b-4ea0-a29e-c62eb23ca24f",
+        "seen_keys": [
+          "ashby-openai-c3f437e7-034b-4ea0-a29e-c62eb23ca24f",
+          "url:https://jobs.ashbyhq.com/openai/c3f437e7-034b-4ea0-a29e-c62eb23ca24f"
+        ],
+        "title": "Analytics Engineer, SMB",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/c3f437e7-034b-4ea0-a29e-c62eb23ca24f",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392271+00:00"
+      },
+      {
+        "id": "ashby-openai-39cd0dd8-520d-4932-80bf-7495a1d1d11b",
+        "seen_keys": [
+          "ashby-openai-39cd0dd8-520d-4932-80bf-7495a1d1d11b",
+          "url:https://jobs.ashbyhq.com/openai/39cd0dd8-520d-4932-80bf-7495a1d1d11b"
+        ],
+        "title": "Simulation Applications Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/39cd0dd8-520d-4932-80bf-7495a1d1d11b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392281+00:00"
+      },
+      {
+        "id": "ashby-openai-8eaa92fb-b908-4624-9b34-1ec7b5aa03d6",
+        "seen_keys": [
+          "ashby-openai-8eaa92fb-b908-4624-9b34-1ec7b5aa03d6",
+          "url:https://jobs.ashbyhq.com/openai/8eaa92fb-b908-4624-9b34-1ec7b5aa03d6"
+        ],
+        "title": "Electrical Engineer, Robotics",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/8eaa92fb-b908-4624-9b34-1ec7b5aa03d6",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392290+00:00"
+      },
+      {
+        "id": "ashby-openai-77bc0b3a-35c1-4ecf-99c7-1b3b19d959ca",
+        "seen_keys": [
+          "ashby-openai-77bc0b3a-35c1-4ecf-99c7-1b3b19d959ca",
+          "url:https://jobs.ashbyhq.com/openai/77bc0b3a-35c1-4ecf-99c7-1b3b19d959ca"
+        ],
+        "title": "Full Stack Software Engineer, Growth",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/77bc0b3a-35c1-4ecf-99c7-1b3b19d959ca",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392300+00:00"
+      },
+      {
+        "id": "ashby-openai-db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
+        "seen_keys": [
+          "ashby-openai-db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
+          "url:https://jobs.ashbyhq.com/openai/db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f"
+        ],
+        "title": "Forward Deployed Engineer, Gov",
+        "company": "Openai",
+        "location": "Washington, DC / Seattle / San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392310+00:00"
+      },
+      {
+        "id": "ashby-openai-529feb11-4b9b-4baf-9b3f-f2b100156c5a",
+        "seen_keys": [
+          "ashby-openai-529feb11-4b9b-4baf-9b3f-f2b100156c5a",
+          "url:https://jobs.ashbyhq.com/openai/529feb11-4b9b-4baf-9b3f-f2b100156c5a"
+        ],
+        "title": "Protection Scientist Engineer, Integrity ",
+        "company": "Openai",
+        "location": "San Francisco / New York City / Washington, DC / Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/529feb11-4b9b-4baf-9b3f-f2b100156c5a",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392320+00:00"
+      },
+      {
+        "id": "ashby-openai-68f7ef0f-97a4-47ce-ac0a-a442572ab7a7",
+        "seen_keys": [
+          "ashby-openai-68f7ef0f-97a4-47ce-ac0a-a442572ab7a7",
+          "url:https://jobs.ashbyhq.com/openai/68f7ef0f-97a4-47ce-ac0a-a442572ab7a7"
+        ],
+        "title": "Data Center Controls Network Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/68f7ef0f-97a4-47ce-ac0a-a442572ab7a7",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392330+00:00"
+      },
+      {
+        "id": "ashby-openai-e6d5ca02-f30b-4ac5-a69d-c947efb430f9",
+        "seen_keys": [
+          "ashby-openai-e6d5ca02-f30b-4ac5-a69d-c947efb430f9",
+          "url:https://jobs.ashbyhq.com/openai/e6d5ca02-f30b-4ac5-a69d-c947efb430f9"
+        ],
+        "title": "Software Engineer, Research Developer Productivity",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/e6d5ca02-f30b-4ac5-a69d-c947efb430f9",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392340+00:00"
+      },
+      {
+        "id": "ashby-openai-b7a2e30f-c5f6-4710-b53e-64d64bcce189",
+        "seen_keys": [
+          "ashby-openai-b7a2e30f-c5f6-4710-b53e-64d64bcce189",
+          "url:https://jobs.ashbyhq.com/openai/b7a2e30f-c5f6-4710-b53e-64d64bcce189"
+        ],
+        "title": "Software Engineer, Data Infrastructure - Research",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/b7a2e30f-c5f6-4710-b53e-64d64bcce189",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392351+00:00"
+      },
+      {
+        "id": "ashby-openai-3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
+        "seen_keys": [
+          "ashby-openai-3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
+          "url:https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2"
+        ],
+        "title": "Backend Software Engineer (Evals) ",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392361+00:00"
+      },
+      {
+        "id": "ashby-openai-b2c5f3d7-5dfd-45f6-a4fa-fa372f5875a5",
+        "seen_keys": [
+          "ashby-openai-b2c5f3d7-5dfd-45f6-a4fa-fa372f5875a5",
+          "url:https://jobs.ashbyhq.com/openai/b2c5f3d7-5dfd-45f6-a4fa-fa372f5875a5"
+        ],
+        "title": "Reliability/DFX Engineer ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/b2c5f3d7-5dfd-45f6-a4fa-fa372f5875a5",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392371+00:00"
+      },
+      {
+        "id": "ashby-openai-a2c9f105-b41a-41db-afd8-e70a54b3f21c",
+        "seen_keys": [
+          "ashby-openai-a2c9f105-b41a-41db-afd8-e70a54b3f21c",
+          "url:https://jobs.ashbyhq.com/openai/a2c9f105-b41a-41db-afd8-e70a54b3f21c"
+        ],
+        "title": "Full Stack Software Engineer, GTM Innovation ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/a2c9f105-b41a-41db-afd8-e70a54b3f21c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392382+00:00"
+      },
+      {
+        "id": "ashby-openai-3bb3c9f8-78d1-4df5-b47e-235f8ed5cbf9",
+        "seen_keys": [
+          "ashby-openai-3bb3c9f8-78d1-4df5-b47e-235f8ed5cbf9",
+          "url:https://jobs.ashbyhq.com/openai/3bb3c9f8-78d1-4df5-b47e-235f8ed5cbf9"
+        ],
+        "title": "Product Engineer, GTM Innovation ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/3bb3c9f8-78d1-4df5-b47e-235f8ed5cbf9",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392392+00:00"
+      },
+      {
+        "id": "ashby-openai-23b158fe-709e-4bf5-856c-d10953d32f60",
+        "seen_keys": [
+          "ashby-openai-23b158fe-709e-4bf5-856c-d10953d32f60",
+          "url:https://jobs.ashbyhq.com/openai/23b158fe-709e-4bf5-856c-d10953d32f60"
+        ],
+        "title": "Software Engineer - Privacy & Compliance",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/23b158fe-709e-4bf5-856c-d10953d32f60",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392402+00:00"
+      },
+      {
+        "id": "ashby-openai-994bf78e-55ec-4c02-9326-6f90c08bcebe",
+        "seen_keys": [
+          "ashby-openai-994bf78e-55ec-4c02-9326-6f90c08bcebe",
+          "url:https://jobs.ashbyhq.com/openai/994bf78e-55ec-4c02-9326-6f90c08bcebe"
+        ],
+        "title": "Data Scientist, Codex",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/994bf78e-55ec-4c02-9326-6f90c08bcebe",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392412+00:00"
+      },
+      {
+        "id": "ashby-openai-f1567543-4de1-468e-9054-bc5fd21a55e2",
+        "seen_keys": [
+          "ashby-openai-f1567543-4de1-468e-9054-bc5fd21a55e2",
+          "url:https://jobs.ashbyhq.com/openai/f1567543-4de1-468e-9054-bc5fd21a55e2"
+        ],
+        "title": "Data Scientist, Platform and B2B Products",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/f1567543-4de1-468e-9054-bc5fd21a55e2",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392422+00:00"
+      },
+      {
+        "id": "ashby-openai-898a87fb-4cb8-450e-9840-ee5dc710a57d",
+        "seen_keys": [
+          "ashby-openai-898a87fb-4cb8-450e-9840-ee5dc710a57d",
+          "url:https://jobs.ashbyhq.com/openai/898a87fb-4cb8-450e-9840-ee5dc710a57d"
+        ],
+        "title": "Data Scientist, Financial Engineering ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/898a87fb-4cb8-450e-9840-ee5dc710a57d",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392432+00:00"
+      },
+      {
+        "id": "ashby-openai-dd2025b9-4d18-4ad7-a78c-7a643419ecc5",
+        "seen_keys": [
+          "ashby-openai-dd2025b9-4d18-4ad7-a78c-7a643419ecc5",
+          "url:https://jobs.ashbyhq.com/openai/dd2025b9-4d18-4ad7-a78c-7a643419ecc5"
+        ],
+        "title": "Backend Software Engineer, Growth",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/dd2025b9-4d18-4ad7-a78c-7a643419ecc5",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392442+00:00"
+      },
+      {
+        "id": "ashby-openai-9b79406c-89a8-49bd-8a38-e72db80996e9",
+        "seen_keys": [
+          "ashby-openai-9b79406c-89a8-49bd-8a38-e72db80996e9",
+          "url:https://jobs.ashbyhq.com/openai/9b79406c-89a8-49bd-8a38-e72db80996e9"
+        ],
+        "title": "Software Engineer, Inference \u2013 AMD GPU Enablement ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/9b79406c-89a8-49bd-8a38-e72db80996e9",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392452+00:00"
+      },
+      {
+        "id": "ashby-openai-6eb386ac-9056-4795-aa79-a27e105faf5c",
+        "seen_keys": [
+          "ashby-openai-6eb386ac-9056-4795-aa79-a27e105faf5c",
+          "url:https://jobs.ashbyhq.com/openai/6eb386ac-9056-4795-aa79-a27e105faf5c"
+        ],
+        "title": "Training Performance Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/6eb386ac-9056-4795-aa79-a27e105faf5c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392462+00:00"
+      },
+      {
+        "id": "ashby-openai-f51f750f-a737-4441-8f96-30133a2a8049",
+        "seen_keys": [
+          "ashby-openai-f51f750f-a737-4441-8f96-30133a2a8049",
+          "url:https://jobs.ashbyhq.com/openai/f51f750f-a737-4441-8f96-30133a2a8049"
+        ],
+        "title": "Security Engineer, Infrastructure Security",
+        "company": "Openai",
+        "location": "Remote - US / San Francisco / Seattle / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/f51f750f-a737-4441-8f96-30133a2a8049",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392471+00:00"
+      },
+      {
+        "id": "ashby-openai-98ad9beb-4f91-496c-bd16-ac0b2a8d5bb2",
+        "seen_keys": [
+          "ashby-openai-98ad9beb-4f91-496c-bd16-ac0b2a8d5bb2",
+          "url:https://jobs.ashbyhq.com/openai/98ad9beb-4f91-496c-bd16-ac0b2a8d5bb2"
+        ],
+        "title": "Software Engineer, Infrastructure Security",
+        "company": "Openai",
+        "location": "Remote - US / San Francisco / Seattle / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/98ad9beb-4f91-496c-bd16-ac0b2a8d5bb2",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392483+00:00"
+      },
+      {
+        "id": "ashby-openai-1906c058-7610-4cf2-b5ed-ae7f4b6a16ca",
+        "seen_keys": [
+          "ashby-openai-1906c058-7610-4cf2-b5ed-ae7f4b6a16ca",
+          "url:https://jobs.ashbyhq.com/openai/1906c058-7610-4cf2-b5ed-ae7f4b6a16ca"
+        ],
+        "title": "Data Scientist, Safety Systems",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1906c058-7610-4cf2-b5ed-ae7f4b6a16ca",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392493+00:00"
+      },
+      {
+        "id": "ashby-openai-ac1de598-3891-4d1b-bbb6-4c3997a8bef8",
+        "seen_keys": [
+          "ashby-openai-ac1de598-3891-4d1b-bbb6-4c3997a8bef8",
+          "url:https://jobs.ashbyhq.com/openai/ac1de598-3891-4d1b-bbb6-4c3997a8bef8"
+        ],
+        "title": "AI Deployment Engineer, Startups",
+        "company": "Openai",
+        "location": "India - Remote",
+        "url": "https://jobs.ashbyhq.com/openai/ac1de598-3891-4d1b-bbb6-4c3997a8bef8",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392502+00:00"
+      },
+      {
+        "id": "ashby-openai-645ccd65-eb60-4eb7-b094-b01c2269638c",
+        "seen_keys": [
+          "ashby-openai-645ccd65-eb60-4eb7-b094-b01c2269638c",
+          "url:https://jobs.ashbyhq.com/openai/645ccd65-eb60-4eb7-b094-b01c2269638c"
+        ],
+        "title": "Security Reliability Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/645ccd65-eb60-4eb7-b094-b01c2269638c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392512+00:00"
+      },
+      {
+        "id": "ashby-openai-c9acc73a-b118-4802-bb51-87f3d57df883",
+        "seen_keys": [
+          "ashby-openai-c9acc73a-b118-4802-bb51-87f3d57df883",
+          "url:https://jobs.ashbyhq.com/openai/c9acc73a-b118-4802-bb51-87f3d57df883"
+        ],
+        "title": "AI Deployment Engineer- ChatGPT Ecosystem",
+        "company": "Openai",
+        "location": "San Francisco / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/c9acc73a-b118-4802-bb51-87f3d57df883",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392523+00:00"
+      },
+      {
+        "id": "ashby-openai-ad2cf782-15a4-48c7-9133-1788e3f33bbb",
+        "seen_keys": [
+          "ashby-openai-ad2cf782-15a4-48c7-9133-1788e3f33bbb",
+          "url:https://jobs.ashbyhq.com/openai/ad2cf782-15a4-48c7-9133-1788e3f33bbb"
+        ],
+        "title": "Site Reliability Engineer, Frontier Systems Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/ad2cf782-15a4-48c7-9133-1788e3f33bbb",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392532+00:00"
+      },
+      {
+        "id": "ashby-openai-c02b35b2-af37-4740-a702-2ed3b5dc3cf1",
+        "seen_keys": [
+          "ashby-openai-c02b35b2-af37-4740-a702-2ed3b5dc3cf1",
+          "url:https://jobs.ashbyhq.com/openai/c02b35b2-af37-4740-a702-2ed3b5dc3cf1"
+        ],
+        "title": "Software Engineer, Productivity - Training Runtime",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/c02b35b2-af37-4740-a702-2ed3b5dc3cf1",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392542+00:00"
+      },
+      {
+        "id": "ashby-openai-778e3a4f-c318-4a79-a745-00e722e5ee47",
+        "seen_keys": [
+          "ashby-openai-778e3a4f-c318-4a79-a745-00e722e5ee47",
+          "url:https://jobs.ashbyhq.com/openai/778e3a4f-c318-4a79-a745-00e722e5ee47"
+        ],
+        "title": "Software Engineer, Hardware",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/778e3a4f-c318-4a79-a745-00e722e5ee47",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392551+00:00"
+      },
+      {
+        "id": "ashby-openai-eda4a2d1-682f-418e-8055-222eaf7c9abd",
+        "seen_keys": [
+          "ashby-openai-eda4a2d1-682f-418e-8055-222eaf7c9abd",
+          "url:https://jobs.ashbyhq.com/openai/eda4a2d1-682f-418e-8055-222eaf7c9abd"
+        ],
+        "title": "Mechanical Engineer, Hardware Systems",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/eda4a2d1-682f-418e-8055-222eaf7c9abd",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392560+00:00"
+      },
+      {
+        "id": "ashby-openai-fff7b15d-a1a0-441f-90f1-5efcae7f0051",
+        "seen_keys": [
+          "ashby-openai-fff7b15d-a1a0-441f-90f1-5efcae7f0051",
+          "url:https://jobs.ashbyhq.com/openai/fff7b15d-a1a0-441f-90f1-5efcae7f0051"
+        ],
+        "title": "Quality Engineer - Rack Infrastructure & Site Operations - Stargate",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/fff7b15d-a1a0-441f-90f1-5efcae7f0051",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392570+00:00"
+      },
+      {
+        "id": "ashby-openai-bb97fffc-cdda-43a3-a6bc-234f9c031720",
+        "seen_keys": [
+          "ashby-openai-bb97fffc-cdda-43a3-a6bc-234f9c031720",
+          "url:https://jobs.ashbyhq.com/openai/bb97fffc-cdda-43a3-a6bc-234f9c031720"
+        ],
+        "title": "Offensive Security Engineer, Agent Products",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / New York City / Washington, DC / Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/bb97fffc-cdda-43a3-a6bc-234f9c031720",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392581+00:00"
+      },
+      {
+        "id": "ashby-openai-3a415c1d-4f66-4578-8eb3-8b15ef0ab52b",
+        "seen_keys": [
+          "ashby-openai-3a415c1d-4f66-4578-8eb3-8b15ef0ab52b",
+          "url:https://jobs.ashbyhq.com/openai/3a415c1d-4f66-4578-8eb3-8b15ef0ab52b"
+        ],
+        "title": "Design Verification Engineer ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/3a415c1d-4f66-4578-8eb3-8b15ef0ab52b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392591+00:00"
+      },
+      {
+        "id": "ashby-openai-9f69106f-c2c9-4f14-9938-f38eb42cab50",
+        "seen_keys": [
+          "ashby-openai-9f69106f-c2c9-4f14-9938-f38eb42cab50",
+          "url:https://jobs.ashbyhq.com/openai/9f69106f-c2c9-4f14-9938-f38eb42cab50"
+        ],
+        "title": "Applied Data Scientist, Unit Economics Understanding",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/9f69106f-c2c9-4f14-9938-f38eb42cab50",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392601+00:00"
+      },
+      {
+        "id": "ashby-openai-fc72784d-f925-4f8d-aebc-eee72e7bf55c",
+        "seen_keys": [
+          "ashby-openai-fc72784d-f925-4f8d-aebc-eee72e7bf55c",
+          "url:https://jobs.ashbyhq.com/openai/fc72784d-f925-4f8d-aebc-eee72e7bf55c"
+        ],
+        "title": "Data Scientist, Business",
+        "company": "Openai",
+        "location": "San Francisco / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/fc72784d-f925-4f8d-aebc-eee72e7bf55c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392611+00:00"
+      },
+      {
+        "id": "ashby-openai-533c0fc9-b773-476d-9f96-a0528efbab0e",
+        "seen_keys": [
+          "ashby-openai-533c0fc9-b773-476d-9f96-a0528efbab0e",
+          "url:https://jobs.ashbyhq.com/openai/533c0fc9-b773-476d-9f96-a0528efbab0e"
+        ],
+        "title": "Forward Deployed Software Engineer - NYC",
+        "company": "Openai",
+        "location": "New York City",
+        "url": "https://jobs.ashbyhq.com/openai/533c0fc9-b773-476d-9f96-a0528efbab0e",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392621+00:00"
+      },
+      {
+        "id": "ashby-openai-da07ba71-81fd-47c7-adb1-2b2d1eaed325",
+        "seen_keys": [
+          "ashby-openai-da07ba71-81fd-47c7-adb1-2b2d1eaed325",
+          "url:https://jobs.ashbyhq.com/openai/da07ba71-81fd-47c7-adb1-2b2d1eaed325"
+        ],
+        "title": "Software Engineer, Distributed Data Systems - Robotics",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/da07ba71-81fd-47c7-adb1-2b2d1eaed325",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392635+00:00"
+      },
+      {
+        "id": "ashby-openai-5a265d2b-683f-4cea-9b69-8e137e704ab3",
+        "seen_keys": [
+          "ashby-openai-5a265d2b-683f-4cea-9b69-8e137e704ab3",
+          "url:https://jobs.ashbyhq.com/openai/5a265d2b-683f-4cea-9b69-8e137e704ab3"
+        ],
+        "title": "Physical Design Engineer ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/5a265d2b-683f-4cea-9b69-8e137e704ab3",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392645+00:00"
+      },
+      {
+        "id": "ashby-openai-8427b270-8440-400c-bc18-ff24c4f0f987",
+        "seen_keys": [
+          "ashby-openai-8427b270-8440-400c-bc18-ff24c4f0f987",
+          "url:https://jobs.ashbyhq.com/openai/8427b270-8440-400c-bc18-ff24c4f0f987"
+        ],
+        "title": "Software Engineer, Full Stack, Revenue Platform",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/8427b270-8440-400c-bc18-ff24c4f0f987",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392655+00:00"
+      },
+      {
+        "id": "ashby-openai-ca7e4019-bf93-42fd-8f15-fac59c6e237c",
+        "seen_keys": [
+          "ashby-openai-ca7e4019-bf93-42fd-8f15-fac59c6e237c",
+          "url:https://jobs.ashbyhq.com/openai/ca7e4019-bf93-42fd-8f15-fac59c6e237c"
+        ],
+        "title": "AI Deployment Engineer- Codex",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/ca7e4019-bf93-42fd-8f15-fac59c6e237c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392664+00:00"
+      },
+      {
+        "id": "ashby-openai-f84dbb5c-6008-40f1-b388-1434d159d4a4",
+        "seen_keys": [
+          "ashby-openai-f84dbb5c-6008-40f1-b388-1434d159d4a4",
+          "url:https://jobs.ashbyhq.com/openai/f84dbb5c-6008-40f1-b388-1434d159d4a4"
+        ],
+        "title": "Security Engineer, Insider Threat Detection & Response",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / New York City / Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/f84dbb5c-6008-40f1-b388-1434d159d4a4",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392674+00:00"
+      },
+      {
+        "id": "ashby-openai-31b998a9-f62a-439e-89e4-b51aea6311f7",
+        "seen_keys": [
+          "ashby-openai-31b998a9-f62a-439e-89e4-b51aea6311f7",
+          "url:https://jobs.ashbyhq.com/openai/31b998a9-f62a-439e-89e4-b51aea6311f7"
+        ],
+        "title": "RTL & Codesign Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/31b998a9-f62a-439e-89e4-b51aea6311f7",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392684+00:00"
+      },
+      {
+        "id": "ashby-openai-a4ea79c8-e79f-4126-8c1f-032289024961",
+        "seen_keys": [
+          "ashby-openai-a4ea79c8-e79f-4126-8c1f-032289024961",
+          "url:https://jobs.ashbyhq.com/openai/a4ea79c8-e79f-4126-8c1f-032289024961"
+        ],
+        "title": "Software Engineer, Monetization Delivery",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/a4ea79c8-e79f-4126-8c1f-032289024961",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392693+00:00"
+      },
+      {
+        "id": "ashby-openai-e2e59dcf-1017-45c5-8e6e-509a5812959b",
+        "seen_keys": [
+          "ashby-openai-e2e59dcf-1017-45c5-8e6e-509a5812959b",
+          "url:https://jobs.ashbyhq.com/openai/e2e59dcf-1017-45c5-8e6e-509a5812959b"
+        ],
+        "title": "Simulation Realism Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/e2e59dcf-1017-45c5-8e6e-509a5812959b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392703+00:00"
+      },
+      {
+        "id": "ashby-openai-e6981259-c1d0-46de-8376-56bde28cfb10",
+        "seen_keys": [
+          "ashby-openai-e6981259-c1d0-46de-8376-56bde28cfb10",
+          "url:https://jobs.ashbyhq.com/openai/e6981259-c1d0-46de-8376-56bde28cfb10"
+        ],
+        "title": "Software Engineer, ChatGPT Infrastructure ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/e6981259-c1d0-46de-8376-56bde28cfb10",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392713+00:00"
+      },
+      {
+        "id": "ashby-openai-2710d0c7-8f1c-4e1a-bf7a-4000fc5a8d68",
+        "seen_keys": [
+          "ashby-openai-2710d0c7-8f1c-4e1a-bf7a-4000fc5a8d68",
+          "url:https://jobs.ashbyhq.com/openai/2710d0c7-8f1c-4e1a-bf7a-4000fc5a8d68"
+        ],
+        "title": "Firmware Engineer, RTOS, Consumer Devices",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/2710d0c7-8f1c-4e1a-bf7a-4000fc5a8d68",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392727+00:00"
+      },
+      {
+        "id": "ashby-openai-20f525b7-f958-4c95-a055-f914ab3adb95",
+        "seen_keys": [
+          "ashby-openai-20f525b7-f958-4c95-a055-f914ab3adb95",
+          "url:https://jobs.ashbyhq.com/openai/20f525b7-f958-4c95-a055-f914ab3adb95"
+        ],
+        "title": "System Software Engineer, Consumer Devices",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/20f525b7-f958-4c95-a055-f914ab3adb95",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392739+00:00"
+      },
+      {
+        "id": "ashby-openai-63f7f0b3-ba2c-437b-87ba-ec476729f071",
+        "seen_keys": [
+          "ashby-openai-63f7f0b3-ba2c-437b-87ba-ec476729f071",
+          "url:https://jobs.ashbyhq.com/openai/63f7f0b3-ba2c-437b-87ba-ec476729f071"
+        ],
+        "title": "Release Engineer | Consumer Devices",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/63f7f0b3-ba2c-437b-87ba-ec476729f071",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392750+00:00"
+      },
+      {
+        "id": "ashby-openai-1dc05fc7-ceb7-4827-a905-9d1beb77a4a0",
+        "seen_keys": [
+          "ashby-openai-1dc05fc7-ceb7-4827-a905-9d1beb77a4a0",
+          "url:https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0"
+        ],
+        "title": "Camera Software Engineer, Consumer Devices",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392760+00:00"
+      },
+      {
+        "id": "ashby-openai-c51e48ce-31ad-4176-a6d5-4a785b44ab73",
+        "seen_keys": [
+          "ashby-openai-c51e48ce-31ad-4176-a6d5-4a785b44ab73",
+          "url:https://jobs.ashbyhq.com/openai/c51e48ce-31ad-4176-a6d5-4a785b44ab73"
+        ],
+        "title": "Software Engineer, Monetization Product & Platform ",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/c51e48ce-31ad-4176-a6d5-4a785b44ab73",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392771+00:00"
+      },
+      {
+        "id": "ashby-openai-7613aca3-9dd8-41cd-b114-06ef4de967a9",
+        "seen_keys": [
+          "ashby-openai-7613aca3-9dd8-41cd-b114-06ef4de967a9",
+          "url:https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9"
+        ],
+        "title": "Software Engineer, Cooperative AI",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392781+00:00"
+      },
+      {
+        "id": "ashby-openai-e4ef18a1-f2f7-4920-a53c-aeadd184d124",
+        "seen_keys": [
+          "ashby-openai-e4ef18a1-f2f7-4920-a53c-aeadd184d124",
+          "url:https://jobs.ashbyhq.com/openai/e4ef18a1-f2f7-4920-a53c-aeadd184d124"
+        ],
+        "title": "ASIC Firmware Engineer, Modeling",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/e4ef18a1-f2f7-4920-a53c-aeadd184d124",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392791+00:00"
+      },
+      {
+        "id": "ashby-openai-89f58eb2-519f-4a36-8be0-2e594724e1bc",
+        "seen_keys": [
+          "ashby-openai-89f58eb2-519f-4a36-8be0-2e594724e1bc",
+          "url:https://jobs.ashbyhq.com/openai/89f58eb2-519f-4a36-8be0-2e594724e1bc"
+        ],
+        "title": "Software Engineer, Codex Ecosystem & Enterprise",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/89f58eb2-519f-4a36-8be0-2e594724e1bc",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392800+00:00"
+      },
+      {
+        "id": "ashby-openai-130a5389-83e1-493f-9205-542d3ff53afb",
+        "seen_keys": [
+          "ashby-openai-130a5389-83e1-493f-9205-542d3ff53afb",
+          "url:https://jobs.ashbyhq.com/openai/130a5389-83e1-493f-9205-542d3ff53afb"
+        ],
+        "title": "Software Engineer, Codex Cloud Apps",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/130a5389-83e1-493f-9205-542d3ff53afb",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392810+00:00"
+      },
+      {
+        "id": "ashby-openai-a6501870-774b-447f-8620-2b78854f9655",
+        "seen_keys": [
+          "ashby-openai-a6501870-774b-447f-8620-2b78854f9655",
+          "url:https://jobs.ashbyhq.com/openai/a6501870-774b-447f-8620-2b78854f9655"
+        ],
+        "title": "Fullstack Engineer, Safety Engineering",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/a6501870-774b-447f-8620-2b78854f9655",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392819+00:00"
+      },
+      {
+        "id": "ashby-openai-ffc3f648-a39d-4403-ad16-e8d38c88d572",
+        "seen_keys": [
+          "ashby-openai-ffc3f648-a39d-4403-ad16-e8d38c88d572",
+          "url:https://jobs.ashbyhq.com/openai/ffc3f648-a39d-4403-ad16-e8d38c88d572"
+        ],
+        "title": "Frontend Engineer, Dotcom (Marketing)",
+        "company": "Openai",
+        "location": "San Francisco / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/ffc3f648-a39d-4403-ad16-e8d38c88d572",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392831+00:00"
+      },
+      {
+        "id": "ashby-openai-c2aeb70d-3eca-4c4f-a414-6394b30fea80",
+        "seen_keys": [
+          "ashby-openai-c2aeb70d-3eca-4c4f-a414-6394b30fea80",
+          "url:https://jobs.ashbyhq.com/openai/c2aeb70d-3eca-4c4f-a414-6394b30fea80"
+        ],
+        "title": "Full Stack Engineer, Health AI",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/c2aeb70d-3eca-4c4f-a414-6394b30fea80",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392841+00:00"
+      },
+      {
+        "id": "ashby-openai-97507b0b-1d56-4801-ab20-4f22fe221593",
+        "seen_keys": [
+          "ashby-openai-97507b0b-1d56-4801-ab20-4f22fe221593",
+          "url:https://jobs.ashbyhq.com/openai/97507b0b-1d56-4801-ab20-4f22fe221593"
+        ],
+        "title": "Signal Integrity Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/97507b0b-1d56-4801-ab20-4f22fe221593",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392851+00:00"
+      },
+      {
+        "id": "ashby-openai-5931abef-191b-417e-89f1-1d06f00e908c",
+        "seen_keys": [
+          "ashby-openai-5931abef-191b-417e-89f1-1d06f00e908c",
+          "url:https://jobs.ashbyhq.com/openai/5931abef-191b-417e-89f1-1d06f00e908c"
+        ],
+        "title": "ML Research Engineer - Hardware Codesign",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/5931abef-191b-417e-89f1-1d06f00e908c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392861+00:00"
+      },
+      {
+        "id": "ashby-openai-202eb061-23d7-4a58-80c8-bc3b41e56d39",
+        "seen_keys": [
+          "ashby-openai-202eb061-23d7-4a58-80c8-bc3b41e56d39",
+          "url:https://jobs.ashbyhq.com/openai/202eb061-23d7-4a58-80c8-bc3b41e56d39"
+        ],
+        "title": "Software Engineer, Build Systems / CI",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/202eb061-23d7-4a58-80c8-bc3b41e56d39",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392871+00:00"
+      },
+      {
+        "id": "ashby-openai-7f299784-2c75-4d73-99e5-1e5043ec7b48",
+        "seen_keys": [
+          "ashby-openai-7f299784-2c75-4d73-99e5-1e5043ec7b48",
+          "url:https://jobs.ashbyhq.com/openai/7f299784-2c75-4d73-99e5-1e5043ec7b48"
+        ],
+        "title": "Data Scientist, Marketing Innovation",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/7f299784-2c75-4d73-99e5-1e5043ec7b48",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392880+00:00"
+      },
+      {
+        "id": "ashby-openai-c47bd03b-800f-4e17-8240-e83c68766937",
+        "seen_keys": [
+          "ashby-openai-c47bd03b-800f-4e17-8240-e83c68766937",
+          "url:https://jobs.ashbyhq.com/openai/c47bd03b-800f-4e17-8240-e83c68766937"
+        ],
+        "title": "Android Engineer, ChatGPT Engineering",
+        "company": "Openai",
+        "location": "San Francisco / New York City / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/c47bd03b-800f-4e17-8240-e83c68766937",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392891+00:00"
+      },
+      {
+        "id": "ashby-openai-8e301350-62fb-4251-bc34-c7036498f08c",
+        "seen_keys": [
+          "ashby-openai-8e301350-62fb-4251-bc34-c7036498f08c",
+          "url:https://jobs.ashbyhq.com/openai/8e301350-62fb-4251-bc34-c7036498f08c"
+        ],
+        "title": "Backend Engineer, Consumer Devices",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/8e301350-62fb-4251-bc34-c7036498f08c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392901+00:00"
+      },
+      {
+        "id": "ashby-openai-daa43488-c4a7-4b3d-b93e-283135c65b2e",
+        "seen_keys": [
+          "ashby-openai-daa43488-c4a7-4b3d-b93e-283135c65b2e",
+          "url:https://jobs.ashbyhq.com/openai/daa43488-c4a7-4b3d-b93e-283135c65b2e"
+        ],
+        "title": "AI Success Engineer - San Francisco",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/daa43488-c4a7-4b3d-b93e-283135c65b2e",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392911+00:00"
+      },
+      {
+        "id": "ashby-openai-192980b8-b874-4493-a8c1-f7d5660f00f3",
+        "seen_keys": [
+          "ashby-openai-192980b8-b874-4493-a8c1-f7d5660f00f3",
+          "url:https://jobs.ashbyhq.com/openai/192980b8-b874-4493-a8c1-f7d5660f00f3"
+        ],
+        "title": "Frontend Engineer, Financial Web Platform",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/192980b8-b874-4493-a8c1-f7d5660f00f3",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392920+00:00"
+      },
+      {
+        "id": "ashby-openai-775240dd-6d36-401a-acca-128df0459610",
+        "seen_keys": [
+          "ashby-openai-775240dd-6d36-401a-acca-128df0459610",
+          "url:https://jobs.ashbyhq.com/openai/775240dd-6d36-401a-acca-128df0459610"
+        ],
+        "title": "iOS Engineer, Applied Foundations",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/775240dd-6d36-401a-acca-128df0459610",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392930+00:00"
+      },
+      {
+        "id": "ashby-openai-6202038a-323b-43ce-ae10-534acba4145c",
+        "seen_keys": [
+          "ashby-openai-6202038a-323b-43ce-ae10-534acba4145c",
+          "url:https://jobs.ashbyhq.com/openai/6202038a-323b-43ce-ae10-534acba4145c"
+        ],
+        "title": "Android Engineer, Applied Foundations ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/6202038a-323b-43ce-ae10-534acba4145c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392939+00:00"
+      },
+      {
+        "id": "ashby-openai-d4548828-191b-4cbf-9fd4-058d16416e49",
+        "seen_keys": [
+          "ashby-openai-d4548828-191b-4cbf-9fd4-058d16416e49",
+          "url:https://jobs.ashbyhq.com/openai/d4548828-191b-4cbf-9fd4-058d16416e49"
+        ],
+        "title": "AI Success Engineer - NYC",
+        "company": "Openai",
+        "location": "New York City",
+        "url": "https://jobs.ashbyhq.com/openai/d4548828-191b-4cbf-9fd4-058d16416e49",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392949+00:00"
+      },
+      {
+        "id": "ashby-openai-ea339283-7650-4b50-9d24-08d143af260a",
+        "seen_keys": [
+          "ashby-openai-ea339283-7650-4b50-9d24-08d143af260a",
+          "url:https://jobs.ashbyhq.com/openai/ea339283-7650-4b50-9d24-08d143af260a"
+        ],
+        "title": "AI Success Engineer - US Remote",
+        "company": "Openai",
+        "location": "Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/ea339283-7650-4b50-9d24-08d143af260a",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392958+00:00"
+      },
+      {
+        "id": "ashby-openai-4f4221ef-f2bc-4dc1-9086-69ba126e4903",
+        "seen_keys": [
+          "ashby-openai-4f4221ef-f2bc-4dc1-9086-69ba126e4903",
+          "url:https://jobs.ashbyhq.com/openai/4f4221ef-f2bc-4dc1-9086-69ba126e4903"
+        ],
+        "title": "AI Deployment Engineer- Codex",
+        "company": "Openai",
+        "location": "Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/4f4221ef-f2bc-4dc1-9086-69ba126e4903",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392967+00:00"
+      },
+      {
+        "id": "ashby-openai-387e28ec-a4db-42da-9448-b6dbb7b13901",
+        "seen_keys": [
+          "ashby-openai-387e28ec-a4db-42da-9448-b6dbb7b13901",
+          "url:https://jobs.ashbyhq.com/openai/387e28ec-a4db-42da-9448-b6dbb7b13901"
+        ],
+        "title": "AI Deployment Engineer- ChatGPT Ecosystem",
+        "company": "Openai",
+        "location": "Remote - US / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/387e28ec-a4db-42da-9448-b6dbb7b13901",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392977+00:00"
+      },
+      {
+        "id": "ashby-openai-5e4ed6d1-2417-4bf5-bae0-905931c488e3",
+        "seen_keys": [
+          "ashby-openai-5e4ed6d1-2417-4bf5-bae0-905931c488e3",
+          "url:https://jobs.ashbyhq.com/openai/5e4ed6d1-2417-4bf5-bae0-905931c488e3"
+        ],
+        "title": "Software Engineer, Platform Systems",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/5e4ed6d1-2417-4bf5-bae0-905931c488e3",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392986+00:00"
+      },
+      {
+        "id": "ashby-openai-e665817a-bf86-4208-8cf3-c1754c28b401",
+        "seen_keys": [
+          "ashby-openai-e665817a-bf86-4208-8cf3-c1754c28b401",
+          "url:https://jobs.ashbyhq.com/openai/e665817a-bf86-4208-8cf3-c1754c28b401"
+        ],
+        "title": "Solutions Engineer, Pre-Sales",
+        "company": "Openai",
+        "location": "New York City",
+        "url": "https://jobs.ashbyhq.com/openai/e665817a-bf86-4208-8cf3-c1754c28b401",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.392996+00:00"
+      },
+      {
+        "id": "ashby-openai-77b815de-b7c5-4b87-8582-e8c752aea849",
+        "seen_keys": [
+          "ashby-openai-77b815de-b7c5-4b87-8582-e8c752aea849",
+          "url:https://jobs.ashbyhq.com/openai/77b815de-b7c5-4b87-8582-e8c752aea849"
+        ],
+        "title": "RTL & Co-design Engineer (junior)",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/77b815de-b7c5-4b87-8582-e8c752aea849",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393005+00:00"
+      },
+      {
+        "id": "ashby-openai-56fceb8e-589b-410e-8b21-24f9945ccb9d",
+        "seen_keys": [
+          "ashby-openai-56fceb8e-589b-410e-8b21-24f9945ccb9d",
+          "url:https://jobs.ashbyhq.com/openai/56fceb8e-589b-410e-8b21-24f9945ccb9d"
+        ],
+        "title": "Solutions Engineer, Core Digital Natives",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/56fceb8e-589b-410e-8b21-24f9945ccb9d",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393015+00:00"
+      },
+      {
+        "id": "ashby-openai-c56d195f-75d8-4c51-b951-b76caa0d8760",
+        "seen_keys": [
+          "ashby-openai-c56d195f-75d8-4c51-b951-b76caa0d8760",
+          "url:https://jobs.ashbyhq.com/openai/c56d195f-75d8-4c51-b951-b76caa0d8760"
+        ],
+        "title": "Solutions Engineer, Private Equity",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/c56d195f-75d8-4c51-b951-b76caa0d8760",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393025+00:00"
+      },
+      {
+        "id": "ashby-openai-3a64da1c-bf29-4e52-baa3-a8f35f16ff74",
+        "seen_keys": [
+          "ashby-openai-3a64da1c-bf29-4e52-baa3-a8f35f16ff74",
+          "url:https://jobs.ashbyhq.com/openai/3a64da1c-bf29-4e52-baa3-a8f35f16ff74"
+        ],
+        "title": "Solutions Engineer, Core Digital Native",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/3a64da1c-bf29-4e52-baa3-a8f35f16ff74",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393034+00:00"
+      },
+      {
+        "id": "ashby-openai-1953efa7-5c1f-4878-b4cb-926cd35aafdb",
+        "seen_keys": [
+          "ashby-openai-1953efa7-5c1f-4878-b4cb-926cd35aafdb",
+          "url:https://jobs.ashbyhq.com/openai/1953efa7-5c1f-4878-b4cb-926cd35aafdb"
+        ],
+        "title": "Solutions Engineer, Core Enterprise",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1953efa7-5c1f-4878-b4cb-926cd35aafdb",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393043+00:00"
+      },
+      {
+        "id": "ashby-openai-75e02795-6c6e-4c09-a723-251b5c730ed2",
+        "seen_keys": [
+          "ashby-openai-75e02795-6c6e-4c09-a723-251b5c730ed2",
+          "url:https://jobs.ashbyhq.com/openai/75e02795-6c6e-4c09-a723-251b5c730ed2"
+        ],
+        "title": " Solutions Engineer, Financial Services",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/75e02795-6c6e-4c09-a723-251b5c730ed2",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393053+00:00"
+      },
+      {
+        "id": "ashby-openai-5bde9af5-df78-460e-ae9c-5c49ac778640",
+        "seen_keys": [
+          "ashby-openai-5bde9af5-df78-460e-ae9c-5c49ac778640",
+          "url:https://jobs.ashbyhq.com/openai/5bde9af5-df78-460e-ae9c-5c49ac778640"
+        ],
+        "title": "Frontend Engineer, ChatGPT Engineering",
+        "company": "Openai",
+        "location": "San Francisco / New York City / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/5bde9af5-df78-460e-ae9c-5c49ac778640",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393062+00:00"
+      },
+      {
+        "id": "ashby-openai-50626871-6bbf-4d8f-a534-176f929f1f37",
+        "seen_keys": [
+          "ashby-openai-50626871-6bbf-4d8f-a534-176f929f1f37",
+          "url:https://jobs.ashbyhq.com/openai/50626871-6bbf-4d8f-a534-176f929f1f37"
+        ],
+        "title": "Full Stack Software Engineer, ChatGPT Partnerships",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/50626871-6bbf-4d8f-a534-176f929f1f37",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393071+00:00"
+      },
+      {
+        "id": "ashby-openai-dde7aafb-fa52-4b14-b94f-1aa331b32fa6",
+        "seen_keys": [
+          "ashby-openai-dde7aafb-fa52-4b14-b94f-1aa331b32fa6",
+          "url:https://jobs.ashbyhq.com/openai/dde7aafb-fa52-4b14-b94f-1aa331b32fa6"
+        ],
+        "title": "AI Success Engineer, Government ",
+        "company": "Openai",
+        "location": "Washington, DC / San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/dde7aafb-fa52-4b14-b94f-1aa331b32fa6",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393081+00:00"
+      },
+      {
+        "id": "ashby-openai-4a13c764-18c3-4076-ac87-29e05491be07",
+        "seen_keys": [
+          "ashby-openai-4a13c764-18c3-4076-ac87-29e05491be07",
+          "url:https://jobs.ashbyhq.com/openai/4a13c764-18c3-4076-ac87-29e05491be07"
+        ],
+        "title": "Machine Learning Engineer, Distributed Data Systems - Robotics",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/4a13c764-18c3-4076-ac87-29e05491be07",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393090+00:00"
+      },
+      {
+        "id": "ashby-openai-c9fd2911-586b-45b2-80ea-2078ce6dafff",
+        "seen_keys": [
+          "ashby-openai-c9fd2911-586b-45b2-80ea-2078ce6dafff",
+          "url:https://jobs.ashbyhq.com/openai/c9fd2911-586b-45b2-80ea-2078ce6dafff"
+        ],
+        "title": "iOS Engineer, Ad Formats",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/c9fd2911-586b-45b2-80ea-2078ce6dafff",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393101+00:00"
+      },
+      {
+        "id": "ashby-openai-7daff2af-1686-43fe-85c0-ca912c8747ac",
+        "seen_keys": [
+          "ashby-openai-7daff2af-1686-43fe-85c0-ca912c8747ac",
+          "url:https://jobs.ashbyhq.com/openai/7daff2af-1686-43fe-85c0-ca912c8747ac"
+        ],
+        "title": "Android Engineer, Ad Formats",
+        "company": "Openai",
+        "location": "San Francisco / San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/7daff2af-1686-43fe-85c0-ca912c8747ac",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393111+00:00"
+      },
+      {
+        "id": "ashby-openai-2c9d0566-69b1-435e-bd8f-4eefc04dd076",
+        "seen_keys": [
+          "ashby-openai-2c9d0566-69b1-435e-bd8f-4eefc04dd076",
+          "url:https://jobs.ashbyhq.com/openai/2c9d0566-69b1-435e-bd8f-4eefc04dd076"
+        ],
+        "title": "Component and Product Quality Engineer, Interconnects",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/2c9d0566-69b1-435e-bd8f-4eefc04dd076",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393120+00:00"
+      },
+      {
+        "id": "ashby-openai-059ac93e-3fc9-42e9-a4f4-367c0fd5de14",
+        "seen_keys": [
+          "ashby-openai-059ac93e-3fc9-42e9-a4f4-367c0fd5de14",
+          "url:https://jobs.ashbyhq.com/openai/059ac93e-3fc9-42e9-a4f4-367c0fd5de14"
+        ],
+        "title": "Platform Engineer, Forward Deployed Engineering (FDE) -SF",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/059ac93e-3fc9-42e9-a4f4-367c0fd5de14",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393158+00:00"
+      },
+      {
+        "id": "ashby-openai-46cd47bc-d4de-4826-aa2e-8b2e0da3c409",
+        "seen_keys": [
+          "ashby-openai-46cd47bc-d4de-4826-aa2e-8b2e0da3c409",
+          "url:https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409"
+        ],
+        "title": "Research Engineer - Speech & Realtime Models",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393169+00:00"
+      },
+      {
+        "id": "ashby-openai-60e52bb7-3418-447c-8767-a6bb8e7dedd8",
+        "seen_keys": [
+          "ashby-openai-60e52bb7-3418-447c-8767-a6bb8e7dedd8",
+          "url:https://jobs.ashbyhq.com/openai/60e52bb7-3418-447c-8767-a6bb8e7dedd8"
+        ],
+        "title": "Software Engineer, Codex App",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / London, UK",
+        "url": "https://jobs.ashbyhq.com/openai/60e52bb7-3418-447c-8767-a6bb8e7dedd8",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393180+00:00"
+      },
+      {
+        "id": "ashby-openai-5f6685ad-2fba-4e60-8982-fa142b33e194",
+        "seen_keys": [
+          "ashby-openai-5f6685ad-2fba-4e60-8982-fa142b33e194",
+          "url:https://jobs.ashbyhq.com/openai/5f6685ad-2fba-4e60-8982-fa142b33e194"
+        ],
+        "title": "Frontend Software Engineer, Codex App",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / London, UK",
+        "url": "https://jobs.ashbyhq.com/openai/5f6685ad-2fba-4e60-8982-fa142b33e194",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393190+00:00"
+      },
+      {
+        "id": "ashby-openai-23662a5c-43c3-4754-a6e0-30f8cbf6d681",
+        "seen_keys": [
+          "ashby-openai-23662a5c-43c3-4754-a6e0-30f8cbf6d681",
+          "url:https://jobs.ashbyhq.com/openai/23662a5c-43c3-4754-a6e0-30f8cbf6d681"
+        ],
+        "title": "Analytics Engineer, Safety Systems",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/23662a5c-43c3-4754-a6e0-30f8cbf6d681",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393199+00:00"
+      },
+      {
+        "id": "ashby-openai-be4e1098-f7ac-46f4-babe-44ef08f47fcb",
+        "seen_keys": [
+          "ashby-openai-be4e1098-f7ac-46f4-babe-44ef08f47fcb",
+          "url:https://jobs.ashbyhq.com/openai/be4e1098-f7ac-46f4-babe-44ef08f47fcb"
+        ],
+        "title": "Data Scientist, Integrity Measurement",
+        "company": "Openai",
+        "location": "San Francisco / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/be4e1098-f7ac-46f4-babe-44ef08f47fcb",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393209+00:00"
+      },
+      {
+        "id": "ashby-openai-3ea8b9e4-e193-4f0c-a4ba-2da65242df45",
+        "seen_keys": [
+          "ashby-openai-3ea8b9e4-e193-4f0c-a4ba-2da65242df45",
+          "url:https://jobs.ashbyhq.com/openai/3ea8b9e4-e193-4f0c-a4ba-2da65242df45"
+        ],
+        "title": "AI Support Engineer, Government - San Francisco",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/3ea8b9e4-e193-4f0c-a4ba-2da65242df45",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393219+00:00"
+      },
+      {
+        "id": "ashby-openai-45ab8896-06bd-4c8e-bb76-914483d5d180",
+        "seen_keys": [
+          "ashby-openai-45ab8896-06bd-4c8e-bb76-914483d5d180",
+          "url:https://jobs.ashbyhq.com/openai/45ab8896-06bd-4c8e-bb76-914483d5d180"
+        ],
+        "title": "Platform Engineer, Forward Deployed Engineering (FDE) - NYC",
+        "company": "Openai",
+        "location": "New York City",
+        "url": "https://jobs.ashbyhq.com/openai/45ab8896-06bd-4c8e-bb76-914483d5d180",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393228+00:00"
+      },
+      {
+        "id": "ashby-openai-1bb1f351-41a2-43a5-bac1-259859886cb3",
+        "seen_keys": [
+          "ashby-openai-1bb1f351-41a2-43a5-bac1-259859886cb3",
+          "url:https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3"
+        ],
+        "title": "Software Engineer, Marketing Innovation",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393238+00:00"
+      },
+      {
+        "id": "ashby-openai-efcc3430-14c8-4022-8350-8146ffb867ab",
+        "seen_keys": [
+          "ashby-openai-efcc3430-14c8-4022-8350-8146ffb867ab",
+          "url:https://jobs.ashbyhq.com/openai/efcc3430-14c8-4022-8350-8146ffb867ab"
+        ],
+        "title": "Data Scientist, Preparedness",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/efcc3430-14c8-4022-8350-8146ffb867ab",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393247+00:00"
+      },
+      {
+        "id": "ashby-openai-916fa6f6-f441-43c6-9769-27e4bf0b2cc9",
+        "seen_keys": [
+          "ashby-openai-916fa6f6-f441-43c6-9769-27e4bf0b2cc9",
+          "url:https://jobs.ashbyhq.com/openai/916fa6f6-f441-43c6-9769-27e4bf0b2cc9"
+        ],
+        "title": " Value Engineer, AI Success - San Francisco",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/916fa6f6-f441-43c6-9769-27e4bf0b2cc9",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393257+00:00"
+      },
+      {
+        "id": "ashby-openai-7bfc114e-7eca-4de8-a8b6-0bcff1daed73",
+        "seen_keys": [
+          "ashby-openai-7bfc114e-7eca-4de8-a8b6-0bcff1daed73",
+          "url:https://jobs.ashbyhq.com/openai/7bfc114e-7eca-4de8-a8b6-0bcff1daed73"
+        ],
+        "title": "Research Infrastructure Engineer, Training Systems",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/7bfc114e-7eca-4de8-a8b6-0bcff1daed73",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393266+00:00"
+      },
+      {
+        "id": "ashby-openai-d66ae477-8742-4c4c-85a2-6f92a7dc67f2",
+        "seen_keys": [
+          "ashby-openai-d66ae477-8742-4c4c-85a2-6f92a7dc67f2",
+          "url:https://jobs.ashbyhq.com/openai/d66ae477-8742-4c4c-85a2-6f92a7dc67f2"
+        ],
+        "title": "iOS Engineer, ChatGPT Mobile Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/d66ae477-8742-4c4c-85a2-6f92a7dc67f2",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393275+00:00"
+      },
+      {
+        "id": "ashby-openai-76ab9863-fc86-4ecf-9cc2-759cdd6b64b7",
+        "seen_keys": [
+          "ashby-openai-76ab9863-fc86-4ecf-9cc2-759cdd6b64b7",
+          "url:https://jobs.ashbyhq.com/openai/76ab9863-fc86-4ecf-9cc2-759cdd6b64b7"
+        ],
+        "title": "Android Engineer, ChatGPT Mobile Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/76ab9863-fc86-4ecf-9cc2-759cdd6b64b7",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393285+00:00"
+      },
+      {
+        "id": "ashby-openai-467cbfac-3e7d-4cc6-a131-2b26617afa02",
+        "seen_keys": [
+          "ashby-openai-467cbfac-3e7d-4cc6-a131-2b26617afa02",
+          "url:https://jobs.ashbyhq.com/openai/467cbfac-3e7d-4cc6-a131-2b26617afa02"
+        ],
+        "title": "Hardware Tools Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/467cbfac-3e7d-4cc6-a131-2b26617afa02",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393295+00:00"
+      },
+      {
+        "id": "ashby-openai-bdbb2292-ecb3-42dc-ba89-65edf397d8f8",
+        "seen_keys": [
+          "ashby-openai-bdbb2292-ecb3-42dc-ba89-65edf397d8f8",
+          "url:https://jobs.ashbyhq.com/openai/bdbb2292-ecb3-42dc-ba89-65edf397d8f8"
+        ],
+        "title": "Hardware / Software CoDesign Engineer  - 3P",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/bdbb2292-ecb3-42dc-ba89-65edf397d8f8",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393304+00:00"
+      },
+      {
+        "id": "ashby-openai-3ce0949d-b028-44f1-983c-446bb7bb1881",
+        "seen_keys": [
+          "ashby-openai-3ce0949d-b028-44f1-983c-446bb7bb1881",
+          "url:https://jobs.ashbyhq.com/openai/3ce0949d-b028-44f1-983c-446bb7bb1881"
+        ],
+        "title": "Software Engineer, Ads Monetization, Revenue Platform",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/3ce0949d-b028-44f1-983c-446bb7bb1881",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393314+00:00"
+      },
+      {
+        "id": "ashby-openai-7b90b83c-ec28-4e65-a235-6675e37b91c3",
+        "seen_keys": [
+          "ashby-openai-7b90b83c-ec28-4e65-a235-6675e37b91c3",
+          "url:https://jobs.ashbyhq.com/openai/7b90b83c-ec28-4e65-a235-6675e37b91c3"
+        ],
+        "title": "Forward Deployed Software Engineer - Seattle",
+        "company": "Openai",
+        "location": "Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/7b90b83c-ec28-4e65-a235-6675e37b91c3",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393324+00:00"
+      },
+      {
+        "id": "ashby-openai-dc17edac-2993-4318-812a-14864c6f4658",
+        "seen_keys": [
+          "ashby-openai-dc17edac-2993-4318-812a-14864c6f4658",
+          "url:https://jobs.ashbyhq.com/openai/dc17edac-2993-4318-812a-14864c6f4658"
+        ],
+        "title": "Forward Deployed Engineer (FDE) - Seattle",
+        "company": "Openai",
+        "location": "Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/dc17edac-2993-4318-812a-14864c6f4658",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393336+00:00"
+      },
+      {
+        "id": "ashby-openai-e14fc37c-7ae5-4a6b-ba0d-a36860cf9bb2",
+        "seen_keys": [
+          "ashby-openai-e14fc37c-7ae5-4a6b-ba0d-a36860cf9bb2",
+          "url:https://jobs.ashbyhq.com/openai/e14fc37c-7ae5-4a6b-ba0d-a36860cf9bb2"
+        ],
+        "title": "Software Engineer, Delivery / CD",
+        "company": "Openai",
+        "location": "San Francisco / New York City / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/e14fc37c-7ae5-4a6b-ba0d-a36860cf9bb2",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393348+00:00"
+      },
+      {
+        "id": "ashby-openai-09253a0e-a2b8-49d1-80bb-6955ba3b08a3",
+        "seen_keys": [
+          "ashby-openai-09253a0e-a2b8-49d1-80bb-6955ba3b08a3",
+          "url:https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3"
+        ],
+        "title": "Research Engineer/Scientist - Human Alignment, Consumer Devices",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393358+00:00"
+      },
+      {
+        "id": "ashby-openai-fb601d63-9657-487f-bf49-efece8dd5c5e",
+        "seen_keys": [
+          "ashby-openai-fb601d63-9657-487f-bf49-efece8dd5c5e",
+          "url:https://jobs.ashbyhq.com/openai/fb601d63-9657-487f-bf49-efece8dd5c5e"
+        ],
+        "title": "Data Scientist, Integrity",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/fb601d63-9657-487f-bf49-efece8dd5c5e",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393368+00:00"
+      },
+      {
+        "id": "ashby-openai-deff9215-217d-4392-825e-7788cb8205f3",
+        "seen_keys": [
+          "ashby-openai-deff9215-217d-4392-825e-7788cb8205f3",
+          "url:https://jobs.ashbyhq.com/openai/deff9215-217d-4392-825e-7788cb8205f3"
+        ],
+        "title": "Software Engineer, Localization",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/deff9215-217d-4392-825e-7788cb8205f3",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393378+00:00"
+      },
+      {
+        "id": "ashby-openai-7ade7a12-845c-4e3a-af23-c028420bd181",
+        "seen_keys": [
+          "ashby-openai-7ade7a12-845c-4e3a-af23-c028420bd181",
+          "url:https://jobs.ashbyhq.com/openai/7ade7a12-845c-4e3a-af23-c028420bd181"
+        ],
+        "title": "Software Engineer, Codex Core Agents",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / New York City / London, UK",
+        "url": "https://jobs.ashbyhq.com/openai/7ade7a12-845c-4e3a-af23-c028420bd181",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393388+00:00"
+      },
+      {
+        "id": "ashby-openai-577e6673-0a4a-491b-9a0d-facbdd3bdf3c",
+        "seen_keys": [
+          "ashby-openai-577e6673-0a4a-491b-9a0d-facbdd3bdf3c",
+          "url:https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c"
+        ],
+        "title": "Applied AI Engineer, Codex Core Agent",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / New York City / London, UK",
+        "url": "https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393398+00:00"
+      },
+      {
+        "id": "ashby-openai-b505a83d-68c1-46cc-a754-5deacb3c6e3c",
+        "seen_keys": [
+          "ashby-openai-b505a83d-68c1-46cc-a754-5deacb3c6e3c",
+          "url:https://jobs.ashbyhq.com/openai/b505a83d-68c1-46cc-a754-5deacb3c6e3c"
+        ],
+        "title": "AI Support Engineer, Government - Washington, D.C.",
+        "company": "Openai",
+        "location": "Washington, DC",
+        "url": "https://jobs.ashbyhq.com/openai/b505a83d-68c1-46cc-a754-5deacb3c6e3c",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393408+00:00"
+      },
+      {
+        "id": "ashby-openai-3544fb7b-669b-43e3-8828-94972620bac7",
+        "seen_keys": [
+          "ashby-openai-3544fb7b-669b-43e3-8828-94972620bac7",
+          "url:https://jobs.ashbyhq.com/openai/3544fb7b-669b-43e3-8828-94972620bac7"
+        ],
+        "title": "Software Engineer, Infrastructure, Consumer Devices",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/3544fb7b-669b-43e3-8828-94972620bac7",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393417+00:00"
+      },
+      {
+        "id": "ashby-openai-e44bfa94-0b82-4d0c-b224-02155b76eea9",
+        "seen_keys": [
+          "ashby-openai-e44bfa94-0b82-4d0c-b224-02155b76eea9",
+          "url:https://jobs.ashbyhq.com/openai/e44bfa94-0b82-4d0c-b224-02155b76eea9"
+        ],
+        "title": "Software Engineer, Infrastructure - Analytics Platform",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/e44bfa94-0b82-4d0c-b224-02155b76eea9",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393428+00:00"
+      },
+      {
+        "id": "ashby-openai-9efcef02-0515-4672-bace-81329944b38b",
+        "seen_keys": [
+          "ashby-openai-9efcef02-0515-4672-bace-81329944b38b",
+          "url:https://jobs.ashbyhq.com/openai/9efcef02-0515-4672-bace-81329944b38b"
+        ],
+        "title": "Software Engineer, Workload Enablement",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/9efcef02-0515-4672-bace-81329944b38b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393437+00:00"
+      },
+      {
+        "id": "ashby-openai-e1321408-91da-4ef3-8ac6-2e1da1be796f",
+        "seen_keys": [
+          "ashby-openai-e1321408-91da-4ef3-8ac6-2e1da1be796f",
+          "url:https://jobs.ashbyhq.com/openai/e1321408-91da-4ef3-8ac6-2e1da1be796f"
+        ],
+        "title": "Software Engineer, System Enablement",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/e1321408-91da-4ef3-8ac6-2e1da1be796f",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393448+00:00"
+      },
+      {
+        "id": "ashby-openai-3de4718b-8f4c-4b63-8637-02077a0113aa",
+        "seen_keys": [
+          "ashby-openai-3de4718b-8f4c-4b63-8637-02077a0113aa",
+          "url:https://jobs.ashbyhq.com/openai/3de4718b-8f4c-4b63-8637-02077a0113aa"
+        ],
+        "title": "Security Engineer, Host Assurance",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/3de4718b-8f4c-4b63-8637-02077a0113aa",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393457+00:00"
+      },
+      {
+        "id": "ashby-openai-40ed6975-ef61-4807-b748-37c2fa2b76c7",
+        "seen_keys": [
+          "ashby-openai-40ed6975-ef61-4807-b748-37c2fa2b76c7",
+          "url:https://jobs.ashbyhq.com/openai/40ed6975-ef61-4807-b748-37c2fa2b76c7"
+        ],
+        "title": "Software Engineer, Foundations Search",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/40ed6975-ef61-4807-b748-37c2fa2b76c7",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393467+00:00"
+      },
+      {
+        "id": "ashby-openai-8a950265-0527-48f8-be3c-2923d7d96940",
+        "seen_keys": [
+          "ashby-openai-8a950265-0527-48f8-be3c-2923d7d96940",
+          "url:https://jobs.ashbyhq.com/openai/8a950265-0527-48f8-be3c-2923d7d96940"
+        ],
+        "title": "Manufacturing Test Engineer, AI Compute Infrastructure - Stargate",
+        "company": "Openai",
+        "location": "Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/8a950265-0527-48f8-be3c-2923d7d96940",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393477+00:00"
+      },
+      {
+        "id": "ashby-openai-f6880901-6527-4b71-9f70-bc8d38989b84",
+        "seen_keys": [
+          "ashby-openai-f6880901-6527-4b71-9f70-bc8d38989b84",
+          "url:https://jobs.ashbyhq.com/openai/f6880901-6527-4b71-9f70-bc8d38989b84"
+        ],
+        "title": "Workday Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/f6880901-6527-4b71-9f70-bc8d38989b84",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393487+00:00"
+      },
+      {
+        "id": "ashby-openai-34d2c085-c86f-41b7-8ca2-7964161c876d",
+        "seen_keys": [
+          "ashby-openai-34d2c085-c86f-41b7-8ca2-7964161c876d",
+          "url:https://jobs.ashbyhq.com/openai/34d2c085-c86f-41b7-8ca2-7964161c876d"
+        ],
+        "title": "Data Center Security Engineer",
+        "company": "Openai",
+        "location": "San Francisco / Seattle / New York City / Remote - US",
+        "url": "https://jobs.ashbyhq.com/openai/34d2c085-c86f-41b7-8ca2-7964161c876d",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393496+00:00"
+      },
+      {
+        "id": "ashby-openai-19fc3e36-3bf3-4a7c-b65f-498d89220436",
+        "seen_keys": [
+          "ashby-openai-19fc3e36-3bf3-4a7c-b65f-498d89220436",
+          "url:https://jobs.ashbyhq.com/openai/19fc3e36-3bf3-4a7c-b65f-498d89220436"
+        ],
+        "title": "Performance Modeling Engineer",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/19fc3e36-3bf3-4a7c-b65f-498d89220436",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393506+00:00"
+      },
+      {
+        "id": "ashby-openai-9b1b62f5-1400-4672-910a-fda6f975f642",
+        "seen_keys": [
+          "ashby-openai-9b1b62f5-1400-4672-910a-fda6f975f642",
+          "url:https://jobs.ashbyhq.com/openai/9b1b62f5-1400-4672-910a-fda6f975f642"
+        ],
+        "title": "Full Stack Software Engineer, OpenAI Edu",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/9b1b62f5-1400-4672-910a-fda6f975f642",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393518+00:00"
+      },
+      {
+        "id": "ashby-openai-e9627fa6-ac76-4899-9a93-9251419e61a0",
+        "seen_keys": [
+          "ashby-openai-e9627fa6-ac76-4899-9a93-9251419e61a0",
+          "url:https://jobs.ashbyhq.com/openai/e9627fa6-ac76-4899-9a93-9251419e61a0"
+        ],
+        "title": "Software Engineer, Kernel Performance & AI Tooling",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/e9627fa6-ac76-4899-9a93-9251419e61a0",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393530+00:00"
+      },
+      {
+        "id": "ashby-openai-9b2c68f2-5ce8-44f9-a30c-d8016ac66d86",
+        "seen_keys": [
+          "ashby-openai-9b2c68f2-5ce8-44f9-a30c-d8016ac66d86",
+          "url:https://jobs.ashbyhq.com/openai/9b2c68f2-5ce8-44f9-a30c-d8016ac66d86"
+        ],
+        "title": "Connectivity Software Engineer, Consumer Devices",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/9b2c68f2-5ce8-44f9-a30c-d8016ac66d86",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393540+00:00"
+      },
+      {
+        "id": "ashby-openai-1c92378f-c553-4711-8d06-00c9f834c699",
+        "seen_keys": [
+          "ashby-openai-1c92378f-c553-4711-8d06-00c9f834c699",
+          "url:https://jobs.ashbyhq.com/openai/1c92378f-c553-4711-8d06-00c9f834c699"
+        ],
+        "title": "Optical Network Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1c92378f-c553-4711-8d06-00c9f834c699",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393549+00:00"
+      },
+      {
+        "id": "ashby-openai-1a4befe6-a438-40b2-863e-d4843fb3f90a",
+        "seen_keys": [
+          "ashby-openai-1a4befe6-a438-40b2-863e-d4843fb3f90a",
+          "url:https://jobs.ashbyhq.com/openai/1a4befe6-a438-40b2-863e-d4843fb3f90a"
+        ],
+        "title": "AI Deployment Engineer, Codex | India",
+        "company": "Openai",
+        "location": "Delhi, India / India - Remote",
+        "url": "https://jobs.ashbyhq.com/openai/1a4befe6-a438-40b2-863e-d4843fb3f90a",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393560+00:00"
+      },
+      {
+        "id": "ashby-openai-ec0a4e03-bbcc-4c64-813f-b53dabb8f53a",
+        "seen_keys": [
+          "ashby-openai-ec0a4e03-bbcc-4c64-813f-b53dabb8f53a",
+          "url:https://jobs.ashbyhq.com/openai/ec0a4e03-bbcc-4c64-813f-b53dabb8f53a"
+        ],
+        "title": "Workload Porting & Performance Engineer",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/ec0a4e03-bbcc-4c64-813f-b53dabb8f53a",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393570+00:00"
+      },
+      {
+        "id": "ashby-openai-695300fd-1332-4eff-ba1d-d87bb1691f73",
+        "seen_keys": [
+          "ashby-openai-695300fd-1332-4eff-ba1d-d87bb1691f73",
+          "url:https://jobs.ashbyhq.com/openai/695300fd-1332-4eff-ba1d-d87bb1691f73"
+        ],
+        "title": "Systems Engineer (Network / Storage / Systems)",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/695300fd-1332-4eff-ba1d-d87bb1691f73",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393580+00:00"
+      },
+      {
+        "id": "ashby-openai-dc70e8e8-0f0c-400b-a731-0756c9fdfec1",
+        "seen_keys": [
+          "ashby-openai-dc70e8e8-0f0c-400b-a731-0756c9fdfec1",
+          "url:https://jobs.ashbyhq.com/openai/dc70e8e8-0f0c-400b-a731-0756c9fdfec1"
+        ],
+        "title": "Application Engineer, Supply Chain Technology",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/dc70e8e8-0f0c-400b-a731-0756c9fdfec1",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393589+00:00"
+      },
+      {
+        "id": "ashby-openai-85fceac9-fb8a-4d71-a524-a8e5f1e9b01b",
+        "seen_keys": [
+          "ashby-openai-85fceac9-fb8a-4d71-a524-a8e5f1e9b01b",
+          "url:https://jobs.ashbyhq.com/openai/85fceac9-fb8a-4d71-a524-a8e5f1e9b01b"
+        ],
+        "title": "Software Engineer, Inference - Performance Optimization",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/85fceac9-fb8a-4d71-a524-a8e5f1e9b01b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393599+00:00"
+      },
+      {
+        "id": "ashby-openai-f3ddd41c-541f-485e-90d6-86c26e018e9f",
+        "seen_keys": [
+          "ashby-openai-f3ddd41c-541f-485e-90d6-86c26e018e9f",
+          "url:https://jobs.ashbyhq.com/openai/f3ddd41c-541f-485e-90d6-86c26e018e9f"
+        ],
+        "title": "Tokens-as-a-Service (Taas) Software Engineer",
+        "company": "Openai",
+        "location": "San Francisco / Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/f3ddd41c-541f-485e-90d6-86c26e018e9f",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393609+00:00"
+      },
+      {
+        "id": "ashby-openai-179b998f-ae76-4de7-a4d0-c2c30d0b0bc8",
+        "seen_keys": [
+          "ashby-openai-179b998f-ae76-4de7-a4d0-c2c30d0b0bc8",
+          "url:https://jobs.ashbyhq.com/openai/179b998f-ae76-4de7-a4d0-c2c30d0b0bc8"
+        ],
+        "title": "AI Deployment Engineer- Codex",
+        "company": "Openai",
+        "location": "New York City",
+        "url": "https://jobs.ashbyhq.com/openai/179b998f-ae76-4de7-a4d0-c2c30d0b0bc8",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393619+00:00"
+      },
+      {
+        "id": "ashby-openai-ca300a6d-a2a7-4580-aad7-323fbdfee7b1",
+        "seen_keys": [
+          "ashby-openai-ca300a6d-a2a7-4580-aad7-323fbdfee7b1",
+          "url:https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1"
+        ],
+        "title": "Software Engineer, Compute Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco / New York City / Seattle / London, UK",
+        "url": "https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393628+00:00"
+      },
+      {
+        "id": "ashby-openai-17daedbd-b3fb-4e8c-a17c-8bbc9ec1d0b5",
+        "seen_keys": [
+          "ashby-openai-17daedbd-b3fb-4e8c-a17c-8bbc9ec1d0b5",
+          "url:https://jobs.ashbyhq.com/openai/17daedbd-b3fb-4e8c-a17c-8bbc9ec1d0b5"
+        ],
+        "title": "Software Engineer, Productivity - Networking",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/17daedbd-b3fb-4e8c-a17c-8bbc9ec1d0b5",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393637+00:00"
+      },
+      {
+        "id": "ashby-openai-11c51b12-3ba0-4a7a-a0d2-ed0661324dc3",
+        "seen_keys": [
+          "ashby-openai-11c51b12-3ba0-4a7a-a0d2-ed0661324dc3",
+          "url:https://jobs.ashbyhq.com/openai/11c51b12-3ba0-4a7a-a0d2-ed0661324dc3"
+        ],
+        "title": "Capacity Systems Software Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/11c51b12-3ba0-4a7a-a0d2-ed0661324dc3",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393647+00:00"
+      },
+      {
+        "id": "ashby-openai-a9229465-4048-444c-9c03-1f281bcf2373",
+        "seen_keys": [
+          "ashby-openai-a9229465-4048-444c-9c03-1f281bcf2373",
+          "url:https://jobs.ashbyhq.com/openai/a9229465-4048-444c-9c03-1f281bcf2373"
+        ],
+        "title": "Developer Experience Engineer",
+        "company": "Openai",
+        "location": "India - Remote",
+        "url": "https://jobs.ashbyhq.com/openai/a9229465-4048-444c-9c03-1f281bcf2373",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393657+00:00"
+      },
+      {
+        "id": "ashby-openai-6d403ec9-d5d3-4754-9092-8fd5e659562a",
+        "seen_keys": [
+          "ashby-openai-6d403ec9-d5d3-4754-9092-8fd5e659562a",
+          "url:https://jobs.ashbyhq.com/openai/6d403ec9-d5d3-4754-9092-8fd5e659562a"
+        ],
+        "title": "Software Engineer, Productivity - Model Performance",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/6d403ec9-d5d3-4754-9092-8fd5e659562a",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393666+00:00"
+      },
+      {
+        "id": "ashby-openai-9f179118-5df6-4ccb-b8d1-cfb0642fba37",
+        "seen_keys": [
+          "ashby-openai-9f179118-5df6-4ccb-b8d1-cfb0642fba37",
+          "url:https://jobs.ashbyhq.com/openai/9f179118-5df6-4ccb-b8d1-cfb0642fba37"
+        ],
+        "title": "Solutions Engineering, Ads Solutions ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/9f179118-5df6-4ccb-b8d1-cfb0642fba37",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393676+00:00"
+      },
+      {
+        "id": "ashby-openai-8a9d680c-5122-4ffe-ab4b-e1de7e806500",
+        "seen_keys": [
+          "ashby-openai-8a9d680c-5122-4ffe-ab4b-e1de7e806500",
+          "url:https://jobs.ashbyhq.com/openai/8a9d680c-5122-4ffe-ab4b-e1de7e806500"
+        ],
+        "title": "Performance & Systems Engineer, Codex",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/8a9d680c-5122-4ffe-ab4b-e1de7e806500",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393685+00:00"
+      },
+      {
+        "id": "ashby-openai-f6b9903c-9034-436b-a4ec-4c8643a6d0dd",
+        "seen_keys": [
+          "ashby-openai-f6b9903c-9034-436b-a4ec-4c8643a6d0dd",
+          "url:https://jobs.ashbyhq.com/openai/f6b9903c-9034-436b-a4ec-4c8643a6d0dd"
+        ],
+        "title": "Networking Operating System Firmware Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/f6b9903c-9034-436b-a4ec-4c8643a6d0dd",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393695+00:00"
+      },
+      {
+        "id": "ashby-openai-c4d36b49-a51d-41c3-83f4-f9e7caca556f",
+        "seen_keys": [
+          "ashby-openai-c4d36b49-a51d-41c3-83f4-f9e7caca556f",
+          "url:https://jobs.ashbyhq.com/openai/c4d36b49-a51d-41c3-83f4-f9e7caca556f"
+        ],
+        "title": "Advanced Packaging Multi-Physics Modeling Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/c4d36b49-a51d-41c3-83f4-f9e7caca556f",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393704+00:00"
+      },
+      {
+        "id": "ashby-openai-b398e1c6-0c32-4464-bb34-6ccda901b688",
+        "seen_keys": [
+          "ashby-openai-b398e1c6-0c32-4464-bb34-6ccda901b688",
+          "url:https://jobs.ashbyhq.com/openai/b398e1c6-0c32-4464-bb34-6ccda901b688"
+        ],
+        "title": "Backend Software Engineer, Applied Foundations",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/b398e1c6-0c32-4464-bb34-6ccda901b688",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393714+00:00"
+      },
+      {
+        "id": "ashby-openai-f873dd71-46c9-4be1-8580-bc67c56b4cad",
+        "seen_keys": [
+          "ashby-openai-f873dd71-46c9-4be1-8580-bc67c56b4cad",
+          "url:https://jobs.ashbyhq.com/openai/f873dd71-46c9-4be1-8580-bc67c56b4cad"
+        ],
+        "title": "Full-Stack Software Engineer, Applied Foundations",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/f873dd71-46c9-4be1-8580-bc67c56b4cad",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393723+00:00"
+      },
+      {
+        "id": "ashby-openai-21229750-8bd1-4134-a20e-2a8922b88806",
+        "seen_keys": [
+          "ashby-openai-21229750-8bd1-4134-a20e-2a8922b88806",
+          "url:https://jobs.ashbyhq.com/openai/21229750-8bd1-4134-a20e-2a8922b88806"
+        ],
+        "title": "Systems Software Engineer, Management Plane",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/21229750-8bd1-4134-a20e-2a8922b88806",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393733+00:00"
+      },
+      {
+        "id": "ashby-openai-1fec5ecd-5b7b-45bc-bc8c-ac7184565551",
+        "seen_keys": [
+          "ashby-openai-1fec5ecd-5b7b-45bc-bc8c-ac7184565551",
+          "url:https://jobs.ashbyhq.com/openai/1fec5ecd-5b7b-45bc-bc8c-ac7184565551"
+        ],
+        "title": "Software Engineer, Core Network Engineering",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1fec5ecd-5b7b-45bc-bc8c-ac7184565551",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393743+00:00"
+      },
+      {
+        "id": "ashby-openai-b37da4ff-1648-4cae-ad98-cc968e670aca",
+        "seen_keys": [
+          "ashby-openai-b37da4ff-1648-4cae-ad98-cc968e670aca",
+          "url:https://jobs.ashbyhq.com/openai/b37da4ff-1648-4cae-ad98-cc968e670aca"
+        ],
+        "title": "Strategic Sourcing Leader - Enterprise & Engineering Technology",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/b37da4ff-1648-4cae-ad98-cc968e670aca",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393753+00:00"
+      },
+      {
+        "id": "ashby-openai-77f87617-4dc5-45af-9b6b-2f408e45a119",
+        "seen_keys": [
+          "ashby-openai-77f87617-4dc5-45af-9b6b-2f408e45a119",
+          "url:https://jobs.ashbyhq.com/openai/77f87617-4dc5-45af-9b6b-2f408e45a119"
+        ],
+        "title": "Design Verification, Forward Deployed Engineering",
+        "company": "Openai",
+        "location": "San Francisco / London, UK",
+        "url": "https://jobs.ashbyhq.com/openai/77f87617-4dc5-45af-9b6b-2f408e45a119",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393762+00:00"
+      },
+      {
+        "id": "ashby-openai-5a3aa817-6606-4490-b73e-c1bec8ba40ff",
+        "seen_keys": [
+          "ashby-openai-5a3aa817-6606-4490-b73e-c1bec8ba40ff",
+          "url:https://jobs.ashbyhq.com/openai/5a3aa817-6606-4490-b73e-c1bec8ba40ff"
+        ],
+        "title": "People Data Scientist",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/5a3aa817-6606-4490-b73e-c1bec8ba40ff",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393772+00:00"
+      },
+      {
+        "id": "ashby-openai-18d65004-a399-4a33-80bc-10f33bff2ed0",
+        "seen_keys": [
+          "ashby-openai-18d65004-a399-4a33-80bc-10f33bff2ed0",
+          "url:https://jobs.ashbyhq.com/openai/18d65004-a399-4a33-80bc-10f33bff2ed0"
+        ],
+        "title": "Physical Design Engineer, Forward Deployed Engineering",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/18d65004-a399-4a33-80bc-10f33bff2ed0",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393781+00:00"
+      },
+      {
+        "id": "ashby-openai-082f4d82-499f-4150-892f-0b0d1105fffe",
+        "seen_keys": [
+          "ashby-openai-082f4d82-499f-4150-892f-0b0d1105fffe",
+          "url:https://jobs.ashbyhq.com/openai/082f4d82-499f-4150-892f-0b0d1105fffe"
+        ],
+        "title": "Data Scientist, FinEng",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/082f4d82-499f-4150-892f-0b0d1105fffe",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393790+00:00"
+      },
+      {
+        "id": "ashby-openai-9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f",
+        "seen_keys": [
+          "ashby-openai-9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f",
+          "url:https://jobs.ashbyhq.com/openai/9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f"
+        ],
+        "title": "Software Engineer, Productivity - Inference Runtime",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393802+00:00"
+      },
+      {
+        "id": "ashby-openai-e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92",
+        "seen_keys": [
+          "ashby-openai-e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92",
+          "url:https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92"
+        ],
+        "title": "Data Scientist, Core Experimentation ",
+        "company": "Openai",
+        "location": "Seattle",
+        "url": "https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393811+00:00"
+      },
+      {
+        "id": "ashby-openai-579595e5-0b16-485e-b7c5-102fc7467def",
+        "seen_keys": [
+          "ashby-openai-579595e5-0b16-485e-b7c5-102fc7467def",
+          "url:https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def"
+        ],
+        "title": "Data Engineer, People Innovation Labs",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393821+00:00"
+      },
+      {
+        "id": "ashby-openai-1312f55e-ff56-4dab-9bf7-a91e2c157572",
+        "seen_keys": [
+          "ashby-openai-1312f55e-ff56-4dab-9bf7-a91e2c157572",
+          "url:https://jobs.ashbyhq.com/openai/1312f55e-ff56-4dab-9bf7-a91e2c157572"
+        ],
+        "title": "Full-Stack Software Engineer, Compute Foundations",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1312f55e-ff56-4dab-9bf7-a91e2c157572",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393831+00:00"
+      },
+      {
+        "id": "ashby-openai-cc11f3f0-8b04-488c-9567-4165a4fad17b",
+        "seen_keys": [
+          "ashby-openai-cc11f3f0-8b04-488c-9567-4165a4fad17b",
+          "url:https://jobs.ashbyhq.com/openai/cc11f3f0-8b04-488c-9567-4165a4fad17b"
+        ],
+        "title": "Audiovisual Design Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/cc11f3f0-8b04-488c-9567-4165a4fad17b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393840+00:00"
+      },
+      {
+        "id": "ashby-openai-90c711dc-5f50-46e3-a5ab-82359a56d683",
+        "seen_keys": [
+          "ashby-openai-90c711dc-5f50-46e3-a5ab-82359a56d683",
+          "url:https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683"
+        ],
+        "title": "Data Scientist, Safety",
+        "company": "Openai",
+        "location": "San Francisco / New York City",
+        "url": "https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393850+00:00"
+      },
+      {
+        "id": "ashby-openai-de06790a-7243-4e33-a6f1-e7bd34009588",
+        "seen_keys": [
+          "ashby-openai-de06790a-7243-4e33-a6f1-e7bd34009588",
+          "url:https://jobs.ashbyhq.com/openai/de06790a-7243-4e33-a6f1-e7bd34009588"
+        ],
+        "title": "AI Systems Engineer, Codex Agents",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/de06790a-7243-4e33-a6f1-e7bd34009588",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.393860+00:00"
+      },
+      {
+        "id": "ashby-openai-e0eef869-cd4d-4737-b7af-75c5a1970aeb",
+        "seen_keys": [
+          "ashby-openai-e0eef869-cd4d-4737-b7af-75c5a1970aeb",
+          "url:https://jobs.ashbyhq.com/openai/e0eef869-cd4d-4737-b7af-75c5a1970aeb"
+        ],
+        "title": "Security Researcher, Agentic AI Threats",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/e0eef869-cd4d-4737-b7af-75c5a1970aeb",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395013+00:00"
+      },
+      {
+        "id": "ashby-openai-89d61ae8-1ce1-4187-9edd-da8029979e41",
+        "seen_keys": [
+          "ashby-openai-89d61ae8-1ce1-4187-9edd-da8029979e41",
+          "url:https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41"
+        ],
+        "title": "Forward Deployed Security Engineer",
+        "company": "Openai",
+        "location": "Washington, DC",
+        "url": "https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395033+00:00"
+      },
+      {
+        "id": "ashby-openai-a6363571-e090-43a7-b758-ee3386a096c1",
+        "seen_keys": [
+          "ashby-openai-a6363571-e090-43a7-b758-ee3386a096c1",
+          "url:https://jobs.ashbyhq.com/openai/a6363571-e090-43a7-b758-ee3386a096c1"
+        ],
+        "title": "Software Engineer, Enterprise AI Platform ",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/a6363571-e090-43a7-b758-ee3386a096c1",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395046+00:00"
+      },
+      {
+        "id": "ashby-openai-9117987a-7a59-449e-a702-89e8d0e8cb60",
+        "seen_keys": [
+          "ashby-openai-9117987a-7a59-449e-a702-89e8d0e8cb60",
+          "url:https://jobs.ashbyhq.com/openai/9117987a-7a59-449e-a702-89e8d0e8cb60"
+        ],
+        "title": "Software Engineer,  ML Systems & Training Architecture",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/9117987a-7a59-449e-a702-89e8d0e8cb60",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395057+00:00"
+      },
+      {
+        "id": "ashby-openai-b7f46b2e-dfc7-4b06-8e5e-8468555c102b",
+        "seen_keys": [
+          "ashby-openai-b7f46b2e-dfc7-4b06-8e5e-8468555c102b",
+          "url:https://jobs.ashbyhq.com/openai/b7f46b2e-dfc7-4b06-8e5e-8468555c102b"
+        ],
+        "title": "Software Engineer, Cyber Frontier",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/b7f46b2e-dfc7-4b06-8e5e-8468555c102b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395069+00:00"
+      },
+      {
+        "id": "ashby-openai-77fbf383-bb97-4006-9b2d-e5de2d6f79d3",
+        "seen_keys": [
+          "ashby-openai-77fbf383-bb97-4006-9b2d-e5de2d6f79d3",
+          "url:https://jobs.ashbyhq.com/openai/77fbf383-bb97-4006-9b2d-e5de2d6f79d3"
+        ],
+        "title": "Software Engineer, API SDK",
+        "company": "Openai",
+        "location": "Seattle / New York City / San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/77fbf383-bb97-4006-9b2d-e5de2d6f79d3",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395081+00:00"
+      },
+      {
+        "id": "ashby-openai-0b212a4a-6709-4da8-b59d-283a9bbf812e",
+        "seen_keys": [
+          "ashby-openai-0b212a4a-6709-4da8-b59d-283a9bbf812e",
+          "url:https://jobs.ashbyhq.com/openai/0b212a4a-6709-4da8-b59d-283a9bbf812e"
+        ],
+        "title": "Software Engineer, Ad Formats",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/0b212a4a-6709-4da8-b59d-283a9bbf812e",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395091+00:00"
+      },
+      {
+        "id": "ashby-openai-1c3951f1-07e3-442f-a4fb-b984e8205bf5",
+        "seen_keys": [
+          "ashby-openai-1c3951f1-07e3-442f-a4fb-b984e8205bf5",
+          "url:https://jobs.ashbyhq.com/openai/1c3951f1-07e3-442f-a4fb-b984e8205bf5"
+        ],
+        "title": "Software Engineer, Core Science",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1c3951f1-07e3-442f-a4fb-b984e8205bf5",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395101+00:00"
+      },
+      {
+        "id": "ashby-openai-5b75027a-a5eb-4d28-a608-aa6bebcb079f",
+        "seen_keys": [
+          "ashby-openai-5b75027a-a5eb-4d28-a608-aa6bebcb079f",
+          "url:https://jobs.ashbyhq.com/openai/5b75027a-a5eb-4d28-a608-aa6bebcb079f"
+        ],
+        "title": "Actuator Design Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/5b75027a-a5eb-4d28-a608-aa6bebcb079f",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395112+00:00"
+      },
+      {
+        "id": "ashby-openai-a28b368e-3318-4b9b-8a33-1ebcdb990aec",
+        "seen_keys": [
+          "ashby-openai-a28b368e-3318-4b9b-8a33-1ebcdb990aec",
+          "url:https://jobs.ashbyhq.com/openai/a28b368e-3318-4b9b-8a33-1ebcdb990aec"
+        ],
+        "title": "DAQ Station Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/a28b368e-3318-4b9b-8a33-1ebcdb990aec",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395137+00:00"
+      },
+      {
+        "id": "ashby-openai-348ac6bf-a5c3-43d1-a14a-5f1a3c8d90fa",
+        "seen_keys": [
+          "ashby-openai-348ac6bf-a5c3-43d1-a14a-5f1a3c8d90fa",
+          "url:https://jobs.ashbyhq.com/openai/348ac6bf-a5c3-43d1-a14a-5f1a3c8d90fa"
+        ],
+        "title": "Software Engineer, Monetization ML Infrastructure",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/348ac6bf-a5c3-43d1-a14a-5f1a3c8d90fa",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395151+00:00"
+      },
+      {
+        "id": "ashby-openai-78a3351e-55db-40dc-9655-4739f31d7ef7",
+        "seen_keys": [
+          "ashby-openai-78a3351e-55db-40dc-9655-4739f31d7ef7",
+          "url:https://jobs.ashbyhq.com/openai/78a3351e-55db-40dc-9655-4739f31d7ef7"
+        ],
+        "title": "Physical Security Systems Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/78a3351e-55db-40dc-9655-4739f31d7ef7",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395163+00:00"
+      },
+      {
+        "id": "ashby-openai-94172ebc-2219-40b4-ae04-c10be0fd2158",
+        "seen_keys": [
+          "ashby-openai-94172ebc-2219-40b4-ae04-c10be0fd2158",
+          "url:https://jobs.ashbyhq.com/openai/94172ebc-2219-40b4-ae04-c10be0fd2158"
+        ],
+        "title": "Manufacturing Test Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/94172ebc-2219-40b4-ae04-c10be0fd2158",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395174+00:00"
+      },
+      {
+        "id": "ashby-openai-87e5f8c3-3337-480a-9db2-e4cef5db909b",
+        "seen_keys": [
+          "ashby-openai-87e5f8c3-3337-480a-9db2-e4cef5db909b",
+          "url:https://jobs.ashbyhq.com/openai/87e5f8c3-3337-480a-9db2-e4cef5db909b"
+        ],
+        "title": "Host Systems Software Engineer",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/87e5f8c3-3337-480a-9db2-e4cef5db909b",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395184+00:00"
+      },
+      {
+        "id": "ashby-openai-88654e7f-4e23-4e75-8e54-18c10d09b093",
+        "seen_keys": [
+          "ashby-openai-88654e7f-4e23-4e75-8e54-18c10d09b093",
+          "url:https://jobs.ashbyhq.com/openai/88654e7f-4e23-4e75-8e54-18c10d09b093"
+        ],
+        "title": "Software Engineer, Full Stack - Cybersecurity Products",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/88654e7f-4e23-4e75-8e54-18c10d09b093",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395195+00:00"
+      },
+      {
+        "id": "ashby-openai-f6278b60-dd42-4aa8-a3cd-c105f75ae8ae",
+        "seen_keys": [
+          "ashby-openai-f6278b60-dd42-4aa8-a3cd-c105f75ae8ae",
+          "url:https://jobs.ashbyhq.com/openai/f6278b60-dd42-4aa8-a3cd-c105f75ae8ae"
+        ],
+        "title": "Software Engineer, Cloud Agents",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/f6278b60-dd42-4aa8-a3cd-c105f75ae8ae",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395205+00:00"
+      },
+      {
+        "id": "ashby-openai-1c48f39f-60ea-4636-87ed-8b4b4f5243e5",
+        "seen_keys": [
+          "ashby-openai-1c48f39f-60ea-4636-87ed-8b4b4f5243e5",
+          "url:https://jobs.ashbyhq.com/openai/1c48f39f-60ea-4636-87ed-8b4b4f5243e5"
+        ],
+        "title": "Systems Software Engineer, Security, First Party Hardware",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/1c48f39f-60ea-4636-87ed-8b4b4f5243e5",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395215+00:00"
+      },
+      {
+        "id": "ashby-perplexity-6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc",
+        "seen_keys": [
+          "ashby-perplexity-6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc",
+          "url:https://jobs.ashbyhq.com/perplexity/6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc"
+        ],
+        "title": "Sales Systems Engineer, Enterprise Operations",
+        "company": "Perplexity",
+        "location": "San Francisco / New York City / Austin",
+        "url": "https://jobs.ashbyhq.com/perplexity/6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395225+00:00"
+      },
+      {
+        "id": "ashby-Ashby-cc846e56-27dd-41b5-bf5b-64d5eeb5ff1a",
+        "seen_keys": [
+          "ashby-Ashby-cc846e56-27dd-41b5-bf5b-64d5eeb5ff1a",
+          "url:https://jobs.ashbyhq.com/Ashby/cc846e56-27dd-41b5-bf5b-64d5eeb5ff1a"
+        ],
+        "title": "Design Engineer, Americas",
+        "company": "Ashby",
+        "location": "Remote - US / New York / San Francisco / Austin / Portland / Los Angeles / Seattle / Boston / Chicago / Denver",
+        "url": "https://jobs.ashbyhq.com/Ashby/cc846e56-27dd-41b5-bf5b-64d5eeb5ff1a",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395235+00:00"
+      },
+      {
+        "id": "ashby-Ashby-97c6542c-7ff9-43e5-ac54-b77b45fc7378",
+        "seen_keys": [
+          "ashby-Ashby-97c6542c-7ff9-43e5-ac54-b77b45fc7378",
+          "url:https://jobs.ashbyhq.com/Ashby/97c6542c-7ff9-43e5-ac54-b77b45fc7378"
+        ],
+        "title": "Design Engineer, Canada",
+        "company": "Ashby",
+        "location": "Remote - Canada / Vancouver / Toronto / Montreal",
+        "url": "https://jobs.ashbyhq.com/Ashby/97c6542c-7ff9-43e5-ac54-b77b45fc7378",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395245+00:00"
+      },
+      {
+        "id": "ashby-Ashby-2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4",
+        "seen_keys": [
+          "ashby-Ashby-2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4",
+          "url:https://jobs.ashbyhq.com/Ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4"
+        ],
+        "title": "Product Support Engineer - EMEA",
+        "company": "Ashby",
+        "location": "Remote - European Union",
+        "url": "https://jobs.ashbyhq.com/Ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395255+00:00"
+      },
+      {
+        "id": "ashby-Ashby-e1eba70b-51ae-422c-ae5d-a36bc5d72441",
+        "seen_keys": [
+          "ashby-Ashby-e1eba70b-51ae-422c-ae5d-a36bc5d72441",
+          "url:https://jobs.ashbyhq.com/Ashby/e1eba70b-51ae-422c-ae5d-a36bc5d72441"
+        ],
+        "title": "Solutions Engineer - DACH",
+        "company": "Ashby",
+        "location": "United Kingdom / Austria / Belgium / Czech Republic / France / Hungary / Spain / Denmark / Remote - European Union / Berlin / Stuttgart / London / Barcelona / Madrid / Birmingham / Bristol / Cardiff / Leeds / Oxford / Manchester / Glasgow / Edinburgh",
+        "url": "https://jobs.ashbyhq.com/Ashby/e1eba70b-51ae-422c-ae5d-a36bc5d72441",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395265+00:00"
+      },
+      {
+        "id": "ashby-Ashby-80c20b00-c3c3-441b-95bd-56eb870e77fb",
+        "seen_keys": [
+          "ashby-Ashby-80c20b00-c3c3-441b-95bd-56eb870e77fb",
+          "url:https://jobs.ashbyhq.com/Ashby/80c20b00-c3c3-441b-95bd-56eb870e77fb"
+        ],
+        "title": "Product Support Engineer - Americas",
+        "company": "Ashby",
+        "location": "Remote - US / Remote - Canada",
+        "url": "https://jobs.ashbyhq.com/Ashby/80c20b00-c3c3-441b-95bd-56eb870e77fb",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-06-09T02:13:46.395276+00:00"
+      }
+    ]
+  },
+  "last_run": "2026-06-09T02:13:46.661783+00:00"
 }
