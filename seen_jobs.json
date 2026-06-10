@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-aa0708d8-7f2e-4d51-a19f-acfd131d0d75",
-      "seen_at": "2026-05-11T17:06:21.913716+00:00"
-    },
-    {
-      "id": "url:https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/7907",
-      "seen_at": "2026-05-11T17:06:21.913787+00:00"
-    },
-    {
       "id": "simplify-001ac4b8-e3c8-40dd-a035-c12fc1493b30",
       "seen_at": "2026-05-11T23:14:43.758460+00:00"
     },
@@ -6291,10 +6283,42 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5160330008",
       "seen_at": "2026-06-10T16:01:20.868596+00:00"
+    },
+    {
+      "id": "greenhouse-brex-8366850002",
+      "seen_at": "2026-06-10T18:37:33.908151+00:00"
+    },
+    {
+      "id": "url:https://www.brex.com/careers/8366850002",
+      "seen_at": "2026-06-10T18:37:33.908297+00:00"
+    },
+    {
+      "id": "greenhouse-brex-8523177002",
+      "seen_at": "2026-06-10T18:37:33.908435+00:00"
+    },
+    {
+      "id": "url:https://www.brex.com/careers/8523177002",
+      "seen_at": "2026-06-10T18:37:33.908551+00:00"
+    },
+    {
+      "id": "greenhouse-brex-8523203002",
+      "seen_at": "2026-06-10T18:37:33.908678+00:00"
+    },
+    {
+      "id": "url:https://www.brex.com/careers/8523203002",
+      "seen_at": "2026-06-10T18:37:33.908818+00:00"
+    },
+    {
+      "id": "greenhouse-brex-8523205002",
+      "seen_at": "2026-06-10T18:37:33.908948+00:00"
+    },
+    {
+      "id": "url:https://www.brex.com/careers/8523205002",
+      "seen_at": "2026-06-10T18:37:33.909031+00:00"
     }
   ],
-  "last_run": "2026-06-10T16:01:21.413714+00:00",
-  "total_notified": 574,
+  "last_run": "2026-06-10T18:37:34.180783+00:00",
+  "total_notified": 578,
   "channels": {
     "swe-jobs": [
       "simplify-001ac4b8-e3c8-40dd-a035-c12fc1493b30",
@@ -6957,8 +6981,6 @@
       "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006"
     ],
     "pm-jobs": [
-      "simplify-aa0708d8-7f2e-4d51-a19f-acfd131d0d75",
-      "url:https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/7907",
       "simplify-f6828d11-8794-49da-965a-3a6dd7bebca2",
       "url:https://ats.rippling.com/energycap-external-career-page/jobs/e448abdb-dbef-4918-9cd9-0987fb413f00",
       "greenhouse-databricks-8542188002",
@@ -7882,7 +7904,15 @@
       "greenhouse-anthropic-5025624008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
       "greenhouse-anthropic-5160330008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5160330008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5160330008",
+      "greenhouse-brex-8366850002",
+      "url:https://www.brex.com/careers/8366850002",
+      "greenhouse-brex-8523177002",
+      "url:https://www.brex.com/careers/8523177002",
+      "greenhouse-brex-8523203002",
+      "url:https://www.brex.com/careers/8523203002",
+      "greenhouse-brex-8523205002",
+      "url:https://www.brex.com/careers/8523205002"
     ]
   }
 }
