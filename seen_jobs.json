@@ -6227,10 +6227,74 @@
     {
       "id": "url:https://job-boards.greenhouse.io/evolver/jobs/4092111009",
       "seen_at": "2026-06-10T12:03:46.475007+00:00"
+    },
+    {
+      "id": "ashby-openai-e470ba2c-b649-4a43-8650-3210bd7ca4d3",
+      "seen_at": "2026-06-10T16:01:14.851077+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/e470ba2c-b649-4a43-8650-3210bd7ca4d3",
+      "seen_at": "2026-06-10T16:01:14.851190+00:00"
+    },
+    {
+      "id": "simplify-792f5349-3f5c-4b32-b464-76ac2574196c",
+      "seen_at": "2026-06-10T16:01:20.867419+00:00"
+    },
+    {
+      "id": "url:https://career-schwab.icims.com/jobs/122782/job",
+      "seen_at": "2026-06-10T16:01:20.867543+00:00"
+    },
+    {
+      "id": "simplify-efe69b3e-cdf9-492c-8c66-ec79f1dc0a37",
+      "seen_at": "2026-06-10T16:01:20.867710+00:00"
+    },
+    {
+      "id": "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Application-Developer_J282115",
+      "seen_at": "2026-06-10T16:01:20.867792+00:00"
+    },
+    {
+      "id": "simplify-74109453-916f-409c-af87-867f6fe59360",
+      "seen_at": "2026-06-10T16:01:20.867878+00:00"
+    },
+    {
+      "id": "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Software-Engineer_R-057907",
+      "seen_at": "2026-06-10T16:01:20.867949+00:00"
+    },
+    {
+      "id": "simplify-0d467785-7605-490e-8478-cd894e0ef1f1",
+      "seen_at": "2026-06-10T16:01:20.868031+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718",
+      "seen_at": "2026-06-10T16:01:20.868102+00:00"
+    },
+    {
+      "id": "simplify-5af1930e-294c-4e12-a3e1-63d14ca38c09",
+      "seen_at": "2026-06-10T16:01:20.868181+00:00"
+    },
+    {
+      "id": "url:https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Maryland-USA/Field-Service-Engineer-I_R-01354100-1",
+      "seen_at": "2026-06-10T16:01:20.868250+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5025624008",
+      "seen_at": "2026-06-10T16:01:20.868328+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
+      "seen_at": "2026-06-10T16:01:20.868412+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5160330008",
+      "seen_at": "2026-06-10T16:01:20.868498+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5160330008",
+      "seen_at": "2026-06-10T16:01:20.868596+00:00"
     }
   ],
-  "last_run": "2026-06-10T12:03:46.898448+00:00",
-  "total_notified": 566,
+  "last_run": "2026-06-10T16:01:21.413714+00:00",
+  "total_notified": 574,
   "channels": {
     "swe-jobs": [
       "simplify-001ac4b8-e3c8-40dd-a035-c12fc1493b30",
@@ -7066,7 +7130,9 @@
       "greenhouse-anthropic-5251612008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5251612008",
       "greenhouse-stripe-7979422",
-      "url:https://stripe.com/jobs/search"
+      "url:https://stripe.com/jobs/search",
+      "ashby-openai-e470ba2c-b649-4a43-8650-3210bd7ca4d3",
+      "url:https://jobs.ashbyhq.com/openai/e470ba2c-b649-4a43-8650-3210bd7ca4d3"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
@@ -7802,7 +7868,21 @@
       "simplify-e62d8263-f7ca-4282-bde5-d5ec594f3c56",
       "url:https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/HPC-Hardware-Engineer_2637260-1",
       "simplify-e4a31c6e-717d-4b5a-89d8-666c552afe34",
-      "url:https://job-boards.greenhouse.io/evolver/jobs/4092111009"
+      "url:https://job-boards.greenhouse.io/evolver/jobs/4092111009",
+      "simplify-792f5349-3f5c-4b32-b464-76ac2574196c",
+      "url:https://career-schwab.icims.com/jobs/122782/job",
+      "simplify-efe69b3e-cdf9-492c-8c66-ec79f1dc0a37",
+      "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Application-Developer_J282115",
+      "simplify-74109453-916f-409c-af87-867f6fe59360",
+      "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Software-Engineer_R-057907",
+      "simplify-0d467785-7605-490e-8478-cd894e0ef1f1",
+      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718",
+      "simplify-5af1930e-294c-4e12-a3e1-63d14ca38c09",
+      "url:https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Maryland-USA/Field-Service-Engineer-I_R-01354100-1",
+      "greenhouse-anthropic-5025624008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
+      "greenhouse-anthropic-5160330008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5160330008"
     ]
   }
 }
