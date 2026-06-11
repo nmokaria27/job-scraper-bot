@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-2d438595-f937-4666-af6b-e141fa777079",
-      "seen_at": "2026-05-12T16:58:52.986365+00:00"
-    },
-    {
-      "id": "url:https://careers-cotiviti.icims.com/jobs/18950/job",
-      "seen_at": "2026-05-12T16:58:52.986454+00:00"
-    },
-    {
-      "id": "simplify-0e79ef0c-9caf-4c3b-bc58-270866bd69df",
-      "seen_at": "2026-05-12T16:58:52.986524+00:00"
-    },
-    {
-      "id": "url:https://www.pindrop.com/careers/job-title",
-      "seen_at": "2026-05-12T16:58:52.986586+00:00"
-    },
-    {
-      "id": "simplify-d4f6f6bc-3852-4c6c-9944-6136eaffc260",
-      "seen_at": "2026-05-12T16:58:53.985621+00:00"
-    },
-    {
-      "id": "url:https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Product-Manager--Content-Platforms_R38907",
-      "seen_at": "2026-05-12T16:58:53.985707+00:00"
-    },
-    {
       "id": "ashby-openai-a3f35235-c6c3-43e3-9c1c-eb844c9b6025",
       "seen_at": "2026-05-12T20:47:42.429692+00:00"
     },
@@ -6551,16 +6527,44 @@
     {
       "id": "url:https://jobs.smartrecruiters.com/WesternDigital/744000129015575",
       "seen_at": "2026-06-11T13:45:16.652853+00:00"
+    },
+    {
+      "id": "simplify-946795ed-83f9-4f29-9159-81978281dfa3",
+      "seen_at": "2026-06-11T17:28:06.969110+00:00"
+    },
+    {
+      "id": "url:https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00185122-1",
+      "seen_at": "2026-06-11T17:28:06.969274+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5253339008",
+      "seen_at": "2026-06-11T17:28:08.253179+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5253339008",
+      "seen_at": "2026-06-11T17:28:08.253324+00:00"
+    },
+    {
+      "id": "simplify-3203ac9f-93b4-493d-bb08-f0559f899800",
+      "seen_at": "2026-06-11T17:28:10.135806+00:00"
+    },
+    {
+      "id": "url:https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Software-Engineer_2130779",
+      "seen_at": "2026-06-11T17:28:10.135959+00:00"
+    },
+    {
+      "id": "simplify-d2fba3fa-bb83-4710-99aa-88d7f8c825c4",
+      "seen_at": "2026-06-11T17:28:10.136136+00:00"
+    },
+    {
+      "id": "url:https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---TX-Field-Location/Engineering-Technician-I_R181836",
+      "seen_at": "2026-06-11T17:28:10.136251+00:00"
     }
   ],
-  "last_run": "2026-06-11T13:45:16.819994+00:00",
-  "total_notified": 624,
+  "last_run": "2026-06-11T17:28:10.317178+00:00",
+  "total_notified": 628,
   "channels": {
     "swe-jobs": [
-      "simplify-2d438595-f937-4666-af6b-e141fa777079",
-      "url:https://careers-cotiviti.icims.com/jobs/18950/job",
-      "simplify-0e79ef0c-9caf-4c3b-bc58-270866bd69df",
-      "url:https://www.pindrop.com/careers/job-title",
       "simplify-e018a2ac-82d3-4544-85aa-440aa29efa03",
       "url:https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290",
       "simplify-1f3992a5-b615-416d-8650-f6a6a7316db4",
@@ -7216,11 +7220,11 @@
       "simplify-ca54e8e6-3ece-423f-ae13-aa1fa705c812",
       "url:https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application",
       "simplify-2017ac96-db7a-496c-a9dd-bfc1e83d38a7",
-      "url:https://jobs.ashbyhq.com/pebl/f94e9238-656b-4b1c-a4c7-b5d4909b0663/application"
+      "url:https://jobs.ashbyhq.com/pebl/f94e9238-656b-4b1c-a4c7-b5d4909b0663/application",
+      "simplify-946795ed-83f9-4f29-9159-81978281dfa3",
+      "url:https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00185122-1"
     ],
     "pm-jobs": [
-      "simplify-d4f6f6bc-3852-4c6c-9944-6136eaffc260",
-      "url:https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Product-Manager--Content-Platforms_R38907",
       "ashby-openai-a3f35235-c6c3-43e3-9c1c-eb844c9b6025",
       "url:https://jobs.ashbyhq.com/openai/a3f35235-c6c3-43e3-9c1c-eb844c9b6025",
       "greenhouse-vercel-5979660004",
@@ -7392,7 +7396,9 @@
       "greenhouse-databricks-8567322002",
       "url:https://databricks.com/company/careers/open-positions/job",
       "simplify-ce2e9675-427e-41ed-8610-8a6d656cb32b",
-      "url:https://jobs.ashbyhq.com/pebl/5ab039a5-2517-4ab5-be25-5987afb6d204/application"
+      "url:https://jobs.ashbyhq.com/pebl/5ab039a5-2517-4ab5-be25-5987afb6d204/application",
+      "greenhouse-anthropic-5253339008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5253339008"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
@@ -8207,7 +8213,11 @@
       "simplify-1084cdf5-3b7b-46a6-bf6d-10fdfa752e77",
       "url:https://apply.workable.com/tickpick/j/5840ECEB50/apply",
       "simplify-6a1f8feb-f570-4d70-bb2e-9c27c5dea55c",
-      "url:https://jobs.smartrecruiters.com/WesternDigital/744000129015575"
+      "url:https://jobs.smartrecruiters.com/WesternDigital/744000129015575",
+      "simplify-3203ac9f-93b4-493d-bb08-f0559f899800",
+      "url:https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Software-Engineer_2130779",
+      "simplify-d2fba3fa-bb83-4710-99aa-88d7f8c825c4",
+      "url:https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---TX-Field-Location/Engineering-Technician-I_R181836"
     ]
   }
 }
