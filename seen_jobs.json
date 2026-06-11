@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-1f487f77-2747-4099-b366-ec3c03fb88d5",
-      "seen_at": "2026-05-12T04:09:36.856628+00:00"
-    },
-    {
-      "id": "url:https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808",
-      "seen_at": "2026-05-12T04:09:36.856699+00:00"
-    },
-    {
       "id": "simplify-2b6d2595-06f0-4103-b393-558ce3b58804",
       "seen_at": "2026-05-12T07:19:23.761311+00:00"
     },
@@ -6359,14 +6351,52 @@
     {
       "id": "greenhouse-databricks-8560401002",
       "seen_at": "2026-06-11T00:25:36.685209+00:00"
+    },
+    {
+      "id": "simplify-f975a992-24c9-4305-af8a-172111406e60",
+      "seen_at": "2026-06-11T05:12:20.731770+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/273531",
+      "seen_at": "2026-06-11T05:12:20.731893+00:00"
+    },
+    {
+      "id": "simplify-47dd2b92-bd50-4334-9faa-63cc77a303f4",
+      "seen_at": "2026-06-11T05:12:20.731978+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/field-ai/9c2b7b13-12d0-4c1a-a672-8c869228ec9d/apply",
+      "seen_at": "2026-06-11T05:12:20.732050+00:00"
+    },
+    {
+      "id": "simplify-c1623229-faaa-4f1d-bdd8-fc0b46bc74a0",
+      "seen_at": "2026-06-11T05:12:20.732125+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/andurilindustries/jobs/5148079007",
+      "seen_at": "2026-06-11T05:12:20.732197+00:00"
+    },
+    {
+      "id": "simplify-3f557233-184a-4541-b56e-dec514042429",
+      "seen_at": "2026-06-11T05:12:23.163984+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/marianaminerals/44c92dd6-55f2-4e44-9360-bf4676466dac/application",
+      "seen_at": "2026-06-11T05:12:23.164112+00:00"
+    },
+    {
+      "id": "simplify-ad7d7867-e455-490d-8f63-f85d5e3e7490",
+      "seen_at": "2026-06-11T05:12:23.164210+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700",
+      "seen_at": "2026-06-11T05:12:23.164324+00:00"
     }
   ],
-  "last_run": "2026-06-11T00:25:37.017943+00:00",
-  "total_notified": 598,
+  "last_run": "2026-06-11T05:12:23.569691+00:00",
+  "total_notified": 603,
   "channels": {
     "swe-jobs": [
-      "simplify-1f487f77-2747-4099-b366-ec3c03fb88d5",
-      "url:https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808",
       "simplify-2b6d2595-06f0-4103-b393-558ce3b58804",
       "url:https://boards.greenhouse.io/apptronik/jobs/5993905004",
       "simplify-2d438595-f937-4666-af6b-e141fa777079",
@@ -7006,7 +7036,13 @@
       "simplify-44041c0c-060c-4baf-a23a-fd72b94bca01",
       "url:https://careers-e2.icims.com/jobs/6148/job",
       "simplify-a10b0c0e-ae6d-48db-a52a-6d12aea4a381",
-      "url:https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Graduate_R66409"
+      "url:https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Graduate_R66409",
+      "simplify-f975a992-24c9-4305-af8a-172111406e60",
+      "url:https://www.tesla.com/careers/search/job/273531",
+      "simplify-47dd2b92-bd50-4334-9faa-63cc77a303f4",
+      "url:https://jobs.lever.co/field-ai/9c2b7b13-12d0-4c1a-a672-8c869228ec9d/apply",
+      "simplify-c1623229-faaa-4f1d-bdd8-fc0b46bc74a0",
+      "url:https://boards.greenhouse.io/andurilindustries/jobs/5148079007"
     ],
     "pm-jobs": [
       "simplify-d4f6f6bc-3852-4c6c-9944-6136eaffc260",
@@ -7967,7 +8003,11 @@
       "greenhouse-anthropic-4802076008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/4802076008",
       "greenhouse-databricks-8560401002",
-      "url:https://databricks.com/company/careers/open-positions/job"
+      "url:https://databricks.com/company/careers/open-positions/job",
+      "simplify-3f557233-184a-4541-b56e-dec514042429",
+      "url:https://jobs.ashbyhq.com/marianaminerals/44c92dd6-55f2-4e44-9360-bf4676466dac/application",
+      "simplify-ad7d7867-e455-490d-8f63-f85d5e3e7490",
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700"
     ]
   }
 }
