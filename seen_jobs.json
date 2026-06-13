@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-airbnb-7724793",
-      "seen_at": "2026-05-14T21:55:11.288063+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/7724793",
-      "seen_at": "2026-05-14T21:55:11.288146+00:00"
-    },
-    {
       "id": "simplify-7107711b-0874-460d-932c-0c0d7b729f42",
       "seen_at": "2026-05-14T23:06:44.757435+00:00"
     },
@@ -7009,7 +7001,7 @@
       "seen_at": "2026-06-13T19:48:28.209754+00:00"
     }
   ],
-  "last_run": "2026-06-13T20:55:54.879900+00:00",
+  "last_run": "2026-06-13T22:14:58.009489+00:00",
   "total_notified": 707,
   "channels": {
     "swe-jobs": [
@@ -7661,8 +7653,6 @@
       "url:https://job-boards.greenhouse.io/eulerity/jobs/4689194006"
     ],
     "pm-jobs": [
-      "greenhouse-airbnb-7724793",
-      "url:https://careers.airbnb.com/positions/7724793",
       "simplify-2df094b0-080f-4cc3-afdb-ddeb4e1763c7",
       "url:https://jobs-legrand.icims.com/jobs/10084/job",
       "greenhouse-datadog-7654981",
