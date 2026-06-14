@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-lyft-8550274002",
-      "seen_at": "2026-05-15T19:56:34.032488+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8550274002",
-      "seen_at": "2026-05-15T19:56:34.032576+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8550252002",
-      "seen_at": "2026-05-15T19:56:34.032646+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8550252002",
-      "seen_at": "2026-05-15T19:56:34.032704+00:00"
-    },
-    {
       "id": "simplify-78ecf03f-56f1-4a4f-8ec9-e5b351b77080",
       "seen_at": "2026-05-15T23:15:37.390942+00:00"
     },
@@ -6881,7 +6865,7 @@
       "seen_at": "2026-06-13T19:48:28.209754+00:00"
     }
   ],
-  "last_run": "2026-06-14T19:02:09.158732+00:00",
+  "last_run": "2026-06-14T20:23:50.592941+00:00",
   "total_notified": 707,
   "channels": {
     "swe-jobs": [
@@ -7509,10 +7493,6 @@
       "url:https://job-boards.greenhouse.io/eulerity/jobs/4689194006"
     ],
     "pm-jobs": [
-      "greenhouse-lyft-8550274002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8550274002",
-      "greenhouse-lyft-8550252002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8550252002",
       "simplify-fdce2e24-1ce2-4cdb-b33c-fd0b50293bb5",
       "url:https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20260937",
       "simplify-5e8c8a5a-8a17-488a-935d-9489a58c8d4a",
