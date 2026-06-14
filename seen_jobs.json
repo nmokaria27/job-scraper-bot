@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-datadog-7654981",
-      "seen_at": "2026-05-15T14:39:44.617720+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7654981",
-      "seen_at": "2026-05-15T14:39:44.617804+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-7608826",
-      "seen_at": "2026-05-15T14:39:44.617871+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7608826",
-      "seen_at": "2026-05-15T14:39:44.617928+00:00"
-    },
-    {
       "id": "greenhouse-lyft-8550274002",
       "seen_at": "2026-05-15T19:56:34.032488+00:00"
     },
@@ -6897,7 +6881,7 @@
       "seen_at": "2026-06-13T19:48:28.209754+00:00"
     }
   ],
-  "last_run": "2026-06-14T14:33:41.737642+00:00",
+  "last_run": "2026-06-14T16:08:13.733117+00:00",
   "total_notified": 707,
   "channels": {
     "swe-jobs": [
@@ -7525,10 +7509,6 @@
       "url:https://job-boards.greenhouse.io/eulerity/jobs/4689194006"
     ],
     "pm-jobs": [
-      "greenhouse-datadog-7654981",
-      "url:https://careers.datadoghq.com/detail/7654981",
-      "greenhouse-datadog-7608826",
-      "url:https://careers.datadoghq.com/detail/7608826",
       "greenhouse-lyft-8550274002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8550274002",
       "greenhouse-lyft-8550252002",
