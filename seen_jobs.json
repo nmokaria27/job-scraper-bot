@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-e131826c-4066-45d3-9279-45b6809548f8",
-      "seen_at": "2026-05-15T07:43:08.601696+00:00"
-    },
-    {
-      "id": "url:https://careers-nikkiso.icims.com/jobs/3975/job",
-      "seen_at": "2026-05-15T07:43:08.601799+00:00"
-    },
-    {
       "id": "greenhouse-datadog-7654981",
       "seen_at": "2026-05-15T14:39:44.617720+00:00"
     },
@@ -6905,12 +6897,10 @@
       "seen_at": "2026-06-13T19:48:28.209754+00:00"
     }
   ],
-  "last_run": "2026-06-14T06:51:54.949533+00:00",
+  "last_run": "2026-06-14T10:17:26.728901+00:00",
   "total_notified": 707,
   "channels": {
     "swe-jobs": [
-      "simplify-e131826c-4066-45d3-9279-45b6809548f8",
-      "url:https://careers-nikkiso.icims.com/jobs/3975/job",
       "simplify-78ecf03f-56f1-4a4f-8ec9-e5b351b77080",
       "url:https://job-boards.greenhouse.io/docugami/jobs/4014838003",
       "simplify-b01e4509-72ac-44dc-9169-a32bf84581e1",
