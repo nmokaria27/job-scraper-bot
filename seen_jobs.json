@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-74f8b0c5-8f2e-422d-af50-13f152a2f0bb",
-      "seen_at": "2026-05-16T00:10:11.488648+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/arine/jobs/5997169004",
-      "seen_at": "2026-05-16T00:10:11.488745+00:00"
-    },
-    {
-      "id": "simplify-17d6c668-4bc6-4bfb-8c59-1da4ee9209a5",
-      "seen_at": "2026-05-16T00:10:11.488830+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263",
-      "seen_at": "2026-05-16T00:10:11.488907+00:00"
-    },
-    {
       "id": "simplify-4b7a8d63-bcb2-4f54-88ad-64c5e62c6ea1",
       "seen_at": "2026-05-16T04:05:57.886506+00:00"
     },
@@ -6833,14 +6817,10 @@
       "seen_at": "2026-06-14T23:20:39.219201+00:00"
     }
   ],
-  "last_run": "2026-06-14T23:20:39.436396+00:00",
+  "last_run": "2026-06-15T01:42:30.035202+00:00",
   "total_notified": 708,
   "channels": {
     "swe-jobs": [
-      "simplify-74f8b0c5-8f2e-422d-af50-13f152a2f0bb",
-      "url:https://job-boards.greenhouse.io/arine/jobs/5997169004",
-      "simplify-17d6c668-4bc6-4bfb-8c59-1da4ee9209a5",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263",
       "simplify-4b7a8d63-bcb2-4f54-88ad-64c5e62c6ea1",
       "url:https://jobs.jobvite.com/nutanix/job/oOO8zfw3",
       "simplify-2b5812dd-6790-4dec-99a6-492058cec2b1",
