@@ -6895,10 +6895,34 @@
     {
       "id": "url:https://lifeattiktok.com/search/7517107684337748242",
       "seen_at": "2026-06-15T13:23:36.708383+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5790627004",
+      "seen_at": "2026-06-15T18:11:51.964603+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5790627004",
+      "seen_at": "2026-06-15T18:11:51.964746+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-5989803004",
+      "seen_at": "2026-06-15T18:11:51.964916+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/5989803004",
+      "seen_at": "2026-06-15T18:11:51.965035+00:00"
+    },
+    {
+      "id": "ashby-openai-cadb7c24-2aea-4b98-a793-65ae9388b5d6",
+      "seen_at": "2026-06-15T18:11:51.965148+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6",
+      "seen_at": "2026-06-15T18:11:51.965258+00:00"
     }
   ],
-  "last_run": "2026-06-15T13:23:36.914787+00:00",
-  "total_notified": 721,
+  "last_run": "2026-06-15T18:11:52.184435+00:00",
+  "total_notified": 724,
   "channels": {
     "swe-jobs": [
       "simplify-27c082da-62c4-4f26-8137-74728d05965e",
@@ -8636,7 +8660,13 @@
       "simplify-cba3f10a-54b4-46e8-b274-6000b2fccc5a",
       "url:https://lifeattiktok.com/search/7518139910798215442",
       "simplify-bb7aa421-4cfb-4baa-9fc0-bea49fa9b593",
-      "url:https://lifeattiktok.com/search/7517107684337748242"
+      "url:https://lifeattiktok.com/search/7517107684337748242",
+      "greenhouse-figma-5790627004",
+      "url:https://boards.greenhouse.io/figma/jobs/5790627004",
+      "greenhouse-vercel-5989803004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/5989803004",
+      "ashby-openai-cadb7c24-2aea-4b98-a793-65ae9388b5d6",
+      "url:https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6"
     ]
   }
 }
