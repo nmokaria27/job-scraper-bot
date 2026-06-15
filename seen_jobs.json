@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-27c082da-62c4-4f26-8137-74728d05965e",
-      "seen_at": "2026-05-16T22:26:29.323045+00:00"
-    },
-    {
-      "id": "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Excellence-Intern_R041330",
-      "seen_at": "2026-05-16T22:26:29.323136+00:00"
-    },
-    {
       "id": "simplify-9fc8a614-08fa-458a-ae94-17287abd6840",
       "seen_at": "2026-05-16T23:31:45.888543+00:00"
     },
@@ -6969,12 +6961,10 @@
       "seen_at": "2026-06-15T21:25:59.321414+00:00"
     }
   ],
-  "last_run": "2026-06-15T21:25:59.490066+00:00",
+  "last_run": "2026-06-15T23:21:27.990074+00:00",
   "total_notified": 730,
   "channels": {
     "swe-jobs": [
-      "simplify-27c082da-62c4-4f26-8137-74728d05965e",
-      "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Excellence-Intern_R041330",
       "simplify-9fc8a614-08fa-458a-ae94-17287abd6840",
       "url:https://cisecurity.wd1.myworkdayjobs.com/CIS_External_Career_Site/job/Remote/Security-Engineering-Intern---Remote_JR100204",
       "simplify-837f275c-c314-436a-9c5b-9f8c18daa488",
