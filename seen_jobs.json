@@ -7015,10 +7015,94 @@
     {
       "id": "url:https://job-boards.greenhouse.io/discord/jobs/8545663002",
       "seen_at": "2026-06-16T20:27:41.392953+00:00"
+    },
+    {
+      "id": "simplify-51390559-49b8-46aa-8e77-cb2b750241cc",
+      "seen_at": "2026-06-16T22:32:23.235125+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/rho/18da5bcb-aabe-424e-a9d1-e2e1c5abc2b1/application",
+      "seen_at": "2026-06-16T22:32:23.235249+00:00"
+    },
+    {
+      "id": "greenhouse-stripe-7874965",
+      "seen_at": "2026-06-16T22:32:23.235354+00:00"
+    },
+    {
+      "id": "simplify-31d11edc-b830-484f-b2bc-faae10a84958",
+      "seen_at": "2026-06-16T22:32:29.769600+00:00"
+    },
+    {
+      "id": "url:https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Associate-Data-Engineer_R0017873",
+      "seen_at": "2026-06-16T22:32:29.769840+00:00"
+    },
+    {
+      "id": "simplify-1f6bee99-9cca-467c-a0b3-899d61139a03",
+      "seen_at": "2026-06-16T22:32:29.770003+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
+      "seen_at": "2026-06-16T22:32:29.770138+00:00"
+    },
+    {
+      "id": "simplify-f9825cd4-5a5a-4643-a150-970091875b43",
+      "seen_at": "2026-06-16T22:32:29.770282+00:00"
+    },
+    {
+      "id": "url:https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785",
+      "seen_at": "2026-06-16T22:32:29.770405+00:00"
+    },
+    {
+      "id": "simplify-f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
+      "seen_at": "2026-06-16T22:32:29.770509+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
+      "seen_at": "2026-06-16T22:32:29.770602+00:00"
+    },
+    {
+      "id": "simplify-6fb0e2ea-dabd-4c75-8ad3-7a7c830656fb",
+      "seen_at": "2026-06-16T22:32:29.770721+00:00"
+    },
+    {
+      "id": "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Network-Systems-I--Full-Time----United-States_2000081",
+      "seen_at": "2026-06-16T22:32:29.770815+00:00"
+    },
+    {
+      "id": "simplify-b79ef152-7b8b-42ee-8bba-e1cd8098d777",
+      "seen_at": "2026-06-16T22:32:29.770916+00:00"
+    },
+    {
+      "id": "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Backend-Platform-Systems-I--Full-Time----United-States_2000046",
+      "seen_at": "2026-06-16T22:32:29.771007+00:00"
+    },
+    {
+      "id": "simplify-2bfc6f7c-2155-429b-9c64-d09613f12ef3",
+      "seen_at": "2026-06-16T22:32:29.771105+00:00"
+    },
+    {
+      "id": "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Algorithm-Engineer_JR0284868",
+      "seen_at": "2026-06-16T22:32:29.771195+00:00"
+    },
+    {
+      "id": "simplify-9356f4e3-420d-4308-8084-2f6f7200af8c",
+      "seen_at": "2026-06-16T22:32:29.771293+00:00"
+    },
+    {
+      "id": "url:https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Software-Engineer-1_R439407",
+      "seen_at": "2026-06-16T22:32:29.771383+00:00"
+    },
+    {
+      "id": "ashby-openai-6d545b2c-5697-4f38-affc-aaa309f5bb26",
+      "seen_at": "2026-06-16T22:32:29.771477+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/6d545b2c-5697-4f38-affc-aaa309f5bb26",
+      "seen_at": "2026-06-16T22:32:29.771567+00:00"
     }
   ],
-  "last_run": "2026-06-16T20:27:41.629699+00:00",
-  "total_notified": 739,
+  "last_run": "2026-06-16T22:32:29.902231+00:00",
+  "total_notified": 750,
   "channels": {
     "swe-jobs": [
       "simplify-9cafad48-b6a9-4421-a9fc-e18cc9bf6b5f",
@@ -7638,7 +7722,11 @@
       "simplify-d58f726c-620e-4c0c-89d7-8b54421280ab",
       "url:https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply",
       "simplify-0503901e-622f-4d1b-b7f9-29d44e59eaab",
-      "url:https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply"
+      "url:https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply",
+      "simplify-51390559-49b8-46aa-8e77-cb2b750241cc",
+      "url:https://jobs.ashbyhq.com/rho/18da5bcb-aabe-424e-a9d1-e2e1c5abc2b1/application",
+      "greenhouse-stripe-7874965",
+      "url:https://stripe.com/jobs/search"
     ],
     "pm-jobs": [
       "simplify-4c6b0af0-6b75-452c-95fd-8cf1d08156bb",
@@ -8786,7 +8874,25 @@
       "greenhouse-anthropic-5197529008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5197529008",
       "greenhouse-discord-8545663002",
-      "url:https://job-boards.greenhouse.io/discord/jobs/8545663002"
+      "url:https://job-boards.greenhouse.io/discord/jobs/8545663002",
+      "simplify-31d11edc-b830-484f-b2bc-faae10a84958",
+      "url:https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Associate-Data-Engineer_R0017873",
+      "simplify-1f6bee99-9cca-467c-a0b3-899d61139a03",
+      "url:https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
+      "simplify-f9825cd4-5a5a-4643-a150-970091875b43",
+      "url:https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785",
+      "simplify-f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
+      "url:https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
+      "simplify-6fb0e2ea-dabd-4c75-8ad3-7a7c830656fb",
+      "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Network-Systems-I--Full-Time----United-States_2000081",
+      "simplify-b79ef152-7b8b-42ee-8bba-e1cd8098d777",
+      "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Backend-Platform-Systems-I--Full-Time----United-States_2000046",
+      "simplify-2bfc6f7c-2155-429b-9c64-d09613f12ef3",
+      "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Algorithm-Engineer_JR0284868",
+      "simplify-9356f4e3-420d-4308-8084-2f6f7200af8c",
+      "url:https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Software-Engineer-1_R439407",
+      "ashby-openai-6d545b2c-5697-4f38-affc-aaa309f5bb26",
+      "url:https://jobs.ashbyhq.com/openai/6d545b2c-5697-4f38-affc-aaa309f5bb26"
     ]
   }
 }
