@@ -6983,10 +6983,42 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5197529008",
       "seen_at": "2026-06-16T17:35:03.950357+00:00"
+    },
+    {
+      "id": "simplify-fe77f108-84fc-48fd-bc64-dfd8921d203f",
+      "seen_at": "2026-06-16T20:27:39.638396+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
+      "seen_at": "2026-06-16T20:27:39.638527+00:00"
+    },
+    {
+      "id": "simplify-d58f726c-620e-4c0c-89d7-8b54421280ab",
+      "seen_at": "2026-06-16T20:27:39.638634+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply",
+      "seen_at": "2026-06-16T20:27:39.638716+00:00"
+    },
+    {
+      "id": "simplify-0503901e-622f-4d1b-b7f9-29d44e59eaab",
+      "seen_at": "2026-06-16T20:27:39.638797+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply",
+      "seen_at": "2026-06-16T20:27:39.638872+00:00"
+    },
+    {
+      "id": "greenhouse-discord-8545663002",
+      "seen_at": "2026-06-16T20:27:41.392810+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8545663002",
+      "seen_at": "2026-06-16T20:27:41.392953+00:00"
     }
   ],
-  "last_run": "2026-06-16T17:35:04.296078+00:00",
-  "total_notified": 735,
+  "last_run": "2026-06-16T20:27:41.629699+00:00",
+  "total_notified": 739,
   "channels": {
     "swe-jobs": [
       "simplify-9cafad48-b6a9-4421-a9fc-e18cc9bf6b5f",
@@ -7600,7 +7632,13 @@
       "simplify-ac124cf6-870e-4078-b871-ec6c45459919",
       "url:https://lifeattiktok.com/search/7538301580093720840",
       "simplify-c5b25325-04c9-4ecd-af56-abb6aeaa6da2",
-      "url:https://lifeattiktok.com/search/7561941583777941813"
+      "url:https://lifeattiktok.com/search/7561941583777941813",
+      "simplify-fe77f108-84fc-48fd-bc64-dfd8921d203f",
+      "url:https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
+      "simplify-d58f726c-620e-4c0c-89d7-8b54421280ab",
+      "url:https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply",
+      "simplify-0503901e-622f-4d1b-b7f9-29d44e59eaab",
+      "url:https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply"
     ],
     "pm-jobs": [
       "simplify-4c6b0af0-6b75-452c-95fd-8cf1d08156bb",
@@ -8746,7 +8784,9 @@
       "simplify-22a341c0-1428-4064-a7c3-2c01961fcee3",
       "url:https://jobs.ashbyhq.com/people-culture-talent/c1049c49-aea6-4862-a711-a4c78cf6e959",
       "greenhouse-anthropic-5197529008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5197529008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5197529008",
+      "greenhouse-discord-8545663002",
+      "url:https://job-boards.greenhouse.io/discord/jobs/8545663002"
     ]
   }
 }
