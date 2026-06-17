@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-d29dfc6f-0843-457f-833e-51401c4ef53c",
-      "seen_at": "2026-05-18T16:15:12.401362+00:00"
-    },
-    {
-      "id": "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0161488",
-      "seen_at": "2026-05-18T16:15:12.401462+00:00"
-    },
-    {
       "id": "simplify-d0bc21c9-3d8f-4e73-8ed7-53c72148c6fd",
       "seen_at": "2026-05-18T23:40:57.467902+00:00"
     },
@@ -7539,14 +7531,60 @@
     {
       "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010693",
       "seen_at": "2026-06-17T13:51:49.648799+00:00"
+    },
+    {
+      "id": "simplify-3676c592-ca00-4a6c-b62f-eadaea5b170c",
+      "seen_at": "2026-06-17T16:49:48.936555+00:00"
+    },
+    {
+      "id": "url:https://harman.wd3.myworkdayjobs.com/HARMAN/job/Sunnyvale---California-USA/Intern---Software-Engineering_R-53546-2026",
+      "seen_at": "2026-06-17T16:49:48.936733+00:00"
+    },
+    {
+      "id": "simplify-987779ef-3c25-4288-b559-7f8a99d2b578",
+      "seen_at": "2026-06-17T16:49:50.206769+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application",
+      "seen_at": "2026-06-17T16:49:50.206954+00:00"
+    },
+    {
+      "id": "simplify-b8df6356-852a-4297-b6d7-4e4dab8e1234",
+      "seen_at": "2026-06-17T16:49:53.698482+00:00"
+    },
+    {
+      "id": "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois-Central-Illinois_R4042298-1",
+      "seen_at": "2026-06-17T16:49:53.698688+00:00"
+    },
+    {
+      "id": "simplify-9f64b9ac-38b2-4871-b188-4c2837cd0c60",
+      "seen_at": "2026-06-17T16:49:53.698873+00:00"
+    },
+    {
+      "id": "url:https://integer.wd1.myworkdayjobs.com/External/job/Salem-VA/Engineer-I--Manufacturing-_R34282",
+      "seen_at": "2026-06-17T16:49:53.698998+00:00"
+    },
+    {
+      "id": "greenhouse-lyft-8513769002",
+      "seen_at": "2026-06-17T16:49:53.699164+00:00"
+    },
+    {
+      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8513769002",
+      "seen_at": "2026-06-17T16:49:53.699293+00:00"
+    },
+    {
+      "id": "ashby-openai-57bbaedc-30c1-4f1d-b194-e32a6adf874c",
+      "seen_at": "2026-06-17T16:49:53.699418+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/57bbaedc-30c1-4f1d-b194-e32a6adf874c",
+      "seen_at": "2026-06-17T16:49:53.699534+00:00"
     }
   ],
-  "last_run": "2026-06-17T13:51:49.969509+00:00",
-  "total_notified": 806,
+  "last_run": "2026-06-17T16:49:53.909211+00:00",
+  "total_notified": 812,
   "channels": {
     "swe-jobs": [
-      "simplify-d29dfc6f-0843-457f-833e-51401c4ef53c",
-      "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0161488",
       "simplify-d0bc21c9-3d8f-4e73-8ed7-53c72148c6fd",
       "url:https://jobs.smartrecruiters.com/BoschGroup/744000127066949",
       "simplify-d3ee5bc4-7518-4aa5-b4c1-53a1a4793a3e",
@@ -8196,7 +8234,9 @@
       "simplify-b099116b-63e4-4ecb-8557-b5c6dffa3d3d",
       "url:https://careers-cotiviti.icims.com/jobs/19341/job",
       "simplify-28211e9c-64fa-433f-b304-32c0827c2803",
-      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550"
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550",
+      "simplify-3676c592-ca00-4a6c-b62f-eadaea5b170c",
+      "url:https://harman.wd3.myworkdayjobs.com/HARMAN/job/Sunnyvale---California-USA/Intern---Software-Engineering_R-53546-2026"
     ],
     "pm-jobs": [
       "simplify-4c6b0af0-6b75-452c-95fd-8cf1d08156bb",
@@ -8362,7 +8402,9 @@
       "greenhouse-anthropic-5195866008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5195866008",
       "ashby-openai-73e59b84-2e87-4637-8c4a-d271784afb30",
-      "url:https://jobs.ashbyhq.com/openai/73e59b84-2e87-4637-8c4a-d271784afb30"
+      "url:https://jobs.ashbyhq.com/openai/73e59b84-2e87-4637-8c4a-d271784afb30",
+      "simplify-987779ef-3c25-4288-b559-7f8a99d2b578",
+      "url:https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
@@ -9442,7 +9484,15 @@
       "simplify-710404e9-4478-4459-85c8-c6286e183452",
       "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011176",
       "simplify-0b5a17d9-0294-4f5f-8f53-22abb041d6ac",
-      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010693"
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010693",
+      "simplify-b8df6356-852a-4297-b6d7-4e4dab8e1234",
+      "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois-Central-Illinois_R4042298-1",
+      "simplify-9f64b9ac-38b2-4871-b188-4c2837cd0c60",
+      "url:https://integer.wd1.myworkdayjobs.com/External/job/Salem-VA/Engineer-I--Manufacturing-_R34282",
+      "greenhouse-lyft-8513769002",
+      "url:https://app.careerpuck.com/job-board/lyft/job/8513769002",
+      "ashby-openai-57bbaedc-30c1-4f1d-b194-e32a6adf874c",
+      "url:https://jobs.ashbyhq.com/openai/57bbaedc-30c1-4f1d-b194-e32a6adf874c"
     ]
   }
 }
