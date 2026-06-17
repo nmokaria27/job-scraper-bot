@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-9cafad48-b6a9-4421-a9fc-e18cc9bf6b5f",
-      "seen_at": "2026-05-18T12:44:00.731666+00:00"
-    },
-    {
-      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support--GPS--Engineer-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2619290",
-      "seen_at": "2026-05-18T12:44:00.731745+00:00"
-    },
-    {
       "id": "simplify-d29dfc6f-0843-457f-833e-51401c4ef53c",
       "seen_at": "2026-05-18T16:15:12.401362+00:00"
     },
@@ -7491,14 +7483,68 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
       "seen_at": "2026-06-17T09:59:17.231448+00:00"
+    },
+    {
+      "id": "simplify-46cb7c52-99a0-4012-aca8-43044d9b601a",
+      "seen_at": "2026-06-17T13:51:49.647345+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010344",
+      "seen_at": "2026-06-17T13:51:49.647509+00:00"
+    },
+    {
+      "id": "simplify-e197577b-0c72-45ea-aa10-ee6e30c93095",
+      "seen_at": "2026-06-17T13:51:49.647655+00:00"
+    },
+    {
+      "id": "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/RF-Engineer-I_JR101837",
+      "seen_at": "2026-06-17T13:51:49.647755+00:00"
+    },
+    {
+      "id": "simplify-9a822943-37d2-4499-806b-73a851f52143",
+      "seen_at": "2026-06-17T13:51:49.647864+00:00"
+    },
+    {
+      "id": "url:https://fa-emxf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1260",
+      "seen_at": "2026-06-17T13:51:49.647963+00:00"
+    },
+    {
+      "id": "simplify-3937a504-382b-4061-a6ac-e27d6b2f4540",
+      "seen_at": "2026-06-17T13:51:49.648094+00:00"
+    },
+    {
+      "id": "url:https://jobs.jobvite.com/laserfiche/job/orDbAfwz",
+      "seen_at": "2026-06-17T13:51:49.648203+00:00"
+    },
+    {
+      "id": "simplify-f3a6ba08-f230-4922-a0a6-2b0b7093814c",
+      "seen_at": "2026-06-17T13:51:49.648310+00:00"
+    },
+    {
+      "id": "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Development-Engineer-I-1_JR102007",
+      "seen_at": "2026-06-17T13:51:49.648405+00:00"
+    },
+    {
+      "id": "simplify-710404e9-4478-4459-85c8-c6286e183452",
+      "seen_at": "2026-06-17T13:51:49.648508+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011176",
+      "seen_at": "2026-06-17T13:51:49.648602+00:00"
+    },
+    {
+      "id": "simplify-0b5a17d9-0294-4f5f-8f53-22abb041d6ac",
+      "seen_at": "2026-06-17T13:51:49.648705+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010693",
+      "seen_at": "2026-06-17T13:51:49.648799+00:00"
     }
   ],
-  "last_run": "2026-06-17T09:59:17.450063+00:00",
-  "total_notified": 799,
+  "last_run": "2026-06-17T13:51:49.969509+00:00",
+  "total_notified": 806,
   "channels": {
     "swe-jobs": [
-      "simplify-9cafad48-b6a9-4421-a9fc-e18cc9bf6b5f",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support--GPS--Engineer-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2619290",
       "simplify-d29dfc6f-0843-457f-833e-51401c4ef53c",
       "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0161488",
       "simplify-d0bc21c9-3d8f-4e73-8ed7-53c72148c6fd",
@@ -9382,7 +9428,21 @@
       "simplify-058b7d75-3a62-4309-9b1b-27083eeb374d",
       "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25005001",
       "greenhouse-anthropic-5209196008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5209196008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+      "simplify-46cb7c52-99a0-4012-aca8-43044d9b601a",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010344",
+      "simplify-e197577b-0c72-45ea-aa10-ee6e30c93095",
+      "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/RF-Engineer-I_JR101837",
+      "simplify-9a822943-37d2-4499-806b-73a851f52143",
+      "url:https://fa-emxf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1260",
+      "simplify-3937a504-382b-4061-a6ac-e27d6b2f4540",
+      "url:https://jobs.jobvite.com/laserfiche/job/orDbAfwz",
+      "simplify-f3a6ba08-f230-4922-a0a6-2b0b7093814c",
+      "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Development-Engineer-I-1_JR102007",
+      "simplify-710404e9-4478-4459-85c8-c6286e183452",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011176",
+      "simplify-0b5a17d9-0294-4f5f-8f53-22abb041d6ac",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010693"
     ]
   }
 }
