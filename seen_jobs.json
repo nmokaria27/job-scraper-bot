@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5220143008",
-      "seen_at": "2026-05-19T12:48:47.354132+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5220143008",
-      "seen_at": "2026-05-19T12:48:47.354217+00:00"
-    },
-    {
-      "id": "simplify-f1e5e8b4-e1b1-4c33-9df4-f6e5cfdbb83d",
-      "seen_at": "2026-05-19T16:12:08.743844+00:00"
-    },
-    {
-      "id": "url:https://jobs.halliburton.com/job/Houston-a_-Software-Engineer-Early-Career-Landmark-TX-77032/1392092600",
-      "seen_at": "2026-05-19T16:12:08.743922+00:00"
-    },
-    {
       "id": "simplify-7b3ba5dc-e16f-44bc-aafb-14c4cec7c77c",
       "seen_at": "2026-05-19T22:52:29.402342+00:00"
     },
@@ -7811,14 +7795,28 @@
     {
       "id": "url:https://app.careerpuck.com/job-board/lyft/job/8559583002",
       "seen_at": "2026-06-18T09:49:19.260679+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6092802004",
+      "seen_at": "2026-06-18T16:18:49.072660+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6092802004",
+      "seen_at": "2026-06-18T16:18:49.072849+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5097186008",
+      "seen_at": "2026-06-18T16:18:50.159952+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5097186008",
+      "seen_at": "2026-06-18T16:18:50.160141+00:00"
     }
   ],
-  "last_run": "2026-06-18T12:42:56.579478+00:00",
-  "total_notified": 858,
+  "last_run": "2026-06-18T16:18:50.445172+00:00",
+  "total_notified": 860,
   "channels": {
     "swe-jobs": [
-      "simplify-f1e5e8b4-e1b1-4c33-9df4-f6e5cfdbb83d",
-      "url:https://jobs.halliburton.com/job/Houston-a_-Software-Engineer-Early-Career-Landmark-TX-77032/1392092600",
       "simplify-a9b83b19-46b4-4c45-895b-1f3392a709dd",
       "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Product-Engineering-Intern_R0240660",
       "simplify-42db84df-c7a1-46ba-ba84-ae43ae47aee2",
@@ -8459,8 +8457,6 @@
       "url:https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Digital-S-W-Engineer-Intm-Analyst-Officer--Irving-_26956642"
     ],
     "pm-jobs": [
-      "greenhouse-anthropic-5220143008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5220143008",
       "simplify-7b3ba5dc-e16f-44bc-aafb-14c4cec7c77c",
       "url:https://jobs-legrand.icims.com/jobs/10103/job",
       "ashby-openai-6d642115-b495-4119-818d-cdef2003ae93",
@@ -8620,7 +8616,9 @@
       "greenhouse-lyft-8550274002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8550274002",
       "greenhouse-lyft-8550252002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8550252002"
+      "url:https://app.careerpuck.com/job-board/lyft/job/8550252002",
+      "greenhouse-figma-6092802004",
+      "url:https://boards.greenhouse.io/figma/jobs/6092802004"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
@@ -9782,7 +9780,9 @@
       "greenhouse-lyft-8335733002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8335733002",
       "greenhouse-lyft-8559583002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8559583002"
+      "url:https://app.careerpuck.com/job-board/lyft/job/8559583002",
+      "greenhouse-anthropic-5097186008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5097186008"
     ]
   }
 }
