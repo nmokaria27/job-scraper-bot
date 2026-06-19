@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-15940e4d-d0db-45c4-a255-0626fdac14ac",
-      "seen_at": "2026-05-20T15:59:53.535671+00:00"
-    },
-    {
-      "id": "url:https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b",
-      "seen_at": "2026-05-20T15:59:53.535752+00:00"
-    },
-    {
       "id": "ashby-openai-b09be44d-3bf8-40a4-84cd-b7539fc73726",
       "seen_at": "2026-05-20T20:36:34.637432+00:00"
     },
@@ -8035,14 +8027,36 @@
     {
       "id": "url:https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792654",
       "seen_at": "2026-06-19T07:32:41.476347+00:00"
+    },
+    {
+      "id": "simplify-9c889bbe-3176-45bf-96fc-ce726765f959",
+      "seen_at": "2026-06-19T17:00:34.600473+00:00"
+    },
+    {
+      "id": "url:https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
+      "seen_at": "2026-06-19T17:00:34.600714+00:00"
+    },
+    {
+      "id": "simplify-b4b8249f-b8fd-491d-a1cb-5466b6ec5f88",
+      "seen_at": "2026-06-19T17:00:34.600989+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/KrgTechnologyInc/100733740",
+      "seen_at": "2026-06-19T17:00:34.601146+00:00"
+    },
+    {
+      "id": "simplify-bb732165-6b1c-499b-82b9-aaacc8eda685",
+      "seen_at": "2026-06-19T17:00:34.601308+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/Idexcel3/104328430",
+      "seen_at": "2026-06-19T17:00:34.601459+00:00"
     }
   ],
-  "last_run": "2026-06-19T14:32:10.655295+00:00",
-  "total_notified": 899,
+  "last_run": "2026-06-19T17:00:34.984370+00:00",
+  "total_notified": 902,
   "channels": {
     "swe-jobs": [
-      "simplify-15940e4d-d0db-45c4-a255-0626fdac14ac",
-      "url:https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b",
       "simplify-3dec26eb-b41a-4a65-8270-f510d37b30dc",
       "url:https://ultra.wd3.myworkdayjobs.com/uiccareers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12005",
       "simplify-2a0557a3-781a-4a1b-9313-506c5de08ec0",
@@ -10062,7 +10076,13 @@
       "simplify-f95698cc-d630-40f7-9ecf-62f7f47fd39a",
       "url:https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-engineer_2637389",
       "simplify-61a5b2d5-126a-48db-83d3-12380d0a42d3",
-      "url:https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792654"
+      "url:https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792654",
+      "simplify-9c889bbe-3176-45bf-96fc-ce726765f959",
+      "url:https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
+      "simplify-b4b8249f-b8fd-491d-a1cb-5466b6ec5f88",
+      "url:https://jobs.smartrecruiters.com/KrgTechnologyInc/100733740",
+      "simplify-bb732165-6b1c-499b-82b9-aaacc8eda685",
+      "url:https://jobs.smartrecruiters.com/Idexcel3/104328430"
     ]
   }
 }
