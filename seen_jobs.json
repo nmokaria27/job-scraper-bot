@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-21733e97-8cdc-4e2f-ae0c-75d18a8802da",
-      "seen_at": "2026-05-22T22:43:54.754944+00:00"
-    },
-    {
-      "id": "url:https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475",
-      "seen_at": "2026-05-22T22:43:54.755056+00:00"
-    },
-    {
-      "id": "simplify-ed796eec-72b0-4f4c-939e-4e296b818b58",
-      "seen_at": "2026-05-22T22:43:54.755147+00:00"
-    },
-    {
-      "id": "url:https://careers-qinetiqus.icims.com/jobs/12138/job",
-      "seen_at": "2026-05-22T22:43:54.755231+00:00"
-    },
-    {
-      "id": "simplify-c01e4a39-29a1-4e02-876e-5385672cd56d",
-      "seen_at": "2026-05-22T22:43:54.755317+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply",
-      "seen_at": "2026-05-22T22:43:54.755400+00:00"
-    },
-    {
-      "id": "simplify-fc88d475-f678-4ae3-bc2c-5ef19e50476f",
-      "seen_at": "2026-05-22T22:43:54.755484+00:00"
-    },
-    {
-      "id": "url:https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/K12-Zone-Engineering-Intern_JR114632-1",
-      "seen_at": "2026-05-22T22:43:54.755635+00:00"
-    },
-    {
-      "id": "simplify-5353b527-0cda-43e8-a9ef-cdfa8f45bcd8",
-      "seen_at": "2026-05-22T22:43:54.755718+00:00"
-    },
-    {
-      "id": "url:https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us",
-      "seen_at": "2026-05-22T22:43:54.755783+00:00"
-    },
-    {
-      "id": "simplify-803fb947-a722-4db2-bb3b-24fd63eb7ed6",
-      "seen_at": "2026-05-22T22:43:54.755852+00:00"
-    },
-    {
-      "id": "url:https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Product-Engineer--New-College-Grad-2026-_R54784",
-      "seen_at": "2026-05-22T22:43:54.755916+00:00"
-    },
-    {
       "id": "simplify-5f7df515-a7c8-4ae7-9327-e95ef0848474",
       "seen_at": "2026-05-22T23:52:11.796686+00:00"
     },
@@ -7771,24 +7723,20 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
       "seen_at": "2026-06-21T22:04:04.962479+00:00"
+    },
+    {
+      "id": "simplify-f2ddaac5-39eb-4d9a-9c82-2727f6b3d983",
+      "seen_at": "2026-06-21T23:38:33.688735+00:00"
+    },
+    {
+      "id": "url:https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineer-I_20777-1",
+      "seen_at": "2026-06-21T23:38:33.688958+00:00"
     }
   ],
-  "last_run": "2026-06-21T22:04:05.599899+00:00",
-  "total_notified": 922,
+  "last_run": "2026-06-21T23:38:34.108626+00:00",
+  "total_notified": 923,
   "channels": {
     "swe-jobs": [
-      "simplify-21733e97-8cdc-4e2f-ae0c-75d18a8802da",
-      "url:https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475",
-      "simplify-ed796eec-72b0-4f4c-939e-4e296b818b58",
-      "url:https://careers-qinetiqus.icims.com/jobs/12138/job",
-      "simplify-c01e4a39-29a1-4e02-876e-5385672cd56d",
-      "url:https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply",
-      "simplify-fc88d475-f678-4ae3-bc2c-5ef19e50476f",
-      "url:https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/K12-Zone-Engineering-Intern_JR114632-1",
-      "simplify-5353b527-0cda-43e8-a9ef-cdfa8f45bcd8",
-      "url:https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us",
-      "simplify-803fb947-a722-4db2-bb3b-24fd63eb7ed6",
-      "url:https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Product-Engineer--New-College-Grad-2026-_R54784",
       "simplify-5f7df515-a7c8-4ae7-9327-e95ef0848474",
       "url:https://jobs.lever.co/plus-2/1432ed29-d5e2-4348-acc4-9c42bf0897e2/apply",
       "simplify-7f9b3fa5-adc5-4c00-aead-555d25e024fd",
@@ -9732,7 +9680,9 @@
       "simplify-c4f98b62-29ba-49c8-8b43-178a32e61b9e",
       "url:https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Downers-Grove/Data-Engineer_R0942271",
       "ashby-openai-e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5",
-      "url:https://jobs.ashbyhq.com/openai/e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5"
+      "url:https://jobs.ashbyhq.com/openai/e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5",
+      "simplify-f2ddaac5-39eb-4d9a-9c82-2727f6b3d983",
+      "url:https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineer-I_20777-1"
     ]
   }
 }
