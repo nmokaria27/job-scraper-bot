@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-b8a1293b-bf5b-488d-8257-869584db6496",
-      "seen_at": "2026-05-22T21:38:18.108896+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
-      "seen_at": "2026-05-22T21:38:18.108995+00:00"
-    },
-    {
       "id": "simplify-21733e97-8cdc-4e2f-ae0c-75d18a8802da",
       "seen_at": "2026-05-22T22:43:54.754944+00:00"
     },
@@ -7771,10 +7763,18 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5",
       "seen_at": "2026-06-21T18:55:02.196029+00:00"
+    },
+    {
+      "id": "ashby-openai-b8a1293b-bf5b-488d-8257-869584db6496",
+      "seen_at": "2026-06-21T22:04:04.962339+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
+      "seen_at": "2026-06-21T22:04:04.962479+00:00"
     }
   ],
-  "last_run": "2026-06-21T20:44:10.460894+00:00",
-  "total_notified": 921,
+  "last_run": "2026-06-21T22:04:05.599899+00:00",
+  "total_notified": 922,
   "channels": {
     "swe-jobs": [
       "simplify-21733e97-8cdc-4e2f-ae0c-75d18a8802da",
@@ -8325,8 +8325,6 @@
       "url:https://jobs.ashbyhq.com/gen-digital/0818d1f1-e3c0-4a8a-afb8-72dd1265a13d/application"
     ],
     "pm-jobs": [
-      "ashby-openai-b8a1293b-bf5b-488d-8257-869584db6496",
-      "url:https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
       "greenhouse-anthropic-5013743008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
       "greenhouse-brex-8438582002",
@@ -8464,7 +8462,9 @@
       "greenhouse-figma-6092802004",
       "url:https://boards.greenhouse.io/figma/jobs/6092802004",
       "simplify-0a27331e-2392-427a-9897-4a79b44a9c52",
-      "url:https://jobs.lever.co/prizeout/1e3dab04-db41-4e97-9a42-7fb25e548583/apply"
+      "url:https://jobs.lever.co/prizeout/1e3dab04-db41-4e97-9a42-7fb25e548583/apply",
+      "ashby-openai-b8a1293b-bf5b-488d-8257-869584db6496",
+      "url:https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
