@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-5779ffa5-fa54-4061-9528-8c23dc0bc444",
-      "seen_at": "2026-05-22T16:11:17.092389+00:00"
-    },
-    {
-      "id": "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089",
-      "seen_at": "2026-05-22T16:11:17.092496+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5181852008",
-      "seen_at": "2026-05-22T16:11:18.622052+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5181852008",
-      "seen_at": "2026-05-22T16:11:18.622132+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5153924008",
       "seen_at": "2026-05-22T18:10:14.300249+00:00"
     },
@@ -7789,12 +7773,10 @@
       "seen_at": "2026-06-20T23:52:49.189702+00:00"
     }
   ],
-  "last_run": "2026-06-21T15:29:04.896511+00:00",
+  "last_run": "2026-06-21T17:08:29.484604+00:00",
   "total_notified": 920,
   "channels": {
     "swe-jobs": [
-      "simplify-5779ffa5-fa54-4061-9528-8c23dc0bc444",
-      "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089",
       "simplify-21733e97-8cdc-4e2f-ae0c-75d18a8802da",
       "url:https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475",
       "simplify-ed796eec-72b0-4f4c-939e-4e296b818b58",
@@ -8343,8 +8325,6 @@
       "url:https://jobs.ashbyhq.com/gen-digital/0818d1f1-e3c0-4a8a-afb8-72dd1265a13d/application"
     ],
     "pm-jobs": [
-      "greenhouse-anthropic-5181852008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5181852008",
       "greenhouse-anthropic-5153924008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5153924008",
       "ashby-openai-b8a1293b-bf5b-488d-8257-869584db6496",
