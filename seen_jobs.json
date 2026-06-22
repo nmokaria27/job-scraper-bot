@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-d2de708b-89ff-406f-bd7a-70f5d52cf392",
-      "seen_at": "2026-05-23T18:36:13.190813+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
-      "seen_at": "2026-05-23T18:36:13.190892+00:00"
-    },
-    {
-      "id": "simplify-bafafea5-6539-429a-a420-a25dad2aab58",
-      "seen_at": "2026-05-23T18:36:13.190943+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580",
-      "seen_at": "2026-05-23T18:36:13.190983+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5013743008",
-      "seen_at": "2026-05-23T19:46:25.648413+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
-      "seen_at": "2026-05-23T19:46:25.648529+00:00"
-    },
-    {
       "id": "simplify-eef653e0-529c-444a-b7a8-d364c206cea1",
       "seen_at": "2026-05-25T12:41:09.283703+00:00"
     },
@@ -7703,16 +7679,20 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/097b3559-d3a8-4c7b-b9e5-d891146d6b07",
       "seen_at": "2026-06-22T17:58:18.222777+00:00"
+    },
+    {
+      "id": "ashby-openai-3f99bfef-5b1a-48ea-aed0-2dbd57b12722",
+      "seen_at": "2026-06-22T21:10:08.674177+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/3f99bfef-5b1a-48ea-aed0-2dbd57b12722",
+      "seen_at": "2026-06-22T21:10:08.674371+00:00"
     }
   ],
-  "last_run": "2026-06-22T17:58:18.506246+00:00",
-  "total_notified": 933,
+  "last_run": "2026-06-22T21:10:09.064067+00:00",
+  "total_notified": 934,
   "channels": {
     "swe-jobs": [
-      "simplify-d2de708b-89ff-406f-bd7a-70f5d52cf392",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
-      "simplify-bafafea5-6539-429a-a420-a25dad2aab58",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580",
       "simplify-eef653e0-529c-444a-b7a8-d364c206cea1",
       "url:https://lifeattiktok.com/search/7642827146549446965",
       "simplify-e2e3917f-309a-4c40-9db2-2b8beedf29be",
@@ -8219,8 +8199,6 @@
       "url:https://jobs.ashbyhq.com/gen-digital/0818d1f1-e3c0-4a8a-afb8-72dd1265a13d/application"
     ],
     "pm-jobs": [
-      "greenhouse-anthropic-5013743008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
       "greenhouse-brex-8438582002",
       "url:https://www.brex.com/careers/8438582002",
       "greenhouse-brex-8438581002",
@@ -9648,7 +9626,9 @@
       "greenhouse-reddit-8013591",
       "url:https://job-boards.greenhouse.io/reddit/jobs/8013591",
       "ashby-openai-097b3559-d3a8-4c7b-b9e5-d891146d6b07",
-      "url:https://jobs.ashbyhq.com/openai/097b3559-d3a8-4c7b-b9e5-d891146d6b07"
+      "url:https://jobs.ashbyhq.com/openai/097b3559-d3a8-4c7b-b9e5-d891146d6b07",
+      "ashby-openai-3f99bfef-5b1a-48ea-aed0-2dbd57b12722",
+      "url:https://jobs.ashbyhq.com/openai/3f99bfef-5b1a-48ea-aed0-2dbd57b12722"
     ]
   }
 }
