@@ -7959,10 +7959,18 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/f827e381-91a0-40b7-8ae9-b56540642a74",
       "seen_at": "2026-06-23T18:24:35.305453+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-8023763",
+      "seen_at": "2026-06-23T20:39:52.797152+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/8023763",
+      "seen_at": "2026-06-23T20:39:52.797317+00:00"
     }
   ],
-  "last_run": "2026-06-23T18:24:35.533610+00:00",
-  "total_notified": 968,
+  "last_run": "2026-06-23T20:39:53.372184+00:00",
+  "total_notified": 969,
   "channels": {
     "swe-jobs": [
       "simplify-eef653e0-529c-444a-b7a8-d364c206cea1",
@@ -8624,7 +8632,9 @@
       "greenhouse-anthropic-5247407008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5247407008",
       "greenhouse-pinterest-7572846",
-      "url:https://www.pinterestcareers.com/jobs"
+      "url:https://www.pinterestcareers.com/jobs",
+      "greenhouse-datadog-8023763",
+      "url:https://careers.datadoghq.com/detail/8023763"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
