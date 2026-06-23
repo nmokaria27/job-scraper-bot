@@ -7743,10 +7743,50 @@
     {
       "id": "url:https://boards.greenhouse.io/figma/jobs/5980571004",
       "seen_at": "2026-06-23T00:17:05.562552+00:00"
+    },
+    {
+      "id": "simplify-4094133f-5f18-4aff-9d72-ecf4280916d4",
+      "seen_at": "2026-06-23T04:32:34.270008+00:00"
+    },
+    {
+      "id": "url:https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer_R19423",
+      "seen_at": "2026-06-23T04:32:34.270157+00:00"
+    },
+    {
+      "id": "simplify-f5283c9a-d26a-42df-a1f0-a7b16c58e7dd",
+      "seen_at": "2026-06-23T04:32:34.270269+00:00"
+    },
+    {
+      "id": "url:https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---California---Los-Angeles/Field-Service-Engineer-1--Los-Angeles--CA_R-548238-1",
+      "seen_at": "2026-06-23T04:32:34.270359+00:00"
+    },
+    {
+      "id": "simplify-cc79044e-a401-4c7c-8fa2-08933d224061",
+      "seen_at": "2026-06-23T04:32:34.270457+00:00"
+    },
+    {
+      "id": "url:https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer---2026-New-College-Graduate-_JR-2602829",
+      "seen_at": "2026-06-23T04:32:34.270545+00:00"
+    },
+    {
+      "id": "simplify-902db6d9-7c81-4410-82c0-aec596f39447",
+      "seen_at": "2026-06-23T04:32:34.270677+00:00"
+    },
+    {
+      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556899565",
+      "seen_at": "2026-06-23T04:32:34.270777+00:00"
+    },
+    {
+      "id": "simplify-28e12529-8553-4a5b-9f21-70046c96fd07",
+      "seen_at": "2026-06-23T04:32:34.270875+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/beaconai/54e0937b-bcb8-41dd-9e3f-287b29a64c11/application",
+      "seen_at": "2026-06-23T04:32:34.270981+00:00"
     }
   ],
-  "last_run": "2026-06-23T00:17:05.804581+00:00",
-  "total_notified": 941,
+  "last_run": "2026-06-23T04:32:34.435707+00:00",
+  "total_notified": 946,
   "channels": {
     "swe-jobs": [
       "simplify-eef653e0-529c-444a-b7a8-d364c206cea1",
@@ -9698,7 +9738,17 @@
       "simplify-9a45b0e0-e9bb-4032-a3fb-fe8189ffe12d",
       "url:https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Network-Modelling-and-Simulation-Engineer---MTS-Sr-MTS_R015708",
       "greenhouse-figma-5980571004",
-      "url:https://boards.greenhouse.io/figma/jobs/5980571004"
+      "url:https://boards.greenhouse.io/figma/jobs/5980571004",
+      "simplify-4094133f-5f18-4aff-9d72-ecf4280916d4",
+      "url:https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer_R19423",
+      "simplify-f5283c9a-d26a-42df-a1f0-a7b16c58e7dd",
+      "url:https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---California---Los-Angeles/Field-Service-Engineer-1--Los-Angeles--CA_R-548238-1",
+      "simplify-cc79044e-a401-4c7c-8fa2-08933d224061",
+      "url:https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer---2026-New-College-Graduate-_JR-2602829",
+      "simplify-902db6d9-7c81-4410-82c0-aec596f39447",
+      "url:https://apply.careers.microsoft.com/careers/job/1970393556899565",
+      "simplify-28e12529-8553-4a5b-9f21-70046c96fd07",
+      "url:https://jobs.ashbyhq.com/beaconai/54e0937b-bcb8-41dd-9e3f-287b29a64c11/application"
     ]
   }
 }
