@@ -7895,10 +7895,42 @@
     {
       "id": "url:https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263",
       "seen_at": "2026-06-23T14:01:51.297128+00:00"
+    },
+    {
+      "id": "simplify-124c16b4-a879-4e83-b93b-b6ae05424710",
+      "seen_at": "2026-06-23T16:32:34.075241+00:00"
+    },
+    {
+      "id": "url:https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Entry-Level-Software-Engineer--Irvine--CA-_R202679078-1",
+      "seen_at": "2026-06-23T16:32:34.075368+00:00"
+    },
+    {
+      "id": "simplify-453d44e6-74fe-430c-83d5-1f4bb1c58338",
+      "seen_at": "2026-06-23T16:32:34.075506+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289",
+      "seen_at": "2026-06-23T16:32:34.075583+00:00"
+    },
+    {
+      "id": "simplify-6978c2cb-a592-4751-ba2c-89bca5facdce",
+      "seen_at": "2026-06-23T16:32:34.075665+00:00"
+    },
+    {
+      "id": "url:https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl",
+      "seen_at": "2026-06-23T16:32:34.075737+00:00"
+    },
+    {
+      "id": "ashby-openai-f69f75f5-439f-4044-8ae1-8fd810e0402d",
+      "seen_at": "2026-06-23T16:32:34.075812+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/f69f75f5-439f-4044-8ae1-8fd810e0402d",
+      "seen_at": "2026-06-23T16:32:34.075882+00:00"
     }
   ],
-  "last_run": "2026-06-23T14:01:52.340157+00:00",
-  "total_notified": 960,
+  "last_run": "2026-06-23T16:32:34.311968+00:00",
+  "total_notified": 964,
   "channels": {
     "swe-jobs": [
       "simplify-eef653e0-529c-444a-b7a8-d364c206cea1",
@@ -9888,7 +9920,15 @@
       "greenhouse-reddit-8022942",
       "url:https://job-boards.greenhouse.io/reddit/jobs/8022942",
       "greenhouse-reddit-8022937",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8022937"
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8022937",
+      "simplify-124c16b4-a879-4e83-b93b-b6ae05424710",
+      "url:https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Entry-Level-Software-Engineer--Irvine--CA-_R202679078-1",
+      "simplify-453d44e6-74fe-430c-83d5-1f4bb1c58338",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289",
+      "simplify-6978c2cb-a592-4751-ba2c-89bca5facdce",
+      "url:https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl",
+      "ashby-openai-f69f75f5-439f-4044-8ae1-8fd810e0402d",
+      "url:https://jobs.ashbyhq.com/openai/f69f75f5-439f-4044-8ae1-8fd810e0402d"
     ]
   }
 }
