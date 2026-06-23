@@ -7783,10 +7783,90 @@
     {
       "id": "url:https://jobs.ashbyhq.com/beaconai/54e0937b-bcb8-41dd-9e3f-287b29a64c11/application",
       "seen_at": "2026-06-23T04:32:34.270981+00:00"
+    },
+    {
+      "id": "simplify-be01ab40-de24-4098-a05f-5e2fd741d92f",
+      "seen_at": "2026-06-23T08:05:12.205441+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/aircapture/jobs/4687916006",
+      "seen_at": "2026-06-23T08:05:12.205626+00:00"
+    },
+    {
+      "id": "simplify-c9806a4c-cba2-46f3-82e7-06146c2bd5de",
+      "seen_at": "2026-06-23T08:05:12.205776+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/eulerity/jobs/4691224006",
+      "seen_at": "2026-06-23T08:05:12.205892+00:00"
+    },
+    {
+      "id": "simplify-423da967-d87f-4eb2-878e-67789a6b375b",
+      "seen_at": "2026-06-23T08:05:19.157585+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/spacex/jobs/8603667002",
+      "seen_at": "2026-06-23T08:05:19.157774+00:00"
+    },
+    {
+      "id": "simplify-bde6d294-a936-400d-8dea-d3870ed1da28",
+      "seen_at": "2026-06-23T08:05:19.157941+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10438055/software-engineer-i-compiler-annapurna-labs",
+      "seen_at": "2026-06-23T08:05:19.158087+00:00"
+    },
+    {
+      "id": "simplify-903aa634-4b1b-47f8-825d-15ac4c99ba27",
+      "seen_at": "2026-06-23T08:05:19.158241+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011362",
+      "seen_at": "2026-06-23T08:05:19.158378+00:00"
+    },
+    {
+      "id": "simplify-686dae74-ec7b-482e-8711-419f7570940d",
+      "seen_at": "2026-06-23T08:05:19.158506+00:00"
+    },
+    {
+      "id": "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kent-WA/Software-Engineer---Developer--Associate-and-Experienced-_JR2026515118-2",
+      "seen_at": "2026-06-23T08:05:19.158623+00:00"
+    },
+    {
+      "id": "simplify-3859ee3a-9bd7-4c36-98c9-4e3c8984ced5",
+      "seen_at": "2026-06-23T08:05:19.158747+00:00"
+    },
+    {
+      "id": "url:https://careers.dat.com/jobs/6099144004",
+      "seen_at": "2026-06-23T08:05:19.158864+00:00"
+    },
+    {
+      "id": "simplify-25768372-33ac-4aaa-8269-c3b15e2272a8",
+      "seen_at": "2026-06-23T08:05:19.158979+00:00"
+    },
+    {
+      "id": "url:https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineer_JR002634",
+      "seen_at": "2026-06-23T08:05:19.159080+00:00"
+    },
+    {
+      "id": "greenhouse-reddit-8022942",
+      "seen_at": "2026-06-23T08:05:19.159187+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8022942",
+      "seen_at": "2026-06-23T08:05:19.159302+00:00"
+    },
+    {
+      "id": "greenhouse-reddit-8022937",
+      "seen_at": "2026-06-23T08:05:19.159415+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8022937",
+      "seen_at": "2026-06-23T08:05:19.159515+00:00"
     }
   ],
-  "last_run": "2026-06-23T04:32:34.435707+00:00",
-  "total_notified": 946,
+  "last_run": "2026-06-23T08:05:19.384577+00:00",
+  "total_notified": 956,
   "channels": {
     "swe-jobs": [
       "simplify-eef653e0-529c-444a-b7a8-d364c206cea1",
@@ -8292,7 +8372,11 @@
       "simplify-b329a355-37a2-4a60-8ff5-bc9b42bf00c0",
       "url:https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application",
       "simplify-4ec0f20e-0d62-4e92-b0ad-3bcc16dc9d6f",
-      "url:https://jobs.ashbyhq.com/gen-digital/0818d1f1-e3c0-4a8a-afb8-72dd1265a13d/application"
+      "url:https://jobs.ashbyhq.com/gen-digital/0818d1f1-e3c0-4a8a-afb8-72dd1265a13d/application",
+      "simplify-be01ab40-de24-4098-a05f-5e2fd741d92f",
+      "url:https://job-boards.greenhouse.io/aircapture/jobs/4687916006",
+      "simplify-c9806a4c-cba2-46f3-82e7-06146c2bd5de",
+      "url:https://job-boards.greenhouse.io/eulerity/jobs/4691224006"
     ],
     "pm-jobs": [
       "greenhouse-brex-8438582002",
@@ -9748,7 +9832,23 @@
       "simplify-902db6d9-7c81-4410-82c0-aec596f39447",
       "url:https://apply.careers.microsoft.com/careers/job/1970393556899565",
       "simplify-28e12529-8553-4a5b-9f21-70046c96fd07",
-      "url:https://jobs.ashbyhq.com/beaconai/54e0937b-bcb8-41dd-9e3f-287b29a64c11/application"
+      "url:https://jobs.ashbyhq.com/beaconai/54e0937b-bcb8-41dd-9e3f-287b29a64c11/application",
+      "simplify-423da967-d87f-4eb2-878e-67789a6b375b",
+      "url:https://boards.greenhouse.io/spacex/jobs/8603667002",
+      "simplify-bde6d294-a936-400d-8dea-d3870ed1da28",
+      "url:https://amazon.jobs/en/jobs/10438055/software-engineer-i-compiler-annapurna-labs",
+      "simplify-903aa634-4b1b-47f8-825d-15ac4c99ba27",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011362",
+      "simplify-686dae74-ec7b-482e-8711-419f7570940d",
+      "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kent-WA/Software-Engineer---Developer--Associate-and-Experienced-_JR2026515118-2",
+      "simplify-3859ee3a-9bd7-4c36-98c9-4e3c8984ced5",
+      "url:https://careers.dat.com/jobs/6099144004",
+      "simplify-25768372-33ac-4aaa-8269-c3b15e2272a8",
+      "url:https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineer_JR002634",
+      "greenhouse-reddit-8022942",
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8022942",
+      "greenhouse-reddit-8022937",
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8022937"
     ]
   }
 }
