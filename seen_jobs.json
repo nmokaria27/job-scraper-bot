@@ -8207,10 +8207,50 @@
     {
       "id": "url:https://job-boards.greenhouse.io/vercel/jobs/5798416004",
       "seen_at": "2026-06-24T18:03:39.545317+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5278065008",
+      "seen_at": "2026-06-24T21:39:45.840001+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5278065008",
+      "seen_at": "2026-06-24T21:39:45.840163+00:00"
+    },
+    {
+      "id": "greenhouse-brex-8606885002",
+      "seen_at": "2026-06-24T21:39:45.840289+00:00"
+    },
+    {
+      "id": "url:https://www.brex.com/careers/8606885002",
+      "seen_at": "2026-06-24T21:39:45.840402+00:00"
+    },
+    {
+      "id": "greenhouse-brex-8606890002",
+      "seen_at": "2026-06-24T21:39:45.840512+00:00"
+    },
+    {
+      "id": "url:https://www.brex.com/careers/8606890002",
+      "seen_at": "2026-06-24T21:39:45.840655+00:00"
+    },
+    {
+      "id": "greenhouse-brex-8606845002",
+      "seen_at": "2026-06-24T21:39:45.840763+00:00"
+    },
+    {
+      "id": "url:https://www.brex.com/careers/8606845002",
+      "seen_at": "2026-06-24T21:39:45.840856+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-5993726004",
+      "seen_at": "2026-06-24T21:39:45.840959+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/5993726004",
+      "seen_at": "2026-06-24T21:39:45.841049+00:00"
     }
   ],
-  "last_run": "2026-06-24T20:00:33.481994+00:00",
-  "total_notified": 1001,
+  "last_run": "2026-06-24T21:39:46.078218+00:00",
+  "total_notified": 1006,
   "channels": {
     "swe-jobs": [
       "simplify-e2e3917f-309a-4c40-9db2-2b8beedf29be",
@@ -10280,7 +10320,17 @@
       "greenhouse-vercel-5993753004",
       "url:https://job-boards.greenhouse.io/vercel/jobs/5993753004",
       "greenhouse-vercel-5798416004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/5798416004"
+      "url:https://job-boards.greenhouse.io/vercel/jobs/5798416004",
+      "greenhouse-anthropic-5278065008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5278065008",
+      "greenhouse-brex-8606885002",
+      "url:https://www.brex.com/careers/8606885002",
+      "greenhouse-brex-8606890002",
+      "url:https://www.brex.com/careers/8606890002",
+      "greenhouse-brex-8606845002",
+      "url:https://www.brex.com/careers/8606845002",
+      "greenhouse-vercel-5993726004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/5993726004"
     ]
   }
 }
