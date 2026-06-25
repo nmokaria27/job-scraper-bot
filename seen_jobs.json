@@ -8247,10 +8247,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/vercel/jobs/5993726004",
       "seen_at": "2026-06-24T21:39:45.841049+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-6093255004",
+      "seen_at": "2026-06-25T00:19:31.961659+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6093255004",
+      "seen_at": "2026-06-25T00:19:31.961815+00:00"
+    },
+    {
+      "id": "ashby-openai-b9a4a809-a965-4dbe-aeef-6ce1593903dd",
+      "seen_at": "2026-06-25T00:19:31.961949+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/b9a4a809-a965-4dbe-aeef-6ce1593903dd",
+      "seen_at": "2026-06-25T00:19:31.962068+00:00"
     }
   ],
-  "last_run": "2026-06-24T22:55:04.570417+00:00",
-  "total_notified": 1006,
+  "last_run": "2026-06-25T00:19:32.143942+00:00",
+  "total_notified": 1008,
   "channels": {
     "swe-jobs": [
       "simplify-e2e3917f-309a-4c40-9db2-2b8beedf29be",
@@ -10330,7 +10346,11 @@
       "greenhouse-brex-8606845002",
       "url:https://www.brex.com/careers/8606845002",
       "greenhouse-vercel-5993726004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/5993726004"
+      "url:https://job-boards.greenhouse.io/vercel/jobs/5993726004",
+      "greenhouse-vercel-6093255004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6093255004",
+      "ashby-openai-b9a4a809-a965-4dbe-aeef-6ce1593903dd",
+      "url:https://jobs.ashbyhq.com/openai/b9a4a809-a965-4dbe-aeef-6ce1593903dd"
     ]
   }
 }
