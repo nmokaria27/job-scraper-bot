@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5127559008",
-      "seen_at": "2026-05-26T17:46:25.574777+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5127559008",
-      "seen_at": "2026-05-26T17:46:25.574873+00:00"
-    },
-    {
-      "id": "greenhouse-robinhood-7947548",
-      "seen_at": "2026-05-26T17:46:25.574954+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/robinhood/jobs/7947548",
-      "seen_at": "2026-05-26T17:46:25.575070+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8318645002",
-      "seen_at": "2026-05-26T17:46:25.575149+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8318645002",
-      "seen_at": "2026-05-26T17:46:25.575228+00:00"
-    },
-    {
       "id": "greenhouse-deepmind-7473344",
       "seen_at": "2026-05-26T19:47:59.706025+00:00"
     },
@@ -8271,10 +8247,42 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5212119008",
       "seen_at": "2026-06-25T08:14:51.901268+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5552549004",
+      "seen_at": "2026-06-25T18:22:43.366343+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5552549004",
+      "seen_at": "2026-06-25T18:22:43.366595+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5161402008",
+      "seen_at": "2026-06-25T18:22:43.366801+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
+      "seen_at": "2026-06-25T18:22:43.366963+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5232055008",
+      "seen_at": "2026-06-25T18:22:43.367133+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5232055008",
+      "seen_at": "2026-06-25T18:22:43.367288+00:00"
+    },
+    {
+      "id": "ashby-openai-66288824-8b77-4774-bc57-6825d3e6221e",
+      "seen_at": "2026-06-25T18:22:43.367452+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/66288824-8b77-4774-bc57-6825d3e6221e",
+      "seen_at": "2026-06-25T18:22:43.367687+00:00"
     }
   ],
-  "last_run": "2026-06-25T16:04:47.432633+00:00",
-  "total_notified": 1012,
+  "last_run": "2026-06-25T18:22:43.591475+00:00",
+  "total_notified": 1016,
   "channels": {
     "swe-jobs": [
       "simplify-e2e3917f-309a-4c40-9db2-2b8beedf29be",
@@ -8807,12 +8815,6 @@
       "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Security-Engineering-Intern_JR0285140"
     ],
     "pm-jobs": [
-      "greenhouse-anthropic-5127559008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5127559008",
-      "greenhouse-robinhood-7947548",
-      "url:https://boards.greenhouse.io/robinhood/jobs/7947548",
-      "greenhouse-lyft-8318645002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8318645002",
       "greenhouse-deepmind-7473344",
       "url:https://job-boards.greenhouse.io/deepmind/jobs/7473344",
       "greenhouse-deepmind-7477606",
@@ -10360,7 +10362,15 @@
       "simplify-b04e012a-fae8-459e-99d0-b1378ab36891",
       "url:https://corningjobs.corning.com/job/Corning-Software-Engineer-(CMMS-Systems)-NY-14831/1403127800",
       "greenhouse-anthropic-5212119008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5212119008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5212119008",
+      "greenhouse-figma-5552549004",
+      "url:https://boards.greenhouse.io/figma/jobs/5552549004",
+      "greenhouse-anthropic-5161402008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
+      "greenhouse-anthropic-5232055008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5232055008",
+      "ashby-openai-66288824-8b77-4774-bc57-6825d3e6221e",
+      "url:https://jobs.ashbyhq.com/openai/66288824-8b77-4774-bc57-6825d3e6221e"
     ]
   }
 }
