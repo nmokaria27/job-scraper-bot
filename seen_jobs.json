@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-99160221-1059-4cc4-9a0e-6b72009c21e5",
-      "seen_at": "2026-05-27T10:43:14.949341+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9",
-      "seen_at": "2026-05-27T10:43:14.949433+00:00"
-    },
-    {
       "id": "simplify-3f7801d5-c387-46a8-835e-83306d98ba89",
       "seen_at": "2026-05-27T14:17:36.423745+00:00"
     },
@@ -8289,12 +8281,10 @@
       "seen_at": "2026-06-26T06:18:19.934079+00:00"
     }
   ],
-  "last_run": "2026-06-26T09:54:16.066805+00:00",
+  "last_run": "2026-06-26T12:21:01.643581+00:00",
   "total_notified": 1022,
   "channels": {
     "swe-jobs": [
-      "simplify-99160221-1059-4cc4-9a0e-6b72009c21e5",
-      "url:https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9",
       "simplify-3f7801d5-c387-46a8-835e-83306d98ba89",
       "url:https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6315",
       "simplify-6497d161-1772-44e7-8d01-703be23a72f1",
