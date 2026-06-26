@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-3f7801d5-c387-46a8-835e-83306d98ba89",
-      "seen_at": "2026-05-27T14:17:36.423745+00:00"
-    },
-    {
-      "id": "url:https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6315",
-      "seen_at": "2026-05-27T14:17:36.423833+00:00"
-    },
-    {
-      "id": "simplify-6497d161-1772-44e7-8d01-703be23a72f1",
-      "seen_at": "2026-05-27T14:17:36.423892+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9/apply",
-      "seen_at": "2026-05-27T14:17:36.423940+00:00"
-    },
-    {
-      "id": "simplify-bcc400fa-c1ec-40ec-a4e9-6f22a0574f9c",
-      "seen_at": "2026-05-27T14:17:36.424001+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/iherb/jobs/7747518003",
-      "seen_at": "2026-05-27T14:17:36.424053+00:00"
-    },
-    {
-      "id": "simplify-997aafb0-a726-4bee-b1b1-a0f7f1674b90",
-      "seen_at": "2026-05-27T14:17:36.424104+00:00"
-    },
-    {
-      "id": "url:https://careers-gdms.icims.com/jobs/72777/job",
-      "seen_at": "2026-05-27T14:17:36.424151+00:00"
-    },
-    {
       "id": "simplify-de3ac110-de5d-4cf0-8ae0-c05d6927c542",
       "seen_at": "2026-05-27T17:35:40.158173+00:00"
     },
@@ -8279,20 +8247,20 @@
     {
       "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6102335004",
       "seen_at": "2026-06-26T06:18:19.934079+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-8029539",
+      "seen_at": "2026-06-26T15:06:20.717288+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/8029539",
+      "seen_at": "2026-06-26T15:06:20.717495+00:00"
     }
   ],
-  "last_run": "2026-06-26T12:21:01.643581+00:00",
-  "total_notified": 1022,
+  "last_run": "2026-06-26T15:06:21.295375+00:00",
+  "total_notified": 1023,
   "channels": {
     "swe-jobs": [
-      "simplify-3f7801d5-c387-46a8-835e-83306d98ba89",
-      "url:https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6315",
-      "simplify-6497d161-1772-44e7-8d01-703be23a72f1",
-      "url:https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9/apply",
-      "simplify-bcc400fa-c1ec-40ec-a4e9-6f22a0574f9c",
-      "url:https://job-boards.greenhouse.io/iherb/jobs/7747518003",
-      "simplify-997aafb0-a726-4bee-b1b1-a0f7f1674b90",
-      "url:https://careers-gdms.icims.com/jobs/72777/job",
       "simplify-de3ac110-de5d-4cf0-8ae0-c05d6927c542",
       "url:https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
       "simplify-87bf913a-f01f-4edf-b21e-df5528825207",
@@ -8940,7 +8908,9 @@
       "simplify-cd64a5ea-e39f-46da-9968-2118ff190093",
       "url:https://www.tesla.com/careers/search/job/274754",
       "greenhouse-anthropic-5281348008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5281348008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5281348008",
+      "greenhouse-datadog-8029539",
+      "url:https://careers.datadoghq.com/detail/8029539"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
