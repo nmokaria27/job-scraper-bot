@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-e2e3917f-309a-4c40-9db2-2b8beedf29be",
-      "seen_at": "2026-05-27T01:56:12.318555+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application",
-      "seen_at": "2026-05-27T01:56:12.318662+00:00"
-    },
-    {
-      "id": "simplify-7d1cf43e-e1f6-4c90-8aff-9370057da6ba",
-      "seen_at": "2026-05-27T01:56:12.318756+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application",
-      "seen_at": "2026-05-27T01:56:12.318837+00:00"
-    },
-    {
-      "id": "simplify-17609982-0cbe-4cf6-8a18-8077220833cd",
-      "seen_at": "2026-05-27T01:56:12.318916+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply",
-      "seen_at": "2026-05-27T01:56:12.318982+00:00"
-    },
-    {
       "id": "simplify-99160221-1059-4cc4-9a0e-6b72009c21e5",
       "seen_at": "2026-05-27T10:43:14.949341+00:00"
     },
@@ -8287,18 +8263,36 @@
     {
       "id": "url:https://boards.greenhouse.io/figma/jobs/6100023004",
       "seen_at": "2026-06-26T01:54:08.657971+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5281348008",
+      "seen_at": "2026-06-26T06:18:18.003092+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5281348008",
+      "seen_at": "2026-06-26T06:18:18.003234+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-6102343004",
+      "seen_at": "2026-06-26T06:18:19.933625+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6102343004",
+      "seen_at": "2026-06-26T06:18:19.933786+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-6102335004",
+      "seen_at": "2026-06-26T06:18:19.933912+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6102335004",
+      "seen_at": "2026-06-26T06:18:19.934079+00:00"
     }
   ],
-  "last_run": "2026-06-26T01:54:08.841018+00:00",
-  "total_notified": 1019,
+  "last_run": "2026-06-26T06:18:20.080016+00:00",
+  "total_notified": 1022,
   "channels": {
     "swe-jobs": [
-      "simplify-e2e3917f-309a-4c40-9db2-2b8beedf29be",
-      "url:https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application",
-      "simplify-7d1cf43e-e1f6-4c90-8aff-9370057da6ba",
-      "url:https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application",
-      "simplify-17609982-0cbe-4cf6-8a18-8077220833cd",
-      "url:https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply",
       "simplify-99160221-1059-4cc4-9a0e-6b72009c21e5",
       "url:https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9",
       "simplify-3f7801d5-c387-46a8-835e-83306d98ba89",
@@ -8954,7 +8948,9 @@
       "greenhouse-datadog-8024863",
       "url:https://careers.datadoghq.com/detail/8024863",
       "simplify-cd64a5ea-e39f-46da-9968-2118ff190093",
-      "url:https://www.tesla.com/careers/search/job/274754"
+      "url:https://www.tesla.com/careers/search/job/274754",
+      "greenhouse-anthropic-5281348008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5281348008"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
@@ -10380,7 +10376,11 @@
       "simplify-e2d23a33-2859-4e62-a5a1-9d2672ebeb4e",
       "url:https://job-boards.greenhouse.io/fourhands/jobs/4297618009",
       "greenhouse-figma-6100023004",
-      "url:https://boards.greenhouse.io/figma/jobs/6100023004"
+      "url:https://boards.greenhouse.io/figma/jobs/6100023004",
+      "greenhouse-vercel-6102343004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6102343004",
+      "greenhouse-vercel-6102335004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6102335004"
     ]
   }
 }
