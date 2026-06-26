@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-de3ac110-de5d-4cf0-8ae0-c05d6927c542",
-      "seen_at": "2026-05-27T17:35:40.158173+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
-      "seen_at": "2026-05-27T17:35:40.158277+00:00"
-    },
-    {
-      "id": "simplify-87bf913a-f01f-4edf-b21e-df5528825207",
-      "seen_at": "2026-05-27T17:35:40.158372+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/plus-2/5f066e92-3ca3-4c04-ae21-2377352166ca/apply",
-      "seen_at": "2026-05-27T17:35:40.158449+00:00"
-    },
-    {
-      "id": "simplify-5b72a700-e240-44d1-8863-0df4db7d081c",
-      "seen_at": "2026-05-27T17:35:40.158529+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4624887005",
-      "seen_at": "2026-05-27T17:35:40.158608+00:00"
-    },
-    {
-      "id": "simplify-ab74af51-6022-416b-9855-9e69b11a8dcd",
-      "seen_at": "2026-05-27T17:35:40.158691+00:00"
-    },
-    {
-      "id": "url:https://fullsteam.wd1.myworkdayjobs.com/external/job/Remote---US/Applications-Developer---Summer-Internship_JR102154",
-      "seen_at": "2026-05-27T17:35:40.158772+00:00"
-    },
-    {
-      "id": "simplify-984f43ea-bc04-4b8f-840e-b25f5dadf879",
-      "seen_at": "2026-05-27T17:35:40.158855+00:00"
-    },
-    {
-      "id": "url:https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Generative-AI-Engineer-Virtual-Internship_JR-260417-1",
-      "seen_at": "2026-05-27T17:35:40.158934+00:00"
-    },
-    {
-      "id": "ashby-openai-713a9469-fb35-49db-809e-36f67c920880",
-      "seen_at": "2026-05-27T17:35:42.073650+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/713a9469-fb35-49db-809e-36f67c920880",
-      "seen_at": "2026-05-27T17:35:42.073749+00:00"
-    },
-    {
-      "id": "ashby-openai-3b38affc-b034-40f9-89c9-8e963c5e6838",
-      "seen_at": "2026-05-27T17:35:42.073838+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/3b38affc-b034-40f9-89c9-8e963c5e6838",
-      "seen_at": "2026-05-27T17:35:42.073913+00:00"
-    },
-    {
       "id": "greenhouse-lyft-8513755002",
       "seen_at": "2026-05-27T21:29:34.253194+00:00"
     },
@@ -8279,22 +8223,20 @@
     {
       "id": "url:https://job-boards.greenhouse.io/discord/jobs/8609250002",
       "seen_at": "2026-06-26T17:05:35.840854+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5074217008",
+      "seen_at": "2026-06-26T18:59:49.851365+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
+      "seen_at": "2026-06-26T18:59:49.851495+00:00"
     }
   ],
-  "last_run": "2026-06-26T17:05:36.107578+00:00",
-  "total_notified": 1026,
+  "last_run": "2026-06-26T18:59:50.062073+00:00",
+  "total_notified": 1027,
   "channels": {
     "swe-jobs": [
-      "simplify-de3ac110-de5d-4cf0-8ae0-c05d6927c542",
-      "url:https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
-      "simplify-87bf913a-f01f-4edf-b21e-df5528825207",
-      "url:https://jobs.lever.co/plus-2/5f066e92-3ca3-4c04-ae21-2377352166ca/apply",
-      "simplify-5b72a700-e240-44d1-8863-0df4db7d081c",
-      "url:https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4624887005",
-      "simplify-ab74af51-6022-416b-9855-9e69b11a8dcd",
-      "url:https://fullsteam.wd1.myworkdayjobs.com/external/job/Remote---US/Applications-Developer---Summer-Internship_JR102154",
-      "simplify-984f43ea-bc04-4b8f-840e-b25f5dadf879",
-      "url:https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Generative-AI-Engineer-Virtual-Internship_JR-260417-1",
       "simplify-31aee851-035f-43d1-a1da-2bdd2f2763b3",
       "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109217",
       "simplify-6fc10a51-85a5-4785-82a0-5a3b41d7eaf4",
@@ -8801,10 +8743,6 @@
       "url:https://external-telecom-teldta.icims.com/jobs/29561/job"
     ],
     "pm-jobs": [
-      "ashby-openai-713a9469-fb35-49db-809e-36f67c920880",
-      "url:https://jobs.ashbyhq.com/openai/713a9469-fb35-49db-809e-36f67c920880",
-      "ashby-openai-3b38affc-b034-40f9-89c9-8e963c5e6838",
-      "url:https://jobs.ashbyhq.com/openai/3b38affc-b034-40f9-89c9-8e963c5e6838",
       "greenhouse-lyft-8513755002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8513755002",
       "greenhouse-lyft-8525086002",
@@ -10370,7 +10308,9 @@
       "greenhouse-figma-6102379004",
       "url:https://boards.greenhouse.io/figma/jobs/6102379004",
       "greenhouse-discord-8609250002",
-      "url:https://job-boards.greenhouse.io/discord/jobs/8609250002"
+      "url:https://job-boards.greenhouse.io/discord/jobs/8609250002",
+      "greenhouse-anthropic-5074217008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5074217008"
     ]
   }
 }
