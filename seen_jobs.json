@@ -8255,10 +8255,34 @@
     {
       "id": "url:https://careers.datadoghq.com/detail/8029539",
       "seen_at": "2026-06-26T15:06:20.717495+00:00"
+    },
+    {
+      "id": "simplify-72197bee-e9b3-4978-88cd-1cc51ba6254c",
+      "seen_at": "2026-06-26T17:05:33.612119+00:00"
+    },
+    {
+      "id": "url:https://external-telecom-teldta.icims.com/jobs/29561/job",
+      "seen_at": "2026-06-26T17:05:33.612298+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6102379004",
+      "seen_at": "2026-06-26T17:05:35.840458+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6102379004",
+      "seen_at": "2026-06-26T17:05:35.840615+00:00"
+    },
+    {
+      "id": "greenhouse-discord-8609250002",
+      "seen_at": "2026-06-26T17:05:35.840748+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8609250002",
+      "seen_at": "2026-06-26T17:05:35.840854+00:00"
     }
   ],
-  "last_run": "2026-06-26T15:06:21.295375+00:00",
-  "total_notified": 1023,
+  "last_run": "2026-06-26T17:05:36.107578+00:00",
+  "total_notified": 1026,
   "channels": {
     "swe-jobs": [
       "simplify-de3ac110-de5d-4cf0-8ae0-c05d6927c542",
@@ -8772,7 +8796,9 @@
       "simplify-cd64a5ea-e39f-46da-9968-2118ff190093",
       "url:https://www.tesla.com/careers/search/job/274754",
       "simplify-41be6cad-061e-4d13-8aa3-501ff1c0c702",
-      "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Security-Engineering-Intern_JR0285140"
+      "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Security-Engineering-Intern_JR0285140",
+      "simplify-72197bee-e9b3-4978-88cd-1cc51ba6254c",
+      "url:https://external-telecom-teldta.icims.com/jobs/29561/job"
     ],
     "pm-jobs": [
       "ashby-openai-713a9469-fb35-49db-809e-36f67c920880",
@@ -10340,7 +10366,11 @@
       "greenhouse-vercel-6102343004",
       "url:https://job-boards.greenhouse.io/vercel/jobs/6102343004",
       "greenhouse-vercel-6102335004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6102335004"
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6102335004",
+      "greenhouse-figma-6102379004",
+      "url:https://boards.greenhouse.io/figma/jobs/6102379004",
+      "greenhouse-discord-8609250002",
+      "url:https://job-boards.greenhouse.io/discord/jobs/8609250002"
     ]
   }
 }
