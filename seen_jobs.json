@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-49d81568-21dd-488c-a3c0-79022d65e1d7",
-      "seen_at": "2026-05-28T00:08:24.590720+00:00"
-    },
-    {
-      "id": "url:https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0092762-1",
-      "seen_at": "2026-05-28T00:08:24.590878+00:00"
-    },
-    {
-      "id": "simplify-637280e4-25ea-4b3e-acfc-e971aca99862",
-      "seen_at": "2026-05-28T00:08:24.590972+00:00"
-    },
-    {
-      "id": "url:https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0092762",
-      "seen_at": "2026-05-28T00:08:24.591037+00:00"
-    },
-    {
-      "id": "simplify-8e310c90-a96b-4c89-87e2-21f6edcf3b89",
-      "seen_at": "2026-05-28T00:08:24.591104+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002",
-      "seen_at": "2026-05-28T00:08:24.591172+00:00"
-    },
-    {
-      "id": "simplify-16e95392-4925-49f3-8e5b-805e96b64ad6",
-      "seen_at": "2026-05-28T00:08:24.591237+00:00"
-    },
-    {
-      "id": "url:https://careers-cotiviti.icims.com/jobs/18972/job",
-      "seen_at": "2026-05-28T00:08:24.591300+00:00"
-    },
-    {
       "id": "simplify-213cf83e-b4b0-4179-9a19-d3e6c3e4518b",
       "seen_at": "2026-05-28T08:35:12.517423+00:00"
     },
@@ -8177,18 +8145,10 @@
       "seen_at": "2026-06-26T21:57:11.059132+00:00"
     }
   ],
-  "last_run": "2026-06-26T23:17:23.160438+00:00",
+  "last_run": "2026-06-27T01:24:41.046339+00:00",
   "total_notified": 1029,
   "channels": {
     "swe-jobs": [
-      "simplify-49d81568-21dd-488c-a3c0-79022d65e1d7",
-      "url:https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0092762-1",
-      "simplify-637280e4-25ea-4b3e-acfc-e971aca99862",
-      "url:https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0092762",
-      "simplify-8e310c90-a96b-4c89-87e2-21f6edcf3b89",
-      "url:https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002",
-      "simplify-16e95392-4925-49f3-8e5b-805e96b64ad6",
-      "url:https://careers-cotiviti.icims.com/jobs/18972/job",
       "simplify-213cf83e-b4b0-4179-9a19-d3e6c3e4518b",
       "url:https://lifeattiktok.com/search/7534878965941766408",
       "simplify-96031560-54a5-445c-b11b-101739898997",
