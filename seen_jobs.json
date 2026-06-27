@@ -8135,10 +8135,26 @@
     {
       "id": "url:https://app.careerpuck.com/job-board/lyft/job/8525086002",
       "seen_at": "2026-06-26T21:57:11.059132+00:00"
+    },
+    {
+      "id": "simplify-86dca459-da2d-4783-b392-328d701e4737",
+      "seen_at": "2026-06-27T23:44:58.476687+00:00"
+    },
+    {
+      "id": "url:https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Packaging-Engineer_R263608",
+      "seen_at": "2026-06-27T23:44:58.476940+00:00"
+    },
+    {
+      "id": "simplify-05815051-0821-4191-949b-c618f3a8d36e",
+      "seen_at": "2026-06-27T23:44:58.477106+00:00"
+    },
+    {
+      "id": "url:https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352",
+      "seen_at": "2026-06-27T23:44:58.477226+00:00"
     }
   ],
-  "last_run": "2026-06-27T22:39:30.271395+00:00",
-  "total_notified": 1029,
+  "last_run": "2026-06-27T23:44:58.791479+00:00",
+  "total_notified": 1031,
   "channels": {
     "swe-jobs": [
       "simplify-96031560-54a5-445c-b11b-101739898997",
@@ -10190,7 +10206,11 @@
       "greenhouse-anthropic-5074217008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
       "greenhouse-reddit-8029120",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8029120"
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8029120",
+      "simplify-86dca459-da2d-4783-b392-328d701e4737",
+      "url:https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Packaging-Engineer_R263608",
+      "simplify-05815051-0821-4191-949b-c618f3a8d36e",
+      "url:https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352"
     ]
   }
 }
