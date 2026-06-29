@@ -8167,10 +8167,18 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/6db2af13-50b2-4fe0-a8df-874e2ba57f71",
       "seen_at": "2026-06-28T22:37:57.987289+00:00"
+    },
+    {
+      "id": "ashby-openai-fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
+      "seen_at": "2026-06-29T04:54:07.166358+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
+      "seen_at": "2026-06-29T04:54:07.166539+00:00"
     }
   ],
-  "last_run": "2026-06-28T23:52:29.296989+00:00",
-  "total_notified": 1034,
+  "last_run": "2026-06-29T04:54:07.365871+00:00",
+  "total_notified": 1035,
   "channels": {
     "swe-jobs": [
       "simplify-96031560-54a5-445c-b11b-101739898997",
@@ -10230,7 +10238,9 @@
       "greenhouse-airbnb-8031901",
       "url:https://careers.airbnb.com/positions/8031901",
       "greenhouse-airbnb-8031907",
-      "url:https://careers.airbnb.com/positions/8031907"
+      "url:https://careers.airbnb.com/positions/8031907",
+      "ashby-openai-fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
+      "url:https://jobs.ashbyhq.com/openai/fcb0ed1a-9329-4e8f-8aab-92bb626d8141"
     ]
   }
 }
