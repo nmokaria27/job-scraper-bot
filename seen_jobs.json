@@ -8223,10 +8223,50 @@
     {
       "id": "url:https://app.careerpuck.com/job-board/lyft/job/8378473002",
       "seen_at": "2026-06-29T17:13:34.237078+00:00"
+    },
+    {
+      "id": "simplify-e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
+      "seen_at": "2026-06-29T23:18:35.434338+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply",
+      "seen_at": "2026-06-29T23:18:35.434587+00:00"
+    },
+    {
+      "id": "simplify-d0302d05-c84f-4a36-a91e-cc293f08604e",
+      "seen_at": "2026-06-29T23:18:35.434748+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply",
+      "seen_at": "2026-06-29T23:18:35.434878+00:00"
+    },
+    {
+      "id": "simplify-4b0a0a22-ba97-43e6-b131-336344fb7fe6",
+      "seen_at": "2026-06-29T23:18:35.435002+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply",
+      "seen_at": "2026-06-29T23:18:35.435102+00:00"
+    },
+    {
+      "id": "simplify-4a30dd71-73a0-48c8-9e4a-9422a6952920",
+      "seen_at": "2026-06-29T23:18:35.435204+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply",
+      "seen_at": "2026-06-29T23:18:35.435319+00:00"
+    },
+    {
+      "id": "simplify-0f0aeb67-6d9f-4204-85d7-29cb04386943",
+      "seen_at": "2026-06-29T23:18:35.435477+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply",
+      "seen_at": "2026-06-29T23:18:35.435586+00:00"
     }
   ],
-  "last_run": "2026-06-29T22:16:14.653645+00:00",
-  "total_notified": 1041,
+  "last_run": "2026-06-29T23:18:36.517656+00:00",
+  "total_notified": 1046,
   "channels": {
     "swe-jobs": [
       "simplify-96031560-54a5-445c-b11b-101739898997",
@@ -8710,7 +8750,17 @@
       "simplify-41be6cad-061e-4d13-8aa3-501ff1c0c702",
       "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Security-Engineering-Intern_JR0285140",
       "simplify-72197bee-e9b3-4978-88cd-1cc51ba6254c",
-      "url:https://external-telecom-teldta.icims.com/jobs/29561/job"
+      "url:https://external-telecom-teldta.icims.com/jobs/29561/job",
+      "simplify-e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
+      "url:https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply",
+      "simplify-d0302d05-c84f-4a36-a91e-cc293f08604e",
+      "url:https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply",
+      "simplify-4b0a0a22-ba97-43e6-b131-336344fb7fe6",
+      "url:https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply",
+      "simplify-4a30dd71-73a0-48c8-9e4a-9422a6952920",
+      "url:https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply",
+      "simplify-0f0aeb67-6d9f-4204-85d7-29cb04386943",
+      "url:https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply"
     ],
     "pm-jobs": [
       "greenhouse-anthropic-4985920008",
