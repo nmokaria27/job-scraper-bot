@@ -8279,10 +8279,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
       "seen_at": "2026-06-30T08:48:16.487284+00:00"
+    },
+    {
+      "id": "simplify-64f8ea93-94b9-49f5-8369-66579fc43d6d",
+      "seen_at": "2026-06-30T16:09:07.620603+00:00"
+    },
+    {
+      "id": "url:https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Research-Software-Engineer_R0003515",
+      "seen_at": "2026-06-30T16:09:07.620833+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5691886004",
+      "seen_at": "2026-06-30T16:09:07.621107+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5691886004",
+      "seen_at": "2026-06-30T16:09:07.621258+00:00"
     }
   ],
-  "last_run": "2026-06-30T13:27:22.072099+00:00",
-  "total_notified": 1048,
+  "last_run": "2026-06-30T16:09:07.834978+00:00",
+  "total_notified": 1050,
   "channels": {
     "swe-jobs": [
       "simplify-96031560-54a5-445c-b11b-101739898997",
@@ -10370,7 +10386,11 @@
       "greenhouse-airbnb-8037090",
       "url:https://careers.airbnb.com/positions/8037090",
       "greenhouse-anthropic-4631822008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4631822008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
+      "simplify-64f8ea93-94b9-49f5-8369-66579fc43d6d",
+      "url:https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Research-Software-Engineer_R0003515",
+      "greenhouse-figma-5691886004",
+      "url:https://boards.greenhouse.io/figma/jobs/5691886004"
     ]
   }
 }
