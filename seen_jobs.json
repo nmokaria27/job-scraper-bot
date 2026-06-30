@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-4985920008",
-      "seen_at": "2026-05-31T18:55:28.466788+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4985920008",
-      "seen_at": "2026-05-31T18:55:28.466884+00:00"
-    },
-    {
       "id": "simplify-96031560-54a5-445c-b11b-101739898997",
       "seen_at": "2026-06-01T13:02:23.415446+00:00"
     },
@@ -8305,7 +8297,7 @@
       "seen_at": "2026-06-30T18:16:36.020576+00:00"
     }
   ],
-  "last_run": "2026-06-30T18:16:36.522691+00:00",
+  "last_run": "2026-06-30T20:22:25.170734+00:00",
   "total_notified": 1051,
   "channels": {
     "swe-jobs": [
@@ -8803,8 +8795,6 @@
       "url:https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply"
     ],
     "pm-jobs": [
-      "greenhouse-anthropic-4985920008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4985920008",
       "simplify-8ac2c3f5-df11-41a2-b913-a9a5fdbe8d91",
       "url:https://www.google.com/about/careers/applications/jobs/results/115425717126079174",
       "greenhouse-figma-6009613004",
