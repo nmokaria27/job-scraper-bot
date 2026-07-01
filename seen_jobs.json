@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-f3d0a523-fe15-4f0c-b0ee-4d5fa152f74c",
-      "seen_at": "2026-06-01T18:45:35.718234+00:00"
-    },
-    {
-      "id": "url:https://careers-walterpmoore.icims.com/jobs/4125/job",
-      "seen_at": "2026-06-01T18:45:35.718332+00:00"
-    },
-    {
       "id": "simplify-9389e9ee-1fbf-425b-925b-9567f6113a1a",
       "seen_at": "2026-06-01T23:41:33.042195+00:00"
     },
@@ -8555,14 +8547,20 @@
     {
       "id": "url:https://careers.datadoghq.com/detail/8041817",
       "seen_at": "2026-07-01T17:24:27.547246+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5196852008",
+      "seen_at": "2026-07-01T19:20:22.349288+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5196852008",
+      "seen_at": "2026-07-01T19:20:22.349565+00:00"
     }
   ],
-  "last_run": "2026-07-01T17:24:27.749033+00:00",
-  "total_notified": 1085,
+  "last_run": "2026-07-01T19:20:22.904693+00:00",
+  "total_notified": 1086,
   "channels": {
     "swe-jobs": [
-      "simplify-f3d0a523-fe15-4f0c-b0ee-4d5fa152f74c",
-      "url:https://careers-walterpmoore.icims.com/jobs/4125/job",
       "simplify-9389e9ee-1fbf-425b-925b-9567f6113a1a",
       "url:https://careers-cotiviti.icims.com/jobs/19214/job",
       "simplify-2bad674c-1b9e-4e5a-a4c5-0f65e92902b3",
@@ -10716,7 +10714,9 @@
       "simplify-382edd59-362c-4067-97e0-f333684dab49",
       "url:https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply",
       "greenhouse-datadog-8041817",
-      "url:https://careers.datadoghq.com/detail/8041817"
+      "url:https://careers.datadoghq.com/detail/8041817",
+      "greenhouse-anthropic-5196852008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5196852008"
     ]
   }
 }
