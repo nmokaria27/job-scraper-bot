@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-96031560-54a5-445c-b11b-101739898997",
-      "seen_at": "2026-06-01T13:02:23.415446+00:00"
-    },
-    {
-      "id": "url:https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Entry-Level-Developer---Simulation-Platform--Galileo-_JR-202611523",
-      "seen_at": "2026-06-01T13:02:23.415526+00:00"
-    },
-    {
       "id": "simplify-f3d0a523-fe15-4f0c-b0ee-4d5fa152f74c",
       "seen_at": "2026-06-01T18:45:35.718234+00:00"
     },
@@ -8511,14 +8503,52 @@
     {
       "id": "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/IGS-Calibration-Engineer_R4041210-2",
       "seen_at": "2026-07-01T12:14:41.837709+00:00"
+    },
+    {
+      "id": "greenhouse-lyft-8513755002",
+      "seen_at": "2026-07-01T15:14:32.107732+00:00"
+    },
+    {
+      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8513755002",
+      "seen_at": "2026-07-01T15:14:32.107963+00:00"
+    },
+    {
+      "id": "simplify-12634088-9777-452c-9095-9f2de268d1e0",
+      "seen_at": "2026-07-01T15:14:35.568557+00:00"
+    },
+    {
+      "id": "url:https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
+      "seen_at": "2026-07-01T15:14:35.568716+00:00"
+    },
+    {
+      "id": "simplify-36095008-d7d6-4ca4-bace-6267f6eb508a",
+      "seen_at": "2026-07-01T15:14:35.568912+00:00"
+    },
+    {
+      "id": "url:https://uscareers-fujifilm.icims.com/jobs/36847/job",
+      "seen_at": "2026-07-01T15:14:35.569056+00:00"
+    },
+    {
+      "id": "simplify-023f132e-d4bf-40d6-aabe-03314f3d4caf",
+      "seen_at": "2026-07-01T15:14:35.569194+00:00"
+    },
+    {
+      "id": "url:https://www.optimumcareers.com/job/Plano-Software-Dev-Engineer-I-TX-75024/1404515000",
+      "seen_at": "2026-07-01T15:14:35.569314+00:00"
+    },
+    {
+      "id": "simplify-382edd59-362c-4067-97e0-f333684dab49",
+      "seen_at": "2026-07-01T15:14:35.569443+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply",
+      "seen_at": "2026-07-01T15:14:35.569569+00:00"
     }
   ],
-  "last_run": "2026-07-01T12:14:42.040641+00:00",
-  "total_notified": 1078,
+  "last_run": "2026-07-01T15:14:35.778605+00:00",
+  "total_notified": 1083,
   "channels": {
     "swe-jobs": [
-      "simplify-96031560-54a5-445c-b11b-101739898997",
-      "url:https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Entry-Level-Developer---Simulation-Platform--Galileo-_JR-202611523",
       "simplify-f3d0a523-fe15-4f0c-b0ee-4d5fa152f74c",
       "url:https://careers-walterpmoore.icims.com/jobs/4125/job",
       "simplify-9389e9ee-1fbf-425b-925b-9567f6113a1a",
@@ -9160,7 +9190,9 @@
       "greenhouse-reddit-8026419",
       "url:https://job-boards.greenhouse.io/reddit/jobs/8026419",
       "simplify-66a35731-f0de-4113-bd66-4f2926eb673b",
-      "url:https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---Work-from-hom/Analyst--Digital-Product--Conversion-_R0766453"
+      "url:https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---Work-from-hom/Analyst--Digital-Product--Conversion-_R0766453",
+      "greenhouse-lyft-8513755002",
+      "url:https://app.careerpuck.com/job-board/lyft/job/8513755002"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
@@ -10660,7 +10692,15 @@
       "simplify-efc32a65-4a70-4386-892a-4d0c83f56292",
       "url:https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us",
       "simplify-c3f895b7-9c28-4e91-bf07-a2ce931f2efb",
-      "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/IGS-Calibration-Engineer_R4041210-2"
+      "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/IGS-Calibration-Engineer_R4041210-2",
+      "simplify-12634088-9777-452c-9095-9f2de268d1e0",
+      "url:https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
+      "simplify-36095008-d7d6-4ca4-bace-6267f6eb508a",
+      "url:https://uscareers-fujifilm.icims.com/jobs/36847/job",
+      "simplify-023f132e-d4bf-40d6-aabe-03314f3d4caf",
+      "url:https://www.optimumcareers.com/job/Plano-Software-Dev-Engineer-I-TX-75024/1404515000",
+      "simplify-382edd59-362c-4067-97e0-f333684dab49",
+      "url:https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply"
     ]
   }
 }
