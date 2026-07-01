@@ -1,6 +1,189 @@
 {
   "channels": {
-    "swe-ai-full-time": []
+    "swe-ai-full-time": [
+      {
+        "id": "simplify-00142abd-9aec-4fca-9c8d-b46f6fb762d2",
+        "seen_keys": [
+          "simplify-00142abd-9aec-4fca-9c8d-b46f6fb762d2",
+          "url:https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application"
+        ],
+        "title": "Software Engineer New Grad",
+        "company": "Confido",
+        "location": "NYC",
+        "url": "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:09:52+00:00",
+        "queued_at": "2026-07-01T23:53:18.409860+00:00"
+      },
+      {
+        "id": "simplify-dfdbfcc9-49ba-4974-9c15-ba6c0402ded3",
+        "seen_keys": [
+          "simplify-dfdbfcc9-49ba-4974-9c15-ba6c0402ded3",
+          "url:https://taylormadegolf.wd5.myworkdayjobs.com/taylormadegolf/job/Carlsbad-California/Engineer-Product-Development---Golf-Ball-Evaluation_R0003516"
+        ],
+        "title": "Engineer Product Development - Golf Ball Evaluation",
+        "company": "TaylorMade Golf",
+        "location": "Carlsbad, CA",
+        "url": "https://taylormadegolf.wd5.myworkdayjobs.com/taylormadegolf/job/Carlsbad-California/Engineer-Product-Development---Golf-Ball-Evaluation_R0003516",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:09:24+00:00",
+        "queued_at": "2026-07-01T23:53:18.409877+00:00"
+      },
+      {
+        "id": "simplify-cf7770e5-ec10-4a15-8aa1-952200b0cdb3",
+        "seen_keys": [
+          "simplify-cf7770e5-ec10-4a15-8aa1-952200b0cdb3",
+          "url:https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Embedded-Software-Engineer_JR-205125-1"
+        ],
+        "title": "Embedded Software Engineer",
+        "company": "Baxter International",
+        "location": "Auburn, NY",
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Embedded-Software-Engineer_JR-205125-1",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:09:04+00:00",
+        "queued_at": "2026-07-01T23:53:18.409890+00:00"
+      },
+      {
+        "id": "simplify-cb3cc844-e743-4ff9-b173-f83f0dd66831",
+        "seen_keys": [
+          "simplify-cb3cc844-e743-4ff9-b173-f83f0dd66831",
+          "url:https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10319691-2"
+        ],
+        "title": "Software Engineer",
+        "company": "Toyota",
+        "location": "Plano, TX",
+        "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10319691-2",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:07:34+00:00",
+        "queued_at": "2026-07-01T23:53:18.409905+00:00"
+      },
+      {
+        "id": "simplify-e2da8b69-0e6b-4858-ac8d-15de9997f663",
+        "seen_keys": [
+          "simplify-e2da8b69-0e6b-4858-ac8d-15de9997f663",
+          "url:https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineer-TX-76705/1404885000"
+        ],
+        "title": "Associate \u2013 Software Engineer",
+        "company": "L3Harris Technologies",
+        "location": "Waco, TX",
+        "url": "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineer-TX-76705/1404885000/?ats=successfactors",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:06:31+00:00",
+        "queued_at": "2026-07-01T23:53:18.409919+00:00"
+      },
+      {
+        "id": "simplify-527ce833-eac4-4436-833d-d95eb3ce73d0",
+        "seen_keys": [
+          "simplify-527ce833-eac4-4436-833d-d95eb3ce73d0",
+          "url:https://jobs.smartrecruiters.com/WesternDigital/744000135312480"
+        ],
+        "title": "Advanced HDD Technology Designs and Integration - Hardware/Firmware Engineer",
+        "company": "Western Digital",
+        "location": "Irvine, CA",
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000135312480",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:04:14+00:00",
+        "queued_at": "2026-07-01T23:53:18.409931+00:00"
+      },
+      {
+        "id": "simplify-1c8d5fb4-7d30-4fff-adcc-7926baadf184",
+        "seen_keys": [
+          "simplify-1c8d5fb4-7d30-4fff-adcc-7926baadf184",
+          "url:https://job-boards.eu.greenhouse.io/imc/jobs/4818790101"
+        ],
+        "title": "Graduate Software Engineer",
+        "company": "IMC Trading",
+        "location": "Chicago, IL",
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:28:41+00:00",
+        "queued_at": "2026-07-01T23:53:18.409942+00:00"
+      },
+      {
+        "id": "simplify-d15d5660-4610-47ec-a1ec-ef087f9dea4f",
+        "seen_keys": [
+          "simplify-d15d5660-4610-47ec-a1ec-ef087f9dea4f",
+          "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011539"
+        ],
+        "title": "Software Engineer",
+        "company": "Palo Alto Networks",
+        "location": "California",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011539",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:10:19+00:00",
+        "queued_at": "2026-07-01T23:53:18.409954+00:00"
+      },
+      {
+        "id": "simplify-c672badc-9657-46ee-bfdf-c31ec6e4308c",
+        "seen_keys": [
+          "simplify-c672badc-9657-46ee-bfdf-c31ec6e4308c",
+          "url:https://job-boards.eu.greenhouse.io/imc/jobs/4907416101"
+        ],
+        "title": "Graduate Machine Learning Researcher",
+        "company": "IMC Trading",
+        "location": "Chicago, IL",
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:28:40+00:00",
+        "queued_at": "2026-07-01T23:53:18.409965+00:00"
+      },
+      {
+        "id": "simplify-c0eb02da-813a-4aba-85ac-aaf2109ebb3f",
+        "seen_keys": [
+          "simplify-c0eb02da-813a-4aba-85ac-aaf2109ebb3f",
+          "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823805101"
+        ],
+        "title": "Graduate Hardware Engineer",
+        "company": "IMC Trading",
+        "location": "Chicago, IL",
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823805101",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:28:40+00:00",
+        "queued_at": "2026-07-01T23:53:18.409976+00:00"
+      },
+      {
+        "id": "simplify-a7ba3ae0-4e58-4273-a1ea-29ba664891d0",
+        "seen_keys": [
+          "simplify-a7ba3ae0-4e58-4273-a1ea-29ba664891d0",
+          "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Machine-Learning-Engineer_JR-010194"
+        ],
+        "title": "Machine Learning Engineer",
+        "company": "Palo Alto Networks",
+        "location": "California",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Machine-Learning-Engineer_JR-010194",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:10:20+00:00",
+        "queued_at": "2026-07-01T23:53:18.409988+00:00"
+      },
+      {
+        "id": "simplify-9565cf4f-99e7-4693-a5c0-4e0d6f8e10dc",
+        "seen_keys": [
+          "simplify-9565cf4f-99e7-4693-a5c0-4e0d6f8e10dc",
+          "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011519"
+        ],
+        "title": "Software Engineer",
+        "company": "Palo Alto Networks",
+        "location": "California",
+        "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011519",
+        "platform": "simplify",
+        "posted_at": "2026-07-01T22:10:20+00:00",
+        "queued_at": "2026-07-01T23:53:18.409998+00:00"
+      },
+      {
+        "id": "greenhouse-airbnb-7708224",
+        "seen_keys": [
+          "greenhouse-airbnb-7708224",
+          "url:https://careers.airbnb.com/positions/7708224"
+        ],
+        "title": "Machine Learning Engineer, Relevance and Personalization",
+        "company": "Airbnb",
+        "location": "United States",
+        "url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
+        "platform": "greenhouse",
+        "posted_at": "2026-07-01T19:34:46-04:00",
+        "queued_at": "2026-07-01T23:53:18.410014+00:00"
+      }
+    ]
   },
-  "last_run": "2026-07-01T22:24:05.307201+00:00"
+  "last_run": "2026-07-01T23:53:18.647429+00:00"
 }

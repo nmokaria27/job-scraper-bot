@@ -1,118 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-9389e9ee-1fbf-425b-925b-9567f6113a1a",
-      "seen_at": "2026-06-01T23:41:33.042195+00:00"
-    },
-    {
-      "id": "url:https://careers-cotiviti.icims.com/jobs/19214/job",
-      "seen_at": "2026-06-01T23:41:33.042293+00:00"
-    },
-    {
-      "id": "simplify-2bad674c-1b9e-4e5a-a4c5-0f65e92902b3",
-      "seen_at": "2026-06-01T23:41:33.042372+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/palantir/e24202f1-fccd-470f-b001-e24d901735a4/apply",
-      "seen_at": "2026-06-01T23:41:33.042444+00:00"
-    },
-    {
-      "id": "simplify-86288e49-34fb-4db7-af79-7b5fab0ef2d4",
-      "seen_at": "2026-06-01T23:41:33.042518+00:00"
-    },
-    {
-      "id": "url:https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Intern--Software-Engineering---Data-Marketplace_JR012200",
-      "seen_at": "2026-06-01T23:41:33.042596+00:00"
-    },
-    {
-      "id": "simplify-f1114015-94c6-453e-88a1-059149bc7fe9",
-      "seen_at": "2026-06-01T23:41:33.042680+00:00"
-    },
-    {
-      "id": "url:https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/AI-ML-Engineer-Intern--Data-Engineering_R0019781",
-      "seen_at": "2026-06-01T23:41:33.042802+00:00"
-    },
-    {
-      "id": "simplify-6035a116-fa7c-4969-927f-5eabbab741f3",
-      "seen_at": "2026-06-01T23:41:33.042890+00:00"
-    },
-    {
-      "id": "url:https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/AI-Automation-Engineer--Intern-_JR012159",
-      "seen_at": "2026-06-01T23:41:33.042961+00:00"
-    },
-    {
-      "id": "simplify-013934fd-e527-4543-b30c-ba4003cee756",
-      "seen_at": "2026-06-01T23:41:33.043039+00:00"
-    },
-    {
-      "id": "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data-AI-Intelligent-Systems-I--Intern----United-States_2001254",
-      "seen_at": "2026-06-01T23:41:33.043111+00:00"
-    },
-    {
-      "id": "simplify-c12ce9b6-76be-4fc6-b0fc-50a6576eb45b",
-      "seen_at": "2026-06-01T23:41:33.043184+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply",
-      "seen_at": "2026-06-01T23:41:33.043255+00:00"
-    },
-    {
-      "id": "simplify-4712fba9-8fa9-4fd3-af2a-7c4c13901e5c",
-      "seen_at": "2026-06-01T23:41:33.043328+00:00"
-    },
-    {
-      "id": "url:https://imerys.wd3.myworkdayjobs.com/imerys_career2/job/Niagara-Falls-New-York-USA/Intern_REQ-11539",
-      "seen_at": "2026-06-01T23:41:33.043416+00:00"
-    },
-    {
-      "id": "simplify-0bab2a94-a17d-486b-a2d4-bb3b96d76455",
-      "seen_at": "2026-06-01T23:41:33.043509+00:00"
-    },
-    {
-      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-Year-Round-Intern---BS-MS-degree--Santa-Clara--CA-_R2619446",
-      "seen_at": "2026-06-01T23:41:33.043594+00:00"
-    },
-    {
-      "id": "simplify-c81a74af-1f5b-4165-8236-aafa01145255",
-      "seen_at": "2026-06-01T23:41:33.043670+00:00"
-    },
-    {
-      "id": "url:https://imerys.wd3.myworkdayjobs.com/imerys_career2/job/Niagara-Falls-New-York-USA/Intern_REQ-11538",
-      "seen_at": "2026-06-01T23:41:33.043758+00:00"
-    },
-    {
-      "id": "simplify-85bb55de-6617-449c-8466-809bcfec537d",
-      "seen_at": "2026-06-01T23:41:33.043833+00:00"
-    },
-    {
-      "id": "url:https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031936",
-      "seen_at": "2026-06-01T23:41:33.043905+00:00"
-    },
-    {
-      "id": "simplify-251ae0a3-b247-4bba-b985-e7a42dda28cd",
-      "seen_at": "2026-06-01T23:41:33.043979+00:00"
-    },
-    {
-      "id": "url:https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Systems-Application-Engineer---Early-Career_2602267",
-      "seen_at": "2026-06-01T23:41:33.044051+00:00"
-    },
-    {
-      "id": "simplify-8ac2c3f5-df11-41a2-b913-a9a5fdbe8d91",
-      "seen_at": "2026-06-01T23:41:35.006613+00:00"
-    },
-    {
-      "id": "url:https://www.google.com/about/careers/applications/jobs/results/115425717126079174",
-      "seen_at": "2026-06-01T23:41:35.006812+00:00"
-    },
-    {
-      "id": "greenhouse-figma-6009613004",
-      "seen_at": "2026-06-01T23:41:35.006926+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/6009613004",
-      "seen_at": "2026-06-01T23:41:35.007016+00:00"
-    },
-    {
       "id": "simplify-e27dac85-f95f-4718-add6-3583a28c1975",
       "seen_at": "2026-06-02T02:05:10.460383+00:00"
     },
@@ -8563,36 +8451,492 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
       "seen_at": "2026-07-01T20:57:37.334732+00:00"
+    },
+    {
+      "id": "simplify-f49b4766-f352-4e81-9cb2-0f42fb9fd101",
+      "seen_at": "2026-07-01T23:52:59.260111+00:00"
+    },
+    {
+      "id": "url:https://www.optiver.com/join-us/jobs/8604760002",
+      "seen_at": "2026-07-01T23:52:59.260261+00:00"
+    },
+    {
+      "id": "simplify-895ea579-0ca7-4aa8-82a2-db62cfeba95c",
+      "seen_at": "2026-07-01T23:52:59.260387+00:00"
+    },
+    {
+      "id": "url:https://www.optiver.com/join-us/jobs/8401052002",
+      "seen_at": "2026-07-01T23:52:59.260485+00:00"
+    },
+    {
+      "id": "simplify-87b3e2e9-6e48-46cf-a3ad-0144480aaea6",
+      "seen_at": "2026-07-01T23:52:59.260579+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/275558",
+      "seen_at": "2026-07-01T23:52:59.260684+00:00"
+    },
+    {
+      "id": "simplify-5288f66e-452b-4ae7-a62d-12249dce5312",
+      "seen_at": "2026-07-01T23:52:59.260805+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/275331",
+      "seen_at": "2026-07-01T23:52:59.260907+00:00"
+    },
+    {
+      "id": "simplify-82da1599-1528-4192-8849-d9fa626e285d",
+      "seen_at": "2026-07-01T23:52:59.261013+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/didi/jobs/8042470",
+      "seen_at": "2026-07-01T23:52:59.261107+00:00"
+    },
+    {
+      "id": "simplify-e7d75784-3452-4e8b-ab92-f6c42a3641c1",
+      "seen_at": "2026-07-01T23:52:59.261205+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570",
+      "seen_at": "2026-07-01T23:52:59.261290+00:00"
+    },
+    {
+      "id": "simplify-0e4a7168-4066-4c3d-a37e-732f9fe8db1c",
+      "seen_at": "2026-07-01T23:52:59.261380+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011595",
+      "seen_at": "2026-07-01T23:52:59.261467+00:00"
+    },
+    {
+      "id": "simplify-f31feaa4-e89d-4c20-b16e-06bd9d94cc8f",
+      "seen_at": "2026-07-01T23:52:59.261559+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011594",
+      "seen_at": "2026-07-01T23:52:59.261644+00:00"
+    },
+    {
+      "id": "simplify-c038aac0-6db1-415c-a34c-0eadd28627fb",
+      "seen_at": "2026-07-01T23:52:59.261743+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011603",
+      "seen_at": "2026-07-01T23:52:59.261827+00:00"
+    },
+    {
+      "id": "simplify-b7d021aa-5607-4809-a3f2-fec2242c4ac8",
+      "seen_at": "2026-07-01T23:52:59.261915+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011602",
+      "seen_at": "2026-07-01T23:52:59.262032+00:00"
+    },
+    {
+      "id": "simplify-a563a6da-dcd7-4320-a60e-89e6021a35c9",
+      "seen_at": "2026-07-01T23:52:59.262124+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelor-s-_JR-010190",
+      "seen_at": "2026-07-01T23:52:59.262215+00:00"
+    },
+    {
+      "id": "simplify-81ba1e38-8f0f-46fc-9ea3-58930bd9d5b1",
+      "seen_at": "2026-07-01T23:52:59.262315+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011605",
+      "seen_at": "2026-07-01T23:52:59.262411+00:00"
+    },
+    {
+      "id": "simplify-116541fa-771d-4823-a666-0884c8ececfd",
+      "seen_at": "2026-07-01T23:52:59.262520+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011599",
+      "seen_at": "2026-07-01T23:52:59.262614+00:00"
+    },
+    {
+      "id": "simplify-fe99f8f0-316b-46b5-8453-78ece4219304",
+      "seen_at": "2026-07-01T23:52:59.262705+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590",
+      "seen_at": "2026-07-01T23:52:59.262804+00:00"
+    },
+    {
+      "id": "simplify-01d46802-0616-4267-b69b-e69902565213",
+      "seen_at": "2026-07-01T23:52:59.262901+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011598",
+      "seen_at": "2026-07-01T23:52:59.262986+00:00"
+    },
+    {
+      "id": "simplify-bd7fc029-b360-4fd7-995a-82be679b5e8d",
+      "seen_at": "2026-07-01T23:52:59.263075+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008",
+      "seen_at": "2026-07-01T23:52:59.263159+00:00"
+    },
+    {
+      "id": "simplify-9a7e7535-216f-41a8-b35c-5005ec017d35",
+      "seen_at": "2026-07-01T23:52:59.263250+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/275689",
+      "seen_at": "2026-07-01T23:52:59.263342+00:00"
+    },
+    {
+      "id": "simplify-a7ef9f52-96c8-4e0d-8788-af7650bc8e9b",
+      "seen_at": "2026-07-01T23:52:59.263430+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/cloudflare/jobs/8015230",
+      "seen_at": "2026-07-01T23:52:59.263514+00:00"
+    },
+    {
+      "id": "simplify-1d7827d1-14f5-4597-b49c-7b91bb07cb0c",
+      "seen_at": "2026-07-01T23:52:59.263602+00:00"
+    },
+    {
+      "id": "url:https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+      "seen_at": "2026-07-01T23:52:59.263685+00:00"
+    },
+    {
+      "id": "simplify-74ebbab0-9a8d-4399-aec0-07e5ad5f7337",
+      "seen_at": "2026-07-01T23:52:59.263805+00:00"
+    },
+    {
+      "id": "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+      "seen_at": "2026-07-01T23:52:59.263902+00:00"
+    },
+    {
+      "id": "simplify-4aa719b5-d2a2-4379-950b-53301335fcac",
+      "seen_at": "2026-07-01T23:52:59.263991+00:00"
+    },
+    {
+      "id": "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+      "seen_at": "2026-07-01T23:52:59.264077+00:00"
+    },
+    {
+      "id": "simplify-01788188-df5d-4bc7-8a1c-b32f1569da13",
+      "seen_at": "2026-07-01T23:52:59.264168+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589",
+      "seen_at": "2026-07-01T23:52:59.264254+00:00"
+    },
+    {
+      "id": "simplify-a5e72fb8-b288-4f48-98d7-d3083964de7e",
+      "seen_at": "2026-07-01T23:53:18.404565+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767",
+      "seen_at": "2026-07-01T23:53:18.404774+00:00"
+    },
+    {
+      "id": "simplify-9806b0c4-6f96-463b-b16f-410fc0a1ae51",
+      "seen_at": "2026-07-01T23:53:18.404915+00:00"
+    },
+    {
+      "id": "url:https://www.optiver.com/join-us/jobs/8604899002",
+      "seen_at": "2026-07-01T23:53:18.405020+00:00"
+    },
+    {
+      "id": "simplify-1e2b7529-adf7-49ab-8d4a-8979fab4e3e9",
+      "seen_at": "2026-07-01T23:53:18.405145+00:00"
+    },
+    {
+      "id": "url:https://www.optiver.com/join-us/jobs/8401042002",
+      "seen_at": "2026-07-01T23:53:18.405243+00:00"
+    },
+    {
+      "id": "simplify-a35c4a97-a658-4cc5-9fca-cfd71edaef0e",
+      "seen_at": "2026-07-01T23:53:18.405348+00:00"
+    },
+    {
+      "id": "url:https://ats.rippling.com/edgehog-trading/jobs/10ba9bbf-9fbe-49ff-8f58-a88041de1438",
+      "seen_at": "2026-07-01T23:53:18.405445+00:00"
+    },
+    {
+      "id": "simplify-fd7ab8ef-51eb-4509-94ee-5b644a84cf76",
+      "seen_at": "2026-07-01T23:53:18.405555+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011506",
+      "seen_at": "2026-07-01T23:53:18.405650+00:00"
+    },
+    {
+      "id": "simplify-c34ca314-19b9-470e-9a50-e2bd7cc25d8e",
+      "seen_at": "2026-07-01T23:53:18.405767+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011523",
+      "seen_at": "2026-07-01T23:53:18.405864+00:00"
+    },
+    {
+      "id": "simplify-9e72b9a6-a1e0-451b-a985-64a2ef4d7171",
+      "seen_at": "2026-07-01T23:53:18.405970+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011544",
+      "seen_at": "2026-07-01T23:53:18.406065+00:00"
+    },
+    {
+      "id": "simplify-6910d1ac-48bc-4244-8d72-826b8363066f",
+      "seen_at": "2026-07-01T23:53:18.406167+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011504",
+      "seen_at": "2026-07-01T23:53:18.406262+00:00"
+    },
+    {
+      "id": "simplify-377693c9-171b-4df1-8bcc-6cb070ca6cee",
+      "seen_at": "2026-07-01T23:53:18.406364+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011530",
+      "seen_at": "2026-07-01T23:53:18.406459+00:00"
+    },
+    {
+      "id": "simplify-03846952-d653-4d85-82ca-f4d9b87f6a53",
+      "seen_at": "2026-07-01T23:53:18.406578+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011526",
+      "seen_at": "2026-07-01T23:53:18.406742+00:00"
+    },
+    {
+      "id": "simplify-e0e1a29a-d1cb-4648-a75c-6916cdc8cbfe",
+      "seen_at": "2026-07-01T23:53:18.406863+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-010172",
+      "seen_at": "2026-07-01T23:53:18.406960+00:00"
+    },
+    {
+      "id": "simplify-74333d30-58ba-4ff7-8045-b83f0f107e27",
+      "seen_at": "2026-07-01T23:53:18.407063+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011535",
+      "seen_at": "2026-07-01T23:53:18.407159+00:00"
+    },
+    {
+      "id": "simplify-f520ebfe-2fb2-464b-ad24-a35fca378024",
+      "seen_at": "2026-07-01T23:53:18.407261+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011520",
+      "seen_at": "2026-07-01T23:53:18.407363+00:00"
+    },
+    {
+      "id": "simplify-cf3d79b9-1918-43b5-8ad0-b027987ed266",
+      "seen_at": "2026-07-01T23:53:18.407465+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011497",
+      "seen_at": "2026-07-01T23:53:18.407559+00:00"
+    },
+    {
+      "id": "simplify-c58457ce-e22e-4633-bddb-0886f0537cc2",
+      "seen_at": "2026-07-01T23:53:18.407662+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011524",
+      "seen_at": "2026-07-01T23:53:18.407768+00:00"
+    },
+    {
+      "id": "simplify-99ce2c9b-4b87-41b8-b970-321354839c77",
+      "seen_at": "2026-07-01T23:53:18.407871+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011529",
+      "seen_at": "2026-07-01T23:53:18.407967+00:00"
+    },
+    {
+      "id": "simplify-624c0133-f465-4e8f-aba1-48f1e5507db3",
+      "seen_at": "2026-07-01T23:53:18.408069+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/SWE---Bachelors-Pipeline--NCG-_JR-010195",
+      "seen_at": "2026-07-01T23:53:18.408165+00:00"
+    },
+    {
+      "id": "simplify-38bfa52f-a27c-4720-83bc-a784421b3807",
+      "seen_at": "2026-07-01T23:53:18.408267+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011531",
+      "seen_at": "2026-07-01T23:53:18.408363+00:00"
+    },
+    {
+      "id": "simplify-2b07160e-c4a3-4106-afed-f3aa356288a7",
+      "seen_at": "2026-07-01T23:53:18.408466+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011521",
+      "seen_at": "2026-07-01T23:53:18.408561+00:00"
+    },
+    {
+      "id": "simplify-148f5d32-0272-4e18-8f2a-7b0e48c7fa21",
+      "seen_at": "2026-07-01T23:53:18.408664+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011522",
+      "seen_at": "2026-07-01T23:53:18.408787+00:00"
+    },
+    {
+      "id": "simplify-87f322af-ad80-4204-84c9-8fd007bad17c",
+      "seen_at": "2026-07-01T23:53:18.408891+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011511",
+      "seen_at": "2026-07-01T23:53:18.408988+00:00"
+    },
+    {
+      "id": "simplify-84e71300-87d8-4137-b668-e505942b7dc7",
+      "seen_at": "2026-07-01T23:53:18.409093+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011528",
+      "seen_at": "2026-07-01T23:53:18.409193+00:00"
+    },
+    {
+      "id": "simplify-6e69997b-700a-45d9-802f-0b918f67f279",
+      "seen_at": "2026-07-01T23:53:18.409298+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011516",
+      "seen_at": "2026-07-01T23:53:18.409394+00:00"
+    },
+    {
+      "id": "simplify-21161652-9269-4156-abf9-9cd2dd5a5c08",
+      "seen_at": "2026-07-01T23:53:18.409499+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011517",
+      "seen_at": "2026-07-01T23:53:18.409598+00:00"
+    },
+    {
+      "id": "simplify-1e93719f-be56-4b80-ade4-8960827c0469",
+      "seen_at": "2026-07-01T23:53:18.409704+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011505",
+      "seen_at": "2026-07-01T23:53:18.409812+00:00"
+    },
+    {
+      "id": "simplify-00142abd-9aec-4fca-9c8d-b46f6fb762d2",
+      "seen_at": "2026-07-01T23:53:18.410120+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application",
+      "seen_at": "2026-07-01T23:53:18.410251+00:00"
+    },
+    {
+      "id": "simplify-dfdbfcc9-49ba-4974-9c15-ba6c0402ded3",
+      "seen_at": "2026-07-01T23:53:18.410361+00:00"
+    },
+    {
+      "id": "url:https://taylormadegolf.wd5.myworkdayjobs.com/taylormadegolf/job/Carlsbad-California/Engineer-Product-Development---Golf-Ball-Evaluation_R0003516",
+      "seen_at": "2026-07-01T23:53:18.410475+00:00"
+    },
+    {
+      "id": "simplify-cf7770e5-ec10-4a15-8aa1-952200b0cdb3",
+      "seen_at": "2026-07-01T23:53:18.410581+00:00"
+    },
+    {
+      "id": "url:https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Embedded-Software-Engineer_JR-205125-1",
+      "seen_at": "2026-07-01T23:53:18.410680+00:00"
+    },
+    {
+      "id": "simplify-cb3cc844-e743-4ff9-b173-f83f0dd66831",
+      "seen_at": "2026-07-01T23:53:18.410792+00:00"
+    },
+    {
+      "id": "url:https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10319691-2",
+      "seen_at": "2026-07-01T23:53:18.410891+00:00"
+    },
+    {
+      "id": "simplify-e2da8b69-0e6b-4858-ac8d-15de9997f663",
+      "seen_at": "2026-07-01T23:53:18.410992+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineer-TX-76705/1404885000",
+      "seen_at": "2026-07-01T23:53:18.411091+00:00"
+    },
+    {
+      "id": "simplify-527ce833-eac4-4436-833d-d95eb3ce73d0",
+      "seen_at": "2026-07-01T23:53:18.411192+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/WesternDigital/744000135312480",
+      "seen_at": "2026-07-01T23:53:18.411291+00:00"
+    },
+    {
+      "id": "simplify-1c8d5fb4-7d30-4fff-adcc-7926baadf184",
+      "seen_at": "2026-07-01T23:53:18.411391+00:00"
+    },
+    {
+      "id": "url:https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "seen_at": "2026-07-01T23:53:18.411489+00:00"
+    },
+    {
+      "id": "simplify-d15d5660-4610-47ec-a1ec-ef087f9dea4f",
+      "seen_at": "2026-07-01T23:53:18.411589+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011539",
+      "seen_at": "2026-07-01T23:53:18.411687+00:00"
+    },
+    {
+      "id": "simplify-c672badc-9657-46ee-bfdf-c31ec6e4308c",
+      "seen_at": "2026-07-01T23:53:18.411798+00:00"
+    },
+    {
+      "id": "url:https://job-boards.eu.greenhouse.io/imc/jobs/4907416101",
+      "seen_at": "2026-07-01T23:53:18.411896+00:00"
+    },
+    {
+      "id": "simplify-c0eb02da-813a-4aba-85ac-aaf2109ebb3f",
+      "seen_at": "2026-07-01T23:53:18.411997+00:00"
+    },
+    {
+      "id": "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823805101",
+      "seen_at": "2026-07-01T23:53:18.412096+00:00"
+    },
+    {
+      "id": "simplify-a7ba3ae0-4e58-4273-a1ea-29ba664891d0",
+      "seen_at": "2026-07-01T23:53:18.412198+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Machine-Learning-Engineer_JR-010194",
+      "seen_at": "2026-07-01T23:53:18.412313+00:00"
+    },
+    {
+      "id": "simplify-9565cf4f-99e7-4693-a5c0-4e0d6f8e10dc",
+      "seen_at": "2026-07-01T23:53:18.412422+00:00"
+    },
+    {
+      "id": "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011519",
+      "seen_at": "2026-07-01T23:53:18.412525+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-7708224",
+      "seen_at": "2026-07-01T23:53:18.412628+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/7708224",
+      "seen_at": "2026-07-01T23:53:18.412770+00:00"
     }
   ],
-  "last_run": "2026-07-01T22:24:05.307187+00:00",
-  "total_notified": 1087,
+  "last_run": "2026-07-01T23:53:18.647416+00:00",
+  "total_notified": 1134,
   "channels": {
     "swe-jobs": [
-      "simplify-9389e9ee-1fbf-425b-925b-9567f6113a1a",
-      "url:https://careers-cotiviti.icims.com/jobs/19214/job",
-      "simplify-2bad674c-1b9e-4e5a-a4c5-0f65e92902b3",
-      "url:https://jobs.lever.co/palantir/e24202f1-fccd-470f-b001-e24d901735a4/apply",
-      "simplify-86288e49-34fb-4db7-af79-7b5fab0ef2d4",
-      "url:https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Intern--Software-Engineering---Data-Marketplace_JR012200",
-      "simplify-f1114015-94c6-453e-88a1-059149bc7fe9",
-      "url:https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/AI-ML-Engineer-Intern--Data-Engineering_R0019781",
-      "simplify-6035a116-fa7c-4969-927f-5eabbab741f3",
-      "url:https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/AI-Automation-Engineer--Intern-_JR012159",
-      "simplify-013934fd-e527-4543-b30c-ba4003cee756",
-      "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data-AI-Intelligent-Systems-I--Intern----United-States_2001254",
-      "simplify-c12ce9b6-76be-4fc6-b0fc-50a6576eb45b",
-      "url:https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply",
-      "simplify-4712fba9-8fa9-4fd3-af2a-7c4c13901e5c",
-      "url:https://imerys.wd3.myworkdayjobs.com/imerys_career2/job/Niagara-Falls-New-York-USA/Intern_REQ-11539",
-      "simplify-0bab2a94-a17d-486b-a2d4-bb3b96d76455",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-Year-Round-Intern---BS-MS-degree--Santa-Clara--CA-_R2619446",
-      "simplify-c81a74af-1f5b-4165-8236-aafa01145255",
-      "url:https://imerys.wd3.myworkdayjobs.com/imerys_career2/job/Niagara-Falls-New-York-USA/Intern_REQ-11538",
-      "simplify-85bb55de-6617-449c-8466-809bcfec537d",
-      "url:https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031936",
-      "simplify-251ae0a3-b247-4bba-b985-e7a42dda28cd",
-      "url:https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Systems-Application-Engineer---Early-Career_2602267",
       "simplify-e27dac85-f95f-4718-add6-3583a28c1975",
       "url:https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/System-Engineer-Intern_R-00182989",
       "simplify-d6d7e09d-52ef-4d34-ac7f-42fad67e9edd",
@@ -9074,13 +9418,53 @@
       "simplify-40090818-c9a2-4104-9627-111a5b9cd079",
       "url:https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us",
       "simplify-1f74ca3f-e832-45e6-bc13-b8222034e373",
-      "url:https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us"
+      "url:https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us",
+      "simplify-f49b4766-f352-4e81-9cb2-0f42fb9fd101",
+      "url:https://www.optiver.com/join-us/jobs/8604760002",
+      "simplify-895ea579-0ca7-4aa8-82a2-db62cfeba95c",
+      "url:https://www.optiver.com/join-us/jobs/8401052002",
+      "simplify-87b3e2e9-6e48-46cf-a3ad-0144480aaea6",
+      "url:https://www.tesla.com/careers/search/job/275558",
+      "simplify-5288f66e-452b-4ae7-a62d-12249dce5312",
+      "url:https://www.tesla.com/careers/search/job/275331",
+      "simplify-82da1599-1528-4192-8849-d9fa626e285d",
+      "url:https://job-boards.greenhouse.io/didi/jobs/8042470",
+      "simplify-e7d75784-3452-4e8b-ab92-f6c42a3641c1",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570",
+      "simplify-0e4a7168-4066-4c3d-a37e-732f9fe8db1c",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011595",
+      "simplify-f31feaa4-e89d-4c20-b16e-06bd9d94cc8f",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011594",
+      "simplify-c038aac0-6db1-415c-a34c-0eadd28627fb",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011603",
+      "simplify-b7d021aa-5607-4809-a3f2-fec2242c4ac8",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011602",
+      "simplify-a563a6da-dcd7-4320-a60e-89e6021a35c9",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelor-s-_JR-010190",
+      "simplify-81ba1e38-8f0f-46fc-9ea3-58930bd9d5b1",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011605",
+      "simplify-116541fa-771d-4823-a666-0884c8ececfd",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011599",
+      "simplify-fe99f8f0-316b-46b5-8453-78ece4219304",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590",
+      "simplify-01d46802-0616-4267-b69b-e69902565213",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011598",
+      "simplify-bd7fc029-b360-4fd7-995a-82be679b5e8d",
+      "url:https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008",
+      "simplify-9a7e7535-216f-41a8-b35c-5005ec017d35",
+      "url:https://www.tesla.com/careers/search/job/275689",
+      "simplify-a7ef9f52-96c8-4e0d-8788-af7650bc8e9b",
+      "url:https://boards.greenhouse.io/cloudflare/jobs/8015230",
+      "simplify-1d7827d1-14f5-4597-b49c-7b91bb07cb0c",
+      "url:https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+      "simplify-74ebbab0-9a8d-4399-aec0-07e5ad5f7337",
+      "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+      "simplify-4aa719b5-d2a2-4379-950b-53301335fcac",
+      "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+      "simplify-01788188-df5d-4bc7-8a1c-b32f1569da13",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589"
     ],
     "pm-jobs": [
-      "simplify-8ac2c3f5-df11-41a2-b913-a9a5fdbe8d91",
-      "url:https://www.google.com/about/careers/applications/jobs/results/115425717126079174",
-      "greenhouse-figma-6009613004",
-      "url:https://boards.greenhouse.io/figma/jobs/6009613004",
       "simplify-15e7eab5-4982-4400-aef6-397d5a5dc3b0",
       "url:https://careers-mercuryinsurance.icims.com/jobs/6462/job",
       "simplify-bf6301d3-a965-4a41-8bf1-b122e83223cc",
@@ -10726,7 +11110,83 @@
       "greenhouse-anthropic-5196852008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5196852008",
       "greenhouse-anthropic-5240422008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5240422008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
+      "simplify-a5e72fb8-b288-4f48-98d7-d3083964de7e",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767",
+      "simplify-9806b0c4-6f96-463b-b16f-410fc0a1ae51",
+      "url:https://www.optiver.com/join-us/jobs/8604899002",
+      "simplify-1e2b7529-adf7-49ab-8d4a-8979fab4e3e9",
+      "url:https://www.optiver.com/join-us/jobs/8401042002",
+      "simplify-a35c4a97-a658-4cc5-9fca-cfd71edaef0e",
+      "url:https://ats.rippling.com/edgehog-trading/jobs/10ba9bbf-9fbe-49ff-8f58-a88041de1438",
+      "simplify-fd7ab8ef-51eb-4509-94ee-5b644a84cf76",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011506",
+      "simplify-c34ca314-19b9-470e-9a50-e2bd7cc25d8e",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011523",
+      "simplify-9e72b9a6-a1e0-451b-a985-64a2ef4d7171",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011544",
+      "simplify-6910d1ac-48bc-4244-8d72-826b8363066f",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011504",
+      "simplify-377693c9-171b-4df1-8bcc-6cb070ca6cee",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011530",
+      "simplify-03846952-d653-4d85-82ca-f4d9b87f6a53",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011526",
+      "simplify-e0e1a29a-d1cb-4648-a75c-6916cdc8cbfe",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-010172",
+      "simplify-74333d30-58ba-4ff7-8045-b83f0f107e27",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011535",
+      "simplify-f520ebfe-2fb2-464b-ad24-a35fca378024",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011520",
+      "simplify-cf3d79b9-1918-43b5-8ad0-b027987ed266",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011497",
+      "simplify-c58457ce-e22e-4633-bddb-0886f0537cc2",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011524",
+      "simplify-99ce2c9b-4b87-41b8-b970-321354839c77",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011529",
+      "simplify-624c0133-f465-4e8f-aba1-48f1e5507db3",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/SWE---Bachelors-Pipeline--NCG-_JR-010195",
+      "simplify-38bfa52f-a27c-4720-83bc-a784421b3807",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011531",
+      "simplify-2b07160e-c4a3-4106-afed-f3aa356288a7",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011521",
+      "simplify-148f5d32-0272-4e18-8f2a-7b0e48c7fa21",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011522",
+      "simplify-87f322af-ad80-4204-84c9-8fd007bad17c",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011511",
+      "simplify-84e71300-87d8-4137-b668-e505942b7dc7",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011528",
+      "simplify-6e69997b-700a-45d9-802f-0b918f67f279",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011516",
+      "simplify-21161652-9269-4156-abf9-9cd2dd5a5c08",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011517",
+      "simplify-1e93719f-be56-4b80-ade4-8960827c0469",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011505",
+      "simplify-00142abd-9aec-4fca-9c8d-b46f6fb762d2",
+      "url:https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application",
+      "simplify-dfdbfcc9-49ba-4974-9c15-ba6c0402ded3",
+      "url:https://taylormadegolf.wd5.myworkdayjobs.com/taylormadegolf/job/Carlsbad-California/Engineer-Product-Development---Golf-Ball-Evaluation_R0003516",
+      "simplify-cf7770e5-ec10-4a15-8aa1-952200b0cdb3",
+      "url:https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Embedded-Software-Engineer_JR-205125-1",
+      "simplify-cb3cc844-e743-4ff9-b173-f83f0dd66831",
+      "url:https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10319691-2",
+      "simplify-e2da8b69-0e6b-4858-ac8d-15de9997f663",
+      "url:https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineer-TX-76705/1404885000",
+      "simplify-527ce833-eac4-4436-833d-d95eb3ce73d0",
+      "url:https://jobs.smartrecruiters.com/WesternDigital/744000135312480",
+      "simplify-1c8d5fb4-7d30-4fff-adcc-7926baadf184",
+      "url:https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "simplify-d15d5660-4610-47ec-a1ec-ef087f9dea4f",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011539",
+      "simplify-c672badc-9657-46ee-bfdf-c31ec6e4308c",
+      "url:https://job-boards.eu.greenhouse.io/imc/jobs/4907416101",
+      "simplify-c0eb02da-813a-4aba-85ac-aaf2109ebb3f",
+      "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823805101",
+      "simplify-a7ba3ae0-4e58-4273-a1ea-29ba664891d0",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Machine-Learning-Engineer_JR-010194",
+      "simplify-9565cf4f-99e7-4693-a5c0-4e0d6f8e10dc",
+      "url:https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011519",
+      "greenhouse-airbnb-7708224",
+      "url:https://careers.airbnb.com/positions/7708224"
     ]
   }
 }
