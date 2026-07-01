@@ -8439,10 +8439,74 @@
     {
       "id": "url:https://jobs.jobvite.com/altamiracorps/job/obCpAfww",
       "seen_at": "2026-07-01T04:56:37.189824+00:00"
+    },
+    {
+      "id": "simplify-904269e6-581d-458f-9376-a8c3d9e74a98",
+      "seen_at": "2026-07-01T08:53:36.363222+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/275494",
+      "seen_at": "2026-07-01T08:53:36.363386+00:00"
+    },
+    {
+      "id": "simplify-e2a8f8b3-cb1a-4411-871c-916776913b34",
+      "seen_at": "2026-07-01T08:53:36.363500+00:00"
+    },
+    {
+      "id": "url:https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us",
+      "seen_at": "2026-07-01T08:53:36.363600+00:00"
+    },
+    {
+      "id": "simplify-40090818-c9a2-4104-9627-111a5b9cd079",
+      "seen_at": "2026-07-01T08:53:36.363701+00:00"
+    },
+    {
+      "id": "url:https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us",
+      "seen_at": "2026-07-01T08:53:36.363799+00:00"
+    },
+    {
+      "id": "simplify-1f74ca3f-e832-45e6-bc13-b8222034e373",
+      "seen_at": "2026-07-01T08:53:36.363935+00:00"
+    },
+    {
+      "id": "url:https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us",
+      "seen_at": "2026-07-01T08:53:36.364050+00:00"
+    },
+    {
+      "id": "simplify-00c2f102-60e5-4ef5-84c6-4515f2459a86",
+      "seen_at": "2026-07-01T08:53:40.116007+00:00"
+    },
+    {
+      "id": "url:https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us",
+      "seen_at": "2026-07-01T08:53:40.116210+00:00"
+    },
+    {
+      "id": "simplify-f23fe117-836c-45d4-bd59-0ea9d9ddf7f7",
+      "seen_at": "2026-07-01T08:53:40.116387+00:00"
+    },
+    {
+      "id": "url:https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us",
+      "seen_at": "2026-07-01T08:53:40.116511+00:00"
+    },
+    {
+      "id": "simplify-28fc2b4c-cb26-407d-aba3-a8078f35185b",
+      "seen_at": "2026-07-01T08:53:40.116634+00:00"
+    },
+    {
+      "id": "url:https://careers-peraton.icims.com/jobs/168173/job",
+      "seen_at": "2026-07-01T08:53:40.116744+00:00"
+    },
+    {
+      "id": "simplify-efc32a65-4a70-4386-892a-4d0c83f56292",
+      "seen_at": "2026-07-01T08:53:40.116861+00:00"
+    },
+    {
+      "id": "url:https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us",
+      "seen_at": "2026-07-01T08:53:40.116985+00:00"
     }
   ],
-  "last_run": "2026-07-01T04:56:37.414901+00:00",
-  "total_notified": 1069,
+  "last_run": "2026-07-01T08:53:40.374589+00:00",
+  "total_notified": 1077,
   "channels": {
     "swe-jobs": [
       "simplify-96031560-54a5-445c-b11b-101739898997",
@@ -8946,7 +9010,15 @@
       "simplify-ad51d92b-628a-4e04-9fcc-8e68e5fb4456",
       "url:https://volarisgroup.wd3.myworkdayjobs.com/GoAssetWorks/job/United-States---TX/Software-Development-Intern_R67762",
       "simplify-ffc1f08c-7dd5-4fce-986e-2e3b824aabb4",
-      "url:https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply"
+      "url:https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply",
+      "simplify-904269e6-581d-458f-9376-a8c3d9e74a98",
+      "url:https://www.tesla.com/careers/search/job/275494",
+      "simplify-e2a8f8b3-cb1a-4411-871c-916776913b34",
+      "url:https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us",
+      "simplify-40090818-c9a2-4104-9627-111a5b9cd079",
+      "url:https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us",
+      "simplify-1f74ca3f-e832-45e6-bc13-b8222034e373",
+      "url:https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us"
     ],
     "pm-jobs": [
       "simplify-8ac2c3f5-df11-41a2-b913-a9a5fdbe8d91",
@@ -10570,7 +10642,15 @@
       "simplify-f3be0d48-9942-4bd1-9a82-93364573a167",
       "url:https://careers.dat.com/jobs/6091895004",
       "simplify-aee5f911-65e6-4c42-95c1-e8c2702c7382",
-      "url:https://jobs.jobvite.com/altamiracorps/job/obCpAfww"
+      "url:https://jobs.jobvite.com/altamiracorps/job/obCpAfww",
+      "simplify-00c2f102-60e5-4ef5-84c6-4515f2459a86",
+      "url:https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us",
+      "simplify-f23fe117-836c-45d4-bd59-0ea9d9ddf7f7",
+      "url:https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us",
+      "simplify-28fc2b4c-cb26-407d-aba3-a8078f35185b",
+      "url:https://careers-peraton.icims.com/jobs/168173/job",
+      "simplify-efc32a65-4a70-4386-892a-4d0c83f56292",
+      "url:https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us"
     ]
   }
 }
