@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "hn-48372101",
-      "seen_at": "2026-06-02T19:30:49.059686+00:00"
-    },
-    {
-      "id": "url:https://news.ycombinator.com/item",
-      "seen_at": "2026-06-02T19:30:49.059808+00:00"
-    },
-    {
       "id": "simplify-d6f4cdc5-68b7-4f4f-a0af-e69f110a8a31",
       "seen_at": "2026-06-03T00:04:01.157737+00:00"
     },
@@ -9243,14 +9235,20 @@
     {
       "id": "url:https://www.trexsolutionsllc.com/current-opportunities-at-trex",
       "seen_at": "2026-07-02T16:58:15.489596+00:00"
+    },
+    {
+      "id": "hn-48765578",
+      "seen_at": "2026-07-02T20:10:03.939237+00:00"
+    },
+    {
+      "id": "url:https://news.ycombinator.com/item",
+      "seen_at": "2026-07-02T20:10:03.939423+00:00"
     }
   ],
-  "last_run": "2026-07-02T18:41:58.128479+00:00",
-  "total_notified": 1176,
+  "last_run": "2026-07-02T20:10:04.215290+00:00",
+  "total_notified": 1177,
   "channels": {
     "swe-jobs": [
-      "hn-48372101",
-      "url:https://news.ycombinator.com/item",
       "simplify-d6f4cdc5-68b7-4f4f-a0af-e69f110a8a31",
       "url:https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply",
       "simplify-5ba6e23d-6e0c-406a-9f67-e88da7202998",
@@ -9911,8 +9909,7 @@
       "url:https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---Work-from-hom/Analyst--Digital-Product--Conversion-_R0766453",
       "greenhouse-lyft-8513755002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8513755002",
-      "hn-48748226",
-      "url:https://news.ycombinator.com/item"
+      "hn-48748226"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
@@ -9958,7 +9955,6 @@
       "simplify-26c16d82-bbf0-4710-9c0b-056a9c652215",
       "url:https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
       "hn-48450323",
-      "url:https://news.ycombinator.com/item",
       "greenhouse-stripe-7991636",
       "url:https://stripe.com/jobs/search",
       "greenhouse-figma-6013495004",
@@ -11576,7 +11572,9 @@
       "simplify-e9a77d3a-1f5c-4f3c-8883-575121ae1905",
       "url:https://analogdevices.wd1.myworkdayjobs.com/External/job/Denmark-Copenhagen/FPGA-Systems-Development-Engineer_R263331",
       "simplify-20565db4-0f8e-456e-b6e3-4c484757c633",
-      "url:https://www.trexsolutionsllc.com/current-opportunities-at-trex"
+      "url:https://www.trexsolutionsllc.com/current-opportunities-at-trex",
+      "hn-48765578",
+      "url:https://news.ycombinator.com/item"
     ]
   }
 }
