@@ -9243,10 +9243,50 @@
     {
       "id": "url:https://news.ycombinator.com/item",
       "seen_at": "2026-07-02T20:10:03.939423+00:00"
+    },
+    {
+      "id": "simplify-8c3c4866-6c14-4ec0-bc29-3ce391b4bea3",
+      "seen_at": "2026-07-02T22:43:10.330441+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688/apply",
+      "seen_at": "2026-07-02T22:43:10.330601+00:00"
+    },
+    {
+      "id": "simplify-17699a31-38e1-4e82-b409-fe317a841c6f",
+      "seen_at": "2026-07-02T22:43:14.299731+00:00"
+    },
+    {
+      "id": "url:https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
+      "seen_at": "2026-07-02T22:43:14.299920+00:00"
+    },
+    {
+      "id": "simplify-c7a44e5a-8f03-4e5e-a98b-39749818ebdd",
+      "seen_at": "2026-07-02T22:43:14.300059+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Engineering-Technician_R2622270",
+      "seen_at": "2026-07-02T22:43:14.300177+00:00"
+    },
+    {
+      "id": "simplify-d7efd06c-f78a-41c8-9b51-59e2289f8eff",
+      "seen_at": "2026-07-02T22:43:14.300344+00:00"
+    },
+    {
+      "id": "url:https://higher.gs.com/roles/177874",
+      "seen_at": "2026-07-02T22:43:14.300458+00:00"
+    },
+    {
+      "id": "simplify-352477a3-29ad-47a1-9809-69a1da28d66c",
+      "seen_at": "2026-07-02T22:43:14.300575+00:00"
+    },
+    {
+      "id": "url:https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000380358",
+      "seen_at": "2026-07-02T22:43:14.300678+00:00"
     }
   ],
-  "last_run": "2026-07-02T21:36:15.351133+00:00",
-  "total_notified": 1177,
+  "last_run": "2026-07-02T22:43:14.659887+00:00",
+  "total_notified": 1182,
   "channels": {
     "swe-jobs": [
       "simplify-d6f4cdc5-68b7-4f4f-a0af-e69f110a8a31",
@@ -9776,7 +9816,9 @@
       "simplify-b36e0497-4128-473a-8643-099bbb5c9d0e",
       "url:https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Intern-Program-----Product-Development-Track_R0000380479",
       "simplify-fa7fbaf4-50b2-4148-af69-22df652b6fd5",
-      "url:https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply"
+      "url:https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply",
+      "simplify-8c3c4866-6c14-4ec0-bc29-3ce391b4bea3",
+      "url:https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688/apply"
     ],
     "pm-jobs": [
       "simplify-15e7eab5-4982-4400-aef6-397d5a5dc3b0",
@@ -11574,7 +11616,15 @@
       "simplify-20565db4-0f8e-456e-b6e3-4c484757c633",
       "url:https://www.trexsolutionsllc.com/current-opportunities-at-trex",
       "hn-48765578",
-      "url:https://news.ycombinator.com/item"
+      "url:https://news.ycombinator.com/item",
+      "simplify-17699a31-38e1-4e82-b409-fe317a841c6f",
+      "url:https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
+      "simplify-c7a44e5a-8f03-4e5e-a98b-39749818ebdd",
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Engineering-Technician_R2622270",
+      "simplify-d7efd06c-f78a-41c8-9b51-59e2289f8eff",
+      "url:https://higher.gs.com/roles/177874",
+      "simplify-352477a3-29ad-47a1-9809-69a1da28d66c",
+      "url:https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000380358"
     ]
   }
 }
