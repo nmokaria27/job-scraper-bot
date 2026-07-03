@@ -9319,10 +9319,58 @@
     {
       "id": "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer-Austin_REF083267W",
       "seen_at": "2026-07-03T05:02:24.664416+00:00"
+    },
+    {
+      "id": "simplify-8dc1849d-c45d-42c3-ac6a-74ec668986a0",
+      "seen_at": "2026-07-03T08:18:22.828638+00:00"
+    },
+    {
+      "id": "url:https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185",
+      "seen_at": "2026-07-03T08:18:22.828826+00:00"
+    },
+    {
+      "id": "simplify-098a3e59-47c8-468f-bd4d-7a3c9ad2786c",
+      "seen_at": "2026-07-03T08:18:22.828977+00:00"
+    },
+    {
+      "id": "url:https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
+      "seen_at": "2026-07-03T08:18:22.829093+00:00"
+    },
+    {
+      "id": "simplify-940c277c-55c2-4e03-8046-d765e0c14dd7",
+      "seen_at": "2026-07-03T08:18:26.197837+00:00"
+    },
+    {
+      "id": "url:https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-51183-1",
+      "seen_at": "2026-07-03T08:18:26.198059+00:00"
+    },
+    {
+      "id": "simplify-5d6d2dac-1be0-4319-bcf8-3ee10ba498a5",
+      "seen_at": "2026-07-03T08:18:26.198243+00:00"
+    },
+    {
+      "id": "url:https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-51184-1",
+      "seen_at": "2026-07-03T08:18:26.198380+00:00"
+    },
+    {
+      "id": "simplify-45f6e525-5b17-4b57-9958-20605eb69c47",
+      "seen_at": "2026-07-03T08:18:26.198527+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/zscaler/jobs/5177411007",
+      "seen_at": "2026-07-03T08:18:26.198678+00:00"
+    },
+    {
+      "id": "simplify-35602e46-cb53-48a2-844c-72ece3de9e96",
+      "seen_at": "2026-07-03T08:18:26.198822+00:00"
+    },
+    {
+      "id": "url:https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Data-Scientist_1207756-3",
+      "seen_at": "2026-07-03T08:18:26.198955+00:00"
     }
   ],
-  "last_run": "2026-07-03T05:02:24.870773+00:00",
-  "total_notified": 1199,
+  "last_run": "2026-07-03T08:18:26.348854+00:00",
+  "total_notified": 1205,
   "channels": {
     "swe-jobs": [
       "simplify-a8e74e82-891f-4ce9-9759-3376c8dea0b6",
@@ -9836,7 +9884,11 @@
       "simplify-1294efe4-9bb6-417c-83bc-7da76b87978c",
       "url:https://job-boards.greenhouse.io/botauto/jobs/5289440008",
       "simplify-cbf7c33c-7f5a-40a6-9ec5-b27895094847",
-      "url:https://www.tesla.com/careers/search/job/275805"
+      "url:https://www.tesla.com/careers/search/job/275805",
+      "simplify-8dc1849d-c45d-42c3-ac6a-74ec668986a0",
+      "url:https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185",
+      "simplify-098a3e59-47c8-468f-bd4d-7a3c9ad2786c",
+      "url:https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624"
     ],
     "pm-jobs": [
       "simplify-15e7eab5-4982-4400-aef6-397d5a5dc3b0",
@@ -11669,7 +11721,15 @@
       "simplify-f1ff7da9-0228-4439-858e-699aad2ebc40",
       "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Military-Talent-Program---Software-Engineering-Pipeline_REF083391W",
       "simplify-da5958b1-3c85-4bef-a6ab-9ca1ded957c5",
-      "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer-Austin_REF083267W"
+      "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer-Austin_REF083267W",
+      "simplify-940c277c-55c2-4e03-8046-d765e0c14dd7",
+      "url:https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-51183-1",
+      "simplify-5d6d2dac-1be0-4319-bcf8-3ee10ba498a5",
+      "url:https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-51184-1",
+      "simplify-45f6e525-5b17-4b57-9958-20605eb69c47",
+      "url:https://job-boards.greenhouse.io/zscaler/jobs/5177411007",
+      "simplify-35602e46-cb53-48a2-844c-72ece3de9e96",
+      "url:https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Data-Scientist_1207756-3"
     ]
   }
 }
