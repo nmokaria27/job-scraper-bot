@@ -24,6 +24,7 @@ from scrapers.lever import LeverScraper
 from scrapers.ashby import AshbyScraper
 from scrapers.simplify import SimplifyScraper
 from scrapers.hackernews import HackerNewsScraper
+from utils import load_json_file, save_json_file
 import discord_notifier
 
 
@@ -45,32 +46,17 @@ def load_seen_jobs() -> dict:
       - "last_run": ISO timestamp
       - "total_notified": int
     """
-    try:
-        with open(config.SEEN_JOBS_PATH, "r") as f:
-            data = json.load(f)
+    defaults = {"jobs": [], "channels": {}, "last_run": _now_iso(), "total_notified": 0}
+    data = load_json_file(config.SEEN_JOBS_PATH, defaults)
 
-        # Migrate old format: {"job_ids": [...], ...}
-        if "job_ids" in data and "jobs" not in data:
-            now = _now_iso()
-            data["jobs"] = [
-                {"id": jid, "seen_at": now} for jid in data.pop("job_ids", [])
-            ]
+    # Migrate old format: {"job_ids": [...], ...}
+    if "job_ids" in data:
+        now = _now_iso()
+        data["jobs"] = [
+            {"id": jid, "seen_at": now} for jid in data.pop("job_ids", [])
+        ]
 
-        # Ensure required keys exist. Channel migration needs the real configured
-        # channel names, so that happens after channels are loaded in main().
-        data.setdefault("jobs", [])
-        data.setdefault("channels", {})
-        data.setdefault("last_run", _now_iso())
-        data.setdefault("total_notified", 0)
-
-        return data
-
-    except FileNotFoundError:
-        print("[INFO] seen_jobs.json not found — starting fresh.")
-    except (json.JSONDecodeError, ValueError) as e:
-        print(f"[WARN] seen_jobs.json is corrupt ({e}) — starting fresh.")
-
-    return {"jobs": [], "channels": {}, "last_run": _now_iso(), "total_notified": 0}
+    return data
 
 
 def prune_seen_jobs(data: dict) -> dict:
@@ -110,8 +96,7 @@ def _parse_dt(iso: str) -> datetime:
 
 
 def save_seen_jobs(data: dict) -> None:
-    with open(config.SEEN_JOBS_PATH, "w") as f:
-        json.dump(data, f, indent=2)
+    save_json_file(config.SEEN_JOBS_PATH, data)
 
 
 def get_seen_ids(data: dict) -> set[str]:
@@ -175,22 +160,11 @@ def load_queued_jobs() -> dict:
     Load queued_jobs.json. Returns a dict shaped like:
       {"channels": {channel_name: [QueuedJob, ...]}, "last_run": ISO timestamp}
     """
-    try:
-        with open(config.QUEUED_JOBS_PATH, "r") as f:
-            data = json.load(f)
-        data.setdefault("channels", {})
-        data.setdefault("last_run", _now_iso())
-        return data
-    except FileNotFoundError:
-        return {"channels": {}, "last_run": _now_iso()}
-    except (json.JSONDecodeError, ValueError) as e:
-        print(f"[WARN] queued_jobs.json is corrupt ({e}) — starting fresh.")
-        return {"channels": {}, "last_run": _now_iso()}
+    return load_json_file(config.QUEUED_JOBS_PATH, {"channels": {}, "last_run": _now_iso()})
 
 
 def save_queued_jobs(data: dict) -> None:
-    with open(config.QUEUED_JOBS_PATH, "w") as f:
-        json.dump(data, f, indent=2)
+    save_json_file(config.QUEUED_JOBS_PATH, data)
 
 
 def prune_queued_jobs(data: dict) -> dict:

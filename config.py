@@ -164,7 +164,8 @@ DEFAULT_SWE_FULL_TIME_KEYWORDS: list[str] = [
     "agentic",
 ]
 
-DEFAULT_SWE_EXCLUDED_KEYWORDS: list[str] = [
+# Shared base of seniority/level exclusions used by all channel defaults.
+_SENIORITY_EXCLUDED_KEYWORDS: list[str] = [
     "senior",
     "staff",
     "lead",
@@ -179,7 +180,6 @@ DEFAULT_SWE_EXCLUDED_KEYWORDS: list[str] = [
     "president",
     "officer",
     "distinguished",
-    "partner",
     "ii",
     "iii",
     "iv",
@@ -201,41 +201,9 @@ DEFAULT_SWE_EXCLUDED_KEYWORDS: list[str] = [
     "experienced",
 ]
 
-DEFAULT_PM_EXCLUDED_KEYWORDS: list[str] = [
-    "senior",
-    "staff",
-    "lead",
-    "director",
-    "principal",
-    "manager",
-    "mid",
-    "mid-level",
-    "mid level",
-    "vp",
-    "head of",
-    "president",
-    "officer",
-    "distinguished",
-    "ii",
-    "iii",
-    "iv",
-    "v",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "l2",
-    "l3",
-    "l4",
-    "l5",
-    "l6",
-    "e3",
-    "e4",
-    "e5",
-    "e6",
-    "experienced",
-]
+DEFAULT_SWE_EXCLUDED_KEYWORDS: list[str] = ["partner"] + _SENIORITY_EXCLUDED_KEYWORDS
+
+DEFAULT_PM_EXCLUDED_KEYWORDS: list[str] = list(_SENIORITY_EXCLUDED_KEYWORDS)
 
 DEFAULT_SWE_FULL_TIME_EXCLUDED_KEYWORDS: list[str] = [
     "intern",
@@ -243,41 +211,8 @@ DEFAULT_SWE_FULL_TIME_EXCLUDED_KEYWORDS: list[str] = [
     "student",
     "co-op",
     "apprentice",
-    "senior",
-    "staff",
-    "lead",
-    "director",
-    "principal",
-    "manager",
-    "mid",
-    "mid-level",
-    "mid level",
-    "vp",
-    "head of",
-    "president",
-    "officer",
-    "distinguished",
     "partner",
-    "ii",
-    "iii",
-    "iv",
-    "v",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "l2",
-    "l3",
-    "l4",
-    "l5",
-    "l6",
-    "e3",
-    "e4",
-    "e5",
-    "e6",
-    "experienced",
-]
+] + _SENIORITY_EXCLUDED_KEYWORDS
 
 DEFAULT_LOCATIONS: list[str] = [
     "us",
