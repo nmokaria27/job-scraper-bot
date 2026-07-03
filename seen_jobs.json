@@ -9271,10 +9271,34 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
       "seen_at": "2026-07-03T15:18:55.124926+00:00"
+    },
+    {
+      "id": "simplify-61c906f4-8ea5-4177-8afa-854efd9a7e01",
+      "seen_at": "2026-07-03T22:45:48.904537+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/AIFund/a95a55a3-06ca-4e15-8c72-8d9e8255a9d6/apply",
+      "seen_at": "2026-07-03T22:45:48.904839+00:00"
+    },
+    {
+      "id": "simplify-b1ef56f6-35ca-45ae-a9b7-9b57b95a7b04",
+      "seen_at": "2026-07-03T22:45:48.905038+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/sitrepsllc/jobs/4093707009",
+      "seen_at": "2026-07-03T22:45:48.905185+00:00"
+    },
+    {
+      "id": "simplify-1d83102a-79d5-4b64-af59-494b78508aa7",
+      "seen_at": "2026-07-03T22:45:48.905339+00:00"
+    },
+    {
+      "id": "url:https://careers-targetedvictory.icims.com/jobs/8008/job",
+      "seen_at": "2026-07-03T22:45:48.905483+00:00"
     }
   ],
-  "last_run": "2026-07-03T21:48:21.116511+00:00",
-  "total_notified": 1207,
+  "last_run": "2026-07-03T22:45:49.153936+00:00",
+  "total_notified": 1210,
   "channels": {
     "swe-jobs": [
       "simplify-d1b794fd-26be-4c15-bf39-5df493a20cd7",
@@ -11609,7 +11633,13 @@
       "simplify-35602e46-cb53-48a2-844c-72ece3de9e96",
       "url:https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Data-Scientist_1207756-3",
       "greenhouse-anthropic-5265365008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5265365008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
+      "simplify-61c906f4-8ea5-4177-8afa-854efd9a7e01",
+      "url:https://jobs.lever.co/AIFund/a95a55a3-06ca-4e15-8c72-8d9e8255a9d6/apply",
+      "simplify-b1ef56f6-35ca-45ae-a9b7-9b57b95a7b04",
+      "url:https://job-boards.greenhouse.io/sitrepsllc/jobs/4093707009",
+      "simplify-1d83102a-79d5-4b64-af59-494b78508aa7",
+      "url:https://careers-targetedvictory.icims.com/jobs/8008/job"
     ]
   }
 }
