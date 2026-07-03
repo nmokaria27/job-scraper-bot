@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-b22e2d71-0b55-45af-b3cf-939113b4807c",
-      "seen_at": "2026-06-03T14:54:04.366338+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/sunwatercapital/7681fd31-8d0b-405c-b0e0-7f8c1c87f3c8/apply",
-      "seen_at": "2026-06-03T14:54:04.366455+00:00"
-    },
-    {
-      "id": "simplify-0720bddd-8433-4879-9add-fee7b954416b",
-      "seen_at": "2026-06-03T14:54:04.366544+00:00"
-    },
-    {
-      "id": "url:https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718439",
-      "seen_at": "2026-06-03T14:54:04.366617+00:00"
-    },
-    {
       "id": "simplify-d1b794fd-26be-4c15-bf39-5df493a20cd7",
       "seen_at": "2026-06-03T23:54:42.793951+00:00"
     },
@@ -9279,16 +9263,20 @@
     {
       "id": "url:https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager---Expansion_REQ-1000049991",
       "seen_at": "2026-07-03T11:02:41.149943+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5265365008",
+      "seen_at": "2026-07-03T15:18:55.124723+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
+      "seen_at": "2026-07-03T15:18:55.124926+00:00"
     }
   ],
-  "last_run": "2026-07-03T13:02:43.683290+00:00",
-  "total_notified": 1206,
+  "last_run": "2026-07-03T15:18:55.316261+00:00",
+  "total_notified": 1207,
   "channels": {
     "swe-jobs": [
-      "simplify-b22e2d71-0b55-45af-b3cf-939113b4807c",
-      "url:https://jobs.lever.co/sunwatercapital/7681fd31-8d0b-405c-b0e0-7f8c1c87f3c8/apply",
-      "simplify-0720bddd-8433-4879-9add-fee7b954416b",
-      "url:https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718439",
       "simplify-d1b794fd-26be-4c15-bf39-5df493a20cd7",
       "url:https://careers-cotiviti.icims.com/jobs/19386/job",
       "simplify-d084a76f-d982-4334-b23c-16232dd2c71a",
@@ -11619,7 +11607,9 @@
       "simplify-45f6e525-5b17-4b57-9958-20605eb69c47",
       "url:https://job-boards.greenhouse.io/zscaler/jobs/5177411007",
       "simplify-35602e46-cb53-48a2-844c-72ece3de9e96",
-      "url:https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Data-Scientist_1207756-3"
+      "url:https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Data-Scientist_1207756-3",
+      "greenhouse-anthropic-5265365008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5265365008"
     ]
   }
 }
