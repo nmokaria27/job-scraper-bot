@@ -3,6 +3,7 @@ import json
 from urllib.parse import quote
 import httpx
 from scrapers.base import BaseScraper, Job
+from utils import format_company_name
 import config
 
 ASHBY_BASE = "https://jobs.ashbyhq.com"
@@ -98,7 +99,7 @@ class AshbyScraper(BaseScraper):
             job = Job(
                 id=f"ashby-{company_slug}-{raw.get('id') or raw.get('jobUrl')}",
                 title=title,
-                company=company_slug.replace("-", " ").title(),
+                company=format_company_name(company_slug),
                 location=location,
                 url=job_url,
                 platform=self.PLATFORM,

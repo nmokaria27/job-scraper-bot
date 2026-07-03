@@ -1,9 +1,9 @@
 import asyncio
 import json
 import re
-from datetime import datetime, timezone
 import httpx
 from scrapers.base import BaseScraper, Job
+from utils import timestamp_to_iso
 import config
 
 HN_BASE = "https://hacker-news.firebaseio.com/v0"
@@ -170,15 +170,7 @@ class HackerNewsScraper(BaseScraper):
             company = _extract_company(title)
             location = _extract_location(title)
 
-            # time is Unix timestamp in seconds
-            time_val = raw.get("time")
-            if time_val:
-                try:
-                    posted_at = datetime.fromtimestamp(time_val, tz=timezone.utc).isoformat()
-                except (ValueError, OSError):
-                    posted_at = "Unknown"
-            else:
-                posted_at = "Unknown"
+            posted_at = timestamp_to_iso(raw.get("time"))
 
             job = Job(
                 id=f"hn-{comment_id}",

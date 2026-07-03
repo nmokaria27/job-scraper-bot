@@ -1,7 +1,7 @@
 import json
-from datetime import datetime, timezone
 import httpx
 from scrapers.base import BaseScraper, Job
+from utils import timestamp_to_iso
 import config
 
 
@@ -41,17 +41,7 @@ class SimplifyScraper(BaseScraper):
             raw_locations = entry.get("locations") or []
             location = " / ".join(raw_locations) if raw_locations else "Unknown"
 
-            # date_posted is Unix timestamp in seconds
-            date_posted = entry.get("date_posted")
-            if date_posted:
-                try:
-                    posted_at = datetime.fromtimestamp(
-                        date_posted, tz=timezone.utc
-                    ).isoformat()
-                except (ValueError, OSError):
-                    posted_at = "Unknown"
-            else:
-                posted_at = "Unknown"
+            posted_at = timestamp_to_iso(entry.get("date_posted"))
 
             job = Job(
                 id=f"simplify-{entry['id']}",
