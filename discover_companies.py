@@ -122,7 +122,8 @@ async def _validate_slug(
                 return platform, slug, False
             response.raise_for_status()
             payload = response.json()
-        except (httpx.HTTPError, json.JSONDecodeError):
+        except (httpx.HTTPError, json.JSONDecodeError) as e:
+            print(f"[WARN] discovery: validation failed for {platform}/{slug} — {type(e).__name__}: {e}")
             return platform, slug, False
 
         if platform == "greenhouse":
@@ -162,7 +163,8 @@ def _load_existing(path: str) -> dict[str, list[str]]:
             payload = json.load(f)
     except FileNotFoundError:
         return {"greenhouse": [], "lever": [], "ashby": []}
-    except (json.JSONDecodeError, OSError):
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"[WARN] discovery: failed to load existing slugs from '{path}' — {e}")
         return {"greenhouse": [], "lever": [], "ashby": []}
 
     if not isinstance(payload, dict):

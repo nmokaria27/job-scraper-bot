@@ -474,9 +474,12 @@ async def scrape_all_raw() -> tuple[list[Job], int]:
     for platform, scraper in bulk_scrapers.items():
         if platform not in companies:
             continue
-        jobs = await scraper.fetch_jobs("")
-        total_checked += len(jobs)
-        all_jobs.extend(jobs)
+        try:
+            jobs = await scraper.fetch_jobs("")
+            total_checked += len(jobs)
+            all_jobs.extend(jobs)
+        except Exception as e:
+            print(f"[ERROR] {platform}: unexpected error — {type(e).__name__}: {e}")
 
     # --- ATS scrapers per company ---
     async def fetch_company(platform: str, slug: str, semaphore: asyncio.Semaphore) -> list[Job]:
@@ -493,9 +496,13 @@ async def scrape_all_raw() -> tuple[list[Job], int]:
         if platform in ats_scrapers
         for slug in company_slugs
     ]
-    for jobs in await asyncio.gather(*tasks):
-        total_checked += len(jobs)
-        all_jobs.extend(jobs)
+    results = await asyncio.gather(*tasks, return_exceptions=True)
+    for result in results:
+        if isinstance(result, Exception):
+            print(f"[ERROR] ATS scraper task failed — {type(result).__name__}: {result}")
+            continue
+        total_checked += len(result)
+        all_jobs.extend(result)
 
     return all_jobs, total_checked
 
@@ -641,11 +648,13 @@ async def main(init_mode: bool = False) -> None:
     seen_data["total_notified"] = seen_data.get("total_notified", 0) + total_notified
     queue_data["last_run"] = _now_iso()
 
+    save_errors = 0
     try:
         save_seen_jobs(seen_data)
         print(f"\n[INFO] seen_jobs.json saved ({len(seen_data['jobs'])} total entries)")
     except OSError as e:
         print(f"[ERROR] Failed to save seen_jobs.json: {e}")
+        save_errors += 1
 
     try:
         save_queued_jobs(queue_data)
@@ -653,8 +662,11 @@ async def main(init_mode: bool = False) -> None:
         print(f"[INFO] queued_jobs.json saved ({total_queued} total queued entries)")
     except OSError as e:
         print(f"[ERROR] Failed to save queued_jobs.json: {e}")
+        save_errors += 1
 
     print(f"[INFO] Run complete — {total_notified} total notifications sent")
+    if save_errors:
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":

@@ -135,13 +135,13 @@ async def send_summary(
     webhook_url: str | None = None,
     channel_name: str = "",
     force: bool = False,
-) -> None:
+) -> bool:
     """
     Send a summary embed at the end of a run.
     Only sends if new_count > 0 unless force=True.
     """
     if new_count == 0 and not force:
-        return
+        return True
 
     import config  # local import to avoid circular dependency at module level
 
@@ -188,4 +188,7 @@ async def send_summary(
     }
 
     async with httpx.AsyncClient(timeout=10) as client:
-        await _post_webhook(client, payload, webhook_url)
+        result = await _post_webhook(client, payload, webhook_url)
+        if not result.success:
+            print(f"[WARN] Failed to send summary embed for '{channel_name or 'default'}'")
+        return result.success
