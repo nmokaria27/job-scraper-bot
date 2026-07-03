@@ -58,10 +58,17 @@ async def _post_webhook(
         response.raise_for_status()
         return WebhookPostResult(success=True)
     except httpx.HTTPStatusError as e:
-        print(f"[ERROR] Discord webhook HTTP error {e.response.status_code}: {e.response.text}")
+        status = e.response.status_code
+        # Only log safe, non-sensitive portions of the response
+        try:
+            error_body = e.response.json()
+            detail = error_body.get("message", "")[:200]
+        except Exception:
+            detail = "(non-JSON response)"
+        print(f"[ERROR] Discord webhook HTTP error {status}: {detail}")
         return WebhookPostResult(
             success=False,
-            fatal=e.response.status_code in FATAL_WEBHOOK_STATUS_CODES,
+            fatal=status in FATAL_WEBHOOK_STATUS_CODES,
         )
     except httpx.RequestError as e:
         print(f"[ERROR] Discord webhook connection error: {e}")
