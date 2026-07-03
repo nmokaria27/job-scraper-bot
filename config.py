@@ -74,6 +74,20 @@ def _normalize_webhook_url(url: object) -> str:
     return "".join(str(url).split())
 
 
+def _validate_webhook_url(url: str, source: str) -> None:
+    """Reject webhook URLs that don't point to Discord's API.
+
+    Prevents SSRF by ensuring outbound webhook POSTs only go to Discord.
+    """
+    if not url:
+        return
+    if not url.startswith("https://discord.com/api/webhooks/"):
+        raise ValueError(
+            f"{source}: webhook URL must start with "
+            f"'https://discord.com/api/webhooks/'"
+        )
+
+
 # ---------------------------------------------------------------------------
 # Channel configuration
 # ---------------------------------------------------------------------------
@@ -559,6 +573,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
         for ch in channels:
             if not ch.webhook_url:
                 raise ValueError(f"Channel '{ch.name}' is missing webhook_url")
+            _validate_webhook_url(ch.webhook_url, f"Channel '{ch.name}'")
 
     return channels
 
