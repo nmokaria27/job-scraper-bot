@@ -95,7 +95,8 @@ class HackerNewsScraper(BaseScraper):
                 title = (item.get("title") or "").lower()
                 if title.startswith("ask hn: who is hiring?"):
                     return item_id
-            except (httpx.RequestError, httpx.HTTPStatusError, json.JSONDecodeError):
+            except (httpx.RequestError, httpx.HTTPStatusError, json.JSONDecodeError) as e:
+                print(f"[WARN] hackernews: failed to fetch submission {item_id} — {type(e).__name__}: {e}")
                 continue
 
         print("[WARN] hackernews: could not find 'Who is Hiring?' thread in latest submissions")
@@ -114,7 +115,8 @@ class HackerNewsScraper(BaseScraper):
                 resp.raise_for_status()
                 await asyncio.sleep(BATCH_SLEEP)
                 return resp.json()
-            except (httpx.RequestError, httpx.HTTPStatusError, json.JSONDecodeError):
+            except (httpx.RequestError, httpx.HTTPStatusError, json.JSONDecodeError) as e:
+                print(f"[WARN] hackernews: failed to fetch comment {comment_id} — {type(e).__name__}: {e}")
                 return None
 
     async def fetch_jobs(self, company_slug: str = "") -> list[Job]:

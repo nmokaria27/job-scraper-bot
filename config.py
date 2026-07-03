@@ -17,7 +17,11 @@ def _parse_int(env_var: str, default: int) -> int:
     raw = os.getenv(env_var, "").strip()
     if not raw:
         return default
-    return int(raw)
+    try:
+        return int(raw)
+    except ValueError:
+        print(f"[WARN] {env_var}={raw!r} is not a valid integer, using default {default}")
+        return default
 
 
 def _parse_float(env_var: str, default: float) -> float:
@@ -25,7 +29,11 @@ def _parse_float(env_var: str, default: float) -> float:
     raw = os.getenv(env_var, "").strip()
     if not raw:
         return default
-    return float(raw)
+    try:
+        return float(raw)
+    except ValueError:
+        print(f"[WARN] {env_var}={raw!r} is not a valid float, using default {default}")
+        return default
 
 
 def _parse_bool(env_var: str, default: bool) -> bool:
