@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5247640008",
-      "seen_at": "2026-06-04T20:17:40.898510+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5247640008",
-      "seen_at": "2026-06-04T20:17:40.898613+00:00"
-    },
-    {
       "id": "simplify-e26e8687-b77f-46d9-bdfe-01a22ce2be5e",
       "seen_at": "2026-06-04T23:18:09.670369+00:00"
     },
@@ -9209,7 +9201,7 @@
       "seen_at": "2026-07-04T15:34:52.936823+00:00"
     }
   ],
-  "last_run": "2026-07-04T19:58:56.999170+00:00",
+  "last_run": "2026-07-04T21:09:40.268971+00:00",
   "total_notified": 1216,
   "channels": {
     "swe-jobs": [
@@ -9677,8 +9669,6 @@
       "url:https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application"
     ],
     "pm-jobs": [
-      "greenhouse-anthropic-5247640008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5247640008",
       "greenhouse-anthropic-5124623008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5124623008",
       "greenhouse-airbnb-7827238",
