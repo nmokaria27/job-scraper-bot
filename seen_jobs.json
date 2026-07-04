@@ -9199,10 +9199,26 @@
     {
       "id": "url:https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-549477-1",
       "seen_at": "2026-07-04T14:19:23.057463+00:00"
+    },
+    {
+      "id": "simplify-5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
+      "seen_at": "2026-07-04T15:34:51.305946+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application",
+      "seen_at": "2026-07-04T15:34:51.306101+00:00"
+    },
+    {
+      "id": "simplify-a9b455fc-53c5-4698-9a24-a963d29ef5f0",
+      "seen_at": "2026-07-04T15:34:52.936650+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/rivet/545349a1-139e-4119-96fd-928d3e4ac8c9/application",
+      "seen_at": "2026-07-04T15:34:52.936823+00:00"
     }
   ],
-  "last_run": "2026-07-04T14:19:23.224862+00:00",
-  "total_notified": 1214,
+  "last_run": "2026-07-04T15:34:53.244096+00:00",
+  "total_notified": 1216,
   "channels": {
     "swe-jobs": [
       "simplify-25bf1002-16f7-4d53-bcf5-e005d14cffa8",
@@ -9666,7 +9682,9 @@
       "simplify-098a3e59-47c8-468f-bd4d-7a3c9ad2786c",
       "url:https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
       "simplify-366c2106-60ad-48af-b7c0-95537c275a17",
-      "url:https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application"
+      "url:https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application",
+      "simplify-5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
+      "url:https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application"
     ],
     "pm-jobs": [
       "greenhouse-anthropic-5247640008",
@@ -11519,7 +11537,9 @@
       "simplify-e0ab658c-09fa-417e-8fba-181533ca4231",
       "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4043077-1",
       "simplify-6763db63-2703-4fa3-ba56-026f329dda6e",
-      "url:https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-549477-1"
+      "url:https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-549477-1",
+      "simplify-a9b455fc-53c5-4698-9a24-a963d29ef5f0",
+      "url:https://jobs.ashbyhq.com/rivet/545349a1-139e-4119-96fd-928d3e4ac8c9/application"
     ]
   }
 }
