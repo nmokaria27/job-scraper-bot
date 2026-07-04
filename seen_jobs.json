@@ -1,118 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-d1b794fd-26be-4c15-bf39-5df493a20cd7",
-      "seen_at": "2026-06-03T23:54:42.793951+00:00"
-    },
-    {
-      "id": "url:https://careers-cotiviti.icims.com/jobs/19386/job",
-      "seen_at": "2026-06-03T23:54:42.794066+00:00"
-    },
-    {
-      "id": "simplify-d084a76f-d982-4334-b23c-16232dd2c71a",
-      "seen_at": "2026-06-03T23:54:42.794144+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/billiontoone/jobs/4702398005",
-      "seen_at": "2026-06-03T23:54:42.794211+00:00"
-    },
-    {
-      "id": "simplify-68127dda-73b9-40f5-9686-c6a63d8651ca",
-      "seen_at": "2026-06-03T23:54:42.794278+00:00"
-    },
-    {
-      "id": "url:https://ats.comparably.com/api/v2/stash/post/7979793:",
-      "seen_at": "2026-06-03T23:54:42.794345+00:00"
-    },
-    {
-      "id": "simplify-5c72931b-1749-4cab-a6b5-9648c29db532",
-      "seen_at": "2026-06-03T23:54:42.794415+00:00"
-    },
-    {
-      "id": "url:https://leidos.wd5.myworkdayjobs.com/External/job/Poulsbo-WA/Software-Engineer-Intern--DevOps-_R-00184709",
-      "seen_at": "2026-06-03T23:54:42.794488+00:00"
-    },
-    {
-      "id": "simplify-95bf548d-b42d-4076-aee6-3afce1e110be",
-      "seen_at": "2026-06-03T23:54:42.794594+00:00"
-    },
-    {
-      "id": "url:https://apply.workable.com/altom-transport/j/8536165C7B/apply",
-      "seen_at": "2026-06-03T23:54:42.794667+00:00"
-    },
-    {
-      "id": "simplify-cffd6bd0-5186-4c17-8fac-8d5a71a2a071",
-      "seen_at": "2026-06-03T23:54:42.794736+00:00"
-    },
-    {
-      "id": "url:https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
-      "seen_at": "2026-06-03T23:54:42.794801+00:00"
-    },
-    {
-      "id": "simplify-985b4b35-9585-43ac-a5e0-07e7b3bd2086",
-      "seen_at": "2026-06-03T23:54:42.794867+00:00"
-    },
-    {
-      "id": "url:https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Generative-AI-Engineer-Virtual-Internship_JR-260536",
-      "seen_at": "2026-06-03T23:54:42.794931+00:00"
-    },
-    {
-      "id": "simplify-b9669146-88c3-4c3b-8c92-5d6ade8bdaf5",
-      "seen_at": "2026-06-03T23:54:42.794998+00:00"
-    },
-    {
-      "id": "url:https://situsamc.wd1.myworkdayjobs.com/SitusAMC/job/Remote/Intern---AI-Software-Development-Team_JR02562",
-      "seen_at": "2026-06-03T23:54:42.795065+00:00"
-    },
-    {
-      "id": "simplify-97384efa-d148-42eb-ab3d-a566f160e167",
-      "seen_at": "2026-06-03T23:54:42.795147+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/ispottv/jobs/4702457005",
-      "seen_at": "2026-06-03T23:54:42.795217+00:00"
-    },
-    {
-      "id": "simplify-7b3ff765-4ffc-408a-b46a-cb2bdaeb8192",
-      "seen_at": "2026-06-03T23:54:42.795286+00:00"
-    },
-    {
-      "id": "url:https://apply.workable.com/al-warren-oil-company-inc/j/345DC0E6D4/apply",
-      "seen_at": "2026-06-03T23:54:42.795366+00:00"
-    },
-    {
-      "id": "simplify-b65518ff-f78a-4e60-aa9a-43dbea785a9b",
-      "seen_at": "2026-06-03T23:54:42.795442+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Performance-Engineer--Agentic-AI-Workloads---New-College-Grad-2026_JR2018588",
-      "seen_at": "2026-06-03T23:54:42.795508+00:00"
-    },
-    {
-      "id": "simplify-fb8993b6-84c3-4607-801f-ed29b702f2f8",
-      "seen_at": "2026-06-03T23:54:42.795590+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
-      "seen_at": "2026-06-03T23:54:42.795656+00:00"
-    },
-    {
-      "id": "simplify-964d2490-a81d-4955-9750-c982340640a3",
-      "seen_at": "2026-06-03T23:54:42.795725+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Inference-Performance-Engineer---New-College-Grad-2026_JR2014441",
-      "seen_at": "2026-06-03T23:54:42.795790+00:00"
-    },
-    {
-      "id": "simplify-15e7eab5-4982-4400-aef6-397d5a5dc3b0",
-      "seen_at": "2026-06-03T23:54:43.875941+00:00"
-    },
-    {
-      "id": "url:https://careers-mercuryinsurance.icims.com/jobs/6462/job",
-      "seen_at": "2026-06-03T23:54:43.876050+00:00"
-    },
-    {
       "id": "simplify-27661236-09ec-450a-b497-537d69be2c72",
       "seen_at": "2026-06-04T04:58:56.623968+00:00"
     },
@@ -9305,36 +9193,10 @@
       "seen_at": "2026-07-03T23:47:28.108741+00:00"
     }
   ],
-  "last_run": "2026-07-03T23:47:28.663328+00:00",
+  "last_run": "2026-07-04T01:19:47.030806+00:00",
   "total_notified": 1211,
   "channels": {
     "swe-jobs": [
-      "simplify-d1b794fd-26be-4c15-bf39-5df493a20cd7",
-      "url:https://careers-cotiviti.icims.com/jobs/19386/job",
-      "simplify-d084a76f-d982-4334-b23c-16232dd2c71a",
-      "url:https://job-boards.greenhouse.io/billiontoone/jobs/4702398005",
-      "simplify-68127dda-73b9-40f5-9686-c6a63d8651ca",
-      "url:https://ats.comparably.com/api/v2/stash/post/7979793:",
-      "simplify-5c72931b-1749-4cab-a6b5-9648c29db532",
-      "url:https://leidos.wd5.myworkdayjobs.com/External/job/Poulsbo-WA/Software-Engineer-Intern--DevOps-_R-00184709",
-      "simplify-95bf548d-b42d-4076-aee6-3afce1e110be",
-      "url:https://apply.workable.com/altom-transport/j/8536165C7B/apply",
-      "simplify-cffd6bd0-5186-4c17-8fac-8d5a71a2a071",
-      "url:https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
-      "simplify-985b4b35-9585-43ac-a5e0-07e7b3bd2086",
-      "url:https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Generative-AI-Engineer-Virtual-Internship_JR-260536",
-      "simplify-b9669146-88c3-4c3b-8c92-5d6ade8bdaf5",
-      "url:https://situsamc.wd1.myworkdayjobs.com/SitusAMC/job/Remote/Intern---AI-Software-Development-Team_JR02562",
-      "simplify-97384efa-d148-42eb-ab3d-a566f160e167",
-      "url:https://job-boards.greenhouse.io/ispottv/jobs/4702457005",
-      "simplify-7b3ff765-4ffc-408a-b46a-cb2bdaeb8192",
-      "url:https://apply.workable.com/al-warren-oil-company-inc/j/345DC0E6D4/apply",
-      "simplify-b65518ff-f78a-4e60-aa9a-43dbea785a9b",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Performance-Engineer--Agentic-AI-Workloads---New-College-Grad-2026_JR2018588",
-      "simplify-fb8993b6-84c3-4607-801f-ed29b702f2f8",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
-      "simplify-964d2490-a81d-4955-9750-c982340640a3",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Inference-Performance-Engineer---New-College-Grad-2026_JR2014441",
       "simplify-27661236-09ec-450a-b497-537d69be2c72",
       "url:https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718813",
       "simplify-25bf1002-16f7-4d53-bcf5-e005d14cffa8",
@@ -9799,8 +9661,6 @@
       "url:https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624"
     ],
     "pm-jobs": [
-      "simplify-15e7eab5-4982-4400-aef6-397d5a5dc3b0",
-      "url:https://careers-mercuryinsurance.icims.com/jobs/6462/job",
       "simplify-bf6301d3-a965-4a41-8bf1-b122e83223cc",
       "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726631",
       "greenhouse-anthropic-5247640008",
