@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-25bf1002-16f7-4d53-bcf5-e005d14cffa8",
-      "seen_at": "2026-06-04T15:48:17.857686+00:00"
-    },
-    {
-      "id": "url:https://careers-gdms.icims.com/jobs/72936/job",
-      "seen_at": "2026-06-04T15:48:17.857928+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5247640008",
       "seen_at": "2026-06-04T20:17:40.898510+00:00"
     },
@@ -9217,12 +9209,10 @@
       "seen_at": "2026-07-04T15:34:52.936823+00:00"
     }
   ],
-  "last_run": "2026-07-04T15:34:53.244096+00:00",
+  "last_run": "2026-07-04T16:35:25.113139+00:00",
   "total_notified": 1216,
   "channels": {
     "swe-jobs": [
-      "simplify-25bf1002-16f7-4d53-bcf5-e005d14cffa8",
-      "url:https://careers-gdms.icims.com/jobs/72936/job",
       "simplify-e26e8687-b77f-46d9-bdfe-01a22ce2be5e",
       "url:https://jobs.bytedance.com/en/position/7595707875767699765/detail",
       "simplify-56f714dd-27f8-4010-9262-c342a2fdecd0",
