@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-27661236-09ec-450a-b497-537d69be2c72",
-      "seen_at": "2026-06-04T04:58:56.623968+00:00"
-    },
-    {
-      "id": "url:https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718813",
-      "seen_at": "2026-06-04T04:58:56.624086+00:00"
-    },
-    {
-      "id": "simplify-bf6301d3-a965-4a41-8bf1-b122e83223cc",
-      "seen_at": "2026-06-04T04:58:57.770159+00:00"
-    },
-    {
-      "id": "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726631",
-      "seen_at": "2026-06-04T04:58:57.770276+00:00"
-    },
-    {
       "id": "simplify-25bf1002-16f7-4d53-bcf5-e005d14cffa8",
       "seen_at": "2026-06-04T15:48:17.857686+00:00"
     },
@@ -9193,12 +9177,10 @@
       "seen_at": "2026-07-03T23:47:28.108741+00:00"
     }
   ],
-  "last_run": "2026-07-04T04:56:40.278987+00:00",
+  "last_run": "2026-07-04T07:54:39.640456+00:00",
   "total_notified": 1211,
   "channels": {
     "swe-jobs": [
-      "simplify-27661236-09ec-450a-b497-537d69be2c72",
-      "url:https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718813",
       "simplify-25bf1002-16f7-4d53-bcf5-e005d14cffa8",
       "url:https://careers-gdms.icims.com/jobs/72936/job",
       "simplify-e26e8687-b77f-46d9-bdfe-01a22ce2be5e",
@@ -9661,8 +9643,6 @@
       "url:https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624"
     ],
     "pm-jobs": [
-      "simplify-bf6301d3-a965-4a41-8bf1-b122e83223cc",
-      "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726631",
       "greenhouse-anthropic-5247640008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5247640008",
       "greenhouse-anthropic-5124623008",
