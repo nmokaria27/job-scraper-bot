@@ -9135,10 +9135,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
       "seen_at": "2026-07-05T14:49:51.561685+00:00"
+    },
+    {
+      "id": "simplify-9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
+      "seen_at": "2026-07-05T23:30:17.942793+00:00"
+    },
+    {
+      "id": "url:https://www.tower-research.com/open-positions",
+      "seen_at": "2026-07-05T23:30:17.942976+00:00"
+    },
+    {
+      "id": "simplify-cbd36f9a-2045-4594-9966-504ba808e61a",
+      "seen_at": "2026-07-05T23:30:19.811685+00:00"
+    },
+    {
+      "id": "url:https://pmpediatrics.wd5.myworkdayjobs.com/PMPeds/job/Remote---United-States/AI---Analytics-Engineer_2026-R0988-3",
+      "seen_at": "2026-07-05T23:30:19.811878+00:00"
     }
   ],
-  "last_run": "2026-07-05T22:15:38.469832+00:00",
-  "total_notified": 1218,
+  "last_run": "2026-07-05T23:30:20.154369+00:00",
+  "total_notified": 1220,
   "channels": {
     "swe-jobs": [
       "simplify-8ee2c108-7c86-4c94-b7bb-5667b48e3d3a",
@@ -9584,7 +9600,9 @@
       "simplify-366c2106-60ad-48af-b7c0-95537c275a17",
       "url:https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application",
       "simplify-5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
-      "url:https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application"
+      "url:https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application",
+      "simplify-9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
+      "url:https://www.tower-research.com/open-positions"
     ],
     "pm-jobs": [
       "greenhouse-airbnb-7827238",
@@ -11439,7 +11457,9 @@
       "simplify-d5334592-4814-4ea5-a7f1-14bb1ae228ca",
       "url:https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer---Go-To-Market-Analytics_R-548948-1",
       "simplify-90b92c02-68ac-4402-b8f2-91494bc89e19",
-      "url:https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009"
+      "url:https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
+      "simplify-cbd36f9a-2045-4594-9966-504ba808e61a",
+      "url:https://pmpediatrics.wd5.myworkdayjobs.com/PMPeds/job/Remote---United-States/AI---Analytics-Engineer_2026-R0988-3"
     ]
   }
 }
