@@ -9055,10 +9055,82 @@
     {
       "id": "url:https://jobs.ashbyhq.com/cerebras/98ccea5d-d67a-4b58-a44a-168eb5012fe6/application",
       "seen_at": "2026-07-07T11:32:40.649428+00:00"
+    },
+    {
+      "id": "simplify-093cdbb8-4410-448c-a982-8ac9a9d866f2",
+      "seen_at": "2026-07-07T16:12:48.797385+00:00"
+    },
+    {
+      "id": "url:https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/United-Kingdom-Remote/Product-Manager_JR004229-2",
+      "seen_at": "2026-07-07T16:12:48.797530+00:00"
+    },
+    {
+      "id": "simplify-4cc19448-c709-4f52-92b4-9d868f9ad3e9",
+      "seen_at": "2026-07-07T16:12:55.105974+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1",
+      "seen_at": "2026-07-07T16:12:55.106143+00:00"
+    },
+    {
+      "id": "simplify-eb87c575-f355-4c1f-b359-be5c684b2d03",
+      "seen_at": "2026-07-07T16:12:55.106337+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/shieldai/792d3340-fe18-4caa-a5c6-9905e67213e3/apply",
+      "seen_at": "2026-07-07T16:12:55.106461+00:00"
+    },
+    {
+      "id": "simplify-7e5858ee-eba9-4783-9ac7-bb48f040f034",
+      "seen_at": "2026-07-07T16:12:55.106583+00:00"
+    },
+    {
+      "id": "url:https://careers-kimley-horn.icims.com/jobs/24872/job",
+      "seen_at": "2026-07-07T16:12:55.106691+00:00"
+    },
+    {
+      "id": "greenhouse-robinhood-7729313",
+      "seen_at": "2026-07-07T16:12:55.106808+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/robinhood/jobs/7729313",
+      "seen_at": "2026-07-07T16:12:55.106931+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-8045678",
+      "seen_at": "2026-07-07T16:12:55.107053+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/8045678",
+      "seen_at": "2026-07-07T16:12:55.107156+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-6105394004",
+      "seen_at": "2026-07-07T16:12:55.107283+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6105394004",
+      "seen_at": "2026-07-07T16:12:55.107386+00:00"
+    },
+    {
+      "id": "greenhouse-lyft-8615368002",
+      "seen_at": "2026-07-07T16:12:55.107498+00:00"
+    },
+    {
+      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8615368002",
+      "seen_at": "2026-07-07T16:12:55.107600+00:00"
+    },
+    {
+      "id": "ashby-openai-bbad4315-1f13-4b2f-b595-cf1287274f2f",
+      "seen_at": "2026-07-07T16:12:55.107706+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/bbad4315-1f13-4b2f-b595-cf1287274f2f",
+      "seen_at": "2026-07-07T16:12:55.107807+00:00"
     }
   ],
-  "last_run": "2026-07-07T13:38:30.409963+00:00",
-  "total_notified": 1267,
+  "last_run": "2026-07-07T16:12:55.374834+00:00",
+  "total_notified": 1276,
   "channels": {
     "swe-jobs": [
       "simplify-630f6c80-efb2-4a6c-9c00-0dbd2f998d26",
@@ -9541,7 +9613,9 @@
       "ashby-openai-ee047eec-ae79-474b-9f1b-764242bc3c63",
       "url:https://jobs.ashbyhq.com/openai/ee047eec-ae79-474b-9f1b-764242bc3c63",
       "simplify-25c13fde-c469-4623-88ba-38af10053aeb",
-      "url:https://lifeattiktok.com/search/7657728959042046213"
+      "url:https://lifeattiktok.com/search/7657728959042046213",
+      "simplify-093cdbb8-4410-448c-a982-8ac9a9d866f2",
+      "url:https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/United-Kingdom-Remote/Product-Manager_JR004229-2"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
@@ -11339,7 +11413,23 @@
       "simplify-c0479012-54e4-478d-922f-1948cd356ac4",
       "url:https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application",
       "simplify-a736118b-b097-4ded-bc29-f0fb61e5457e",
-      "url:https://jobs.ashbyhq.com/cerebras/98ccea5d-d67a-4b58-a44a-168eb5012fe6/application"
+      "url:https://jobs.ashbyhq.com/cerebras/98ccea5d-d67a-4b58-a44a-168eb5012fe6/application",
+      "simplify-4cc19448-c709-4f52-92b4-9d868f9ad3e9",
+      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1",
+      "simplify-eb87c575-f355-4c1f-b359-be5c684b2d03",
+      "url:https://jobs.lever.co/shieldai/792d3340-fe18-4caa-a5c6-9905e67213e3/apply",
+      "simplify-7e5858ee-eba9-4783-9ac7-bb48f040f034",
+      "url:https://careers-kimley-horn.icims.com/jobs/24872/job",
+      "greenhouse-robinhood-7729313",
+      "url:https://boards.greenhouse.io/robinhood/jobs/7729313",
+      "greenhouse-datadog-8045678",
+      "url:https://careers.datadoghq.com/detail/8045678",
+      "greenhouse-vercel-6105394004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6105394004",
+      "greenhouse-lyft-8615368002",
+      "url:https://app.careerpuck.com/job-board/lyft/job/8615368002",
+      "ashby-openai-bbad4315-1f13-4b2f-b595-cf1287274f2f",
+      "url:https://jobs.ashbyhq.com/openai/bbad4315-1f13-4b2f-b595-cf1287274f2f"
     ]
   }
 }
