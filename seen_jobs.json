@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-10b8da4f-6883-47c0-b98d-6c271f1f6357",
-      "seen_at": "2026-06-07T09:52:02.199879+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/259221",
-      "seen_at": "2026-06-07T09:52:02.199955+00:00"
-    },
-    {
-      "id": "simplify-31c33423-00ae-4812-8d33-cdb0744b3c81",
-      "seen_at": "2026-06-07T09:52:02.200006+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/272290",
-      "seen_at": "2026-06-07T09:52:02.200045+00:00"
-    },
-    {
-      "id": "simplify-f224e9c0-6aa1-45bb-b02c-b75ccda9b00c",
-      "seen_at": "2026-06-07T09:52:02.200086+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/269829",
-      "seen_at": "2026-06-07T09:52:02.200124+00:00"
-    },
-    {
-      "id": "simplify-eee826e6-97e1-40a7-91fd-be9d495e5e43",
-      "seen_at": "2026-06-07T09:52:02.200165+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/272462",
-      "seen_at": "2026-06-07T09:52:02.200203+00:00"
-    },
-    {
-      "id": "simplify-72d9ecb4-34ef-4629-ae71-2c2e019e5ad7",
-      "seen_at": "2026-06-07T09:52:02.200251+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/259222",
-      "seen_at": "2026-06-07T09:52:02.200290+00:00"
-    },
-    {
-      "id": "simplify-abc9038a-92bb-4e7c-b016-49feb542cb56",
-      "seen_at": "2026-06-07T09:52:02.200331+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/267767",
-      "seen_at": "2026-06-07T09:52:02.200368+00:00"
-    },
-    {
-      "id": "simplify-121cc7ec-2289-451b-996d-daf547f67f25",
-      "seen_at": "2026-06-07T09:52:02.200447+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/267750",
-      "seen_at": "2026-06-07T09:52:02.200484+00:00"
-    },
-    {
       "id": "simplify-630f6c80-efb2-4a6c-9c00-0dbd2f998d26",
       "seen_at": "2026-06-08T06:58:42.304727+00:00"
     },
@@ -9079,26 +9023,44 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1",
       "seen_at": "2026-07-07T08:45:46.046345+00:00"
+    },
+    {
+      "id": "simplify-8ab3cc20-459a-4c6f-bfcb-4b8487e56196",
+      "seen_at": "2026-07-07T11:32:40.648462+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application",
+      "seen_at": "2026-07-07T11:32:40.648635+00:00"
+    },
+    {
+      "id": "simplify-a4db1cdd-98a3-4e59-b6c0-9baff85f5a46",
+      "seen_at": "2026-07-07T11:32:40.648782+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7536272435440716040/detail",
+      "seen_at": "2026-07-07T11:32:40.648907+00:00"
+    },
+    {
+      "id": "simplify-c0479012-54e4-478d-922f-1948cd356ac4",
+      "seen_at": "2026-07-07T11:32:40.649040+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application",
+      "seen_at": "2026-07-07T11:32:40.649165+00:00"
+    },
+    {
+      "id": "simplify-a736118b-b097-4ded-bc29-f0fb61e5457e",
+      "seen_at": "2026-07-07T11:32:40.649310+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cerebras/98ccea5d-d67a-4b58-a44a-168eb5012fe6/application",
+      "seen_at": "2026-07-07T11:32:40.649428+00:00"
     }
   ],
-  "last_run": "2026-07-07T08:45:46.240809+00:00",
-  "total_notified": 1263,
+  "last_run": "2026-07-07T11:32:40.839755+00:00",
+  "total_notified": 1267,
   "channels": {
     "swe-jobs": [
-      "simplify-10b8da4f-6883-47c0-b98d-6c271f1f6357",
-      "url:https://www.tesla.com/careers/search/job/259221",
-      "simplify-31c33423-00ae-4812-8d33-cdb0744b3c81",
-      "url:https://www.tesla.com/careers/search/job/272290",
-      "simplify-f224e9c0-6aa1-45bb-b02c-b75ccda9b00c",
-      "url:https://www.tesla.com/careers/search/job/269829",
-      "simplify-eee826e6-97e1-40a7-91fd-be9d495e5e43",
-      "url:https://www.tesla.com/careers/search/job/272462",
-      "simplify-72d9ecb4-34ef-4629-ae71-2c2e019e5ad7",
-      "url:https://www.tesla.com/careers/search/job/259222",
-      "simplify-abc9038a-92bb-4e7c-b016-49feb542cb56",
-      "url:https://www.tesla.com/careers/search/job/267767",
-      "simplify-121cc7ec-2289-451b-996d-daf547f67f25",
-      "url:https://www.tesla.com/careers/search/job/267750",
       "simplify-630f6c80-efb2-4a6c-9c00-0dbd2f998d26",
       "url:https://www.tesla.com/careers/search/job/257048",
       "simplify-6093e680-0285-45a2-8e38-1f6ae4e9f4cc",
@@ -11369,7 +11331,15 @@
       "simplify-ddd133e6-7ff2-4032-8e0e-f3f111bdfd57",
       "url:https://careers-gdms.icims.com/jobs/73366/job",
       "ashby-openai-eefeb527-4e36-432e-a787-88e4672e29e1",
-      "url:https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1"
+      "url:https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1",
+      "simplify-8ab3cc20-459a-4c6f-bfcb-4b8487e56196",
+      "url:https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application",
+      "simplify-a4db1cdd-98a3-4e59-b6c0-9baff85f5a46",
+      "url:https://jobs.bytedance.com/en/position/7536272435440716040/detail",
+      "simplify-c0479012-54e4-478d-922f-1948cd356ac4",
+      "url:https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application",
+      "simplify-a736118b-b097-4ded-bc29-f0fb61e5457e",
+      "url:https://jobs.ashbyhq.com/cerebras/98ccea5d-d67a-4b58-a44a-168eb5012fe6/application"
     ]
   }
 }
