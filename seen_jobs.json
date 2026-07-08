@@ -1,86 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-630f6c80-efb2-4a6c-9c00-0dbd2f998d26",
-      "seen_at": "2026-06-08T06:58:42.304727+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/257048",
-      "seen_at": "2026-06-08T06:58:42.304809+00:00"
-    },
-    {
-      "id": "simplify-6093e680-0285-45a2-8e38-1f6ae4e9f4cc",
-      "seen_at": "2026-06-08T06:58:42.304904+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/271981",
-      "seen_at": "2026-06-08T06:58:42.304958+00:00"
-    },
-    {
-      "id": "simplify-aa2d96cf-602c-4b25-9ad5-397c11b29221",
-      "seen_at": "2026-06-08T06:58:42.305013+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/270511",
-      "seen_at": "2026-06-08T06:58:42.305063+00:00"
-    },
-    {
-      "id": "simplify-91e02296-e111-4285-9087-9c63a3cb566b",
-      "seen_at": "2026-06-08T06:58:42.305118+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/270618",
-      "seen_at": "2026-06-08T06:58:42.305169+00:00"
-    },
-    {
-      "id": "simplify-65d7082a-180e-4d87-914c-87e9e3d15ae0",
-      "seen_at": "2026-06-08T06:58:42.305227+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/253454",
-      "seen_at": "2026-06-08T06:58:42.305277+00:00"
-    },
-    {
-      "id": "simplify-3f099127-5e46-4a19-bbda-3e62875498eb",
-      "seen_at": "2026-06-08T06:58:42.305330+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/270617",
-      "seen_at": "2026-06-08T06:58:42.305378+00:00"
-    },
-    {
-      "id": "simplify-88766d81-38a1-4e05-86b9-0d4f5f4f630b",
-      "seen_at": "2026-06-08T06:58:42.305433+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/270778",
-      "seen_at": "2026-06-08T06:58:42.305483+00:00"
-    },
-    {
-      "id": "simplify-36452090-98d7-49de-9884-697203676c3d",
-      "seen_at": "2026-06-08T06:58:42.305535+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/270509",
-      "seen_at": "2026-06-08T06:58:42.305579+00:00"
-    },
-    {
-      "id": "simplify-52919742-2339-4055-82e8-694863cdb915",
-      "seen_at": "2026-06-08T06:58:42.305622+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/270521",
-      "seen_at": "2026-06-08T06:58:42.305662+00:00"
-    },
-    {
-      "id": "simplify-92c74e2a-d641-479a-a863-c482e9847e07",
-      "seen_at": "2026-06-08T06:58:42.305704+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/266981",
-      "seen_at": "2026-06-08T06:58:42.305743+00:00"
-    },
-    {
       "id": "simplify-90b3eda5-0876-4e90-a339-12799f108611",
       "seen_at": "2026-06-08T16:14:24.395216+00:00"
     },
@@ -9417,30 +9337,10 @@
       "seen_at": "2026-07-08T06:17:51.619940+00:00"
     }
   ],
-  "last_run": "2026-07-08T06:17:51.918633+00:00",
+  "last_run": "2026-07-08T08:46:47.708448+00:00",
   "total_notified": 1312,
   "channels": {
     "swe-jobs": [
-      "simplify-630f6c80-efb2-4a6c-9c00-0dbd2f998d26",
-      "url:https://www.tesla.com/careers/search/job/257048",
-      "simplify-6093e680-0285-45a2-8e38-1f6ae4e9f4cc",
-      "url:https://www.tesla.com/careers/search/job/271981",
-      "simplify-aa2d96cf-602c-4b25-9ad5-397c11b29221",
-      "url:https://www.tesla.com/careers/search/job/270511",
-      "simplify-91e02296-e111-4285-9087-9c63a3cb566b",
-      "url:https://www.tesla.com/careers/search/job/270618",
-      "simplify-65d7082a-180e-4d87-914c-87e9e3d15ae0",
-      "url:https://www.tesla.com/careers/search/job/253454",
-      "simplify-3f099127-5e46-4a19-bbda-3e62875498eb",
-      "url:https://www.tesla.com/careers/search/job/270617",
-      "simplify-88766d81-38a1-4e05-86b9-0d4f5f4f630b",
-      "url:https://www.tesla.com/careers/search/job/270778",
-      "simplify-36452090-98d7-49de-9884-697203676c3d",
-      "url:https://www.tesla.com/careers/search/job/270509",
-      "simplify-52919742-2339-4055-82e8-694863cdb915",
-      "url:https://www.tesla.com/careers/search/job/270521",
-      "simplify-92c74e2a-d641-479a-a863-c482e9847e07",
-      "url:https://www.tesla.com/careers/search/job/266981",
       "simplify-90b3eda5-0876-4e90-a339-12799f108611",
       "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/Entry-Level-RF-Engineer_R0163070",
       "simplify-f9c884e2-2872-4b5c-a69e-3333c788650c",
