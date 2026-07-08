@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-90b3eda5-0876-4e90-a339-12799f108611",
-      "seen_at": "2026-06-08T16:14:24.395216+00:00"
-    },
-    {
-      "id": "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/Entry-Level-RF-Engineer_R0163070",
-      "seen_at": "2026-06-08T16:14:24.395305+00:00"
-    },
-    {
       "id": "ashby-openai-8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
       "seen_at": "2026-06-08T21:09:02.185899+00:00"
     },
@@ -9351,14 +9343,36 @@
     {
       "id": "url:https://amazon.jobs/en/jobs/10440600/software-engineer-ai-security",
       "seen_at": "2026-07-08T14:43:09.111292+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-8044715",
+      "seen_at": "2026-07-08T16:22:50.678991+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/8044715",
+      "seen_at": "2026-07-08T16:22:50.679251+00:00"
+    },
+    {
+      "id": "simplify-fcd95104-5b2a-4e23-bb5e-ee0412e59f2c",
+      "seen_at": "2026-07-08T16:22:52.446270+00:00"
+    },
+    {
+      "id": "url:https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146",
+      "seen_at": "2026-07-08T16:22:52.446520+00:00"
+    },
+    {
+      "id": "simplify-5158ca83-fadc-46bd-8a9d-7d714853a2c3",
+      "seen_at": "2026-07-08T16:22:52.446733+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/roadrunner/jobs/4307451009",
+      "seen_at": "2026-07-08T16:22:52.446937+00:00"
     }
   ],
-  "last_run": "2026-07-08T14:43:09.310325+00:00",
-  "total_notified": 1314,
+  "last_run": "2026-07-08T16:22:52.668786+00:00",
+  "total_notified": 1317,
   "channels": {
     "swe-jobs": [
-      "simplify-90b3eda5-0876-4e90-a339-12799f108611",
-      "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/Entry-Level-RF-Engineer_R0163070",
       "simplify-f9c884e2-2872-4b5c-a69e-3333c788650c",
       "url:https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--FL--Remote/Summer-2026-INTERN---Machine-Learning_J0103465",
       "simplify-ecb57e2b-b9a6-4967-9d05-bd9596de3537",
@@ -9839,15 +9853,15 @@
       "simplify-d4101786-aad3-491e-9572-e84b414c6cbc",
       "url:https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4917872101",
       "simplify-49dbad76-2285-4d9f-851e-a14db699d25c",
-      "url:https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Chicago/State-Management-Product-Analyst_R2693"
+      "url:https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Chicago/State-Management-Product-Analyst_R2693",
+      "greenhouse-airbnb-8044715",
+      "url:https://careers.airbnb.com/positions/8044715"
     ],
     "swe-ai-full-time": [
       "simplify-4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
       "url:https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer_1207866",
       "simplify-ef92a307-7b62-4453-a142-74599fd69e32",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2019447",
-      "simplify-90b3eda5-0876-4e90-a339-12799f108611",
-      "url:https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/Entry-Level-RF-Engineer_R0163070",
       "simplify-d0cec003-02ca-401b-9382-65962bd57979",
       "url:https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/SEA-FO/Field-Service-Engineer---HW---Seattle--WA_R-28714-1",
       "simplify-64ef8ddb-ed81-404b-a0d2-9fc440bf3aa6",
@@ -11709,7 +11723,11 @@
       "simplify-1d131926-4996-4c18-8d7a-d58a366d10ed",
       "url:https://careers-kemin.icims.com/jobs/12130/job",
       "simplify-27a0f900-c5b2-4b8f-85c2-8614ea5badf0",
-      "url:https://amazon.jobs/en/jobs/10440600/software-engineer-ai-security"
+      "url:https://amazon.jobs/en/jobs/10440600/software-engineer-ai-security",
+      "simplify-fcd95104-5b2a-4e23-bb5e-ee0412e59f2c",
+      "url:https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146",
+      "simplify-5158ca83-fadc-46bd-8a9d-7d714853a2c3",
+      "url:https://job-boards.greenhouse.io/roadrunner/jobs/4307451009"
     ]
   }
 }
