@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-f9c884e2-2872-4b5c-a69e-3333c788650c",
-      "seen_at": "2026-06-08T23:55:26.698911+00:00"
-    },
-    {
-      "id": "url:https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--FL--Remote/Summer-2026-INTERN---Machine-Learning_J0103465",
-      "seen_at": "2026-06-08T23:55:26.699002+00:00"
-    },
-    {
-      "id": "simplify-ecb57e2b-b9a6-4967-9d05-bd9596de3537",
-      "seen_at": "2026-06-08T23:55:26.699108+00:00"
-    },
-    {
-      "id": "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393",
-      "seen_at": "2026-06-08T23:55:26.699172+00:00"
-    },
-    {
-      "id": "simplify-09ac55f2-d5b4-4e0d-b829-75a23db110d3",
-      "seen_at": "2026-06-08T23:55:26.699229+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Summer-2026_JR2019407",
-      "seen_at": "2026-06-08T23:55:26.699282+00:00"
-    },
-    {
-      "id": "simplify-6c3018a5-875d-4209-99cd-66202dfe188c",
-      "seen_at": "2026-06-08T23:55:26.699338+00:00"
-    },
-    {
-      "id": "url:https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/AI-Engineer--Materia--New-Grad---2026-_JREQ198096-1",
-      "seen_at": "2026-06-08T23:55:26.699391+00:00"
-    },
-    {
-      "id": "simplify-1ea7baf7-4a9c-4892-bd89-139d769a8719",
-      "seen_at": "2026-06-08T23:55:27.974674+00:00"
-    },
-    {
-      "id": "url:https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8096",
-      "seen_at": "2026-06-08T23:55:27.974748+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-4936029008",
       "seen_at": "2026-06-09T02:13:28.853235+00:00"
     },
@@ -9537,18 +9497,10 @@
       "seen_at": "2026-07-08T23:19:07.091609+00:00"
     }
   ],
-  "last_run": "2026-07-08T23:19:07.347993+00:00",
+  "last_run": "2026-07-09T01:05:16.097817+00:00",
   "total_notified": 1361,
   "channels": {
     "swe-jobs": [
-      "simplify-f9c884e2-2872-4b5c-a69e-3333c788650c",
-      "url:https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--FL--Remote/Summer-2026-INTERN---Machine-Learning_J0103465",
-      "simplify-ecb57e2b-b9a6-4967-9d05-bd9596de3537",
-      "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393",
-      "simplify-09ac55f2-d5b4-4e0d-b829-75a23db110d3",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Summer-2026_JR2019407",
-      "simplify-6c3018a5-875d-4209-99cd-66202dfe188c",
-      "url:https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/AI-Engineer--Materia--New-Grad---2026-_JREQ198096-1",
       "simplify-47768da2-8643-4881-8249-a78543064605",
       "url:https://lifeattiktok.com/search/7646621925436131637",
       "simplify-3bc47eda-39c2-435d-8e5d-5057a3ce0570",
@@ -9879,8 +9831,6 @@
       "url:https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999"
     ],
     "pm-jobs": [
-      "simplify-1ea7baf7-4a9c-4892-bd89-139d769a8719",
-      "url:https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8096",
       "greenhouse-anthropic-4936029008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/4936029008",
       "greenhouse-anthropic-5251609008",
@@ -10038,8 +9988,6 @@
       "url:https://careers-qinetiqus.icims.com/jobs/12152/job",
       "simplify-642b79b2-6bd8-4a4d-a9ee-b7f3be3871c7",
       "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-17948",
-      "simplify-6c3018a5-875d-4209-99cd-66202dfe188c",
-      "url:https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/AI-Engineer--Materia--New-Grad---2026-_JREQ198096-1",
       "simplify-94256481-4cab-4687-83aa-f17d4ffeff44",
       "url:https://careers-markon.icims.com/jobs/8403/job",
       "simplify-53c21482-ff62-451e-b7ef-34abd9934af3",
