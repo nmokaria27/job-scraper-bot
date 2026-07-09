@@ -8679,10 +8679,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/edabef84-70d8-4c20-a3b2-41a8c9a76417",
       "seen_at": "2026-07-09T16:45:44.200324+00:00"
+    },
+    {
+      "id": "greenhouse-stripe-7982720",
+      "seen_at": "2026-07-09T18:30:22.276161+00:00"
+    },
+    {
+      "id": "url:https://stripe.com/jobs/search",
+      "seen_at": "2026-07-09T18:30:22.276321+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5198255008",
+      "seen_at": "2026-07-09T18:30:22.276462+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5198255008",
+      "seen_at": "2026-07-09T18:30:22.276579+00:00"
     }
   ],
-  "last_run": "2026-07-09T16:45:44.473966+00:00",
-  "total_notified": 1400,
+  "last_run": "2026-07-09T18:30:22.540402+00:00",
+  "total_notified": 1402,
   "channels": {
     "swe-jobs": [
       "simplify-3bc47eda-39c2-435d-8e5d-5057a3ce0570",
@@ -10863,7 +10879,11 @@
       "ashby-openai-ca54cd23-2bcc-4327-bcb6-46d81ed414a8",
       "url:https://jobs.ashbyhq.com/openai/ca54cd23-2bcc-4327-bcb6-46d81ed414a8",
       "ashby-openai-edabef84-70d8-4c20-a3b2-41a8c9a76417",
-      "url:https://jobs.ashbyhq.com/openai/edabef84-70d8-4c20-a3b2-41a8c9a76417"
+      "url:https://jobs.ashbyhq.com/openai/edabef84-70d8-4c20-a3b2-41a8c9a76417",
+      "greenhouse-stripe-7982720",
+      "url:https://stripe.com/jobs/search",
+      "greenhouse-anthropic-5198255008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5198255008"
     ]
   }
 }
