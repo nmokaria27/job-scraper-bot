@@ -358,6 +358,32 @@ SIMPLIFY_URLS: list[str] = _parse_list(
     default=[
         "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
         "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
+        "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
+        "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/.github/scripts/listings.json",
+    ],
+)
+
+# ---------------------------------------------------------------------------
+# SpeedyApply scraper (markdown tables in GitHub READMEs)
+# ---------------------------------------------------------------------------
+
+SPEEDYAPPLY_URLS: list[str] = _parse_list(
+    "SPEEDYAPPLY_URLS",
+    default=[
+        "https://raw.githubusercontent.com/speedyapply/2026-SWE-College-Jobs/main/README.md",
+        "https://raw.githubusercontent.com/speedyapply/2026-AI-College-Jobs/main/README.md",
+    ],
+)
+
+# ---------------------------------------------------------------------------
+# JobRight scraper (markdown tables in GitHub READMEs)
+# ---------------------------------------------------------------------------
+
+JOBRIGHT_URLS: list[str] = _parse_list(
+    "JOBRIGHT_URLS",
+    default=[
+        "https://raw.githubusercontent.com/jobright-ai/2026-Product-Management-Internship/master/README.md",
+        "https://raw.githubusercontent.com/jobright-ai/2026-Product-Management-New-Grad/master/README.md",
     ],
 )
 
