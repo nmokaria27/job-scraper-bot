@@ -3,6 +3,7 @@ from scrapers.lever import LeverScraper
 from scrapers.ashby import AshbyScraper
 from scrapers.simplify import SimplifyScraper
 from scrapers.hackernews import HackerNewsScraper
+from scrapers.markdown_table import SpeedyApplyScraper, JobRightScraper
 
 __all__ = [
     "GreenhouseScraper",
@@ -10,4 +11,6 @@ __all__ = [
     "AshbyScraper",
     "SimplifyScraper",
     "HackerNewsScraper",
+    "SpeedyApplyScraper",
+    "JobRightScraper",
 ]

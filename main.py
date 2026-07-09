@@ -24,6 +24,7 @@ from scrapers.lever import LeverScraper
 from scrapers.ashby import AshbyScraper
 from scrapers.simplify import SimplifyScraper
 from scrapers.hackernews import HackerNewsScraper
+from scrapers.markdown_table import SpeedyApplyScraper, JobRightScraper
 import discord_notifier
 
 
@@ -356,6 +357,8 @@ PLATFORM_DEDUPE_PRIORITY: dict[str, int] = {
     "lever": 4,
     "ashby": 4,
     "simplify": 3,
+    "speedyapply": 2,
+    "jobright": 2,
     "hackernews": 1,
 }
 
@@ -464,6 +467,8 @@ async def scrape_all_raw() -> tuple[list[Job], int]:
     bulk_scrapers = {
         "simplify": SimplifyScraper(),
         "hackernews": HackerNewsScraper(),
+        "speedyapply": SpeedyApplyScraper(),
+        "jobright": JobRightScraper(),
     }
 
     all_jobs: list[Job] = []
