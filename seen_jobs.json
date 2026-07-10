@@ -1,138 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-37f29e78-6188-4883-8606-42dcbabb6448",
-      "seen_at": "2026-06-10T12:03:37.248590+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006",
-      "seen_at": "2026-06-10T12:03:37.248782+00:00"
-    },
-    {
-      "id": "simplify-a10199d3-aba0-4914-9507-71512b694379",
-      "seen_at": "2026-06-10T12:03:37.248906+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9/application",
-      "seen_at": "2026-06-10T12:03:37.249006+00:00"
-    },
-    {
-      "id": "simplify-951080fa-b448-4ec1-8e54-80b5a3176cca",
-      "seen_at": "2026-06-10T12:03:37.249107+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572/application",
-      "seen_at": "2026-06-10T12:03:37.249203+00:00"
-    },
-    {
-      "id": "simplify-5b68ff77-4ed5-44e4-bfb2-4d33a0c87ef0",
-      "seen_at": "2026-06-10T12:03:37.249302+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/embed/job_app",
-      "seen_at": "2026-06-10T12:03:37.249402+00:00"
-    },
-    {
-      "id": "simplify-01ac21f4-eb1c-49fa-8f29-2b1e758ff588",
-      "seen_at": "2026-06-10T12:03:37.249504+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/meshy/30c936df-5745-43aa-8dec-2658d0775e74/application",
-      "seen_at": "2026-06-10T12:03:37.249601+00:00"
-    },
-    {
-      "id": "simplify-28053adc-4960-4b2a-8386-71e1aba8148e",
-      "seen_at": "2026-06-10T12:03:37.249718+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "seen_at": "2026-06-10T12:03:37.249800+00:00"
-    },
-    {
-      "id": "simplify-9ff1a230-52f7-4f03-91a4-1263445491ec",
-      "seen_at": "2026-06-10T12:03:46.472930+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384023002",
-      "seen_at": "2026-06-10T12:03:46.473074+00:00"
-    },
-    {
-      "id": "simplify-1779c6f7-900e-4cab-8205-1cd90b9853c7",
-      "seen_at": "2026-06-10T12:03:46.473202+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384012002",
-      "seen_at": "2026-06-10T12:03:46.473309+00:00"
-    },
-    {
-      "id": "simplify-7d8768dc-f8bf-486b-bcea-cb2578964f69",
-      "seen_at": "2026-06-10T12:03:46.473420+00:00"
-    },
-    {
-      "id": "url:https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101",
-      "seen_at": "2026-06-10T12:03:46.473517+00:00"
-    },
-    {
-      "id": "simplify-17ec9274-c605-4514-b596-258398b0ec07",
-      "seen_at": "2026-06-10T12:03:46.473626+00:00"
-    },
-    {
-      "id": "simplify-5af2268a-ff2d-4b13-b566-d3b9f116ae9c",
-      "seen_at": "2026-06-10T12:03:46.473851+00:00"
-    },
-    {
-      "id": "url:https://confluence.pinpointhq.com/en/postings/fcbb93f0-38bb-42ba-8f6e-e0141576d0d7",
-      "seen_at": "2026-06-10T12:03:46.473931+00:00"
-    },
-    {
-      "id": "simplify-42d98db9-45a7-44a3-8523-8592fa082317",
-      "seen_at": "2026-06-10T12:03:46.474025+00:00"
-    },
-    {
-      "id": "url:https://confluence.pinpointhq.com/en/postings/08e3100e-587f-49b2-be68-98aec8233668",
-      "seen_at": "2026-06-10T12:03:46.474107+00:00"
-    },
-    {
-      "id": "simplify-d2e2aab4-3e44-4feb-87c3-4d7e5e1ffc63",
-      "seen_at": "2026-06-10T12:03:46.474199+00:00"
-    },
-    {
-      "id": "url:https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9695",
-      "seen_at": "2026-06-10T12:03:46.474279+00:00"
-    },
-    {
-      "id": "simplify-7d344d13-dabd-4e9d-86ba-0e417a8fae79",
-      "seen_at": "2026-06-10T12:03:46.474368+00:00"
-    },
-    {
-      "id": "url:https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/HPC-Hardware-Engineer_2637260",
-      "seen_at": "2026-06-10T12:03:46.474446+00:00"
-    },
-    {
-      "id": "simplify-f11862e3-75d2-4624-b6ae-6b8d56a70f86",
-      "seen_at": "2026-06-10T12:03:46.474534+00:00"
-    },
-    {
-      "id": "url:https://confluence.pinpointhq.com/en/postings/f12906e8-b751-442d-9f52-05c053e1e67a",
-      "seen_at": "2026-06-10T12:03:46.474613+00:00"
-    },
-    {
-      "id": "simplify-e62d8263-f7ca-4282-bde5-d5ec594f3c56",
-      "seen_at": "2026-06-10T12:03:46.474715+00:00"
-    },
-    {
-      "id": "url:https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/HPC-Hardware-Engineer_2637260-1",
-      "seen_at": "2026-06-10T12:03:46.474797+00:00"
-    },
-    {
-      "id": "simplify-e4a31c6e-717d-4b5a-89d8-666c552afe34",
-      "seen_at": "2026-06-10T12:03:46.474924+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/evolver/jobs/4092111009",
-      "seen_at": "2026-06-10T12:03:46.475007+00:00"
-    },
-    {
       "id": "ashby-openai-e470ba2c-b649-4a43-8650-3210bd7ca4d3",
       "seen_at": "2026-06-10T16:01:14.851077+00:00"
     },
@@ -8829,22 +8697,10 @@
       "seen_at": "2026-07-10T05:10:57.176710+00:00"
     }
   ],
-  "last_run": "2026-07-10T11:36:05.404299+00:00",
+  "last_run": "2026-07-10T13:31:22.606650+00:00",
   "total_notified": 1440,
   "channels": {
     "swe-jobs": [
-      "simplify-37f29e78-6188-4883-8606-42dcbabb6448",
-      "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006",
-      "simplify-a10199d3-aba0-4914-9507-71512b694379",
-      "url:https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9/application",
-      "simplify-951080fa-b448-4ec1-8e54-80b5a3176cca",
-      "url:https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572/application",
-      "simplify-5b68ff77-4ed5-44e4-bfb2-4d33a0c87ef0",
-      "url:https://boards.greenhouse.io/embed/job_app",
-      "simplify-01ac21f4-eb1c-49fa-8f29-2b1e758ff588",
-      "url:https://jobs.ashbyhq.com/meshy/30c936df-5745-43aa-8dec-2658d0775e74/application",
-      "simplify-28053adc-4960-4b2a-8386-71e1aba8148e",
-      "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
       "simplify-c1260e8d-9824-4174-9668-7f4e1627e756",
       "url:https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/SDE-Intern_JR107453-1",
       "simplify-d05d845b-81e1-4eeb-ad86-9ae48471a927",
@@ -9301,28 +9157,6 @@
       "url:https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--US-Marketing_Req-49106"
     ],
     "swe-ai-full-time": [
-      "simplify-9ff1a230-52f7-4f03-91a4-1263445491ec",
-      "url:https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384023002",
-      "simplify-1779c6f7-900e-4cab-8205-1cd90b9853c7",
-      "url:https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384012002",
-      "simplify-7d8768dc-f8bf-486b-bcea-cb2578964f69",
-      "url:https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101",
-      "simplify-17ec9274-c605-4514-b596-258398b0ec07",
-      "url:https://boards.greenhouse.io/embed/job_app",
-      "simplify-5af2268a-ff2d-4b13-b566-d3b9f116ae9c",
-      "url:https://confluence.pinpointhq.com/en/postings/fcbb93f0-38bb-42ba-8f6e-e0141576d0d7",
-      "simplify-42d98db9-45a7-44a3-8523-8592fa082317",
-      "url:https://confluence.pinpointhq.com/en/postings/08e3100e-587f-49b2-be68-98aec8233668",
-      "simplify-d2e2aab4-3e44-4feb-87c3-4d7e5e1ffc63",
-      "url:https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9695",
-      "simplify-7d344d13-dabd-4e9d-86ba-0e417a8fae79",
-      "url:https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/HPC-Hardware-Engineer_2637260",
-      "simplify-f11862e3-75d2-4624-b6ae-6b8d56a70f86",
-      "url:https://confluence.pinpointhq.com/en/postings/f12906e8-b751-442d-9f52-05c053e1e67a",
-      "simplify-e62d8263-f7ca-4282-bde5-d5ec594f3c56",
-      "url:https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/HPC-Hardware-Engineer_2637260-1",
-      "simplify-e4a31c6e-717d-4b5a-89d8-666c552afe34",
-      "url:https://job-boards.greenhouse.io/evolver/jobs/4092111009",
       "simplify-792f5349-3f5c-4b32-b464-76ac2574196c",
       "url:https://career-schwab.icims.com/jobs/122782/job",
       "simplify-efe69b3e-cdf9-492c-8c66-ec79f1dc0a37",
