@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-db8120b2-607d-4a90-8ac6-f872d42bb28e",
-      "seen_at": "2026-06-10T08:38:50.550351+00:00"
-    },
-    {
-      "id": "url:https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15428",
-      "seen_at": "2026-06-10T08:38:50.550489+00:00"
-    },
-    {
-      "id": "simplify-89a06fb6-ce2f-4407-a53a-6752877ecc5d",
-      "seen_at": "2026-06-10T08:38:52.064763+00:00"
-    },
-    {
-      "id": "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer_R-057505",
-      "seen_at": "2026-06-10T08:38:52.064884+00:00"
-    },
-    {
       "id": "simplify-37f29e78-6188-4883-8606-42dcbabb6448",
       "seen_at": "2026-06-10T12:03:37.248590+00:00"
     },
@@ -8845,12 +8829,10 @@
       "seen_at": "2026-07-10T05:10:57.176710+00:00"
     }
   ],
-  "last_run": "2026-07-10T05:10:57.531386+00:00",
+  "last_run": "2026-07-10T08:44:06.017450+00:00",
   "total_notified": 1440,
   "channels": {
     "swe-jobs": [
-      "simplify-db8120b2-607d-4a90-8ac6-f872d42bb28e",
-      "url:https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15428",
       "simplify-37f29e78-6188-4883-8606-42dcbabb6448",
       "url:https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006",
       "simplify-a10199d3-aba0-4914-9507-71512b694379",
@@ -9319,8 +9301,6 @@
       "url:https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--US-Marketing_Req-49106"
     ],
     "swe-ai-full-time": [
-      "simplify-89a06fb6-ce2f-4407-a53a-6752877ecc5d",
-      "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer_R-057505",
       "simplify-9ff1a230-52f7-4f03-91a4-1263445491ec",
       "url:https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384023002",
       "simplify-1779c6f7-900e-4cab-8205-1cd90b9853c7",
