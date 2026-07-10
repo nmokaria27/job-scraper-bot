@@ -8695,10 +8695,50 @@
     {
       "id": "url:https://job-boards.greenhouse.io/discord/jobs/8627078002",
       "seen_at": "2026-07-10T05:10:57.176710+00:00"
+    },
+    {
+      "id": "simplify-8d8f9605-6605-4474-9a61-7960df14b4a0",
+      "seen_at": "2026-07-10T15:58:42.784330+00:00"
+    },
+    {
+      "id": "url:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Berkshire-United-Kingdom/Computer-Vision-R-D-Engineer_R0128079",
+      "seen_at": "2026-07-10T15:58:42.784482+00:00"
+    },
+    {
+      "id": "simplify-49d144b5-0812-45e0-b67c-5d07571de5e5",
+      "seen_at": "2026-07-10T15:58:42.784608+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10420146/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program",
+      "seen_at": "2026-07-10T15:58:42.784714+00:00"
+    },
+    {
+      "id": "simplify-db916c2d-28d2-4779-bbfd-c94cf8269390",
+      "seen_at": "2026-07-10T15:58:42.784825+00:00"
+    },
+    {
+      "id": "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-18822",
+      "seen_at": "2026-07-10T15:58:42.784927+00:00"
+    },
+    {
+      "id": "simplify-9289b63c-3ec5-4fe4-9651-e3feb1b56586",
+      "seen_at": "2026-07-10T15:58:42.785033+00:00"
+    },
+    {
+      "id": "url:https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Application-Developer---Cybersecurity_R0000381258",
+      "seen_at": "2026-07-10T15:58:42.785152+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-8055229",
+      "seen_at": "2026-07-10T15:58:42.785276+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/8055229",
+      "seen_at": "2026-07-10T15:58:42.785372+00:00"
     }
   ],
-  "last_run": "2026-07-10T13:31:22.606650+00:00",
-  "total_notified": 1440,
+  "last_run": "2026-07-10T15:58:43.108121+00:00",
+  "total_notified": 1445,
   "channels": {
     "swe-jobs": [
       "simplify-c1260e8d-9824-4174-9668-7f4e1627e756",
@@ -10883,7 +10923,17 @@
       "simplify-18841037-9604-43eb-994c-03bcb1630637",
       "url:https://jobs.l3harris.com/job/Richardson-Associate-Software-Engineer-TX-75080/1407459900",
       "greenhouse-discord-8627078002",
-      "url:https://job-boards.greenhouse.io/discord/jobs/8627078002"
+      "url:https://job-boards.greenhouse.io/discord/jobs/8627078002",
+      "simplify-8d8f9605-6605-4474-9a61-7960df14b4a0",
+      "url:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Berkshire-United-Kingdom/Computer-Vision-R-D-Engineer_R0128079",
+      "simplify-49d144b5-0812-45e0-b67c-5d07571de5e5",
+      "url:https://amazon.jobs/en/jobs/10420146/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program",
+      "simplify-db916c2d-28d2-4779-bbfd-c94cf8269390",
+      "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-18822",
+      "simplify-9289b63c-3ec5-4fe4-9651-e3feb1b56586",
+      "url:https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Application-Developer---Cybersecurity_R0000381258",
+      "greenhouse-airbnb-8055229",
+      "url:https://careers.airbnb.com/positions/8055229"
     ]
   }
 }
