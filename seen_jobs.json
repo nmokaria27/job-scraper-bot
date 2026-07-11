@@ -1,86 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-554f3e1a-4eb2-4aaf-96be-6aef77c84495",
-      "seen_at": "2026-06-11T09:46:59.974968+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c/application",
-      "seen_at": "2026-06-11T09:46:59.975104+00:00"
-    },
-    {
-      "id": "simplify-a9264c20-5947-49f9-b7fa-4fab0174b563",
-      "seen_at": "2026-06-11T09:47:07.478102+00:00"
-    },
-    {
-      "id": "url:https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/New-York---Teleworker/Data-Scientist-I--PCCTC_99091",
-      "seen_at": "2026-06-11T09:47:07.478295+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-7183013",
-      "seen_at": "2026-06-11T09:47:07.478426+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7183013",
-      "seen_at": "2026-06-11T09:47:07.478529+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-7452669",
-      "seen_at": "2026-06-11T09:47:07.478638+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7452669",
-      "seen_at": "2026-06-11T09:47:07.478735+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-7742823",
-      "seen_at": "2026-06-11T09:47:07.478840+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7742823",
-      "seen_at": "2026-06-11T09:47:07.478932+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-7843358",
-      "seen_at": "2026-06-11T09:47:07.479031+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7843358",
-      "seen_at": "2026-06-11T09:47:07.479122+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-7610352",
-      "seen_at": "2026-06-11T09:47:07.479252+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7610352",
-      "seen_at": "2026-06-11T09:47:07.479346+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-7487353",
-      "seen_at": "2026-06-11T09:47:07.479445+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7487353",
-      "seen_at": "2026-06-11T09:47:07.479535+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-7874990",
-      "seen_at": "2026-06-11T09:47:07.479633+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7874990",
-      "seen_at": "2026-06-11T09:47:07.479722+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-7627531",
-      "seen_at": "2026-06-11T09:47:07.479819+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7627531",
-      "seen_at": "2026-06-11T09:47:07.479908+00:00"
-    },
-    {
       "id": "simplify-dfed1b05-8349-40c6-98c4-e56b8c22ad2f",
       "seen_at": "2026-06-11T13:45:12.936510+00:00"
     },
@@ -8757,12 +8677,10 @@
       "seen_at": "2026-07-11T08:08:15.468902+00:00"
     }
   ],
-  "last_run": "2026-07-11T08:08:16.492137+00:00",
+  "last_run": "2026-07-11T09:50:36.226243+00:00",
   "total_notified": 1484,
   "channels": {
     "swe-jobs": [
-      "simplify-554f3e1a-4eb2-4aaf-96be-6aef77c84495",
-      "url:https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c/application",
       "simplify-dfed1b05-8349-40c6-98c4-e56b8c22ad2f",
       "url:https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612/application",
       "simplify-7f52dc88-e098-42c9-91f1-4af924f417f9",
@@ -9219,24 +9137,6 @@
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5096878008"
     ],
     "swe-ai-full-time": [
-      "simplify-a9264c20-5947-49f9-b7fa-4fab0174b563",
-      "url:https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/New-York---Teleworker/Data-Scientist-I--PCCTC_99091",
-      "greenhouse-datadog-7183013",
-      "url:https://careers.datadoghq.com/detail/7183013",
-      "greenhouse-datadog-7452669",
-      "url:https://careers.datadoghq.com/detail/7452669",
-      "greenhouse-datadog-7742823",
-      "url:https://careers.datadoghq.com/detail/7742823",
-      "greenhouse-datadog-7843358",
-      "url:https://careers.datadoghq.com/detail/7843358",
-      "greenhouse-datadog-7610352",
-      "url:https://careers.datadoghq.com/detail/7610352",
-      "greenhouse-datadog-7487353",
-      "url:https://careers.datadoghq.com/detail/7487353",
-      "greenhouse-datadog-7874990",
-      "url:https://careers.datadoghq.com/detail/7874990",
-      "greenhouse-datadog-7627531",
-      "url:https://careers.datadoghq.com/detail/7627531",
       "simplify-09f00af3-f301-47dc-8feb-407479362a10",
       "url:https://jobs.jobvite.com/iboss/job/orvdAfwt",
       "simplify-1084cdf5-3b7b-46a6-bf6d-10fdfa752e77",
