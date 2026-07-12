@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-993d72df-8433-4a0e-90ff-ddac9fd609c5",
-      "seen_at": "2026-06-12T09:07:56.597941+00:00"
-    },
-    {
-      "id": "url:https://amazon.jobs/en/jobs/10438958/data-scientist-i-demand-forecasting",
-      "seen_at": "2026-06-12T09:07:56.598162+00:00"
-    },
-    {
-      "id": "simplify-1290a086-1afc-4969-ba55-dd26f1bc487f",
-      "seen_at": "2026-06-12T09:07:56.598336+00:00"
-    },
-    {
-      "id": "url:https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Application-Developer---Data---Digital-Solutions_JR-10307",
-      "seen_at": "2026-06-12T09:07:56.598468+00:00"
-    },
-    {
       "id": "simplify-a7a53e9d-e119-4765-b520-28d30bebdd19",
       "seen_at": "2026-06-12T15:50:26.021863+00:00"
     },
@@ -8373,7 +8357,7 @@
       "seen_at": "2026-07-12T07:18:53.555056+00:00"
     }
   ],
-  "last_run": "2026-07-12T07:18:53.843099+00:00",
+  "last_run": "2026-07-12T09:20:20.984016+00:00",
   "total_notified": 1490,
   "channels": {
     "swe-jobs": [
@@ -8805,10 +8789,6 @@
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5164820008"
     ],
     "swe-ai-full-time": [
-      "simplify-993d72df-8433-4a0e-90ff-ddac9fd609c5",
-      "url:https://amazon.jobs/en/jobs/10438958/data-scientist-i-demand-forecasting",
-      "simplify-1290a086-1afc-4969-ba55-dd26f1bc487f",
-      "url:https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Application-Developer---Data---Digital-Solutions_JR-10307",
       "simplify-b10b16f8-3c28-49e8-b8c0-d60910cd3f48",
       "url:https://www.google.com/about/careers/applications/jobs/results/87682526201422534",
       "simplify-faf3795c-c9f0-43c8-afb6-ee061e7f865b",
