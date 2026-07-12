@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-a7a53e9d-e119-4765-b520-28d30bebdd19",
-      "seen_at": "2026-06-12T15:50:26.021863+00:00"
-    },
-    {
-      "id": "url:https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Austin-TX-United-States/Software-Engineer-Intern_REQ-12111",
-      "seen_at": "2026-06-12T15:50:26.022024+00:00"
-    },
-    {
-      "id": "simplify-8ce60c97-c2a0-4e2b-b50e-e62e00887726",
-      "seen_at": "2026-06-12T15:50:26.022166+00:00"
-    },
-    {
-      "id": "url:https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Austin-TX-United-States/Software-Engineer-Intern_REQ-12111-1",
-      "seen_at": "2026-06-12T15:50:26.022288+00:00"
-    },
-    {
-      "id": "simplify-b10b16f8-3c28-49e8-b8c0-d60910cd3f48",
-      "seen_at": "2026-06-12T15:50:28.233155+00:00"
-    },
-    {
-      "id": "url:https://www.google.com/about/careers/applications/jobs/results/87682526201422534",
-      "seen_at": "2026-06-12T15:50:28.233330+00:00"
-    },
-    {
-      "id": "simplify-faf3795c-c9f0-43c8-afb6-ee061e7f865b",
-      "seen_at": "2026-06-12T15:50:28.233546+00:00"
-    },
-    {
-      "id": "url:https://livanova.wd5.myworkdayjobs.com/search/job/Houston-Texas-United-States/Software-Engineer-I_JR-14571",
-      "seen_at": "2026-06-12T15:50:28.233693+00:00"
-    },
-    {
       "id": "greenhouse-figma-5830640004",
       "seen_at": "2026-06-12T17:55:21.732589+00:00"
     },
@@ -8357,14 +8325,10 @@
       "seen_at": "2026-07-12T07:18:53.555056+00:00"
     }
   ],
-  "last_run": "2026-07-12T15:27:36.168473+00:00",
+  "last_run": "2026-07-12T16:31:05.035957+00:00",
   "total_notified": 1490,
   "channels": {
     "swe-jobs": [
-      "simplify-a7a53e9d-e119-4765-b520-28d30bebdd19",
-      "url:https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Austin-TX-United-States/Software-Engineer-Intern_REQ-12111",
-      "simplify-8ce60c97-c2a0-4e2b-b50e-e62e00887726",
-      "url:https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Austin-TX-United-States/Software-Engineer-Intern_REQ-12111-1",
       "simplify-9e721744-be69-4b02-b9d4-31c5a7aea105",
       "url:https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00185348",
       "simplify-b7154b79-2d09-4d3d-8208-f32ccf9b1d14",
@@ -8789,10 +8753,6 @@
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5164820008"
     ],
     "swe-ai-full-time": [
-      "simplify-b10b16f8-3c28-49e8-b8c0-d60910cd3f48",
-      "url:https://www.google.com/about/careers/applications/jobs/results/87682526201422534",
-      "simplify-faf3795c-c9f0-43c8-afb6-ee061e7f865b",
-      "url:https://livanova.wd5.myworkdayjobs.com/search/job/Houston-Texas-United-States/Software-Engineer-I_JR-14571",
       "greenhouse-anthropic-5161882008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5161882008",
       "ashby-openai-0f887fe6-39f4-44f6-8ee5-230c3002f0d7",
