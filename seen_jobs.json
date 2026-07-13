@@ -8043,10 +8043,34 @@
     {
       "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691",
       "seen_at": "2026-07-13T07:57:47.172195+00:00"
+    },
+    {
+      "id": "simplify-086c1760-5212-4c66-a2f6-53b20c6f55af",
+      "seen_at": "2026-07-13T16:09:12.263385+00:00"
+    },
+    {
+      "id": "url:https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Digital-Product-Analyst_R88038",
+      "seen_at": "2026-07-13T16:09:12.263512+00:00"
+    },
+    {
+      "id": "simplify-911ce47e-21c3-4047-ad0a-0cd6334a781d",
+      "seen_at": "2026-07-13T16:09:14.135010+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/canonical/jobs/8055009",
+      "seen_at": "2026-07-13T16:09:14.135164+00:00"
+    },
+    {
+      "id": "simplify-12bb8c08-3ba6-419a-aac2-cbaded0ca79f",
+      "seen_at": "2026-07-13T16:09:14.135342+00:00"
+    },
+    {
+      "id": "url:https://careers-peraton.icims.com/jobs/168438/job",
+      "seen_at": "2026-07-13T16:09:14.135462+00:00"
     }
   ],
-  "last_run": "2026-07-13T13:41:30.675927+00:00",
-  "total_notified": 1496,
+  "last_run": "2026-07-13T16:09:14.375875+00:00",
+  "total_notified": 1499,
   "channels": {
     "swe-jobs": [
       "simplify-94896995-4fb6-4ac7-8f06-5ef16ac5ad82",
@@ -8446,7 +8470,9 @@
       "greenhouse-anthropic-5096878008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5096878008",
       "greenhouse-anthropic-5164820008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5164820008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5164820008",
+      "simplify-086c1760-5212-4c66-a2f6-53b20c6f55af",
+      "url:https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Digital-Product-Analyst_R88038"
     ],
     "swe-ai-full-time": [
       "simplify-73c86849-e681-4218-9129-b45765e95871",
@@ -10067,7 +10093,11 @@
       "ashby-Ashby-85713f4a-ad14-4edd-8c56-0065f5897551",
       "url:https://jobs.ashbyhq.com/Ashby/85713f4a-ad14-4edd-8c56-0065f5897551",
       "simplify-19dc207d-51a6-45cf-be80-50c93ab46e32",
-      "url:https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691"
+      "url:https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691",
+      "simplify-911ce47e-21c3-4047-ad0a-0cd6334a781d",
+      "url:https://job-boards.greenhouse.io/canonical/jobs/8055009",
+      "simplify-12bb8c08-3ba6-419a-aac2-cbaded0ca79f",
+      "url:https://careers-peraton.icims.com/jobs/168438/job"
     ]
   }
 }
