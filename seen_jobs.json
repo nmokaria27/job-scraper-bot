@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-f5e6e2dc-a266-4145-ae2f-57af70ca00ba",
-      "seen_at": "2026-06-13T09:44:10.327743+00:00"
-    },
-    {
-      "id": "url:https://careers.varsitybrands.com/global/en/job/JR113366",
-      "seen_at": "2026-06-13T09:44:10.327886+00:00"
-    },
-    {
       "id": "simplify-a6d77d76-fcfe-4111-b921-90f66fa95902",
       "seen_at": "2026-06-13T11:33:28.500434+00:00"
     },
@@ -8069,7 +8061,7 @@
       "seen_at": "2026-07-13T07:57:47.172195+00:00"
     }
   ],
-  "last_run": "2026-07-13T07:57:47.401139+00:00",
+  "last_run": "2026-07-13T11:24:21.578111+00:00",
   "total_notified": 1496,
   "channels": {
     "swe-jobs": [
@@ -8473,8 +8465,6 @@
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5164820008"
     ],
     "swe-ai-full-time": [
-      "simplify-f5e6e2dc-a266-4145-ae2f-57af70ca00ba",
-      "url:https://careers.varsitybrands.com/global/en/job/JR113366",
       "simplify-a6d77d76-fcfe-4111-b921-90f66fa95902",
       "url:https://careers.itw.com/global/en/job/JR7595",
       "simplify-0bc0163f-90ea-4590-a028-87ba03c31820",
