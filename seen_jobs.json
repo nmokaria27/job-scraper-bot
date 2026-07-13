@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-cc2fec71-d445-40e3-be3e-b8dd51184164",
-      "seen_at": "2026-06-13T01:54:36.844905+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/offerup/jobs/8004171",
-      "seen_at": "2026-06-13T01:54:36.845126+00:00"
-    },
-    {
-      "id": "simplify-a67f3d7e-403e-4ae0-8608-1af033714104",
-      "seen_at": "2026-06-13T01:54:36.845251+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/eulerity/jobs/4689194006",
-      "seen_at": "2026-06-13T01:54:36.845356+00:00"
-    },
-    {
-      "id": "simplify-db473d1a-b3e9-465a-95f8-c8855dc4bad9",
-      "seen_at": "2026-06-13T01:54:38.453724+00:00"
-    },
-    {
-      "id": "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-or-Mid-Level-Software-Engineer_JR2026514062-1",
-      "seen_at": "2026-06-13T01:54:38.453887+00:00"
-    },
-    {
       "id": "simplify-f5e6e2dc-a266-4145-ae2f-57af70ca00ba",
       "seen_at": "2026-06-13T09:44:10.327743+00:00"
     },
@@ -8085,14 +8061,10 @@
       "seen_at": "2026-07-12T22:27:22.259779+00:00"
     }
   ],
-  "last_run": "2026-07-13T01:08:08.164417+00:00",
+  "last_run": "2026-07-13T04:50:03.343704+00:00",
   "total_notified": 1495,
   "channels": {
     "swe-jobs": [
-      "simplify-cc2fec71-d445-40e3-be3e-b8dd51184164",
-      "url:https://job-boards.greenhouse.io/offerup/jobs/8004171",
-      "simplify-a67f3d7e-403e-4ae0-8608-1af033714104",
-      "url:https://job-boards.greenhouse.io/eulerity/jobs/4689194006",
       "simplify-94896995-4fb6-4ac7-8f06-5ef16ac5ad82",
       "url:https://lifeattiktok.com/search/7532238337198622983",
       "simplify-c78c63c0-0747-41bb-9083-f3d119a0fd77",
@@ -8493,8 +8465,6 @@
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5164820008"
     ],
     "swe-ai-full-time": [
-      "simplify-db473d1a-b3e9-465a-95f8-c8855dc4bad9",
-      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-or-Mid-Level-Software-Engineer_JR2026514062-1",
       "simplify-f5e6e2dc-a266-4145-ae2f-57af70ca00ba",
       "url:https://careers.varsitybrands.com/global/en/job/JR113366",
       "simplify-a6d77d76-fcfe-4111-b921-90f66fa95902",
