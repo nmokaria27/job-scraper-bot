@@ -8483,10 +8483,26 @@
     {
       "id": "url:https://jobs.smartrecruiters.com/HarvardUniversity/3743990014072606",
       "seen_at": "2026-07-14T12:55:19.177485+00:00"
+    },
+    {
+      "id": "simplify-de413639-c1d4-4d67-91c6-800f92bfe49b",
+      "seen_at": "2026-07-14T15:00:20.340047+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans",
+      "seen_at": "2026-07-14T15:00:20.340215+00:00"
+    },
+    {
+      "id": "simplify-4ebf8f88-bb54-4343-b0ff-381c6f49e4b4",
+      "seen_at": "2026-07-14T15:00:20.340361+00:00"
+    },
+    {
+      "id": "url:https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/HVAC-Controls-Systems-Application-Engineer_WD30274054-1",
+      "seen_at": "2026-07-14T15:00:20.340545+00:00"
     }
   ],
-  "last_run": "2026-07-14T12:55:19.424339+00:00",
-  "total_notified": 1555,
+  "last_run": "2026-07-14T15:00:20.647917+00:00",
+  "total_notified": 1557,
   "channels": {
     "swe-jobs": [
       "simplify-94896995-4fb6-4ac7-8f06-5ef16ac5ad82",
@@ -10618,7 +10634,11 @@
       "simplify-84a39b8e-8d89-4f91-ab45-1d53e8d86776",
       "url:https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100",
       "simplify-adbf2084-9827-4147-b0e6-4e073febca40",
-      "url:https://jobs.smartrecruiters.com/HarvardUniversity/3743990014072606"
+      "url:https://jobs.smartrecruiters.com/HarvardUniversity/3743990014072606",
+      "simplify-de413639-c1d4-4d67-91c6-800f92bfe49b",
+      "url:https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans",
+      "simplify-4ebf8f88-bb54-4343-b0ff-381c6f49e4b4",
+      "url:https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/HVAC-Controls-Systems-Application-Engineer_WD30274054-1"
     ]
   }
 }
