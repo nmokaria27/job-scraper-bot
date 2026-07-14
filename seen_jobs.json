@@ -8459,10 +8459,26 @@
     {
       "id": "url:https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100",
       "seen_at": "2026-07-14T08:23:46.806372+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5982942004",
+      "seen_at": "2026-07-14T10:20:22.395880+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5982942004",
+      "seen_at": "2026-07-14T10:20:22.396016+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5195866008",
+      "seen_at": "2026-07-14T10:20:22.396128+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5195866008",
+      "seen_at": "2026-07-14T10:20:22.396221+00:00"
     }
   ],
-  "last_run": "2026-07-14T08:23:47.036487+00:00",
-  "total_notified": 1552,
+  "last_run": "2026-07-14T10:20:23.054556+00:00",
+  "total_notified": 1554,
   "channels": {
     "swe-jobs": [
       "simplify-94896995-4fb6-4ac7-8f06-5ef16ac5ad82",
@@ -8903,7 +8919,11 @@
       "greenhouse-anthropic-5153924008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5153924008",
       "greenhouse-anthropic-5139628008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5139628008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5139628008",
+      "greenhouse-figma-5982942004",
+      "url:https://boards.greenhouse.io/figma/jobs/5982942004",
+      "greenhouse-anthropic-5195866008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5195866008"
     ],
     "swe-ai-full-time": [
       "simplify-82bbe341-ce93-4a6a-a4f1-b0382f37cfc5",
