@@ -8411,10 +8411,42 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5231612008",
       "seen_at": "2026-07-13T23:16:10.414712+00:00"
+    },
+    {
+      "id": "simplify-fcbb295b-3dae-4af6-bd41-ec8b5d05a1ca",
+      "seen_at": "2026-07-14T03:39:33.492775+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
+      "seen_at": "2026-07-14T03:39:33.492946+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5153924008",
+      "seen_at": "2026-07-14T03:39:34.796878+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5153924008",
+      "seen_at": "2026-07-14T03:39:34.797022+00:00"
+    },
+    {
+      "id": "simplify-82efb81a-9d97-4172-9331-701b618857c6",
+      "seen_at": "2026-07-14T03:39:36.829210+00:00"
+    },
+    {
+      "id": "url:https://careers.varsitybrands.com/global/en/job/JR114172",
+      "seen_at": "2026-07-14T03:39:36.829469+00:00"
+    },
+    {
+      "id": "simplify-94b5c207-eda9-41bc-b43a-082ff957f285",
+      "seen_at": "2026-07-14T03:39:36.829644+00:00"
+    },
+    {
+      "id": "url:https://sambanova.ai/sambanova-available-positions",
+      "seen_at": "2026-07-14T03:39:36.829793+00:00"
     }
   ],
-  "last_run": "2026-07-14T00:09:46.767677+00:00",
-  "total_notified": 1546,
+  "last_run": "2026-07-14T03:39:37.118110+00:00",
+  "total_notified": 1550,
   "channels": {
     "swe-jobs": [
       "simplify-94896995-4fb6-4ac7-8f06-5ef16ac5ad82",
@@ -8703,7 +8735,9 @@
       "simplify-12c71417-7d4c-4820-a1dc-e69c433eb686",
       "url:https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application",
       "simplify-17b55e16-4b9d-4870-ba60-51a53eaf71c5",
-      "url:https://www.akunacapital.com/careers/job/8018886"
+      "url:https://www.akunacapital.com/careers/job/8018886",
+      "simplify-fcbb295b-3dae-4af6-bd41-ec8b5d05a1ca",
+      "url:https://job-boards.greenhouse.io/janestreet/jobs/8631973002"
     ],
     "pm-jobs": [
       "simplify-987779ef-3c25-4288-b559-7f8a99d2b578",
@@ -8849,7 +8883,9 @@
       "simplify-1d4467f6-2ccd-4309-97eb-55d3b5944d16",
       "url:https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-Product-Manager_R157655",
       "simplify-db3ee50d-09d9-4e17-9573-cba6de7c058e",
-      "url:https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66700"
+      "url:https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66700",
+      "greenhouse-anthropic-5153924008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5153924008"
     ],
     "swe-ai-full-time": [
       "simplify-82bbe341-ce93-4a6a-a4f1-b0382f37cfc5",
@@ -10528,7 +10564,11 @@
       "simplify-51598177-f2b0-404c-90d3-ca02d0bd665e",
       "url:https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Junior-Software-Engineer--Cloud-Cost-Optimization_R-413873-1",
       "greenhouse-anthropic-5231612008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5231612008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5231612008",
+      "simplify-82efb81a-9d97-4172-9331-701b618857c6",
+      "url:https://careers.varsitybrands.com/global/en/job/JR114172",
+      "simplify-94b5c207-eda9-41bc-b43a-082ff957f285",
+      "url:https://sambanova.ai/sambanova-available-positions"
     ]
   }
 }
