@@ -1,21 +1,6 @@
 {
   "channels": {
-    "swe-ai-full-time": [
-      {
-        "id": "greenhouse-anthropic-5231612008",
-        "seen_keys": [
-          "greenhouse-anthropic-5231612008",
-          "url:https://job-boards.greenhouse.io/anthropic/jobs/5231612008"
-        ],
-        "title": "Research Engineer, Chip Design RL (Reinforcement Learning)",
-        "company": "Anthropic",
-        "location": "San Francisco, CA | New York City, NY",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5231612008",
-        "platform": "greenhouse",
-        "posted_at": "2026-07-13T18:19:12-04:00",
-        "queued_at": "2026-07-13T23:16:10.414493+00:00"
-      }
-    ]
+    "swe-ai-full-time": []
   },
-  "last_run": "2026-07-13T23:16:11.071747+00:00"
+  "last_run": "2026-07-14T00:09:46.767689+00:00"
 }
