@@ -8499,10 +8499,26 @@
     {
       "id": "url:https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/HVAC-Controls-Systems-Application-Engineer_WD30274054-1",
       "seen_at": "2026-07-14T15:00:20.340545+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6110219004",
+      "seen_at": "2026-07-14T18:50:24.605731+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6110219004",
+      "seen_at": "2026-07-14T18:50:24.605899+00:00"
+    },
+    {
+      "id": "ashby-openai-cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
+      "seen_at": "2026-07-14T18:50:24.606083+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
+      "seen_at": "2026-07-14T18:50:24.606195+00:00"
     }
   ],
-  "last_run": "2026-07-14T17:37:40.521072+00:00",
-  "total_notified": 1557,
+  "last_run": "2026-07-14T18:50:26.818446+00:00",
+  "total_notified": 1559,
   "channels": {
     "swe-jobs": [
       "simplify-94896995-4fb6-4ac7-8f06-5ef16ac5ad82",
@@ -10638,7 +10654,11 @@
       "simplify-de413639-c1d4-4d67-91c6-800f92bfe49b",
       "url:https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans",
       "simplify-4ebf8f88-bb54-4343-b0ff-381c6f49e4b4",
-      "url:https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/HVAC-Controls-Systems-Application-Engineer_WD30274054-1"
+      "url:https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/HVAC-Controls-Systems-Application-Engineer_WD30274054-1",
+      "greenhouse-figma-6110219004",
+      "url:https://boards.greenhouse.io/figma/jobs/6110219004",
+      "ashby-openai-cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
+      "url:https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9"
     ]
   }
 }
