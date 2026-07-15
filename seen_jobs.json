@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-82bbe341-ce93-4a6a-a4f1-b0382f37cfc5",
-      "seen_at": "2026-06-14T23:20:39.219047+00:00"
-    },
-    {
-      "id": "url:https://jobs.jobvite.com/metropolitantransportationauthority/job/oVkxxfw3",
-      "seen_at": "2026-06-14T23:20:39.219201+00:00"
-    },
-    {
       "id": "simplify-4282b7bc-e937-4fb3-ada2-0ae60bb50ff3",
       "seen_at": "2026-06-15T07:02:54.929136+00:00"
     },
@@ -8971,10 +8963,78 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
       "seen_at": "2026-07-14T23:14:12.192579+00:00"
+    },
+    {
+      "id": "simplify-8975659b-0873-4463-9888-45451e2e150b",
+      "seen_at": "2026-07-15T00:08:10.901770+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/newsbreak/jobs/4697070006",
+      "seen_at": "2026-07-15T00:08:10.901913+00:00"
+    },
+    {
+      "id": "simplify-d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
+      "seen_at": "2026-07-15T00:08:10.902086+00:00"
+    },
+    {
+      "id": "url:https://ignite-digital.com/careers/job-listings",
+      "seen_at": "2026-07-15T00:08:10.902195+00:00"
+    },
+    {
+      "id": "simplify-14baa8ae-f151-483f-b5e0-77ca5086d04e",
+      "seen_at": "2026-07-15T00:08:10.902307+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+      "seen_at": "2026-07-15T00:08:10.902410+00:00"
+    },
+    {
+      "id": "simplify-c3433d6a-bf30-4d16-8e0f-5126b09236cf",
+      "seen_at": "2026-07-15T00:08:10.902520+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009",
+      "seen_at": "2026-07-15T00:08:10.902635+00:00"
+    },
+    {
+      "id": "simplify-1704991d-f184-40b1-91ef-a74b76753d06",
+      "seen_at": "2026-07-15T00:08:15.327754+00:00"
+    },
+    {
+      "id": "url:https://nuro.ai/careersitem",
+      "seen_at": "2026-07-15T00:08:15.327915+00:00"
+    },
+    {
+      "id": "simplify-cec7ea72-fd1c-4f5e-94e4-3d0650cf934b",
+      "seen_at": "2026-07-15T00:08:15.328102+00:00"
+    },
+    {
+      "id": "simplify-67937ffc-14b5-4231-9e62-9a4f13dd11c2",
+      "seen_at": "2026-07-15T00:08:15.328347+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/instalilyai/jobs/4271757009",
+      "seen_at": "2026-07-15T00:08:15.328461+00:00"
+    },
+    {
+      "id": "simplify-3ace8680-5997-4467-ad7e-82ecc656e241",
+      "seen_at": "2026-07-15T00:08:15.328583+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008",
+      "seen_at": "2026-07-15T00:08:15.328696+00:00"
+    },
+    {
+      "id": "simplify-32671d23-475d-488c-a8ca-48ba428e3c3a",
+      "seen_at": "2026-07-15T00:08:15.328821+00:00"
+    },
+    {
+      "id": "url:https://www.esri.com/careers/5186832007",
+      "seen_at": "2026-07-15T00:08:15.328936+00:00"
     }
   ],
-  "last_run": "2026-07-14T23:14:12.460572+00:00",
-  "total_notified": 1608,
+  "last_run": "2026-07-15T00:08:15.518409+00:00",
+  "total_notified": 1617,
   "channels": {
     "swe-jobs": [
       "simplify-94896995-4fb6-4ac7-8f06-5ef16ac5ad82",
@@ -9275,7 +9335,15 @@
       "simplify-9e6bfed5-144f-4120-94d0-868f2cb83d3a",
       "url:https://jobs.lever.co/nextgenfed/35e13d92-343a-4c17-9789-1a6a9cff2bc6/apply",
       "simplify-bd784f4e-7ef9-4ba6-98c3-407476163c6d",
-      "url:https://careers.rivian.com/jobs/29851"
+      "url:https://careers.rivian.com/jobs/29851",
+      "simplify-8975659b-0873-4463-9888-45451e2e150b",
+      "url:https://job-boards.greenhouse.io/newsbreak/jobs/4697070006",
+      "simplify-d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
+      "url:https://ignite-digital.com/careers/job-listings",
+      "simplify-14baa8ae-f151-483f-b5e0-77ca5086d04e",
+      "url:https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+      "simplify-c3433d6a-bf30-4d16-8e0f-5126b09236cf",
+      "url:https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009"
     ],
     "pm-jobs": [
       "simplify-987779ef-3c25-4288-b559-7f8a99d2b578",
@@ -9466,8 +9534,6 @@
       "url:https://job-boards.greenhouse.io/anthropic/jobs/4989788008"
     ],
     "swe-ai-full-time": [
-      "simplify-82bbe341-ce93-4a6a-a4f1-b0382f37cfc5",
-      "url:https://jobs.jobvite.com/metropolitantransportationauthority/job/oVkxxfw3",
       "simplify-4282b7bc-e937-4fb3-ada2-0ae60bb50ff3",
       "url:https://jobs.jobvite.com/isoftstone/job/oXrkAfw2",
       "simplify-f624cacf-5cd8-42ea-bc15-38f980bc6e29",
@@ -11228,7 +11294,17 @@
       "greenhouse-anthropic-5228463008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5228463008",
       "greenhouse-anthropic-4720576008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4720576008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
+      "simplify-1704991d-f184-40b1-91ef-a74b76753d06",
+      "url:https://nuro.ai/careersitem",
+      "simplify-cec7ea72-fd1c-4f5e-94e4-3d0650cf934b",
+      "url:https://ignite-digital.com/careers/job-listings",
+      "simplify-67937ffc-14b5-4231-9e62-9a4f13dd11c2",
+      "url:https://job-boards.greenhouse.io/instalilyai/jobs/4271757009",
+      "simplify-3ace8680-5997-4467-ad7e-82ecc656e241",
+      "url:https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008",
+      "simplify-32671d23-475d-488c-a8ca-48ba428e3c3a",
+      "url:https://www.esri.com/careers/5186832007"
     ]
   }
 }
