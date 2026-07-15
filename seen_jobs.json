@@ -9047,10 +9047,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916/application",
       "seen_at": "2026-07-15T15:41:32.777672+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-7904127",
+      "seen_at": "2026-07-15T16:57:37.807864+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/7904127",
+      "seen_at": "2026-07-15T16:57:37.808080+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-8059212",
+      "seen_at": "2026-07-15T16:57:37.808227+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/8059212",
+      "seen_at": "2026-07-15T16:57:37.808353+00:00"
     }
   ],
-  "last_run": "2026-07-15T15:41:33.002915+00:00",
-  "total_notified": 1640,
+  "last_run": "2026-07-15T16:57:37.978523+00:00",
+  "total_notified": 1642,
   "channels": {
     "swe-jobs": [
       "simplify-fe77f108-84fc-48fd-bc64-dfd8921d203f",
@@ -11324,7 +11340,11 @@
       "simplify-a4848b4c-f20b-4b74-93ca-64fd316ffe97",
       "url:https://job-boards.greenhouse.io/leolabsinc/jobs/4221511009",
       "simplify-74127152-f238-47ca-b3b4-df49a5135001",
-      "url:https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916/application"
+      "url:https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916/application",
+      "greenhouse-airbnb-7904127",
+      "url:https://careers.airbnb.com/positions/7904127",
+      "greenhouse-airbnb-8059212",
+      "url:https://careers.airbnb.com/positions/8059212"
     ]
   }
 }
