@@ -8975,10 +8975,82 @@
     {
       "id": "url:https://jobs.ashbyhq.com/corvus-robotics/e180a9e8-6611-485b-b76a-bbf995b69e7f/application",
       "seen_at": "2026-07-15T10:24:17.882841+00:00"
+    },
+    {
+      "id": "simplify-7387a1fc-9d17-4ccb-9dac-9de2c1006f0a",
+      "seen_at": "2026-07-15T15:41:27.827311+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application",
+      "seen_at": "2026-07-15T15:41:27.827575+00:00"
+    },
+    {
+      "id": "simplify-27bc7565-972b-4dff-a2b6-d86296a62c88",
+      "seen_at": "2026-07-15T15:41:27.827751+00:00"
+    },
+    {
+      "id": "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
+      "seen_at": "2026-07-15T15:41:27.827879+00:00"
+    },
+    {
+      "id": "simplify-1b9a36a2-6f07-4938-983a-19a711787c74",
+      "seen_at": "2026-07-15T15:41:27.828011+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b/apply",
+      "seen_at": "2026-07-15T15:41:27.828138+00:00"
+    },
+    {
+      "id": "simplify-b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
+      "seen_at": "2026-07-15T15:41:27.828269+00:00"
+    },
+    {
+      "id": "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
+      "seen_at": "2026-07-15T15:41:27.828411+00:00"
+    },
+    {
+      "id": "simplify-28de39fe-563f-4b16-93f7-5d3bbbb04340",
+      "seen_at": "2026-07-15T15:41:29.105570+00:00"
+    },
+    {
+      "id": "url:https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
+      "seen_at": "2026-07-15T15:41:29.105750+00:00"
+    },
+    {
+      "id": "simplify-d9d8fdd5-9c5e-4214-89aa-e710468fc54a",
+      "seen_at": "2026-07-15T15:41:32.776555+00:00"
+    },
+    {
+      "id": "url:https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/Data-Scientist-I---Digital_R32974",
+      "seen_at": "2026-07-15T15:41:32.776756+00:00"
+    },
+    {
+      "id": "simplify-2e51bbf0-3ecd-4697-979e-02f9e1a042b1",
+      "seen_at": "2026-07-15T15:41:32.776935+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/bracebridgecapital/jobs/4715042005",
+      "seen_at": "2026-07-15T15:41:32.777086+00:00"
+    },
+    {
+      "id": "simplify-a4848b4c-f20b-4b74-93ca-64fd316ffe97",
+      "seen_at": "2026-07-15T15:41:32.777231+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/leolabsinc/jobs/4221511009",
+      "seen_at": "2026-07-15T15:41:32.777366+00:00"
+    },
+    {
+      "id": "simplify-74127152-f238-47ca-b3b4-df49a5135001",
+      "seen_at": "2026-07-15T15:41:32.777534+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916/application",
+      "seen_at": "2026-07-15T15:41:32.777672+00:00"
     }
   ],
-  "last_run": "2026-07-15T14:03:03.696103+00:00",
-  "total_notified": 1631,
+  "last_run": "2026-07-15T15:41:33.002915+00:00",
+  "total_notified": 1640,
   "channels": {
     "swe-jobs": [
       "simplify-fe77f108-84fc-48fd-bc64-dfd8921d203f",
@@ -9277,7 +9349,15 @@
       "simplify-c3433d6a-bf30-4d16-8e0f-5126b09236cf",
       "url:https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009",
       "simplify-7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
-      "url:https://boards.greenhouse.io/cloudflare/jobs/8052785"
+      "url:https://boards.greenhouse.io/cloudflare/jobs/8052785",
+      "simplify-7387a1fc-9d17-4ccb-9dac-9de2c1006f0a",
+      "url:https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application",
+      "simplify-27bc7565-972b-4dff-a2b6-d86296a62c88",
+      "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
+      "simplify-1b9a36a2-6f07-4938-983a-19a711787c74",
+      "url:https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b/apply",
+      "simplify-b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
+      "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673"
     ],
     "pm-jobs": [
       "simplify-987779ef-3c25-4288-b559-7f8a99d2b578",
@@ -9465,7 +9545,9 @@
       "greenhouse-anthropic-5108695008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5108695008",
       "greenhouse-anthropic-4989788008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4989788008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/4989788008",
+      "simplify-28de39fe-563f-4b16-93f7-5d3bbbb04340",
+      "url:https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170"
     ],
     "swe-ai-full-time": [
       "greenhouse-figma-5790627004",
@@ -11234,7 +11316,15 @@
       "simplify-c46d2cc8-7f2c-4f61-aecc-a772d5b62fe3",
       "url:https://jobs.ashbyhq.com/faros-ai/842a6e50-4050-4d7d-99f0-b9272c76cf43/application",
       "simplify-7c7c8761-ec0c-40e6-8ac1-ce7b5bd227ff",
-      "url:https://jobs.ashbyhq.com/corvus-robotics/e180a9e8-6611-485b-b76a-bbf995b69e7f/application"
+      "url:https://jobs.ashbyhq.com/corvus-robotics/e180a9e8-6611-485b-b76a-bbf995b69e7f/application",
+      "simplify-d9d8fdd5-9c5e-4214-89aa-e710468fc54a",
+      "url:https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/Data-Scientist-I---Digital_R32974",
+      "simplify-2e51bbf0-3ecd-4697-979e-02f9e1a042b1",
+      "url:https://job-boards.greenhouse.io/bracebridgecapital/jobs/4715042005",
+      "simplify-a4848b4c-f20b-4b74-93ca-64fd316ffe97",
+      "url:https://job-boards.greenhouse.io/leolabsinc/jobs/4221511009",
+      "simplify-74127152-f238-47ca-b3b4-df49a5135001",
+      "url:https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916/application"
     ]
   }
 }
