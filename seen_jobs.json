@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-fe77f108-84fc-48fd-bc64-dfd8921d203f",
-      "seen_at": "2026-06-16T20:27:39.638396+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
-      "seen_at": "2026-06-16T20:27:39.638527+00:00"
-    },
-    {
-      "id": "simplify-d58f726c-620e-4c0c-89d7-8b54421280ab",
-      "seen_at": "2026-06-16T20:27:39.638634+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply",
-      "seen_at": "2026-06-16T20:27:39.638716+00:00"
-    },
-    {
-      "id": "simplify-0503901e-622f-4d1b-b7f9-29d44e59eaab",
-      "seen_at": "2026-06-16T20:27:39.638797+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply",
-      "seen_at": "2026-06-16T20:27:39.638872+00:00"
-    },
-    {
-      "id": "greenhouse-discord-8545663002",
-      "seen_at": "2026-06-16T20:27:41.392810+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8545663002",
-      "seen_at": "2026-06-16T20:27:41.392953+00:00"
-    },
-    {
       "id": "simplify-51390559-49b8-46aa-8e77-cb2b750241cc",
       "seen_at": "2026-06-16T22:32:23.235125+00:00"
     },
@@ -9317,16 +9285,10 @@
       "seen_at": "2026-07-16T19:24:54.254685+00:00"
     }
   ],
-  "last_run": "2026-07-16T19:24:54.476192+00:00",
+  "last_run": "2026-07-16T20:29:24.745780+00:00",
   "total_notified": 1688,
   "channels": {
     "swe-jobs": [
-      "simplify-fe77f108-84fc-48fd-bc64-dfd8921d203f",
-      "url:https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
-      "simplify-d58f726c-620e-4c0c-89d7-8b54421280ab",
-      "url:https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply",
-      "simplify-0503901e-622f-4d1b-b7f9-29d44e59eaab",
-      "url:https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply",
       "simplify-51390559-49b8-46aa-8e77-cb2b750241cc",
       "url:https://jobs.ashbyhq.com/rho/18da5bcb-aabe-424e-a9d1-e2e1c5abc2b1/application",
       "greenhouse-stripe-7874965",
@@ -9850,8 +9812,6 @@
       "url:https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Product-Manager--Consumer-Deposit----Brooklyn--OH_R-40767"
     ],
     "swe-ai-full-time": [
-      "greenhouse-discord-8545663002",
-      "url:https://job-boards.greenhouse.io/discord/jobs/8545663002",
       "simplify-31d11edc-b830-484f-b2bc-faae10a84958",
       "url:https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Associate-Data-Engineer_R0017873",
       "simplify-1f6bee99-9cca-467c-a0b3-899d61139a03",
