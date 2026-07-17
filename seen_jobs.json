@@ -8983,10 +8983,18 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c",
       "seen_at": "2026-07-17T20:39:00.648139+00:00"
+    },
+    {
+      "id": "greenhouse-discord-8637648002",
+      "seen_at": "2026-07-17T22:27:44.514801+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8637648002",
+      "seen_at": "2026-07-17T22:27:44.515013+00:00"
     }
   ],
-  "last_run": "2026-07-17T21:36:07.130030+00:00",
-  "total_notified": 1732,
+  "last_run": "2026-07-17T22:27:44.696393+00:00",
+  "total_notified": 1733,
   "channels": {
     "swe-jobs": [
       "simplify-95f67d1a-0c71-458d-a724-50a943e61f90",
@@ -11247,7 +11255,9 @@
       "ashby-openai-c59e2e83-59a6-45bc-82cd-665c6a8a5761",
       "url:https://jobs.ashbyhq.com/openai/c59e2e83-59a6-45bc-82cd-665c6a8a5761",
       "ashby-openai-3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c",
-      "url:https://jobs.ashbyhq.com/openai/3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c"
+      "url:https://jobs.ashbyhq.com/openai/3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c",
+      "greenhouse-discord-8637648002",
+      "url:https://job-boards.greenhouse.io/discord/jobs/8637648002"
     ]
   }
 }
