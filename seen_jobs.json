@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-46cb7c52-99a0-4012-aca8-43044d9b601a",
-      "seen_at": "2026-06-17T13:51:49.647345+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010344",
-      "seen_at": "2026-06-17T13:51:49.647509+00:00"
-    },
-    {
-      "id": "simplify-e197577b-0c72-45ea-aa10-ee6e30c93095",
-      "seen_at": "2026-06-17T13:51:49.647655+00:00"
-    },
-    {
-      "id": "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/RF-Engineer-I_JR101837",
-      "seen_at": "2026-06-17T13:51:49.647755+00:00"
-    },
-    {
-      "id": "simplify-9a822943-37d2-4499-806b-73a851f52143",
-      "seen_at": "2026-06-17T13:51:49.647864+00:00"
-    },
-    {
-      "id": "url:https://fa-emxf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1260",
-      "seen_at": "2026-06-17T13:51:49.647963+00:00"
-    },
-    {
-      "id": "simplify-3937a504-382b-4061-a6ac-e27d6b2f4540",
-      "seen_at": "2026-06-17T13:51:49.648094+00:00"
-    },
-    {
-      "id": "url:https://jobs.jobvite.com/laserfiche/job/orDbAfwz",
-      "seen_at": "2026-06-17T13:51:49.648203+00:00"
-    },
-    {
-      "id": "simplify-f3a6ba08-f230-4922-a0a6-2b0b7093814c",
-      "seen_at": "2026-06-17T13:51:49.648310+00:00"
-    },
-    {
-      "id": "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Development-Engineer-I-1_JR102007",
-      "seen_at": "2026-06-17T13:51:49.648405+00:00"
-    },
-    {
-      "id": "simplify-710404e9-4478-4459-85c8-c6286e183452",
-      "seen_at": "2026-06-17T13:51:49.648508+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011176",
-      "seen_at": "2026-06-17T13:51:49.648602+00:00"
-    },
-    {
-      "id": "simplify-0b5a17d9-0294-4f5f-8f53-22abb041d6ac",
-      "seen_at": "2026-06-17T13:51:49.648705+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010693",
-      "seen_at": "2026-06-17T13:51:49.648799+00:00"
-    },
-    {
       "id": "simplify-3676c592-ca00-4a6c-b62f-eadaea5b170c",
       "seen_at": "2026-06-17T16:49:48.936555+00:00"
     },
@@ -8941,7 +8885,7 @@
       "seen_at": "2026-07-17T10:26:52.495110+00:00"
     }
   ],
-  "last_run": "2026-07-17T11:54:28.836847+00:00",
+  "last_run": "2026-07-17T13:57:17.012114+00:00",
   "total_notified": 1705,
   "channels": {
     "swe-jobs": [
@@ -9441,20 +9385,6 @@
       "url:https://boards.greenhouse.io/embed/job_app"
     ],
     "swe-ai-full-time": [
-      "simplify-46cb7c52-99a0-4012-aca8-43044d9b601a",
-      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010344",
-      "simplify-e197577b-0c72-45ea-aa10-ee6e30c93095",
-      "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/RF-Engineer-I_JR101837",
-      "simplify-9a822943-37d2-4499-806b-73a851f52143",
-      "url:https://fa-emxf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1260",
-      "simplify-3937a504-382b-4061-a6ac-e27d6b2f4540",
-      "url:https://jobs.jobvite.com/laserfiche/job/orDbAfwz",
-      "simplify-f3a6ba08-f230-4922-a0a6-2b0b7093814c",
-      "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Development-Engineer-I-1_JR102007",
-      "simplify-710404e9-4478-4459-85c8-c6286e183452",
-      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011176",
-      "simplify-0b5a17d9-0294-4f5f-8f53-22abb041d6ac",
-      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010693",
       "simplify-b8df6356-852a-4297-b6d7-4e4dab8e1234",
       "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois-Central-Illinois_R4042298-1",
       "simplify-9f64b9ac-38b2-4871-b188-4c2837cd0c60",
