@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-2d7f1028-ce9b-49c7-acc8-782714ca1cf4",
-      "seen_at": "2026-06-17T23:03:22.675251+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/2d7f1028-ce9b-49c7-acc8-782714ca1cf4",
-      "seen_at": "2026-06-17T23:03:22.675403+00:00"
-    },
-    {
       "id": "simplify-95f67d1a-0c71-458d-a724-50a943e61f90",
       "seen_at": "2026-06-18T00:24:02.624821+00:00"
     },
@@ -8991,10 +8983,154 @@
     {
       "id": "url:https://job-boards.greenhouse.io/discord/jobs/8637648002",
       "seen_at": "2026-07-17T22:27:44.515013+00:00"
+    },
+    {
+      "id": "simplify-9b8c84ef-c762-4da1-9f47-56e4a62375d5",
+      "seen_at": "2026-07-17T23:28:53.472902+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application",
+      "seen_at": "2026-07-17T23:28:53.473048+00:00"
+    },
+    {
+      "id": "simplify-fe4a0f8c-3de2-411c-8959-9b9893900a52",
+      "seen_at": "2026-07-17T23:28:53.473174+00:00"
+    },
+    {
+      "id": "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023",
+      "seen_at": "2026-07-17T23:28:53.473287+00:00"
+    },
+    {
+      "id": "simplify-c49d403e-9c01-4e02-bbf3-31cbc36e6522",
+      "seen_at": "2026-07-17T23:28:53.473401+00:00"
+    },
+    {
+      "id": "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
+      "seen_at": "2026-07-17T23:28:53.473510+00:00"
+    },
+    {
+      "id": "simplify-6105e0c3-50cc-473e-820c-706c8aeb1d47",
+      "seen_at": "2026-07-17T23:28:53.473646+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/neuralink/jobs/7808233003",
+      "seen_at": "2026-07-17T23:28:53.473758+00:00"
+    },
+    {
+      "id": "simplify-7c5ad96f-e7b8-4ad3-9e09-9da83e6659b0",
+      "seen_at": "2026-07-17T23:28:53.473870+00:00"
+    },
+    {
+      "id": "url:https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1",
+      "seen_at": "2026-07-17T23:28:53.473976+00:00"
+    },
+    {
+      "id": "simplify-ea0123ec-2b1b-4707-a216-1b4612ef7b68",
+      "seen_at": "2026-07-17T23:28:55.336028+00:00"
+    },
+    {
+      "id": "url:https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Associate-Product-Manager_2132301",
+      "seen_at": "2026-07-17T23:28:55.336174+00:00"
+    },
+    {
+      "id": "simplify-19f79bc4-c14b-46f6-8df6-0223d27ed872",
+      "seen_at": "2026-07-17T23:28:55.336298+00:00"
+    },
+    {
+      "id": "url:https://ats.rippling.com/theguarantors-open-positions/jobs/40594c89-8739-4809-ba63-e20f0ea5e735",
+      "seen_at": "2026-07-17T23:28:55.336412+00:00"
+    },
+    {
+      "id": "simplify-009fad51-be8a-4c3c-b691-368556bf5c5d",
+      "seen_at": "2026-07-17T23:29:05.265184+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379/apply",
+      "seen_at": "2026-07-17T23:29:05.265364+00:00"
+    },
+    {
+      "id": "simplify-325ff49d-973e-4e00-97d6-7f909349da90",
+      "seen_at": "2026-07-17T23:29:05.265509+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/3redpartners/jobs/8631086002",
+      "seen_at": "2026-07-17T23:29:05.265676+00:00"
+    },
+    {
+      "id": "simplify-a4a76214-4a1f-46c8-b260-b25e7a9d79f2",
+      "seen_at": "2026-07-17T23:29:05.265814+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/instalilyai/jobs/4273106009",
+      "seen_at": "2026-07-17T23:29:05.265939+00:00"
+    },
+    {
+      "id": "simplify-61097998-fadd-43c0-bff9-1d23f2a4762e",
+      "seen_at": "2026-07-17T23:29:05.266070+00:00"
+    },
+    {
+      "id": "url:https://www.esri.com/careers/5190253007",
+      "seen_at": "2026-07-17T23:29:05.266193+00:00"
+    },
+    {
+      "id": "simplify-feddb33d-3c53-46be-9599-b215ba67e99e",
+      "seen_at": "2026-07-17T23:29:05.266322+00:00"
+    },
+    {
+      "id": "url:https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-I_R-083752",
+      "seen_at": "2026-07-17T23:29:05.266444+00:00"
+    },
+    {
+      "id": "simplify-aff3422f-383b-44e6-9d0f-918bc9bc2543",
+      "seen_at": "2026-07-17T23:29:05.266569+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/spacex/jobs/8632322002",
+      "seen_at": "2026-07-17T23:29:05.266698+00:00"
+    },
+    {
+      "id": "simplify-f1025b20-1cf5-4f9d-8505-a81fea68f463",
+      "seen_at": "2026-07-17T23:29:05.266826+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
+      "seen_at": "2026-07-17T23:29:05.266956+00:00"
+    },
+    {
+      "id": "simplify-36ac811b-2597-49be-8022-58b4486ef9d8",
+      "seen_at": "2026-07-17T23:29:05.267082+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534",
+      "seen_at": "2026-07-17T23:29:05.267200+00:00"
+    },
+    {
+      "id": "simplify-bb51ffea-55c3-467f-b5c0-5bf481cd8e3f",
+      "seen_at": "2026-07-17T23:29:05.267321+00:00"
+    },
+    {
+      "id": "url:https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Engineering-Rep-Step-1_033265",
+      "seen_at": "2026-07-17T23:29:05.267437+00:00"
+    },
+    {
+      "id": "greenhouse-discord-8485797002",
+      "seen_at": "2026-07-17T23:29:05.267556+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8485797002",
+      "seen_at": "2026-07-17T23:29:05.267676+00:00"
+    },
+    {
+      "id": "ashby-openai-2d7f1028-ce9b-49c7-acc8-782714ca1cf4",
+      "seen_at": "2026-07-17T23:29:05.267794+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/2d7f1028-ce9b-49c7-acc8-782714ca1cf4",
+      "seen_at": "2026-07-17T23:29:05.267907+00:00"
     }
   ],
-  "last_run": "2026-07-17T22:27:44.696393+00:00",
-  "total_notified": 1733,
+  "last_run": "2026-07-17T23:29:05.555128+00:00",
+  "total_notified": 1751,
   "channels": {
     "swe-jobs": [
       "simplify-95f67d1a-0c71-458d-a724-50a943e61f90",
@@ -9282,7 +9418,17 @@
       "simplify-ce535c93-f706-49f8-98ac-5f72c9bd6729",
       "url:https://www.tesla.com/careers/search/job/276987",
       "greenhouse-pinterest-7255640",
-      "url:https://www.pinterestcareers.com/jobs"
+      "url:https://www.pinterestcareers.com/jobs",
+      "simplify-9b8c84ef-c762-4da1-9f47-56e4a62375d5",
+      "url:https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application",
+      "simplify-fe4a0f8c-3de2-411c-8959-9b9893900a52",
+      "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023",
+      "simplify-c49d403e-9c01-4e02-bbf3-31cbc36e6522",
+      "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
+      "simplify-6105e0c3-50cc-473e-820c-706c8aeb1d47",
+      "url:https://boards.greenhouse.io/neuralink/jobs/7808233003",
+      "simplify-7c5ad96f-e7b8-4ad3-9e09-9da83e6659b0",
+      "url:https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1"
     ],
     "pm-jobs": [
       "greenhouse-lyft-8550274002",
@@ -9500,11 +9646,13 @@
       "greenhouse-figma-6009613004",
       "url:https://boards.greenhouse.io/figma/jobs/6009613004",
       "greenhouse-figma-6020719004",
-      "url:https://boards.greenhouse.io/figma/jobs/6020719004"
+      "url:https://boards.greenhouse.io/figma/jobs/6020719004",
+      "simplify-ea0123ec-2b1b-4707-a216-1b4612ef7b68",
+      "url:https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Associate-Product-Manager_2132301",
+      "simplify-19f79bc4-c14b-46f6-8df6-0223d27ed872",
+      "url:https://ats.rippling.com/theguarantors-open-positions/jobs/40594c89-8739-4809-ba63-e20f0ea5e735"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-2d7f1028-ce9b-49c7-acc8-782714ca1cf4",
-      "url:https://jobs.ashbyhq.com/openai/2d7f1028-ce9b-49c7-acc8-782714ca1cf4",
       "simplify-63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
       "url:https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b/apply",
       "simplify-67e55145-2d42-436c-bbfd-65255ab341b4",
@@ -11257,7 +11405,29 @@
       "ashby-openai-3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c",
       "url:https://jobs.ashbyhq.com/openai/3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c",
       "greenhouse-discord-8637648002",
-      "url:https://job-boards.greenhouse.io/discord/jobs/8637648002"
+      "url:https://job-boards.greenhouse.io/discord/jobs/8637648002",
+      "simplify-009fad51-be8a-4c3c-b691-368556bf5c5d",
+      "url:https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379/apply",
+      "simplify-325ff49d-973e-4e00-97d6-7f909349da90",
+      "url:https://job-boards.greenhouse.io/3redpartners/jobs/8631086002",
+      "simplify-a4a76214-4a1f-46c8-b260-b25e7a9d79f2",
+      "url:https://job-boards.greenhouse.io/instalilyai/jobs/4273106009",
+      "simplify-61097998-fadd-43c0-bff9-1d23f2a4762e",
+      "url:https://www.esri.com/careers/5190253007",
+      "simplify-feddb33d-3c53-46be-9599-b215ba67e99e",
+      "url:https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-I_R-083752",
+      "simplify-aff3422f-383b-44e6-9d0f-918bc9bc2543",
+      "url:https://boards.greenhouse.io/spacex/jobs/8632322002",
+      "simplify-f1025b20-1cf5-4f9d-8505-a81fea68f463",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
+      "simplify-36ac811b-2597-49be-8022-58b4486ef9d8",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2021534",
+      "simplify-bb51ffea-55c3-467f-b5c0-5bf481cd8e3f",
+      "url:https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Engineering-Rep-Step-1_033265",
+      "greenhouse-discord-8485797002",
+      "url:https://job-boards.greenhouse.io/discord/jobs/8485797002",
+      "ashby-openai-2d7f1028-ce9b-49c7-acc8-782714ca1cf4",
+      "url:https://jobs.ashbyhq.com/openai/2d7f1028-ce9b-49c7-acc8-782714ca1cf4"
     ]
   }
 }
