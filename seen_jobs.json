@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-3676c592-ca00-4a6c-b62f-eadaea5b170c",
-      "seen_at": "2026-06-17T16:49:48.936555+00:00"
-    },
-    {
-      "id": "url:https://harman.wd3.myworkdayjobs.com/HARMAN/job/Sunnyvale---California-USA/Intern---Software-Engineering_R-53546-2026",
-      "seen_at": "2026-06-17T16:49:48.936733+00:00"
-    },
-    {
-      "id": "simplify-987779ef-3c25-4288-b559-7f8a99d2b578",
-      "seen_at": "2026-06-17T16:49:50.206769+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application",
-      "seen_at": "2026-06-17T16:49:50.206954+00:00"
-    },
-    {
-      "id": "simplify-b8df6356-852a-4297-b6d7-4e4dab8e1234",
-      "seen_at": "2026-06-17T16:49:53.698482+00:00"
-    },
-    {
-      "id": "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois-Central-Illinois_R4042298-1",
-      "seen_at": "2026-06-17T16:49:53.698688+00:00"
-    },
-    {
-      "id": "simplify-9f64b9ac-38b2-4871-b188-4c2837cd0c60",
-      "seen_at": "2026-06-17T16:49:53.698873+00:00"
-    },
-    {
-      "id": "url:https://integer.wd1.myworkdayjobs.com/External/job/Salem-VA/Engineer-I--Manufacturing-_R34282",
-      "seen_at": "2026-06-17T16:49:53.698998+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8513769002",
-      "seen_at": "2026-06-17T16:49:53.699164+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8513769002",
-      "seen_at": "2026-06-17T16:49:53.699293+00:00"
-    },
-    {
-      "id": "ashby-openai-57bbaedc-30c1-4f1d-b194-e32a6adf874c",
-      "seen_at": "2026-06-17T16:49:53.699418+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/57bbaedc-30c1-4f1d-b194-e32a6adf874c",
-      "seen_at": "2026-06-17T16:49:53.699534+00:00"
-    },
-    {
       "id": "simplify-a3f73d95-78af-40f1-98a5-e230608dae8c",
       "seen_at": "2026-06-17T19:14:48.074466+00:00"
     },
@@ -8891,14 +8843,180 @@
     {
       "id": "url:https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Data-Scientist--Junior_329250",
       "seen_at": "2026-07-17T15:22:05.757425+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5989185004",
+      "seen_at": "2026-07-17T17:49:27.374403+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5989185004",
+      "seen_at": "2026-07-17T17:49:27.374618+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5830640004",
+      "seen_at": "2026-07-17T17:49:27.374752+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5830640004",
+      "seen_at": "2026-07-17T17:49:27.374866+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5505263004",
+      "seen_at": "2026-07-17T17:49:27.374987+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5505263004",
+      "seen_at": "2026-07-17T17:49:27.375099+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5837760004",
+      "seen_at": "2026-07-17T17:49:27.375214+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5837760004",
+      "seen_at": "2026-07-17T17:49:27.375325+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6009613004",
+      "seen_at": "2026-07-17T17:49:27.375439+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6009613004",
+      "seen_at": "2026-07-17T17:49:27.375560+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6020719004",
+      "seen_at": "2026-07-17T17:49:27.375676+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6020719004",
+      "seen_at": "2026-07-17T17:49:27.375777+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5220003004",
+      "seen_at": "2026-07-17T17:49:40.820982+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5220003004",
+      "seen_at": "2026-07-17T17:49:40.821142+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5552580004",
+      "seen_at": "2026-07-17T17:49:40.821285+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5552580004",
+      "seen_at": "2026-07-17T17:49:40.821406+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5976930004",
+      "seen_at": "2026-07-17T17:49:40.821582+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5976930004",
+      "seen_at": "2026-07-17T17:49:40.821705+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6013304004",
+      "seen_at": "2026-07-17T17:49:40.821839+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6013304004",
+      "seen_at": "2026-07-17T17:49:40.821957+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6013303004",
+      "seen_at": "2026-07-17T17:49:40.822079+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6013303004",
+      "seen_at": "2026-07-17T17:49:40.822189+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6009197004",
+      "seen_at": "2026-07-17T17:49:40.822308+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6009197004",
+      "seen_at": "2026-07-17T17:49:40.822417+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6013495004",
+      "seen_at": "2026-07-17T17:49:40.822553+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6013495004",
+      "seen_at": "2026-07-17T17:49:40.822664+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5551730004",
+      "seen_at": "2026-07-17T17:49:40.822785+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5551730004",
+      "seen_at": "2026-07-17T17:49:40.822898+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5552530004",
+      "seen_at": "2026-07-17T17:49:40.823018+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5552530004",
+      "seen_at": "2026-07-17T17:49:40.823129+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5551686004",
+      "seen_at": "2026-07-17T17:49:40.823248+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5551686004",
+      "seen_at": "2026-07-17T17:49:40.823359+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5790627004",
+      "seen_at": "2026-07-17T17:49:40.823479+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5790627004",
+      "seen_at": "2026-07-17T17:49:40.823685+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5552522004",
+      "seen_at": "2026-07-17T17:49:40.823818+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5552522004",
+      "seen_at": "2026-07-17T17:49:40.823931+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5552560004",
+      "seen_at": "2026-07-17T17:49:40.824053+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5552560004",
+      "seen_at": "2026-07-17T17:49:40.824164+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5551532004",
+      "seen_at": "2026-07-17T17:49:40.824284+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5551532004",
+      "seen_at": "2026-07-17T17:49:40.824395+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5551649004",
+      "seen_at": "2026-07-17T17:49:40.824584+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5551649004",
+      "seen_at": "2026-07-17T17:49:40.824719+00:00"
     }
   ],
-  "last_run": "2026-07-17T16:37:34.243732+00:00",
-  "total_notified": 1706,
+  "last_run": "2026-07-17T17:49:41.118357+00:00",
+  "total_notified": 1727,
   "channels": {
     "swe-jobs": [
-      "simplify-3676c592-ca00-4a6c-b62f-eadaea5b170c",
-      "url:https://harman.wd3.myworkdayjobs.com/HARMAN/job/Sunnyvale---California-USA/Intern---Software-Engineering_R-53546-2026",
       "simplify-95f67d1a-0c71-458d-a724-50a943e61f90",
       "url:https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282",
       "simplify-1c5d2214-7ef5-428f-8804-fb1dfbb397d4",
@@ -9185,8 +9303,6 @@
       "url:https://www.tesla.com/careers/search/job/276987"
     ],
     "pm-jobs": [
-      "simplify-987779ef-3c25-4288-b559-7f8a99d2b578",
-      "url:https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application",
       "greenhouse-lyft-8550274002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8550274002",
       "greenhouse-lyft-8550252002",
@@ -9390,17 +9506,21 @@
       "ashby-openai-6d642115-b495-4119-818d-cdef2003ae93",
       "url:https://jobs.ashbyhq.com/openai/6d642115-b495-4119-818d-cdef2003ae93",
       "simplify-ae507b57-02d4-4bfc-a7e8-6e6d6c0a6521",
-      "url:https://boards.greenhouse.io/embed/job_app"
+      "url:https://boards.greenhouse.io/embed/job_app",
+      "greenhouse-figma-5989185004",
+      "url:https://boards.greenhouse.io/figma/jobs/5989185004",
+      "greenhouse-figma-5830640004",
+      "url:https://boards.greenhouse.io/figma/jobs/5830640004",
+      "greenhouse-figma-5505263004",
+      "url:https://boards.greenhouse.io/figma/jobs/5505263004",
+      "greenhouse-figma-5837760004",
+      "url:https://boards.greenhouse.io/figma/jobs/5837760004",
+      "greenhouse-figma-6009613004",
+      "url:https://boards.greenhouse.io/figma/jobs/6009613004",
+      "greenhouse-figma-6020719004",
+      "url:https://boards.greenhouse.io/figma/jobs/6020719004"
     ],
     "swe-ai-full-time": [
-      "simplify-b8df6356-852a-4297-b6d7-4e4dab8e1234",
-      "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois-Central-Illinois_R4042298-1",
-      "simplify-9f64b9ac-38b2-4871-b188-4c2837cd0c60",
-      "url:https://integer.wd1.myworkdayjobs.com/External/job/Salem-VA/Engineer-I--Manufacturing-_R34282",
-      "greenhouse-lyft-8513769002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8513769002",
-      "ashby-openai-57bbaedc-30c1-4f1d-b194-e32a6adf874c",
-      "url:https://jobs.ashbyhq.com/openai/57bbaedc-30c1-4f1d-b194-e32a6adf874c",
       "simplify-a3f73d95-78af-40f1-98a5-e230608dae8c",
       "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---McKinney--TX--Onsite-_01853473",
       "greenhouse-figma-5829751004",
@@ -11131,7 +11251,37 @@
       "greenhouse-anthropic-5209196008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
       "simplify-dcac642d-746d-471c-bd6d-be9b5a21ad08",
-      "url:https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Data-Scientist--Junior_329250"
+      "url:https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Data-Scientist--Junior_329250",
+      "greenhouse-figma-5220003004",
+      "url:https://boards.greenhouse.io/figma/jobs/5220003004",
+      "greenhouse-figma-5552580004",
+      "url:https://boards.greenhouse.io/figma/jobs/5552580004",
+      "greenhouse-figma-5976930004",
+      "url:https://boards.greenhouse.io/figma/jobs/5976930004",
+      "greenhouse-figma-6013304004",
+      "url:https://boards.greenhouse.io/figma/jobs/6013304004",
+      "greenhouse-figma-6013303004",
+      "url:https://boards.greenhouse.io/figma/jobs/6013303004",
+      "greenhouse-figma-6009197004",
+      "url:https://boards.greenhouse.io/figma/jobs/6009197004",
+      "greenhouse-figma-6013495004",
+      "url:https://boards.greenhouse.io/figma/jobs/6013495004",
+      "greenhouse-figma-5551730004",
+      "url:https://boards.greenhouse.io/figma/jobs/5551730004",
+      "greenhouse-figma-5552530004",
+      "url:https://boards.greenhouse.io/figma/jobs/5552530004",
+      "greenhouse-figma-5551686004",
+      "url:https://boards.greenhouse.io/figma/jobs/5551686004",
+      "greenhouse-figma-5790627004",
+      "url:https://boards.greenhouse.io/figma/jobs/5790627004",
+      "greenhouse-figma-5552522004",
+      "url:https://boards.greenhouse.io/figma/jobs/5552522004",
+      "greenhouse-figma-5552560004",
+      "url:https://boards.greenhouse.io/figma/jobs/5552560004",
+      "greenhouse-figma-5551532004",
+      "url:https://boards.greenhouse.io/figma/jobs/5551532004",
+      "greenhouse-figma-5551649004",
+      "url:https://boards.greenhouse.io/figma/jobs/5551649004"
     ]
   }
 }
