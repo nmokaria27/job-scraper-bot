@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-lyft-8550274002",
-      "seen_at": "2026-06-18T09:49:13.956145+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8550274002",
-      "seen_at": "2026-06-18T09:49:13.956279+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8550252002",
-      "seen_at": "2026-06-18T09:49:13.956379+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8550252002",
-      "seen_at": "2026-06-18T09:49:13.956519+00:00"
-    },
-    {
-      "id": "simplify-a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
-      "seen_at": "2026-06-18T09:49:19.259275+00:00"
-    },
-    {
-      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "seen_at": "2026-06-18T09:49:19.259462+00:00"
-    },
-    {
-      "id": "simplify-01d6602a-2166-4774-a0ad-32e0b28fd5d2",
-      "seen_at": "2026-06-18T09:49:19.259587+00:00"
-    },
-    {
-      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Epic-Lab-Software-Engineer--NCG---Master-s-PhD-_R2622219",
-      "seen_at": "2026-06-18T09:49:19.259678+00:00"
-    },
-    {
-      "id": "simplify-4ad803af-97f1-41fb-854f-98f5214a00c2",
-      "seen_at": "2026-06-18T09:49:19.259787+00:00"
-    },
-    {
-      "id": "url:https://kp.taleo.net/careersection/external/jobdetail.ftl",
-      "seen_at": "2026-06-18T09:49:19.259884+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8536085002",
-      "seen_at": "2026-06-18T09:49:19.259985+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8536085002",
-      "seen_at": "2026-06-18T09:49:19.260085+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8335715002",
-      "seen_at": "2026-06-18T09:49:19.260187+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8335715002",
-      "seen_at": "2026-06-18T09:49:19.260287+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8335733002",
-      "seen_at": "2026-06-18T09:49:19.260393+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8335733002",
-      "seen_at": "2026-06-18T09:49:19.260498+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8559583002",
-      "seen_at": "2026-06-18T09:49:19.260594+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8559583002",
-      "seen_at": "2026-06-18T09:49:19.260679+00:00"
-    },
-    {
       "id": "greenhouse-figma-6092802004",
       "seen_at": "2026-06-18T16:18:49.072660+00:00"
     },
@@ -8937,7 +8865,7 @@
       "seen_at": "2026-07-18T04:07:41.886915+00:00"
     }
   ],
-  "last_run": "2026-07-18T09:48:43.328890+00:00",
+  "last_run": "2026-07-18T10:51:01.580656+00:00",
   "total_notified": 1755,
   "channels": {
     "swe-jobs": [
@@ -9225,10 +9153,6 @@
       "url:https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1"
     ],
     "pm-jobs": [
-      "greenhouse-lyft-8550274002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8550274002",
-      "greenhouse-lyft-8550252002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8550252002",
       "greenhouse-figma-6092802004",
       "url:https://boards.greenhouse.io/figma/jobs/6092802004",
       "simplify-0a27331e-2392-427a-9897-4a79b44a9c52",
@@ -9447,20 +9371,6 @@
       "url:https://ats.rippling.com/theguarantors-open-positions/jobs/40594c89-8739-4809-ba63-e20f0ea5e735"
     ],
     "swe-ai-full-time": [
-      "simplify-a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
-      "url:https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "simplify-01d6602a-2166-4774-a0ad-32e0b28fd5d2",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Epic-Lab-Software-Engineer--NCG---Master-s-PhD-_R2622219",
-      "simplify-4ad803af-97f1-41fb-854f-98f5214a00c2",
-      "url:https://kp.taleo.net/careersection/external/jobdetail.ftl",
-      "greenhouse-lyft-8536085002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8536085002",
-      "greenhouse-lyft-8335715002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8335715002",
-      "greenhouse-lyft-8335733002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8335733002",
-      "greenhouse-lyft-8559583002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8559583002",
       "greenhouse-anthropic-5097186008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5097186008",
       "simplify-d0419060-9eef-46ca-9f19-59e2a619eebf",
