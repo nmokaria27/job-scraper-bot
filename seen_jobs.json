@@ -9063,10 +9063,26 @@
     {
       "id": "url:https://boards.greenhouse.io/spacex/jobs/8638457002",
       "seen_at": "2026-07-18T01:00:41.989530+00:00"
+    },
+    {
+      "id": "simplify-1d1d2782-d1f8-47e7-980c-9f71c9a591cf",
+      "seen_at": "2026-07-18T04:07:41.886334+00:00"
+    },
+    {
+      "id": "url:https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us",
+      "seen_at": "2026-07-18T04:07:41.886561+00:00"
+    },
+    {
+      "id": "simplify-1619e24c-542d-4737-9c8d-d2da19828cee",
+      "seen_at": "2026-07-18T04:07:41.886767+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/botauto/jobs/5363495008",
+      "seen_at": "2026-07-18T04:07:41.886915+00:00"
     }
   ],
-  "last_run": "2026-07-18T01:00:42.326365+00:00",
-  "total_notified": 1753,
+  "last_run": "2026-07-18T04:07:42.030748+00:00",
+  "total_notified": 1755,
   "channels": {
     "swe-jobs": [
       "simplify-ddf8f5ba-8df7-4234-81b1-d96671596a99",
@@ -11347,7 +11363,11 @@
       "simplify-ddfdefdf-b2dc-4658-94dd-c253366dcb36",
       "url:https://magnatech.io/technology-careers",
       "simplify-b9eb627c-cc95-42eb-a6d2-f2b33c57b4af",
-      "url:https://boards.greenhouse.io/spacex/jobs/8638457002"
+      "url:https://boards.greenhouse.io/spacex/jobs/8638457002",
+      "simplify-1d1d2782-d1f8-47e7-980c-9f71c9a591cf",
+      "url:https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us",
+      "simplify-1619e24c-542d-4737-9c8d-d2da19828cee",
+      "url:https://job-boards.greenhouse.io/botauto/jobs/5363495008"
     ]
   }
 }
