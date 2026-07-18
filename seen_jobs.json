@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-e7ca86c9-9b55-4d3a-a409-f781291f435d",
-      "seen_at": "2026-06-18T18:37:56.540577+00:00"
-    },
-    {
-      "id": "url:https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
-      "seen_at": "2026-06-18T18:37:56.540724+00:00"
-    },
-    {
-      "id": "simplify-bf8a5772-d7a7-4239-8119-4ed3cfb9f480",
-      "seen_at": "2026-06-18T18:37:56.540851+00:00"
-    },
-    {
-      "id": "url:https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
-      "seen_at": "2026-06-18T18:37:56.540965+00:00"
-    },
-    {
-      "id": "simplify-d0419060-9eef-46ca-9f19-59e2a619eebf",
-      "seen_at": "2026-06-18T18:38:00.255355+00:00"
-    },
-    {
-      "id": "url:https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_260056",
-      "seen_at": "2026-06-18T18:38:00.255519+00:00"
-    },
-    {
-      "id": "simplify-ce1541f7-9a61-42c0-a010-de52ed8698a1",
-      "seen_at": "2026-06-18T18:38:00.255669+00:00"
-    },
-    {
-      "id": "url:https://lexical.bamboohr.com/careers/73",
-      "seen_at": "2026-06-18T18:38:00.255794+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5123039008",
-      "seen_at": "2026-06-18T18:38:00.255920+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5123039008",
-      "seen_at": "2026-06-18T18:38:00.256041+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5270442008",
-      "seen_at": "2026-06-18T18:38:00.256171+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5270442008",
-      "seen_at": "2026-06-18T18:38:00.256296+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5186669008",
       "seen_at": "2026-06-18T21:14:52.701633+00:00"
     },
@@ -8865,14 +8817,10 @@
       "seen_at": "2026-07-18T17:17:42.930285+00:00"
     }
   ],
-  "last_run": "2026-07-18T18:10:38.869102+00:00",
+  "last_run": "2026-07-18T19:35:02.387981+00:00",
   "total_notified": 1757,
   "channels": {
     "swe-jobs": [
-      "simplify-e7ca86c9-9b55-4d3a-a409-f781291f435d",
-      "url:https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
-      "simplify-bf8a5772-d7a7-4239-8119-4ed3cfb9f480",
-      "url:https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
       "simplify-9af788c7-f0f9-438a-81b4-dcd5df879ec4",
       "url:https://careers.formlabs.com/job/7890746/apply",
       "simplify-5a68ce5f-816a-422c-99ab-76aaed1f7303",
@@ -9373,14 +9321,6 @@
       "url:https://boards.greenhouse.io/figma/jobs/6092802004"
     ],
     "swe-ai-full-time": [
-      "simplify-d0419060-9eef-46ca-9f19-59e2a619eebf",
-      "url:https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_260056",
-      "simplify-ce1541f7-9a61-42c0-a010-de52ed8698a1",
-      "url:https://lexical.bamboohr.com/careers/73",
-      "greenhouse-anthropic-5123039008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5123039008",
-      "greenhouse-anthropic-5270442008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5270442008",
       "greenhouse-anthropic-5186669008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5186669008",
       "greenhouse-anthropic-5071132008",
