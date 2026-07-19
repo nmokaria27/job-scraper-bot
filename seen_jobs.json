@@ -1,118 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-9af788c7-f0f9-438a-81b4-dcd5df879ec4",
-      "seen_at": "2026-06-19T02:08:08.978205+00:00"
-    },
-    {
-      "id": "url:https://careers.formlabs.com/job/7890746/apply",
-      "seen_at": "2026-06-19T02:08:08.978346+00:00"
-    },
-    {
-      "id": "simplify-5a68ce5f-816a-422c-99ab-76aaed1f7303",
-      "seen_at": "2026-06-19T02:08:08.978450+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/bugcrowd/jobs/8016582",
-      "seen_at": "2026-06-19T02:08:08.978536+00:00"
-    },
-    {
-      "id": "simplify-0a27331e-2392-427a-9897-4a79b44a9c52",
-      "seen_at": "2026-06-19T02:08:10.062333+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/prizeout/1e3dab04-db41-4e97-9a42-7fb25e548583/apply",
-      "seen_at": "2026-06-19T02:08:10.062466+00:00"
-    },
-    {
-      "id": "simplify-f2b73da7-0a47-4832-bc1e-182627d6c02e",
-      "seen_at": "2026-06-19T02:08:17.795906+00:00"
-    },
-    {
-      "id": "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Diego-CA/Entry-Level-Engineering-Data-Author_JR2026515613-1",
-      "seen_at": "2026-06-19T02:08:17.796056+00:00"
-    },
-    {
-      "id": "simplify-1941cf58-d377-4f13-8d66-ee6d978d4f5a",
-      "seen_at": "2026-06-19T02:08:17.796179+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/274330",
-      "seen_at": "2026-06-19T02:08:17.796279+00:00"
-    },
-    {
-      "id": "simplify-0b31eab1-1bbe-4557-aed4-a6942d538e3c",
-      "seen_at": "2026-06-19T02:08:17.796393+00:00"
-    },
-    {
-      "id": "url:https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Computer-Science-Developer_R0003493",
-      "seen_at": "2026-06-19T02:08:17.796485+00:00"
-    },
-    {
-      "id": "simplify-32f28caf-1112-476e-abf0-98d17b1d1c30",
-      "seen_at": "2026-06-19T02:08:17.796605+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/spacex/jobs/8550675002",
-      "seen_at": "2026-06-19T02:08:17.796699+00:00"
-    },
-    {
-      "id": "simplify-dd031f1c-d024-4b6f-b219-420cba04150e",
-      "seen_at": "2026-06-19T02:08:17.796797+00:00"
-    },
-    {
-      "id": "url:https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Remote-Nationwide/Business-Intelligence-Engineer_R-416276",
-      "seen_at": "2026-06-19T02:08:17.796883+00:00"
-    },
-    {
-      "id": "simplify-d2ff1270-eca5-47c9-b13a-781c17317939",
-      "seen_at": "2026-06-19T02:08:17.796980+00:00"
-    },
-    {
-      "id": "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4042436-1",
-      "seen_at": "2026-06-19T02:08:17.797067+00:00"
-    },
-    {
-      "id": "simplify-eb09190f-823e-42bc-bf52-4ddcaab011b0",
-      "seen_at": "2026-06-19T02:08:17.797163+00:00"
-    },
-    {
-      "id": "url:https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647",
-      "seen_at": "2026-06-19T02:08:17.797250+00:00"
-    },
-    {
-      "id": "simplify-778e1777-fab9-418c-a38b-1acb7ac03dd1",
-      "seen_at": "2026-06-19T02:08:17.797345+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/spacex/jobs/8584271002",
-      "seen_at": "2026-06-19T02:08:17.797430+00:00"
-    },
-    {
-      "id": "simplify-12b0c4cc-55d1-42fd-a6ad-d544d2b42999",
-      "seen_at": "2026-06-19T02:08:17.797526+00:00"
-    },
-    {
-      "id": "url:https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599",
-      "seen_at": "2026-06-19T02:08:17.797628+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5271346008",
-      "seen_at": "2026-06-19T02:08:17.797724+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5271346008",
-      "seen_at": "2026-06-19T02:08:17.797826+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5238637008",
-      "seen_at": "2026-06-19T02:08:17.797940+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5238637008",
-      "seen_at": "2026-06-19T02:08:17.798044+00:00"
-    },
-    {
       "id": "simplify-7e13e0d3-bd62-458e-869e-bb070af80106",
       "seen_at": "2026-06-19T07:32:32.761588+00:00"
     },
@@ -8793,14 +8681,10 @@
       "seen_at": "2026-07-18T23:30:50.040207+00:00"
     }
   ],
-  "last_run": "2026-07-19T01:04:46.419616+00:00",
+  "last_run": "2026-07-19T04:29:42.771534+00:00",
   "total_notified": 1758,
   "channels": {
     "swe-jobs": [
-      "simplify-9af788c7-f0f9-438a-81b4-dcd5df879ec4",
-      "url:https://careers.formlabs.com/job/7890746/apply",
-      "simplify-5a68ce5f-816a-422c-99ab-76aaed1f7303",
-      "url:https://boards.greenhouse.io/bugcrowd/jobs/8016582",
       "simplify-7e13e0d3-bd62-458e-869e-bb070af80106",
       "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441",
       "simplify-341f6a28-e5b1-43f7-8f46-276d37527c38",
@@ -9077,8 +8961,6 @@
       "url:https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1"
     ],
     "pm-jobs": [
-      "simplify-0a27331e-2392-427a-9897-4a79b44a9c52",
-      "url:https://jobs.lever.co/prizeout/1e3dab04-db41-4e97-9a42-7fb25e548583/apply",
       "ashby-openai-b8a1293b-bf5b-488d-8257-869584db6496",
       "url:https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
       "greenhouse-anthropic-5247407008",
@@ -9297,28 +9179,6 @@
       "url:https://boards.greenhouse.io/figma/jobs/6092802004"
     ],
     "swe-ai-full-time": [
-      "simplify-f2b73da7-0a47-4832-bc1e-182627d6c02e",
-      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Diego-CA/Entry-Level-Engineering-Data-Author_JR2026515613-1",
-      "simplify-1941cf58-d377-4f13-8d66-ee6d978d4f5a",
-      "url:https://www.tesla.com/careers/search/job/274330",
-      "simplify-0b31eab1-1bbe-4557-aed4-a6942d538e3c",
-      "url:https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Computer-Science-Developer_R0003493",
-      "simplify-32f28caf-1112-476e-abf0-98d17b1d1c30",
-      "url:https://boards.greenhouse.io/spacex/jobs/8550675002",
-      "simplify-dd031f1c-d024-4b6f-b219-420cba04150e",
-      "url:https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Remote-Nationwide/Business-Intelligence-Engineer_R-416276",
-      "simplify-d2ff1270-eca5-47c9-b13a-781c17317939",
-      "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4042436-1",
-      "simplify-eb09190f-823e-42bc-bf52-4ddcaab011b0",
-      "url:https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647",
-      "simplify-778e1777-fab9-418c-a38b-1acb7ac03dd1",
-      "url:https://boards.greenhouse.io/spacex/jobs/8584271002",
-      "simplify-12b0c4cc-55d1-42fd-a6ad-d544d2b42999",
-      "url:https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599",
-      "greenhouse-anthropic-5271346008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5271346008",
-      "greenhouse-anthropic-5238637008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5238637008",
       "simplify-b79c1989-c4d0-4236-83c7-5cc5c3a24ae2",
       "url:https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---Data-Engineer_JR4824",
       "simplify-c19fb6ef-4c74-4595-8162-16bcb929c16c",
