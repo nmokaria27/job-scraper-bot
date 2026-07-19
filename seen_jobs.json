@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-9c889bbe-3176-45bf-96fc-ce726765f959",
-      "seen_at": "2026-06-19T17:00:34.600473+00:00"
-    },
-    {
-      "id": "url:https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
-      "seen_at": "2026-06-19T17:00:34.600714+00:00"
-    },
-    {
-      "id": "simplify-b4b8249f-b8fd-491d-a1cb-5466b6ec5f88",
-      "seen_at": "2026-06-19T17:00:34.600989+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/KrgTechnologyInc/100733740",
-      "seen_at": "2026-06-19T17:00:34.601146+00:00"
-    },
-    {
-      "id": "simplify-bb732165-6b1c-499b-82b9-aaacc8eda685",
-      "seen_at": "2026-06-19T17:00:34.601308+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/Idexcel3/104328430",
-      "seen_at": "2026-06-19T17:00:34.601459+00:00"
-    },
-    {
       "id": "greenhouse-cloudflare-7955378",
       "seen_at": "2026-06-19T19:03:20.868621+00:00"
     },
@@ -8577,7 +8553,7 @@
       "seen_at": "2026-07-19T15:18:04.159354+00:00"
     }
   ],
-  "last_run": "2026-07-19T16:13:59.011705+00:00",
+  "last_run": "2026-07-19T17:27:00.794367+00:00",
   "total_notified": 1760,
   "channels": {
     "swe-jobs": [
@@ -9067,12 +9043,6 @@
       "url:https://boards.greenhouse.io/figma/jobs/6092802004"
     ],
     "swe-ai-full-time": [
-      "simplify-9c889bbe-3176-45bf-96fc-ce726765f959",
-      "url:https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
-      "simplify-b4b8249f-b8fd-491d-a1cb-5466b6ec5f88",
-      "url:https://jobs.smartrecruiters.com/KrgTechnologyInc/100733740",
-      "simplify-bb732165-6b1c-499b-82b9-aaacc8eda685",
-      "url:https://jobs.smartrecruiters.com/Idexcel3/104328430",
       "greenhouse-cloudflare-7955378",
       "url:https://boards.greenhouse.io/cloudflare/jobs/7955378",
       "greenhouse-anthropic-5271380008",
