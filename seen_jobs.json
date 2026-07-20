@@ -8543,10 +8543,34 @@
     {
       "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6098390004",
       "seen_at": "2026-07-20T19:01:44.611954+00:00"
+    },
+    {
+      "id": "greenhouse-brex-8438582002",
+      "seen_at": "2026-07-20T20:35:27.532412+00:00"
+    },
+    {
+      "id": "url:https://www.brex.com/careers/8438582002",
+      "seen_at": "2026-07-20T20:35:27.532588+00:00"
+    },
+    {
+      "id": "greenhouse-brex-8438580002",
+      "seen_at": "2026-07-20T20:35:27.532726+00:00"
+    },
+    {
+      "id": "url:https://www.brex.com/careers/8438580002",
+      "seen_at": "2026-07-20T20:35:27.532822+00:00"
+    },
+    {
+      "id": "greenhouse-brex-8438581002",
+      "seen_at": "2026-07-20T20:35:27.532913+00:00"
+    },
+    {
+      "id": "url:https://www.brex.com/careers/8438581002",
+      "seen_at": "2026-07-20T20:35:27.533036+00:00"
     }
   ],
-  "last_run": "2026-07-20T19:01:44.825373+00:00",
-  "total_notified": 1772,
+  "last_run": "2026-07-20T20:35:28.196896+00:00",
+  "total_notified": 1775,
   "channels": {
     "swe-jobs": [
       "simplify-be01ab40-de24-4098-a05f-5e2fd741d92f",
@@ -9038,7 +9062,13 @@
       "simplify-b6d26674-02dd-4d33-b66b-c7262e0d6a87",
       "url:https://careers.footlocker.com/jobs/71035",
       "greenhouse-airbnb-8055637",
-      "url:https://careers.airbnb.com/positions/8055637"
+      "url:https://careers.airbnb.com/positions/8055637",
+      "greenhouse-brex-8438582002",
+      "url:https://www.brex.com/careers/8438582002",
+      "greenhouse-brex-8438580002",
+      "url:https://www.brex.com/careers/8438580002",
+      "greenhouse-brex-8438581002",
+      "url:https://www.brex.com/careers/8438581002"
     ],
     "swe-ai-full-time": [
       "simplify-991e9a6c-e5e0-467b-a79d-39f9a605dc8b",
