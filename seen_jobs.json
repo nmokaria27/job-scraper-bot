@@ -9255,10 +9255,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
       "seen_at": "2026-07-21T20:51:36.556842+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5364804008",
+      "seen_at": "2026-07-21T21:49:15.899843+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
+      "seen_at": "2026-07-21T21:49:15.900038+00:00"
+    },
+    {
+      "id": "ashby-openai-aeeabb7a-f6e0-4e8d-a9ad-ae3464288125",
+      "seen_at": "2026-07-21T21:49:15.900201+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/aeeabb7a-f6e0-4e8d-a9ad-ae3464288125",
+      "seen_at": "2026-07-21T21:49:15.900401+00:00"
     }
   ],
-  "last_run": "2026-07-21T20:51:36.818574+00:00",
-  "total_notified": 1867,
+  "last_run": "2026-07-21T21:49:16.172951+00:00",
+  "total_notified": 1869,
   "channels": {
     "swe-jobs": [
       "simplify-be01ab40-de24-4098-a05f-5e2fd741d92f",
@@ -11587,7 +11603,11 @@
       "greenhouse-datadog-7452669",
       "url:https://careers.datadoghq.com/detail/7452669",
       "ashby-openai-b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
-      "url:https://jobs.ashbyhq.com/openai/b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea"
+      "url:https://jobs.ashbyhq.com/openai/b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
+      "greenhouse-anthropic-5364804008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
+      "ashby-openai-aeeabb7a-f6e0-4e8d-a9ad-ae3464288125",
+      "url:https://jobs.ashbyhq.com/openai/aeeabb7a-f6e0-4e8d-a9ad-ae3464288125"
     ]
   }
 }
