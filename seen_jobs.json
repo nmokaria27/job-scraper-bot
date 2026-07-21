@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-f2ddaac5-39eb-4d9a-9c82-2727f6b3d983",
-      "seen_at": "2026-06-21T23:38:33.688735+00:00"
-    },
-    {
-      "id": "url:https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineer-I_20777-1",
-      "seen_at": "2026-06-21T23:38:33.688958+00:00"
-    },
-    {
       "id": "simplify-3e1824f1-5725-4981-a47f-ecec4729f482",
       "seen_at": "2026-06-22T07:44:13.967223+00:00"
     },
@@ -9295,10 +9287,34 @@
     {
       "id": "url:https://jobs.ashbyhq.com/joinpogo/e6338078-0adc-4ab3-9f72-9e433a9a40bf/application",
       "seen_at": "2026-07-21T22:39:47.432450+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5324349008",
+      "seen_at": "2026-07-21T23:43:12.566413+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5324349008",
+      "seen_at": "2026-07-21T23:43:12.566570+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5247446008",
+      "seen_at": "2026-07-21T23:43:14.700748+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5247446008",
+      "seen_at": "2026-07-21T23:43:14.700924+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5366138008",
+      "seen_at": "2026-07-21T23:43:14.701072+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5366138008",
+      "seen_at": "2026-07-21T23:43:14.701241+00:00"
     }
   ],
-  "last_run": "2026-07-21T22:39:47.598677+00:00",
-  "total_notified": 1873,
+  "last_run": "2026-07-21T23:43:14.948897+00:00",
+  "total_notified": 1876,
   "channels": {
     "swe-jobs": [
       "simplify-be01ab40-de24-4098-a05f-5e2fd741d92f",
@@ -9858,11 +9874,11 @@
       "simplify-6a849ae3-5b64-44ef-8bcc-a7bb32766d9f",
       "url:https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application",
       "ashby-openai-b8a1293b-bf5b-488d-8257-869584db6496",
-      "url:https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496"
+      "url:https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
+      "greenhouse-anthropic-5324349008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5324349008"
     ],
     "swe-ai-full-time": [
-      "simplify-f2ddaac5-39eb-4d9a-9c82-2727f6b3d983",
-      "url:https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineer-I_20777-1",
       "simplify-3e1824f1-5725-4981-a47f-ecec4729f482",
       "url:https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/XMLNAME-2027-Field-Service-Engineer---New-College-Graduate-Rotational-Program---Bachelor-s-Degree_R2614610",
       "simplify-263f198b-2169-4ff2-bfd5-465b3b33e059",
@@ -11637,7 +11653,11 @@
       "simplify-97fb360c-b796-484c-979f-be8d9fcccdfa",
       "url:https://jobs.apple.com/en-us/details/200672948",
       "simplify-57a88b77-0b46-4e53-b3ad-a13cd9123377",
-      "url:https://jobs.ashbyhq.com/joinpogo/e6338078-0adc-4ab3-9f72-9e433a9a40bf/application"
+      "url:https://jobs.ashbyhq.com/joinpogo/e6338078-0adc-4ab3-9f72-9e433a9a40bf/application",
+      "greenhouse-anthropic-5247446008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5247446008",
+      "greenhouse-anthropic-5366138008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5366138008"
     ]
   }
 }
