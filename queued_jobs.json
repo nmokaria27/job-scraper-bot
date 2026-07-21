@@ -1,6 +1,21 @@
 {
   "channels": {
-    "swe-ai-full-time": []
+    "swe-ai-full-time": [
+      {
+        "id": "ashby-openai-596e543a-0ab9-471e-a1ff-40fd55c74fce",
+        "seen_keys": [
+          "ashby-openai-596e543a-0ab9-471e-a1ff-40fd55c74fce",
+          "url:https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce"
+        ],
+        "title": "Software Engineer, Ads Integrity",
+        "company": "Openai",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce",
+        "platform": "ashby",
+        "posted_at": "Unknown",
+        "queued_at": "2026-07-21T04:36:06.693637+00:00"
+      }
+    ]
   },
-  "last_run": "2026-07-21T01:12:22.674093+00:00"
+  "last_run": "2026-07-21T04:36:06.875624+00:00"
 }
