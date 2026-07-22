@@ -1,74 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5247407008",
-      "seen_at": "2026-06-22T17:58:12.804498+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5247407008",
-      "seen_at": "2026-06-22T17:58:12.804659+00:00"
-    },
-    {
-      "id": "greenhouse-pinterest-7572846",
-      "seen_at": "2026-06-22T17:58:12.804803+00:00"
-    },
-    {
-      "id": "simplify-263f198b-2169-4ff2-bfd5-465b3b33e059",
-      "seen_at": "2026-06-22T17:58:18.221196+00:00"
-    },
-    {
-      "id": "url:https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Associate-Software-Applications-Developer-I_R-094102",
-      "seen_at": "2026-06-22T17:58:18.221360+00:00"
-    },
-    {
-      "id": "simplify-768e4d7c-d1fc-4490-94ba-51a4efdf2cb3",
-      "seen_at": "2026-06-22T17:58:18.221501+00:00"
-    },
-    {
-      "id": "url:https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Associate-Software-Engineer---Test_R221948-1",
-      "seen_at": "2026-06-22T17:58:18.221626+00:00"
-    },
-    {
-      "id": "simplify-01864a29-f685-449a-8b9a-abcaf7bc9c15",
-      "seen_at": "2026-06-22T17:58:18.221758+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/AGTechnologies1/108734797",
-      "seen_at": "2026-06-22T17:58:18.221904+00:00"
-    },
-    {
-      "id": "greenhouse-reddit-8014401",
-      "seen_at": "2026-06-22T17:58:18.222043+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8014401",
-      "seen_at": "2026-06-22T17:58:18.222159+00:00"
-    },
-    {
-      "id": "greenhouse-reddit-8014436",
-      "seen_at": "2026-06-22T17:58:18.222270+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8014436",
-      "seen_at": "2026-06-22T17:58:18.222367+00:00"
-    },
-    {
-      "id": "greenhouse-reddit-8013591",
-      "seen_at": "2026-06-22T17:58:18.222473+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8013591",
-      "seen_at": "2026-06-22T17:58:18.222573+00:00"
-    },
-    {
-      "id": "ashby-openai-097b3559-d3a8-4c7b-b9e5-d891146d6b07",
-      "seen_at": "2026-06-22T17:58:18.222678+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/097b3559-d3a8-4c7b-b9e5-d891146d6b07",
-      "seen_at": "2026-06-22T17:58:18.222777+00:00"
-    },
-    {
       "id": "ashby-openai-3f99bfef-5b1a-48ea-aed0-2dbd57b12722",
       "seen_at": "2026-06-22T21:10:08.674177+00:00"
     },
@@ -9449,7 +9381,7 @@
       "seen_at": "2026-07-22T17:35:11.610795+00:00"
     }
   ],
-  "last_run": "2026-07-22T17:35:11.953323+00:00",
+  "last_run": "2026-07-22T18:44:36.485390+00:00",
   "total_notified": 1894,
   "channels": {
     "swe-jobs": [
@@ -9775,9 +9707,6 @@
       "url:https://job-boards.greenhouse.io/virtu/jobs/8624410002"
     ],
     "pm-jobs": [
-      "greenhouse-anthropic-5247407008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5247407008",
-      "greenhouse-pinterest-7572846",
       "greenhouse-datadog-8023763",
       "url:https://careers.datadoghq.com/detail/8023763",
       "greenhouse-datadog-8024863",
@@ -10021,20 +9950,6 @@
       "url:https://boards.greenhouse.io/figma/jobs/6119781004"
     ],
     "swe-ai-full-time": [
-      "simplify-263f198b-2169-4ff2-bfd5-465b3b33e059",
-      "url:https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Associate-Software-Applications-Developer-I_R-094102",
-      "simplify-768e4d7c-d1fc-4490-94ba-51a4efdf2cb3",
-      "url:https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Associate-Software-Engineer---Test_R221948-1",
-      "simplify-01864a29-f685-449a-8b9a-abcaf7bc9c15",
-      "url:https://jobs.smartrecruiters.com/AGTechnologies1/108734797",
-      "greenhouse-reddit-8014401",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8014401",
-      "greenhouse-reddit-8014436",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8014436",
-      "greenhouse-reddit-8013591",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8013591",
-      "ashby-openai-097b3559-d3a8-4c7b-b9e5-d891146d6b07",
-      "url:https://jobs.ashbyhq.com/openai/097b3559-d3a8-4c7b-b9e5-d891146d6b07",
       "ashby-openai-3f99bfef-5b1a-48ea-aed0-2dbd57b12722",
       "url:https://jobs.ashbyhq.com/openai/3f99bfef-5b1a-48ea-aed0-2dbd57b12722",
       "ashby-openai-1f9c3666-82c8-45a7-8d4b-633a265ce996",
