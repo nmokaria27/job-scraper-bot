@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-3e1824f1-5725-4981-a47f-ecec4729f482",
-      "seen_at": "2026-06-22T07:44:13.967223+00:00"
-    },
-    {
-      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/XMLNAME-2027-Field-Service-Engineer---New-College-Graduate-Rotational-Program---Bachelor-s-Degree_R2614610",
-      "seen_at": "2026-06-22T07:44:13.967423+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5247407008",
       "seen_at": "2026-06-22T17:58:12.804498+00:00"
     },
@@ -9409,7 +9401,7 @@
       "seen_at": "2026-07-22T04:37:39.942260+00:00"
     }
   ],
-  "last_run": "2026-07-22T07:25:51.932040+00:00",
+  "last_run": "2026-07-22T10:03:02.617640+00:00",
   "total_notified": 1888,
   "channels": {
     "swe-jobs": [
@@ -9979,8 +9971,6 @@
       "url:https://lifeattiktok.com/search/7663349357178620165"
     ],
     "swe-ai-full-time": [
-      "simplify-3e1824f1-5725-4981-a47f-ecec4729f482",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/XMLNAME-2027-Field-Service-Engineer---New-College-Graduate-Rotational-Program---Bachelor-s-Degree_R2614610",
       "simplify-263f198b-2169-4ff2-bfd5-465b3b33e059",
       "url:https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Associate-Software-Applications-Developer-I_R-094102",
       "simplify-768e4d7c-d1fc-4490-94ba-51a4efdf2cb3",
