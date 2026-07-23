@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-datadog-8023763",
-      "seen_at": "2026-06-23T20:39:52.797152+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/8023763",
-      "seen_at": "2026-06-23T20:39:52.797317+00:00"
-    },
-    {
       "id": "greenhouse-datadog-8024863",
       "seen_at": "2026-06-23T22:05:48.471831+00:00"
     },
@@ -9421,7 +9413,7 @@
       "seen_at": "2026-07-23T19:50:20.329230+00:00"
     }
   ],
-  "last_run": "2026-07-23T19:50:20.772110+00:00",
+  "last_run": "2026-07-23T20:45:58.972782+00:00",
   "total_notified": 1934,
   "channels": {
     "swe-jobs": [
@@ -9737,8 +9729,6 @@
       "url:https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern"
     ],
     "pm-jobs": [
-      "greenhouse-datadog-8023763",
-      "url:https://careers.datadoghq.com/detail/8023763",
       "greenhouse-datadog-8024863",
       "url:https://careers.datadoghq.com/detail/8024863",
       "simplify-cd64a5ea-e39f-46da-9968-2118ff190093",
