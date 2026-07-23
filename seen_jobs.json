@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-b7ecf859-e102-435c-ad58-a6bb88c51c60",
-      "seen_at": "2026-06-23T14:01:51.296367+00:00"
-    },
-    {
-      "id": "url:https://www.murumed.com/job-listings/software-engineer-intern",
-      "seen_at": "2026-06-23T14:01:51.296504+00:00"
-    },
-    {
-      "id": "simplify-ac9a60d7-eb51-4cbb-af68-97f00839f454",
-      "seen_at": "2026-06-23T14:01:51.296608+00:00"
-    },
-    {
-      "id": "url:https://www.murumed.com/job-listings/web-software-engineer-intern",
-      "seen_at": "2026-06-23T14:01:51.296694+00:00"
-    },
-    {
-      "id": "simplify-f06b088f-b45f-4daa-a9f2-f680f36623f0",
-      "seen_at": "2026-06-23T14:01:51.296828+00:00"
-    },
-    {
-      "id": "url:https://simoncomputing.applicantpro.com/jobs/4115690",
-      "seen_at": "2026-06-23T14:01:51.296930+00:00"
-    },
-    {
-      "id": "simplify-c3e5404d-596e-4408-ba27-d60a17fb1680",
-      "seen_at": "2026-06-23T14:01:51.297036+00:00"
-    },
-    {
-      "id": "url:https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263",
-      "seen_at": "2026-06-23T14:01:51.297128+00:00"
-    },
-    {
       "id": "simplify-124c16b4-a879-4e83-b93b-b6ae05424710",
       "seen_at": "2026-06-23T16:32:34.075241+00:00"
     },
@@ -9453,18 +9421,10 @@
       "seen_at": "2026-07-23T09:40:08.141539+00:00"
     }
   ],
-  "last_run": "2026-07-23T13:13:30.863016+00:00",
+  "last_run": "2026-07-23T15:27:02.070708+00:00",
   "total_notified": 1926,
   "channels": {
     "swe-jobs": [
-      "simplify-b7ecf859-e102-435c-ad58-a6bb88c51c60",
-      "url:https://www.murumed.com/job-listings/software-engineer-intern",
-      "simplify-ac9a60d7-eb51-4cbb-af68-97f00839f454",
-      "url:https://www.murumed.com/job-listings/web-software-engineer-intern",
-      "simplify-f06b088f-b45f-4daa-a9f2-f680f36623f0",
-      "url:https://simoncomputing.applicantpro.com/jobs/4115690",
-      "simplify-c3e5404d-596e-4408-ba27-d60a17fb1680",
-      "url:https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263",
       "simplify-64a6f277-b6d0-4d32-9ffd-f2ee6028e599",
       "url:http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application",
       "simplify-335d47b1-5a15-4ba4-8d65-94a8b563ff34",
