@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-datadog-8024863",
-      "seen_at": "2026-06-23T22:05:48.471831+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/8024863",
-      "seen_at": "2026-06-23T22:05:48.472023+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8024267",
-      "seen_at": "2026-06-23T22:05:49.582253+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8024267",
-      "seen_at": "2026-06-23T22:05:49.582429+00:00"
-    },
-    {
       "id": "simplify-64a6f277-b6d0-4d32-9ffd-f2ee6028e599",
       "seen_at": "2026-06-23T23:18:34.400224+00:00"
     },
@@ -9419,10 +9403,74 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/c9135e66-e49e-4bdc-be89-5d45aad23865",
       "seen_at": "2026-07-23T21:46:59.833862+00:00"
+    },
+    {
+      "id": "simplify-9a969dee-3299-4199-9e37-0f0e37a0d66f",
+      "seen_at": "2026-07-23T22:40:49.612637+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/WesternDigital/744000139338269",
+      "seen_at": "2026-07-23T22:40:49.612792+00:00"
+    },
+    {
+      "id": "simplify-3084c516-85ae-493d-a322-241adba5a8ed",
+      "seen_at": "2026-07-23T22:40:49.612925+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
+      "seen_at": "2026-07-23T22:40:49.613030+00:00"
+    },
+    {
+      "id": "simplify-c581bac5-be54-412c-bb00-819e25e00ebd",
+      "seen_at": "2026-07-23T22:40:50.800969+00:00"
+    },
+    {
+      "id": "url:https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-Ontario-CAN/Associate-Product-Manager---Software-and-Databases---New-Techniques_R2601031",
+      "seen_at": "2026-07-23T22:40:50.801128+00:00"
+    },
+    {
+      "id": "simplify-555378b1-69c4-4a27-b664-d84ac05b0bfd",
+      "seen_at": "2026-07-23T22:40:54.546375+00:00"
+    },
+    {
+      "id": "url:https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-548945-1",
+      "seen_at": "2026-07-23T22:40:54.546557+00:00"
+    },
+    {
+      "id": "simplify-4c2be7ac-eebd-440e-964d-55577780ece6",
+      "seen_at": "2026-07-23T22:40:54.546700+00:00"
+    },
+    {
+      "id": "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0285267",
+      "seen_at": "2026-07-23T22:40:54.546814+00:00"
+    },
+    {
+      "id": "simplify-c8b1494a-3262-4b95-a356-612e9c1e1dd9",
+      "seen_at": "2026-07-23T22:40:54.546931+00:00"
+    },
+    {
+      "id": "url:https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
+      "seen_at": "2026-07-23T22:40:54.547038+00:00"
+    },
+    {
+      "id": "simplify-57f0e201-e032-474d-934d-e7422d7e2605",
+      "seen_at": "2026-07-23T22:40:54.547155+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Image-Science-Engineering-NY-14606/1411981100",
+      "seen_at": "2026-07-23T22:40:54.547273+00:00"
+    },
+    {
+      "id": "ashby-openai-c7afb907-e9ce-4969-ae51-d25c7c6ee6cd",
+      "seen_at": "2026-07-23T22:40:54.547381+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/c7afb907-e9ce-4969-ae51-d25c7c6ee6cd",
+      "seen_at": "2026-07-23T22:40:54.547485+00:00"
     }
   ],
-  "last_run": "2026-07-23T21:47:00.172218+00:00",
-  "total_notified": 1935,
+  "last_run": "2026-07-23T22:40:54.717336+00:00",
+  "total_notified": 1943,
   "channels": {
     "swe-jobs": [
       "simplify-64a6f277-b6d0-4d32-9ffd-f2ee6028e599",
@@ -9734,11 +9782,13 @@
       "simplify-800e06ea-4a8a-4db5-a93a-7aae82cfac49",
       "url:https://job-boards.greenhouse.io/virtu/jobs/8624410002",
       "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
-      "url:https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern"
+      "url:https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern",
+      "simplify-9a969dee-3299-4199-9e37-0f0e37a0d66f",
+      "url:https://jobs.smartrecruiters.com/WesternDigital/744000139338269",
+      "simplify-3084c516-85ae-493d-a322-241adba5a8ed",
+      "url:https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007"
     ],
     "pm-jobs": [
-      "greenhouse-datadog-8024863",
-      "url:https://careers.datadoghq.com/detail/8024863",
       "simplify-cd64a5ea-e39f-46da-9968-2118ff190093",
       "url:https://www.tesla.com/careers/search/job/274754",
       "greenhouse-anthropic-5281348008",
@@ -9985,11 +10035,11 @@
       "simplify-04240fa6-3af0-46bb-9249-23dd4adcfd5c",
       "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110078",
       "greenhouse-lyft-8550252002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8550252002"
+      "url:https://app.careerpuck.com/job-board/lyft/job/8550252002",
+      "simplify-c581bac5-be54-412c-bb00-819e25e00ebd",
+      "url:https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-Ontario-CAN/Associate-Product-Manager---Software-and-Databases---New-Techniques_R2601031"
     ],
     "swe-ai-full-time": [
-      "greenhouse-airbnb-8024267",
-      "url:https://careers.airbnb.com/positions/8024267",
       "simplify-5067c41a-3381-4492-9b27-bd43002abb8d",
       "url:https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Software-Applications-Developer-I_R-094387",
       "simplify-f1abbff9-d522-4136-8378-82f66c4f851f",
@@ -11792,7 +11842,17 @@
       "ashby-openai-a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3",
       "url:https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3",
       "ashby-openai-c9135e66-e49e-4bdc-be89-5d45aad23865",
-      "url:https://jobs.ashbyhq.com/openai/c9135e66-e49e-4bdc-be89-5d45aad23865"
+      "url:https://jobs.ashbyhq.com/openai/c9135e66-e49e-4bdc-be89-5d45aad23865",
+      "simplify-555378b1-69c4-4a27-b664-d84ac05b0bfd",
+      "url:https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-548945-1",
+      "simplify-4c2be7ac-eebd-440e-964d-55577780ece6",
+      "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0285267",
+      "simplify-c8b1494a-3262-4b95-a356-612e9c1e1dd9",
+      "url:https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
+      "simplify-57f0e201-e032-474d-934d-e7422d7e2605",
+      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Image-Science-Engineering-NY-14606/1411981100",
+      "ashby-openai-c7afb907-e9ce-4969-ae51-d25c7c6ee6cd",
+      "url:https://jobs.ashbyhq.com/openai/c7afb907-e9ce-4969-ae51-d25c7c6ee6cd"
     ]
   }
 }
