@@ -9619,10 +9619,26 @@
     {
       "id": "url:https://careers.datadoghq.com/detail/7449072",
       "seen_at": "2026-07-24T13:03:54.940638+00:00"
+    },
+    {
+      "id": "simplify-d8f80069-7e92-4a82-9b1f-b8aaa60b695c",
+      "seen_at": "2026-07-24T15:03:14.978281+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/joinpogo/570c8f47-ee6f-4c54-9858-33d9f2233fb6/application",
+      "seen_at": "2026-07-24T15:03:14.978447+00:00"
+    },
+    {
+      "id": "simplify-d18bc1a4-16e1-4dad-9fb3-8dcae83337fe",
+      "seen_at": "2026-07-24T15:03:14.978564+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200672759",
+      "seen_at": "2026-07-24T15:03:14.978664+00:00"
     }
   ],
-  "last_run": "2026-07-24T13:03:55.196445+00:00",
-  "total_notified": 1973,
+  "last_run": "2026-07-24T15:03:15.430856+00:00",
+  "total_notified": 1975,
   "channels": {
     "swe-jobs": [
       "simplify-41be6cad-061e-4d13-8aa3-501ff1c0c702",
@@ -12040,7 +12056,11 @@
       "greenhouse-airbnb-8083137",
       "url:https://careers.airbnb.com/positions/8083137",
       "greenhouse-datadog-7449072",
-      "url:https://careers.datadoghq.com/detail/7449072"
+      "url:https://careers.datadoghq.com/detail/7449072",
+      "simplify-d8f80069-7e92-4a82-9b1f-b8aaa60b695c",
+      "url:https://jobs.ashbyhq.com/joinpogo/570c8f47-ee6f-4c54-9858-33d9f2233fb6/application",
+      "simplify-d18bc1a4-16e1-4dad-9fb3-8dcae83337fe",
+      "url:https://jobs.apple.com/en-us/details/200672759"
     ]
   }
 }
