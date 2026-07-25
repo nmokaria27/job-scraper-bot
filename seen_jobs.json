@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-vercel-6093255004",
-      "seen_at": "2026-06-25T00:19:31.961659+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6093255004",
-      "seen_at": "2026-06-25T00:19:31.961815+00:00"
-    },
-    {
-      "id": "ashby-openai-b9a4a809-a965-4dbe-aeef-6ce1593903dd",
-      "seen_at": "2026-06-25T00:19:31.961949+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/b9a4a809-a965-4dbe-aeef-6ce1593903dd",
-      "seen_at": "2026-06-25T00:19:31.962068+00:00"
-    },
-    {
       "id": "simplify-41be6cad-061e-4d13-8aa3-501ff1c0c702",
       "seen_at": "2026-06-25T04:37:39.126976+00:00"
     },
@@ -9715,10 +9699,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/ee6b7ece-ffcb-4546-8b4c-ef755ec21c14",
       "seen_at": "2026-07-24T23:46:39.861902+00:00"
+    },
+    {
+      "id": "ashby-openai-b9a4a809-a965-4dbe-aeef-6ce1593903dd",
+      "seen_at": "2026-07-25T01:13:52.473034+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/b9a4a809-a965-4dbe-aeef-6ce1593903dd",
+      "seen_at": "2026-07-25T01:13:52.473200+00:00"
+    },
+    {
+      "id": "ashby-openai-38e3c4bf-a632-405e-9619-b87382ca2472",
+      "seen_at": "2026-07-25T01:13:52.473330+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/38e3c4bf-a632-405e-9619-b87382ca2472",
+      "seen_at": "2026-07-25T01:13:52.473445+00:00"
     }
   ],
-  "last_run": "2026-07-24T23:46:40.138640+00:00",
-  "total_notified": 2008,
+  "last_run": "2026-07-25T01:13:53.150695+00:00",
+  "total_notified": 2010,
   "channels": {
     "swe-jobs": [
       "simplify-41be6cad-061e-4d13-8aa3-501ff1c0c702",
@@ -10298,10 +10298,6 @@
       "url:https://jobs.ashbyhq.com/openai/83b3ef17-5211-403d-b763-850e1c60faa0"
     ],
     "swe-ai-full-time": [
-      "greenhouse-vercel-6093255004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6093255004",
-      "ashby-openai-b9a4a809-a965-4dbe-aeef-6ce1593903dd",
-      "url:https://jobs.ashbyhq.com/openai/b9a4a809-a965-4dbe-aeef-6ce1593903dd",
       "ashby-openai-171ebca6-de53-4d6e-a312-30332f353957",
       "url:https://jobs.ashbyhq.com/openai/171ebca6-de53-4d6e-a312-30332f353957",
       "simplify-b04e012a-fae8-459e-99d0-b1378ab36891",
@@ -12160,7 +12156,11 @@
       "simplify-5aeddbfd-fc1d-4de7-827d-4e256860aed1",
       "url:https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---XD-Server-Engineering---Early-Career_1209599",
       "ashby-openai-ee6b7ece-ffcb-4546-8b4c-ef755ec21c14",
-      "url:https://jobs.ashbyhq.com/openai/ee6b7ece-ffcb-4546-8b4c-ef755ec21c14"
+      "url:https://jobs.ashbyhq.com/openai/ee6b7ece-ffcb-4546-8b4c-ef755ec21c14",
+      "ashby-openai-b9a4a809-a965-4dbe-aeef-6ce1593903dd",
+      "url:https://jobs.ashbyhq.com/openai/b9a4a809-a965-4dbe-aeef-6ce1593903dd",
+      "ashby-openai-38e3c4bf-a632-405e-9619-b87382ca2472",
+      "url:https://jobs.ashbyhq.com/openai/38e3c4bf-a632-405e-9619-b87382ca2472"
     ]
   }
 }
