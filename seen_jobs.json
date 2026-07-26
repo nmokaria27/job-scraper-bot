@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-lyft-8525086002",
-      "seen_at": "2026-06-26T21:57:11.058992+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8525086002",
-      "seen_at": "2026-06-26T21:57:11.059132+00:00"
-    },
-    {
       "id": "simplify-86dca459-da2d-4783-b392-328d701e4737",
       "seen_at": "2026-06-27T23:44:58.476687+00:00"
     },
@@ -9613,7 +9605,7 @@
       "seen_at": "2026-07-26T21:06:47.487959+00:00"
     }
   ],
-  "last_run": "2026-07-26T21:06:47.758238+00:00",
+  "last_run": "2026-07-26T22:09:06.317034+00:00",
   "total_notified": 2017,
   "channels": {
     "swe-jobs": [
@@ -9927,8 +9919,6 @@
       "url:https://job-boards.greenhouse.io/pdtpartners/jobs/8077685"
     ],
     "pm-jobs": [
-      "greenhouse-lyft-8525086002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8525086002",
       "ashby-openai-6db2af13-50b2-4fe0-a8df-874e2ba57f71",
       "url:https://jobs.ashbyhq.com/openai/6db2af13-50b2-4fe0-a8df-874e2ba57f71",
       "greenhouse-airbnb-7968122",
