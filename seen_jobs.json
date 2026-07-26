@@ -9603,10 +9603,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8029120",
       "seen_at": "2026-07-26T21:06:47.487959+00:00"
+    },
+    {
+      "id": "simplify-15516d2c-266f-4437-aa09-f737ed54939c",
+      "seen_at": "2026-07-26T23:15:02.180288+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87/application",
+      "seen_at": "2026-07-26T23:15:02.180529+00:00"
+    },
+    {
+      "id": "simplify-2b6ae9a3-338f-478c-8bb1-24ae92d0c4cf",
+      "seen_at": "2026-07-26T23:15:02.180746+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/retell-ai/538ecfa9-2315-42a6-89cc-3cae52165526/application",
+      "seen_at": "2026-07-26T23:15:02.180933+00:00"
     }
   ],
-  "last_run": "2026-07-26T22:09:06.317034+00:00",
-  "total_notified": 2017,
+  "last_run": "2026-07-26T23:15:02.510212+00:00",
+  "total_notified": 2019,
   "channels": {
     "swe-jobs": [
       "simplify-e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
@@ -12020,7 +12036,11 @@
       "simplify-b916f41f-f7eb-4b6f-8f44-0548ef19671b",
       "url:https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1412050700",
       "greenhouse-reddit-8029120",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8029120"
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8029120",
+      "simplify-15516d2c-266f-4437-aa09-f737ed54939c",
+      "url:https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87/application",
+      "simplify-2b6ae9a3-338f-478c-8bb1-24ae92d0c4cf",
+      "url:https://jobs.ashbyhq.com/retell-ai/538ecfa9-2315-42a6-89cc-3cae52165526/application"
     ]
   }
 }
