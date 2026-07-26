@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-datadog-8029539",
-      "seen_at": "2026-06-26T15:06:20.717288+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/8029539",
-      "seen_at": "2026-06-26T15:06:20.717495+00:00"
-    },
-    {
       "id": "simplify-72197bee-e9b3-4978-88cd-1cc51ba6254c",
       "seen_at": "2026-06-26T17:05:33.612119+00:00"
     },
@@ -9653,7 +9645,7 @@
       "seen_at": "2026-07-26T06:44:35.396748+00:00"
     }
   ],
-  "last_run": "2026-07-26T14:18:03.356592+00:00",
+  "last_run": "2026-07-26T15:33:20.293321+00:00",
   "total_notified": 2016,
   "channels": {
     "swe-jobs": [
@@ -9969,8 +9961,6 @@
       "url:https://job-boards.greenhouse.io/pdtpartners/jobs/8077685"
     ],
     "pm-jobs": [
-      "greenhouse-datadog-8029539",
-      "url:https://careers.datadoghq.com/detail/8029539",
       "greenhouse-lyft-8525086002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8525086002",
       "ashby-openai-6db2af13-50b2-4fe0-a8df-874e2ba57f71",
