@@ -9691,10 +9691,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/4948533f-1df6-49f7-af9e-a2da0e02ebca",
       "seen_at": "2026-07-27T16:03:47.394249+00:00"
+    },
+    {
+      "id": "greenhouse-cloudflare-8089031",
+      "seen_at": "2026-07-27T17:50:29.550403+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/cloudflare/jobs/8089031",
+      "seen_at": "2026-07-27T17:50:29.550553+00:00"
+    },
+    {
+      "id": "ashby-openai-d44d9fac-3a9f-4731-a4fc-7a6759ddb427",
+      "seen_at": "2026-07-27T17:50:29.550669+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/d44d9fac-3a9f-4731-a4fc-7a6759ddb427",
+      "seen_at": "2026-07-27T17:50:29.550773+00:00"
     }
   ],
-  "last_run": "2026-07-27T16:03:47.601746+00:00",
-  "total_notified": 2028,
+  "last_run": "2026-07-27T17:50:29.828848+00:00",
+  "total_notified": 2030,
   "channels": {
     "swe-jobs": [
       "simplify-e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
@@ -12130,7 +12146,11 @@
       "simplify-223c9803-c3ad-4d94-bee5-814efdb939ef",
       "url:https://jobs.ashbyhq.com/joinpogo/1547e923-aab9-4912-b402-49b60c782893/application",
       "ashby-openai-4948533f-1df6-49f7-af9e-a2da0e02ebca",
-      "url:https://jobs.ashbyhq.com/openai/4948533f-1df6-49f7-af9e-a2da0e02ebca"
+      "url:https://jobs.ashbyhq.com/openai/4948533f-1df6-49f7-af9e-a2da0e02ebca",
+      "greenhouse-cloudflare-8089031",
+      "url:https://boards.greenhouse.io/cloudflare/jobs/8089031",
+      "ashby-openai-d44d9fac-3a9f-4731-a4fc-7a6759ddb427",
+      "url:https://jobs.ashbyhq.com/openai/d44d9fac-3a9f-4731-a4fc-7a6759ddb427"
     ]
   }
 }
