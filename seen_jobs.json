@@ -10035,10 +10035,66 @@
     {
       "id": "url:https://careers.datadoghq.com/detail/7874990",
       "seen_at": "2026-07-28T09:59:14.279703+00:00"
+    },
+    {
+      "id": "simplify-a188e67b-1783-4dcd-9052-82585ee3aaf0",
+      "seen_at": "2026-07-28T16:19:37.910247+00:00"
+    },
+    {
+      "id": "url:https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466",
+      "seen_at": "2026-07-28T16:19:37.910400+00:00"
+    },
+    {
+      "id": "simplify-553369f5-663d-4019-8901-6134f7102b4d",
+      "seen_at": "2026-07-28T16:19:37.910520+00:00"
+    },
+    {
+      "id": "url:https://careers-peraton.icims.com/jobs/168949/job",
+      "seen_at": "2026-07-28T16:19:37.910620+00:00"
+    },
+    {
+      "id": "simplify-53d9ab39-e29b-463e-ac70-97d6977fb6ba",
+      "seen_at": "2026-07-28T16:19:37.910718+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/HarvardUniversity/3743990014314307",
+      "seen_at": "2026-07-28T16:19:37.910824+00:00"
+    },
+    {
+      "id": "simplify-33972c52-575d-4ede-a314-0ccebc85ee47",
+      "seen_at": "2026-07-28T16:19:37.910933+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/joinpogo/a54fe5c6-d695-4925-8087-d9378756dde7/application",
+      "seen_at": "2026-07-28T16:19:37.911045+00:00"
+    },
+    {
+      "id": "simplify-6bbdcfe2-93ba-469c-9fe4-be23b9387ac6",
+      "seen_at": "2026-07-28T16:19:37.911146+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/alta-ares/ad4ace6a-823c-43ea-ae32-3d0711c33096/application",
+      "seen_at": "2026-07-28T16:19:37.911235+00:00"
+    },
+    {
+      "id": "simplify-81476e53-2803-426e-8021-2bcd1ad52184",
+      "seen_at": "2026-07-28T16:19:37.911330+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413204500",
+      "seen_at": "2026-07-28T16:19:37.911417+00:00"
+    },
+    {
+      "id": "simplify-4ba38e7e-381e-463a-9acc-2814e492da98",
+      "seen_at": "2026-07-28T16:19:37.911515+00:00"
+    },
+    {
+      "id": "url:https://careers-peraton.icims.com/jobs/168946/job",
+      "seen_at": "2026-07-28T16:19:37.911601+00:00"
     }
   ],
-  "last_run": "2026-07-28T14:29:59.965863+00:00",
-  "total_notified": 2073,
+  "last_run": "2026-07-28T16:19:38.170196+00:00",
+  "total_notified": 2080,
   "channels": {
     "swe-jobs": [
       "simplify-e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
@@ -12560,7 +12616,21 @@
       "greenhouse-datadog-7487353",
       "url:https://careers.datadoghq.com/detail/7487353",
       "greenhouse-datadog-7874990",
-      "url:https://careers.datadoghq.com/detail/7874990"
+      "url:https://careers.datadoghq.com/detail/7874990",
+      "simplify-a188e67b-1783-4dcd-9052-82585ee3aaf0",
+      "url:https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466",
+      "simplify-553369f5-663d-4019-8901-6134f7102b4d",
+      "url:https://careers-peraton.icims.com/jobs/168949/job",
+      "simplify-53d9ab39-e29b-463e-ac70-97d6977fb6ba",
+      "url:https://jobs.smartrecruiters.com/HarvardUniversity/3743990014314307",
+      "simplify-33972c52-575d-4ede-a314-0ccebc85ee47",
+      "url:https://jobs.ashbyhq.com/joinpogo/a54fe5c6-d695-4925-8087-d9378756dde7/application",
+      "simplify-6bbdcfe2-93ba-469c-9fe4-be23b9387ac6",
+      "url:https://jobs.ashbyhq.com/alta-ares/ad4ace6a-823c-43ea-ae32-3d0711c33096/application",
+      "simplify-81476e53-2803-426e-8021-2bcd1ad52184",
+      "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413204500",
+      "simplify-4ba38e7e-381e-463a-9acc-2814e492da98",
+      "url:https://careers-peraton.icims.com/jobs/168946/job"
     ]
   }
 }
