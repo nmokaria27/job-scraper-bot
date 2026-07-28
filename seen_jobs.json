@@ -9971,10 +9971,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/a10cc96f-1584-4927-91c1-8fc71ae14de8",
       "seen_at": "2026-07-28T01:08:05.369986+00:00"
+    },
+    {
+      "id": "simplify-e3baf487-91f1-4382-825c-a0b8cbdd9ea8",
+      "seen_at": "2026-07-28T04:30:56.255225+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/newsbreak/jobs/4700278006",
+      "seen_at": "2026-07-28T04:30:56.255392+00:00"
+    },
+    {
+      "id": "simplify-a989c928-8174-43bf-9198-bcec981430c7",
+      "seen_at": "2026-07-28T04:30:56.255590+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application",
+      "seen_at": "2026-07-28T04:30:56.255711+00:00"
     }
   ],
-  "last_run": "2026-07-28T01:08:05.752411+00:00",
-  "total_notified": 2065,
+  "last_run": "2026-07-28T04:30:56.568532+00:00",
+  "total_notified": 2067,
   "channels": {
     "swe-jobs": [
       "simplify-e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
@@ -12480,7 +12496,11 @@
       "simplify-2abdeb2f-c08f-453f-bcf4-452c264696d6",
       "url:https://job-boards.greenhouse.io/mitratech/jobs/8060928",
       "ashby-openai-a10cc96f-1584-4927-91c1-8fc71ae14de8",
-      "url:https://jobs.ashbyhq.com/openai/a10cc96f-1584-4927-91c1-8fc71ae14de8"
+      "url:https://jobs.ashbyhq.com/openai/a10cc96f-1584-4927-91c1-8fc71ae14de8",
+      "simplify-e3baf487-91f1-4382-825c-a0b8cbdd9ea8",
+      "url:https://job-boards.greenhouse.io/newsbreak/jobs/4700278006",
+      "simplify-a989c928-8174-43bf-9198-bcec981430c7",
+      "url:https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application"
     ]
   }
 }
