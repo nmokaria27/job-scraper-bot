@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
-      "seen_at": "2026-06-29T04:54:07.166358+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
-      "seen_at": "2026-06-29T04:54:07.166539+00:00"
-    },
-    {
       "id": "greenhouse-airbnb-7968122",
       "seen_at": "2026-06-29T17:13:31.163065+00:00"
     },
@@ -10331,10 +10323,26 @@
     {
       "id": "url:https://lifeattiktok.com/search/7667690418804902149",
       "seen_at": "2026-07-29T04:33:57.861860+00:00"
+    },
+    {
+      "id": "simplify-49643f6b-95e6-4d37-af1d-1118ce4439cd",
+      "seen_at": "2026-07-29T07:24:01.246074+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
+      "seen_at": "2026-07-29T07:24:01.246377+00:00"
+    },
+    {
+      "id": "ashby-openai-fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
+      "seen_at": "2026-07-29T07:24:01.246669+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
+      "seen_at": "2026-07-29T07:24:01.246834+00:00"
     }
   ],
-  "last_run": "2026-07-29T04:33:59.079196+00:00",
-  "total_notified": 2113,
+  "last_run": "2026-07-29T07:24:03.574363+00:00",
+  "total_notified": 2115,
   "channels": {
     "swe-jobs": [
       "simplify-e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
@@ -10936,8 +10944,6 @@
       "url:https://jobs.ashbyhq.com/openai/6db2af13-50b2-4fe0-a8df-874e2ba57f71"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
-      "url:https://jobs.ashbyhq.com/openai/fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
       "greenhouse-reddit-8026401",
       "url:https://job-boards.greenhouse.io/reddit/jobs/8026401",
       "greenhouse-reddit-8026180",
@@ -12930,7 +12936,11 @@
       "simplify-d8f84d42-30b7-4a74-b193-a2adde5bac7e",
       "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626",
       "simplify-e63c2874-2871-4188-a826-8057c63d376f",
-      "url:https://glginsights.com/careers/jobs/7813612003"
+      "url:https://glginsights.com/careers/jobs/7813612003",
+      "simplify-49643f6b-95e6-4d37-af1d-1118ce4439cd",
+      "url:https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
+      "ashby-openai-fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
+      "url:https://jobs.ashbyhq.com/openai/fcb0ed1a-9329-4e8f-8aab-92bb626d8141"
     ]
   }
 }
