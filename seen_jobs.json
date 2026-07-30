@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-64f8ea93-94b9-49f5-8369-66579fc43d6d",
-      "seen_at": "2026-06-30T16:09:07.620603+00:00"
-    },
-    {
-      "id": "url:https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Research-Software-Engineer_R0003515",
-      "seen_at": "2026-06-30T16:09:07.620833+00:00"
-    },
-    {
-      "id": "greenhouse-figma-5691886004",
-      "seen_at": "2026-06-30T16:09:07.621107+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5691886004",
-      "seen_at": "2026-06-30T16:09:07.621258+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5285246008",
       "seen_at": "2026-06-30T18:16:36.020412+00:00"
     },
@@ -10427,10 +10411,34 @@
     {
       "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01863044",
       "seen_at": "2026-07-30T15:19:14.150216+00:00"
+    },
+    {
+      "id": "simplify-c3d4ae08-ce75-4327-94cf-38da2d5cbae0",
+      "seen_at": "2026-07-30T16:52:59.553460+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
+      "seen_at": "2026-07-30T16:52:59.553628+00:00"
+    },
+    {
+      "id": "simplify-029505d1-6ace-4662-b75d-f151ff5e0295",
+      "seen_at": "2026-07-30T16:53:01.758873+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Flock%20Safety/44ae4912-89d9-4e83-840d-e22250d6a473/application",
+      "seen_at": "2026-07-30T16:53:01.759110+00:00"
+    },
+    {
+      "id": "simplify-36883176-8696-4a99-b547-0c54d1aed330",
+      "seen_at": "2026-07-30T16:53:01.759288+00:00"
+    },
+    {
+      "id": "url:https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728",
+      "seen_at": "2026-07-30T16:53:01.759429+00:00"
     }
   ],
-  "last_run": "2026-07-30T15:19:14.530387+00:00",
-  "total_notified": 2139,
+  "last_run": "2026-07-30T16:53:01.958394+00:00",
+  "total_notified": 2142,
   "channels": {
     "swe-jobs": [
       "simplify-7107b7fd-b107-4478-9903-228a6f5ef3fa",
@@ -10764,7 +10772,9 @@
       "simplify-0fe46774-0c06-4ab5-94e3-f5f8af293290",
       "url:https://www.tesla.com/careers/search/job/278578",
       "simplify-0b26c2f0-079a-457d-b9bc-8123655ff605",
-      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072"
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
+      "simplify-c3d4ae08-ce75-4327-94cf-38da2d5cbae0",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012"
     ],
     "pm-jobs": [
       "simplify-66a35731-f0de-4113-bd66-4f2926eb673b",
@@ -11034,10 +11044,6 @@
       "url:https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000050213"
     ],
     "swe-ai-full-time": [
-      "simplify-64f8ea93-94b9-49f5-8369-66579fc43d6d",
-      "url:https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Research-Software-Engineer_R0003515",
-      "greenhouse-figma-5691886004",
-      "url:https://boards.greenhouse.io/figma/jobs/5691886004",
       "greenhouse-anthropic-5285246008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5285246008",
       "greenhouse-anthropic-5287327008",
@@ -13050,7 +13056,11 @@
       "simplify-d3495d6f-29fd-4ac4-a52f-1625a666f38b",
       "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236",
       "simplify-89bfab9f-d821-4e96-830a-ae4a6af6f4c5",
-      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01863044"
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01863044",
+      "simplify-029505d1-6ace-4662-b75d-f151ff5e0295",
+      "url:https://jobs.ashbyhq.com/Flock%20Safety/44ae4912-89d9-4e83-840d-e22250d6a473/application",
+      "simplify-36883176-8696-4a99-b547-0c54d1aed330",
+      "url:https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728"
     ]
   }
 }
