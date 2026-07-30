@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-airbnb-8037090",
-      "seen_at": "2026-06-30T01:28:13.644439+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8037090",
-      "seen_at": "2026-06-30T01:28:13.644600+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-4631822008",
       "seen_at": "2026-06-30T08:48:16.487129+00:00"
     },
@@ -10387,10 +10379,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application",
       "seen_at": "2026-07-30T00:13:50.423283+00:00"
+    },
+    {
+      "id": "simplify-0b70d1e1-a241-43ea-b553-844b484972d9",
+      "seen_at": "2026-07-30T03:34:28.798563+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application",
+      "seen_at": "2026-07-30T03:34:28.798705+00:00"
+    },
+    {
+      "id": "simplify-0fe46774-0c06-4ab5-94e3-f5f8af293290",
+      "seen_at": "2026-07-30T03:34:28.798824+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/278578",
+      "seen_at": "2026-07-30T03:34:28.798980+00:00"
     }
   ],
-  "last_run": "2026-07-30T00:13:51.671176+00:00",
-  "total_notified": 2132,
+  "last_run": "2026-07-30T03:34:30.066154+00:00",
+  "total_notified": 2134,
   "channels": {
     "swe-jobs": [
       "simplify-7107b7fd-b107-4478-9903-228a6f5ef3fa",
@@ -10718,7 +10726,11 @@
       "simplify-d8419553-b116-44e9-8ec0-d1ae843c6512",
       "url:https://job-boards.greenhouse.io/virtu/jobs/8657500002",
       "simplify-1fd1fcc8-fade-4579-a322-2bc276d73ca7",
-      "url:https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application"
+      "url:https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application",
+      "simplify-0b70d1e1-a241-43ea-b553-844b484972d9",
+      "url:https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application",
+      "simplify-0fe46774-0c06-4ab5-94e3-f5f8af293290",
+      "url:https://www.tesla.com/careers/search/job/278578"
     ],
     "pm-jobs": [
       "simplify-66a35731-f0de-4113-bd66-4f2926eb673b",
@@ -10988,8 +11000,6 @@
       "url:https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000050213"
     ],
     "swe-ai-full-time": [
-      "greenhouse-airbnb-8037090",
-      "url:https://careers.airbnb.com/positions/8037090",
       "greenhouse-anthropic-4631822008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
       "simplify-64f8ea93-94b9-49f5-8369-66579fc43d6d",
