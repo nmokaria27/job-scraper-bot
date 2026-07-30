@@ -10395,10 +10395,42 @@
     {
       "id": "url:https://jobs.apple.com/en-us/details/200624401",
       "seen_at": "2026-07-30T09:06:23.172469+00:00"
+    },
+    {
+      "id": "simplify-0b26c2f0-079a-457d-b9bc-8123655ff605",
+      "seen_at": "2026-07-30T15:19:10.986264+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
+      "seen_at": "2026-07-30T15:19:10.986460+00:00"
+    },
+    {
+      "id": "simplify-f7e6b3bf-23bf-49ff-9d1d-faafbdd45f0e",
+      "seen_at": "2026-07-30T15:19:14.149412+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I--Onsite-_01863008",
+      "seen_at": "2026-07-30T15:19:14.149606+00:00"
+    },
+    {
+      "id": "simplify-d3495d6f-29fd-4ac4-a52f-1625a666f38b",
+      "seen_at": "2026-07-30T15:19:14.149769+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236",
+      "seen_at": "2026-07-30T15:19:14.149928+00:00"
+    },
+    {
+      "id": "simplify-89bfab9f-d821-4e96-830a-ae4a6af6f4c5",
+      "seen_at": "2026-07-30T15:19:14.150078+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01863044",
+      "seen_at": "2026-07-30T15:19:14.150216+00:00"
     }
   ],
-  "last_run": "2026-07-30T12:55:50.907991+00:00",
-  "total_notified": 2135,
+  "last_run": "2026-07-30T15:19:14.530387+00:00",
+  "total_notified": 2139,
   "channels": {
     "swe-jobs": [
       "simplify-7107b7fd-b107-4478-9903-228a6f5ef3fa",
@@ -10730,7 +10762,9 @@
       "simplify-0b70d1e1-a241-43ea-b553-844b484972d9",
       "url:https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application",
       "simplify-0fe46774-0c06-4ab5-94e3-f5f8af293290",
-      "url:https://www.tesla.com/careers/search/job/278578"
+      "url:https://www.tesla.com/careers/search/job/278578",
+      "simplify-0b26c2f0-079a-457d-b9bc-8123655ff605",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072"
     ],
     "pm-jobs": [
       "simplify-66a35731-f0de-4113-bd66-4f2926eb673b",
@@ -13010,7 +13044,13 @@
       "simplify-c1093732-5407-4435-9788-6028cc7a03d4",
       "url:https://higher.gs.com/roles/179759",
       "simplify-9ec28ed5-51e6-4701-8916-6956958e196e",
-      "url:https://jobs.apple.com/en-us/details/200624401"
+      "url:https://jobs.apple.com/en-us/details/200624401",
+      "simplify-f7e6b3bf-23bf-49ff-9d1d-faafbdd45f0e",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I--Onsite-_01863008",
+      "simplify-d3495d6f-29fd-4ac4-a52f-1625a666f38b",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236",
+      "simplify-89bfab9f-d821-4e96-830a-ae4a6af6f4c5",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01863044"
     ]
   }
 }
