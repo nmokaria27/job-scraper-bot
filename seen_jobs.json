@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5196852008",
-      "seen_at": "2026-07-01T19:20:22.349288+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5196852008",
-      "seen_at": "2026-07-01T19:20:22.349565+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5240422008",
       "seen_at": "2026-07-01T20:57:37.334558+00:00"
     },
@@ -10375,10 +10367,18 @@
     {
       "id": "url:https://job-boards.greenhouse.io/discord/jobs/8609250002",
       "seen_at": "2026-07-31T18:07:04.449956+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-8098833",
+      "seen_at": "2026-07-31T19:48:06.055343+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/8098833",
+      "seen_at": "2026-07-31T19:48:06.055504+00:00"
     }
   ],
-  "last_run": "2026-07-31T18:07:04.643722+00:00",
-  "total_notified": 2169,
+  "last_run": "2026-07-31T19:48:07.173065+00:00",
+  "total_notified": 2170,
   "channels": {
     "swe-jobs": [
       "simplify-f49b4766-f352-4e81-9cb2-0f42fb9fd101",
@@ -10979,8 +10979,6 @@
       "url:https://job-boards.greenhouse.io/armada/jobs/5371838008"
     ],
     "swe-ai-full-time": [
-      "greenhouse-anthropic-5196852008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5196852008",
       "greenhouse-anthropic-5240422008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
       "simplify-a5e72fb8-b288-4f48-98d7-d3083964de7e",
@@ -12985,7 +12983,9 @@
       "greenhouse-discord-8396927002",
       "url:https://job-boards.greenhouse.io/discord/jobs/8396927002",
       "greenhouse-discord-8609250002",
-      "url:https://job-boards.greenhouse.io/discord/jobs/8609250002"
+      "url:https://job-boards.greenhouse.io/discord/jobs/8609250002",
+      "greenhouse-datadog-8098833",
+      "url:https://careers.datadoghq.com/detail/8098833"
     ]
   }
 }
