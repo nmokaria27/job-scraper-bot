@@ -1,142 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-7107b7fd-b107-4478-9903-228a6f5ef3fa",
-      "seen_at": "2026-07-01T04:56:27.406061+00:00"
-    },
-    {
-      "id": "url:https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineer-Intern_2637300",
-      "seen_at": "2026-07-01T04:56:27.406332+00:00"
-    },
-    {
-      "id": "simplify-d559a72a-949b-419b-be16-82cae0e5b27a",
-      "seen_at": "2026-07-01T04:56:27.406494+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/275327",
-      "seen_at": "2026-07-01T04:56:27.406626+00:00"
-    },
-    {
-      "id": "simplify-77fe355c-f71a-4b4f-8ac1-348d2b156c64",
-      "seen_at": "2026-07-01T04:56:27.406758+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/275380",
-      "seen_at": "2026-07-01T04:56:27.406885+00:00"
-    },
-    {
-      "id": "simplify-ad51d92b-628a-4e04-9fcc-8e68e5fb4456",
-      "seen_at": "2026-07-01T04:56:27.407016+00:00"
-    },
-    {
-      "id": "url:https://volarisgroup.wd3.myworkdayjobs.com/GoAssetWorks/job/United-States---TX/Software-Development-Intern_R67762",
-      "seen_at": "2026-07-01T04:56:27.407143+00:00"
-    },
-    {
-      "id": "simplify-ffc1f08c-7dd5-4fce-986e-2e3b824aabb4",
-      "seen_at": "2026-07-01T04:56:27.407272+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply",
-      "seen_at": "2026-07-01T04:56:27.407370+00:00"
-    },
-    {
-      "id": "simplify-66a35731-f0de-4113-bd66-4f2926eb673b",
-      "seen_at": "2026-07-01T04:56:28.881962+00:00"
-    },
-    {
-      "id": "url:https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---Work-from-hom/Analyst--Digital-Product--Conversion-_R0766453",
-      "seen_at": "2026-07-01T04:56:28.882125+00:00"
-    },
-    {
-      "id": "simplify-ddd63964-2ce6-45fd-b602-f286b19e23f9",
-      "seen_at": "2026-07-01T04:56:37.186958+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285646008",
-      "seen_at": "2026-07-01T04:56:37.187230+00:00"
-    },
-    {
-      "id": "simplify-116bc6ae-af35-4ff4-949d-e4b39d7bcc18",
-      "seen_at": "2026-07-01T04:56:37.187431+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/beaconai/e43ce94b-95a2-46af-a3e8-154d279eb840/application",
-      "seen_at": "2026-07-01T04:56:37.187586+00:00"
-    },
-    {
-      "id": "simplify-9edf2f2e-d5e3-4d50-bbd0-8ca18268d95c",
-      "seen_at": "2026-07-01T04:56:37.187727+00:00"
-    },
-    {
-      "id": "url:https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/East-Longmeadow-MA-United-States/Engineer-I--Test_REQ-1000049952",
-      "seen_at": "2026-07-01T04:56:37.187855+00:00"
-    },
-    {
-      "id": "simplify-065180fc-2737-48ea-bf11-a5a05e59d8c7",
-      "seen_at": "2026-07-01T04:56:37.187997+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Mixed-Signal-Verification-Engineer-TX-75081/1404689500",
-      "seen_at": "2026-07-01T04:56:37.188128+00:00"
-    },
-    {
-      "id": "simplify-7a48550f-880f-4468-a1d0-cc65112f8e97",
-      "seen_at": "2026-07-01T04:56:37.188282+00:00"
-    },
-    {
-      "id": "url:https://career-schwab.icims.com/jobs/123543/job",
-      "seen_at": "2026-07-01T04:56:37.188411+00:00"
-    },
-    {
-      "id": "simplify-5da46cba-0810-476d-9d77-0fd84ae3b2e5",
-      "seen_at": "2026-07-01T04:56:37.188597+00:00"
-    },
-    {
-      "id": "url:https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-AI-Engineer_R156480",
-      "seen_at": "2026-07-01T04:56:37.188704+00:00"
-    },
-    {
-      "id": "simplify-8931b28b-82ca-4fea-acb0-322f33bea17a",
-      "seen_at": "2026-07-01T04:56:37.188819+00:00"
-    },
-    {
-      "id": "url:https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005318",
-      "seen_at": "2026-07-01T04:56:37.188924+00:00"
-    },
-    {
-      "id": "simplify-fc33c6e7-3dcf-4038-98bd-d226dce278f7",
-      "seen_at": "2026-07-01T04:56:37.189038+00:00"
-    },
-    {
-      "id": "url:https://careers.pge.com/job/Oakland-Engineering-Assistant-I-CA-94612/1404547000",
-      "seen_at": "2026-07-01T04:56:37.189144+00:00"
-    },
-    {
-      "id": "simplify-545173b0-fc84-4b11-82c5-27fa643e1c0a",
-      "seen_at": "2026-07-01T04:56:37.189276+00:00"
-    },
-    {
-      "id": "url:https://careers-peraton.icims.com/jobs/167274/job",
-      "seen_at": "2026-07-01T04:56:37.189383+00:00"
-    },
-    {
-      "id": "simplify-f3be0d48-9942-4bd1-9a82-93364573a167",
-      "seen_at": "2026-07-01T04:56:37.189497+00:00"
-    },
-    {
-      "id": "url:https://careers.dat.com/jobs/6091895004",
-      "seen_at": "2026-07-01T04:56:37.189605+00:00"
-    },
-    {
-      "id": "simplify-aee5f911-65e6-4c42-95c1-e8c2702c7382",
-      "seen_at": "2026-07-01T04:56:37.189718+00:00"
-    },
-    {
-      "id": "url:https://jobs.jobvite.com/altamiracorps/job/obCpAfww",
-      "seen_at": "2026-07-01T04:56:37.189824+00:00"
-    },
-    {
       "id": "simplify-904269e6-581d-458f-9376-a8c3d9e74a98",
       "seen_at": "2026-07-01T08:53:36.363222+00:00"
     },
@@ -10571,22 +10435,28 @@
     {
       "id": "url:https://careers.cisco.com/global/en/job/1449197",
       "seen_at": "2026-07-31T04:45:53.481917+00:00"
+    },
+    {
+      "id": "simplify-b5c7fd89-4672-4907-87b7-68a4b6957acb",
+      "seen_at": "2026-07-31T07:38:09.982041+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/278703",
+      "seen_at": "2026-07-31T07:38:09.982188+00:00"
+    },
+    {
+      "id": "simplify-75e9fee1-d55a-4025-b42d-c45a49be336f",
+      "seen_at": "2026-07-31T07:38:11.695782+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200657382",
+      "seen_at": "2026-07-31T07:38:11.695952+00:00"
     }
   ],
-  "last_run": "2026-07-31T04:45:53.686718+00:00",
-  "total_notified": 2161,
+  "last_run": "2026-07-31T07:38:12.073001+00:00",
+  "total_notified": 2163,
   "channels": {
     "swe-jobs": [
-      "simplify-7107b7fd-b107-4478-9903-228a6f5ef3fa",
-      "url:https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineer-Intern_2637300",
-      "simplify-d559a72a-949b-419b-be16-82cae0e5b27a",
-      "url:https://www.tesla.com/careers/search/job/275327",
-      "simplify-77fe355c-f71a-4b4f-8ac1-348d2b156c64",
-      "url:https://www.tesla.com/careers/search/job/275380",
-      "simplify-ad51d92b-628a-4e04-9fcc-8e68e5fb4456",
-      "url:https://volarisgroup.wd3.myworkdayjobs.com/GoAssetWorks/job/United-States---TX/Software-Development-Intern_R67762",
-      "simplify-ffc1f08c-7dd5-4fce-986e-2e3b824aabb4",
-      "url:https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply",
       "simplify-904269e6-581d-458f-9376-a8c3d9e74a98",
       "url:https://www.tesla.com/careers/search/job/275494",
       "simplify-e2a8f8b3-cb1a-4411-871c-916776913b34",
@@ -10918,11 +10788,11 @@
       "simplify-fbc2121f-6452-434e-a732-904dabe11cd7",
       "url:https://careers.formlabs.com/job/8097694/apply",
       "simplify-3d88fb1f-4b46-4e88-a576-048f777a91f2",
-      "url:https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application"
+      "url:https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application",
+      "simplify-b5c7fd89-4672-4907-87b7-68a4b6957acb",
+      "url:https://www.tesla.com/careers/search/job/278703"
     ],
     "pm-jobs": [
-      "simplify-66a35731-f0de-4113-bd66-4f2926eb673b",
-      "url:https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---Work-from-hom/Analyst--Digital-Product--Conversion-_R0766453",
       "greenhouse-lyft-8513755002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8513755002",
       "hn-48748226",
@@ -11194,28 +11064,6 @@
       "url:https://job-boards.greenhouse.io/armada/jobs/5371838008"
     ],
     "swe-ai-full-time": [
-      "simplify-ddd63964-2ce6-45fd-b602-f286b19e23f9",
-      "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285646008",
-      "simplify-116bc6ae-af35-4ff4-949d-e4b39d7bcc18",
-      "url:https://jobs.ashbyhq.com/beaconai/e43ce94b-95a2-46af-a3e8-154d279eb840/application",
-      "simplify-9edf2f2e-d5e3-4d50-bbd0-8ca18268d95c",
-      "url:https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/East-Longmeadow-MA-United-States/Engineer-I--Test_REQ-1000049952",
-      "simplify-065180fc-2737-48ea-bf11-a5a05e59d8c7",
-      "url:https://careers.qorvo.com/job/Richardson-Mixed-Signal-Verification-Engineer-TX-75081/1404689500",
-      "simplify-7a48550f-880f-4468-a1d0-cc65112f8e97",
-      "url:https://career-schwab.icims.com/jobs/123543/job",
-      "simplify-5da46cba-0810-476d-9d77-0fd84ae3b2e5",
-      "url:https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-AI-Engineer_R156480",
-      "simplify-8931b28b-82ca-4fea-acb0-322f33bea17a",
-      "url:https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005318",
-      "simplify-fc33c6e7-3dcf-4038-98bd-d226dce278f7",
-      "url:https://careers.pge.com/job/Oakland-Engineering-Assistant-I-CA-94612/1404547000",
-      "simplify-545173b0-fc84-4b11-82c5-27fa643e1c0a",
-      "url:https://careers-peraton.icims.com/jobs/167274/job",
-      "simplify-f3be0d48-9942-4bd1-9a82-93364573a167",
-      "url:https://careers.dat.com/jobs/6091895004",
-      "simplify-aee5f911-65e6-4c42-95c1-e8c2702c7382",
-      "url:https://jobs.jobvite.com/altamiracorps/job/obCpAfww",
       "simplify-00c2f102-60e5-4ef5-84c6-4515f2459a86",
       "url:https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us",
       "simplify-f23fe117-836c-45d4-bd59-0ea9d9ddf7f7",
@@ -13230,7 +13078,9 @@
       "greenhouse-vercel-6020852004",
       "url:https://job-boards.greenhouse.io/vercel/jobs/6020852004",
       "simplify-950f53eb-f578-4031-8d81-ac822b56d643",
-      "url:https://careers.cisco.com/global/en/job/1449197"
+      "url:https://careers.cisco.com/global/en/job/1449197",
+      "simplify-75e9fee1-d55a-4025-b42d-c45a49be336f",
+      "url:https://jobs.apple.com/en-us/details/200657382"
     ]
   }
 }
