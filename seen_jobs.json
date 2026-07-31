@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5240422008",
-      "seen_at": "2026-07-01T20:57:37.334558+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
-      "seen_at": "2026-07-01T20:57:37.334732+00:00"
-    },
-    {
       "id": "simplify-f49b4766-f352-4e81-9cb2-0f42fb9fd101",
       "seen_at": "2026-07-01T23:52:59.260111+00:00"
     },
@@ -10377,7 +10369,7 @@
       "seen_at": "2026-07-31T19:48:06.055504+00:00"
     }
   ],
-  "last_run": "2026-07-31T20:46:42.636485+00:00",
+  "last_run": "2026-07-31T21:49:14.041462+00:00",
   "total_notified": 2170,
   "channels": {
     "swe-jobs": [
@@ -10979,8 +10971,6 @@
       "url:https://job-boards.greenhouse.io/armada/jobs/5371838008"
     ],
     "swe-ai-full-time": [
-      "greenhouse-anthropic-5240422008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
       "simplify-a5e72fb8-b288-4f48-98d7-d3083964de7e",
       "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767",
       "simplify-9806b0c4-6f96-463b-b16f-410fc0a1ae51",
