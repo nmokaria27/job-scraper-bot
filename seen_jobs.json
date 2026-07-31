@@ -10367,10 +10367,66 @@
     {
       "id": "url:https://careers.datadoghq.com/detail/8098833",
       "seen_at": "2026-07-31T19:48:06.055504+00:00"
+    },
+    {
+      "id": "simplify-443c6322-3e3b-48b4-9fd4-3a9c04931db8",
+      "seen_at": "2026-07-31T22:44:38.791339+00:00"
+    },
+    {
+      "id": "url:https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700",
+      "seen_at": "2026-07-31T22:44:38.791506+00:00"
+    },
+    {
+      "id": "simplify-16329376-3dc6-48b0-b0ec-d6b62c01f5ae",
+      "seen_at": "2026-07-31T22:44:38.791649+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/WesternDigital/744000140949875",
+      "seen_at": "2026-07-31T22:44:38.791807+00:00"
+    },
+    {
+      "id": "simplify-48921fdc-0754-40c8-91cc-f5e1bb6277bb",
+      "seen_at": "2026-07-31T22:44:43.292587+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
+      "seen_at": "2026-07-31T22:44:43.292832+00:00"
+    },
+    {
+      "id": "simplify-0a72bef2-8ca2-4206-94ca-6c6467df7de6",
+      "seen_at": "2026-07-31T22:44:43.292996+00:00"
+    },
+    {
+      "id": "url:https://careers-sri.icims.com/jobs/6428/job",
+      "seen_at": "2026-07-31T22:44:43.293151+00:00"
+    },
+    {
+      "id": "simplify-e503625c-ddf8-4d16-9f42-b87fd55f0e09",
+      "seen_at": "2026-07-31T22:44:43.293305+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/WesternDigital/744000140947335",
+      "seen_at": "2026-07-31T22:44:43.293436+00:00"
+    },
+    {
+      "id": "simplify-4ff8ce00-d5ca-486c-b103-e438be53ee1a",
+      "seen_at": "2026-07-31T22:44:43.293566+00:00"
+    },
+    {
+      "id": "url:https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Full-Stack-Software-Engineer_JR26070424-2",
+      "seen_at": "2026-07-31T22:44:43.293696+00:00"
+    },
+    {
+      "id": "simplify-20d1e34f-5637-4348-bd50-6e1e24d6a808",
+      "seen_at": "2026-07-31T22:44:43.293840+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14606/1414649600",
+      "seen_at": "2026-07-31T22:44:43.293960+00:00"
     }
   ],
-  "last_run": "2026-07-31T21:49:14.041462+00:00",
-  "total_notified": 2170,
+  "last_run": "2026-07-31T22:44:43.472385+00:00",
+  "total_notified": 2177,
   "channels": {
     "swe-jobs": [
       "simplify-f49b4766-f352-4e81-9cb2-0f42fb9fd101",
@@ -10700,7 +10756,11 @@
       "simplify-b5c7fd89-4672-4907-87b7-68a4b6957acb",
       "url:https://www.tesla.com/careers/search/job/278703",
       "simplify-56196707-1bc1-44de-9e0e-a32456792771",
-      "url:https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application"
+      "url:https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application",
+      "simplify-443c6322-3e3b-48b4-9fd4-3a9c04931db8",
+      "url:https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700",
+      "simplify-16329376-3dc6-48b0-b0ec-d6b62c01f5ae",
+      "url:https://jobs.smartrecruiters.com/WesternDigital/744000140949875"
     ],
     "pm-jobs": [
       "simplify-b1f8c920-8d06-4fde-b5a2-23db753f0379",
@@ -12975,7 +13035,17 @@
       "greenhouse-discord-8609250002",
       "url:https://job-boards.greenhouse.io/discord/jobs/8609250002",
       "greenhouse-datadog-8098833",
-      "url:https://careers.datadoghq.com/detail/8098833"
+      "url:https://careers.datadoghq.com/detail/8098833",
+      "simplify-48921fdc-0754-40c8-91cc-f5e1bb6277bb",
+      "url:https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
+      "simplify-0a72bef2-8ca2-4206-94ca-6c6467df7de6",
+      "url:https://careers-sri.icims.com/jobs/6428/job",
+      "simplify-e503625c-ddf8-4d16-9f42-b87fd55f0e09",
+      "url:https://jobs.smartrecruiters.com/WesternDigital/744000140947335",
+      "simplify-4ff8ce00-d5ca-486c-b103-e438be53ee1a",
+      "url:https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Full-Stack-Software-Engineer_JR26070424-2",
+      "simplify-20d1e34f-5637-4348-bd50-6e1e24d6a808",
+      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14606/1414649600"
     ]
   }
 }
