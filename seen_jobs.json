@@ -10547,10 +10547,34 @@
     {
       "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6020852004",
       "seen_at": "2026-07-30T23:35:06.064946+00:00"
+    },
+    {
+      "id": "simplify-3d88fb1f-4b46-4e88-a576-048f777a91f2",
+      "seen_at": "2026-07-31T04:45:51.229813+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application",
+      "seen_at": "2026-07-31T04:45:51.229982+00:00"
+    },
+    {
+      "id": "simplify-6cb6f4c5-0d14-454d-9289-fa07a847ef2d",
+      "seen_at": "2026-07-31T04:45:52.352782+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/armada/jobs/5371838008",
+      "seen_at": "2026-07-31T04:45:52.352950+00:00"
+    },
+    {
+      "id": "simplify-950f53eb-f578-4031-8d81-ac822b56d643",
+      "seen_at": "2026-07-31T04:45:53.481722+00:00"
+    },
+    {
+      "id": "url:https://careers.cisco.com/global/en/job/1449197",
+      "seen_at": "2026-07-31T04:45:53.481917+00:00"
     }
   ],
-  "last_run": "2026-07-31T01:08:40.649237+00:00",
-  "total_notified": 2158,
+  "last_run": "2026-07-31T04:45:53.686718+00:00",
+  "total_notified": 2161,
   "channels": {
     "swe-jobs": [
       "simplify-7107b7fd-b107-4478-9903-228a6f5ef3fa",
@@ -10892,7 +10916,9 @@
       "simplify-079e1669-46b8-488f-8297-f7c139a745ec",
       "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965",
       "simplify-fbc2121f-6452-434e-a732-904dabe11cd7",
-      "url:https://careers.formlabs.com/job/8097694/apply"
+      "url:https://careers.formlabs.com/job/8097694/apply",
+      "simplify-3d88fb1f-4b46-4e88-a576-048f777a91f2",
+      "url:https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application"
     ],
     "pm-jobs": [
       "simplify-66a35731-f0de-4113-bd66-4f2926eb673b",
@@ -11163,7 +11189,9 @@
       "simplify-4d5cf6f1-3ecd-458b-b5a3-dc787dd18c2a",
       "url:https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GLOBAL-CUSTOM-COMMERCEBLINDS-OFFICE-HOUSTON---2140/Associate-Product-Manager_Req187999",
       "simplify-d6f97031-4271-45b1-a7e1-7889ff9c98b3",
-      "url:https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/90246"
+      "url:https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/90246",
+      "simplify-6cb6f4c5-0d14-454d-9289-fa07a847ef2d",
+      "url:https://job-boards.greenhouse.io/armada/jobs/5371838008"
     ],
     "swe-ai-full-time": [
       "simplify-ddd63964-2ce6-45fd-b602-f286b19e23f9",
@@ -13200,7 +13228,9 @@
       "greenhouse-discord-8614971002",
       "url:https://job-boards.greenhouse.io/discord/jobs/8614971002",
       "greenhouse-vercel-6020852004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6020852004"
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6020852004",
+      "simplify-950f53eb-f578-4031-8d81-ac822b56d643",
+      "url:https://careers.cisco.com/global/en/job/1449197"
     ]
   }
 }
