@@ -1,18 +1,6 @@
 {
   "jobs": [
     {
-      "id": "hn-48748226",
-      "seen_at": "2026-07-01T17:24:26.140380+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-8041817",
-      "seen_at": "2026-07-01T17:24:27.547031+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/8041817",
-      "seen_at": "2026-07-01T17:24:27.547246+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5196852008",
       "seen_at": "2026-07-01T19:20:22.349288+00:00"
     },
@@ -10371,10 +10359,26 @@
     {
       "id": "url:https://careers.airbnb.com/positions/8097917",
       "seen_at": "2026-07-31T16:27:28.082267+00:00"
+    },
+    {
+      "id": "greenhouse-discord-8396927002",
+      "seen_at": "2026-07-31T18:07:04.449470+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8396927002",
+      "seen_at": "2026-07-31T18:07:04.449669+00:00"
+    },
+    {
+      "id": "greenhouse-discord-8609250002",
+      "seen_at": "2026-07-31T18:07:04.449828+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8609250002",
+      "seen_at": "2026-07-31T18:07:04.449956+00:00"
     }
   ],
-  "last_run": "2026-07-31T16:27:28.408070+00:00",
-  "total_notified": 2167,
+  "last_run": "2026-07-31T18:07:04.643722+00:00",
+  "total_notified": 2169,
   "channels": {
     "swe-jobs": [
       "simplify-f49b4766-f352-4e81-9cb2-0f42fb9fd101",
@@ -10707,7 +10711,6 @@
       "url:https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application"
     ],
     "pm-jobs": [
-      "hn-48748226",
       "simplify-b1f8c920-8d06-4fde-b5a2-23db753f0379",
       "url:https://lifeattiktok.com/search/7657541997725288757",
       "simplify-8f92877d-e680-4332-960c-8f9f8242c24d",
@@ -10976,8 +10979,6 @@
       "url:https://job-boards.greenhouse.io/armada/jobs/5371838008"
     ],
     "swe-ai-full-time": [
-      "greenhouse-datadog-8041817",
-      "url:https://careers.datadoghq.com/detail/8041817",
       "greenhouse-anthropic-5196852008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5196852008",
       "greenhouse-anthropic-5240422008",
@@ -12980,7 +12981,11 @@
       "simplify-b505b48b-e77b-457e-b978-12bd26fa4506",
       "url:https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Home---UK--England/AI-Operations-Engineer_R0018646-1",
       "greenhouse-airbnb-8097917",
-      "url:https://careers.airbnb.com/positions/8097917"
+      "url:https://careers.airbnb.com/positions/8097917",
+      "greenhouse-discord-8396927002",
+      "url:https://job-boards.greenhouse.io/discord/jobs/8396927002",
+      "greenhouse-discord-8609250002",
+      "url:https://job-boards.greenhouse.io/discord/jobs/8609250002"
     ]
   }
 }
