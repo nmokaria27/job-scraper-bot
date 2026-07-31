@@ -1,70 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-904269e6-581d-458f-9376-a8c3d9e74a98",
-      "seen_at": "2026-07-01T08:53:36.363222+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/275494",
-      "seen_at": "2026-07-01T08:53:36.363386+00:00"
-    },
-    {
-      "id": "simplify-e2a8f8b3-cb1a-4411-871c-916776913b34",
-      "seen_at": "2026-07-01T08:53:36.363500+00:00"
-    },
-    {
-      "id": "url:https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us",
-      "seen_at": "2026-07-01T08:53:36.363600+00:00"
-    },
-    {
-      "id": "simplify-40090818-c9a2-4104-9627-111a5b9cd079",
-      "seen_at": "2026-07-01T08:53:36.363701+00:00"
-    },
-    {
-      "id": "url:https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us",
-      "seen_at": "2026-07-01T08:53:36.363799+00:00"
-    },
-    {
-      "id": "simplify-1f74ca3f-e832-45e6-bc13-b8222034e373",
-      "seen_at": "2026-07-01T08:53:36.363935+00:00"
-    },
-    {
-      "id": "url:https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us",
-      "seen_at": "2026-07-01T08:53:36.364050+00:00"
-    },
-    {
-      "id": "simplify-00c2f102-60e5-4ef5-84c6-4515f2459a86",
-      "seen_at": "2026-07-01T08:53:40.116007+00:00"
-    },
-    {
-      "id": "url:https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us",
-      "seen_at": "2026-07-01T08:53:40.116210+00:00"
-    },
-    {
-      "id": "simplify-f23fe117-836c-45d4-bd59-0ea9d9ddf7f7",
-      "seen_at": "2026-07-01T08:53:40.116387+00:00"
-    },
-    {
-      "id": "url:https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us",
-      "seen_at": "2026-07-01T08:53:40.116511+00:00"
-    },
-    {
-      "id": "simplify-28fc2b4c-cb26-407d-aba3-a8078f35185b",
-      "seen_at": "2026-07-01T08:53:40.116634+00:00"
-    },
-    {
-      "id": "url:https://careers-peraton.icims.com/jobs/168173/job",
-      "seen_at": "2026-07-01T08:53:40.116744+00:00"
-    },
-    {
-      "id": "simplify-efc32a65-4a70-4386-892a-4d0c83f56292",
-      "seen_at": "2026-07-01T08:53:40.116861+00:00"
-    },
-    {
-      "id": "url:https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us",
-      "seen_at": "2026-07-01T08:53:40.116985+00:00"
-    },
-    {
       "id": "simplify-c3f895b7-9c28-4e91-bf07-a2ce931f2efb",
       "seen_at": "2026-07-01T12:14:41.837505+00:00"
     },
@@ -10453,18 +10389,10 @@
       "seen_at": "2026-07-31T07:38:11.695952+00:00"
     }
   ],
-  "last_run": "2026-07-31T07:38:12.073001+00:00",
+  "last_run": "2026-07-31T10:20:19.111157+00:00",
   "total_notified": 2163,
   "channels": {
     "swe-jobs": [
-      "simplify-904269e6-581d-458f-9376-a8c3d9e74a98",
-      "url:https://www.tesla.com/careers/search/job/275494",
-      "simplify-e2a8f8b3-cb1a-4411-871c-916776913b34",
-      "url:https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us",
-      "simplify-40090818-c9a2-4104-9627-111a5b9cd079",
-      "url:https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us",
-      "simplify-1f74ca3f-e832-45e6-bc13-b8222034e373",
-      "url:https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us",
       "simplify-f49b4766-f352-4e81-9cb2-0f42fb9fd101",
       "url:https://www.optiver.com/join-us/jobs/8604760002",
       "simplify-895ea579-0ca7-4aa8-82a2-db62cfeba95c",
@@ -11064,14 +10992,6 @@
       "url:https://job-boards.greenhouse.io/armada/jobs/5371838008"
     ],
     "swe-ai-full-time": [
-      "simplify-00c2f102-60e5-4ef5-84c6-4515f2459a86",
-      "url:https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us",
-      "simplify-f23fe117-836c-45d4-bd59-0ea9d9ddf7f7",
-      "url:https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us",
-      "simplify-28fc2b4c-cb26-407d-aba3-a8078f35185b",
-      "url:https://careers-peraton.icims.com/jobs/168173/job",
-      "simplify-efc32a65-4a70-4386-892a-4d0c83f56292",
-      "url:https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us",
       "simplify-c3f895b7-9c28-4e91-bf07-a2ce931f2efb",
       "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/IGS-Calibration-Engineer_R4041210-2",
       "simplify-12634088-9777-452c-9095-9f2de268d1e0",
