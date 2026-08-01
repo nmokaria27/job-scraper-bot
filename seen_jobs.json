@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "hn-48765578",
-      "seen_at": "2026-07-02T20:10:03.939237+00:00"
-    },
-    {
-      "id": "url:https://news.ycombinator.com/item",
-      "seen_at": "2026-07-02T20:10:03.939423+00:00"
-    },
-    {
       "id": "simplify-8c3c4866-6c14-4ec0-bc29-3ce391b4bea3",
       "seen_at": "2026-07-02T22:43:10.330441+00:00"
     },
@@ -9729,7 +9721,7 @@
       "seen_at": "2026-08-01T07:17:38.183416+00:00"
     }
   ],
-  "last_run": "2026-08-01T19:46:52.886140+00:00",
+  "last_run": "2026-08-01T20:35:41.779593+00:00",
   "total_notified": 2192,
   "channels": {
     "swe-jobs": [
@@ -10293,8 +10285,6 @@
       "url:https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application"
     ],
     "swe-ai-full-time": [
-      "hn-48765578",
-      "url:https://news.ycombinator.com/item",
       "simplify-17699a31-38e1-4e82-b409-fe317a841c6f",
       "url:https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
       "simplify-c7a44e5a-8f03-4e5e-a98b-39749818ebdd",
