@@ -9895,10 +9895,18 @@
     {
       "id": "url:https://jobs.lever.co/upscale-ai/33ce81c4-8eb7-4170-b7ec-0f86e209e7d8/apply",
       "seen_at": "2026-08-01T04:41:14.189282+00:00"
+    },
+    {
+      "id": "ashby-openai-a6ab3111-7092-4da2-a7a6-71e01351bfda",
+      "seen_at": "2026-08-01T07:17:38.183223+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda",
+      "seen_at": "2026-08-01T07:17:38.183416+00:00"
     }
   ],
-  "last_run": "2026-08-01T04:41:14.506068+00:00",
-  "total_notified": 2191,
+  "last_run": "2026-08-01T07:17:38.370756+00:00",
+  "total_notified": 2192,
   "channels": {
     "swe-jobs": [
       "simplify-b36e0497-4128-473a-8643-099bbb5c9d0e",
@@ -12385,7 +12393,9 @@
       "simplify-f6bb2b02-e42b-41a6-9f90-35a28fcb0708",
       "url:https://wolve.pinpointhq.com/en/postings/71814bfd-b9a3-4e7a-8c32-ef0ed6f3f7aa",
       "simplify-3bbed165-7647-43f2-858a-21ae2d7123f0",
-      "url:https://jobs.lever.co/upscale-ai/33ce81c4-8eb7-4170-b7ec-0f86e209e7d8/apply"
+      "url:https://jobs.lever.co/upscale-ai/33ce81c4-8eb7-4170-b7ec-0f86e209e7d8/apply",
+      "ashby-openai-a6ab3111-7092-4da2-a7a6-71e01351bfda",
+      "url:https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda"
     ]
   }
 }
