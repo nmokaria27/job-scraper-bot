@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-8c3c4866-6c14-4ec0-bc29-3ce391b4bea3",
-      "seen_at": "2026-07-02T22:43:10.330441+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688/apply",
-      "seen_at": "2026-07-02T22:43:10.330601+00:00"
-    },
-    {
-      "id": "simplify-17699a31-38e1-4e82-b409-fe317a841c6f",
-      "seen_at": "2026-07-02T22:43:14.299731+00:00"
-    },
-    {
-      "id": "url:https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
-      "seen_at": "2026-07-02T22:43:14.299920+00:00"
-    },
-    {
-      "id": "simplify-c7a44e5a-8f03-4e5e-a98b-39749818ebdd",
-      "seen_at": "2026-07-02T22:43:14.300059+00:00"
-    },
-    {
-      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Engineering-Technician_R2622270",
-      "seen_at": "2026-07-02T22:43:14.300177+00:00"
-    },
-    {
-      "id": "simplify-d7efd06c-f78a-41c8-9b51-59e2289f8eff",
-      "seen_at": "2026-07-02T22:43:14.300344+00:00"
-    },
-    {
-      "id": "url:https://higher.gs.com/roles/177874",
-      "seen_at": "2026-07-02T22:43:14.300458+00:00"
-    },
-    {
-      "id": "simplify-352477a3-29ad-47a1-9809-69a1da28d66c",
-      "seen_at": "2026-07-02T22:43:14.300575+00:00"
-    },
-    {
-      "id": "url:https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000380358",
-      "seen_at": "2026-07-02T22:43:14.300678+00:00"
-    },
-    {
       "id": "simplify-aec3e3cb-1b29-499e-85f5-1be1da41c842",
       "seen_at": "2026-07-02T23:47:25.914274+00:00"
     },
@@ -9719,14 +9679,52 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda",
       "seen_at": "2026-08-01T07:17:38.183416+00:00"
+    },
+    {
+      "id": "simplify-e142c984-ca46-4624-af2c-e5061b8b60f2",
+      "seen_at": "2026-08-01T23:32:14.079714+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+      "seen_at": "2026-08-01T23:32:14.079946+00:00"
+    },
+    {
+      "id": "simplify-b000afca-793b-458b-811c-ebfc26ed646b",
+      "seen_at": "2026-08-01T23:32:14.080131+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
+      "seen_at": "2026-08-01T23:32:14.080288+00:00"
+    },
+    {
+      "id": "simplify-cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
+      "seen_at": "2026-08-01T23:32:14.080464+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/postman/jobs/7823417003",
+      "seen_at": "2026-08-01T23:32:14.080621+00:00"
+    },
+    {
+      "id": "simplify-43929c26-d19b-4057-9543-bf087c4bbf62",
+      "seen_at": "2026-08-01T23:32:14.080787+00:00"
+    },
+    {
+      "id": "url:https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
+      "seen_at": "2026-08-01T23:32:14.080948+00:00"
+    },
+    {
+      "id": "simplify-a5a4c27f-4bc4-46d6-9141-f486732574b8",
+      "seen_at": "2026-08-01T23:32:15.610783+00:00"
+    },
+    {
+      "id": "url:https://careers.noblis.org/jobs/27467",
+      "seen_at": "2026-08-01T23:32:15.611035+00:00"
     }
   ],
-  "last_run": "2026-08-01T22:30:56.912483+00:00",
-  "total_notified": 2192,
+  "last_run": "2026-08-01T23:32:16.044466+00:00",
+  "total_notified": 2197,
   "channels": {
     "swe-jobs": [
-      "simplify-8c3c4866-6c14-4ec0-bc29-3ce391b4bea3",
-      "url:https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688/apply",
       "simplify-aec3e3cb-1b29-499e-85f5-1be1da41c842",
       "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
       "simplify-1294efe4-9bb6-417c-83bc-7da76b87978c",
@@ -10010,7 +10008,15 @@
       "simplify-03f4f39a-6621-4d07-a217-dee3032bbc62",
       "url:https://jobs.jobvite.com/simaai/job/oBUkAfw9",
       "simplify-ff0616b4-484e-4ce8-b74e-55a7e8cc0e9d",
-      "url:https://www.tesla.com/careers/search/job/278847"
+      "url:https://www.tesla.com/careers/search/job/278847",
+      "simplify-e142c984-ca46-4624-af2c-e5061b8b60f2",
+      "url:https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+      "simplify-b000afca-793b-458b-811c-ebfc26ed646b",
+      "url:https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
+      "simplify-cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
+      "url:https://job-boards.greenhouse.io/postman/jobs/7823417003",
+      "simplify-43929c26-d19b-4057-9543-bf087c4bbf62",
+      "url:https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630"
     ],
     "pm-jobs": [
       "simplify-b1f8c920-8d06-4fde-b5a2-23db753f0379",
@@ -10285,14 +10291,6 @@
       "url:https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application"
     ],
     "swe-ai-full-time": [
-      "simplify-17699a31-38e1-4e82-b409-fe317a841c6f",
-      "url:https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
-      "simplify-c7a44e5a-8f03-4e5e-a98b-39749818ebdd",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Engineering-Technician_R2622270",
-      "simplify-d7efd06c-f78a-41c8-9b51-59e2289f8eff",
-      "url:https://higher.gs.com/roles/177874",
-      "simplify-352477a3-29ad-47a1-9809-69a1da28d66c",
-      "url:https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000380358",
       "simplify-38fae718-2ebc-4e97-af8f-e135cff957b4",
       "url:https://jobs.lever.co/kpler/2c127e67-55ee-48eb-823e-d49f5fb207ec/apply",
       "simplify-e9f61bc3-c405-4fe4-84d3-1c2876f469d3",
@@ -12165,7 +12163,9 @@
       "simplify-3bbed165-7647-43f2-858a-21ae2d7123f0",
       "url:https://jobs.lever.co/upscale-ai/33ce81c4-8eb7-4170-b7ec-0f86e209e7d8/apply",
       "ashby-openai-a6ab3111-7092-4da2-a7a6-71e01351bfda",
-      "url:https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda"
+      "url:https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda",
+      "simplify-a5a4c27f-4bc4-46d6-9141-f486732574b8",
+      "url:https://careers.noblis.org/jobs/27467"
     ]
   }
 }
