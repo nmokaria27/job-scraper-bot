@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-08acace2-9fd1-4285-8c6b-4ae9d8803e29",
-      "seen_at": "2026-07-02T10:23:23.595106+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026-Raytheon-Full-Time-Digital-Product-Configuration-Management-Engineer-I--Onsite-_01855446",
-      "seen_at": "2026-07-02T10:23:23.595335+00:00"
-    },
-    {
-      "id": "simplify-18595a95-ff33-450b-8b60-fe45c06bcaa4",
-      "seen_at": "2026-07-02T10:23:23.595540+00:00"
-    },
-    {
-      "id": "url:https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Autonomy-Software-Integration-and-Test_R10238191",
-      "seen_at": "2026-07-02T10:23:23.595718+00:00"
-    },
-    {
-      "id": "simplify-617b7d9e-74a5-491a-a658-e4dec4262c68",
-      "seen_at": "2026-07-02T10:23:23.595895+00:00"
-    },
-    {
-      "id": "url:https://andrew-morgan.com/current-openings",
-      "seen_at": "2026-07-02T10:23:23.596051+00:00"
-    },
-    {
       "id": "simplify-e9a77d3a-1f5c-4f3c-8883-575121ae1905",
       "seen_at": "2026-07-02T16:58:15.489048+00:00"
     },
@@ -9769,7 +9745,7 @@
       "seen_at": "2026-08-01T07:17:38.183416+00:00"
     }
   ],
-  "last_run": "2026-08-01T09:25:03.469612+00:00",
+  "last_run": "2026-08-01T11:02:31.242032+00:00",
   "total_notified": 2192,
   "channels": {
     "swe-jobs": [
@@ -10333,12 +10309,6 @@
       "url:https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application"
     ],
     "swe-ai-full-time": [
-      "simplify-08acace2-9fd1-4285-8c6b-4ae9d8803e29",
-      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026-Raytheon-Full-Time-Digital-Product-Configuration-Management-Engineer-I--Onsite-_01855446",
-      "simplify-18595a95-ff33-450b-8b60-fe45c06bcaa4",
-      "url:https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Autonomy-Software-Integration-and-Test_R10238191",
-      "simplify-617b7d9e-74a5-491a-a658-e4dec4262c68",
-      "url:https://andrew-morgan.com/current-openings",
       "simplify-e9a77d3a-1f5c-4f3c-8883-575121ae1905",
       "url:https://analogdevices.wd1.myworkdayjobs.com/External/job/Denmark-Copenhagen/FPGA-Systems-Development-Engineer_R263331",
       "simplify-20565db4-0f8e-456e-b6e3-4c484757c633",
