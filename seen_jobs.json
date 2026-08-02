@@ -9563,10 +9563,26 @@
     {
       "id": "url:https://careers.amd.com/jobs/85806",
       "seen_at": "2026-08-02T07:21:56.267347+00:00"
+    },
+    {
+      "id": "simplify-48c4cfa3-389b-4a66-abd7-a1d6cb9708a5",
+      "seen_at": "2026-08-02T22:40:49.867575+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application",
+      "seen_at": "2026-08-02T22:40:49.867728+00:00"
+    },
+    {
+      "id": "simplify-e3cfe515-6df5-4847-9b31-0a9b950a8524",
+      "seen_at": "2026-08-02T22:40:51.952250+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application",
+      "seen_at": "2026-08-02T22:40:51.952511+00:00"
     }
   ],
-  "last_run": "2026-08-02T21:39:50.103754+00:00",
-  "total_notified": 2202,
+  "last_run": "2026-08-02T22:40:52.237088+00:00",
+  "total_notified": 2204,
   "channels": {
     "swe-jobs": [
       "simplify-366c2106-60ad-48af-b7c0-95537c275a17",
@@ -9850,7 +9866,9 @@
       "simplify-cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
       "url:https://job-boards.greenhouse.io/postman/jobs/7823417003",
       "simplify-43929c26-d19b-4057-9543-bf087c4bbf62",
-      "url:https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630"
+      "url:https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
+      "simplify-48c4cfa3-389b-4a66-abd7-a1d6cb9708a5",
+      "url:https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application"
     ],
     "pm-jobs": [
       "ashby-openai-ee047eec-ae79-474b-9f1b-764242bc3c63",
@@ -11970,7 +11988,9 @@
       "simplify-678077f9-ae48-457f-8a21-5b51072d2d48",
       "url:https://mantech.avature.net/en_US/careers/JobDetail/64788",
       "simplify-7b44f44b-443f-4b5b-a132-f5f1622f232e",
-      "url:https://careers.amd.com/jobs/85806"
+      "url:https://careers.amd.com/jobs/85806",
+      "simplify-e3cfe515-6df5-4847-9b31-0a9b950a8524",
+      "url:https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application"
     ]
   }
 }
