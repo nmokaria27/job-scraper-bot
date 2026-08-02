@@ -9643,10 +9643,42 @@
     {
       "id": "url:https://careers.noblis.org/jobs/27467",
       "seen_at": "2026-08-01T23:32:15.611035+00:00"
+    },
+    {
+      "id": "simplify-24ae7074-86a9-461d-8e0c-23403a03e275",
+      "seen_at": "2026-08-02T04:42:36.830793+00:00"
+    },
+    {
+      "id": "url:https://mantech.avature.net/en_US/careers/JobDetail/64287",
+      "seen_at": "2026-08-02T04:42:36.830994+00:00"
+    },
+    {
+      "id": "simplify-cb369351-882d-41be-9e85-42d3312f503a",
+      "seen_at": "2026-08-02T04:42:36.831149+00:00"
+    },
+    {
+      "id": "url:https://mantech.avature.net/en_US/careers/JobDetail/64786",
+      "seen_at": "2026-08-02T04:42:36.831288+00:00"
+    },
+    {
+      "id": "simplify-86247036-93b7-4e67-9fd5-4b5eb0573583",
+      "seen_at": "2026-08-02T04:42:36.831474+00:00"
+    },
+    {
+      "id": "url:https://mantech.avature.net/en_US/careers/JobDetail/65051",
+      "seen_at": "2026-08-02T04:42:36.831621+00:00"
+    },
+    {
+      "id": "simplify-678077f9-ae48-457f-8a21-5b51072d2d48",
+      "seen_at": "2026-08-02T04:42:36.831776+00:00"
+    },
+    {
+      "id": "url:https://mantech.avature.net/en_US/careers/JobDetail/64788",
+      "seen_at": "2026-08-02T04:42:36.831909+00:00"
     }
   ],
-  "last_run": "2026-08-02T01:09:23.488501+00:00",
-  "total_notified": 2197,
+  "last_run": "2026-08-02T04:42:37.079190+00:00",
+  "total_notified": 2201,
   "channels": {
     "swe-jobs": [
       "simplify-cbf7c33c-7f5a-40a6-9ec5-b27895094847",
@@ -12070,7 +12102,15 @@
       "ashby-openai-a6ab3111-7092-4da2-a7a6-71e01351bfda",
       "url:https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda",
       "simplify-a5a4c27f-4bc4-46d6-9141-f486732574b8",
-      "url:https://careers.noblis.org/jobs/27467"
+      "url:https://careers.noblis.org/jobs/27467",
+      "simplify-24ae7074-86a9-461d-8e0c-23403a03e275",
+      "url:https://mantech.avature.net/en_US/careers/JobDetail/64287",
+      "simplify-cb369351-882d-41be-9e85-42d3312f503a",
+      "url:https://mantech.avature.net/en_US/careers/JobDetail/64786",
+      "simplify-86247036-93b7-4e67-9fd5-4b5eb0573583",
+      "url:https://mantech.avature.net/en_US/careers/JobDetail/65051",
+      "simplify-678077f9-ae48-457f-8a21-5b51072d2d48",
+      "url:https://mantech.avature.net/en_US/careers/JobDetail/64788"
     ]
   }
 }
