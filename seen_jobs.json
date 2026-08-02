@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-cbf7c33c-7f5a-40a6-9ec5-b27895094847",
-      "seen_at": "2026-07-03T05:02:19.501571+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/275805",
-      "seen_at": "2026-07-03T05:02:19.501834+00:00"
-    },
-    {
-      "id": "simplify-b1f8c920-8d06-4fde-b5a2-23db753f0379",
-      "seen_at": "2026-07-03T05:02:22.040282+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7657541997725288757",
-      "seen_at": "2026-07-03T05:02:22.040460+00:00"
-    },
-    {
-      "id": "simplify-8f92877d-e680-4332-960c-8f9f8242c24d",
-      "seen_at": "2026-07-03T05:02:22.040612+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7657778928769534213",
-      "seen_at": "2026-07-03T05:02:22.040806+00:00"
-    },
-    {
-      "id": "simplify-b31b7881-e6d7-4605-ace6-749d9ebfd5c3",
-      "seen_at": "2026-07-03T05:02:22.040951+00:00"
-    },
-    {
-      "id": "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Product-Analyst---Generative-AI-Platform_REF080612W",
-      "seen_at": "2026-07-03T05:02:22.041062+00:00"
-    },
-    {
-      "id": "simplify-d3ff5ace-964a-408c-b75f-58756c9ba738",
-      "seen_at": "2026-07-03T05:02:24.663600+00:00"
-    },
-    {
-      "id": "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer_REF081674W-1",
-      "seen_at": "2026-07-03T05:02:24.663874+00:00"
-    },
-    {
-      "id": "simplify-f1ff7da9-0228-4439-858e-699aad2ebc40",
-      "seen_at": "2026-07-03T05:02:24.664028+00:00"
-    },
-    {
-      "id": "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Military-Talent-Program---Software-Engineering-Pipeline_REF083391W",
-      "seen_at": "2026-07-03T05:02:24.664157+00:00"
-    },
-    {
-      "id": "simplify-da5958b1-3c85-4bef-a6ab-9ca1ded957c5",
-      "seen_at": "2026-07-03T05:02:24.664291+00:00"
-    },
-    {
-      "id": "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer-Austin_REF083267W",
-      "seen_at": "2026-07-03T05:02:24.664416+00:00"
-    },
-    {
       "id": "simplify-8dc1849d-c45d-42c3-ac6a-74ec668986a0",
       "seen_at": "2026-07-03T08:18:22.828638+00:00"
     },
@@ -9675,14 +9619,20 @@
     {
       "id": "url:https://mantech.avature.net/en_US/careers/JobDetail/64788",
       "seen_at": "2026-08-02T04:42:36.831909+00:00"
+    },
+    {
+      "id": "simplify-7b44f44b-443f-4b5b-a132-f5f1622f232e",
+      "seen_at": "2026-08-02T07:21:56.267184+00:00"
+    },
+    {
+      "id": "url:https://careers.amd.com/jobs/85806",
+      "seen_at": "2026-08-02T07:21:56.267347+00:00"
     }
   ],
-  "last_run": "2026-08-02T04:42:37.079190+00:00",
-  "total_notified": 2201,
+  "last_run": "2026-08-02T07:21:56.623231+00:00",
+  "total_notified": 2202,
   "channels": {
     "swe-jobs": [
-      "simplify-cbf7c33c-7f5a-40a6-9ec5-b27895094847",
-      "url:https://www.tesla.com/careers/search/job/275805",
       "simplify-8dc1849d-c45d-42c3-ac6a-74ec668986a0",
       "url:https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185",
       "simplify-098a3e59-47c8-468f-bd4d-7a3c9ad2786c",
@@ -9971,12 +9921,6 @@
       "url:https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630"
     ],
     "pm-jobs": [
-      "simplify-b1f8c920-8d06-4fde-b5a2-23db753f0379",
-      "url:https://lifeattiktok.com/search/7657541997725288757",
-      "simplify-8f92877d-e680-4332-960c-8f9f8242c24d",
-      "url:https://lifeattiktok.com/search/7657778928769534213",
-      "simplify-b31b7881-e6d7-4605-ace6-749d9ebfd5c3",
-      "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Product-Analyst---Generative-AI-Platform_REF080612W",
       "simplify-496c053d-7fe7-4666-8edf-31b4f46f535f",
       "url:https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager---Expansion_REQ-1000049991",
       "ashby-openai-ee047eec-ae79-474b-9f1b-764242bc3c63",
@@ -10243,12 +10187,6 @@
       "url:https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application"
     ],
     "swe-ai-full-time": [
-      "simplify-d3ff5ace-964a-408c-b75f-58756c9ba738",
-      "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer_REF081674W-1",
-      "simplify-f1ff7da9-0228-4439-858e-699aad2ebc40",
-      "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Military-Talent-Program---Software-Engineering-Pipeline_REF083391W",
-      "simplify-da5958b1-3c85-4bef-a6ab-9ca1ded957c5",
-      "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer-Austin_REF083267W",
       "simplify-940c277c-55c2-4e03-8046-d765e0c14dd7",
       "url:https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-51183-1",
       "simplify-5d6d2dac-1be0-4319-bcf8-3ee10ba498a5",
@@ -12110,7 +12048,9 @@
       "simplify-86247036-93b7-4e67-9fd5-4b5eb0573583",
       "url:https://mantech.avature.net/en_US/careers/JobDetail/65051",
       "simplify-678077f9-ae48-457f-8a21-5b51072d2d48",
-      "url:https://mantech.avature.net/en_US/careers/JobDetail/64788"
+      "url:https://mantech.avature.net/en_US/careers/JobDetail/64788",
+      "simplify-7b44f44b-443f-4b5b-a132-f5f1622f232e",
+      "url:https://careers.amd.com/jobs/85806"
     ]
   }
 }
