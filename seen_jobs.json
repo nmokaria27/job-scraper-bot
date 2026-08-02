@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5265365008",
-      "seen_at": "2026-07-03T15:18:55.124723+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
-      "seen_at": "2026-07-03T15:18:55.124926+00:00"
-    },
-    {
       "id": "simplify-61c906f4-8ea5-4177-8afa-854efd9a7e01",
       "seen_at": "2026-07-03T22:45:48.904537+00:00"
     },
@@ -9573,7 +9565,7 @@
       "seen_at": "2026-08-02T07:21:56.267347+00:00"
     }
   ],
-  "last_run": "2026-08-02T15:11:06.944962+00:00",
+  "last_run": "2026-08-02T16:16:17.361038+00:00",
   "total_notified": 2202,
   "channels": {
     "swe-jobs": [
@@ -10125,8 +10117,6 @@
       "url:https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application"
     ],
     "swe-ai-full-time": [
-      "greenhouse-anthropic-5265365008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
       "simplify-61c906f4-8ea5-4177-8afa-854efd9a7e01",
       "url:https://jobs.lever.co/AIFund/a95a55a3-06ca-4e15-8c72-8d9e8255a9d6/apply",
       "simplify-b1ef56f6-35ca-45ae-a9b7-9b57b95a7b04",
