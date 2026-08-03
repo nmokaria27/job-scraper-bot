@@ -9547,10 +9547,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application",
       "seen_at": "2026-08-02T22:40:51.952511+00:00"
+    },
+    {
+      "id": "simplify-57dfa07e-fba9-4ab6-8330-05fefd483da5",
+      "seen_at": "2026-08-03T04:50:54.286858+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1415110900",
+      "seen_at": "2026-08-03T04:50:54.287083+00:00"
+    },
+    {
+      "id": "simplify-59d36e2a-3413-468e-a72e-8c350b5dad94",
+      "seen_at": "2026-08-03T04:50:54.287285+00:00"
+    },
+    {
+      "id": "url:https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad",
+      "seen_at": "2026-08-03T04:50:54.287470+00:00"
     }
   ],
-  "last_run": "2026-08-03T01:17:11.338964+00:00",
-  "total_notified": 2204,
+  "last_run": "2026-08-03T04:50:54.543892+00:00",
+  "total_notified": 2206,
   "channels": {
     "swe-jobs": [
       "simplify-366c2106-60ad-48af-b7c0-95537c275a17",
@@ -11950,7 +11966,11 @@
       "simplify-7b44f44b-443f-4b5b-a132-f5f1622f232e",
       "url:https://careers.amd.com/jobs/85806",
       "simplify-e3cfe515-6df5-4847-9b31-0a9b950a8524",
-      "url:https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application"
+      "url:https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application",
+      "simplify-57dfa07e-fba9-4ab6-8330-05fefd483da5",
+      "url:https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1415110900",
+      "simplify-59d36e2a-3413-468e-a72e-8c350b5dad94",
+      "url:https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad"
     ]
   }
 }
