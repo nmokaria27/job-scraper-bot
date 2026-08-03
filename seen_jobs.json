@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-f0b5d4dc-e932-4eb9-a406-003fba8d30b1",
-      "seen_at": "2026-07-03T23:47:28.108598+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/transcendinc/jobs/4202502009",
-      "seen_at": "2026-07-03T23:47:28.108741+00:00"
-    },
-    {
       "id": "simplify-366c2106-60ad-48af-b7c0-95537c275a17",
       "seen_at": "2026-07-04T10:21:24.793391+00:00"
     },
@@ -9557,7 +9549,7 @@
       "seen_at": "2026-08-02T22:40:51.952511+00:00"
     }
   ],
-  "last_run": "2026-08-02T23:44:20.639411+00:00",
+  "last_run": "2026-08-03T01:17:11.338964+00:00",
   "total_notified": 2204,
   "channels": {
     "swe-jobs": [
@@ -10111,8 +10103,6 @@
       "url:https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application"
     ],
     "swe-ai-full-time": [
-      "simplify-f0b5d4dc-e932-4eb9-a406-003fba8d30b1",
-      "url:https://job-boards.greenhouse.io/transcendinc/jobs/4202502009",
       "simplify-e0ab658c-09fa-417e-8fba-181533ca4231",
       "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4043077-1",
       "simplify-6763db63-2703-4fa3-ba56-026f329dda6e",
