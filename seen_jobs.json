@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-e0ab658c-09fa-417e-8fba-181533ca4231",
-      "seen_at": "2026-07-04T12:50:07.456169+00:00"
-    },
-    {
-      "id": "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4043077-1",
-      "seen_at": "2026-07-04T12:50:07.456396+00:00"
-    },
-    {
       "id": "simplify-6763db63-2703-4fa3-ba56-026f329dda6e",
       "seen_at": "2026-07-04T14:19:23.057185+00:00"
     },
@@ -10613,7 +10605,7 @@
       "seen_at": "2026-08-03T11:48:47.187864+00:00"
     }
   ],
-  "last_run": "2026-08-03T11:48:47.481958+00:00",
+  "last_run": "2026-08-03T14:04:32.646284+00:00",
   "total_notified": 2284,
   "channels": {
     "swe-jobs": [
@@ -11267,8 +11259,6 @@
       "url:https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern"
     ],
     "swe-ai-full-time": [
-      "simplify-e0ab658c-09fa-417e-8fba-181533ca4231",
-      "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4043077-1",
       "simplify-6763db63-2703-4fa3-ba56-026f329dda6e",
       "url:https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-549477-1",
       "simplify-a9b455fc-53c5-4698-9a24-a963d29ef5f0",
