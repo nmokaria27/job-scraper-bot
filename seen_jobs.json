@@ -11759,10 +11759,42 @@
     {
       "id": "url:https://careers.airbnb.com/positions/7905365",
       "seen_at": "2026-08-04T21:21:12.256577+00:00"
+    },
+    {
+      "id": "simplify-cbd56b83-ba52-4c04-b781-d4ae5e585151",
+      "seen_at": "2026-08-04T22:32:03.343905+00:00"
+    },
+    {
+      "id": "url:https://jobs.keysight.com/jobs/53636",
+      "seen_at": "2026-08-04T22:32:03.344090+00:00"
+    },
+    {
+      "id": "simplify-430476fa-929a-40d6-baa9-2ff79a9c2899",
+      "seen_at": "2026-08-04T22:32:03.344317+00:00"
+    },
+    {
+      "id": "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+      "seen_at": "2026-08-04T22:32:03.344453+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-4926242008",
+      "seen_at": "2026-08-04T22:32:05.878655+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
+      "seen_at": "2026-08-04T22:32:05.878866+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-5704320004",
+      "seen_at": "2026-08-04T22:32:05.879049+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/5704320004",
+      "seen_at": "2026-08-04T22:32:05.879241+00:00"
     }
   ],
-  "last_run": "2026-08-04T21:21:12.864244+00:00",
-  "total_notified": 2434,
+  "last_run": "2026-08-04T22:32:06.090549+00:00",
+  "total_notified": 2438,
   "channels": {
     "swe-jobs": [
       "simplify-9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
@@ -12232,7 +12264,11 @@
       "simplify-722bb14f-670f-48c9-8320-e07db2eff930",
       "url:https://lifeattiktok.com/search/7669712589169117445",
       "simplify-b59992d0-e14b-4009-9121-ed1172ad9b24",
-      "url:https://jobs.bytedance.com/en/position/7668212952030841093/detail"
+      "url:https://jobs.bytedance.com/en/position/7668212952030841093/detail",
+      "simplify-cbd56b83-ba52-4c04-b781-d4ae5e585151",
+      "url:https://jobs.keysight.com/jobs/53636",
+      "simplify-430476fa-929a-40d6-baa9-2ff79a9c2899",
+      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1"
     ],
     "pm-jobs": [
       "ashby-openai-ee047eec-ae79-474b-9f1b-764242bc3c63",
@@ -14716,7 +14752,11 @@
       "ashby-openai-d8ebcb30-c789-4e75-bf9b-a1e3fb09dd2f",
       "url:https://jobs.ashbyhq.com/openai/d8ebcb30-c789-4e75-bf9b-a1e3fb09dd2f",
       "ashby-openai-ef828b89-41ed-4cde-96a9-94ffe5770d4c",
-      "url:https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c"
+      "url:https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c",
+      "greenhouse-anthropic-4926242008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
+      "greenhouse-vercel-5704320004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/5704320004"
     ]
   }
 }
