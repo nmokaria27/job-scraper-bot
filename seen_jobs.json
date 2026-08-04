@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-d5334592-4814-4ea5-a7f1-14bb1ae228ca",
-      "seen_at": "2026-07-05T11:43:15.418118+00:00"
-    },
-    {
-      "id": "url:https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer---Go-To-Market-Analytics_R-548948-1",
-      "seen_at": "2026-07-05T11:43:15.418300+00:00"
-    },
-    {
       "id": "simplify-90b92c02-68ac-4402-b8f2-91494bc89e19",
       "seen_at": "2026-07-05T14:49:51.561486+00:00"
     },
@@ -11679,10 +11671,34 @@
     {
       "id": "url:https://jobs.bytedance.com/en/position/7669854602477684997/detail",
       "seen_at": "2026-08-04T10:02:34.826088+00:00"
+    },
+    {
+      "id": "simplify-24d89841-c8be-4eea-95fb-98701ee651a1",
+      "seen_at": "2026-08-04T12:08:48.315737+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01864064",
+      "seen_at": "2026-08-04T12:08:48.316083+00:00"
+    },
+    {
+      "id": "simplify-6989a133-f5f6-4d41-81d7-b5403e6a5f9e",
+      "seen_at": "2026-08-04T12:08:48.316346+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7669657076205324597",
+      "seen_at": "2026-08-04T12:08:48.316570+00:00"
+    },
+    {
+      "id": "simplify-66b56a57-0b34-4268-9aeb-d1eeb074c004",
+      "seen_at": "2026-08-04T12:08:48.316805+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7668845522007722245",
+      "seen_at": "2026-08-04T12:08:48.317058+00:00"
     }
   ],
-  "last_run": "2026-08-04T10:02:35.001702+00:00",
-  "total_notified": 2422,
+  "last_run": "2026-08-04T12:08:48.705640+00:00",
+  "total_notified": 2425,
   "channels": {
     "swe-jobs": [
       "simplify-9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
@@ -12449,8 +12465,6 @@
       "url:https://lifeattiktok.com/search/7667578131150506293"
     ],
     "swe-ai-full-time": [
-      "simplify-d5334592-4814-4ea5-a7f1-14bb1ae228ca",
-      "url:https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer---Go-To-Market-Analytics_R-548948-1",
       "simplify-90b92c02-68ac-4402-b8f2-91494bc89e19",
       "url:https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
       "simplify-cbd36f9a-2045-4594-9966-504ba808e61a",
@@ -14616,7 +14630,13 @@
       "simplify-b63902e6-66dd-4df7-89fd-755e14781361",
       "url:https://jobs.bytedance.com/en/position/7667926830305528117/detail",
       "simplify-3f8afa13-81ca-48dd-9563-4cd15da1c144",
-      "url:https://jobs.bytedance.com/en/position/7669854602477684997/detail"
+      "url:https://jobs.bytedance.com/en/position/7669854602477684997/detail",
+      "simplify-24d89841-c8be-4eea-95fb-98701ee651a1",
+      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01864064",
+      "simplify-6989a133-f5f6-4d41-81d7-b5403e6a5f9e",
+      "url:https://lifeattiktok.com/search/7669657076205324597",
+      "simplify-66b56a57-0b34-4268-9aeb-d1eeb074c004",
+      "url:https://lifeattiktok.com/search/7668845522007722245"
     ]
   }
 }
