@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
-      "seen_at": "2026-07-05T23:30:17.942793+00:00"
-    },
-    {
-      "id": "url:https://www.tower-research.com/open-positions",
-      "seen_at": "2026-07-05T23:30:17.942976+00:00"
-    },
-    {
-      "id": "simplify-cbd36f9a-2045-4594-9966-504ba808e61a",
-      "seen_at": "2026-07-05T23:30:19.811685+00:00"
-    },
-    {
-      "id": "url:https://pmpediatrics.wd5.myworkdayjobs.com/PMPeds/job/Remote---United-States/AI---Analytics-Engineer_2026-R0988-3",
-      "seen_at": "2026-07-05T23:30:19.811878+00:00"
-    },
-    {
       "id": "simplify-c76dbe61-c0f6-47a8-b05e-b219b4e28fb7",
       "seen_at": "2026-07-06T09:45:49.454593+00:00"
     },
@@ -11791,14 +11775,116 @@
     {
       "id": "url:https://job-boards.greenhouse.io/vercel/jobs/5704320004",
       "seen_at": "2026-08-04T22:32:05.879241+00:00"
+    },
+    {
+      "id": "simplify-88c6c90a-12f6-4c8e-810a-ebdd431c5950",
+      "seen_at": "2026-08-04T23:35:21.881815+00:00"
+    },
+    {
+      "id": "url:https://jobs.jobvite.com/inogen/job/om2zAfwh",
+      "seen_at": "2026-08-04T23:35:21.882040+00:00"
+    },
+    {
+      "id": "simplify-fb262cfb-af24-408e-8846-460fd50a2727",
+      "seen_at": "2026-08-04T23:35:22.979582+00:00"
+    },
+    {
+      "id": "url:https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Remote---Remote/Insurance-Product-Management-Consultant-I_R33266",
+      "seen_at": "2026-08-04T23:35:22.979799+00:00"
+    },
+    {
+      "id": "simplify-44333172-8ff8-46c6-8d01-e7bf985a6611",
+      "seen_at": "2026-08-04T23:35:31.120883+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/Microelectronics-Packaging-Engineer-I_01862732",
+      "seen_at": "2026-08-04T23:35:31.121143+00:00"
+    },
+    {
+      "id": "simplify-44751041-dede-4798-8b1d-f7ee3294db86",
+      "seen_at": "2026-08-04T23:35:31.121434+00:00"
+    },
+    {
+      "id": "url:https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Data-Scientist---Associate-or-Experienced-Level_JR115120-1",
+      "seen_at": "2026-08-04T23:35:31.121613+00:00"
+    },
+    {
+      "id": "simplify-70fff953-84ce-4b7b-98f3-9c82acc8031c",
+      "seen_at": "2026-08-04T23:35:31.121789+00:00"
+    },
+    {
+      "id": "url:https://careers.upstart.com/jobs",
+      "seen_at": "2026-08-04T23:35:31.121954+00:00"
+    },
+    {
+      "id": "simplify-c3a87290-4f6d-4d31-8576-4c7f518fd46b",
+      "seen_at": "2026-08-04T23:35:31.122127+00:00"
+    },
+    {
+      "id": "url:https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Consultant-LLM-Summer-2027/361373",
+      "seen_at": "2026-08-04T23:35:31.122280+00:00"
+    },
+    {
+      "id": "simplify-4bcd5c13-f55d-4f88-98d3-31644264b8b8",
+      "seen_at": "2026-08-04T23:35:31.122454+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Kognitos/1f7775f7-eb11-4dca-b30c-bbd077d7d1f9/application",
+      "seen_at": "2026-08-04T23:35:31.122604+00:00"
+    },
+    {
+      "id": "simplify-59d07036-60ed-4be1-8045-1e7dd3482bb7",
+      "seen_at": "2026-08-04T23:35:31.122759+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/abacusinsights/jobs/8674746002",
+      "seen_at": "2026-08-04T23:35:31.122907+00:00"
+    },
+    {
+      "id": "simplify-432f2a98-6083-457b-915b-52b50828742d",
+      "seen_at": "2026-08-04T23:35:31.123062+00:00"
+    },
+    {
+      "id": "url:https://asuresoftware.bamboohr.com/careers/1052",
+      "seen_at": "2026-08-04T23:35:31.123211+00:00"
+    },
+    {
+      "id": "simplify-ebb783e8-e314-4b94-8f41-216edb1e6db5",
+      "seen_at": "2026-08-04T23:35:31.123393+00:00"
+    },
+    {
+      "id": "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Beaver-Brook/SoC-Logic-Design-Engineer_JR0286168",
+      "seen_at": "2026-08-04T23:35:31.123576+00:00"
+    },
+    {
+      "id": "simplify-89554157-ce6a-4bfe-b783-fb6582dacd3d",
+      "seen_at": "2026-08-04T23:35:31.123740+00:00"
+    },
+    {
+      "id": "url:https://bespoketechinc.applytojob.com/apply/540EXNvUfv/Data-Engineer-Analyst-WDP",
+      "seen_at": "2026-08-04T23:35:31.123890+00:00"
+    },
+    {
+      "id": "simplify-25bae6a6-ddae-4c18-a721-7986920585cc",
+      "seen_at": "2026-08-04T23:35:31.124047+00:00"
+    },
+    {
+      "id": "url:https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/System-Requirements-Engineer_JR002399-1",
+      "seen_at": "2026-08-04T23:35:31.124195+00:00"
+    },
+    {
+      "id": "simplify-2c9a9813-d166-422b-adf3-2c534553bedb",
+      "seen_at": "2026-08-04T23:35:31.124366+00:00"
+    },
+    {
+      "id": "url:https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Engineer-I--Machine-Learning-Ops-CBM-Lab_JR-1065210-2",
+      "seen_at": "2026-08-04T23:35:31.124516+00:00"
     }
   ],
-  "last_run": "2026-08-04T22:32:06.090549+00:00",
-  "total_notified": 2438,
+  "last_run": "2026-08-04T23:35:31.404560+00:00",
+  "total_notified": 2451,
   "channels": {
     "swe-jobs": [
-      "simplify-9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
-      "url:https://www.tower-research.com/open-positions",
       "simplify-c76dbe61-c0f6-47a8-b05e-b219b4e28fb7",
       "url:https://www.citadelsecurities.com/careers/details/software-engineer-intern-us",
       "simplify-28286b52-4c99-4d00-a870-d919c13d68c6",
@@ -12268,7 +12354,9 @@
       "simplify-cbd56b83-ba52-4c04-b781-d4ae5e585151",
       "url:https://jobs.keysight.com/jobs/53636",
       "simplify-430476fa-929a-40d6-baa9-2ff79a9c2899",
-      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1"
+      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+      "simplify-88c6c90a-12f6-4c8e-810a-ebdd431c5950",
+      "url:https://jobs.jobvite.com/inogen/job/om2zAfwh"
     ],
     "pm-jobs": [
       "ashby-openai-ee047eec-ae79-474b-9f1b-764242bc3c63",
@@ -12566,11 +12654,11 @@
       "greenhouse-airbnb-8096359",
       "url:https://careers.airbnb.com/positions/8096359",
       "greenhouse-airbnb-7905365",
-      "url:https://careers.airbnb.com/positions/7905365"
+      "url:https://careers.airbnb.com/positions/7905365",
+      "simplify-fb262cfb-af24-408e-8846-460fd50a2727",
+      "url:https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Remote---Remote/Insurance-Product-Management-Consultant-I_R33266"
     ],
     "swe-ai-full-time": [
-      "simplify-cbd36f9a-2045-4594-9966-504ba808e61a",
-      "url:https://pmpediatrics.wd5.myworkdayjobs.com/PMPeds/job/Remote---United-States/AI---Analytics-Engineer_2026-R0988-3",
       "simplify-b1b9bee7-c650-4a9f-ac98-68ddd8145f41",
       "url:https://jobs.lever.co/AIFund/69894854-3d58-4efd-8b14-a006dbba48ca/apply",
       "simplify-b3ababcb-ddbc-4bdb-82aa-6763882ace0b",
@@ -14756,7 +14844,29 @@
       "greenhouse-anthropic-4926242008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
       "greenhouse-vercel-5704320004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/5704320004"
+      "url:https://job-boards.greenhouse.io/vercel/jobs/5704320004",
+      "simplify-44333172-8ff8-46c6-8d01-e7bf985a6611",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/Microelectronics-Packaging-Engineer-I_01862732",
+      "simplify-44751041-dede-4798-8b1d-f7ee3294db86",
+      "url:https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Data-Scientist---Associate-or-Experienced-Level_JR115120-1",
+      "simplify-70fff953-84ce-4b7b-98f3-9c82acc8031c",
+      "url:https://careers.upstart.com/jobs",
+      "simplify-c3a87290-4f6d-4d31-8576-4c7f518fd46b",
+      "url:https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Consultant-LLM-Summer-2027/361373",
+      "simplify-4bcd5c13-f55d-4f88-98d3-31644264b8b8",
+      "url:https://jobs.ashbyhq.com/Kognitos/1f7775f7-eb11-4dca-b30c-bbd077d7d1f9/application",
+      "simplify-59d07036-60ed-4be1-8045-1e7dd3482bb7",
+      "url:https://boards.greenhouse.io/abacusinsights/jobs/8674746002",
+      "simplify-432f2a98-6083-457b-915b-52b50828742d",
+      "url:https://asuresoftware.bamboohr.com/careers/1052",
+      "simplify-ebb783e8-e314-4b94-8f41-216edb1e6db5",
+      "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Beaver-Brook/SoC-Logic-Design-Engineer_JR0286168",
+      "simplify-89554157-ce6a-4bfe-b783-fb6582dacd3d",
+      "url:https://bespoketechinc.applytojob.com/apply/540EXNvUfv/Data-Engineer-Analyst-WDP",
+      "simplify-25bae6a6-ddae-4c18-a721-7986920585cc",
+      "url:https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/System-Requirements-Engineer_JR002399-1",
+      "simplify-2c9a9813-d166-422b-adf3-2c534553bedb",
+      "url:https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Engineer-I--Machine-Learning-Ops-CBM-Lab_JR-1065210-2"
     ]
   }
 }
