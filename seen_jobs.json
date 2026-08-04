@@ -11075,10 +11075,54 @@
     {
       "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Digital-ASIC-FPGA-Design-Electrical-Engineer-I_01861569",
       "seen_at": "2026-08-03T23:41:20.400179+00:00"
+    },
+    {
+      "id": "simplify-dc98760f-d794-4d68-be4d-5639d2bcf3f3",
+      "seen_at": "2026-08-04T04:32:59.491164+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/278620",
+      "seen_at": "2026-08-04T04:32:59.491344+00:00"
+    },
+    {
+      "id": "simplify-4afc774c-1a8c-44d6-b0c6-ebae36dfd0b9",
+      "seen_at": "2026-08-04T04:32:59.491563+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/278622",
+      "seen_at": "2026-08-04T04:32:59.491695+00:00"
+    },
+    {
+      "id": "simplify-7aa9448f-c028-4566-8078-45d402ca4ffe",
+      "seen_at": "2026-08-04T04:33:01.545953+00:00"
+    },
+    {
+      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
+      "seen_at": "2026-08-04T04:33:01.546129+00:00"
+    },
+    {
+      "id": "hn-49164297",
+      "seen_at": "2026-08-04T04:33:01.546306+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-8037090",
+      "seen_at": "2026-08-04T04:33:03.879510+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/8037090",
+      "seen_at": "2026-08-04T04:33:03.879716+00:00"
+    },
+    {
+      "id": "ashby-openai-d2aad13c-6ed0-4905-ae12-8ea2397b190c",
+      "seen_at": "2026-08-04T04:33:03.879892+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c",
+      "seen_at": "2026-08-04T04:33:03.880038+00:00"
     }
   ],
-  "last_run": "2026-08-04T01:09:23.744038+00:00",
-  "total_notified": 2346,
+  "last_run": "2026-08-04T04:33:04.212861+00:00",
+  "total_notified": 2352,
   "channels": {
     "swe-jobs": [
       "simplify-9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
@@ -11484,7 +11528,11 @@
       "simplify-de291c1a-da34-4159-9059-1234151298ef",
       "url:https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684",
       "simplify-7668d718-523e-431c-a2b3-b39a409c2dec",
-      "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989"
+      "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
+      "simplify-dc98760f-d794-4d68-be4d-5639d2bcf3f3",
+      "url:https://www.tesla.com/careers/search/job/278620",
+      "simplify-4afc774c-1a8c-44d6-b0c6-ebae36dfd0b9",
+      "url:https://www.tesla.com/careers/search/job/278622"
     ],
     "pm-jobs": [
       "ashby-openai-ee047eec-ae79-474b-9f1b-764242bc3c63",
@@ -11770,7 +11818,11 @@
       "simplify-0d82ec26-0b14-48f3-a217-8d65f6a1646e",
       "url:https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939",
       "simplify-a675eac5-d735-47b2-8458-e2a6f4676beb",
-      "url:https://amazon.jobs/en/jobs/10490981/2027-amazon-leadership-accelerator-ala-product-manager-full-time"
+      "url:https://amazon.jobs/en/jobs/10490981/2027-amazon-leadership-accelerator-ala-product-manager-full-time",
+      "simplify-7aa9448f-c028-4566-8078-45d402ca4ffe",
+      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
+      "hn-49164297",
+      "url:https://news.ycombinator.com/item"
     ],
     "swe-ai-full-time": [
       "simplify-d5334592-4814-4ea5-a7f1-14bb1ae228ca",
@@ -13860,7 +13912,11 @@
       "simplify-58d91da1-53ad-4b2c-b6f0-34bc216529b9",
       "url:https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Software-Engineer--C--_R-00188633",
       "simplify-df570e4a-f00e-490b-88e0-f9d73812ff19",
-      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Digital-ASIC-FPGA-Design-Electrical-Engineer-I_01861569"
+      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Digital-ASIC-FPGA-Design-Electrical-Engineer-I_01861569",
+      "greenhouse-airbnb-8037090",
+      "url:https://careers.airbnb.com/positions/8037090",
+      "ashby-openai-d2aad13c-6ed0-4905-ae12-8ea2397b190c",
+      "url:https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c"
     ]
   }
 }
