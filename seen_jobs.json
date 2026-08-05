@@ -12031,10 +12031,42 @@
     {
       "id": "url:https://starbucks.eightfold.ai/careers/job/481078371803",
       "seen_at": "2026-08-05T11:38:17.517633+00:00"
+    },
+    {
+      "id": "simplify-55d8eebc-3068-41c4-bbd7-add2f7ce530b",
+      "seen_at": "2026-08-05T15:41:51.353331+00:00"
+    },
+    {
+      "id": "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
+      "seen_at": "2026-08-05T15:41:51.353516+00:00"
+    },
+    {
+      "id": "simplify-d11cbbe8-c970-459f-bf95-530ed6400b12",
+      "seen_at": "2026-08-05T15:41:51.353672+00:00"
+    },
+    {
+      "id": "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401",
+      "seen_at": "2026-08-05T15:41:51.353811+00:00"
+    },
+    {
+      "id": "simplify-39d0cc56-bb3b-4cdd-98d2-bc30149309ff",
+      "seen_at": "2026-08-05T15:41:53.393810+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077",
+      "seen_at": "2026-08-05T15:41:53.394131+00:00"
+    },
+    {
+      "id": "greenhouse-lyft-8678744002",
+      "seen_at": "2026-08-05T15:41:53.394322+00:00"
+    },
+    {
+      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8678744002",
+      "seen_at": "2026-08-05T15:41:53.394487+00:00"
     }
   ],
-  "last_run": "2026-08-05T13:24:51.342507+00:00",
-  "total_notified": 2478,
+  "last_run": "2026-08-05T15:41:53.685133+00:00",
+  "total_notified": 2482,
   "channels": {
     "swe-jobs": [
       "simplify-4040c08e-acb6-48dd-b6cd-43c4aede894c",
@@ -12516,7 +12548,11 @@
       "simplify-ec44a0f2-7cf0-4dd9-84b2-cdc746efb42e",
       "url:https://lifeattiktok.com/search/7670289874020993285",
       "simplify-7fdf2de6-75ca-4715-8764-720c7cc52695",
-      "url:https://lifeattiktok.com/search/7668533140146817333"
+      "url:https://lifeattiktok.com/search/7668533140146817333",
+      "simplify-55d8eebc-3068-41c4-bbd7-add2f7ce530b",
+      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
+      "simplify-d11cbbe8-c970-459f-bf95-530ed6400b12",
+      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401"
     ],
     "pm-jobs": [
       "ashby-openai-ee047eec-ae79-474b-9f1b-764242bc3c63",
@@ -15056,7 +15092,11 @@
       "simplify-3d38784e-80ec-40c4-9082-77aabd533031",
       "url:https://jobs.bytedance.com/en/position/7669899962768165173/detail",
       "simplify-2c2eb6e8-d129-4384-bdce-cdd5ba022bfc",
-      "url:https://starbucks.eightfold.ai/careers/job/481078371803"
+      "url:https://starbucks.eightfold.ai/careers/job/481078371803",
+      "simplify-39d0cc56-bb3b-4cdd-98d2-bc30149309ff",
+      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077",
+      "greenhouse-lyft-8678744002",
+      "url:https://app.careerpuck.com/job-board/lyft/job/8678744002"
     ]
   }
 }
