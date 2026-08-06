@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-26d82c3c-2d34-4225-b3e9-810a1b478679",
-      "seen_at": "2026-07-07T08:45:44.356120+00:00"
-    },
-    {
-      "id": "url:https://cra.com/job-listings/job",
-      "seen_at": "2026-07-07T08:45:44.356308+00:00"
-    },
-    {
-      "id": "ashby-openai-eefeb527-4e36-432e-a787-88e4672e29e1",
-      "seen_at": "2026-07-07T08:45:46.046181+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1",
-      "seen_at": "2026-07-07T08:45:46.046345+00:00"
-    },
-    {
       "id": "simplify-8ab3cc20-459a-4c6f-bfcb-4b8487e56196",
       "seen_at": "2026-07-07T11:32:40.648462+00:00"
     },
@@ -12327,14 +12311,20 @@
     {
       "id": "url:https://jobs.bytedance.com/en/position/7670004502598060341/detail",
       "seen_at": "2026-08-06T07:20:31.163601+00:00"
+    },
+    {
+      "id": "ashby-openai-eefeb527-4e36-432e-a787-88e4672e29e1",
+      "seen_at": "2026-08-06T10:03:15.032952+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1",
+      "seen_at": "2026-08-06T10:03:15.033173+00:00"
     }
   ],
-  "last_run": "2026-08-06T07:20:31.447716+00:00",
-  "total_notified": 2548,
+  "last_run": "2026-08-06T10:03:15.231677+00:00",
+  "total_notified": 2549,
   "channels": {
     "swe-jobs": [
-      "simplify-26d82c3c-2d34-4225-b3e9-810a1b478679",
-      "url:https://cra.com/job-listings/job",
       "simplify-0a5d1e5d-49ca-48f2-bc26-b0fd949cbe4b",
       "url:https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Part-time-Intern---AI-Developer_R0000376582",
       "simplify-c397c573-0849-4481-968f-9dd2b5b1ab87",
@@ -13157,8 +13147,6 @@
       "url:https://careers.airbnb.com/positions/8106422"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-eefeb527-4e36-432e-a787-88e4672e29e1",
-      "url:https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1",
       "simplify-8ab3cc20-459a-4c6f-bfcb-4b8487e56196",
       "url:https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application",
       "simplify-a4db1cdd-98a3-4e59-b6c0-9baff85f5a46",
@@ -15426,7 +15414,9 @@
       "simplify-50e97511-4f52-43a6-985d-3fc9ce92d6bb",
       "url:https://jobs.bytedance.com/en/position/7669789046777940229/detail",
       "simplify-1ffbd441-9fea-43f5-819f-f097b8702aaf",
-      "url:https://jobs.bytedance.com/en/position/7670004502598060341/detail"
+      "url:https://jobs.bytedance.com/en/position/7670004502598060341/detail",
+      "ashby-openai-eefeb527-4e36-432e-a787-88e4672e29e1",
+      "url:https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1"
     ]
   }
 }
