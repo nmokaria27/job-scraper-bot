@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-vercel-6111332004",
-      "seen_at": "2026-07-08T06:17:51.619497+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6111332004",
-      "seen_at": "2026-07-08T06:17:51.619678+00:00"
-    },
-    {
-      "id": "ashby-openai-7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
-      "seen_at": "2026-07-08T06:17:51.619824+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
-      "seen_at": "2026-07-08T06:17:51.619940+00:00"
-    },
-    {
       "id": "simplify-1d131926-4996-4c18-8d7a-d58a366d10ed",
       "seen_at": "2026-07-08T14:43:09.110578+00:00"
     },
@@ -12291,10 +12275,74 @@
     {
       "id": "url:https://jobs.bytedance.com/en/position/7670773781477394741/detail",
       "seen_at": "2026-08-07T03:19:44.428282+00:00"
+    },
+    {
+      "id": "simplify-5725405b-6f22-485b-a418-ad3c6148afb4",
+      "seen_at": "2026-08-07T07:45:31.956736+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application",
+      "seen_at": "2026-08-07T07:45:31.956972+00:00"
+    },
+    {
+      "id": "simplify-d70d2957-012d-4805-b794-0d5527276f27",
+      "seen_at": "2026-08-07T07:45:38.057360+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/avalore/j/F157AC3B65/apply",
+      "seen_at": "2026-08-07T07:45:38.057660+00:00"
+    },
+    {
+      "id": "simplify-b0e4f405-60ec-4f76-bad9-511dd698c08d",
+      "seen_at": "2026-08-07T07:45:38.057936+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/interimage/j/35ED59E021/apply",
+      "seen_at": "2026-08-07T07:45:38.058119+00:00"
+    },
+    {
+      "id": "simplify-0483a44f-f140-427e-a301-9d87c2344515",
+      "seen_at": "2026-08-07T07:45:38.058386+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/interimage/j/50AEE969C4/apply",
+      "seen_at": "2026-08-07T07:45:38.058600+00:00"
+    },
+    {
+      "id": "simplify-26f3c78f-dda8-42c5-95af-0b4294303214",
+      "seen_at": "2026-08-07T07:45:38.058885+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/interimage/j/8DBD237A8E/apply",
+      "seen_at": "2026-08-07T07:45:38.059131+00:00"
+    },
+    {
+      "id": "simplify-ac518a9b-a4b2-4258-bae8-096b9d9fe442",
+      "seen_at": "2026-08-07T07:45:38.059346+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/tp-link-usa-corp/j/428D85D8DC/apply",
+      "seen_at": "2026-08-07T07:45:38.059596+00:00"
+    },
+    {
+      "id": "simplify-d60c9a21-d5a4-40cc-a715-3cce325539a0",
+      "seen_at": "2026-08-07T07:45:38.059935+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply",
+      "seen_at": "2026-08-07T07:45:38.060192+00:00"
+    },
+    {
+      "id": "ashby-openai-7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
+      "seen_at": "2026-08-07T07:45:38.060405+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
+      "seen_at": "2026-08-07T07:45:38.060653+00:00"
     }
   ],
-  "last_run": "2026-08-07T06:15:41.696137+00:00",
-  "total_notified": 2593,
+  "last_run": "2026-08-07T07:45:38.257408+00:00",
+  "total_notified": 2601,
   "channels": {
     "swe-jobs": [
       "simplify-4dc5f31e-e744-4c5c-ac98-baeb6b6f17f3",
@@ -12810,7 +12858,9 @@
       "simplify-1a9582e0-2525-494c-8737-53db648f37cb",
       "url:https://jobs.bytedance.com/en/position/7670772641439041797/detail",
       "simplify-768f4b89-5b54-45bb-9e39-72e0b86c8110",
-      "url:https://jobs.bytedance.com/en/position/7670855041951795509/detail"
+      "url:https://jobs.bytedance.com/en/position/7670855041951795509/detail",
+      "simplify-5725405b-6f22-485b-a418-ad3c6148afb4",
+      "url:https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application"
     ],
     "pm-jobs": [
       "greenhouse-airbnb-8044715",
@@ -13131,10 +13181,6 @@
       "url:https://jobs.ashbyhq.com/openai/33b8effb-b048-4934-a279-87fff192a330"
     ],
     "swe-ai-full-time": [
-      "greenhouse-vercel-6111332004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6111332004",
-      "ashby-openai-7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
-      "url:https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
       "simplify-1d131926-4996-4c18-8d7a-d58a366d10ed",
       "url:https://careers-kemin.icims.com/jobs/12130/job",
       "simplify-27a0f900-c5b2-4b8f-85c2-8614ea5badf0",
@@ -15382,7 +15428,21 @@
       "simplify-65374907-a79c-4477-928a-78fd06e99828",
       "url:https://lifeattiktok.com/search/7670387719826786565",
       "simplify-e4ec4b12-71e5-44a2-9874-b52d28e6006a",
-      "url:https://jobs.bytedance.com/en/position/7670773781477394741/detail"
+      "url:https://jobs.bytedance.com/en/position/7670773781477394741/detail",
+      "simplify-d70d2957-012d-4805-b794-0d5527276f27",
+      "url:https://apply.workable.com/avalore/j/F157AC3B65/apply",
+      "simplify-b0e4f405-60ec-4f76-bad9-511dd698c08d",
+      "url:https://apply.workable.com/interimage/j/35ED59E021/apply",
+      "simplify-0483a44f-f140-427e-a301-9d87c2344515",
+      "url:https://apply.workable.com/interimage/j/50AEE969C4/apply",
+      "simplify-26f3c78f-dda8-42c5-95af-0b4294303214",
+      "url:https://apply.workable.com/interimage/j/8DBD237A8E/apply",
+      "simplify-ac518a9b-a4b2-4258-bae8-096b9d9fe442",
+      "url:https://apply.workable.com/tp-link-usa-corp/j/428D85D8DC/apply",
+      "simplify-d60c9a21-d5a4-40cc-a715-3cce325539a0",
+      "url:https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply",
+      "ashby-openai-7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
+      "url:https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22"
     ]
   }
 }
