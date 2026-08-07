@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-airbnb-8044715",
-      "seen_at": "2026-07-08T16:22:50.678991+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8044715",
-      "seen_at": "2026-07-08T16:22:50.679251+00:00"
-    },
-    {
-      "id": "simplify-fcd95104-5b2a-4e23-bb5e-ee0412e59f2c",
-      "seen_at": "2026-07-08T16:22:52.446270+00:00"
-    },
-    {
-      "id": "url:https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146",
-      "seen_at": "2026-07-08T16:22:52.446520+00:00"
-    },
-    {
-      "id": "simplify-5158ca83-fadc-46bd-8a9d-7d714853a2c3",
-      "seen_at": "2026-07-08T16:22:52.446733+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/roadrunner/jobs/4307451009",
-      "seen_at": "2026-07-08T16:22:52.446937+00:00"
-    },
-    {
       "id": "greenhouse-airbnb-7783175",
       "seen_at": "2026-07-08T18:03:49.787532+00:00"
     },
@@ -12381,7 +12357,7 @@
       "seen_at": "2026-08-07T15:03:00.761948+00:00"
     }
   ],
-  "last_run": "2026-08-07T16:02:45.035920+00:00",
+  "last_run": "2026-08-07T17:01:41.879572+00:00",
   "total_notified": 2608,
   "channels": {
     "swe-jobs": [
@@ -12903,8 +12879,6 @@
       "url:https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application"
     ],
     "pm-jobs": [
-      "greenhouse-airbnb-8044715",
-      "url:https://careers.airbnb.com/positions/8044715",
       "greenhouse-anthropic-5123082008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5123082008",
       "ashby-openai-05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d",
@@ -13221,10 +13195,6 @@
       "url:https://jobs.ashbyhq.com/openai/33b8effb-b048-4934-a279-87fff192a330"
     ],
     "swe-ai-full-time": [
-      "simplify-fcd95104-5b2a-4e23-bb5e-ee0412e59f2c",
-      "url:https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146",
-      "simplify-5158ca83-fadc-46bd-8a9d-7d714853a2c3",
-      "url:https://job-boards.greenhouse.io/roadrunner/jobs/4307451009",
       "greenhouse-airbnb-7783175",
       "url:https://careers.airbnb.com/positions/7783175",
       "simplify-a2dae56d-603c-4e87-a44a-81f631f6e186",
