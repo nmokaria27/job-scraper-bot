@@ -12299,10 +12299,82 @@
     {
       "id": "url:https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13",
       "seen_at": "2026-08-07T22:08:10.191726+00:00"
+    },
+    {
+      "id": "simplify-9d5c67c2-016a-400b-a091-495a945e1778",
+      "seen_at": "2026-08-07T22:57:06.617977+00:00"
+    },
+    {
+      "id": "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
+      "seen_at": "2026-08-07T22:57:06.618285+00:00"
+    },
+    {
+      "id": "simplify-fc66b12e-8d7f-4a0e-b4f6-8f54189941d9",
+      "seen_at": "2026-08-07T22:57:06.618493+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply",
+      "seen_at": "2026-08-07T22:57:06.618659+00:00"
+    },
+    {
+      "id": "simplify-b85eddaf-16be-4f29-9179-6de363f4299b",
+      "seen_at": "2026-08-07T22:57:06.618826+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vardaspace/jobs/7824822003",
+      "seen_at": "2026-08-07T22:57:06.618979+00:00"
+    },
+    {
+      "id": "simplify-d4d7c8e0-a6c3-4abd-933c-fb0fd6204aa9",
+      "seen_at": "2026-08-07T22:57:11.860790+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/ionq/jobs/6096581004",
+      "seen_at": "2026-08-07T22:57:11.861107+00:00"
+    },
+    {
+      "id": "simplify-199e7d94-1625-41cc-861d-a587e1f7b52e",
+      "seen_at": "2026-08-07T22:57:11.861448+00:00"
+    },
+    {
+      "id": "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Associate-BI-Engineer_R048864",
+      "seen_at": "2026-08-07T22:57:11.861675+00:00"
+    },
+    {
+      "id": "simplify-952bbac0-18af-4767-b6a2-6d9e3639a5af",
+      "seen_at": "2026-08-07T22:57:11.861882+00:00"
+    },
+    {
+      "id": "url:https://career-schwab.icims.com/jobs/124804/job",
+      "seen_at": "2026-08-07T22:57:11.862058+00:00"
+    },
+    {
+      "id": "simplify-c9372099-ac31-46fe-82ad-547ac87f1e6f",
+      "seen_at": "2026-08-07T22:57:11.862309+00:00"
+    },
+    {
+      "id": "url:https://careers-riversideresearch.icims.com/jobs/4331/job",
+      "seen_at": "2026-08-07T22:57:11.862521+00:00"
+    },
+    {
+      "id": "simplify-f4b05847-d015-43a2-b07f-482144c9580f",
+      "seen_at": "2026-08-07T22:57:11.862712+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply",
+      "seen_at": "2026-08-07T22:57:11.862881+00:00"
+    },
+    {
+      "id": "simplify-f0b72df2-45e6-4ab7-a7f9-f45c59ba884d",
+      "seen_at": "2026-08-07T22:57:11.863064+00:00"
+    },
+    {
+      "id": "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4044580-1",
+      "seen_at": "2026-08-07T22:57:11.863262+00:00"
     }
   ],
-  "last_run": "2026-08-07T22:08:11.009239+00:00",
-  "total_notified": 2621,
+  "last_run": "2026-08-07T22:57:12.285599+00:00",
+  "total_notified": 2630,
   "channels": {
     "swe-jobs": [
       "simplify-4dc5f31e-e744-4c5c-ac98-baeb6b6f17f3",
@@ -12820,7 +12892,13 @@
       "simplify-768f4b89-5b54-45bb-9e39-72e0b86c8110",
       "url:https://jobs.bytedance.com/en/position/7670855041951795509/detail",
       "simplify-5725405b-6f22-485b-a418-ad3c6148afb4",
-      "url:https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application"
+      "url:https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application",
+      "simplify-9d5c67c2-016a-400b-a091-495a945e1778",
+      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
+      "simplify-fc66b12e-8d7f-4a0e-b4f6-8f54189941d9",
+      "url:https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply",
+      "simplify-b85eddaf-16be-4f29-9179-6de363f4299b",
+      "url:https://job-boards.greenhouse.io/vardaspace/jobs/7824822003"
     ],
     "pm-jobs": [
       "simplify-f6cb85ff-6c83-4b8d-b3eb-d0ae180c4820",
@@ -15392,7 +15470,19 @@
       "greenhouse-vercel-6137983004",
       "url:https://job-boards.greenhouse.io/vercel/jobs/6137983004",
       "greenhouse-robinhood-8109753",
-      "url:https://boards.greenhouse.io/robinhood/jobs/8109753"
+      "url:https://boards.greenhouse.io/robinhood/jobs/8109753",
+      "simplify-d4d7c8e0-a6c3-4abd-933c-fb0fd6204aa9",
+      "url:https://job-boards.greenhouse.io/ionq/jobs/6096581004",
+      "simplify-199e7d94-1625-41cc-861d-a587e1f7b52e",
+      "url:https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Associate-BI-Engineer_R048864",
+      "simplify-952bbac0-18af-4767-b6a2-6d9e3639a5af",
+      "url:https://career-schwab.icims.com/jobs/124804/job",
+      "simplify-c9372099-ac31-46fe-82ad-547ac87f1e6f",
+      "url:https://careers-riversideresearch.icims.com/jobs/4331/job",
+      "simplify-f4b05847-d015-43a2-b07f-482144c9580f",
+      "url:https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply",
+      "simplify-f0b72df2-45e6-4ab7-a7f9-f45c59ba884d",
+      "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4044580-1"
     ]
   }
 }
