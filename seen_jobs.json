@@ -12459,10 +12459,90 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/01091aed-427d-4e10-8cdb-fb500cf55bb9",
       "seen_at": "2026-08-07T23:41:12.044024+00:00"
+    },
+    {
+      "id": "simplify-7ededa5d-af4b-4f9d-80ae-9e03985190e9",
+      "seen_at": "2026-08-08T02:30:25.872965+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply",
+      "seen_at": "2026-08-08T02:30:25.873204+00:00"
+    },
+    {
+      "id": "simplify-aedb4915-aa4d-46c4-9e18-d1b6144d3a70",
+      "seen_at": "2026-08-08T02:30:25.873404+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/apply",
+      "seen_at": "2026-08-08T02:30:25.873579+00:00"
+    },
+    {
+      "id": "simplify-30e36d66-cf25-4851-9655-d22bb0c6d319",
+      "seen_at": "2026-08-08T02:30:25.873752+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7671147251943213317/detail",
+      "seen_at": "2026-08-08T02:30:25.873896+00:00"
+    },
+    {
+      "id": "simplify-81283453-036b-4d9b-bd42-859e788f6308",
+      "seen_at": "2026-08-08T02:30:32.020299+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply",
+      "seen_at": "2026-08-08T02:30:32.020569+00:00"
+    },
+    {
+      "id": "simplify-78eb2dca-9b33-4b7e-a27e-6ac21fe1b6ff",
+      "seen_at": "2026-08-08T02:30:32.020899+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/flexcompute/j/143ECD1848/apply",
+      "seen_at": "2026-08-08T02:30:32.021125+00:00"
+    },
+    {
+      "id": "simplify-75af4966-3c71-447e-9622-da5d0c139e79",
+      "seen_at": "2026-08-08T02:30:32.021308+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/flexcompute/j/EF3D90A736/apply",
+      "seen_at": "2026-08-08T02:30:32.021467+00:00"
+    },
+    {
+      "id": "simplify-63403c85-fbe7-476d-be6a-aa1a080ff05c",
+      "seen_at": "2026-08-08T02:30:32.021631+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/fuse-integration/j/6B54E80594/apply",
+      "seen_at": "2026-08-08T02:30:32.021820+00:00"
+    },
+    {
+      "id": "simplify-aec682d0-cef7-4fab-b024-14111b89bd50",
+      "seen_at": "2026-08-08T02:30:32.021988+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/amax-1/j/FE4BA3799A/apply",
+      "seen_at": "2026-08-08T02:30:32.022145+00:00"
+    },
+    {
+      "id": "ashby-openai-66edf931-b48d-4912-a16d-e7e8e1799d66",
+      "seen_at": "2026-08-08T02:30:32.022303+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/66edf931-b48d-4912-a16d-e7e8e1799d66",
+      "seen_at": "2026-08-08T02:30:32.022457+00:00"
+    },
+    {
+      "id": "ashby-openai-4560b828-7624-414b-9670-6cc9bf0008ad",
+      "seen_at": "2026-08-08T02:30:32.022613+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/4560b828-7624-414b-9670-6cc9bf0008ad",
+      "seen_at": "2026-08-08T02:30:32.022783+00:00"
     }
   ],
-  "last_run": "2026-08-08T00:33:23.430772+00:00",
-  "total_notified": 2665,
+  "last_run": "2026-08-08T02:30:32.157215+00:00",
+  "total_notified": 2675,
   "channels": {
     "swe-jobs": [
       "simplify-1bfc9357-5590-4abc-b602-691403283106",
@@ -13002,7 +13082,13 @@
       "simplify-44950f93-2f35-41ce-9bbc-d82279022aa6",
       "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008",
       "simplify-5cd02bbb-4f1e-49d8-a75c-44f5f6e2e968",
-      "url:https://lifeattiktok.com/search/7671211313289398581"
+      "url:https://lifeattiktok.com/search/7671211313289398581",
+      "simplify-7ededa5d-af4b-4f9d-80ae-9e03985190e9",
+      "url:https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply",
+      "simplify-aedb4915-aa4d-46c4-9e18-d1b6144d3a70",
+      "url:https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/apply",
+      "simplify-30e36d66-cf25-4851-9655-d22bb0c6d319",
+      "url:https://jobs.bytedance.com/en/position/7671147251943213317/detail"
     ],
     "pm-jobs": [
       "simplify-e9577754-da1f-4bdb-a264-cd3538a3eb6a",
@@ -15592,7 +15678,21 @@
       "ashby-openai-5c3a17db-62f1-4145-93b0-2f207d4d4af8",
       "url:https://jobs.ashbyhq.com/openai/5c3a17db-62f1-4145-93b0-2f207d4d4af8",
       "ashby-openai-01091aed-427d-4e10-8cdb-fb500cf55bb9",
-      "url:https://jobs.ashbyhq.com/openai/01091aed-427d-4e10-8cdb-fb500cf55bb9"
+      "url:https://jobs.ashbyhq.com/openai/01091aed-427d-4e10-8cdb-fb500cf55bb9",
+      "simplify-81283453-036b-4d9b-bd42-859e788f6308",
+      "url:https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply",
+      "simplify-78eb2dca-9b33-4b7e-a27e-6ac21fe1b6ff",
+      "url:https://apply.workable.com/flexcompute/j/143ECD1848/apply",
+      "simplify-75af4966-3c71-447e-9622-da5d0c139e79",
+      "url:https://apply.workable.com/flexcompute/j/EF3D90A736/apply",
+      "simplify-63403c85-fbe7-476d-be6a-aa1a080ff05c",
+      "url:https://apply.workable.com/fuse-integration/j/6B54E80594/apply",
+      "simplify-aec682d0-cef7-4fab-b024-14111b89bd50",
+      "url:https://apply.workable.com/amax-1/j/FE4BA3799A/apply",
+      "ashby-openai-66edf931-b48d-4912-a16d-e7e8e1799d66",
+      "url:https://jobs.ashbyhq.com/openai/66edf931-b48d-4912-a16d-e7e8e1799d66",
+      "ashby-openai-4560b828-7624-414b-9670-6cc9bf0008ad",
+      "url:https://jobs.ashbyhq.com/openai/4560b828-7624-414b-9670-6cc9bf0008ad"
     ]
   }
 }
