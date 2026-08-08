@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e",
-      "seen_at": "2026-07-09T11:35:53.725732+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e",
-      "seen_at": "2026-07-09T11:35:53.725888+00:00"
-    },
-    {
-      "id": "ashby-openai-f705c8d4-aa17-469f-80bf-23923a167ed2",
-      "seen_at": "2026-07-09T11:35:53.726072+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/f705c8d4-aa17-469f-80bf-23923a167ed2",
-      "seen_at": "2026-07-09T11:35:53.726191+00:00"
-    },
-    {
       "id": "simplify-1bfc9357-5590-4abc-b602-691403283106",
       "seen_at": "2026-07-09T16:45:36.377587+00:00"
     },
@@ -12235,10 +12219,26 @@
     {
       "id": "url:https://jobs.apple.com/en-us/details/200676744",
       "seen_at": "2026-08-08T07:06:22.279188+00:00"
+    },
+    {
+      "id": "ashby-openai-ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e",
+      "seen_at": "2026-08-08T11:36:43.024346+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e",
+      "seen_at": "2026-08-08T11:36:43.024540+00:00"
+    },
+    {
+      "id": "ashby-openai-f705c8d4-aa17-469f-80bf-23923a167ed2",
+      "seen_at": "2026-08-08T11:36:43.024709+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/f705c8d4-aa17-469f-80bf-23923a167ed2",
+      "seen_at": "2026-08-08T11:36:43.024907+00:00"
     }
   ],
-  "last_run": "2026-08-08T10:54:18.578559+00:00",
-  "total_notified": 2851,
+  "last_run": "2026-08-08T11:36:43.315828+00:00",
+  "total_notified": 2853,
   "channels": {
     "swe-jobs": [
       "simplify-1bfc9357-5590-4abc-b602-691403283106",
@@ -13091,10 +13091,6 @@
       "url:https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Product-Manager_R-10064599"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e",
-      "url:https://jobs.ashbyhq.com/openai/ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e",
-      "ashby-openai-f705c8d4-aa17-469f-80bf-23923a167ed2",
-      "url:https://jobs.ashbyhq.com/openai/f705c8d4-aa17-469f-80bf-23923a167ed2",
       "simplify-7423347c-413f-4216-a33f-3a01fa6f593f",
       "url:https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Nashville-Illinois-US/IT---Programmer_R00223231",
       "simplify-326c806c-b963-4965-966a-eab3c03c37fe",
@@ -15312,7 +15308,11 @@
       "ashby-perplexity-6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc",
       "url:https://jobs.ashbyhq.com/perplexity/6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc",
       "simplify-83116fa6-882c-4fa7-8844-5fdf4d862637",
-      "url:https://jobs.apple.com/en-us/details/200676744"
+      "url:https://jobs.apple.com/en-us/details/200676744",
+      "ashby-openai-ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e",
+      "url:https://jobs.ashbyhq.com/openai/ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e",
+      "ashby-openai-f705c8d4-aa17-469f-80bf-23923a167ed2",
+      "url:https://jobs.ashbyhq.com/openai/f705c8d4-aa17-469f-80bf-23923a167ed2"
     ]
   }
 }
