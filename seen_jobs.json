@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-303863e1-50c9-4dea-849d-4fd88007e2ce",
-      "seen_at": "2026-07-09T08:35:58.204333+00:00"
-    },
-    {
-      "id": "url:https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Associate-Data-Scientist-Data-Scientist_R10238493",
-      "seen_at": "2026-07-09T08:35:58.204470+00:00"
-    },
-    {
       "id": "ashby-openai-ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e",
       "seen_at": "2026-07-09T11:35:53.725732+00:00"
     },
@@ -12245,8 +12237,8 @@
       "seen_at": "2026-08-08T07:06:22.279188+00:00"
     }
   ],
-  "last_run": "2026-08-08T07:56:19.176532+00:00",
-  "total_notified": 2751,
+  "last_run": "2026-08-08T08:53:18.565209+00:00",
+  "total_notified": 2776,
   "channels": {
     "swe-jobs": [
       "simplify-1bfc9357-5590-4abc-b602-691403283106",
@@ -13099,8 +13091,6 @@
       "url:https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Product-Manager_R-10064599"
     ],
     "swe-ai-full-time": [
-      "simplify-303863e1-50c9-4dea-849d-4fd88007e2ce",
-      "url:https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Associate-Data-Scientist-Data-Scientist_R10238493",
       "ashby-openai-ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e",
       "url:https://jobs.ashbyhq.com/openai/ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e",
       "ashby-openai-f705c8d4-aa17-469f-80bf-23923a167ed2",
