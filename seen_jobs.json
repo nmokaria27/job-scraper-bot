@@ -1,10 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-stripe-7685855",
-      "seen_at": "2026-07-09T22:05:28.658938+00:00"
-    },
-    {
       "id": "simplify-6c97854c-c8cd-46cc-b26a-8a3f63aab585",
       "seen_at": "2026-07-09T23:23:51.368897+00:00"
     },
@@ -12133,7 +12129,7 @@
       "seen_at": "2026-08-08T20:40:35.942176+00:00"
     }
   ],
-  "last_run": "2026-08-08T21:48:58.735124+00:00",
+  "last_run": "2026-08-08T22:11:52.611306+00:00",
   "total_notified": 2857,
   "channels": {
     "swe-jobs": [
@@ -12679,7 +12675,6 @@
       "url:https://jobs.bytedance.com/en/position/7671147251943213317/detail"
     ],
     "pm-jobs": [
-      "greenhouse-stripe-7685855",
       "simplify-9b75e0f4-e8c6-4664-826e-c7ec9afc39ad",
       "url:https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--US-Marketing_Req-49106",
       "ashby-openai-004ae8f4-245b-4aad-8903-9daabdb58bb9",
