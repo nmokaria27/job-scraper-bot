@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-8d8f9605-6605-4474-9a61-7960df14b4a0",
-      "seen_at": "2026-07-10T15:58:42.784330+00:00"
-    },
-    {
-      "id": "url:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Berkshire-United-Kingdom/Computer-Vision-R-D-Engineer_R0128079",
-      "seen_at": "2026-07-10T15:58:42.784482+00:00"
-    },
-    {
-      "id": "simplify-49d144b5-0812-45e0-b67c-5d07571de5e5",
-      "seen_at": "2026-07-10T15:58:42.784608+00:00"
-    },
-    {
-      "id": "url:https://amazon.jobs/en/jobs/10420146/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program",
-      "seen_at": "2026-07-10T15:58:42.784714+00:00"
-    },
-    {
-      "id": "simplify-db916c2d-28d2-4779-bbfd-c94cf8269390",
-      "seen_at": "2026-07-10T15:58:42.784825+00:00"
-    },
-    {
-      "id": "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-18822",
-      "seen_at": "2026-07-10T15:58:42.784927+00:00"
-    },
-    {
-      "id": "simplify-9289b63c-3ec5-4fe4-9651-e3feb1b56586",
-      "seen_at": "2026-07-10T15:58:42.785033+00:00"
-    },
-    {
-      "id": "url:https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Application-Developer---Cybersecurity_R0000381258",
-      "seen_at": "2026-07-10T15:58:42.785152+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8055229",
-      "seen_at": "2026-07-10T15:58:42.785276+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8055229",
-      "seen_at": "2026-07-10T15:58:42.785372+00:00"
-    },
-    {
       "id": "ashby-openai-004ae8f4-245b-4aad-8903-9daabdb58bb9",
       "seen_at": "2026-07-10T17:54:49.318961+00:00"
     },
@@ -11817,7 +11777,7 @@
       "seen_at": "2026-08-09T02:37:46.854694+00:00"
     }
   ],
-  "last_run": "2026-08-09T15:50:32.142069+00:00",
+  "last_run": "2026-08-09T16:15:29.181492+00:00",
   "total_notified": 2860,
   "channels": {
     "swe-jobs": [
@@ -12653,16 +12613,6 @@
       "url:https://stripe.com/jobs/search"
     ],
     "swe-ai-full-time": [
-      "simplify-8d8f9605-6605-4474-9a61-7960df14b4a0",
-      "url:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Berkshire-United-Kingdom/Computer-Vision-R-D-Engineer_R0128079",
-      "simplify-49d144b5-0812-45e0-b67c-5d07571de5e5",
-      "url:https://amazon.jobs/en/jobs/10420146/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program",
-      "simplify-db916c2d-28d2-4779-bbfd-c94cf8269390",
-      "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-18822",
-      "simplify-9289b63c-3ec5-4fe4-9651-e3feb1b56586",
-      "url:https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Application-Developer---Cybersecurity_R0000381258",
-      "greenhouse-airbnb-8055229",
-      "url:https://careers.airbnb.com/positions/8055229",
       "greenhouse-figma-5802956004",
       "url:https://boards.greenhouse.io/figma/jobs/5802956004",
       "greenhouse-anthropic-5316565008",
