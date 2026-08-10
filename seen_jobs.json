@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5164820008",
-      "seen_at": "2026-07-11T17:33:27.884546+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5164820008",
-      "seen_at": "2026-07-11T17:33:27.884733+00:00"
-    },
-    {
       "id": "ashby-openai-915a325b-55f6-44e2-8314-34ec0d8bb2c9",
       "seen_at": "2026-07-11T20:32:10.172455+00:00"
     },
@@ -11577,7 +11569,7 @@
       "seen_at": "2026-08-10T17:11:50.155392+00:00"
     }
   ],
-  "last_run": "2026-08-10T17:11:50.391992+00:00",
+  "last_run": "2026-08-10T18:05:56.818289+00:00",
   "total_notified": 2874,
   "channels": {
     "swe-jobs": [
@@ -12115,8 +12107,6 @@
       "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764"
     ],
     "pm-jobs": [
-      "greenhouse-anthropic-5164820008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5164820008",
       "simplify-086c1760-5212-4c66-a2f6-53b20c6f55af",
       "url:https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Digital-Product-Analyst_R88038",
       "ashby-openai-97681dd5-65ad-4eb5-b692-e6d192871c38",
