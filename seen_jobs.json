@@ -11519,10 +11519,58 @@
     {
       "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineeriing-NY-14624/1417495000",
       "seen_at": "2026-08-10T07:58:29.128995+00:00"
+    },
+    {
+      "id": "simplify-fdd7e7ec-c300-4a26-931c-56c3adc48425",
+      "seen_at": "2026-08-10T15:08:57.442718+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7671232204182276405",
+      "seen_at": "2026-08-10T15:08:57.443035+00:00"
+    },
+    {
+      "id": "simplify-d1768aee-f240-4353-b609-278b04785c95",
+      "seen_at": "2026-08-10T15:08:57.443254+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7670839727059339525",
+      "seen_at": "2026-08-10T15:08:57.443414+00:00"
+    },
+    {
+      "id": "simplify-2851e500-7a2b-4e96-a2fa-681730e8d48e",
+      "seen_at": "2026-08-10T15:08:57.443577+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7670839752644233525",
+      "seen_at": "2026-08-10T15:08:57.443738+00:00"
+    },
+    {
+      "id": "simplify-912eecfa-63a9-49e1-8eaf-4ee42653061e",
+      "seen_at": "2026-08-10T15:08:57.443914+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158",
+      "seen_at": "2026-08-10T15:08:57.444070+00:00"
+    },
+    {
+      "id": "simplify-7225ea19-19a0-4919-8853-b1621afa60a9",
+      "seen_at": "2026-08-10T15:08:57.444229+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764",
+      "seen_at": "2026-08-10T15:08:57.444368+00:00"
+    },
+    {
+      "id": "simplify-6dc9143c-6c06-4df4-b661-bc4df745d399",
+      "seen_at": "2026-08-10T15:08:58.892030+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01865154",
+      "seen_at": "2026-08-10T15:08:58.892252+00:00"
     }
   ],
-  "last_run": "2026-08-10T13:59:20.103296+00:00",
-  "total_notified": 2867,
+  "last_run": "2026-08-10T15:08:59.144061+00:00",
+  "total_notified": 2873,
   "channels": {
     "swe-jobs": [
       "simplify-30a79016-bc6f-4525-a5fe-a459b18de455",
@@ -12046,7 +12094,17 @@
       "simplify-30e36d66-cf25-4851-9655-d22bb0c6d319",
       "url:https://jobs.bytedance.com/en/position/7671147251943213317/detail",
       "simplify-08cca5ea-66d4-4c06-bc78-8aa1c6a832e4",
-      "url:https://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior"
+      "url:https://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior",
+      "simplify-fdd7e7ec-c300-4a26-931c-56c3adc48425",
+      "url:https://lifeattiktok.com/search/7671232204182276405",
+      "simplify-d1768aee-f240-4353-b609-278b04785c95",
+      "url:https://lifeattiktok.com/search/7670839727059339525",
+      "simplify-2851e500-7a2b-4e96-a2fa-681730e8d48e",
+      "url:https://lifeattiktok.com/search/7670839752644233525",
+      "simplify-912eecfa-63a9-49e1-8eaf-4ee42653061e",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158",
+      "simplify-7225ea19-19a0-4919-8853-b1621afa60a9",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764"
     ],
     "pm-jobs": [
       "greenhouse-anthropic-5164820008",
@@ -14415,7 +14473,9 @@
       "simplify-607c0322-55ec-4777-815b-f66588579d34",
       "url:https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434473",
       "simplify-50f47dfa-2767-4349-b388-347aa02f6f46",
-      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineeriing-NY-14624/1417495000"
+      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineeriing-NY-14624/1417495000",
+      "simplify-6dc9143c-6c06-4df4-b661-bc4df745d399",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01865154"
     ]
   }
 }
