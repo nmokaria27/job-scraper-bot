@@ -11839,10 +11839,98 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/edabef84-70d8-4c20-a3b2-41a8c9a76417",
       "seen_at": "2026-08-10T23:01:41.223613+00:00"
+    },
+    {
+      "id": "simplify-e87551ad-e266-4369-aa66-b85287a56ea2",
+      "seen_at": "2026-08-10T23:44:06.698027+00:00"
+    },
+    {
+      "id": "url:https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Software-Engineering/362346",
+      "seen_at": "2026-08-10T23:44:06.698211+00:00"
+    },
+    {
+      "id": "simplify-7bbcfe14-7ce8-4103-b65b-a360fd4a2fa3",
+      "seen_at": "2026-08-10T23:44:06.698366+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7671162985123907845/detail",
+      "seen_at": "2026-08-10T23:44:06.698545+00:00"
+    },
+    {
+      "id": "simplify-de926b0a-99e7-4dbd-94cd-334ec565be9f",
+      "seen_at": "2026-08-10T23:44:06.698700+00:00"
+    },
+    {
+      "id": "url:https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us",
+      "seen_at": "2026-08-10T23:44:06.698840+00:00"
+    },
+    {
+      "id": "simplify-01fb5702-b0a0-461a-8f55-9947b864709a",
+      "seen_at": "2026-08-10T23:44:13.882397+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/babelstreet/jobs/8120325",
+      "seen_at": "2026-08-10T23:44:13.882707+00:00"
+    },
+    {
+      "id": "simplify-f1be554a-8058-43b0-9e9f-a72f39eebf4b",
+      "seen_at": "2026-08-10T23:44:13.882893+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7671160649137588485/detail",
+      "seen_at": "2026-08-10T23:44:13.883053+00:00"
+    },
+    {
+      "id": "simplify-9b88d838-aaa3-44f6-ac6c-2f34e6d2a513",
+      "seen_at": "2026-08-10T23:44:13.883221+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7671108456554432773/detail",
+      "seen_at": "2026-08-10T23:44:13.883375+00:00"
+    },
+    {
+      "id": "simplify-42eb9963-840a-46d6-96fd-975e596c839f",
+      "seen_at": "2026-08-10T23:44:13.883553+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7671148355447343365/detail",
+      "seen_at": "2026-08-10T23:44:13.883706+00:00"
+    },
+    {
+      "id": "simplify-3d08df51-8a0b-4720-9b48-2fde50c1cfb3",
+      "seen_at": "2026-08-10T23:44:13.883865+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7671158113903937797/detail",
+      "seen_at": "2026-08-10T23:44:13.884014+00:00"
+    },
+    {
+      "id": "simplify-bf43a447-72a6-4c3d-a02f-6c1f20c138ea",
+      "seen_at": "2026-08-10T23:44:13.884169+00:00"
+    },
+    {
+      "id": "url:https://qualcomm.eightfold.ai/careers/job/446720352855",
+      "seen_at": "2026-08-10T23:44:13.884318+00:00"
+    },
+    {
+      "id": "simplify-06753993-8ac8-46f8-95a2-773c488a8d07",
+      "seen_at": "2026-08-10T23:44:13.884512+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/FSH/71b6506a-10c2-4498-9cff-1009e0582bda/application",
+      "seen_at": "2026-08-10T23:44:13.884694+00:00"
+    },
+    {
+      "id": "simplify-fad9be14-9d62-46ad-bf50-c787ed3b48d5",
+      "seen_at": "2026-08-10T23:44:13.884858+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/nova-talent/14c18114-f371-4ef2-8caa-6c0341777850/application",
+      "seen_at": "2026-08-10T23:44:13.885009+00:00"
     }
   ],
-  "last_run": "2026-08-10T23:01:41.475966+00:00",
-  "total_notified": 2910,
+  "last_run": "2026-08-10T23:44:14.210449+00:00",
+  "total_notified": 2921,
   "channels": {
     "swe-jobs": [
       "simplify-30a79016-bc6f-4525-a5fe-a459b18de455",
@@ -12394,7 +12482,13 @@
       "simplify-3ad0c282-1052-46d1-8033-6d723edf25a5",
       "url:https://job-boards.greenhouse.io/cssmerge/jobs/8693034002",
       "simplify-155f6df6-7cca-471e-8fb1-e8318faa6845",
-      "url:https://www.tesla.com/careers/search/job/279763"
+      "url:https://www.tesla.com/careers/search/job/279763",
+      "simplify-e87551ad-e266-4369-aa66-b85287a56ea2",
+      "url:https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Software-Engineering/362346",
+      "simplify-7bbcfe14-7ce8-4103-b65b-a360fd4a2fa3",
+      "url:https://jobs.bytedance.com/en/position/7671162985123907845/detail",
+      "simplify-de926b0a-99e7-4dbd-94cd-334ec565be9f",
+      "url:https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us"
     ],
     "pm-jobs": [
       "simplify-086c1760-5212-4c66-a2f6-53b20c6f55af",
@@ -14815,7 +14909,23 @@
       "simplify-aa8f8c78-313a-41e4-b996-661755cc45df",
       "url:https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995",
       "ashby-openai-edabef84-70d8-4c20-a3b2-41a8c9a76417",
-      "url:https://jobs.ashbyhq.com/openai/edabef84-70d8-4c20-a3b2-41a8c9a76417"
+      "url:https://jobs.ashbyhq.com/openai/edabef84-70d8-4c20-a3b2-41a8c9a76417",
+      "simplify-01fb5702-b0a0-461a-8f55-9947b864709a",
+      "url:https://job-boards.greenhouse.io/babelstreet/jobs/8120325",
+      "simplify-f1be554a-8058-43b0-9e9f-a72f39eebf4b",
+      "url:https://jobs.bytedance.com/en/position/7671160649137588485/detail",
+      "simplify-9b88d838-aaa3-44f6-ac6c-2f34e6d2a513",
+      "url:https://jobs.bytedance.com/en/position/7671108456554432773/detail",
+      "simplify-42eb9963-840a-46d6-96fd-975e596c839f",
+      "url:https://jobs.bytedance.com/en/position/7671148355447343365/detail",
+      "simplify-3d08df51-8a0b-4720-9b48-2fde50c1cfb3",
+      "url:https://jobs.bytedance.com/en/position/7671158113903937797/detail",
+      "simplify-bf43a447-72a6-4c3d-a02f-6c1f20c138ea",
+      "url:https://qualcomm.eightfold.ai/careers/job/446720352855",
+      "simplify-06753993-8ac8-46f8-95a2-773c488a8d07",
+      "url:https://jobs.ashbyhq.com/FSH/71b6506a-10c2-4498-9cff-1009e0582bda/application",
+      "simplify-fad9be14-9d62-46ad-bf50-c787ed3b48d5",
+      "url:https://jobs.ashbyhq.com/nova-talent/14c18114-f371-4ef2-8caa-6c0341777850/application"
     ]
   }
 }
