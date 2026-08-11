@@ -12051,10 +12051,18 @@
     {
       "id": "greenhouse-stripe-7982720",
       "seen_at": "2026-08-11T15:08:56.791729+00:00"
+    },
+    {
+      "id": "greenhouse-lyft-8559583002",
+      "seen_at": "2026-08-11T16:12:45.893748+00:00"
+    },
+    {
+      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8559583002",
+      "seen_at": "2026-08-11T16:12:45.893952+00:00"
     }
   ],
-  "last_run": "2026-08-11T15:08:57.105918+00:00",
-  "total_notified": 2940,
+  "last_run": "2026-08-11T16:12:46.185918+00:00",
+  "total_notified": 2941,
   "channels": {
     "swe-jobs": [
       "simplify-30a79016-bc6f-4525-a5fe-a459b18de455",
@@ -15081,7 +15089,9 @@
       "simplify-2809c412-027a-46b1-83e3-20ca7d2532eb",
       "url:https://jobs.l3harris.com/job/Fall-River-Associate,-Field-Engineering-MA-02723/1418079500",
       "greenhouse-stripe-7982720",
-      "url:https://stripe.com/jobs/search"
+      "url:https://stripe.com/jobs/search",
+      "greenhouse-lyft-8559583002",
+      "url:https://app.careerpuck.com/job-board/lyft/job/8559583002"
     ]
   }
 }
