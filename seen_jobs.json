@@ -12851,10 +12851,66 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/d1c6cb87-a44d-4d04-92a8-dc40eccd090e",
       "seen_at": "2026-08-12T20:18:16.451353+00:00"
+    },
+    {
+      "id": "simplify-26469c50-c009-48da-9415-b146a1d441df",
+      "seen_at": "2026-08-12T21:06:29.643322+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/assuredguaranty/jobs/8700953002",
+      "seen_at": "2026-08-12T21:06:29.643545+00:00"
+    },
+    {
+      "id": "simplify-b09599dd-d189-40a2-acad-f4fe1006ed76",
+      "seen_at": "2026-08-12T21:06:29.643742+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply",
+      "seen_at": "2026-08-12T21:06:29.643921+00:00"
+    },
+    {
+      "id": "simplify-6a24db4e-df46-4cfb-94c1-a7709787033d",
+      "seen_at": "2026-08-12T21:06:29.644102+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply",
+      "seen_at": "2026-08-12T21:06:29.644289+00:00"
+    },
+    {
+      "id": "simplify-8805a32d-c38e-4a8a-8843-ed203eec617f",
+      "seen_at": "2026-08-12T21:06:29.644441+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
+      "seen_at": "2026-08-12T21:06:29.644589+00:00"
+    },
+    {
+      "id": "simplify-4b6397d8-4d17-49a1-b825-b676fb076798",
+      "seen_at": "2026-08-12T21:06:33.681563+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/vectoratomic/j/00C9C6A8E4/apply",
+      "seen_at": "2026-08-12T21:06:33.681811+00:00"
+    },
+    {
+      "id": "simplify-49a0cdeb-234c-424e-bf83-6b00a8e87119",
+      "seen_at": "2026-08-12T21:06:33.682031+00:00"
+    },
+    {
+      "id": "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Assoc-Engineer--Software_REQ367425-1",
+      "seen_at": "2026-08-12T21:06:33.682248+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5302966008",
+      "seen_at": "2026-08-12T21:06:33.682458+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5302966008",
+      "seen_at": "2026-08-12T21:06:33.682655+00:00"
     }
   ],
-  "last_run": "2026-08-12T20:18:16.710936+00:00",
-  "total_notified": 3056,
+  "last_run": "2026-08-12T21:06:33.973829+00:00",
+  "total_notified": 3063,
   "channels": {
     "swe-jobs": [
       "simplify-30a79016-bc6f-4525-a5fe-a459b18de455",
@@ -13472,7 +13528,15 @@
       "simplify-0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
       "url:https://lifeattiktok.com/search/7672881840860940597",
       "simplify-05cc6b19-1ebc-4435-b908-56f4805a54d3",
-      "url:https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843"
+      "url:https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843",
+      "simplify-26469c50-c009-48da-9415-b146a1d441df",
+      "url:https://boards.greenhouse.io/assuredguaranty/jobs/8700953002",
+      "simplify-b09599dd-d189-40a2-acad-f4fe1006ed76",
+      "url:https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply",
+      "simplify-6a24db4e-df46-4cfb-94c1-a7709787033d",
+      "url:https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply",
+      "simplify-8805a32d-c38e-4a8a-8843-ed203eec617f",
+      "url:https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply"
     ],
     "pm-jobs": [
       "simplify-fdcce4dd-7800-4e80-bc0f-fa79d580e58c",
@@ -16082,7 +16146,13 @@
       "ashby-openai-fff02c39-1185-427c-bf89-70d7eaa5e3db",
       "url:https://jobs.ashbyhq.com/openai/fff02c39-1185-427c-bf89-70d7eaa5e3db",
       "ashby-openai-d1c6cb87-a44d-4d04-92a8-dc40eccd090e",
-      "url:https://jobs.ashbyhq.com/openai/d1c6cb87-a44d-4d04-92a8-dc40eccd090e"
+      "url:https://jobs.ashbyhq.com/openai/d1c6cb87-a44d-4d04-92a8-dc40eccd090e",
+      "simplify-4b6397d8-4d17-49a1-b825-b676fb076798",
+      "url:https://apply.workable.com/vectoratomic/j/00C9C6A8E4/apply",
+      "simplify-49a0cdeb-234c-424e-bf83-6b00a8e87119",
+      "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Assoc-Engineer--Software_REQ367425-1",
+      "greenhouse-anthropic-5302966008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5302966008"
     ]
   }
 }
