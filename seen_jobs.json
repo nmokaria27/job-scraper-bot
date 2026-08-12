@@ -12559,10 +12559,106 @@
     {
       "id": "url:https://boards.greenhouse.io/figma/jobs/6100023004",
       "seen_at": "2026-08-12T00:44:52.769467+00:00"
+    },
+    {
+      "id": "simplify-63848af9-c211-4b79-b264-401610b828f6",
+      "seen_at": "2026-08-12T03:13:46.976635+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674047363",
+      "seen_at": "2026-08-12T03:13:46.976874+00:00"
+    },
+    {
+      "id": "simplify-d77ab18e-96cd-4110-89ca-b38044f2e7d6",
+      "seen_at": "2026-08-12T03:13:46.977132+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/AbbVie/3743990014551564",
+      "seen_at": "2026-08-12T03:13:46.977317+00:00"
+    },
+    {
+      "id": "simplify-d44d7dc7-8912-4b2f-969c-4ea8f0ba6eab",
+      "seen_at": "2026-08-12T03:13:46.977505+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/RetailInformationSystems/84362761",
+      "seen_at": "2026-08-12T03:13:46.977680+00:00"
+    },
+    {
+      "id": "simplify-5ccab6b5-7969-43fe-9774-e707fa607b1b",
+      "seen_at": "2026-08-12T03:13:46.977853+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209089",
+      "seen_at": "2026-08-12T03:13:46.978028+00:00"
+    },
+    {
+      "id": "simplify-13719d38-34eb-47e9-93f0-7b6571a6375e",
+      "seen_at": "2026-08-12T03:13:46.978198+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674053935",
+      "seen_at": "2026-08-12T03:13:46.978356+00:00"
+    },
+    {
+      "id": "simplify-fd15571c-45e4-401e-a770-63dbf731403c",
+      "seen_at": "2026-08-12T03:13:46.978553+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672883737036654853",
+      "seen_at": "2026-08-12T03:13:46.978716+00:00"
+    },
+    {
+      "id": "simplify-d97157b9-8f0c-4cfb-be47-a801be8548ae",
+      "seen_at": "2026-08-12T03:13:46.978882+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672882500030138629",
+      "seen_at": "2026-08-12T03:13:46.979055+00:00"
+    },
+    {
+      "id": "simplify-cde17d88-b571-4ece-be7c-9bd87c212bce",
+      "seen_at": "2026-08-12T03:13:46.979218+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672877778696407301",
+      "seen_at": "2026-08-12T03:13:46.979377+00:00"
+    },
+    {
+      "id": "simplify-b22a26e1-15a6-4e32-89fb-f2378da11dd1",
+      "seen_at": "2026-08-12T03:13:46.979543+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672879948538284341",
+      "seen_at": "2026-08-12T03:13:46.979707+00:00"
+    },
+    {
+      "id": "simplify-511e7c10-e092-4a5a-8187-fe5563536b99",
+      "seen_at": "2026-08-12T03:13:46.979881+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672654026594093317",
+      "seen_at": "2026-08-12T03:13:46.980056+00:00"
+    },
+    {
+      "id": "simplify-408e20cf-c3dc-45af-b899-339fc8e2925a",
+      "seen_at": "2026-08-12T03:13:46.980225+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672880386574338309",
+      "seen_at": "2026-08-12T03:13:46.980380+00:00"
+    },
+    {
+      "id": "simplify-07c10a29-94ab-4223-bb97-af5572d30bc6",
+      "seen_at": "2026-08-12T03:13:46.980542+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672656091025066293",
+      "seen_at": "2026-08-12T03:13:46.980704+00:00"
     }
   ],
-  "last_run": "2026-08-12T00:44:53.067557+00:00",
-  "total_notified": 3009,
+  "last_run": "2026-08-12T03:13:47.223378+00:00",
+  "total_notified": 3021,
   "channels": {
     "swe-jobs": [
       "simplify-30a79016-bc6f-4525-a5fe-a459b18de455",
@@ -15717,7 +15813,31 @@
       "greenhouse-figma-5691886004",
       "url:https://boards.greenhouse.io/figma/jobs/5691886004",
       "greenhouse-figma-6100023004",
-      "url:https://boards.greenhouse.io/figma/jobs/6100023004"
+      "url:https://boards.greenhouse.io/figma/jobs/6100023004",
+      "simplify-63848af9-c211-4b79-b264-401610b828f6",
+      "url:https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674047363",
+      "simplify-d77ab18e-96cd-4110-89ca-b38044f2e7d6",
+      "url:https://jobs.smartrecruiters.com/AbbVie/3743990014551564",
+      "simplify-d44d7dc7-8912-4b2f-969c-4ea8f0ba6eab",
+      "url:https://jobs.smartrecruiters.com/RetailInformationSystems/84362761",
+      "simplify-5ccab6b5-7969-43fe-9774-e707fa607b1b",
+      "url:https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209089",
+      "simplify-13719d38-34eb-47e9-93f0-7b6571a6375e",
+      "url:https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674053935",
+      "simplify-fd15571c-45e4-401e-a770-63dbf731403c",
+      "url:https://lifeattiktok.com/search/7672883737036654853",
+      "simplify-d97157b9-8f0c-4cfb-be47-a801be8548ae",
+      "url:https://lifeattiktok.com/search/7672882500030138629",
+      "simplify-cde17d88-b571-4ece-be7c-9bd87c212bce",
+      "url:https://lifeattiktok.com/search/7672877778696407301",
+      "simplify-b22a26e1-15a6-4e32-89fb-f2378da11dd1",
+      "url:https://lifeattiktok.com/search/7672879948538284341",
+      "simplify-511e7c10-e092-4a5a-8187-fe5563536b99",
+      "url:https://lifeattiktok.com/search/7672654026594093317",
+      "simplify-408e20cf-c3dc-45af-b899-339fc8e2925a",
+      "url:https://lifeattiktok.com/search/7672880386574338309",
+      "simplify-07c10a29-94ab-4223-bb97-af5572d30bc6",
+      "url:https://lifeattiktok.com/search/7672656091025066293"
     ]
   }
 }
