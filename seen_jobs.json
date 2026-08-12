@@ -12655,10 +12655,74 @@
     {
       "id": "url:https://lifeattiktok.com/search/7672656091025066293",
       "seen_at": "2026-08-12T03:13:46.980704+00:00"
+    },
+    {
+      "id": "simplify-cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
+      "seen_at": "2026-08-12T05:08:24.296130+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/279600",
+      "seen_at": "2026-08-12T05:08:24.296455+00:00"
+    },
+    {
+      "id": "simplify-f2a032d3-8549-4c56-895d-10d70eec9514",
+      "seen_at": "2026-08-12T05:08:30.545593+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application",
+      "seen_at": "2026-08-12T05:08:30.545935+00:00"
+    },
+    {
+      "id": "simplify-fb0623ca-1ed7-4273-adcc-dda455705721",
+      "seen_at": "2026-08-12T05:08:30.546205+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/truveta/jobs/6140479004",
+      "seen_at": "2026-08-12T05:08:30.546412+00:00"
+    },
+    {
+      "id": "simplify-dba5405f-12de-4a7e-a7b7-323dd31fc670",
+      "seen_at": "2026-08-12T05:08:30.546604+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7671034858089040181/detail",
+      "seen_at": "2026-08-12T05:08:30.546821+00:00"
+    },
+    {
+      "id": "simplify-09ed1754-b65e-4a83-a305-e5158633c52c",
+      "seen_at": "2026-08-12T05:08:30.547020+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7670354624860703029/detail",
+      "seen_at": "2026-08-12T05:08:30.547202+00:00"
+    },
+    {
+      "id": "simplify-64b41a7b-4a92-4d69-bc33-95786288e3cd",
+      "seen_at": "2026-08-12T05:08:30.547379+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7668855566150732037/detail",
+      "seen_at": "2026-08-12T05:08:30.547540+00:00"
+    },
+    {
+      "id": "simplify-efce5219-1cf8-43b3-8bf5-2c597a91a8dd",
+      "seen_at": "2026-08-12T05:08:30.547733+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7671033602288912645/detail",
+      "seen_at": "2026-08-12T05:08:30.547909+00:00"
+    },
+    {
+      "id": "simplify-66396035-7ef7-4576-a4e0-7487fd68616c",
+      "seen_at": "2026-08-12T05:08:30.548084+00:00"
+    },
+    {
+      "id": "url:https://drhorton.taleo.net/careersection/2/jobdetail.ftl",
+      "seen_at": "2026-08-12T05:08:30.548245+00:00"
     }
   ],
-  "last_run": "2026-08-12T03:13:47.223378+00:00",
-  "total_notified": 3021,
+  "last_run": "2026-08-12T05:08:30.882261+00:00",
+  "total_notified": 3029,
   "channels": {
     "swe-jobs": [
       "simplify-30a79016-bc6f-4525-a5fe-a459b18de455",
@@ -13262,7 +13326,9 @@
       "simplify-4928dfb2-7a20-4da6-8405-a591089e515c",
       "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
       "simplify-d01ebc03-05a8-45ae-90cb-8456c83c83e2",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842",
+      "simplify-cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
+      "url:https://www.tesla.com/careers/search/job/279600"
     ],
     "pm-jobs": [
       "simplify-086c1760-5212-4c66-a2f6-53b20c6f55af",
@@ -15837,7 +15903,21 @@
       "simplify-408e20cf-c3dc-45af-b899-339fc8e2925a",
       "url:https://lifeattiktok.com/search/7672880386574338309",
       "simplify-07c10a29-94ab-4223-bb97-af5572d30bc6",
-      "url:https://lifeattiktok.com/search/7672656091025066293"
+      "url:https://lifeattiktok.com/search/7672656091025066293",
+      "simplify-f2a032d3-8549-4c56-895d-10d70eec9514",
+      "url:https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application",
+      "simplify-fb0623ca-1ed7-4273-adcc-dda455705721",
+      "url:https://job-boards.greenhouse.io/truveta/jobs/6140479004",
+      "simplify-dba5405f-12de-4a7e-a7b7-323dd31fc670",
+      "url:https://jobs.bytedance.com/en/position/7671034858089040181/detail",
+      "simplify-09ed1754-b65e-4a83-a305-e5158633c52c",
+      "url:https://jobs.bytedance.com/en/position/7670354624860703029/detail",
+      "simplify-64b41a7b-4a92-4d69-bc33-95786288e3cd",
+      "url:https://jobs.bytedance.com/en/position/7668855566150732037/detail",
+      "simplify-efce5219-1cf8-43b3-8bf5-2c597a91a8dd",
+      "url:https://jobs.bytedance.com/en/position/7671033602288912645/detail",
+      "simplify-66396035-7ef7-4576-a4e0-7487fd68616c",
+      "url:https://drhorton.taleo.net/careersection/2/jobdetail.ftl"
     ]
   }
 }
