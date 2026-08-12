@@ -12543,10 +12543,26 @@
     {
       "id": "url:https://www.pathai.com/careers/8696764002",
       "seen_at": "2026-08-11T23:52:05.475331+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5691886004",
+      "seen_at": "2026-08-12T00:44:52.768771+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5691886004",
+      "seen_at": "2026-08-12T00:44:52.769086+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6100023004",
+      "seen_at": "2026-08-12T00:44:52.769305+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6100023004",
+      "seen_at": "2026-08-12T00:44:52.769467+00:00"
     }
   ],
-  "last_run": "2026-08-11T23:52:05.732541+00:00",
-  "total_notified": 3007,
+  "last_run": "2026-08-12T00:44:53.067557+00:00",
+  "total_notified": 3009,
   "channels": {
     "swe-jobs": [
       "simplify-30a79016-bc6f-4525-a5fe-a459b18de455",
@@ -15697,7 +15713,11 @@
       "simplify-d3435562-7d30-441f-b281-666a67529b9b",
       "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/System-Engineer---OS-Kernel_J000701249",
       "simplify-4e2d4aa8-3825-4d49-bb96-d3194a6ced1f",
-      "url:https://www.pathai.com/careers/8696764002"
+      "url:https://www.pathai.com/careers/8696764002",
+      "greenhouse-figma-5691886004",
+      "url:https://boards.greenhouse.io/figma/jobs/5691886004",
+      "greenhouse-figma-6100023004",
+      "url:https://boards.greenhouse.io/figma/jobs/6100023004"
     ]
   }
 }
