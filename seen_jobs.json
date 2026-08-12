@@ -12735,10 +12735,58 @@
     {
       "id": "url:https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893/application",
       "seen_at": "2026-08-12T12:26:30.166647+00:00"
+    },
+    {
+      "id": "simplify-cbc9cae5-131c-4da5-9664-90601d74f6de",
+      "seen_at": "2026-08-12T15:06:49.098726+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672517471946000645",
+      "seen_at": "2026-08-12T15:06:49.098961+00:00"
+    },
+    {
+      "id": "simplify-d18e7a7d-54ff-4946-bca8-1bdb2a671a6f",
+      "seen_at": "2026-08-12T15:06:49.099202+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672518398222387461",
+      "seen_at": "2026-08-12T15:06:49.099378+00:00"
+    },
+    {
+      "id": "simplify-4ec8e592-f297-479a-ab56-d80abf24fa27",
+      "seen_at": "2026-08-12T15:06:49.099551+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672532275557583157",
+      "seen_at": "2026-08-12T15:06:49.099718+00:00"
+    },
+    {
+      "id": "simplify-b7fadd8a-1f88-4b03-9fa5-8befef1a3a26",
+      "seen_at": "2026-08-12T15:06:49.099886+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672532801686571317",
+      "seen_at": "2026-08-12T15:06:49.100035+00:00"
+    },
+    {
+      "id": "simplify-a09f224d-f684-4fb4-915b-6dbc5f486570",
+      "seen_at": "2026-08-12T15:06:49.100202+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672911151560296709",
+      "seen_at": "2026-08-12T15:06:49.100367+00:00"
+    },
+    {
+      "id": "simplify-8676c704-b2ee-4643-8fbc-9ad19fa89fa4",
+      "seen_at": "2026-08-12T15:06:49.100531+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672915427278457141",
+      "seen_at": "2026-08-12T15:06:49.100705+00:00"
     }
   ],
-  "last_run": "2026-08-12T14:01:15.978301+00:00",
-  "total_notified": 3032,
+  "last_run": "2026-08-12T15:06:49.314886+00:00",
+  "total_notified": 3038,
   "channels": {
     "swe-jobs": [
       "simplify-30a79016-bc6f-4525-a5fe-a459b18de455",
@@ -15937,7 +15985,19 @@
       "simplify-efce5219-1cf8-43b3-8bf5-2c597a91a8dd",
       "url:https://jobs.bytedance.com/en/position/7671033602288912645/detail",
       "simplify-66396035-7ef7-4576-a4e0-7487fd68616c",
-      "url:https://drhorton.taleo.net/careersection/2/jobdetail.ftl"
+      "url:https://drhorton.taleo.net/careersection/2/jobdetail.ftl",
+      "simplify-cbc9cae5-131c-4da5-9664-90601d74f6de",
+      "url:https://lifeattiktok.com/search/7672517471946000645",
+      "simplify-d18e7a7d-54ff-4946-bca8-1bdb2a671a6f",
+      "url:https://lifeattiktok.com/search/7672518398222387461",
+      "simplify-4ec8e592-f297-479a-ab56-d80abf24fa27",
+      "url:https://lifeattiktok.com/search/7672532275557583157",
+      "simplify-b7fadd8a-1f88-4b03-9fa5-8befef1a3a26",
+      "url:https://lifeattiktok.com/search/7672532801686571317",
+      "simplify-a09f224d-f684-4fb4-915b-6dbc5f486570",
+      "url:https://lifeattiktok.com/search/7672911151560296709",
+      "simplify-8676c704-b2ee-4643-8fbc-9ad19fa89fa4",
+      "url:https://lifeattiktok.com/search/7672915427278457141"
     ]
   }
 }
