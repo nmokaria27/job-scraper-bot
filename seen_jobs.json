@@ -12719,10 +12719,26 @@
     {
       "id": "url:https://drhorton.taleo.net/careersection/2/jobdetail.ftl",
       "seen_at": "2026-08-12T05:08:30.548245+00:00"
+    },
+    {
+      "id": "simplify-e9c6fbb2-27a0-4da8-bd66-1d4be992ae95",
+      "seen_at": "2026-08-12T06:45:43.161842+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967",
+      "seen_at": "2026-08-12T06:45:43.162089+00:00"
+    },
+    {
+      "id": "simplify-8ea8d323-6e8b-4380-b4c1-2367ba88c40f",
+      "seen_at": "2026-08-12T06:45:43.162325+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193",
+      "seen_at": "2026-08-12T06:45:43.162483+00:00"
     }
   ],
-  "last_run": "2026-08-12T05:08:30.882261+00:00",
-  "total_notified": 3029,
+  "last_run": "2026-08-12T06:45:44.802683+00:00",
+  "total_notified": 3031,
   "channels": {
     "swe-jobs": [
       "simplify-30a79016-bc6f-4525-a5fe-a459b18de455",
@@ -13328,7 +13344,11 @@
       "simplify-d01ebc03-05a8-45ae-90cb-8456c83c83e2",
       "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842",
       "simplify-cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
-      "url:https://www.tesla.com/careers/search/job/279600"
+      "url:https://www.tesla.com/careers/search/job/279600",
+      "simplify-e9c6fbb2-27a0-4da8-bd66-1d4be992ae95",
+      "url:https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967",
+      "simplify-8ea8d323-6e8b-4380-b4c1-2367ba88c40f",
+      "url:https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193"
     ],
     "pm-jobs": [
       "simplify-086c1760-5212-4c66-a2f6-53b20c6f55af",
