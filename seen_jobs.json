@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-figma-5982942004",
-      "seen_at": "2026-07-14T10:20:22.395880+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5982942004",
-      "seen_at": "2026-07-14T10:20:22.396016+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5195866008",
-      "seen_at": "2026-07-14T10:20:22.396128+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5195866008",
-      "seen_at": "2026-07-14T10:20:22.396221+00:00"
-    },
-    {
       "id": "simplify-adbf2084-9827-4147-b0e6-4e073febca40",
       "seen_at": "2026-07-14T12:55:19.177321+00:00"
     },
@@ -26683,10 +26667,26 @@
     {
       "id": "url:https://lifeattiktok.com/search/7670288355678177589",
       "seen_at": "2026-08-13T09:35:16.476708+00:00"
+    },
+    {
+      "id": "jobright-a9feff658b0b",
+      "seen_at": "2026-08-13T10:40:10.759992+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff",
+      "seen_at": "2026-08-13T10:40:10.760490+00:00"
+    },
+    {
+      "id": "jobright-c3c88e54fb2d",
+      "seen_at": "2026-08-13T10:40:10.760885+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a3256420ff23769fdb22385",
+      "seen_at": "2026-08-13T10:40:10.761260+00:00"
     }
   ],
-  "last_run": "2026-08-13T09:35:16.795993+00:00",
-  "total_notified": 3128,
+  "last_run": "2026-08-13T10:40:11.398737+00:00",
+  "total_notified": 3130,
   "channels": {
     "swe-jobs": [
       "simplify-db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
@@ -28346,10 +28346,6 @@
       "url:https://www.tesla.com/careers/search/job/279991"
     ],
     "pm-jobs": [
-      "greenhouse-figma-5982942004",
-      "url:https://boards.greenhouse.io/figma/jobs/5982942004",
-      "greenhouse-anthropic-5195866008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5195866008",
       "simplify-daba9493-b756-4c3b-b888-d4045ed38a71",
       "url:https://careers-calamp.icims.com/jobs/4349/job",
       "simplify-ca3c4c33-a29c-4e45-a4dd-dd24692b6428",
@@ -28929,7 +28925,11 @@
       "simplify-b1987375-88b8-4b60-991b-fd7c5a4c1481",
       "url:https://lifeattiktok.com/search/7673256057754290437",
       "simplify-7d5cd44a-3181-49ee-88bc-83e27e241535",
-      "url:https://tnuck.bamboohr.com/careers/273"
+      "url:https://tnuck.bamboohr.com/careers/273",
+      "jobright-a9feff658b0b",
+      "url:https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff",
+      "jobright-c3c88e54fb2d",
+      "url:https://jobright.ai/jobs/info/6a3256420ff23769fdb22385"
     ],
     "swe-ai-full-time": [
       "simplify-adbf2084-9827-4147-b0e6-4e073febca40",
