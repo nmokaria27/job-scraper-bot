@@ -1,6 +1,6 @@
 # Job Scraper Discord Bot
 
-Scrapes job postings from Greenhouse, Lever, Ashby, SimplifyJobs, and Hacker News every 15 minutes (off-peak schedule) and sends rich Discord notifications for new matches. Supports one Discord channel or multiple channels with separate keyword/location filters. Runs entirely on GitHub Actions — no server, no database, no cost.
+Scrapes job postings from Greenhouse, Lever, Ashby, SimplifyJobs (+ vanshb03), SpeedyApply, JobRight, and Hacker News every 15 minutes (off-peak schedule) and sends rich Discord notifications for new matches. Supports one Discord channel or multiple channels with separate keyword/location filters. Runs entirely on GitHub Actions — no server, no database, no cost.
 
 ## How it works
 
@@ -227,7 +227,8 @@ Go to **Actions** tab → **Job Scraper** → **Run workflow** button.
 │   ├── base.py                    # Job dataclass + abstract BaseScraper
 │   ├── greenhouse.py              # Greenhouse ATS scraper
 │   ├── lever.py                   # Lever ATS scraper
-│   └── ashby.py                   # Ashby ATS scraper
+│   ├── ashby.py                   # Ashby ATS scraper
+│   └── markdown_table.py          # SpeedyApply + JobRight GitHub-README scrapers
 ├── companies.py                   # Master list of companies to scrape
 ├── discover_companies.py          # ATS slug discovery + API validation
 ├── config.py                      # Env/channel loading + defaults

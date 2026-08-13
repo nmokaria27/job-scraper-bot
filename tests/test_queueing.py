@@ -1,4 +1,5 @@
 import unittest
+from datetime import datetime, timedelta, timezone
 from unittest.mock import AsyncMock, patch, MagicMock
 import sys
 
@@ -20,7 +21,7 @@ def _job(job_id: str, title: str) -> Job:
         location="Remote",
         url=f"https://example.com/{job_id}",
         platform="greenhouse",
-        posted_at="2026-05-20T20:00:00+00:00",
+        posted_at=posted_at,
     )
 
 

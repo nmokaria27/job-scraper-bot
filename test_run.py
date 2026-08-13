@@ -33,6 +33,7 @@ from scrapers.greenhouse import GreenhouseScraper
 from scrapers.lever import LeverScraper
 from scrapers.simplify import SimplifyScraper
 from scrapers.hackernews import HackerNewsScraper
+from scrapers.markdown_table import SpeedyApplyScraper, JobRightScraper
 
 def _parse_hours() -> int | None:
     """Return the value of --hours N if present, else None."""
@@ -115,6 +116,48 @@ async def test_simplify(hours: int | None) -> None:
         _print_jobs(jobs, limit=10)
 
 
+async def test_speedyapply(hours: int | None) -> None:
+    """Test SpeedyApply — fetch jobs from markdown tables."""
+    print("=" * 60)
+    print("SpeedyApply Test Run")
+    note = f" (last {hours}h)" if hours else " (showing first 10)"
+    print(f"Fetching job listings{note}...")
+    print("No Discord notifications. No file writes.")
+    print("=" * 60)
+
+    scraper = SpeedyApplyScraper()
+    jobs = await scraper.fetch_jobs()
+
+    if hours:
+        before = len(jobs)
+        jobs = _filter_by_recency(jobs, hours)
+        print(f"  → {len(jobs)} of {before} jobs posted in last {hours}h")
+        _print_jobs(jobs)
+    else:
+        _print_jobs(jobs, limit=10)
+
+
+async def test_jobright(hours: int | None) -> None:
+    """Test JobRight — fetch PM jobs from markdown tables."""
+    print("=" * 60)
+    print("JobRight Test Run")
+    note = f" (last {hours}h)" if hours else " (showing first 10)"
+    print(f"Fetching job listings{note}...")
+    print("No Discord notifications. No file writes.")
+    print("=" * 60)
+
+    scraper = JobRightScraper()
+    jobs = await scraper.fetch_jobs()
+
+    if hours:
+        before = len(jobs)
+        jobs = _filter_by_recency(jobs, hours)
+        print(f"  → {len(jobs)} of {before} jobs posted in last {hours}h")
+        _print_jobs(jobs)
+    else:
+        _print_jobs(jobs, limit=10)
+
+
 async def test_ats(hours: int | None) -> None:
     """Test ATS scrapers (Greenhouse, Lever, Ashby) with optional recency filter."""
     print("=" * 60)
@@ -167,6 +210,10 @@ async def main() -> None:
     hours = _parse_hours()
     if "--simplify" in sys.argv:
         await test_simplify(hours)
+    elif "--speedyapply" in sys.argv:
+        await test_speedyapply(hours)
+    elif "--jobright" in sys.argv:
+        await test_jobright(hours)
     else:
         await test_ats(hours)
 

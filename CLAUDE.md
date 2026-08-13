@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this project is
 
-A Python async job scraper that runs on GitHub Actions (free, no server). It scrapes Greenhouse, Lever, Ashby, SimplifyJobs, and HackerNews every 15 minutes, deduplicates against `seen_jobs.json`, and posts new matches to Discord webhooks. Supports multiple Discord channels with independent keyword/location filters.
+A Python async job scraper that runs on GitHub Actions (free, no server). It scrapes Greenhouse, Lever, Ashby, SimplifyJobs (+ vanshb03, same JSON format), SpeedyApply, JobRight, and HackerNews every 15 minutes, deduplicates against `seen_jobs.json`, and posts new matches to Discord webhooks. Supports multiple Discord channels with independent keyword/location filters.
 
 ## Commands
 
@@ -43,7 +43,9 @@ python -m py_compile main.py config.py discord_notifier.py scrapers/base.py
 GitHub Actions cron (every 15 min)
   → main.py
       → scrape_all_raw()           # fetches ALL jobs, no filtering
-          → SimplifyScraper        # bulk: Summer2026 + New-Grad JSON repos
+          → SimplifyScraper        # bulk: Summer2026 + New-Grad + vanshb03 JSON repos
+          → SpeedyApplyScraper     # bulk: speedyapply markdown-table repos (SWE/AI)
+          → JobRightScraper        # bulk: jobright-ai markdown-table repos (PM)
           → HackerNewsScraper      # bulk: "Who is Hiring?" thread
           → GreenhouseScraper      # per-company via companies.get_companies()
           → LeverScraper           # per-company
@@ -83,7 +85,7 @@ GitHub Actions cron (every 15 min)
 - Static slugs in `companies.py` (`COMPANIES` dict)
 - Dynamically discovered slugs from `discovered_companies.json` (controlled by `INCLUDE_DISCOVERED_COMPANIES` env var)
 
-Bulk scrapers (`simplify`, `hackernews`) use empty lists as markers — the orchestrator calls them once, not per-slug.
+Bulk scrapers (`simplify`, `hackernews`, `speedyapply`, `jobright`) use empty lists as markers — the orchestrator calls them once, not per-slug.
 
 ### ATS slug verification
 

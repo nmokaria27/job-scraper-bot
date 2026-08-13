@@ -18,8 +18,10 @@ COMPANIES: dict[str, list[str]] = {
     # Bulk scrapers — called ONCE per run (not per-company).
     # Keep the list empty; it's a marker so the orchestrator knows to run them.
     # -------------------------------------------------------------------------
-    "simplify": [],    # SimplifyJobs Summer 2026 internships (single GitHub JSON)
-    "hackernews": [],  # HN "Ask HN: Who is Hiring?" monthly thread
+    "simplify": [],      # SimplifyJobs + vanshb03 repos (GitHub JSON)
+    "hackernews": [],    # HN "Ask HN: Who is Hiring?" monthly thread
+    "speedyapply": [],   # speedyapply SWE/AI repos (markdown tables)
+    "jobright": [],      # jobright-ai PM repos (markdown tables)
 
     # -------------------------------------------------------------------------
     # Greenhouse ATS — verified working slugs (as of 2026-05-07)
