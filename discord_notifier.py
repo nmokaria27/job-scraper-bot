@@ -11,19 +11,23 @@ MAX_EMBEDS_PER_POST = 10
 RATE_LIMIT_SLEEP = 0.5
 
 PLATFORM_LABELS: dict[str, str] = {
-    "greenhouse": "\U0001f33f Greenhouse",
-    "lever":      "\u2699\ufe0f Lever",
-    "ashby":      "\U0001f537 Ashby",
-    "simplify":   "\u26a1 SimplifyJobs",
-    "hackernews": "\U0001f7e0 HN: Who's Hiring",
+    "greenhouse":  "\U0001f33f Greenhouse",
+    "lever":       "\u2699\ufe0f Lever",
+    "ashby":       "\U0001f537 Ashby",
+    "simplify":    "\u26a1 SimplifyJobs",
+    "speedyapply": "\U0001f4a8 SpeedyApply",
+    "jobright":    "\U0001f3af JobRight",
+    "hackernews":  "\U0001f7e0 HN: Who's Hiring",
 }
 
 PLATFORM_COLORS: dict[str, int] = {
-    "greenhouse": 0x3CB371,   # Green
-    "lever":      0x4A90E2,   # Blue
-    "ashby":      0x7B68EE,   # Purple
-    "simplify":   0xFF6B35,   # Orange
-    "hackernews": 0xFF6600,   # HN orange
+    "greenhouse":  0x3CB371,   # Green
+    "lever":       0x4A90E2,   # Blue
+    "ashby":       0x7B68EE,   # Purple
+    "simplify":    0xFF6B35,   # Orange
+    "speedyapply": 0x1ABC9C,   # Teal
+    "jobright":    0xEB459E,   # Pink
+    "hackernews":  0xFF6600,   # HN orange
 }
 
 
