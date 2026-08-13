@@ -48,6 +48,9 @@ class NotificationFlowTests(unittest.IsolatedAsyncioTestCase):
             ),
             patch("main.prune_seen_jobs", side_effect=lambda data: data),
             patch("main.ensure_channel_seen_state", autospec=True),
+            patch("main.load_queued_jobs", return_value={"channels": {}, "last_run": ""}),
+            patch("main.prune_queued_jobs", side_effect=lambda data: data),
+            patch("main.save_queued_jobs"),
             patch("main.scrape_all_raw", new=AsyncMock(return_value=([
                 matching,
                 filtered_out_keyword,
