@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
-      "seen_at": "2026-07-14T21:08:37.028173+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
-      "seen_at": "2026-07-14T21:08:37.028344+00:00"
-    },
-    {
       "id": "simplify-db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
       "seen_at": "2026-07-14T23:13:38.122804+00:00"
     },
@@ -26859,10 +26851,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a457397c2d11a6a4666939d",
       "seen_at": "2026-08-13T20:58:01.213679+00:00"
+    },
+    {
+      "id": "greenhouse-robinhood-8067604",
+      "seen_at": "2026-08-13T21:55:50.152702+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/robinhood/jobs/8067604",
+      "seen_at": "2026-08-13T21:55:50.153106+00:00"
+    },
+    {
+      "id": "ashby-openai-ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
+      "seen_at": "2026-08-13T21:55:50.153449+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
+      "seen_at": "2026-08-13T21:55:50.153772+00:00"
     }
   ],
-  "last_run": "2026-08-13T20:58:02.398178+00:00",
-  "total_notified": 3159,
+  "last_run": "2026-08-13T21:55:50.479449+00:00",
+  "total_notified": 3161,
   "channels": {
     "swe-jobs": [
       "simplify-db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
@@ -29142,8 +29150,6 @@
       "url:https://jobright.ai/jobs/info/6a457397c2d11a6a4666939d"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
-      "url:https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
       "simplify-5735479a-0db8-4cb4-b4d1-faf8deb278c3",
       "url:https://www.google.com/about/careers/applications/jobs/results/112117687143801542",
       "simplify-3fb8f18b-fd6d-404c-9d17-610e7fecec43",
@@ -33600,7 +33606,11 @@
       "ashby-openai-cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
       "url:https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
       "ashby-Ashby-80c20b00-c3c3-441b-95bd-56eb870e77fb",
-      "url:https://jobs.ashbyhq.com/Ashby/80c20b00-c3c3-441b-95bd-56eb870e77fb"
+      "url:https://jobs.ashbyhq.com/Ashby/80c20b00-c3c3-441b-95bd-56eb870e77fb",
+      "greenhouse-robinhood-8067604",
+      "url:https://boards.greenhouse.io/robinhood/jobs/8067604",
+      "ashby-openai-ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
+      "url:https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1"
     ]
   }
 }
