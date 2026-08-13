@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-84a39b8e-8d89-4f91-ab45-1d53e8d86776",
-      "seen_at": "2026-07-14T08:23:46.806179+00:00"
-    },
-    {
-      "id": "url:https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100",
-      "seen_at": "2026-07-14T08:23:46.806372+00:00"
-    },
-    {
       "id": "greenhouse-figma-5982942004",
       "seen_at": "2026-07-14T10:20:22.395880+00:00"
     },
@@ -26651,10 +26643,50 @@
     {
       "id": "url:https://conetec.bamboohr.com/careers/309",
       "seen_at": "2026-08-13T08:07:34.498506+00:00"
+    },
+    {
+      "id": "simplify-f76334f0-b144-4ec8-9a36-f7bab853e4e7",
+      "seen_at": "2026-08-13T09:35:12.628178+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/279991",
+      "seen_at": "2026-08-13T09:35:12.628772+00:00"
+    },
+    {
+      "id": "simplify-495c218f-20df-48c5-baef-1726f57e1d01",
+      "seen_at": "2026-08-13T09:35:16.473235+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762",
+      "seen_at": "2026-08-13T09:35:16.473898+00:00"
+    },
+    {
+      "id": "simplify-823dc91a-f895-469a-b516-b3be2e1894e7",
+      "seen_at": "2026-08-13T09:35:16.474457+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7673284715407886597",
+      "seen_at": "2026-08-13T09:35:16.474919+00:00"
+    },
+    {
+      "id": "simplify-27789793-6af1-43b7-9cd5-e384f26e6e66",
+      "seen_at": "2026-08-13T09:35:16.475373+00:00"
+    },
+    {
+      "id": "url:https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_43230-JOB",
+      "seen_at": "2026-08-13T09:35:16.475823+00:00"
+    },
+    {
+      "id": "simplify-495ef837-6877-48bd-9606-a506661f9f5c",
+      "seen_at": "2026-08-13T09:35:16.476271+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7670288355678177589",
+      "seen_at": "2026-08-13T09:35:16.476708+00:00"
     }
   ],
-  "last_run": "2026-08-13T08:07:34.807193+00:00",
-  "total_notified": 3123,
+  "last_run": "2026-08-13T09:35:16.795993+00:00",
+  "total_notified": 3128,
   "channels": {
     "swe-jobs": [
       "simplify-db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
@@ -28309,7 +28341,9 @@
       "simplify-f2350e1c-6721-41fa-a87c-2880eaf10676",
       "url:https://jobs.smartrecruiters.com/Mapjectscom/79770294",
       "simplify-88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
-      "url:https://calpionplutus.bamboohr.com/careers/310"
+      "url:https://calpionplutus.bamboohr.com/careers/310",
+      "simplify-f76334f0-b144-4ec8-9a36-f7bab853e4e7",
+      "url:https://www.tesla.com/careers/search/job/279991"
     ],
     "pm-jobs": [
       "greenhouse-figma-5982942004",
@@ -28898,8 +28932,6 @@
       "url:https://tnuck.bamboohr.com/careers/273"
     ],
     "swe-ai-full-time": [
-      "simplify-84a39b8e-8d89-4f91-ab45-1d53e8d86776",
-      "url:https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100",
       "simplify-adbf2084-9827-4147-b0e6-4e073febca40",
       "url:https://jobs.smartrecruiters.com/HarvardUniversity/3743990014072606",
       "simplify-de413639-c1d4-4d67-91c6-800f92bfe49b",
@@ -33338,7 +33370,15 @@
       "simplify-c28ceb25-26bc-4b87-a21a-1eee0450081b",
       "url:https://conetec.bamboohr.com/careers/599",
       "simplify-d08e06ee-dc58-4192-98ea-f189a88a6db2",
-      "url:https://conetec.bamboohr.com/careers/309"
+      "url:https://conetec.bamboohr.com/careers/309",
+      "simplify-495c218f-20df-48c5-baef-1726f57e1d01",
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762",
+      "simplify-823dc91a-f895-469a-b516-b3be2e1894e7",
+      "url:https://lifeattiktok.com/search/7673284715407886597",
+      "simplify-27789793-6af1-43b7-9cd5-e384f26e6e66",
+      "url:https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_43230-JOB",
+      "simplify-495ef837-6877-48bd-9606-a506661f9f5c",
+      "url:https://lifeattiktok.com/search/7670288355678177589"
     ]
   }
 }
