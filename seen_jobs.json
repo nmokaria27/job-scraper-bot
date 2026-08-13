@@ -1,446 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
-      "seen_at": "2026-07-14T23:13:38.122804+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/argmax/jobs/4067268009",
-      "seen_at": "2026-07-14T23:13:38.122935+00:00"
-    },
-    {
-      "id": "simplify-4e9240aa-a379-4464-a140-2114eff885a2",
-      "seen_at": "2026-07-14T23:13:38.123043+00:00"
-    },
-    {
-      "id": "url:https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776",
-      "seen_at": "2026-07-14T23:13:38.123139+00:00"
-    },
-    {
-      "id": "simplify-d557630f-831a-471f-a70b-deeebe4ca3a6",
-      "seen_at": "2026-07-14T23:13:38.123236+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply",
-      "seen_at": "2026-07-14T23:13:38.123329+00:00"
-    },
-    {
-      "id": "simplify-9e6bfed5-144f-4120-94d0-868f2cb83d3a",
-      "seen_at": "2026-07-14T23:13:38.123424+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/nextgenfed/35e13d92-343a-4c17-9789-1a6a9cff2bc6/apply",
-      "seen_at": "2026-07-14T23:13:38.123515+00:00"
-    },
-    {
-      "id": "simplify-bd784f4e-7ef9-4ba6-98c3-407476163c6d",
-      "seen_at": "2026-07-14T23:13:38.123646+00:00"
-    },
-    {
-      "id": "url:https://careers.rivian.com/jobs/29851",
-      "seen_at": "2026-07-14T23:13:38.123735+00:00"
-    },
-    {
-      "id": "simplify-daba9493-b756-4c3b-b888-d4045ed38a71",
-      "seen_at": "2026-07-14T23:13:50.916604+00:00"
-    },
-    {
-      "id": "url:https://careers-calamp.icims.com/jobs/4349/job",
-      "seen_at": "2026-07-14T23:13:50.916747+00:00"
-    },
-    {
-      "id": "simplify-ca3c4c33-a29c-4e45-a4dd-dd24692b6428",
-      "seen_at": "2026-07-14T23:13:50.916863+00:00"
-    },
-    {
-      "id": "url:https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/CORP--Northfield---Headquarters/Associate-Product-Manager---October-2026-Start-Date_R2614293",
-      "seen_at": "2026-07-14T23:13:50.916956+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5247640008",
-      "seen_at": "2026-07-14T23:13:50.917050+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5247640008",
-      "seen_at": "2026-07-14T23:13:50.917144+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5124623008",
-      "seen_at": "2026-07-14T23:13:50.917243+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5124623008",
-      "seen_at": "2026-07-14T23:13:50.917337+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5220143008",
-      "seen_at": "2026-07-14T23:13:50.917432+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5220143008",
-      "seen_at": "2026-07-14T23:13:50.917518+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5256303008",
-      "seen_at": "2026-07-14T23:13:50.917660+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5256303008",
-      "seen_at": "2026-07-14T23:13:50.917755+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5251609008",
-      "seen_at": "2026-07-14T23:13:50.917850+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5251609008",
-      "seen_at": "2026-07-14T23:13:50.917942+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5201264008",
-      "seen_at": "2026-07-14T23:13:50.918038+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5201264008",
-      "seen_at": "2026-07-14T23:13:50.918129+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5138044008",
-      "seen_at": "2026-07-14T23:13:50.918224+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5138044008",
-      "seen_at": "2026-07-14T23:13:50.918315+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5251612008",
-      "seen_at": "2026-07-14T23:13:50.918411+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5251612008",
-      "seen_at": "2026-07-14T23:13:50.918503+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5013743008",
-      "seen_at": "2026-07-14T23:13:50.918629+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
-      "seen_at": "2026-07-14T23:13:50.918729+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5107763008",
-      "seen_at": "2026-07-14T23:13:50.918831+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5107763008",
-      "seen_at": "2026-07-14T23:13:50.918929+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5111783008",
-      "seen_at": "2026-07-14T23:13:50.919027+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5111783008",
-      "seen_at": "2026-07-14T23:13:50.919120+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5208193008",
-      "seen_at": "2026-07-14T23:13:50.919215+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5208193008",
-      "seen_at": "2026-07-14T23:13:50.919326+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5203545008",
-      "seen_at": "2026-07-14T23:13:50.919436+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5203545008",
-      "seen_at": "2026-07-14T23:13:50.919544+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5108695008",
-      "seen_at": "2026-07-14T23:13:50.919641+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5108695008",
-      "seen_at": "2026-07-14T23:13:50.919732+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4989788008",
-      "seen_at": "2026-07-14T23:13:50.919827+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4989788008",
-      "seen_at": "2026-07-14T23:13:50.919918+00:00"
-    },
-    {
-      "id": "simplify-5735479a-0db8-4cb4-b4d1-faf8deb278c3",
-      "seen_at": "2026-07-14T23:14:12.185041+00:00"
-    },
-    {
-      "id": "url:https://www.google.com/about/careers/applications/jobs/results/112117687143801542",
-      "seen_at": "2026-07-14T23:14:12.185210+00:00"
-    },
-    {
-      "id": "simplify-3fb8f18b-fd6d-404c-9d17-610e7fecec43",
-      "seen_at": "2026-07-14T23:14:12.185345+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/WesternDigital/744000137736981",
-      "seen_at": "2026-07-14T23:14:12.185463+00:00"
-    },
-    {
-      "id": "simplify-d850c719-af9b-44cb-8cc7-e0bd1c72ee50",
-      "seen_at": "2026-07-14T23:14:12.185627+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/spacex/jobs/8632971002",
-      "seen_at": "2026-07-14T23:14:12.185742+00:00"
-    },
-    {
-      "id": "simplify-0e014b55-7295-4b7b-817a-ee4f8de89e5f",
-      "seen_at": "2026-07-14T23:14:12.185861+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application",
-      "seen_at": "2026-07-14T23:14:12.185971+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5223916008",
-      "seen_at": "2026-07-14T23:14:12.186085+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
-      "seen_at": "2026-07-14T23:14:12.186192+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5186067008",
-      "seen_at": "2026-07-14T23:14:12.186306+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5186067008",
-      "seen_at": "2026-07-14T23:14:12.186413+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5255853008",
-      "seen_at": "2026-07-14T23:14:12.186536+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5255853008",
-      "seen_at": "2026-07-14T23:14:12.186643+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4949336008",
-      "seen_at": "2026-07-14T23:14:12.186759+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
-      "seen_at": "2026-07-14T23:14:12.186865+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5098025008",
-      "seen_at": "2026-07-14T23:14:12.186977+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
-      "seen_at": "2026-07-14T23:14:12.187082+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4020350008",
-      "seen_at": "2026-07-14T23:14:12.187195+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4020350008",
-      "seen_at": "2026-07-14T23:14:12.187303+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4926227008",
-      "seen_at": "2026-07-14T23:14:12.187416+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4926227008",
-      "seen_at": "2026-07-14T23:14:12.187529+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5224564008",
-      "seen_at": "2026-07-14T23:14:12.187646+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5224564008",
-      "seen_at": "2026-07-14T23:14:12.187752+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5254364008",
-      "seen_at": "2026-07-14T23:14:12.187866+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5254364008",
-      "seen_at": "2026-07-14T23:14:12.187972+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5025624008",
-      "seen_at": "2026-07-14T23:14:12.188086+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
-      "seen_at": "2026-07-14T23:14:12.188194+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4669581008",
-      "seen_at": "2026-07-14T23:14:12.188312+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
-      "seen_at": "2026-07-14T23:14:12.188422+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4980430008",
-      "seen_at": "2026-07-14T23:14:12.188551+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
-      "seen_at": "2026-07-14T23:14:12.188659+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5197337008",
-      "seen_at": "2026-07-14T23:14:12.188775+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5197337008",
-      "seen_at": "2026-07-14T23:14:12.188882+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4017331008",
-      "seen_at": "2026-07-14T23:14:12.188996+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4017331008",
-      "seen_at": "2026-07-14T23:14:12.189103+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4613568008",
-      "seen_at": "2026-07-14T23:14:12.189215+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
-      "seen_at": "2026-07-14T23:14:12.189322+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5198108008",
-      "seen_at": "2026-07-14T23:14:12.189435+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5198108008",
-      "seen_at": "2026-07-14T23:14:12.189564+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5160330008",
-      "seen_at": "2026-07-14T23:14:12.189683+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5160330008",
-      "seen_at": "2026-07-14T23:14:12.189789+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4613592008",
-      "seen_at": "2026-07-14T23:14:12.189902+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
-      "seen_at": "2026-07-14T23:14:12.190007+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4616971008",
-      "seen_at": "2026-07-14T23:14:12.190120+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
-      "seen_at": "2026-07-14T23:14:12.190226+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4951814008",
-      "seen_at": "2026-07-14T23:14:12.190339+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
-      "seen_at": "2026-07-14T23:14:12.190449+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5076477008",
-      "seen_at": "2026-07-14T23:14:12.190578+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5076477008",
-      "seen_at": "2026-07-14T23:14:12.190690+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5061517008",
-      "seen_at": "2026-07-14T23:14:12.190926+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5061517008",
-      "seen_at": "2026-07-14T23:14:12.191037+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5153564008",
-      "seen_at": "2026-07-14T23:14:12.191149+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5153564008",
-      "seen_at": "2026-07-14T23:14:12.191256+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4595463008",
-      "seen_at": "2026-07-14T23:14:12.191366+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
-      "seen_at": "2026-07-14T23:14:12.191474+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5063007008",
-      "seen_at": "2026-07-14T23:14:12.191590+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5063007008",
-      "seen_at": "2026-07-14T23:14:12.191699+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5109273008",
-      "seen_at": "2026-07-14T23:14:12.191810+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5109273008",
-      "seen_at": "2026-07-14T23:14:12.191918+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5238606008",
-      "seen_at": "2026-07-14T23:14:12.192033+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5238606008",
-      "seen_at": "2026-07-14T23:14:12.192139+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5228463008",
-      "seen_at": "2026-07-14T23:14:12.192248+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5228463008",
-      "seen_at": "2026-07-14T23:14:12.192356+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4720576008",
-      "seen_at": "2026-07-14T23:14:12.192466+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
-      "seen_at": "2026-07-14T23:14:12.192579+00:00"
-    },
-    {
       "id": "simplify-8975659b-0873-4463-9888-45451e2e150b",
       "seen_at": "2026-07-15T00:08:10.901770+00:00"
     },
@@ -26891,22 +26451,116 @@
     {
       "id": "url:https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
       "seen_at": "2026-08-13T22:54:11.566330+00:00"
+    },
+    {
+      "id": "simplify-58f7e9f6-b7b9-4af8-bfd7-466b0e3255e7",
+      "seen_at": "2026-08-13T23:51:57.277110+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400",
+      "seen_at": "2026-08-13T23:51:57.277642+00:00"
+    },
+    {
+      "id": "simplify-45df96a1-aefa-4c09-ae4c-5c32680da300",
+      "seen_at": "2026-08-13T23:51:57.278099+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864370",
+      "seen_at": "2026-08-13T23:51:57.278522+00:00"
+    },
+    {
+      "id": "simplify-8876789e-be2c-4a8f-9478-572e3f0085cb",
+      "seen_at": "2026-08-13T23:51:57.278920+00:00"
+    },
+    {
+      "id": "url:https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782",
+      "seen_at": "2026-08-13T23:51:57.279327+00:00"
+    },
+    {
+      "id": "simplify-b4ec14b4-17c7-49dc-a000-7e6d0217898f",
+      "seen_at": "2026-08-13T23:51:59.214629+00:00"
+    },
+    {
+      "id": "url:https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26102453",
+      "seen_at": "2026-08-13T23:51:59.215152+00:00"
+    },
+    {
+      "id": "jobright-2ac7b0f38132",
+      "seen_at": "2026-08-13T23:51:59.215583+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7e397319ce4e6e9d93223c",
+      "seen_at": "2026-08-13T23:51:59.215982+00:00"
+    },
+    {
+      "id": "simplify-5626cf23-a738-4254-a817-c09de4ad69af",
+      "seen_at": "2026-08-13T23:52:06.084613+00:00"
+    },
+    {
+      "id": "url:https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Software-Engineer_R-00189564",
+      "seen_at": "2026-08-13T23:52:06.085186+00:00"
+    },
+    {
+      "id": "simplify-d4ae6451-b1b2-4a63-8dc6-e456e9f5bf19",
+      "seen_at": "2026-08-13T23:52:06.085675+00:00"
+    },
+    {
+      "id": "url:https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537",
+      "seen_at": "2026-08-13T23:52:06.086127+00:00"
+    },
+    {
+      "id": "simplify-7c36c172-1a8d-4c06-b6ca-6ee12e3ef829",
+      "seen_at": "2026-08-13T23:52:06.086570+00:00"
+    },
+    {
+      "id": "url:https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Software-Engineering-Track_26009523",
+      "seen_at": "2026-08-13T23:52:06.086991+00:00"
+    },
+    {
+      "id": "simplify-52313b30-cb01-42d0-9c7e-e101d5417aa5",
+      "seen_at": "2026-08-13T23:52:06.087432+00:00"
+    },
+    {
+      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556960468",
+      "seen_at": "2026-08-13T23:52:06.087850+00:00"
+    },
+    {
+      "id": "simplify-96ca88cc-f34f-46d1-a9a1-985470de3698",
+      "seen_at": "2026-08-13T23:52:06.088301+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineer-I--Onsite-_01866357",
+      "seen_at": "2026-08-13T23:52:06.088721+00:00"
+    },
+    {
+      "id": "simplify-e64b78a2-03ae-46f1-9dc7-98677237e137",
+      "seen_at": "2026-08-13T23:52:06.089144+00:00"
+    },
+    {
+      "id": "url:https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245648",
+      "seen_at": "2026-08-13T23:52:06.089575+00:00"
+    },
+    {
+      "id": "simplify-a9facee3-51ba-46e7-8ce7-3f9b3d0c85d6",
+      "seen_at": "2026-08-13T23:52:06.090030+00:00"
+    },
+    {
+      "id": "url:https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
+      "seen_at": "2026-08-13T23:52:06.090472+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-4595463008",
+      "seen_at": "2026-08-13T23:52:06.090900+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
+      "seen_at": "2026-08-13T23:52:06.091330+00:00"
     }
   ],
-  "last_run": "2026-08-13T22:54:11.874267+00:00",
-  "total_notified": 3164,
+  "last_run": "2026-08-13T23:52:07.002913+00:00",
+  "total_notified": 3177,
   "channels": {
     "swe-jobs": [
-      "simplify-db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
-      "url:https://job-boards.greenhouse.io/argmax/jobs/4067268009",
-      "simplify-4e9240aa-a379-4464-a140-2114eff885a2",
-      "url:https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776",
-      "simplify-d557630f-831a-471f-a70b-deeebe4ca3a6",
-      "url:https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply",
-      "simplify-9e6bfed5-144f-4120-94d0-868f2cb83d3a",
-      "url:https://jobs.lever.co/nextgenfed/35e13d92-343a-4c17-9789-1a6a9cff2bc6/apply",
-      "simplify-bd784f4e-7ef9-4ba6-98c3-407476163c6d",
-      "url:https://careers.rivian.com/jobs/29851",
       "simplify-8975659b-0873-4463-9888-45451e2e150b",
       "url:https://job-boards.greenhouse.io/newsbreak/jobs/4697070006",
       "simplify-d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
@@ -28555,43 +28209,15 @@
       "simplify-d15c2dd4-7288-4110-bf59-550c753167ab",
       "url:https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
       "jobright-8d6635eb976e",
-      "url:https://jobright.ai/jobs/info/6a7e17e219ce4e6e9d93152d"
+      "url:https://jobright.ai/jobs/info/6a7e17e219ce4e6e9d93152d",
+      "simplify-58f7e9f6-b7b9-4af8-bfd7-466b0e3255e7",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400",
+      "simplify-45df96a1-aefa-4c09-ae4c-5c32680da300",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864370",
+      "simplify-8876789e-be2c-4a8f-9478-572e3f0085cb",
+      "url:https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782"
     ],
     "pm-jobs": [
-      "simplify-daba9493-b756-4c3b-b888-d4045ed38a71",
-      "url:https://careers-calamp.icims.com/jobs/4349/job",
-      "simplify-ca3c4c33-a29c-4e45-a4dd-dd24692b6428",
-      "url:https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/CORP--Northfield---Headquarters/Associate-Product-Manager---October-2026-Start-Date_R2614293",
-      "greenhouse-anthropic-5247640008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5247640008",
-      "greenhouse-anthropic-5124623008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5124623008",
-      "greenhouse-anthropic-5220143008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5220143008",
-      "greenhouse-anthropic-5256303008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5256303008",
-      "greenhouse-anthropic-5251609008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5251609008",
-      "greenhouse-anthropic-5201264008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5201264008",
-      "greenhouse-anthropic-5138044008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5138044008",
-      "greenhouse-anthropic-5251612008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5251612008",
-      "greenhouse-anthropic-5013743008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5013743008",
-      "greenhouse-anthropic-5107763008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5107763008",
-      "greenhouse-anthropic-5111783008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5111783008",
-      "greenhouse-anthropic-5208193008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5208193008",
-      "greenhouse-anthropic-5203545008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5203545008",
-      "greenhouse-anthropic-5108695008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5108695008",
-      "greenhouse-anthropic-4989788008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4989788008",
       "simplify-28de39fe-563f-4b16-93f7-5d3bbbb04340",
       "url:https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
       "greenhouse-anthropic-5253339008",
@@ -29171,75 +28797,13 @@
       "jobright-5bc192366580",
       "url:https://jobright.ai/jobs/info/6a6b9cfeacb0a61f9dbc1e3d",
       "jobright-4ca1b1e0d649",
-      "url:https://jobright.ai/jobs/info/6a457397c2d11a6a4666939d"
+      "url:https://jobright.ai/jobs/info/6a457397c2d11a6a4666939d",
+      "simplify-b4ec14b4-17c7-49dc-a000-7e6d0217898f",
+      "url:https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26102453",
+      "jobright-2ac7b0f38132",
+      "url:https://jobright.ai/jobs/info/6a7e397319ce4e6e9d93223c"
     ],
     "swe-ai-full-time": [
-      "simplify-5735479a-0db8-4cb4-b4d1-faf8deb278c3",
-      "url:https://www.google.com/about/careers/applications/jobs/results/112117687143801542",
-      "simplify-3fb8f18b-fd6d-404c-9d17-610e7fecec43",
-      "url:https://jobs.smartrecruiters.com/WesternDigital/744000137736981",
-      "simplify-d850c719-af9b-44cb-8cc7-e0bd1c72ee50",
-      "url:https://boards.greenhouse.io/spacex/jobs/8632971002",
-      "simplify-0e014b55-7295-4b7b-817a-ee4f8de89e5f",
-      "url:https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application",
-      "greenhouse-anthropic-5223916008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
-      "greenhouse-anthropic-5186067008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5186067008",
-      "greenhouse-anthropic-5255853008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5255853008",
-      "greenhouse-anthropic-4949336008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
-      "greenhouse-anthropic-5098025008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
-      "greenhouse-anthropic-4020350008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4020350008",
-      "greenhouse-anthropic-4926227008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4926227008",
-      "greenhouse-anthropic-5224564008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5224564008",
-      "greenhouse-anthropic-5254364008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5254364008",
-      "greenhouse-anthropic-5025624008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5025624008",
-      "greenhouse-anthropic-4669581008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
-      "greenhouse-anthropic-4980430008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
-      "greenhouse-anthropic-5197337008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5197337008",
-      "greenhouse-anthropic-4017331008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4017331008",
-      "greenhouse-anthropic-4613568008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
-      "greenhouse-anthropic-5198108008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5198108008",
-      "greenhouse-anthropic-5160330008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5160330008",
-      "greenhouse-anthropic-4613592008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
-      "greenhouse-anthropic-4616971008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
-      "greenhouse-anthropic-4951814008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
-      "greenhouse-anthropic-5076477008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5076477008",
-      "greenhouse-anthropic-5061517008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5061517008",
-      "greenhouse-anthropic-5153564008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5153564008",
-      "greenhouse-anthropic-4595463008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
-      "greenhouse-anthropic-5063007008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5063007008",
-      "greenhouse-anthropic-5109273008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5109273008",
-      "greenhouse-anthropic-5238606008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5238606008",
-      "greenhouse-anthropic-5228463008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5228463008",
-      "greenhouse-anthropic-4720576008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
       "simplify-1704991d-f184-40b1-91ef-a74b76753d06",
       "url:https://nuro.ai/careersitem",
       "simplify-cec7ea72-fd1c-4f5e-94e4-3d0650cf934b",
@@ -33640,7 +33204,23 @@
       "simplify-b82ebee3-b9ea-4a22-b498-9b803e53e092",
       "url:https://aircontrolconcepts.applytojob.com/apply/0mgWNmp2sM/Application-Engineer",
       "simplify-203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
-      "url:https://job-boards.greenhouse.io/worldquant/jobs/4700347006"
+      "url:https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
+      "simplify-5626cf23-a738-4254-a817-c09de4ad69af",
+      "url:https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Software-Engineer_R-00189564",
+      "simplify-d4ae6451-b1b2-4a63-8dc6-e456e9f5bf19",
+      "url:https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537",
+      "simplify-7c36c172-1a8d-4c06-b6ca-6ee12e3ef829",
+      "url:https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Software-Engineering-Track_26009523",
+      "simplify-52313b30-cb01-42d0-9c7e-e101d5417aa5",
+      "url:https://apply.careers.microsoft.com/careers/job/1970393556960468",
+      "simplify-96ca88cc-f34f-46d1-a9a1-985470de3698",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineer-I--Onsite-_01866357",
+      "simplify-e64b78a2-03ae-46f1-9dc7-98677237e137",
+      "url:https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245648",
+      "simplify-a9facee3-51ba-46e7-8ce7-3f9b3d0c85d6",
+      "url:https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
+      "greenhouse-anthropic-4595463008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/4595463008"
     ]
   }
 }
