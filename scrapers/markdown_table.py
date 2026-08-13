@@ -49,7 +49,7 @@ class SpeedyApplyScraper(BaseScraper):
         jobs: list[Job] = []
         lines = text.split("\n")
         in_table = False
-        skip_next = 0  # skip header + separator
+        skip_next = 0  # skip separator row (header row is consumed when in_table flips True)
 
         for line in lines:
             stripped = line.strip()
@@ -60,7 +60,7 @@ class SpeedyApplyScraper(BaseScraper):
 
             if not in_table:
                 in_table = True
-                skip_next = 2  # header + separator
+                skip_next = 1  # separator row is next
                 continue
 
             if skip_next > 0:
@@ -171,7 +171,7 @@ class JobRightScraper(BaseScraper):
         jobs: list[Job] = []
         lines = text.split("\n")
         in_table = False
-        skip_next = 0
+        skip_next = 0  # skip separator row (header row is consumed when in_table flips True)
         last_company = ""
 
         for line in lines:
@@ -184,7 +184,7 @@ class JobRightScraper(BaseScraper):
 
             if not in_table:
                 in_table = True
-                skip_next = 2
+                skip_next = 1  # separator row is next
                 continue
 
             if skip_next > 0:
