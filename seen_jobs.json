@@ -26867,10 +26867,34 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
       "seen_at": "2026-08-13T21:55:50.153772+00:00"
+    },
+    {
+      "id": "simplify-6753f099-9106-4840-b725-97e422c72cb4",
+      "seen_at": "2026-08-13T22:54:11.563835+00:00"
+    },
+    {
+      "id": "url:https://mantech.avature.net/en_US/careers/JobDetail/64747",
+      "seen_at": "2026-08-13T22:54:11.564463+00:00"
+    },
+    {
+      "id": "simplify-b82ebee3-b9ea-4a22-b498-9b803e53e092",
+      "seen_at": "2026-08-13T22:54:11.565042+00:00"
+    },
+    {
+      "id": "url:https://aircontrolconcepts.applytojob.com/apply/0mgWNmp2sM/Application-Engineer",
+      "seen_at": "2026-08-13T22:54:11.565466+00:00"
+    },
+    {
+      "id": "simplify-203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
+      "seen_at": "2026-08-13T22:54:11.565907+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
+      "seen_at": "2026-08-13T22:54:11.566330+00:00"
     }
   ],
-  "last_run": "2026-08-13T21:55:50.479449+00:00",
-  "total_notified": 3161,
+  "last_run": "2026-08-13T22:54:11.874267+00:00",
+  "total_notified": 3164,
   "channels": {
     "swe-jobs": [
       "simplify-db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
@@ -33610,7 +33634,13 @@
       "greenhouse-robinhood-8067604",
       "url:https://boards.greenhouse.io/robinhood/jobs/8067604",
       "ashby-openai-ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
-      "url:https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1"
+      "url:https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
+      "simplify-6753f099-9106-4840-b725-97e422c72cb4",
+      "url:https://mantech.avature.net/en_US/careers/JobDetail/64747",
+      "simplify-b82ebee3-b9ea-4a22-b498-9b803e53e092",
+      "url:https://aircontrolconcepts.applytojob.com/apply/0mgWNmp2sM/Application-Engineer",
+      "simplify-203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
+      "url:https://job-boards.greenhouse.io/worldquant/jobs/4700347006"
     ]
   }
 }
