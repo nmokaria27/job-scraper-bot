@@ -26587,10 +26587,74 @@
     {
       "id": "url:https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48633",
       "seen_at": "2026-08-13T06:49:45.122987+00:00"
+    },
+    {
+      "id": "simplify-88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
+      "seen_at": "2026-08-13T08:07:28.337542+00:00"
+    },
+    {
+      "id": "url:https://calpionplutus.bamboohr.com/careers/310",
+      "seen_at": "2026-08-13T08:07:28.338076+00:00"
+    },
+    {
+      "id": "simplify-7d5cd44a-3181-49ee-88bc-83e27e241535",
+      "seen_at": "2026-08-13T08:07:29.663467+00:00"
+    },
+    {
+      "id": "url:https://tnuck.bamboohr.com/careers/273",
+      "seen_at": "2026-08-13T08:07:29.663991+00:00"
+    },
+    {
+      "id": "simplify-ea47b81d-38b4-4c79-b7a8-d4b98cd222bc",
+      "seen_at": "2026-08-13T08:07:34.493714+00:00"
+    },
+    {
+      "id": "url:https://selectorsoftware.bamboohr.com/careers/193",
+      "seen_at": "2026-08-13T08:07:34.494369+00:00"
+    },
+    {
+      "id": "simplify-2bba0fd8-a19f-4bc4-be98-e3237e625a1a",
+      "seen_at": "2026-08-13T08:07:34.494828+00:00"
+    },
+    {
+      "id": "url:https://adidev.bamboohr.com/careers/27",
+      "seen_at": "2026-08-13T08:07:34.495222+00:00"
+    },
+    {
+      "id": "simplify-53dd3daa-13cd-4e52-b973-fb3582e01fda",
+      "seen_at": "2026-08-13T08:07:34.495648+00:00"
+    },
+    {
+      "id": "url:https://phihong.bamboohr.com/careers/446",
+      "seen_at": "2026-08-13T08:07:34.496037+00:00"
+    },
+    {
+      "id": "simplify-5669b0ee-2c91-48c1-a10f-9014661b589c",
+      "seen_at": "2026-08-13T08:07:34.496447+00:00"
+    },
+    {
+      "id": "url:https://unitedsmarttech.bamboohr.com/careers/185",
+      "seen_at": "2026-08-13T08:07:34.496841+00:00"
+    },
+    {
+      "id": "simplify-c28ceb25-26bc-4b87-a21a-1eee0450081b",
+      "seen_at": "2026-08-13T08:07:34.497243+00:00"
+    },
+    {
+      "id": "url:https://conetec.bamboohr.com/careers/599",
+      "seen_at": "2026-08-13T08:07:34.497663+00:00"
+    },
+    {
+      "id": "simplify-d08e06ee-dc58-4192-98ea-f189a88a6db2",
+      "seen_at": "2026-08-13T08:07:34.498108+00:00"
+    },
+    {
+      "id": "url:https://conetec.bamboohr.com/careers/309",
+      "seen_at": "2026-08-13T08:07:34.498506+00:00"
     }
   ],
-  "last_run": "2026-08-13T06:49:45.402901+00:00",
-  "total_notified": 3115,
+  "last_run": "2026-08-13T08:07:34.807193+00:00",
+  "total_notified": 3123,
   "channels": {
     "swe-jobs": [
       "simplify-db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
@@ -28243,7 +28307,9 @@
       "simplify-04378827-0725-43e5-b38f-7b12ca4660a4",
       "url:https://jobs.smartrecruiters.com/Mapjectscom/78913939",
       "simplify-f2350e1c-6721-41fa-a87c-2880eaf10676",
-      "url:https://jobs.smartrecruiters.com/Mapjectscom/79770294"
+      "url:https://jobs.smartrecruiters.com/Mapjectscom/79770294",
+      "simplify-88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
+      "url:https://calpionplutus.bamboohr.com/careers/310"
     ],
     "pm-jobs": [
       "greenhouse-figma-5982942004",
@@ -28827,7 +28893,9 @@
       "simplify-2546c60d-b4b4-495a-927e-6a112bdefc69",
       "url:https://lifeattiktok.com/search/7669705525866383621",
       "simplify-b1987375-88b8-4b60-991b-fd7c5a4c1481",
-      "url:https://lifeattiktok.com/search/7673256057754290437"
+      "url:https://lifeattiktok.com/search/7673256057754290437",
+      "simplify-7d5cd44a-3181-49ee-88bc-83e27e241535",
+      "url:https://tnuck.bamboohr.com/careers/273"
     ],
     "swe-ai-full-time": [
       "simplify-84a39b8e-8d89-4f91-ab45-1d53e8d86776",
@@ -33258,7 +33326,19 @@
       "simplify-5c436bc1-72a2-4053-b21c-fed118fb02c9",
       "url:https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311",
       "simplify-85a7cdca-c4d0-43be-a530-3d9273287d69",
-      "url:https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48633"
+      "url:https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48633",
+      "simplify-ea47b81d-38b4-4c79-b7a8-d4b98cd222bc",
+      "url:https://selectorsoftware.bamboohr.com/careers/193",
+      "simplify-2bba0fd8-a19f-4bc4-be98-e3237e625a1a",
+      "url:https://adidev.bamboohr.com/careers/27",
+      "simplify-53dd3daa-13cd-4e52-b973-fb3582e01fda",
+      "url:https://phihong.bamboohr.com/careers/446",
+      "simplify-5669b0ee-2c91-48c1-a10f-9014661b589c",
+      "url:https://unitedsmarttech.bamboohr.com/careers/185",
+      "simplify-c28ceb25-26bc-4b87-a21a-1eee0450081b",
+      "url:https://conetec.bamboohr.com/careers/599",
+      "simplify-d08e06ee-dc58-4192-98ea-f189a88a6db2",
+      "url:https://conetec.bamboohr.com/careers/309"
     ]
   }
 }
