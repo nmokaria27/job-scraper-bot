@@ -26459,10 +26459,74 @@
     {
       "id": "url:https://app.careerpuck.com/job-board/lyft/job/8378473002",
       "seen_at": "2026-08-13T00:33:27.987285+00:00"
+    },
+    {
+      "id": "simplify-aa733ff3-312d-4f91-935f-9b74817edc2b",
+      "seen_at": "2026-08-13T03:17:16.206535+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7670364362450733317/detail",
+      "seen_at": "2026-08-13T03:17:16.207004+00:00"
+    },
+    {
+      "id": "simplify-2546c60d-b4b4-495a-927e-6a112bdefc69",
+      "seen_at": "2026-08-13T03:17:18.045624+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7669705525866383621",
+      "seen_at": "2026-08-13T03:17:18.046079+00:00"
+    },
+    {
+      "id": "simplify-b1987375-88b8-4b60-991b-fd7c5a4c1481",
+      "seen_at": "2026-08-13T03:17:18.046531+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7673256057754290437",
+      "seen_at": "2026-08-13T03:17:18.046925+00:00"
+    },
+    {
+      "id": "simplify-0f5bb908-9ac8-4a97-b45d-0ad47f7cd13b",
+      "seen_at": "2026-08-13T03:17:22.555644+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7673256063231854901/detail",
+      "seen_at": "2026-08-13T03:17:22.556198+00:00"
+    },
+    {
+      "id": "simplify-b1ee273d-a77a-4b83-b8cd-f1ad4cdd4d30",
+      "seen_at": "2026-08-13T03:17:22.556713+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7673254778614253829/detail",
+      "seen_at": "2026-08-13T03:17:22.557204+00:00"
+    },
+    {
+      "id": "simplify-ae31bcf5-3524-4c9f-8b9e-361d60f9fa17",
+      "seen_at": "2026-08-13T03:17:22.557686+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672976491146004741",
+      "seen_at": "2026-08-13T03:17:22.558123+00:00"
+    },
+    {
+      "id": "simplify-82b0f083-f346-4f10-91bf-8d21a2b88675",
+      "seen_at": "2026-08-13T03:17:22.558551+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672530785573980421",
+      "seen_at": "2026-08-13T03:17:22.558971+00:00"
+    },
+    {
+      "id": "simplify-9c569a74-622f-4862-8f43-84f0e63f9893",
+      "seen_at": "2026-08-13T03:17:22.559432+00:00"
+    },
+    {
+      "id": "url:https://careers.na.panasonic.com/jobs/50269",
+      "seen_at": "2026-08-13T03:17:22.559850+00:00"
     }
   ],
-  "last_run": "2026-08-13T00:46:37.342135+00:00",
-  "total_notified": 3094,
+  "last_run": "2026-08-13T03:17:22.913541+00:00",
+  "total_notified": 3102,
   "channels": {
     "swe-jobs": [
       "simplify-fcbb295b-3dae-4af6-bd41-ec8b5d05a1ca",
@@ -28103,7 +28167,9 @@
       "speedyapply-b7c2f7e7719b",
       "url:https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a",
       "speedyapply-100fc3d25ce5",
-      "url:https://lifeattiktok.com/search/7629188397976586501"
+      "url:https://lifeattiktok.com/search/7629188397976586501",
+      "simplify-aa733ff3-312d-4f91-935f-9b74817edc2b",
+      "url:https://jobs.bytedance.com/en/position/7670364362450733317/detail"
     ],
     "pm-jobs": [
       "greenhouse-anthropic-5153924008",
@@ -28687,7 +28753,11 @@
       "url:https://careers.airbnb.com/positions/8044715",
       "greenhouse-pinterest-8015494",
       "greenhouse-lyft-8513755002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8513755002"
+      "url:https://app.careerpuck.com/job-board/lyft/job/8513755002",
+      "simplify-2546c60d-b4b4-495a-927e-6a112bdefc69",
+      "url:https://lifeattiktok.com/search/7669705525866383621",
+      "simplify-b1987375-88b8-4b60-991b-fd7c5a4c1481",
+      "url:https://lifeattiktok.com/search/7673256057754290437"
     ],
     "swe-ai-full-time": [
       "simplify-82efb81a-9d97-4172-9331-701b618857c6",
@@ -33098,7 +33168,17 @@
       "greenhouse-lyft-8376875002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8376875002",
       "greenhouse-lyft-8378473002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8378473002"
+      "url:https://app.careerpuck.com/job-board/lyft/job/8378473002",
+      "simplify-0f5bb908-9ac8-4a97-b45d-0ad47f7cd13b",
+      "url:https://jobs.bytedance.com/en/position/7673256063231854901/detail",
+      "simplify-b1ee273d-a77a-4b83-b8cd-f1ad4cdd4d30",
+      "url:https://jobs.bytedance.com/en/position/7673254778614253829/detail",
+      "simplify-ae31bcf5-3524-4c9f-8b9e-361d60f9fa17",
+      "url:https://lifeattiktok.com/search/7672976491146004741",
+      "simplify-82b0f083-f346-4f10-91bf-8d21a2b88675",
+      "url:https://lifeattiktok.com/search/7672530785573980421",
+      "simplify-9c569a74-622f-4862-8f43-84f0e63f9893",
+      "url:https://careers.na.panasonic.com/jobs/50269"
     ]
   }
 }
