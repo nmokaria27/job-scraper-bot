@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-de413639-c1d4-4d67-91c6-800f92bfe49b",
-      "seen_at": "2026-07-14T15:00:20.340047+00:00"
-    },
-    {
-      "id": "url:https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans",
-      "seen_at": "2026-07-14T15:00:20.340215+00:00"
-    },
-    {
-      "id": "simplify-4ebf8f88-bb54-4343-b0ff-381c6f49e4b4",
-      "seen_at": "2026-07-14T15:00:20.340361+00:00"
-    },
-    {
-      "id": "url:https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/HVAC-Controls-Systems-Application-Engineer_WD30274054-1",
-      "seen_at": "2026-07-14T15:00:20.340545+00:00"
-    },
-    {
       "id": "greenhouse-figma-6110219004",
       "seen_at": "2026-07-14T18:50:24.605731+00:00"
     },
@@ -26691,10 +26675,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a7da4ca0a156a4f2c227212",
       "seen_at": "2026-08-13T14:02:05.869044+00:00"
+    },
+    {
+      "id": "simplify-d15c2dd4-7288-4110-bf59-550c753167ab",
+      "seen_at": "2026-08-13T15:06:30.083725+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
+      "seen_at": "2026-08-13T15:06:30.084355+00:00"
+    },
+    {
+      "id": "ashby-openai-f0d51f11-0f35-4e10-b8bb-d24191ba26f3",
+      "seen_at": "2026-08-13T15:06:31.451272+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/f0d51f11-0f35-4e10-b8bb-d24191ba26f3",
+      "seen_at": "2026-08-13T15:06:31.451851+00:00"
+    },
+    {
+      "id": "simplify-87d3b674-66f6-4a43-b3c8-765da738bad1",
+      "seen_at": "2026-08-13T15:06:34.897744+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1419017400",
+      "seen_at": "2026-08-13T15:06:34.898372+00:00"
+    },
+    {
+      "id": "simplify-446febb4-b44b-4e23-bd24-9d5be19954c1",
+      "seen_at": "2026-08-13T15:06:34.898884+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/RenesasElectronics/744000143318619",
+      "seen_at": "2026-08-13T15:06:34.899354+00:00"
+    },
+    {
+      "id": "simplify-1f8e4468-cfb9-4773-8eff-5deb0dfd3370",
+      "seen_at": "2026-08-13T15:06:34.899918+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369",
+      "seen_at": "2026-08-13T15:06:34.900379+00:00"
+    },
+    {
+      "id": "greenhouse-robinhood-7960680",
+      "seen_at": "2026-08-13T15:06:34.900879+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/robinhood/jobs/7960680",
+      "seen_at": "2026-08-13T15:06:34.901368+00:00"
     }
   ],
-  "last_run": "2026-08-13T14:02:06.858959+00:00",
-  "total_notified": 3132,
+  "last_run": "2026-08-13T15:06:35.195271+00:00",
+  "total_notified": 3138,
   "channels": {
     "swe-jobs": [
       "simplify-db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
@@ -28351,7 +28383,9 @@
       "simplify-88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
       "url:https://calpionplutus.bamboohr.com/careers/310",
       "simplify-f76334f0-b144-4ec8-9a36-f7bab853e4e7",
-      "url:https://www.tesla.com/careers/search/job/279991"
+      "url:https://www.tesla.com/careers/search/job/279991",
+      "simplify-d15c2dd4-7288-4110-bf59-550c753167ab",
+      "url:https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594"
     ],
     "pm-jobs": [
       "simplify-daba9493-b756-4c3b-b888-d4045ed38a71",
@@ -28941,13 +28975,11 @@
       "jobright-5870d5fc0277",
       "url:https://jobright.ai/jobs/info/6a51c507ae4052672fe9a89e",
       "jobright-7f4f97085289",
-      "url:https://jobright.ai/jobs/info/6a7da4ca0a156a4f2c227212"
+      "url:https://jobright.ai/jobs/info/6a7da4ca0a156a4f2c227212",
+      "ashby-openai-f0d51f11-0f35-4e10-b8bb-d24191ba26f3",
+      "url:https://jobs.ashbyhq.com/openai/f0d51f11-0f35-4e10-b8bb-d24191ba26f3"
     ],
     "swe-ai-full-time": [
-      "simplify-de413639-c1d4-4d67-91c6-800f92bfe49b",
-      "url:https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans",
-      "simplify-4ebf8f88-bb54-4343-b0ff-381c6f49e4b4",
-      "url:https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/HVAC-Controls-Systems-Application-Engineer_WD30274054-1",
       "greenhouse-figma-6110219004",
       "url:https://boards.greenhouse.io/figma/jobs/6110219004",
       "ashby-openai-cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
@@ -33388,7 +33420,15 @@
       "simplify-27789793-6af1-43b7-9cd5-e384f26e6e66",
       "url:https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_43230-JOB",
       "simplify-495ef837-6877-48bd-9606-a506661f9f5c",
-      "url:https://lifeattiktok.com/search/7670288355678177589"
+      "url:https://lifeattiktok.com/search/7670288355678177589",
+      "simplify-87d3b674-66f6-4a43-b3c8-765da738bad1",
+      "url:https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1419017400",
+      "simplify-446febb4-b44b-4e23-bd24-9d5be19954c1",
+      "url:https://jobs.smartrecruiters.com/RenesasElectronics/744000143318619",
+      "simplify-1f8e4468-cfb9-4773-8eff-5deb0dfd3370",
+      "url:https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369",
+      "greenhouse-robinhood-7960680",
+      "url:https://boards.greenhouse.io/robinhood/jobs/7960680"
     ]
   }
 }
