@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5253339008",
-      "seen_at": "2026-07-15T19:39:08.465645+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5253339008",
-      "seen_at": "2026-07-15T19:39:08.465840+00:00"
-    },
-    {
       "id": "ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
       "seen_at": "2026-07-15T20:44:29.519282+00:00"
     },
@@ -26849,7 +26841,7 @@
       "seen_at": "2026-08-14T19:31:34.865824+00:00"
     }
   ],
-  "last_run": "2026-08-14T19:31:35.250943+00:00",
+  "last_run": "2026-08-14T20:05:11.868961+00:00",
   "total_notified": 3240,
   "channels": {
     "swe-jobs": [
@@ -28504,8 +28496,6 @@
       "url:https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411"
     ],
     "pm-jobs": [
-      "greenhouse-anthropic-5253339008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5253339008",
       "greenhouse-anthropic-5097490008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5097490008",
       "simplify-8557ee50-9c1f-49e9-98b8-692547114b0a",
