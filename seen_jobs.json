@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-airbnb-7904127",
-      "seen_at": "2026-07-15T16:57:37.807864+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/7904127",
-      "seen_at": "2026-07-15T16:57:37.808080+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8059212",
-      "seen_at": "2026-07-15T16:57:37.808227+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8059212",
-      "seen_at": "2026-07-15T16:57:37.808353+00:00"
-    },
-    {
       "id": "greenhouse-robinhood-7918258",
       "seen_at": "2026-07-15T18:15:27.038327+00:00"
     },
@@ -26825,7 +26809,7 @@
       "seen_at": "2026-08-14T16:26:33.239855+00:00"
     }
   ],
-  "last_run": "2026-08-14T16:26:34.293800+00:00",
+  "last_run": "2026-08-14T17:32:05.749239+00:00",
   "total_notified": 3234,
   "channels": {
     "swe-jobs": [
@@ -29092,10 +29076,6 @@
       "url:https://jobright.ai/jobs/info/6a7f2568b56bea5779c08da7"
     ],
     "swe-ai-full-time": [
-      "greenhouse-airbnb-7904127",
-      "url:https://careers.airbnb.com/positions/7904127",
-      "greenhouse-airbnb-8059212",
-      "url:https://careers.airbnb.com/positions/8059212",
       "greenhouse-robinhood-7918258",
       "url:https://boards.greenhouse.io/robinhood/jobs/7918258",
       "ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
