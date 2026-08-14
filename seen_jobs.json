@@ -26791,10 +26791,34 @@
     {
       "id": "url:https://job-boards.greenhouse.io/discord/jobs/8703614002",
       "seen_at": "2026-08-14T05:08:51.542981+00:00"
+    },
+    {
+      "id": "simplify-63807ddc-301f-4d78-ac5c-193a82587f30",
+      "seen_at": "2026-08-14T06:46:12.038780+00:00"
+    },
+    {
+      "id": "url:https://careers.mcdean.com/jobs/28841",
+      "seen_at": "2026-08-14T06:46:12.039306+00:00"
+    },
+    {
+      "id": "simplify-94b1d3c4-d5f6-4c9b-a17c-8cc97a1339c6",
+      "seen_at": "2026-08-14T06:46:12.039736+00:00"
+    },
+    {
+      "id": "url:https://careers.mcdean.com/jobs/32119",
+      "seen_at": "2026-08-14T06:46:12.040147+00:00"
+    },
+    {
+      "id": "simplify-d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a",
+      "seen_at": "2026-08-14T06:46:12.040534+00:00"
+    },
+    {
+      "id": "url:https://careers.mcdean.com/jobs/32350",
+      "seen_at": "2026-08-14T06:46:12.040893+00:00"
     }
   ],
-  "last_run": "2026-08-14T05:08:51.765974+00:00",
-  "total_notified": 3211,
+  "last_run": "2026-08-14T06:46:12.399566+00:00",
+  "total_notified": 3214,
   "channels": {
     "swe-jobs": [
       "simplify-7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
@@ -33514,7 +33538,13 @@
       "simplify-168e5987-f713-4754-b420-77422cbf6329",
       "url:https://apply.careers.microsoft.com/careers/job/1970393556959253",
       "greenhouse-discord-8703614002",
-      "url:https://job-boards.greenhouse.io/discord/jobs/8703614002"
+      "url:https://job-boards.greenhouse.io/discord/jobs/8703614002",
+      "simplify-63807ddc-301f-4d78-ac5c-193a82587f30",
+      "url:https://careers.mcdean.com/jobs/28841",
+      "simplify-94b1d3c4-d5f6-4c9b-a17c-8cc97a1339c6",
+      "url:https://careers.mcdean.com/jobs/32119",
+      "simplify-d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a",
+      "url:https://careers.mcdean.com/jobs/32350"
     ]
   }
 }
