@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-robinhood-7918258",
-      "seen_at": "2026-07-15T18:15:27.038327+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/robinhood/jobs/7918258",
-      "seen_at": "2026-07-15T18:15:27.038634+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5253339008",
       "seen_at": "2026-07-15T19:39:08.465645+00:00"
     },
@@ -26807,10 +26799,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a7f2568b56bea5779c08da7",
       "seen_at": "2026-08-14T16:26:33.239855+00:00"
+    },
+    {
+      "id": "simplify-96d0c172-f893-4193-9ab7-44f5238a335c",
+      "seen_at": "2026-08-14T18:27:34.715023+00:00"
+    },
+    {
+      "id": "url:https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411",
+      "seen_at": "2026-08-14T18:27:34.715489+00:00"
+    },
+    {
+      "id": "simplify-50d4c273-6f3f-44a4-97a9-cd3e5ae91117",
+      "seen_at": "2026-08-14T18:27:37.069139+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1419595300",
+      "seen_at": "2026-08-14T18:27:37.069674+00:00"
+    },
+    {
+      "id": "simplify-5a476d63-cb12-4e98-8fd7-35895108a039",
+      "seen_at": "2026-08-14T18:27:40.246778+00:00"
+    },
+    {
+      "id": "url:https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Associate-Software-Development-Engineer_R1006749",
+      "seen_at": "2026-08-14T18:27:40.247301+00:00"
+    },
+    {
+      "id": "simplify-883f115b-b0ad-4eae-8a80-2bbf523964d4",
+      "seen_at": "2026-08-14T18:27:40.247765+00:00"
+    },
+    {
+      "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
+      "seen_at": "2026-08-14T18:27:40.248198+00:00"
+    },
+    {
+      "id": "simplify-a3a958d6-27dc-4ec5-9de4-764a76e85624",
+      "seen_at": "2026-08-14T18:27:40.248644+00:00"
+    },
+    {
+      "id": "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664",
+      "seen_at": "2026-08-14T18:27:40.249073+00:00"
     }
   ],
-  "last_run": "2026-08-14T17:32:05.749239+00:00",
-  "total_notified": 3234,
+  "last_run": "2026-08-14T18:27:40.544925+00:00",
+  "total_notified": 3239,
   "channels": {
     "swe-jobs": [
       "simplify-f3aec7a7-c5eb-4dec-9f05-09219cea5333",
@@ -28459,7 +28491,9 @@
       "simplify-acad052e-b794-4a83-82c4-4d5ff40c200d",
       "url:https://jobs.bytedance.com/en/position/7673617571165620533/detail",
       "simplify-a46d596b-c711-4444-99f7-3c846ae35bb6",
-      "url:https://jobs.bytedance.com/en/position/7673608499872827701/detail"
+      "url:https://jobs.bytedance.com/en/position/7673608499872827701/detail",
+      "simplify-96d0c172-f893-4193-9ab7-44f5238a335c",
+      "url:https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411"
     ],
     "pm-jobs": [
       "greenhouse-anthropic-5253339008",
@@ -29073,11 +29107,11 @@
       "jobright-f41d583d41f2",
       "url:https://jobright.ai/jobs/info/6a6262911e089c0cc884c2f6",
       "jobright-bfbb79d17348",
-      "url:https://jobright.ai/jobs/info/6a7f2568b56bea5779c08da7"
+      "url:https://jobright.ai/jobs/info/6a7f2568b56bea5779c08da7",
+      "simplify-50d4c273-6f3f-44a4-97a9-cd3e5ae91117",
+      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1419595300"
     ],
     "swe-ai-full-time": [
-      "greenhouse-robinhood-7918258",
-      "url:https://boards.greenhouse.io/robinhood/jobs/7918258",
       "ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
       "url:https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
       "greenhouse-anthropic-4956672008",
@@ -33534,7 +33568,13 @@
       "simplify-15d7c999-27e0-4216-a992-2ab4567f9cd7",
       "url:https://jobs.bytedance.com/en/position/7673667614757374213/detail",
       "simplify-4326baaa-75b2-4470-b205-61aed39b27b9",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
+      "simplify-5a476d63-cb12-4e98-8fd7-35895108a039",
+      "url:https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Associate-Software-Development-Engineer_R1006749",
+      "simplify-883f115b-b0ad-4eae-8a80-2bbf523964d4",
+      "url:https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
+      "simplify-a3a958d6-27dc-4ec5-9de4-764a76e85624",
+      "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664"
     ]
   }
 }
