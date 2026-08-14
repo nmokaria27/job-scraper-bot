@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
-      "seen_at": "2026-07-15T20:44:29.519282+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
-      "seen_at": "2026-07-15T20:44:29.519485+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5097490008",
       "seen_at": "2026-07-15T21:41:42.140578+00:00"
     },
@@ -26839,10 +26831,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5390728008",
       "seen_at": "2026-08-14T19:31:34.865824+00:00"
+    },
+    {
+      "id": "greenhouse-lyft-8716222002",
+      "seen_at": "2026-08-14T21:09:49.633377+00:00"
+    },
+    {
+      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8716222002",
+      "seen_at": "2026-08-14T21:09:49.633889+00:00"
+    },
+    {
+      "id": "ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
+      "seen_at": "2026-08-14T21:09:49.634368+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
+      "seen_at": "2026-08-14T21:09:49.634770+00:00"
     }
   ],
-  "last_run": "2026-08-14T20:39:32.693872+00:00",
-  "total_notified": 3240,
+  "last_run": "2026-08-14T21:09:49.855085+00:00",
+  "total_notified": 3242,
   "channels": {
     "swe-jobs": [
       "simplify-f3aec7a7-c5eb-4dec-9f05-09219cea5333",
@@ -29110,8 +29118,6 @@
       "url:https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1419595300"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
-      "url:https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
       "greenhouse-anthropic-4956672008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
       "ashby-openai-39e06ef9-5e62-425d-81e2-e8690188011f",
@@ -33574,7 +33580,11 @@
       "simplify-a3a958d6-27dc-4ec5-9de4-764a76e85624",
       "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664",
       "greenhouse-anthropic-5390728008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5390728008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5390728008",
+      "greenhouse-lyft-8716222002",
+      "url:https://app.careerpuck.com/job-board/lyft/job/8716222002",
+      "ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
+      "url:https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd"
     ]
   }
 }
