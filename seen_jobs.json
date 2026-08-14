@@ -1,74 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-8975659b-0873-4463-9888-45451e2e150b",
-      "seen_at": "2026-07-15T00:08:10.901770+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/newsbreak/jobs/4697070006",
-      "seen_at": "2026-07-15T00:08:10.901913+00:00"
-    },
-    {
-      "id": "simplify-d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
-      "seen_at": "2026-07-15T00:08:10.902086+00:00"
-    },
-    {
-      "id": "url:https://ignite-digital.com/careers/job-listings",
-      "seen_at": "2026-07-15T00:08:10.902195+00:00"
-    },
-    {
-      "id": "simplify-14baa8ae-f151-483f-b5e0-77ca5086d04e",
-      "seen_at": "2026-07-15T00:08:10.902307+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-      "seen_at": "2026-07-15T00:08:10.902410+00:00"
-    },
-    {
-      "id": "simplify-c3433d6a-bf30-4d16-8e0f-5126b09236cf",
-      "seen_at": "2026-07-15T00:08:10.902520+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009",
-      "seen_at": "2026-07-15T00:08:10.902635+00:00"
-    },
-    {
-      "id": "simplify-1704991d-f184-40b1-91ef-a74b76753d06",
-      "seen_at": "2026-07-15T00:08:15.327754+00:00"
-    },
-    {
-      "id": "url:https://nuro.ai/careersitem",
-      "seen_at": "2026-07-15T00:08:15.327915+00:00"
-    },
-    {
-      "id": "simplify-cec7ea72-fd1c-4f5e-94e4-3d0650cf934b",
-      "seen_at": "2026-07-15T00:08:15.328102+00:00"
-    },
-    {
-      "id": "simplify-67937ffc-14b5-4231-9e62-9a4f13dd11c2",
-      "seen_at": "2026-07-15T00:08:15.328347+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/instalilyai/jobs/4271757009",
-      "seen_at": "2026-07-15T00:08:15.328461+00:00"
-    },
-    {
-      "id": "simplify-3ace8680-5997-4467-ad7e-82ecc656e241",
-      "seen_at": "2026-07-15T00:08:15.328583+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008",
-      "seen_at": "2026-07-15T00:08:15.328696+00:00"
-    },
-    {
-      "id": "simplify-32671d23-475d-488c-a8ca-48ba428e3c3a",
-      "seen_at": "2026-07-15T00:08:15.328821+00:00"
-    },
-    {
-      "id": "url:https://www.esri.com/careers/5186832007",
-      "seen_at": "2026-07-15T00:08:15.328936+00:00"
-    },
-    {
       "id": "simplify-7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
       "seen_at": "2026-07-15T08:29:48.926888+00:00"
     },
@@ -26557,18 +26489,10 @@
       "seen_at": "2026-08-13T23:52:06.091330+00:00"
     }
   ],
-  "last_run": "2026-08-13T23:52:07.002913+00:00",
+  "last_run": "2026-08-14T00:46:03.841218+00:00",
   "total_notified": 3177,
   "channels": {
     "swe-jobs": [
-      "simplify-8975659b-0873-4463-9888-45451e2e150b",
-      "url:https://job-boards.greenhouse.io/newsbreak/jobs/4697070006",
-      "simplify-d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
-      "url:https://ignite-digital.com/careers/job-listings",
-      "simplify-14baa8ae-f151-483f-b5e0-77ca5086d04e",
-      "url:https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-      "simplify-c3433d6a-bf30-4d16-8e0f-5126b09236cf",
-      "url:https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009",
       "simplify-7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
       "url:https://boards.greenhouse.io/cloudflare/jobs/8052785",
       "simplify-7387a1fc-9d17-4ccb-9dac-9de2c1006f0a",
@@ -28804,16 +28728,6 @@
       "url:https://jobright.ai/jobs/info/6a7e397319ce4e6e9d93223c"
     ],
     "swe-ai-full-time": [
-      "simplify-1704991d-f184-40b1-91ef-a74b76753d06",
-      "url:https://nuro.ai/careersitem",
-      "simplify-cec7ea72-fd1c-4f5e-94e4-3d0650cf934b",
-      "url:https://ignite-digital.com/careers/job-listings",
-      "simplify-67937ffc-14b5-4231-9e62-9a4f13dd11c2",
-      "url:https://job-boards.greenhouse.io/instalilyai/jobs/4271757009",
-      "simplify-3ace8680-5997-4467-ad7e-82ecc656e241",
-      "url:https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008",
-      "simplify-32671d23-475d-488c-a8ca-48ba428e3c3a",
-      "url:https://www.esri.com/careers/5186832007",
       "simplify-085793b3-9e21-48f8-9900-26508af2957c",
       "url:https://jobs.ashbyhq.com/fundamentalresearchlabs/8d460b28-233d-4305-a708-cf547ec3285e/application",
       "simplify-ec6787f1-d9ad-4f43-b1cd-83f7db32213b",
