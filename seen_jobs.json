@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5097490008",
-      "seen_at": "2026-07-15T21:41:42.140578+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5097490008",
-      "seen_at": "2026-07-15T21:41:42.140730+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-4956672008",
-      "seen_at": "2026-07-15T21:41:46.086395+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
-      "seen_at": "2026-07-15T21:41:46.086568+00:00"
-    },
-    {
-      "id": "ashby-openai-39e06ef9-5e62-425d-81e2-e8690188011f",
-      "seen_at": "2026-07-15T21:41:46.086703+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/39e06ef9-5e62-425d-81e2-e8690188011f",
-      "seen_at": "2026-07-15T21:41:46.086821+00:00"
-    },
-    {
-      "id": "ashby-openai-da45caa7-461d-478f-a862-82120dd80e19",
-      "seen_at": "2026-07-15T21:41:46.086932+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/da45caa7-461d-478f-a862-82120dd80e19",
-      "seen_at": "2026-07-15T21:41:46.087077+00:00"
-    },
-    {
-      "id": "ashby-Ashby-fe121451-d328-43c9-a1ac-89e19b973a95",
-      "seen_at": "2026-07-15T21:41:46.087210+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/Ashby/fe121451-d328-43c9-a1ac-89e19b973a95",
-      "seen_at": "2026-07-15T21:41:46.087312+00:00"
-    },
-    {
-      "id": "ashby-Ashby-0f538da6-1e06-43f0-86cb-de8007814284",
-      "seen_at": "2026-07-15T21:41:46.087417+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/Ashby/0f538da6-1e06-43f0-86cb-de8007814284",
-      "seen_at": "2026-07-15T21:41:46.087536+00:00"
-    },
-    {
       "id": "simplify-f3aec7a7-c5eb-4dec-9f05-09219cea5333",
       "seen_at": "2026-07-15T22:42:38.241523+00:00"
     },
@@ -26847,10 +26799,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
       "seen_at": "2026-08-14T21:09:49.634770+00:00"
+    },
+    {
+      "id": "ashby-openai-39e06ef9-5e62-425d-81e2-e8690188011f",
+      "seen_at": "2026-08-14T21:43:43.119472+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/39e06ef9-5e62-425d-81e2-e8690188011f",
+      "seen_at": "2026-08-14T21:43:43.119876+00:00"
+    },
+    {
+      "id": "ashby-openai-da45caa7-461d-478f-a862-82120dd80e19",
+      "seen_at": "2026-08-14T21:43:43.120222+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/da45caa7-461d-478f-a862-82120dd80e19",
+      "seen_at": "2026-08-14T21:43:43.120551+00:00"
     }
   ],
-  "last_run": "2026-08-14T21:09:49.855085+00:00",
-  "total_notified": 3242,
+  "last_run": "2026-08-14T21:43:45.379306+00:00",
+  "total_notified": 3244,
   "channels": {
     "swe-jobs": [
       "simplify-f3aec7a7-c5eb-4dec-9f05-09219cea5333",
@@ -28504,8 +28472,6 @@
       "url:https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411"
     ],
     "pm-jobs": [
-      "greenhouse-anthropic-5097490008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5097490008",
       "simplify-8557ee50-9c1f-49e9-98b8-692547114b0a",
       "url:https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Product-Manager-Intern_JR-044908-1",
       "simplify-bfbac627-9987-4efa-8b4f-0e2b108f660a",
@@ -29118,16 +29084,6 @@
       "url:https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1419595300"
     ],
     "swe-ai-full-time": [
-      "greenhouse-anthropic-4956672008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
-      "ashby-openai-39e06ef9-5e62-425d-81e2-e8690188011f",
-      "url:https://jobs.ashbyhq.com/openai/39e06ef9-5e62-425d-81e2-e8690188011f",
-      "ashby-openai-da45caa7-461d-478f-a862-82120dd80e19",
-      "url:https://jobs.ashbyhq.com/openai/da45caa7-461d-478f-a862-82120dd80e19",
-      "ashby-Ashby-fe121451-d328-43c9-a1ac-89e19b973a95",
-      "url:https://jobs.ashbyhq.com/Ashby/fe121451-d328-43c9-a1ac-89e19b973a95",
-      "ashby-Ashby-0f538da6-1e06-43f0-86cb-de8007814284",
-      "url:https://jobs.ashbyhq.com/Ashby/0f538da6-1e06-43f0-86cb-de8007814284",
       "simplify-7a41b37b-bd8a-4927-901d-15da9744cdcf",
       "url:https://careers.cisco.com/global/en/job/2018947",
       "simplify-4df5eb27-d37f-48a2-94a8-8ac630be0071",
@@ -33584,7 +33540,11 @@
       "greenhouse-lyft-8716222002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8716222002",
       "ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
-      "url:https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd"
+      "url:https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
+      "ashby-openai-39e06ef9-5e62-425d-81e2-e8690188011f",
+      "url:https://jobs.ashbyhq.com/openai/39e06ef9-5e62-425d-81e2-e8690188011f",
+      "ashby-openai-da45caa7-461d-478f-a862-82120dd80e19",
+      "url:https://jobs.ashbyhq.com/openai/da45caa7-461d-478f-a862-82120dd80e19"
     ]
   }
 }
