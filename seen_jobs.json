@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5355526008",
-      "seen_at": "2026-07-16T17:55:40.457898+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5355526008",
-      "seen_at": "2026-07-16T17:55:40.458230+00:00"
-    },
-    {
       "id": "greenhouse-pinterest-5601228",
       "seen_at": "2026-07-16T19:24:54.254148+00:00"
     },
@@ -27053,7 +27045,7 @@
       "seen_at": "2026-08-15T15:49:47.128169+00:00"
     }
   ],
-  "last_run": "2026-08-15T17:50:33.570453+00:00",
+  "last_run": "2026-08-15T18:00:31.932828+00:00",
   "total_notified": 3307,
   "channels": {
     "swe-jobs": [
@@ -29337,8 +29329,6 @@
       "url:https://jobright.ai/jobs/info/69f04b58a4aa3545d8a5de8d"
     ],
     "swe-ai-full-time": [
-      "greenhouse-anthropic-5355526008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5355526008",
       "greenhouse-pinterest-5601228",
       "url:https://www.pinterestcareers.com/jobs",
       "greenhouse-vercel-6117204004",
