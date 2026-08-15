@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-a135c16f-7fb9-4d99-8edb-4cfa5a9c2420",
-      "seen_at": "2026-07-16T16:43:56.750806+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1409372300",
-      "seen_at": "2026-07-16T16:43:56.751080+00:00"
-    },
-    {
-      "id": "simplify-e5a7ba11-ce4c-4e67-a64f-cff6039affba",
-      "seen_at": "2026-07-16T16:43:56.751284+00:00"
-    },
-    {
-      "id": "url:https://jobs.apple.com/en-us/details/200670681",
-      "seen_at": "2026-07-16T16:43:56.751424+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-7683226",
-      "seen_at": "2026-07-16T16:43:56.751571+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7683226",
-      "seen_at": "2026-07-16T16:43:56.751709+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5355526008",
       "seen_at": "2026-07-16T17:55:40.457898+00:00"
     },
@@ -27077,7 +27053,7 @@
       "seen_at": "2026-08-15T15:49:47.128169+00:00"
     }
   ],
-  "last_run": "2026-08-15T16:34:41.315450+00:00",
+  "last_run": "2026-08-15T16:54:25.321244+00:00",
   "total_notified": 3307,
   "channels": {
     "swe-jobs": [
@@ -29361,12 +29337,6 @@
       "url:https://jobright.ai/jobs/info/69f04b58a4aa3545d8a5de8d"
     ],
     "swe-ai-full-time": [
-      "simplify-a135c16f-7fb9-4d99-8edb-4cfa5a9c2420",
-      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1409372300",
-      "simplify-e5a7ba11-ce4c-4e67-a64f-cff6039affba",
-      "url:https://jobs.apple.com/en-us/details/200670681",
-      "greenhouse-datadog-7683226",
-      "url:https://careers.datadoghq.com/detail/7683226",
       "greenhouse-anthropic-5355526008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5355526008",
       "greenhouse-pinterest-5601228",
