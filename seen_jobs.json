@@ -27059,10 +27059,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a63c8b8979290281c704193",
       "seen_at": "2026-08-15T13:55:49.612894+00:00"
+    },
+    {
+      "id": "jobright-54b79d2a9e08",
+      "seen_at": "2026-08-15T15:49:45.816312+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/69f04b58a4aa3545d8a5de8d",
+      "seen_at": "2026-08-15T15:49:45.816853+00:00"
+    },
+    {
+      "id": "simplify-ebecfe1f-3890-4cf8-8663-d7b118197e24",
+      "seen_at": "2026-08-15T15:49:47.127564+00:00"
+    },
+    {
+      "id": "url:https://higher.gs.com/roles/171569",
+      "seen_at": "2026-08-15T15:49:47.128169+00:00"
     }
   ],
-  "last_run": "2026-08-15T15:31:50.689130+00:00",
-  "total_notified": 3305,
+  "last_run": "2026-08-15T15:49:47.507183+00:00",
+  "total_notified": 3307,
   "channels": {
     "swe-jobs": [
       "simplify-ce535c93-f706-49f8-98ac-5f72c9bd6729",
@@ -29340,7 +29356,9 @@
       "jobright-c4d4db1517de",
       "url:https://jobright.ai/jobs/info/6a7f8257927c79391ad0a071",
       "jobright-fe2f59db50e4",
-      "url:https://jobright.ai/jobs/info/6a63c8b8979290281c704193"
+      "url:https://jobright.ai/jobs/info/6a63c8b8979290281c704193",
+      "jobright-54b79d2a9e08",
+      "url:https://jobright.ai/jobs/info/69f04b58a4aa3545d8a5de8d"
     ],
     "swe-ai-full-time": [
       "simplify-a135c16f-7fb9-4d99-8edb-4cfa5a9c2420",
@@ -33849,7 +33867,9 @@
       "simplify-5e2b041d-3b5b-414f-8491-242be06bf425",
       "url:https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application",
       "simplify-e09149c6-13df-4156-b091-ebf0159330f8",
-      "url:https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807"
+      "url:https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
+      "simplify-ebecfe1f-3890-4cf8-8663-d7b118197e24",
+      "url:https://higher.gs.com/roles/171569"
     ]
   }
 }
