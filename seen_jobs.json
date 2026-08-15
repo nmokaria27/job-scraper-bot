@@ -27019,10 +27019,34 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/3124e8f0-e9e7-4c8b-8541-13cbbc5d1f4a",
       "seen_at": "2026-08-15T04:50:08.138998+00:00"
+    },
+    {
+      "id": "simplify-7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf",
+      "seen_at": "2026-08-15T05:11:20.603830+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application",
+      "seen_at": "2026-08-15T05:11:20.604305+00:00"
+    },
+    {
+      "id": "simplify-6dda02da-3ec3-49ed-a963-fa6db627f830",
+      "seen_at": "2026-08-15T05:11:22.653901+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application",
+      "seen_at": "2026-08-15T05:11:22.654436+00:00"
+    },
+    {
+      "id": "simplify-5e2b041d-3b5b-414f-8491-242be06bf425",
+      "seen_at": "2026-08-15T05:11:22.654896+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application",
+      "seen_at": "2026-08-15T05:11:22.655307+00:00"
     }
   ],
-  "last_run": "2026-08-15T04:50:08.586863+00:00",
-  "total_notified": 3297,
+  "last_run": "2026-08-15T05:11:22.897524+00:00",
+  "total_notified": 3300,
   "channels": {
     "swe-jobs": [
       "simplify-f35a104f-8aa2-4e17-9c25-aec1fe42185e",
@@ -28684,7 +28708,9 @@
       "simplify-ee8a3af2-214e-482e-9a90-3dd327c6bdf1",
       "url:https://jobs.bytedance.com/en/position/7672557061679483189/detail",
       "simplify-80991915-38ed-48d7-b67d-20f3f7a7b84c",
-      "url:https://jobs.bytedance.com/en/position/7672626707586746629/detail"
+      "url:https://jobs.bytedance.com/en/position/7672626707586746629/detail",
+      "simplify-7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf",
+      "url:https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application"
     ],
     "pm-jobs": [
       "greenhouse-pinterest-8046820",
@@ -33799,7 +33825,11 @@
       "ashby-openai-3fe77c71-1f20-45b5-8291-62f0d2104989",
       "url:https://jobs.ashbyhq.com/openai/3fe77c71-1f20-45b5-8291-62f0d2104989",
       "ashby-openai-3124e8f0-e9e7-4c8b-8541-13cbbc5d1f4a",
-      "url:https://jobs.ashbyhq.com/openai/3124e8f0-e9e7-4c8b-8541-13cbbc5d1f4a"
+      "url:https://jobs.ashbyhq.com/openai/3124e8f0-e9e7-4c8b-8541-13cbbc5d1f4a",
+      "simplify-6dda02da-3ec3-49ed-a963-fa6db627f830",
+      "url:https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application",
+      "simplify-5e2b041d-3b5b-414f-8491-242be06bf425",
+      "url:https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application"
     ]
   }
 }
