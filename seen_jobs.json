@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-d0956b18-4f80-4c67-b94b-313181a16be6",
-      "seen_at": "2026-07-17T06:31:23.935928+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/d0956b18-4f80-4c67-b94b-313181a16be6",
-      "seen_at": "2026-07-17T06:31:23.936069+00:00"
-    },
-    {
       "id": "simplify-fd97851c-d4e9-4a60-838c-e9bc18451bed",
       "seen_at": "2026-07-17T08:37:48.257309+00:00"
     },
@@ -26961,7 +26953,7 @@
       "seen_at": "2026-08-16T01:51:48.338211+00:00"
     }
   ],
-  "last_run": "2026-08-16T05:57:46.429508+00:00",
+  "last_run": "2026-08-16T06:53:29.260470+00:00",
   "total_notified": 3311,
   "channels": {
     "swe-jobs": [
@@ -29239,8 +29231,6 @@
       "url:https://jobright.ai/jobs/info/69f04b58a4aa3545d8a5de8d"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-d0956b18-4f80-4c67-b94b-313181a16be6",
-      "url:https://jobs.ashbyhq.com/openai/d0956b18-4f80-4c67-b94b-313181a16be6",
       "simplify-fd97851c-d4e9-4a60-838c-e9bc18451bed",
       "url:https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1665",
       "simplify-e018a92b-b910-4101-8f71-6461de332da9",
