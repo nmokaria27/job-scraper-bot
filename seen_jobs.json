@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-ce535c93-f706-49f8-98ac-5f72c9bd6729",
-      "seen_at": "2026-07-17T01:06:11.379356+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/276987",
-      "seen_at": "2026-07-17T01:06:11.379505+00:00"
-    },
-    {
-      "id": "simplify-ae507b57-02d4-4bfc-a7e8-6e6d6c0a6521",
-      "seen_at": "2026-07-17T01:06:12.515167+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/embed/job_app",
-      "seen_at": "2026-07-17T01:06:12.515316+00:00"
-    },
-    {
-      "id": "simplify-107d51de-17ca-4680-96a1-a86848cc5ca9",
-      "seen_at": "2026-07-17T01:06:22.504085+00:00"
-    },
-    {
-      "id": "url:https://www.esri.com/careers/5188696007",
-      "seen_at": "2026-07-17T01:06:22.504256+00:00"
-    },
-    {
-      "id": "simplify-ebc54f2c-d9a8-4900-bcf4-0960526ebd0e",
-      "seen_at": "2026-07-17T01:06:22.504401+00:00"
-    },
-    {
-      "id": "url:https://careers.cisco.com/global/en/job/2020073",
-      "seen_at": "2026-07-17T01:06:22.504521+00:00"
-    },
-    {
-      "id": "simplify-5cb1d020-580f-4457-ad97-f82309db2eca",
-      "seen_at": "2026-07-17T01:06:22.504640+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/spacex/jobs/8637049002",
-      "seen_at": "2026-07-17T01:06:22.504761+00:00"
-    },
-    {
-      "id": "simplify-8270cc9e-2e11-4dd6-85e6-4847cc85a1ea",
-      "seen_at": "2026-07-17T01:06:22.504909+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/amplify/28105564-4ac4-4a33-90c3-d1d479b99ec0/application",
-      "seen_at": "2026-07-17T01:06:22.505016+00:00"
-    },
-    {
-      "id": "simplify-294e8c59-e444-4348-a3c1-ff277ced192b",
-      "seen_at": "2026-07-17T01:06:22.505128+00:00"
-    },
-    {
-      "id": "url:https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/7371",
-      "seen_at": "2026-07-17T01:06:22.505230+00:00"
-    },
-    {
       "id": "greenhouse-airbnb-8070597",
       "seen_at": "2026-07-17T04:19:06.350994+00:00"
     },
@@ -27023,14 +26967,20 @@
     {
       "id": "url:https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application",
       "seen_at": "2026-08-15T23:06:18.351199+00:00"
+    },
+    {
+      "id": "simplify-3a2e2c86-3612-46c8-891d-50a65e292f46",
+      "seen_at": "2026-08-16T01:51:48.337741+00:00"
+    },
+    {
+      "id": "url:https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738",
+      "seen_at": "2026-08-16T01:51:48.338211+00:00"
     }
   ],
-  "last_run": "2026-08-16T00:00:51.858268+00:00",
-  "total_notified": 3310,
+  "last_run": "2026-08-16T01:51:49.108604+00:00",
+  "total_notified": 3311,
   "channels": {
     "swe-jobs": [
-      "simplify-ce535c93-f706-49f8-98ac-5f72c9bd6729",
-      "url:https://www.tesla.com/careers/search/job/276987",
       "greenhouse-pinterest-7255640",
       "simplify-9b8c84ef-c762-4da1-9f47-56e4a62375d5",
       "url:https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application",
@@ -28095,7 +28045,6 @@
       "simplify-626bb7ad-7fc6-4fd0-99cd-31a7fb23cef3",
       "url:https://job-boards.greenhouse.io/janestreet/jobs/8419303002",
       "simplify-17780196-7325-4b2e-b9d8-42c0b3830d62",
-      "url:https://boards.greenhouse.io/embed/job_app",
       "simplify-8990370a-d091-498f-98bb-082a18262cfa",
       "url:https://job-boards.greenhouse.io/honehealth/jobs/5308958008",
       "simplify-1de12102-5f3b-4c75-83ce-02e4d9bb828d",
@@ -28689,11 +28638,11 @@
       "simplify-7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf",
       "url:https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application",
       "simplify-7e21b76f-fae1-4564-9f64-456d019b46b2",
-      "url:https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application"
+      "url:https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application",
+      "simplify-3a2e2c86-3612-46c8-891d-50a65e292f46",
+      "url:https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738"
     ],
     "pm-jobs": [
-      "simplify-ae507b57-02d4-4bfc-a7e8-6e6d6c0a6521",
-      "url:https://boards.greenhouse.io/embed/job_app",
       "greenhouse-figma-5989185004",
       "url:https://boards.greenhouse.io/figma/jobs/5989185004",
       "greenhouse-figma-5830640004",
@@ -29306,16 +29255,6 @@
       "url:https://jobright.ai/jobs/info/69f04b58a4aa3545d8a5de8d"
     ],
     "swe-ai-full-time": [
-      "simplify-107d51de-17ca-4680-96a1-a86848cc5ca9",
-      "url:https://www.esri.com/careers/5188696007",
-      "simplify-ebc54f2c-d9a8-4900-bcf4-0960526ebd0e",
-      "url:https://careers.cisco.com/global/en/job/2020073",
-      "simplify-5cb1d020-580f-4457-ad97-f82309db2eca",
-      "url:https://boards.greenhouse.io/spacex/jobs/8637049002",
-      "simplify-8270cc9e-2e11-4dd6-85e6-4847cc85a1ea",
-      "url:https://jobs.ashbyhq.com/amplify/28105564-4ac4-4a33-90c3-d1d479b99ec0/application",
-      "simplify-294e8c59-e444-4348-a3c1-ff277ced192b",
-      "url:https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/7371",
       "greenhouse-airbnb-8070597",
       "url:https://careers.airbnb.com/positions/8070597",
       "ashby-openai-71c4dd25-bfff-419b-913f-5ff81d8aede3",
@@ -32197,7 +32136,6 @@
       "simplify-e0091951-b28a-4c4f-bad1-73a0ad757198",
       "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineer-I_01857935",
       "simplify-b3b5bb79-eed9-4cae-a682-cc7068f5d3eb",
-      "url:https://boards.greenhouse.io/embed/job_app",
       "simplify-78a1a51e-7c5a-49ae-909c-fe53612553e2",
       "url:https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/R10206390-22026-Associate-Cyber-Software-Engineer---Chantilly-VA_R10236425",
       "simplify-d26ce57a-9f65-4a82-af45-1e1f59ea6111",
