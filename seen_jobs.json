@@ -1,126 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-figma-5220003004",
-      "seen_at": "2026-07-17T17:49:40.820982+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5220003004",
-      "seen_at": "2026-07-17T17:49:40.821142+00:00"
-    },
-    {
-      "id": "greenhouse-figma-5552580004",
-      "seen_at": "2026-07-17T17:49:40.821285+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5552580004",
-      "seen_at": "2026-07-17T17:49:40.821406+00:00"
-    },
-    {
-      "id": "greenhouse-figma-5976930004",
-      "seen_at": "2026-07-17T17:49:40.821582+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5976930004",
-      "seen_at": "2026-07-17T17:49:40.821705+00:00"
-    },
-    {
-      "id": "greenhouse-figma-6013304004",
-      "seen_at": "2026-07-17T17:49:40.821839+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/6013304004",
-      "seen_at": "2026-07-17T17:49:40.821957+00:00"
-    },
-    {
-      "id": "greenhouse-figma-6013303004",
-      "seen_at": "2026-07-17T17:49:40.822079+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/6013303004",
-      "seen_at": "2026-07-17T17:49:40.822189+00:00"
-    },
-    {
-      "id": "greenhouse-figma-6009197004",
-      "seen_at": "2026-07-17T17:49:40.822308+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/6009197004",
-      "seen_at": "2026-07-17T17:49:40.822417+00:00"
-    },
-    {
-      "id": "greenhouse-figma-6013495004",
-      "seen_at": "2026-07-17T17:49:40.822553+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/6013495004",
-      "seen_at": "2026-07-17T17:49:40.822664+00:00"
-    },
-    {
-      "id": "greenhouse-figma-5551730004",
-      "seen_at": "2026-07-17T17:49:40.822785+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5551730004",
-      "seen_at": "2026-07-17T17:49:40.822898+00:00"
-    },
-    {
-      "id": "greenhouse-figma-5552530004",
-      "seen_at": "2026-07-17T17:49:40.823018+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5552530004",
-      "seen_at": "2026-07-17T17:49:40.823129+00:00"
-    },
-    {
-      "id": "greenhouse-figma-5551686004",
-      "seen_at": "2026-07-17T17:49:40.823248+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5551686004",
-      "seen_at": "2026-07-17T17:49:40.823359+00:00"
-    },
-    {
-      "id": "greenhouse-figma-5790627004",
-      "seen_at": "2026-07-17T17:49:40.823479+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5790627004",
-      "seen_at": "2026-07-17T17:49:40.823685+00:00"
-    },
-    {
-      "id": "greenhouse-figma-5552522004",
-      "seen_at": "2026-07-17T17:49:40.823818+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5552522004",
-      "seen_at": "2026-07-17T17:49:40.823931+00:00"
-    },
-    {
-      "id": "greenhouse-figma-5552560004",
-      "seen_at": "2026-07-17T17:49:40.824053+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5552560004",
-      "seen_at": "2026-07-17T17:49:40.824164+00:00"
-    },
-    {
-      "id": "greenhouse-figma-5551532004",
-      "seen_at": "2026-07-17T17:49:40.824284+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5551532004",
-      "seen_at": "2026-07-17T17:49:40.824395+00:00"
-    },
-    {
-      "id": "greenhouse-figma-5551649004",
-      "seen_at": "2026-07-17T17:49:40.824584+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/5551649004",
-      "seen_at": "2026-07-17T17:49:40.824719+00:00"
-    },
-    {
       "id": "greenhouse-figma-5829751004",
       "seen_at": "2026-07-17T19:51:45.921064+00:00"
     },
@@ -26905,7 +26785,7 @@
       "seen_at": "2026-08-16T15:50:23.586951+00:00"
     }
   ],
-  "last_run": "2026-08-16T17:49:43.594934+00:00",
+  "last_run": "2026-08-16T18:00:16.073428+00:00",
   "total_notified": 3315,
   "channels": {
     "swe-jobs": [
@@ -29175,36 +29055,6 @@
       "url:https://jobright.ai/jobs/info/6a1a98e8c2a87d6cd3e00157"
     ],
     "swe-ai-full-time": [
-      "greenhouse-figma-5220003004",
-      "url:https://boards.greenhouse.io/figma/jobs/5220003004",
-      "greenhouse-figma-5552580004",
-      "url:https://boards.greenhouse.io/figma/jobs/5552580004",
-      "greenhouse-figma-5976930004",
-      "url:https://boards.greenhouse.io/figma/jobs/5976930004",
-      "greenhouse-figma-6013304004",
-      "url:https://boards.greenhouse.io/figma/jobs/6013304004",
-      "greenhouse-figma-6013303004",
-      "url:https://boards.greenhouse.io/figma/jobs/6013303004",
-      "greenhouse-figma-6009197004",
-      "url:https://boards.greenhouse.io/figma/jobs/6009197004",
-      "greenhouse-figma-6013495004",
-      "url:https://boards.greenhouse.io/figma/jobs/6013495004",
-      "greenhouse-figma-5551730004",
-      "url:https://boards.greenhouse.io/figma/jobs/5551730004",
-      "greenhouse-figma-5552530004",
-      "url:https://boards.greenhouse.io/figma/jobs/5552530004",
-      "greenhouse-figma-5551686004",
-      "url:https://boards.greenhouse.io/figma/jobs/5551686004",
-      "greenhouse-figma-5790627004",
-      "url:https://boards.greenhouse.io/figma/jobs/5790627004",
-      "greenhouse-figma-5552522004",
-      "url:https://boards.greenhouse.io/figma/jobs/5552522004",
-      "greenhouse-figma-5552560004",
-      "url:https://boards.greenhouse.io/figma/jobs/5552560004",
-      "greenhouse-figma-5551532004",
-      "url:https://boards.greenhouse.io/figma/jobs/5551532004",
-      "greenhouse-figma-5551649004",
-      "url:https://boards.greenhouse.io/figma/jobs/5551649004",
       "greenhouse-figma-5829751004",
       "url:https://boards.greenhouse.io/figma/jobs/5829751004",
       "greenhouse-figma-5691911004",
