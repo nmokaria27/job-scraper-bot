@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-fd97851c-d4e9-4a60-838c-e9bc18451bed",
-      "seen_at": "2026-07-17T08:37:48.257309+00:00"
-    },
-    {
-      "id": "url:https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1665",
-      "seen_at": "2026-07-17T08:37:48.257485+00:00"
-    },
-    {
       "id": "simplify-e018a92b-b910-4101-8f71-6461de332da9",
       "seen_at": "2026-07-17T10:26:52.494671+00:00"
     },
@@ -26961,7 +26953,7 @@
       "seen_at": "2026-08-16T07:38:27.932924+00:00"
     }
   ],
-  "last_run": "2026-08-16T08:03:14.195797+00:00",
+  "last_run": "2026-08-16T08:40:15.095177+00:00",
   "total_notified": 3312,
   "channels": {
     "swe-jobs": [
@@ -29239,8 +29231,6 @@
       "url:https://jobright.ai/jobs/info/69f04b58a4aa3545d8a5de8d"
     ],
     "swe-ai-full-time": [
-      "simplify-fd97851c-d4e9-4a60-838c-e9bc18451bed",
-      "url:https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1665",
       "simplify-e018a92b-b910-4101-8f71-6461de332da9",
       "url:https://jobs.ashbyhq.com/clera/f1755ec4-198d-4ec0-862b-448aaae45fce/application",
       "greenhouse-anthropic-5209196008",
