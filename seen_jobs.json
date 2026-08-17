@@ -26731,10 +26731,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5191226008",
       "seen_at": "2026-08-17T19:01:29.792829+00:00"
+    },
+    {
+      "id": "simplify-39639fa7-e69d-4585-b0bc-0bfe69452b6d",
+      "seen_at": "2026-08-17T20:36:09.383272+00:00"
+    },
+    {
+      "id": "url:https://careers-gdms.icims.com/jobs/74353/job",
+      "seen_at": "2026-08-17T20:36:09.383802+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5393039008",
+      "seen_at": "2026-08-17T20:36:09.384240+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5393039008",
+      "seen_at": "2026-08-17T20:36:09.384647+00:00"
     }
   ],
-  "last_run": "2026-08-17T19:54:47.261083+00:00",
-  "total_notified": 3338,
+  "last_run": "2026-08-17T20:36:09.528586+00:00",
+  "total_notified": 3340,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -33435,7 +33451,11 @@
       "greenhouse-figma-6142506004",
       "url:https://boards.greenhouse.io/figma/jobs/6142506004",
       "greenhouse-anthropic-5191226008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5191226008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5191226008",
+      "simplify-39639fa7-e69d-4585-b0bc-0bfe69452b6d",
+      "url:https://careers-gdms.icims.com/jobs/74353/job",
+      "greenhouse-anthropic-5393039008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5393039008"
     ]
   }
 }
