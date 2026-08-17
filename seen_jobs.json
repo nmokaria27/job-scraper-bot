@@ -26795,10 +26795,74 @@
     {
       "id": "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155860",
       "seen_at": "2026-08-17T22:33:21.547734+00:00"
+    },
+    {
+      "id": "simplify-baf0289f-d552-40cc-956a-c2184364f85a",
+      "seen_at": "2026-08-17T22:54:01.222738+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/xantium/jobs/4360768009",
+      "seen_at": "2026-08-17T22:54:01.223192+00:00"
+    },
+    {
+      "id": "simplify-9d9a6729-76a5-4fb4-b71f-ea04e053c877",
+      "seen_at": "2026-08-17T22:54:01.223603+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7668650945276168453/detail",
+      "seen_at": "2026-08-17T22:54:01.223969+00:00"
+    },
+    {
+      "id": "simplify-35fb935f-b0e2-45fc-b47d-30f441bc8d56",
+      "seen_at": "2026-08-17T22:54:01.224391+00:00"
+    },
+    {
+      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
+      "seen_at": "2026-08-17T22:54:01.224736+00:00"
+    },
+    {
+      "id": "simplify-6c81f43a-0537-494d-a776-dd4ac38accbf",
+      "seen_at": "2026-08-17T22:54:01.225058+00:00"
+    },
+    {
+      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
+      "seen_at": "2026-08-17T22:54:01.225381+00:00"
+    },
+    {
+      "id": "simplify-057837b7-3fc8-4359-a8b2-1a63802d4a6e",
+      "seen_at": "2026-08-17T22:54:01.225692+00:00"
+    },
+    {
+      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
+      "seen_at": "2026-08-17T22:54:01.226007+00:00"
+    },
+    {
+      "id": "simplify-f585bde5-311b-4e38-b814-787eb3d19819",
+      "seen_at": "2026-08-17T22:54:01.226342+00:00"
+    },
+    {
+      "id": "url:https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
+      "seen_at": "2026-08-17T22:54:01.226642+00:00"
+    },
+    {
+      "id": "ashby-openai-db993e24-ce4f-4f55-9187-403726bcb957",
+      "seen_at": "2026-08-17T22:54:02.313765+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/db993e24-ce4f-4f55-9187-403726bcb957",
+      "seen_at": "2026-08-17T22:54:02.314370+00:00"
+    },
+    {
+      "id": "simplify-0ffaa21c-d319-41eb-b21e-77a8c3a84f35",
+      "seen_at": "2026-08-17T22:54:03.509849+00:00"
+    },
+    {
+      "id": "url:https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Python-Developer_423278",
+      "seen_at": "2026-08-17T22:54:03.510362+00:00"
     }
   ],
-  "last_run": "2026-08-17T22:33:21.840426+00:00",
-  "total_notified": 3346,
+  "last_run": "2026-08-17T22:54:03.686886+00:00",
+  "total_notified": 3354,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -28461,7 +28525,19 @@
       "greenhouse-datadog-8052095",
       "url:https://careers.datadoghq.com/detail/8052095",
       "simplify-04e15531-638a-4578-bc04-9d717f8f01f0",
-      "url:https://job-boards.greenhouse.io/didi/jobs/8131863"
+      "url:https://job-boards.greenhouse.io/didi/jobs/8131863",
+      "simplify-baf0289f-d552-40cc-956a-c2184364f85a",
+      "url:https://job-boards.greenhouse.io/xantium/jobs/4360768009",
+      "simplify-9d9a6729-76a5-4fb4-b71f-ea04e053c877",
+      "url:https://jobs.bytedance.com/en/position/7668650945276168453/detail",
+      "simplify-35fb935f-b0e2-45fc-b47d-30f441bc8d56",
+      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
+      "simplify-6c81f43a-0537-494d-a776-dd4ac38accbf",
+      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
+      "simplify-057837b7-3fc8-4359-a8b2-1a63802d4a6e",
+      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
+      "simplify-f585bde5-311b-4e38-b814-787eb3d19819",
+      "url:https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257"
     ],
     "pm-jobs": [
       "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
@@ -29069,7 +29145,9 @@
       "jobright-4765aa0a32b4",
       "url:https://jobright.ai/jobs/info/6a83387a379c304e892f5b6d",
       "ashby-openai-94456c6c-2826-47f9-b5a9-0471fb8b7b96",
-      "url:https://jobs.ashbyhq.com/openai/94456c6c-2826-47f9-b5a9-0471fb8b7b96"
+      "url:https://jobs.ashbyhq.com/openai/94456c6c-2826-47f9-b5a9-0471fb8b7b96",
+      "ashby-openai-db993e24-ce4f-4f55-9187-403726bcb957",
+      "url:https://jobs.ashbyhq.com/openai/db993e24-ce4f-4f55-9187-403726bcb957"
     ],
     "swe-ai-full-time": [
       "simplify-0c79b2fa-a7cb-4534-8dd3-5d6e79a3980c",
@@ -33515,7 +33593,9 @@
       "simplify-f43a357d-9678-4c33-9100-fa8921cd3682",
       "url:https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Artificial-Intelligence---Machine-Learning-Verification-and-Validation-Engineer_REQ_0000080734-1",
       "simplify-45abede7-dc8b-4a14-80ef-9bcf0a9396b7",
-      "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155860"
+      "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155860",
+      "simplify-0ffaa21c-d319-41eb-b21e-77a8c3a84f35",
+      "url:https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Python-Developer_423278"
     ]
   }
 }
