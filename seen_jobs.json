@@ -26667,10 +26667,34 @@
     {
       "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
       "seen_at": "2026-08-17T14:12:11.040933+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-8052095",
+      "seen_at": "2026-08-17T14:48:20.449248+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/8052095",
+      "seen_at": "2026-08-17T14:48:20.449850+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-8108241",
+      "seen_at": "2026-08-17T14:48:21.609408+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/8108241",
+      "seen_at": "2026-08-17T14:48:21.610003+00:00"
+    },
+    {
+      "id": "simplify-acf99652-adf2-4fff-8ef1-4e83760711e4",
+      "seen_at": "2026-08-17T14:48:23.028721+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016",
+      "seen_at": "2026-08-17T14:48:23.029357+00:00"
     }
   ],
-  "last_run": "2026-08-17T14:12:12.290852+00:00",
-  "total_notified": 3328,
+  "last_run": "2026-08-17T14:48:23.368449+00:00",
+  "total_notified": 3331,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -28329,7 +28353,9 @@
       "simplify-e95cee0e-a2ed-44d1-9017-9befd82e1561",
       "url:https://lifeattiktok.com/search/7674032146438162693",
       "simplify-c344d643-aa8d-4d64-a497-67a78ca63dc9",
-      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082"
+      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+      "greenhouse-datadog-8052095",
+      "url:https://careers.datadoghq.com/detail/8052095"
     ],
     "pm-jobs": [
       "ashby-openai-713a9469-fb35-49db-809e-36f67c920880",
@@ -28929,7 +28955,9 @@
       "jobright-2531802b56fc",
       "url:https://jobright.ai/jobs/info/6a560dd8efb06a45240d3945",
       "jobright-25a613363972",
-      "url:https://jobright.ai/jobs/info/6a1a98e8c2a87d6cd3e00157"
+      "url:https://jobright.ai/jobs/info/6a1a98e8c2a87d6cd3e00157",
+      "greenhouse-datadog-8108241",
+      "url:https://careers.datadoghq.com/detail/8108241"
     ],
     "swe-ai-full-time": [
       "simplify-0c79b2fa-a7cb-4534-8dd3-5d6e79a3980c",
@@ -33355,7 +33383,9 @@
       "simplify-a8e9e244-d0b5-4ee1-a683-4b3d2d6ee8f6",
       "url:https://job-boards.greenhouse.io/assystinc/jobs/4371586009",
       "simplify-4a623f52-ac3e-4809-bbff-79d93ef3ec63",
-      "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-(Herndon,-VA)-VA-20171/1419939200"
+      "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-(Herndon,-VA)-VA-20171/1419939200",
+      "simplify-acf99652-adf2-4fff-8ef1-4e83760711e4",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016"
     ]
   }
 }
