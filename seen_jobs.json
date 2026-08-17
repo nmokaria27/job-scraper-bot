@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-figma-6092802004",
-      "seen_at": "2026-07-18T17:17:42.930135+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/6092802004",
-      "seen_at": "2026-07-18T17:17:42.930285+00:00"
-    },
-    {
       "id": "simplify-0c79b2fa-a7cb-4534-8dd3-5d6e79a3980c",
       "seen_at": "2026-07-18T23:30:50.040024+00:00"
     },
@@ -26715,10 +26707,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a831bfe2dbaf907b07665e1",
       "seen_at": "2026-08-17T16:37:40.105306+00:00"
+    },
+    {
+      "id": "ashby-openai-894ce80d-c587-4ef0-92d2-b16deb9a06b9",
+      "seen_at": "2026-08-17T17:47:52.277383+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9",
+      "seen_at": "2026-08-17T17:47:52.277701+00:00"
     }
   ],
-  "last_run": "2026-08-17T17:11:33.776847+00:00",
-  "total_notified": 3335,
+  "last_run": "2026-08-17T17:47:52.563372+00:00",
+  "total_notified": 3336,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -28384,8 +28384,6 @@
       "url:https://job-boards.greenhouse.io/didi/jobs/8131863"
     ],
     "pm-jobs": [
-      "greenhouse-figma-6092802004",
-      "url:https://boards.greenhouse.io/figma/jobs/6092802004",
       "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
       "url:https://jobs.ashbyhq.com/openai/0fae998b-5295-4567-b4b5-b20cf0346da3",
       "simplify-b6d26674-02dd-4d33-b66b-c7262e0d6a87",
@@ -33415,7 +33413,9 @@
       "simplify-4a623f52-ac3e-4809-bbff-79d93ef3ec63",
       "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-(Herndon,-VA)-VA-20171/1419939200",
       "simplify-acf99652-adf2-4fff-8ef1-4e83760711e4",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016",
+      "ashby-openai-894ce80d-c587-4ef0-92d2-b16deb9a06b9",
+      "url:https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9"
     ]
   }
 }
