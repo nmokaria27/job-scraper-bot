@@ -27099,10 +27099,58 @@
     {
       "id": "url:https://jobs-woodcons.icims.com/jobs/14803/job",
       "seen_at": "2026-08-18T08:56:14.638439+00:00"
+    },
+    {
+      "id": "simplify-5fef5ebc-9956-4edd-8a29-1eee01522d58",
+      "seen_at": "2026-08-18T09:42:12.512272+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675129440242010421",
+      "seen_at": "2026-08-18T09:42:12.512820+00:00"
+    },
+    {
+      "id": "simplify-b639bba8-cb2b-4262-9125-9b56aeefa4cb",
+      "seen_at": "2026-08-18T09:42:12.513272+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675128776856029445",
+      "seen_at": "2026-08-18T09:42:12.513740+00:00"
+    },
+    {
+      "id": "simplify-d0ef3f91-dcd5-437e-92c9-83432ed6e284",
+      "seen_at": "2026-08-18T09:42:14.467585+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7673895973460576517",
+      "seen_at": "2026-08-18T09:42:14.468207+00:00"
+    },
+    {
+      "id": "jobright-4ce693538ad4",
+      "seen_at": "2026-08-18T09:42:14.468878+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7e7e560cd4a070325805e2",
+      "seen_at": "2026-08-18T09:42:14.469481+00:00"
+    },
+    {
+      "id": "simplify-a2b482d1-0a95-4518-ae61-f372a6170842",
+      "seen_at": "2026-08-18T09:42:16.742169+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sciemo/63626f61-8507-482c-8beb-56efcbb55cee/application",
+      "seen_at": "2026-08-18T09:42:16.742763+00:00"
+    },
+    {
+      "id": "greenhouse-pinterest-7999050",
+      "seen_at": "2026-08-18T09:42:16.743302+00:00"
+    },
+    {
+      "id": "url:https://www.pinterestcareers.com/jobs",
+      "seen_at": "2026-08-18T09:42:16.743817+00:00"
     }
   ],
-  "last_run": "2026-08-18T08:56:14.972912+00:00",
-  "total_notified": 3385,
+  "last_run": "2026-08-18T09:42:17.051404+00:00",
+  "total_notified": 3391,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -28789,7 +28837,11 @@
       "simplify-f5319b1a-b6a0-42cb-9d68-43dc3a0e2b14",
       "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698",
       "simplify-8c190f84-7c21-4a30-a956-f5a480ccdec6",
-      "url:https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200"
+      "url:https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200",
+      "simplify-5fef5ebc-9956-4edd-8a29-1eee01522d58",
+      "url:https://lifeattiktok.com/search/7675129440242010421",
+      "simplify-b639bba8-cb2b-4262-9125-9b56aeefa4cb",
+      "url:https://lifeattiktok.com/search/7675128776856029445"
     ],
     "pm-jobs": [
       "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
@@ -29403,7 +29455,11 @@
       "jobright-14ad55c2a050",
       "url:https://jobright.ai/jobs/info/6a837730b5a0ac0e84a261d7",
       "jobright-9d0923405bd5",
-      "url:https://jobright.ai/jobs/info/6a84064d6cd9495f31074926"
+      "url:https://jobright.ai/jobs/info/6a84064d6cd9495f31074926",
+      "simplify-d0ef3f91-dcd5-437e-92c9-83432ed6e284",
+      "url:https://lifeattiktok.com/search/7673895973460576517",
+      "jobright-4ce693538ad4",
+      "url:https://jobright.ai/jobs/info/6a7e7e560cd4a070325805e2"
     ],
     "swe-ai-full-time": [
       "simplify-c8945595-20d2-46f8-8647-88f20add37e6",
@@ -33895,7 +33951,11 @@
       "simplify-ec674790-bb38-423e-bf36-84796ef90847",
       "url:https://jobs-woodcons.icims.com/jobs/14759/job",
       "simplify-30600f27-6e64-4519-9d2a-ea875352b5eb",
-      "url:https://jobs-woodcons.icims.com/jobs/14803/job"
+      "url:https://jobs-woodcons.icims.com/jobs/14803/job",
+      "simplify-a2b482d1-0a95-4518-ae61-f372a6170842",
+      "url:https://jobs.ashbyhq.com/sciemo/63626f61-8507-482c-8beb-56efcbb55cee/application",
+      "greenhouse-pinterest-7999050",
+      "url:https://www.pinterestcareers.com/jobs"
     ]
   }
 }
