@@ -27155,10 +27155,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a71a42f02d93145bf89023d",
       "seen_at": "2026-08-18T10:11:25.487236+00:00"
+    },
+    {
+      "id": "jobright-8faf3bec5d90",
+      "seen_at": "2026-08-18T13:11:39.180727+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7e7e470cd4a070325805df",
+      "seen_at": "2026-08-18T13:11:39.181334+00:00"
+    },
+    {
+      "id": "jobright-b1a8ca9a3efb",
+      "seen_at": "2026-08-18T13:11:39.181775+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7e7e51b56bea5779c063ac",
+      "seen_at": "2026-08-18T13:11:39.182234+00:00"
     }
   ],
-  "last_run": "2026-08-18T12:13:59.440627+00:00",
-  "total_notified": 3393,
+  "last_run": "2026-08-18T13:11:39.854090+00:00",
+  "total_notified": 3395,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -29471,7 +29487,11 @@
       "jobright-a1592f5702ce",
       "url:https://jobright.ai/jobs/info/6a3dca16882f121f56a38dec",
       "jobright-2877839db291",
-      "url:https://jobright.ai/jobs/info/6a71a42f02d93145bf89023d"
+      "url:https://jobright.ai/jobs/info/6a71a42f02d93145bf89023d",
+      "jobright-8faf3bec5d90",
+      "url:https://jobright.ai/jobs/info/6a7e7e470cd4a070325805df",
+      "jobright-b1a8ca9a3efb",
+      "url:https://jobright.ai/jobs/info/6a7e7e51b56bea5779c063ac"
     ],
     "swe-ai-full-time": [
       "greenhouse-anthropic-5305402008",
