@@ -26971,10 +26971,50 @@
     {
       "id": "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
       "seen_at": "2026-08-17T23:51:01.499400+00:00"
+    },
+    {
+      "id": "simplify-149cce4b-7421-4fc6-8841-bd40fabd4c41",
+      "seen_at": "2026-08-18T02:02:06.277887+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/CustomShow/75886593",
+      "seen_at": "2026-08-18T02:02:06.278440+00:00"
+    },
+    {
+      "id": "simplify-8b15cf88-1dc7-4e50-9279-545c21772f6c",
+      "seen_at": "2026-08-18T02:02:10.673164+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601",
+      "seen_at": "2026-08-18T02:02:10.673760+00:00"
+    },
+    {
+      "id": "simplify-9d095560-7990-43f5-93aa-7c97612afafe",
+      "seen_at": "2026-08-18T02:02:10.674240+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/MesotechInternationalInc/744000085097170",
+      "seen_at": "2026-08-18T02:02:10.674679+00:00"
+    },
+    {
+      "id": "simplify-a0548532-3712-4c26-9172-4f2c8f2a6a8d",
+      "seen_at": "2026-08-18T02:02:10.675127+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/AlphaNexusGroup/90016777",
+      "seen_at": "2026-08-18T02:02:10.675553+00:00"
+    },
+    {
+      "id": "simplify-cb485390-acac-4351-bbb4-60be1ca27578",
+      "seen_at": "2026-08-18T02:02:10.676002+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/DieselLaptops/743999719953833",
+      "seen_at": "2026-08-18T02:02:10.676461+00:00"
     }
   ],
-  "last_run": "2026-08-18T00:23:18.958788+00:00",
-  "total_notified": 3369,
+  "last_run": "2026-08-18T02:02:11.016756+00:00",
+  "total_notified": 3374,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -28653,7 +28693,9 @@
       "simplify-60c7c83c-4da3-419f-b94d-37706d65f534",
       "url:https://boards.greenhouse.io/point72/jobs/8721562002",
       "simplify-2d8fe16e-0d23-496c-9f2a-a5a1dd0f386a",
-      "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1"
+      "url:https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1",
+      "simplify-149cce4b-7421-4fc6-8841-bd40fabd4c41",
+      "url:https://jobs.smartrecruiters.com/CustomShow/75886593"
     ],
     "pm-jobs": [
       "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
@@ -33735,7 +33777,15 @@
       "simplify-408e1b6b-fbb4-4a54-8506-e4ea50788770",
       "url:https://careers.ctg.com/jobs/17373",
       "simplify-7c428946-1d38-4dd8-bfec-13b465441e8d",
-      "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009"
+      "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
+      "simplify-8b15cf88-1dc7-4e50-9279-545c21772f6c",
+      "url:https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601",
+      "simplify-9d095560-7990-43f5-93aa-7c97612afafe",
+      "url:https://jobs.smartrecruiters.com/MesotechInternationalInc/744000085097170",
+      "simplify-a0548532-3712-4c26-9172-4f2c8f2a6a8d",
+      "url:https://jobs.smartrecruiters.com/AlphaNexusGroup/90016777",
+      "simplify-cb485390-acac-4351-bbb4-60be1ca27578",
+      "url:https://jobs.smartrecruiters.com/DieselLaptops/743999719953833"
     ]
   }
 }
