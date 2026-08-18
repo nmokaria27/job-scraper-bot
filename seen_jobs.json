@@ -27539,10 +27539,34 @@
     {
       "id": "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699",
       "seen_at": "2026-08-18T23:30:02.647825+00:00"
+    },
+    {
+      "id": "simplify-9cc1f56c-0976-4b70-858c-3ca47bbd6331",
+      "seen_at": "2026-08-18T23:50:58.470560+00:00"
+    },
+    {
+      "id": "url:https://jobs.intuit.com/job/new-york/intern-software-engineering/27595/99410270400",
+      "seen_at": "2026-08-18T23:50:58.471052+00:00"
+    },
+    {
+      "id": "simplify-1366c200-21e0-464f-ade7-0f3ea4e05672",
+      "seen_at": "2026-08-18T23:51:01.076556+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/quantcast/18213524-c947-4be3-b728-497f23dcd5cf/application",
+      "seen_at": "2026-08-18T23:51:01.077199+00:00"
+    },
+    {
+      "id": "simplify-d1b109a6-58b7-44a3-8f0d-f218c896370a",
+      "seen_at": "2026-08-18T23:51:01.077700+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c/application",
+      "seen_at": "2026-08-18T23:51:01.078108+00:00"
     }
   ],
-  "last_run": "2026-08-18T23:30:02.908402+00:00",
-  "total_notified": 3443,
+  "last_run": "2026-08-18T23:51:01.373404+00:00",
+  "total_notified": 3446,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -29245,7 +29269,9 @@
       "simplify-d935bae6-e667-4bd1-b10d-4431b5555110",
       "url:https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
       "simplify-5370153e-8623-4e1d-b4f6-986a7ab410a1",
-      "url:https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
+      "url:https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
+      "simplify-9cc1f56c-0976-4b70-858c-3ca47bbd6331",
+      "url:https://jobs.intuit.com/job/new-york/intern-software-engineering/27595/99410270400"
     ],
     "pm-jobs": [
       "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
@@ -34445,7 +34471,11 @@
       "simplify-de930e2a-dc89-4d37-9ba8-a81206dce5c6",
       "url:https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003",
       "simplify-c18c5b18-30ae-4200-998b-302316f70edb",
-      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699"
+      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699",
+      "simplify-1366c200-21e0-464f-ade7-0f3ea4e05672",
+      "url:https://jobs.ashbyhq.com/quantcast/18213524-c947-4be3-b728-497f23dcd5cf/application",
+      "simplify-d1b109a6-58b7-44a3-8f0d-f218c896370a",
+      "url:https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c/application"
     ]
   }
 }
