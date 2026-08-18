@@ -27011,10 +27011,18 @@
     {
       "id": "url:https://jobs.smartrecruiters.com/DieselLaptops/743999719953833",
       "seen_at": "2026-08-18T02:02:10.676461+00:00"
+    },
+    {
+      "id": "simplify-1684b5f7-9d7b-4b05-a2f1-4335f8426ec4",
+      "seen_at": "2026-08-18T03:03:16.609821+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/Zoro/87619425",
+      "seen_at": "2026-08-18T03:03:16.610317+00:00"
     }
   ],
-  "last_run": "2026-08-18T02:02:11.016756+00:00",
-  "total_notified": 3374,
+  "last_run": "2026-08-18T03:03:16.772806+00:00",
+  "total_notified": 3375,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -33785,7 +33793,9 @@
       "simplify-a0548532-3712-4c26-9172-4f2c8f2a6a8d",
       "url:https://jobs.smartrecruiters.com/AlphaNexusGroup/90016777",
       "simplify-cb485390-acac-4351-bbb4-60be1ca27578",
-      "url:https://jobs.smartrecruiters.com/DieselLaptops/743999719953833"
+      "url:https://jobs.smartrecruiters.com/DieselLaptops/743999719953833",
+      "simplify-1684b5f7-9d7b-4b05-a2f1-4335f8426ec4",
+      "url:https://jobs.smartrecruiters.com/Zoro/87619425"
     ]
   }
 }
