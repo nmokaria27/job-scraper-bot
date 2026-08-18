@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-e57d196b-4fa0-4463-bd33-d8189f0d3541",
-      "seen_at": "2026-07-19T22:28:22.503281+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541",
-      "seen_at": "2026-07-19T22:28:22.503537+00:00"
-    },
-    {
       "id": "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
       "seen_at": "2026-07-20T04:55:06.387815+00:00"
     },
@@ -27363,10 +27355,138 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a84aecce12474455273bddd",
       "seen_at": "2026-08-18T20:42:49.236427+00:00"
+    },
+    {
+      "id": "simplify-f19cac09-be15-4c34-8da9-93a79ae5b710",
+      "seen_at": "2026-08-18T22:36:16.579961+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Herndon-Intern-C,-Software-Engineer-VA-20171/1420704700",
+      "seen_at": "2026-08-18T22:36:16.580418+00:00"
+    },
+    {
+      "id": "simplify-f8a8d6e1-4ac2-45e9-a352-15eae10f1bdd",
+      "seen_at": "2026-08-18T22:36:16.580849+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678",
+      "seen_at": "2026-08-18T22:36:16.581233+00:00"
+    },
+    {
+      "id": "simplify-8a917451-91ce-4fdb-ab11-e7564dd99c37",
+      "seen_at": "2026-08-18T22:36:16.581599+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814",
+      "seen_at": "2026-08-18T22:36:16.581952+00:00"
+    },
+    {
+      "id": "simplify-b3e3291d-011b-45fc-af44-94163d5db87d",
+      "seen_at": "2026-08-18T22:36:19.090180+00:00"
+    },
+    {
+      "id": "url:https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Product-Management-Specialist--Smartphones--A-S-_R119563",
+      "seen_at": "2026-08-18T22:36:19.090619+00:00"
+    },
+    {
+      "id": "ashby-openai-99c80ef6-b5aa-4355-9170-0010151867e6",
+      "seen_at": "2026-08-18T22:36:19.091023+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/99c80ef6-b5aa-4355-9170-0010151867e6",
+      "seen_at": "2026-08-18T22:36:19.091377+00:00"
+    },
+    {
+      "id": "simplify-f2da14ca-8f33-41b0-abff-665c1a8b713e",
+      "seen_at": "2026-08-18T22:36:28.913111+00:00"
+    },
+    {
+      "id": "url:https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/Salesforce-Developer_REQ147178",
+      "seen_at": "2026-08-18T22:36:28.913608+00:00"
+    },
+    {
+      "id": "simplify-542b64c8-2818-4c7a-ac2e-819703cd81c0",
+      "seen_at": "2026-08-18T22:36:28.914065+00:00"
+    },
+    {
+      "id": "url:https://careers-gdms.icims.com/jobs/74389/job",
+      "seen_at": "2026-08-18T22:36:28.914470+00:00"
+    },
+    {
+      "id": "simplify-58d76026-06e1-4eda-b528-b3b0a38ec9d0",
+      "seen_at": "2026-08-18T22:36:28.914886+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356972009",
+      "seen_at": "2026-08-18T22:36:28.915259+00:00"
+    },
+    {
+      "id": "simplify-78bcfab7-4ae8-462b-a21f-fc1444d142c9",
+      "seen_at": "2026-08-18T22:36:28.915640+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2625245",
+      "seen_at": "2026-08-18T22:36:28.916039+00:00"
+    },
+    {
+      "id": "simplify-d97d15b1-1e5d-4fcf-8640-1261f9169aea",
+      "seen_at": "2026-08-18T22:36:28.916415+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/RenesasElectronics/744000144160389",
+      "seen_at": "2026-08-18T22:36:28.916803+00:00"
+    },
+    {
+      "id": "simplify-e388f3ae-1f83-414c-aa91-7073a448bb2e",
+      "seen_at": "2026-08-18T22:36:28.917165+00:00"
+    },
+    {
+      "id": "url:https://careers.amd.com/jobs/89552",
+      "seen_at": "2026-08-18T22:36:28.917516+00:00"
+    },
+    {
+      "id": "simplify-907c2aa4-3c0e-4d8e-b8ba-81cd156e1872",
+      "seen_at": "2026-08-18T22:36:28.917890+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I--Onsite-_01867976",
+      "seen_at": "2026-08-18T22:36:28.918230+00:00"
+    },
+    {
+      "id": "simplify-bde086bf-dab1-4025-b1fa-8d581fc9b704",
+      "seen_at": "2026-08-18T22:36:28.918573+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811",
+      "seen_at": "2026-08-18T22:36:28.919027+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5386971008",
+      "seen_at": "2026-08-18T22:36:28.919397+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5386971008",
+      "seen_at": "2026-08-18T22:36:28.919796+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-6117204004",
+      "seen_at": "2026-08-18T22:36:28.920170+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6117204004",
+      "seen_at": "2026-08-18T22:36:28.920510+00:00"
+    },
+    {
+      "id": "ashby-openai-e57d196b-4fa0-4463-bd33-d8189f0d3541",
+      "seen_at": "2026-08-18T22:36:28.920879+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541",
+      "seen_at": "2026-08-18T22:36:28.921211+00:00"
     }
   ],
-  "last_run": "2026-08-18T22:05:08.304518+00:00",
-  "total_notified": 3420,
+  "last_run": "2026-08-18T22:36:29.177336+00:00",
+  "total_notified": 3436,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -29059,7 +29179,13 @@
       "simplify-b639bba8-cb2b-4262-9125-9b56aeefa4cb",
       "url:https://lifeattiktok.com/search/7675128776856029445",
       "simplify-8ea3fe5c-b537-4649-8327-c44bf0d81ec5",
-      "url:https://jobs.l3harris.com/job/Ashburn-IntegrationTest-Engineering-Internship-VA-20147/1420071500"
+      "url:https://jobs.l3harris.com/job/Ashburn-IntegrationTest-Engineering-Internship-VA-20147/1420071500",
+      "simplify-f19cac09-be15-4c34-8da9-93a79ae5b710",
+      "url:https://jobs.l3harris.com/job/Herndon-Intern-C,-Software-Engineer-VA-20171/1420704700",
+      "simplify-f8a8d6e1-4ac2-45e9-a352-15eae10f1bdd",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678",
+      "simplify-8a917451-91ce-4fdb-ab11-e7564dd99c37",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814"
     ],
     "pm-jobs": [
       "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
@@ -29721,11 +29847,13 @@
       "ashby-openai-a4981ed2-331a-4927-a95f-fabb64c9c799",
       "url:https://jobs.ashbyhq.com/openai/a4981ed2-331a-4927-a95f-fabb64c9c799",
       "jobright-325a4f68f737",
-      "url:https://jobright.ai/jobs/info/6a84aecce12474455273bddd"
+      "url:https://jobright.ai/jobs/info/6a84aecce12474455273bddd",
+      "simplify-b3e3291d-011b-45fc-af44-94163d5db87d",
+      "url:https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Product-Management-Specialist--Smartphones--A-S-_R119563",
+      "ashby-openai-99c80ef6-b5aa-4355-9170-0010151867e6",
+      "url:https://jobs.ashbyhq.com/openai/99c80ef6-b5aa-4355-9170-0010151867e6"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-e57d196b-4fa0-4463-bd33-d8189f0d3541",
-      "url:https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541",
       "simplify-329c34b0-2085-4389-8916-e5acd0bdb164",
       "url:https://jobs.ashbyhq.com/KAYAK/8333e351-7a08-4767-9966-f75411b78d80/application",
       "simplify-85a549ad-cef1-458b-b15e-382ac68ad136",
@@ -34225,7 +34353,29 @@
       "ashby-openai-71838fdf-4476-490c-81b6-4bf0746f6774",
       "url:https://jobs.ashbyhq.com/openai/71838fdf-4476-490c-81b6-4bf0746f6774",
       "greenhouse-reddit-8139781",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8139781"
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8139781",
+      "simplify-f2da14ca-8f33-41b0-abff-665c1a8b713e",
+      "url:https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/Salesforce-Developer_REQ147178",
+      "simplify-542b64c8-2818-4c7a-ac2e-819703cd81c0",
+      "url:https://careers-gdms.icims.com/jobs/74389/job",
+      "simplify-58d76026-06e1-4eda-b528-b3b0a38ec9d0",
+      "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356972009",
+      "simplify-78bcfab7-4ae8-462b-a21f-fc1444d142c9",
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2625245",
+      "simplify-d97d15b1-1e5d-4fcf-8640-1261f9169aea",
+      "url:https://jobs.smartrecruiters.com/RenesasElectronics/744000144160389",
+      "simplify-e388f3ae-1f83-414c-aa91-7073a448bb2e",
+      "url:https://careers.amd.com/jobs/89552",
+      "simplify-907c2aa4-3c0e-4d8e-b8ba-81cd156e1872",
+      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I--Onsite-_01867976",
+      "simplify-bde086bf-dab1-4025-b1fa-8d581fc9b704",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811",
+      "greenhouse-anthropic-5386971008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5386971008",
+      "greenhouse-vercel-6117204004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6117204004",
+      "ashby-openai-e57d196b-4fa0-4463-bd33-d8189f0d3541",
+      "url:https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541"
     ]
   }
 }
