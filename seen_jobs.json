@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-c8945595-20d2-46f8-8647-88f20add37e6",
-      "seen_at": "2026-07-19T10:46:49.778256+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/spacex/jobs/8637712002",
-      "seen_at": "2026-07-19T10:46:49.778472+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5305402008",
       "seen_at": "2026-07-19T15:18:04.159219+00:00"
     },
@@ -27165,7 +27157,7 @@
       "seen_at": "2026-08-18T10:11:25.487236+00:00"
     }
   ],
-  "last_run": "2026-08-18T10:11:26.109731+00:00",
+  "last_run": "2026-08-18T10:49:32.284021+00:00",
   "total_notified": 3393,
   "channels": {
     "swe-jobs": [
@@ -29482,8 +29474,6 @@
       "url:https://jobright.ai/jobs/info/6a71a42f02d93145bf89023d"
     ],
     "swe-ai-full-time": [
-      "simplify-c8945595-20d2-46f8-8647-88f20add37e6",
-      "url:https://boards.greenhouse.io/spacex/jobs/8637712002",
       "greenhouse-anthropic-5305402008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5305402008",
       "ashby-openai-e57d196b-4fa0-4463-bd33-d8189f0d3541",
