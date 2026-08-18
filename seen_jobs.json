@@ -27483,10 +27483,66 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541",
       "seen_at": "2026-08-18T22:36:28.921211+00:00"
+    },
+    {
+      "id": "simplify-d935bae6-e667-4bd1-b10d-4431b5555110",
+      "seen_at": "2026-08-18T23:29:57.787311+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+      "seen_at": "2026-08-18T23:29:57.787849+00:00"
+    },
+    {
+      "id": "simplify-5370153e-8623-4e1d-b4f6-986a7ab410a1",
+      "seen_at": "2026-08-18T23:29:57.788388+00:00"
+    },
+    {
+      "id": "url:https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
+      "seen_at": "2026-08-18T23:29:57.788827+00:00"
+    },
+    {
+      "id": "simplify-51a49e4a-6863-481c-807d-570b0a1db7fa",
+      "seen_at": "2026-08-18T23:30:02.643430+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008",
+      "seen_at": "2026-08-18T23:30:02.644009+00:00"
+    },
+    {
+      "id": "simplify-b2c6199d-57c1-4fbb-9de4-1dbb413f3c65",
+      "seen_at": "2026-08-18T23:30:02.644563+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/relativity/jobs/8726261002",
+      "seen_at": "2026-08-18T23:30:02.645025+00:00"
+    },
+    {
+      "id": "simplify-7162223f-d901-4fff-b611-efabc6e5abce",
+      "seen_at": "2026-08-18T23:30:02.645577+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003",
+      "seen_at": "2026-08-18T23:30:02.646018+00:00"
+    },
+    {
+      "id": "simplify-de930e2a-dc89-4d37-9ba8-a81206dce5c6",
+      "seen_at": "2026-08-18T23:30:02.646477+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003",
+      "seen_at": "2026-08-18T23:30:02.646906+00:00"
+    },
+    {
+      "id": "simplify-c18c5b18-30ae-4200-998b-302316f70edb",
+      "seen_at": "2026-08-18T23:30:02.647385+00:00"
+    },
+    {
+      "id": "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699",
+      "seen_at": "2026-08-18T23:30:02.647825+00:00"
     }
   ],
-  "last_run": "2026-08-18T22:56:20.630510+00:00",
-  "total_notified": 3436,
+  "last_run": "2026-08-18T23:30:02.908402+00:00",
+  "total_notified": 3443,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -29185,7 +29241,11 @@
       "simplify-f8a8d6e1-4ac2-45e9-a352-15eae10f1bdd",
       "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678",
       "simplify-8a917451-91ce-4fdb-ab11-e7564dd99c37",
-      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814"
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814",
+      "simplify-d935bae6-e667-4bd1-b10d-4431b5555110",
+      "url:https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+      "simplify-5370153e-8623-4e1d-b4f6-986a7ab410a1",
+      "url:https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
     ],
     "pm-jobs": [
       "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
@@ -34375,7 +34435,17 @@
       "greenhouse-vercel-6117204004",
       "url:https://job-boards.greenhouse.io/vercel/jobs/6117204004",
       "ashby-openai-e57d196b-4fa0-4463-bd33-d8189f0d3541",
-      "url:https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541"
+      "url:https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541",
+      "simplify-51a49e4a-6863-481c-807d-570b0a1db7fa",
+      "url:https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008",
+      "simplify-b2c6199d-57c1-4fbb-9de4-1dbb413f3c65",
+      "url:https://boards.greenhouse.io/relativity/jobs/8726261002",
+      "simplify-7162223f-d901-4fff-b611-efabc6e5abce",
+      "url:https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003",
+      "simplify-de930e2a-dc89-4d37-9ba8-a81206dce5c6",
+      "url:https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003",
+      "simplify-c18c5b18-30ae-4200-998b-302316f70edb",
+      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699"
     ]
   }
 }
