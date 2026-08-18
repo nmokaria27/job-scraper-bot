@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5305402008",
-      "seen_at": "2026-07-19T15:18:04.159219+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5305402008",
-      "seen_at": "2026-07-19T15:18:04.159354+00:00"
-    },
-    {
       "id": "ashby-openai-e57d196b-4fa0-4463-bd33-d8189f0d3541",
       "seen_at": "2026-07-19T22:28:22.503281+00:00"
     },
@@ -27235,10 +27227,50 @@
     {
       "id": "url:https://jobs.l3harris.com/job/Greenville-Associate,-IntegrationTest-Engineering-(Greenville,-TX)-TX-75402/1420469200",
       "seen_at": "2026-08-18T15:14:59.752833+00:00"
+    },
+    {
+      "id": "jobright-1ed39591cd83",
+      "seen_at": "2026-08-18T15:49:19.410173+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a73f26532ebbc14ffb516df",
+      "seen_at": "2026-08-18T15:49:19.410526+00:00"
+    },
+    {
+      "id": "jobright-98b1a961ce7d",
+      "seen_at": "2026-08-18T15:49:19.410855+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a71a431ee751e0c79344640",
+      "seen_at": "2026-08-18T15:49:19.411162+00:00"
+    },
+    {
+      "id": "jobright-526faf154137",
+      "seen_at": "2026-08-18T15:49:19.411444+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a73f2648dc3d52d8eda1e01",
+      "seen_at": "2026-08-18T15:49:19.411717+00:00"
+    },
+    {
+      "id": "jobright-f1180a3bb936",
+      "seen_at": "2026-08-18T15:49:19.411993+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a73f25e8dc3d52d8eda1dfe",
+      "seen_at": "2026-08-18T15:49:19.412259+00:00"
+    },
+    {
+      "id": "jobright-5b649d38f85b",
+      "seen_at": "2026-08-18T15:49:19.412583+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a3f3f544d047136e0939145",
+      "seen_at": "2026-08-18T15:49:19.412830+00:00"
     }
   ],
-  "last_run": "2026-08-18T15:14:59.918139+00:00",
-  "total_notified": 3403,
+  "last_run": "2026-08-18T15:49:20.132495+00:00",
+  "total_notified": 3408,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -29569,11 +29601,19 @@
       "jobright-aa3fccabe6c0",
       "url:https://jobright.ai/jobs/info/6a73f27132ebbc14ffb516e4",
       "jobright-fa703e3178b1",
-      "url:https://jobright.ai/jobs/info/6a30b41a093df201d07b26b0"
+      "url:https://jobright.ai/jobs/info/6a30b41a093df201d07b26b0",
+      "jobright-1ed39591cd83",
+      "url:https://jobright.ai/jobs/info/6a73f26532ebbc14ffb516df",
+      "jobright-98b1a961ce7d",
+      "url:https://jobright.ai/jobs/info/6a71a431ee751e0c79344640",
+      "jobright-526faf154137",
+      "url:https://jobright.ai/jobs/info/6a73f2648dc3d52d8eda1e01",
+      "jobright-f1180a3bb936",
+      "url:https://jobright.ai/jobs/info/6a73f25e8dc3d52d8eda1dfe",
+      "jobright-5b649d38f85b",
+      "url:https://jobright.ai/jobs/info/6a3f3f544d047136e0939145"
     ],
     "swe-ai-full-time": [
-      "greenhouse-anthropic-5305402008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5305402008",
       "ashby-openai-e57d196b-4fa0-4463-bd33-d8189f0d3541",
       "url:https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541",
       "simplify-329c34b0-2085-4389-8916-e5acd0bdb164",
