@@ -27067,10 +27067,42 @@
     {
       "id": "url:https://jobs.apple.com/en-us/details/200678510",
       "seen_at": "2026-08-18T07:47:24.222419+00:00"
+    },
+    {
+      "id": "simplify-8c190f84-7c21-4a30-a956-f5a480ccdec6",
+      "seen_at": "2026-08-18T08:56:11.903558+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200",
+      "seen_at": "2026-08-18T08:56:11.903960+00:00"
+    },
+    {
+      "id": "jobright-9d0923405bd5",
+      "seen_at": "2026-08-18T08:56:12.915960+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a84064d6cd9495f31074926",
+      "seen_at": "2026-08-18T08:56:12.916312+00:00"
+    },
+    {
+      "id": "simplify-ec674790-bb38-423e-bf36-84796ef90847",
+      "seen_at": "2026-08-18T08:56:14.637366+00:00"
+    },
+    {
+      "id": "url:https://jobs-woodcons.icims.com/jobs/14759/job",
+      "seen_at": "2026-08-18T08:56:14.637786+00:00"
+    },
+    {
+      "id": "simplify-30600f27-6e64-4519-9d2a-ea875352b5eb",
+      "seen_at": "2026-08-18T08:56:14.638123+00:00"
+    },
+    {
+      "id": "url:https://jobs-woodcons.icims.com/jobs/14803/job",
+      "seen_at": "2026-08-18T08:56:14.638439+00:00"
     }
   ],
-  "last_run": "2026-08-18T08:16:13.749488+00:00",
-  "total_notified": 3381,
+  "last_run": "2026-08-18T08:56:14.972912+00:00",
+  "total_notified": 3385,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -28755,7 +28787,9 @@
       "simplify-2a67cef3-5836-4452-832c-ec5b39cff69b",
       "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914",
       "simplify-f5319b1a-b6a0-42cb-9d68-43dc3a0e2b14",
-      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698"
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698",
+      "simplify-8c190f84-7c21-4a30-a956-f5a480ccdec6",
+      "url:https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200"
     ],
     "pm-jobs": [
       "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
@@ -29367,7 +29401,9 @@
       "ashby-openai-db993e24-ce4f-4f55-9187-403726bcb957",
       "url:https://jobs.ashbyhq.com/openai/db993e24-ce4f-4f55-9187-403726bcb957",
       "jobright-14ad55c2a050",
-      "url:https://jobright.ai/jobs/info/6a837730b5a0ac0e84a261d7"
+      "url:https://jobright.ai/jobs/info/6a837730b5a0ac0e84a261d7",
+      "jobright-9d0923405bd5",
+      "url:https://jobright.ai/jobs/info/6a84064d6cd9495f31074926"
     ],
     "swe-ai-full-time": [
       "simplify-c8945595-20d2-46f8-8647-88f20add37e6",
@@ -33855,7 +33891,11 @@
       "simplify-4a0ac2bd-9aed-42eb-88de-3663340e79b5",
       "url:https://nexthopai.bamboohr.com/careers/24",
       "simplify-a96278c1-ade0-425c-83f0-3a2b804be61d",
-      "url:https://jobs.apple.com/en-us/details/200678510"
+      "url:https://jobs.apple.com/en-us/details/200678510",
+      "simplify-ec674790-bb38-423e-bf36-84796ef90847",
+      "url:https://jobs-woodcons.icims.com/jobs/14759/job",
+      "simplify-30600f27-6e64-4519-9d2a-ea875352b5eb",
+      "url:https://jobs-woodcons.icims.com/jobs/14803/job"
     ]
   }
 }
