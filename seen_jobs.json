@@ -27755,10 +27755,42 @@
     {
       "id": "url:https://careers-ebscoind.icims.com/jobs/2065/job",
       "seen_at": "2026-08-19T10:48:58.258934+00:00"
+    },
+    {
+      "id": "speedyapply-13dd8df85fed",
+      "seen_at": "2026-08-19T13:13:06.448398+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+      "seen_at": "2026-08-19T13:13:06.448972+00:00"
+    },
+    {
+      "id": "speedyapply-c2ed346790a2",
+      "seen_at": "2026-08-19T13:13:06.449461+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+      "seen_at": "2026-08-19T13:13:06.449926+00:00"
+    },
+    {
+      "id": "speedyapply-5bec25a398cd",
+      "seen_at": "2026-08-19T13:13:06.450370+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+      "seen_at": "2026-08-19T13:13:06.450812+00:00"
+    },
+    {
+      "id": "speedyapply-ad750774b1dd",
+      "seen_at": "2026-08-19T13:13:06.451259+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833",
+      "seen_at": "2026-08-19T13:13:06.451705+00:00"
     }
   ],
-  "last_run": "2026-08-19T12:13:30.220207+00:00",
-  "total_notified": 3471,
+  "last_run": "2026-08-19T13:13:06.710616+00:00",
+  "total_notified": 3475,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -34715,7 +34747,15 @@
       "greenhouse-datadog-8141243",
       "url:https://careers.datadoghq.com/detail/8141243",
       "greenhouse-datadog-8141240",
-      "url:https://careers.datadoghq.com/detail/8141240"
+      "url:https://careers.datadoghq.com/detail/8141240",
+      "speedyapply-13dd8df85fed",
+      "url:https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+      "speedyapply-c2ed346790a2",
+      "url:https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+      "speedyapply-5bec25a398cd",
+      "url:https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+      "speedyapply-ad750774b1dd",
+      "url:https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833"
     ]
   }
 }
