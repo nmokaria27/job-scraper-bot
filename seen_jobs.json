@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-b6d26674-02dd-4d33-b66b-c7262e0d6a87",
-      "seen_at": "2026-07-20T17:02:49.818385+00:00"
-    },
-    {
-      "id": "url:https://careers.footlocker.com/jobs/71035",
-      "seen_at": "2026-07-20T17:02:49.818503+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8055637",
-      "seen_at": "2026-07-20T17:02:49.818592+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8055637",
-      "seen_at": "2026-07-20T17:02:49.818672+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5271346008",
-      "seen_at": "2026-07-20T17:02:51.052086+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5271346008",
-      "seen_at": "2026-07-20T17:02:51.052232+00:00"
-    },
-    {
       "id": "greenhouse-airbnb-8074955",
       "seen_at": "2026-07-20T19:01:44.611281+00:00"
     },
@@ -27795,10 +27771,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/ca2fe3e4-8377-461f-b6f2-80d127f4b94d",
       "seen_at": "2026-08-19T16:50:09.130603+00:00"
+    },
+    {
+      "id": "jobright-6d92cb336bb9",
+      "seen_at": "2026-08-19T17:12:44.144133+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a85c18de459fa3baa8639bf",
+      "seen_at": "2026-08-19T17:12:44.144844+00:00"
+    },
+    {
+      "id": "jobright-5c7048f50c60",
+      "seen_at": "2026-08-19T17:12:44.145439+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a85c02c4afae74a08340f1e",
+      "seen_at": "2026-08-19T17:12:44.146012+00:00"
     }
   ],
-  "last_run": "2026-08-19T16:50:09.376479+00:00",
-  "total_notified": 3480,
+  "last_run": "2026-08-19T17:12:45.072889+00:00",
+  "total_notified": 3482,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -29526,10 +29518,6 @@
       "url:https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579"
     ],
     "pm-jobs": [
-      "simplify-b6d26674-02dd-4d33-b66b-c7262e0d6a87",
-      "url:https://careers.footlocker.com/jobs/71035",
-      "greenhouse-airbnb-8055637",
-      "url:https://careers.airbnb.com/positions/8055637",
       "greenhouse-brex-8438582002",
       "url:https://www.brex.com/careers/8438582002",
       "greenhouse-brex-8438580002",
@@ -30203,11 +30191,13 @@
       "jobright-9768744ba12b",
       "url:https://jobright.ai/jobs/info/6a85b3ab2f4f0014cae257e9",
       "greenhouse-anthropic-5393452008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5393452008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5393452008",
+      "jobright-6d92cb336bb9",
+      "url:https://jobright.ai/jobs/info/6a85c18de459fa3baa8639bf",
+      "jobright-5c7048f50c60",
+      "url:https://jobright.ai/jobs/info/6a85c02c4afae74a08340f1e"
     ],
     "swe-ai-full-time": [
-      "greenhouse-anthropic-5271346008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5271346008",
       "greenhouse-airbnb-8074955",
       "url:https://careers.airbnb.com/positions/8074955",
       "greenhouse-vercel-5989803004",
