@@ -27563,10 +27563,42 @@
     {
       "id": "url:https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c/application",
       "seen_at": "2026-08-18T23:51:01.078108+00:00"
+    },
+    {
+      "id": "simplify-aa4bbef5-7c2d-408f-ac85-631b5d94b82c",
+      "seen_at": "2026-08-19T02:04:50.012132+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7673910154845014325",
+      "seen_at": "2026-08-19T02:04:50.012734+00:00"
+    },
+    {
+      "id": "simplify-812dde3e-f5d8-4568-a880-22c4d06b394d",
+      "seen_at": "2026-08-19T02:04:50.013246+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675439423287314693",
+      "seen_at": "2026-08-19T02:04:50.013643+00:00"
+    },
+    {
+      "id": "simplify-41eb13a2-e04a-495a-8e9a-3d83273bbb01",
+      "seen_at": "2026-08-19T02:04:50.014067+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675440171819960629",
+      "seen_at": "2026-08-19T02:04:50.014480+00:00"
+    },
+    {
+      "id": "simplify-20a58aca-229f-4e97-b6ae-6ffb0759e594",
+      "seen_at": "2026-08-19T02:04:51.208229+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675484418022181173",
+      "seen_at": "2026-08-19T02:04:51.208790+00:00"
     }
   ],
-  "last_run": "2026-08-19T00:23:07.758634+00:00",
-  "total_notified": 3446,
+  "last_run": "2026-08-19T02:04:51.416310+00:00",
+  "total_notified": 3450,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -29937,7 +29969,13 @@
       "simplify-b3e3291d-011b-45fc-af44-94163d5db87d",
       "url:https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Product-Management-Specialist--Smartphones--A-S-_R119563",
       "ashby-openai-99c80ef6-b5aa-4355-9170-0010151867e6",
-      "url:https://jobs.ashbyhq.com/openai/99c80ef6-b5aa-4355-9170-0010151867e6"
+      "url:https://jobs.ashbyhq.com/openai/99c80ef6-b5aa-4355-9170-0010151867e6",
+      "simplify-aa4bbef5-7c2d-408f-ac85-631b5d94b82c",
+      "url:https://lifeattiktok.com/search/7673910154845014325",
+      "simplify-812dde3e-f5d8-4568-a880-22c4d06b394d",
+      "url:https://lifeattiktok.com/search/7675439423287314693",
+      "simplify-41eb13a2-e04a-495a-8e9a-3d83273bbb01",
+      "url:https://lifeattiktok.com/search/7675440171819960629"
     ],
     "swe-ai-full-time": [
       "simplify-329c34b0-2085-4389-8916-e5acd0bdb164",
@@ -34475,7 +34513,9 @@
       "simplify-1366c200-21e0-464f-ade7-0f3ea4e05672",
       "url:https://jobs.ashbyhq.com/quantcast/18213524-c947-4be3-b728-497f23dcd5cf/application",
       "simplify-d1b109a6-58b7-44a3-8f0d-f218c896370a",
-      "url:https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c/application"
+      "url:https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c/application",
+      "simplify-20a58aca-229f-4e97-b6ae-6ffb0759e594",
+      "url:https://lifeattiktok.com/search/7675484418022181173"
     ]
   }
 }
