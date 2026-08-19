@@ -1,126 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-5fdbf0e9-e98a-4251-b983-801d494ae586",
-      "seen_at": "2026-07-20T23:42:27.541063+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
-      "seen_at": "2026-07-20T23:42:27.541267+00:00"
-    },
-    {
-      "id": "simplify-9ed0d36f-ac09-4b6a-9e11-cc94757ed49a",
-      "seen_at": "2026-07-20T23:42:27.541431+00:00"
-    },
-    {
-      "id": "url:https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807",
-      "seen_at": "2026-07-20T23:42:27.541620+00:00"
-    },
-    {
-      "id": "simplify-137aaba7-60bd-4b05-9fbe-13f5e8eee695",
-      "seen_at": "2026-07-20T23:42:28.517627+00:00"
-    },
-    {
-      "id": "url:https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/Massachusetts---Boston/Associate-Product-Manager--Traffic-Shaping_R-01360-1",
-      "seen_at": "2026-07-20T23:42:28.517841+00:00"
-    },
-    {
-      "id": "simplify-f41790eb-8c94-4879-9b85-5c60ed5f3d6c",
-      "seen_at": "2026-07-20T23:42:37.359104+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/babelstreet/jobs/8075011",
-      "seen_at": "2026-07-20T23:42:37.359358+00:00"
-    },
-    {
-      "id": "simplify-a348f430-8877-4f7b-808d-c796838b0655",
-      "seen_at": "2026-07-20T23:42:37.359604+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/pmg/jobs/8587038002",
-      "seen_at": "2026-07-20T23:42:37.359765+00:00"
-    },
-    {
-      "id": "simplify-34b4bba8-0ba5-4b42-a122-3a31a62260b9",
-      "seen_at": "2026-07-20T23:42:37.359942+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/pmg/jobs/8587050002",
-      "seen_at": "2026-07-20T23:42:37.360092+00:00"
-    },
-    {
-      "id": "simplify-2935c931-e7a6-41b0-a161-fe6248e77ffa",
-      "seen_at": "2026-07-20T23:42:37.360250+00:00"
-    },
-    {
-      "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Engineer--Product-Architecture_JR101745",
-      "seen_at": "2026-07-20T23:42:37.360399+00:00"
-    },
-    {
-      "id": "simplify-f6c918f6-c11f-4973-831f-d6bf6762f164",
-      "seen_at": "2026-07-20T23:42:37.360554+00:00"
-    },
-    {
-      "id": "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer---High-speed-IO-Testing--Onsite-_2020365-1",
-      "seen_at": "2026-07-20T23:42:37.360668+00:00"
-    },
-    {
-      "id": "simplify-1d6aeade-7d1a-42c1-8b3f-318a03ac0fa2",
-      "seen_at": "2026-07-20T23:42:37.360789+00:00"
-    },
-    {
-      "id": "url:https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1",
-      "seen_at": "2026-07-20T23:42:37.360909+00:00"
-    },
-    {
-      "id": "simplify-d86d5a45-c146-4585-8c27-938e7a70cf81",
-      "seen_at": "2026-07-20T23:42:37.361030+00:00"
-    },
-    {
-      "id": "url:https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Junior-Software-Engineer_JR5922",
-      "seen_at": "2026-07-20T23:42:37.361196+00:00"
-    },
-    {
-      "id": "simplify-2ff8d80f-47e7-47d9-abf2-10cffa9c76fe",
-      "seen_at": "2026-07-20T23:42:37.361321+00:00"
-    },
-    {
-      "id": "url:https://careers.cisco.com/global/en/job/2020365",
-      "seen_at": "2026-07-20T23:42:37.361434+00:00"
-    },
-    {
-      "id": "simplify-b9309db9-dccf-4bad-add7-a387f24df3c6",
-      "seen_at": "2026-07-20T23:42:37.361572+00:00"
-    },
-    {
-      "id": "url:https://rossstores.taleo.net/careersection/rstrcs1.1/jobdetail.ftl",
-      "seen_at": "2026-07-20T23:42:37.361685+00:00"
-    },
-    {
-      "id": "simplify-6c22dfb2-8da9-4cd7-8660-2e803c5a8aab",
-      "seen_at": "2026-07-20T23:42:37.361813+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/beaconai/d58c2d25-ca8a-40b6-b5d7-1dbed4460cc2/application",
-      "seen_at": "2026-07-20T23:42:37.361925+00:00"
-    },
-    {
-      "id": "simplify-4e16084d-6563-4c52-ab06-097709ce5da2",
-      "seen_at": "2026-07-20T23:42:37.362047+00:00"
-    },
-    {
-      "id": "url:https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2637811",
-      "seen_at": "2026-07-20T23:42:37.362161+00:00"
-    },
-    {
-      "id": "simplify-81f9d6d8-76eb-434a-aef9-4c176940d9f8",
-      "seen_at": "2026-07-20T23:42:37.362280+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/spacex/jobs/8637814002",
-      "seen_at": "2026-07-20T23:42:37.362392+00:00"
-    },
-    {
       "id": "simplify-b67c806f-262a-4ec2-8ed1-de44ffbca035",
       "seen_at": "2026-07-21T01:12:19.576043+00:00"
     },
@@ -28003,16 +27883,20 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/2bf44c13-a463-4ec7-b152-b8367075246c",
       "seen_at": "2026-08-19T23:31:00.123813+00:00"
+    },
+    {
+      "id": "jobright-ec9b275ee549",
+      "seen_at": "2026-08-19T23:51:19.766116+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8628442f4f0014cae28a71",
+      "seen_at": "2026-08-19T23:51:19.766585+00:00"
     }
   ],
-  "last_run": "2026-08-19T23:31:00.507276+00:00",
-  "total_notified": 3526,
+  "last_run": "2026-08-19T23:51:20.487733+00:00",
+  "total_notified": 3527,
   "channels": {
     "swe-jobs": [
-      "simplify-5fdbf0e9-e98a-4251-b983-801d494ae586",
-      "url:https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
-      "simplify-9ed0d36f-ac09-4b6a-9e11-cc94757ed49a",
-      "url:https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807",
       "simplify-b67c806f-262a-4ec2-8ed1-de44ffbca035",
       "url:https://www.google.com/about/careers/applications/jobs/results/95141459539174086",
       "simplify-820400f1-d2e5-43b3-94b0-c8913692b46a",
@@ -29742,8 +29626,6 @@
       "url:https://specialisterne.applytojob.com/apply/gOkVN8zGTL/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative"
     ],
     "pm-jobs": [
-      "simplify-137aaba7-60bd-4b05-9fbe-13f5e8eee695",
-      "url:https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/Massachusetts---Boston/Associate-Product-Manager--Traffic-Shaping_R-01360-1",
       "simplify-a00e4b08-8ddd-417a-8de5-07d284def8c3",
       "url:https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application",
       "simplify-3e2fa4d6-9588-4f77-a073-1747d963be9e",
@@ -30427,33 +30309,11 @@
       "jobright-dacd27ebce85",
       "url:https://jobright.ai/jobs/info/6a861367cc81eb647e9f1242",
       "jobright-1825ce48be06",
-      "url:https://jobright.ai/jobs/info/6a8611dee459fa3baa865b91"
+      "url:https://jobright.ai/jobs/info/6a8611dee459fa3baa865b91",
+      "jobright-ec9b275ee549",
+      "url:https://jobright.ai/jobs/info/6a8628442f4f0014cae28a71"
     ],
     "swe-ai-full-time": [
-      "simplify-f41790eb-8c94-4879-9b85-5c60ed5f3d6c",
-      "url:https://job-boards.greenhouse.io/babelstreet/jobs/8075011",
-      "simplify-a348f430-8877-4f7b-808d-c796838b0655",
-      "url:https://job-boards.greenhouse.io/pmg/jobs/8587038002",
-      "simplify-34b4bba8-0ba5-4b42-a122-3a31a62260b9",
-      "url:https://job-boards.greenhouse.io/pmg/jobs/8587050002",
-      "simplify-2935c931-e7a6-41b0-a161-fe6248e77ffa",
-      "url:https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Engineer--Product-Architecture_JR101745",
-      "simplify-f6c918f6-c11f-4973-831f-d6bf6762f164",
-      "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer---High-speed-IO-Testing--Onsite-_2020365-1",
-      "simplify-1d6aeade-7d1a-42c1-8b3f-318a03ac0fa2",
-      "url:https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1",
-      "simplify-d86d5a45-c146-4585-8c27-938e7a70cf81",
-      "url:https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Junior-Software-Engineer_JR5922",
-      "simplify-2ff8d80f-47e7-47d9-abf2-10cffa9c76fe",
-      "url:https://careers.cisco.com/global/en/job/2020365",
-      "simplify-b9309db9-dccf-4bad-add7-a387f24df3c6",
-      "url:https://rossstores.taleo.net/careersection/rstrcs1.1/jobdetail.ftl",
-      "simplify-6c22dfb2-8da9-4cd7-8660-2e803c5a8aab",
-      "url:https://jobs.ashbyhq.com/beaconai/d58c2d25-ca8a-40b6-b5d7-1dbed4460cc2/application",
-      "simplify-4e16084d-6563-4c52-ab06-097709ce5da2",
-      "url:https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2637811",
-      "simplify-81f9d6d8-76eb-434a-aef9-4c176940d9f8",
-      "url:https://boards.greenhouse.io/spacex/jobs/8637814002",
       "simplify-e616bee5-c6dc-4c5c-a1ec-cc0658a9bbaa",
       "url:https://www.google.com/about/careers/applications/jobs/results/91632461594665670",
       "ashby-openai-8859d8fa-48d8-4e1a-a53f-39e7a58e4522",
