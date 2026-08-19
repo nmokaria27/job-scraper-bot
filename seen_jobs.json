@@ -27795,10 +27795,34 @@
     {
       "id": "url:https://job-boards.greenhouse.io/vercel/jobs/5649459004",
       "seen_at": "2026-08-19T17:44:31.511388+00:00"
+    },
+    {
+      "id": "jobright-274c4efb3718",
+      "seen_at": "2026-08-19T18:47:41.780578+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a85dee24afae74a08341cee",
+      "seen_at": "2026-08-19T18:47:41.781028+00:00"
+    },
+    {
+      "id": "jobright-0e57e0e2ed79",
+      "seen_at": "2026-08-19T18:47:41.781531+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a85dbfecc81eb647e9efbed",
+      "seen_at": "2026-08-19T18:47:41.781920+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5392856008",
+      "seen_at": "2026-08-19T18:47:43.219261+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5392856008",
+      "seen_at": "2026-08-19T18:47:43.219757+00:00"
     }
   ],
-  "last_run": "2026-08-19T18:02:41.442980+00:00",
-  "total_notified": 3483,
+  "last_run": "2026-08-19T18:47:43.447530+00:00",
+  "total_notified": 3486,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -30203,7 +30227,11 @@
       "jobright-6d92cb336bb9",
       "url:https://jobright.ai/jobs/info/6a85c18de459fa3baa8639bf",
       "jobright-5c7048f50c60",
-      "url:https://jobright.ai/jobs/info/6a85c02c4afae74a08340f1e"
+      "url:https://jobright.ai/jobs/info/6a85c02c4afae74a08340f1e",
+      "jobright-274c4efb3718",
+      "url:https://jobright.ai/jobs/info/6a85dee24afae74a08341cee",
+      "jobright-0e57e0e2ed79",
+      "url:https://jobright.ai/jobs/info/6a85dbfecc81eb647e9efbed"
     ],
     "swe-ai-full-time": [
       "greenhouse-airbnb-8074955",
@@ -34765,7 +34793,9 @@
       "ashby-openai-ca2fe3e4-8377-461f-b6f2-80d127f4b94d",
       "url:https://jobs.ashbyhq.com/openai/ca2fe3e4-8377-461f-b6f2-80d127f4b94d",
       "greenhouse-vercel-5649459004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/5649459004"
+      "url:https://job-boards.greenhouse.io/vercel/jobs/5649459004",
+      "greenhouse-anthropic-5392856008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5392856008"
     ]
   }
 }
