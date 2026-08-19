@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-airbnb-8074955",
-      "seen_at": "2026-07-20T19:01:44.611281+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8074955",
-      "seen_at": "2026-07-20T19:01:44.611449+00:00"
-    },
-    {
-      "id": "greenhouse-vercel-5989803004",
-      "seen_at": "2026-07-20T19:01:44.611637+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/5989803004",
-      "seen_at": "2026-07-20T19:01:44.611745+00:00"
-    },
-    {
-      "id": "greenhouse-vercel-6098390004",
-      "seen_at": "2026-07-20T19:01:44.611856+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6098390004",
-      "seen_at": "2026-07-20T19:01:44.611954+00:00"
-    },
-    {
       "id": "greenhouse-brex-8438582002",
       "seen_at": "2026-07-20T20:35:27.532412+00:00"
     },
@@ -27819,10 +27795,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5392856008",
       "seen_at": "2026-08-19T18:47:43.219757+00:00"
+    },
+    {
+      "id": "simplify-5b1d56c3-edb8-4669-a88c-35690b805b82",
+      "seen_at": "2026-08-19T19:12:14.313106+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421017800",
+      "seen_at": "2026-08-19T19:12:14.313661+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-6098390004",
+      "seen_at": "2026-08-19T19:12:14.314172+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6098390004",
+      "seen_at": "2026-08-19T19:12:14.314623+00:00"
     }
   ],
-  "last_run": "2026-08-19T18:47:43.447530+00:00",
-  "total_notified": 3486,
+  "last_run": "2026-08-19T19:12:14.648816+00:00",
+  "total_notified": 3488,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -30234,12 +30226,6 @@
       "url:https://jobright.ai/jobs/info/6a85dbfecc81eb647e9efbed"
     ],
     "swe-ai-full-time": [
-      "greenhouse-airbnb-8074955",
-      "url:https://careers.airbnb.com/positions/8074955",
-      "greenhouse-vercel-5989803004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/5989803004",
-      "greenhouse-vercel-6098390004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6098390004",
       "greenhouse-lyft-8639200002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8639200002",
       "simplify-2639bb1a-2539-43a1-a08a-7ba213fd2fb6",
@@ -34795,7 +34781,11 @@
       "greenhouse-vercel-5649459004",
       "url:https://job-boards.greenhouse.io/vercel/jobs/5649459004",
       "greenhouse-anthropic-5392856008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5392856008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5392856008",
+      "simplify-5b1d56c3-edb8-4669-a88c-35690b805b82",
+      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421017800",
+      "greenhouse-vercel-6098390004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6098390004"
     ]
   }
 }
