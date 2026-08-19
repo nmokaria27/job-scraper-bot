@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-329c34b0-2085-4389-8916-e5acd0bdb164",
-      "seen_at": "2026-07-20T15:23:20.558156+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/KAYAK/8333e351-7a08-4767-9966-f75411b78d80/application",
-      "seen_at": "2026-07-20T15:23:20.558372+00:00"
-    },
-    {
-      "id": "simplify-85a549ad-cef1-458b-b15e-382ac68ad136",
-      "seen_at": "2026-07-20T15:23:20.558508+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410487500",
-      "seen_at": "2026-07-20T15:23:20.558614+00:00"
-    },
-    {
-      "id": "simplify-dda7d74d-d65d-4a3c-9dc8-b54b84d1b217",
-      "seen_at": "2026-07-20T15:23:20.558724+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01854272",
-      "seen_at": "2026-07-20T15:23:20.558824+00:00"
-    },
-    {
-      "id": "simplify-393dc727-3264-4ec8-a08c-8633b621b07f",
-      "seen_at": "2026-07-20T15:23:20.558935+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/KAYAK/1cd42283-0b84-448f-9aac-ca94b72db320/application",
-      "seen_at": "2026-07-20T15:23:20.559032+00:00"
-    },
-    {
       "id": "simplify-b6d26674-02dd-4d33-b66b-c7262e0d6a87",
       "seen_at": "2026-07-20T17:02:49.818385+00:00"
     },
@@ -27805,7 +27773,7 @@
       "seen_at": "2026-08-19T14:43:47.154017+00:00"
     }
   ],
-  "last_run": "2026-08-19T15:14:56.814178+00:00",
+  "last_run": "2026-08-19T15:49:13.205450+00:00",
   "total_notified": 3477,
   "channels": {
     "swe-jobs": [
@@ -30210,14 +30178,6 @@
       "url:https://jobright.ai/jobs/info/6a8588dfcc81eb647e9ee43a"
     ],
     "swe-ai-full-time": [
-      "simplify-329c34b0-2085-4389-8916-e5acd0bdb164",
-      "url:https://jobs.ashbyhq.com/KAYAK/8333e351-7a08-4767-9966-f75411b78d80/application",
-      "simplify-85a549ad-cef1-458b-b15e-382ac68ad136",
-      "url:https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410487500",
-      "simplify-dda7d74d-d65d-4a3c-9dc8-b54b84d1b217",
-      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01854272",
-      "simplify-393dc727-3264-4ec8-a08c-8633b621b07f",
-      "url:https://jobs.ashbyhq.com/KAYAK/1cd42283-0b84-448f-9aac-ca94b72db320/application",
       "greenhouse-anthropic-5271346008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5271346008",
       "greenhouse-airbnb-8074955",
