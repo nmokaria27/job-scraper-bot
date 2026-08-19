@@ -27699,10 +27699,58 @@
     {
       "id": "url:https://careers.datadoghq.com/detail/8141240",
       "seen_at": "2026-08-19T08:49:03.521086+00:00"
+    },
+    {
+      "id": "simplify-ea8c5ebd-a6c4-49ff-9dac-f3532c41737a",
+      "seen_at": "2026-08-19T10:14:02.211192+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+      "seen_at": "2026-08-19T10:14:02.211667+00:00"
+    },
+    {
+      "id": "simplify-832f302a-8bc2-45f2-8ada-37a23bf080a7",
+      "seen_at": "2026-08-19T10:14:02.212131+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
+      "seen_at": "2026-08-19T10:14:02.212554+00:00"
+    },
+    {
+      "id": "simplify-02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
+      "seen_at": "2026-08-19T10:14:02.212965+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+      "seen_at": "2026-08-19T10:14:02.213423+00:00"
+    },
+    {
+      "id": "simplify-be628885-fde3-4b73-bb0a-58e11856e97b",
+      "seen_at": "2026-08-19T10:14:02.213833+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+      "seen_at": "2026-08-19T10:14:02.214253+00:00"
+    },
+    {
+      "id": "simplify-99bb5385-4fbf-4456-9493-a5b32eb48953",
+      "seen_at": "2026-08-19T10:14:02.214657+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
+      "seen_at": "2026-08-19T10:14:02.215090+00:00"
+    },
+    {
+      "id": "simplify-d8ff5790-a34b-425f-b812-2e10a1350a70",
+      "seen_at": "2026-08-19T10:14:02.215496+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833",
+      "seen_at": "2026-08-19T10:14:02.215898+00:00"
     }
   ],
-  "last_run": "2026-08-19T09:51:48.575109+00:00",
-  "total_notified": 3464,
+  "last_run": "2026-08-19T10:14:04.231648+00:00",
+  "total_notified": 3470,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -29413,7 +29461,19 @@
       "simplify-20db6da0-8e69-4119-8287-080208c765ec",
       "url:https://jobs.bytedance.com/en/position/7675478684795881781/detail",
       "simplify-19652a32-abb6-4c77-8971-0c6514ed8034",
-      "url:https://jobs.bytedance.com/en/position/7675477254269765941/detail"
+      "url:https://jobs.bytedance.com/en/position/7675477254269765941/detail",
+      "simplify-ea8c5ebd-a6c4-49ff-9dac-f3532c41737a",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+      "simplify-832f302a-8bc2-45f2-8ada-37a23bf080a7",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
+      "simplify-02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+      "simplify-be628885-fde3-4b73-bb0a-58e11856e97b",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+      "simplify-99bb5385-4fbf-4456-9493-a5b32eb48953",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
+      "simplify-d8ff5790-a34b-425f-b812-2e10a1350a70",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833"
     ],
     "pm-jobs": [
       "simplify-b6d26674-02dd-4d33-b66b-c7262e0d6a87",
