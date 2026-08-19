@@ -27779,10 +27779,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a85b3ab2f4f0014cae257e9",
       "seen_at": "2026-08-19T16:13:37.314659+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5393452008",
+      "seen_at": "2026-08-19T16:50:07.874727+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5393452008",
+      "seen_at": "2026-08-19T16:50:07.875163+00:00"
+    },
+    {
+      "id": "ashby-openai-ca2fe3e4-8377-461f-b6f2-80d127f4b94d",
+      "seen_at": "2026-08-19T16:50:09.130082+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/ca2fe3e4-8377-461f-b6f2-80d127f4b94d",
+      "seen_at": "2026-08-19T16:50:09.130603+00:00"
     }
   ],
-  "last_run": "2026-08-19T16:13:38.151383+00:00",
-  "total_notified": 3478,
+  "last_run": "2026-08-19T16:50:09.376479+00:00",
+  "total_notified": 3480,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -30185,7 +30201,9 @@
       "jobright-1e5cf739894c",
       "url:https://jobright.ai/jobs/info/6a8588dfcc81eb647e9ee43a",
       "jobright-9768744ba12b",
-      "url:https://jobright.ai/jobs/info/6a85b3ab2f4f0014cae257e9"
+      "url:https://jobright.ai/jobs/info/6a85b3ab2f4f0014cae257e9",
+      "greenhouse-anthropic-5393452008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5393452008"
     ],
     "swe-ai-full-time": [
       "greenhouse-anthropic-5271346008",
@@ -34745,7 +34763,9 @@
       "speedyapply-5bec25a398cd",
       "url:https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
       "speedyapply-ad750774b1dd",
-      "url:https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833"
+      "url:https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833",
+      "ashby-openai-ca2fe3e4-8377-461f-b6f2-80d127f4b94d",
+      "url:https://jobs.ashbyhq.com/openai/ca2fe3e4-8377-461f-b6f2-80d127f4b94d"
     ]
   }
 }
