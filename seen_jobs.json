@@ -27595,10 +27595,58 @@
     {
       "id": "url:https://lifeattiktok.com/search/7675484418022181173",
       "seen_at": "2026-08-19T02:04:51.208790+00:00"
+    },
+    {
+      "id": "simplify-649dd754-7be6-47ff-9eb9-6e43146c9ab6",
+      "seen_at": "2026-08-19T03:06:45.418163+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7668595575944186117/detail",
+      "seen_at": "2026-08-19T03:06:45.418693+00:00"
+    },
+    {
+      "id": "simplify-dc6daafb-5abf-4b74-97ca-4d7e2db2a9f6",
+      "seen_at": "2026-08-19T03:06:45.419232+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7675477660855781637/detail",
+      "seen_at": "2026-08-19T03:06:45.419687+00:00"
+    },
+    {
+      "id": "simplify-2ff524c5-b4b5-442e-9bf1-f96ce0366ce5",
+      "seen_at": "2026-08-19T03:06:45.420155+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/okx/jobs/7897680003",
+      "seen_at": "2026-08-19T03:06:45.420586+00:00"
+    },
+    {
+      "id": "simplify-1857df4e-de24-4423-8bd0-99dd5371717e",
+      "seen_at": "2026-08-19T03:06:45.421032+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7675472998912051461/detail",
+      "seen_at": "2026-08-19T03:06:45.421463+00:00"
+    },
+    {
+      "id": "simplify-173a8b63-ed46-4aa4-be9f-9519b5d3ebe2",
+      "seen_at": "2026-08-19T03:06:45.421936+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7675477254315428149/detail",
+      "seen_at": "2026-08-19T03:06:45.422370+00:00"
+    },
+    {
+      "id": "simplify-048a4ff3-3e1e-4263-befe-a0355b1afce4",
+      "seen_at": "2026-08-19T03:06:45.422823+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/seeq/j/6F40FF632B/apply",
+      "seen_at": "2026-08-19T03:06:45.423251+00:00"
     }
   ],
-  "last_run": "2026-08-19T02:04:51.416310+00:00",
-  "total_notified": 3450,
+  "last_run": "2026-08-19T03:06:45.755881+00:00",
+  "total_notified": 3456,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -34515,7 +34563,19 @@
       "simplify-d1b109a6-58b7-44a3-8f0d-f218c896370a",
       "url:https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c/application",
       "simplify-20a58aca-229f-4e97-b6ae-6ffb0759e594",
-      "url:https://lifeattiktok.com/search/7675484418022181173"
+      "url:https://lifeattiktok.com/search/7675484418022181173",
+      "simplify-649dd754-7be6-47ff-9eb9-6e43146c9ab6",
+      "url:https://jobs.bytedance.com/en/position/7668595575944186117/detail",
+      "simplify-dc6daafb-5abf-4b74-97ca-4d7e2db2a9f6",
+      "url:https://jobs.bytedance.com/en/position/7675477660855781637/detail",
+      "simplify-2ff524c5-b4b5-442e-9bf1-f96ce0366ce5",
+      "url:https://job-boards.greenhouse.io/okx/jobs/7897680003",
+      "simplify-1857df4e-de24-4423-8bd0-99dd5371717e",
+      "url:https://jobs.bytedance.com/en/position/7675472998912051461/detail",
+      "simplify-173a8b63-ed46-4aa4-be9f-9519b5d3ebe2",
+      "url:https://jobs.bytedance.com/en/position/7675477254315428149/detail",
+      "simplify-048a4ff3-3e1e-4263-befe-a0355b1afce4",
+      "url:https://apply.workable.com/seeq/j/6F40FF632B/apply"
     ]
   }
 }
