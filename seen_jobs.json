@@ -27795,10 +27795,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a8588dfcc81eb647e9ee43a",
       "seen_at": "2026-08-19T14:00:13.298044+00:00"
+    },
+    {
+      "id": "simplify-480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
+      "seen_at": "2026-08-19T14:43:47.153515+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579",
+      "seen_at": "2026-08-19T14:43:47.154017+00:00"
     }
   ],
-  "last_run": "2026-08-19T14:00:14.627644+00:00",
-  "total_notified": 3476,
+  "last_run": "2026-08-19T14:43:49.090324+00:00",
+  "total_notified": 3477,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -29521,7 +29529,9 @@
       "simplify-99bb5385-4fbf-4456-9493-a5b32eb48953",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
       "simplify-d8ff5790-a34b-425f-b812-2e10a1350a70",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833",
+      "simplify-480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
+      "url:https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579"
     ],
     "pm-jobs": [
       "simplify-b6d26674-02dd-4d33-b66b-c7262e0d6a87",
