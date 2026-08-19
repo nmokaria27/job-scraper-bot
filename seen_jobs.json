@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
-      "seen_at": "2026-07-20T04:55:06.387815+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/0fae998b-5295-4567-b4b5-b20cf0346da3",
-      "seen_at": "2026-07-20T04:55:06.388097+00:00"
-    },
-    {
       "id": "simplify-329c34b0-2085-4389-8916-e5acd0bdb164",
       "seen_at": "2026-07-20T15:23:20.558156+00:00"
     },
@@ -27651,10 +27643,18 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5366149008",
       "seen_at": "2026-08-19T04:45:35.154630+00:00"
+    },
+    {
+      "id": "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
+      "seen_at": "2026-08-19T05:15:14.079373+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/0fae998b-5295-4567-b4b5-b20cf0346da3",
+      "seen_at": "2026-08-19T05:15:14.080078+00:00"
     }
   ],
-  "last_run": "2026-08-19T04:45:35.463639+00:00",
-  "total_notified": 3457,
+  "last_run": "2026-08-19T05:15:15.189266+00:00",
+  "total_notified": 3458,
   "channels": {
     "swe-jobs": [
       "simplify-2852d53d-1e2d-4026-9f6f-90758dc79f0a",
@@ -29362,8 +29362,6 @@
       "url:https://jobs.intuit.com/job/new-york/intern-software-engineering/27595/99410270400"
     ],
     "pm-jobs": [
-      "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
-      "url:https://jobs.ashbyhq.com/openai/0fae998b-5295-4567-b4b5-b20cf0346da3",
       "simplify-b6d26674-02dd-4d33-b66b-c7262e0d6a87",
       "url:https://careers.footlocker.com/jobs/71035",
       "greenhouse-airbnb-8055637",
@@ -30031,7 +30029,9 @@
       "simplify-812dde3e-f5d8-4568-a880-22c4d06b394d",
       "url:https://lifeattiktok.com/search/7675439423287314693",
       "simplify-41eb13a2-e04a-495a-8e9a-3d83273bbb01",
-      "url:https://lifeattiktok.com/search/7675440171819960629"
+      "url:https://lifeattiktok.com/search/7675440171819960629",
+      "ashby-openai-0fae998b-5295-4567-b4b5-b20cf0346da3",
+      "url:https://jobs.ashbyhq.com/openai/0fae998b-5295-4567-b4b5-b20cf0346da3"
     ],
     "swe-ai-full-time": [
       "simplify-329c34b0-2085-4389-8916-e5acd0bdb164",
