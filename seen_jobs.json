@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-8c744354-a4ae-42f5-8f27-c5ab2023398c",
-      "seen_at": "2026-07-21T15:11:53.069303+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Greenville-Associate,-Hardware-Engineer-TX-75402/1410860300",
-      "seen_at": "2026-07-21T15:11:53.069544+00:00"
-    },
-    {
-      "id": "simplify-5d4273a4-4eda-4ac4-8656-a398851d11d7",
-      "seen_at": "2026-07-21T15:11:53.069690+00:00"
-    },
-    {
-      "id": "url:https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751",
-      "seen_at": "2026-07-21T15:11:53.069807+00:00"
-    },
-    {
       "id": "simplify-d73deee7-6165-42a6-a011-7c892c312c94",
       "seen_at": "2026-07-21T18:01:33.779090+00:00"
     },
@@ -27779,10 +27763,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6147956004",
       "seen_at": "2026-08-20T14:46:10.102026+00:00"
+    },
+    {
+      "id": "jobright-19ec02f179e4",
+      "seen_at": "2026-08-20T15:17:51.059036+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a86f7b84afae74a08345e64",
+      "seen_at": "2026-08-20T15:17:51.059519+00:00"
+    },
+    {
+      "id": "jobright-081f65019a48",
+      "seen_at": "2026-08-20T15:17:51.059929+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a86f1104afae74a08345c36",
+      "seen_at": "2026-08-20T15:17:51.060301+00:00"
     }
   ],
-  "last_run": "2026-08-20T14:46:10.967195+00:00",
-  "total_notified": 3564,
+  "last_run": "2026-08-20T15:17:52.240976+00:00",
+  "total_notified": 3566,
   "channels": {
     "swe-jobs": [
       "simplify-48263b7f-c07b-458b-99a8-4af5e13edd67",
@@ -30199,13 +30199,13 @@
       "simplify-aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
       "url:https://higher.gs.com/roles/171513",
       "greenhouse-vercel-6147956004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6147956004"
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6147956004",
+      "jobright-19ec02f179e4",
+      "url:https://jobright.ai/jobs/info/6a86f7b84afae74a08345e64",
+      "jobright-081f65019a48",
+      "url:https://jobright.ai/jobs/info/6a86f1104afae74a08345c36"
     ],
     "swe-ai-full-time": [
-      "simplify-8c744354-a4ae-42f5-8f27-c5ab2023398c",
-      "url:https://jobs.l3harris.com/job/Greenville-Associate,-Hardware-Engineer-TX-75402/1410860300",
-      "simplify-5d4273a4-4eda-4ac4-8656-a398851d11d7",
-      "url:https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751",
       "simplify-d73deee7-6165-42a6-a011-7c892c312c94",
       "url:https://www.optiver.com/join-us/jobs/8402081002",
       "greenhouse-anthropic-5066977008",
