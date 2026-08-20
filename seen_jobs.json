@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-b67c806f-262a-4ec2-8ed1-de44ffbca035",
-      "seen_at": "2026-07-21T01:12:19.576043+00:00"
-    },
-    {
-      "id": "url:https://www.google.com/about/careers/applications/jobs/results/95141459539174086",
-      "seen_at": "2026-07-21T01:12:19.576259+00:00"
-    },
-    {
-      "id": "simplify-820400f1-d2e5-43b3-94b0-c8913692b46a",
-      "seen_at": "2026-07-21T01:12:19.576395+00:00"
-    },
-    {
-      "id": "url:https://www.google.com/about/careers/applications/jobs/results/85564713261245126",
-      "seen_at": "2026-07-21T01:12:19.576512+00:00"
-    },
-    {
-      "id": "simplify-e616bee5-c6dc-4c5c-a1ec-cc0658a9bbaa",
-      "seen_at": "2026-07-21T01:12:22.444077+00:00"
-    },
-    {
-      "id": "url:https://www.google.com/about/careers/applications/jobs/results/91632461594665670",
-      "seen_at": "2026-07-21T01:12:22.444310+00:00"
-    },
-    {
-      "id": "ashby-openai-8859d8fa-48d8-4e1a-a53f-39e7a58e4522",
-      "seen_at": "2026-07-21T01:12:22.444460+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/8859d8fa-48d8-4e1a-a53f-39e7a58e4522",
-      "seen_at": "2026-07-21T01:12:22.444592+00:00"
-    },
-    {
-      "id": "ashby-openai-c1a28411-266b-487b-8ef3-03efb254fc36",
-      "seen_at": "2026-07-21T01:12:22.444724+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/c1a28411-266b-487b-8ef3-03efb254fc36",
-      "seen_at": "2026-07-21T01:12:22.444849+00:00"
-    },
-    {
       "id": "simplify-e33c66b9-051d-4401-813b-71a5197aa622",
       "seen_at": "2026-07-21T04:35:44.947904+00:00"
     },
@@ -27891,16 +27851,188 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a8628442f4f0014cae28a71",
       "seen_at": "2026-08-19T23:51:19.766585+00:00"
+    },
+    {
+      "id": "simplify-f9783cfd-0933-41da-8102-1c15ae7d9c3c",
+      "seen_at": "2026-08-20T02:03:31.175371+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675159726676101381",
+      "seen_at": "2026-08-20T02:03:31.175956+00:00"
+    },
+    {
+      "id": "simplify-dcab0a63-0790-4990-ad6c-517c42b6436b",
+      "seen_at": "2026-08-20T02:03:31.176502+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672926068681951493",
+      "seen_at": "2026-08-20T02:03:31.176915+00:00"
+    },
+    {
+      "id": "simplify-89769fe8-b21d-48e7-bc68-0ac457b3a934",
+      "seen_at": "2026-08-20T02:03:31.177344+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672934842451577141",
+      "seen_at": "2026-08-20T02:03:31.177754+00:00"
+    },
+    {
+      "id": "simplify-7a6d014a-e6ad-4587-8acf-9acfe710342d",
+      "seen_at": "2026-08-20T02:03:31.178163+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7672930401597671733",
+      "seen_at": "2026-08-20T02:03:31.178595+00:00"
+    },
+    {
+      "id": "simplify-4ecdff57-6188-48f4-9540-4521c485bc53",
+      "seen_at": "2026-08-20T02:03:31.179005+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7674029284224092421",
+      "seen_at": "2026-08-20T02:03:31.179442+00:00"
+    },
+    {
+      "id": "simplify-c2b2c451-d750-4afe-a76b-18cec45fff86",
+      "seen_at": "2026-08-20T02:03:31.179853+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675517686256863541",
+      "seen_at": "2026-08-20T02:03:31.180300+00:00"
+    },
+    {
+      "id": "simplify-af4f346b-7d83-473b-b205-a8487c067438",
+      "seen_at": "2026-08-20T02:03:31.180714+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675524738811218229",
+      "seen_at": "2026-08-20T02:03:31.181118+00:00"
+    },
+    {
+      "id": "simplify-0027f5ce-0bdc-419e-ac80-095bae27c176",
+      "seen_at": "2026-08-20T02:03:31.181535+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675163472469444917",
+      "seen_at": "2026-08-20T02:03:31.181982+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5390964008",
+      "seen_at": "2026-08-20T02:03:32.655071+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5390964008",
+      "seen_at": "2026-08-20T02:03:32.655637+00:00"
+    },
+    {
+      "id": "simplify-f6f17706-f32e-4624-8175-889945a160e5",
+      "seen_at": "2026-08-20T02:03:42.981808+00:00"
+    },
+    {
+      "id": "url:https://careers.bcg.com/global/en/job/59067",
+      "seen_at": "2026-08-20T02:03:42.982481+00:00"
+    },
+    {
+      "id": "simplify-179e11a1-a541-4256-a6c3-e36544663802",
+      "seen_at": "2026-08-20T02:03:42.982975+00:00"
+    },
+    {
+      "id": "url:https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
+      "seen_at": "2026-08-20T02:03:42.983449+00:00"
+    },
+    {
+      "id": "simplify-929cfe45-2ac9-4d39-80b3-b3fa750e2ceb",
+      "seen_at": "2026-08-20T02:03:42.983902+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application",
+      "seen_at": "2026-08-20T02:03:42.984363+00:00"
+    },
+    {
+      "id": "simplify-a52aff07-0926-4ea8-9430-fa80a6a723b4",
+      "seen_at": "2026-08-20T02:03:42.984801+00:00"
+    },
+    {
+      "id": "url:https://qualcomm.eightfold.ai/careers/job/446718425274",
+      "seen_at": "2026-08-20T02:03:42.985230+00:00"
+    },
+    {
+      "id": "simplify-f01af695-62ad-4e53-aadb-563704195b18",
+      "seen_at": "2026-08-20T02:03:42.985698+00:00"
+    },
+    {
+      "id": "url:https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10558",
+      "seen_at": "2026-08-20T02:03:42.986127+00:00"
+    },
+    {
+      "id": "simplify-f3bdb586-bbfb-45b8-95e7-a64529d56300",
+      "seen_at": "2026-08-20T02:03:42.986574+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675842865566222597",
+      "seen_at": "2026-08-20T02:03:42.987074+00:00"
+    },
+    {
+      "id": "simplify-cbf7d7ce-dde5-4b9b-a5e3-9663654dbc2e",
+      "seen_at": "2026-08-20T02:03:42.987530+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675829388634392837",
+      "seen_at": "2026-08-20T02:03:42.987963+00:00"
+    },
+    {
+      "id": "simplify-c9dff2be-8f4e-4123-866d-9dac43703bd2",
+      "seen_at": "2026-08-20T02:03:42.988412+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675844938504702213",
+      "seen_at": "2026-08-20T02:03:42.988843+00:00"
+    },
+    {
+      "id": "simplify-5050a4ec-870d-44d2-894d-d2369c296564",
+      "seen_at": "2026-08-20T02:03:42.989291+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675843332462872885",
+      "seen_at": "2026-08-20T02:03:42.989724+00:00"
+    },
+    {
+      "id": "simplify-4d3acee9-3b15-433a-a4c9-4ca461058f7a",
+      "seen_at": "2026-08-20T02:03:42.990161+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7668854153882011957",
+      "seen_at": "2026-08-20T02:03:42.990599+00:00"
+    },
+    {
+      "id": "simplify-46147fdd-7fda-4c72-b739-309c869a3093",
+      "seen_at": "2026-08-20T02:03:42.991031+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7675841339440941317",
+      "seen_at": "2026-08-20T02:03:42.991483+00:00"
+    },
+    {
+      "id": "ashby-openai-8859d8fa-48d8-4e1a-a53f-39e7a58e4522",
+      "seen_at": "2026-08-20T02:03:42.991911+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/8859d8fa-48d8-4e1a-a53f-39e7a58e4522",
+      "seen_at": "2026-08-20T02:03:42.992346+00:00"
+    },
+    {
+      "id": "ashby-openai-c1a28411-266b-487b-8ef3-03efb254fc36",
+      "seen_at": "2026-08-20T02:03:42.992774+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/c1a28411-266b-487b-8ef3-03efb254fc36",
+      "seen_at": "2026-08-20T02:03:42.993196+00:00"
     }
   ],
-  "last_run": "2026-08-20T00:23:53.922970+00:00",
-  "total_notified": 3527,
+  "last_run": "2026-08-20T02:03:43.241425+00:00",
+  "total_notified": 3549,
   "channels": {
     "swe-jobs": [
-      "simplify-b67c806f-262a-4ec2-8ed1-de44ffbca035",
-      "url:https://www.google.com/about/careers/applications/jobs/results/95141459539174086",
-      "simplify-820400f1-d2e5-43b3-94b0-c8913692b46a",
-      "url:https://www.google.com/about/careers/applications/jobs/results/85564713261245126",
       "simplify-e33c66b9-051d-4401-813b-71a5197aa622",
       "url:https://jobs.ashbyhq.com/fab2/009d0819-c688-4ab9-8816-a3c7ab002470/application",
       "simplify-b3789e4b-f790-4069-8fbc-ae112cf55b95",
@@ -29623,7 +29755,23 @@
       "simplify-fa9b8b4c-326b-46f7-8979-43e65256db21",
       "url:https://apply.workable.com/tmeic-corporation-americas/j/532EE44DFB/apply",
       "simplify-01f94977-fc40-414b-bd6d-f44693eacceb",
-      "url:https://specialisterne.applytojob.com/apply/gOkVN8zGTL/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative"
+      "url:https://specialisterne.applytojob.com/apply/gOkVN8zGTL/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative",
+      "simplify-f9783cfd-0933-41da-8102-1c15ae7d9c3c",
+      "url:https://lifeattiktok.com/search/7675159726676101381",
+      "simplify-dcab0a63-0790-4990-ad6c-517c42b6436b",
+      "url:https://lifeattiktok.com/search/7672926068681951493",
+      "simplify-89769fe8-b21d-48e7-bc68-0ac457b3a934",
+      "url:https://lifeattiktok.com/search/7672934842451577141",
+      "simplify-7a6d014a-e6ad-4587-8acf-9acfe710342d",
+      "url:https://lifeattiktok.com/search/7672930401597671733",
+      "simplify-4ecdff57-6188-48f4-9540-4521c485bc53",
+      "url:https://lifeattiktok.com/search/7674029284224092421",
+      "simplify-c2b2c451-d750-4afe-a76b-18cec45fff86",
+      "url:https://lifeattiktok.com/search/7675517686256863541",
+      "simplify-af4f346b-7d83-473b-b205-a8487c067438",
+      "url:https://lifeattiktok.com/search/7675524738811218229",
+      "simplify-0027f5ce-0bdc-419e-ac80-095bae27c176",
+      "url:https://lifeattiktok.com/search/7675163472469444917"
     ],
     "pm-jobs": [
       "simplify-a00e4b08-8ddd-417a-8de5-07d284def8c3",
@@ -30311,15 +30459,11 @@
       "jobright-1825ce48be06",
       "url:https://jobright.ai/jobs/info/6a8611dee459fa3baa865b91",
       "jobright-ec9b275ee549",
-      "url:https://jobright.ai/jobs/info/6a8628442f4f0014cae28a71"
+      "url:https://jobright.ai/jobs/info/6a8628442f4f0014cae28a71",
+      "greenhouse-anthropic-5390964008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5390964008"
     ],
     "swe-ai-full-time": [
-      "simplify-e616bee5-c6dc-4c5c-a1ec-cc0658a9bbaa",
-      "url:https://www.google.com/about/careers/applications/jobs/results/91632461594665670",
-      "ashby-openai-8859d8fa-48d8-4e1a-a53f-39e7a58e4522",
-      "url:https://jobs.ashbyhq.com/openai/8859d8fa-48d8-4e1a-a53f-39e7a58e4522",
-      "ashby-openai-c1a28411-266b-487b-8ef3-03efb254fc36",
-      "url:https://jobs.ashbyhq.com/openai/c1a28411-266b-487b-8ef3-03efb254fc36",
       "simplify-4ce5b5f7-d03d-487f-aa5c-b9786a42a4b2",
       "url:https://jobs.ashbyhq.com/terranova/578d418d-42f8-404a-9b82-a5cbd67086d8/application",
       "simplify-932383ee-ca92-41c1-8df6-69caf0ca4a87",
@@ -34885,7 +35029,33 @@
       "simplify-54c4c395-7b69-498c-9917-759b96d7b1c5",
       "url:https://job-boards.greenhouse.io/truveta/jobs/6147526004",
       "ashby-openai-2bf44c13-a463-4ec7-b152-b8367075246c",
-      "url:https://jobs.ashbyhq.com/openai/2bf44c13-a463-4ec7-b152-b8367075246c"
+      "url:https://jobs.ashbyhq.com/openai/2bf44c13-a463-4ec7-b152-b8367075246c",
+      "simplify-f6f17706-f32e-4624-8175-889945a160e5",
+      "url:https://careers.bcg.com/global/en/job/59067",
+      "simplify-179e11a1-a541-4256-a6c3-e36544663802",
+      "url:https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
+      "simplify-929cfe45-2ac9-4d39-80b3-b3fa750e2ceb",
+      "url:https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application",
+      "simplify-a52aff07-0926-4ea8-9430-fa80a6a723b4",
+      "url:https://qualcomm.eightfold.ai/careers/job/446718425274",
+      "simplify-f01af695-62ad-4e53-aadb-563704195b18",
+      "url:https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10558",
+      "simplify-f3bdb586-bbfb-45b8-95e7-a64529d56300",
+      "url:https://lifeattiktok.com/search/7675842865566222597",
+      "simplify-cbf7d7ce-dde5-4b9b-a5e3-9663654dbc2e",
+      "url:https://lifeattiktok.com/search/7675829388634392837",
+      "simplify-c9dff2be-8f4e-4123-866d-9dac43703bd2",
+      "url:https://lifeattiktok.com/search/7675844938504702213",
+      "simplify-5050a4ec-870d-44d2-894d-d2369c296564",
+      "url:https://lifeattiktok.com/search/7675843332462872885",
+      "simplify-4d3acee9-3b15-433a-a4c9-4ca461058f7a",
+      "url:https://lifeattiktok.com/search/7668854153882011957",
+      "simplify-46147fdd-7fda-4c72-b739-309c869a3093",
+      "url:https://lifeattiktok.com/search/7675841339440941317",
+      "ashby-openai-8859d8fa-48d8-4e1a-a53f-39e7a58e4522",
+      "url:https://jobs.ashbyhq.com/openai/8859d8fa-48d8-4e1a-a53f-39e7a58e4522",
+      "ashby-openai-c1a28411-266b-487b-8ef3-03efb254fc36",
+      "url:https://jobs.ashbyhq.com/openai/c1a28411-266b-487b-8ef3-03efb254fc36"
     ]
   }
 }
