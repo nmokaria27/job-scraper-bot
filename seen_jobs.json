@@ -27739,10 +27739,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a86c4df2f4f0014cae2a3af",
       "seen_at": "2026-08-20T11:10:50.382611+00:00"
+    },
+    {
+      "id": "simplify-013fdd20-3235-4aca-8bd4-f5eb44a09c32",
+      "seen_at": "2026-08-20T14:46:07.385970+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943",
+      "seen_at": "2026-08-20T14:46:07.386481+00:00"
+    },
+    {
+      "id": "simplify-8569a45d-e504-4cc5-897a-de907ab8e0f7",
+      "seen_at": "2026-08-20T14:46:07.386963+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
+      "seen_at": "2026-08-20T14:46:07.387469+00:00"
+    },
+    {
+      "id": "simplify-de048c9f-8cf0-45fe-b307-40b9a04a9416",
+      "seen_at": "2026-08-20T14:46:10.099779+00:00"
+    },
+    {
+      "id": "url:https://higher.gs.com/roles/182389",
+      "seen_at": "2026-08-20T14:46:10.100260+00:00"
+    },
+    {
+      "id": "simplify-aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+      "seen_at": "2026-08-20T14:46:10.100766+00:00"
+    },
+    {
+      "id": "url:https://higher.gs.com/roles/171513",
+      "seen_at": "2026-08-20T14:46:10.101184+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-6147956004",
+      "seen_at": "2026-08-20T14:46:10.101603+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6147956004",
+      "seen_at": "2026-08-20T14:46:10.102026+00:00"
     }
   ],
-  "last_run": "2026-08-20T14:02:34.729527+00:00",
-  "total_notified": 3559,
+  "last_run": "2026-08-20T14:46:10.967195+00:00",
+  "total_notified": 3564,
   "channels": {
     "swe-jobs": [
       "simplify-48263b7f-c07b-458b-99a8-4af5e13edd67",
@@ -29457,7 +29497,11 @@
       "simplify-a908b011-3049-4c5c-831e-b0a4e17ddebf",
       "url:https://lifeattiktok.com/search/7675847556668295429",
       "simplify-79ddabd2-cd14-4fd6-8aec-f82858b2190e",
-      "url:https://lifeattiktok.com/search/7675845333947812149"
+      "url:https://lifeattiktok.com/search/7675845333947812149",
+      "simplify-013fdd20-3235-4aca-8bd4-f5eb44a09c32",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943",
+      "simplify-8569a45d-e504-4cc5-897a-de907ab8e0f7",
+      "url:https://jobs.smartrecruiters.com/AbbVie/3743990014697918"
     ],
     "pm-jobs": [
       "ashby-openai-b8a1293b-bf5b-488d-8257-869584db6496",
@@ -30149,7 +30193,13 @@
       "jobright-c761b9fb2ade",
       "url:https://jobright.ai/jobs/info/6a86c4ea4afae74a08345670",
       "jobright-9244a22e81d5",
-      "url:https://jobright.ai/jobs/info/6a86c4df2f4f0014cae2a3af"
+      "url:https://jobright.ai/jobs/info/6a86c4df2f4f0014cae2a3af",
+      "simplify-de048c9f-8cf0-45fe-b307-40b9a04a9416",
+      "url:https://higher.gs.com/roles/182389",
+      "simplify-aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+      "url:https://higher.gs.com/roles/171513",
+      "greenhouse-vercel-6147956004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6147956004"
     ],
     "swe-ai-full-time": [
       "simplify-8c744354-a4ae-42f5-8f27-c5ab2023398c",
