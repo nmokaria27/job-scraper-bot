@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-48263b7f-c07b-458b-99a8-4af5e13edd67",
-      "seen_at": "2026-07-21T20:51:32.721402+00:00"
-    },
-    {
-      "id": "url:https://www.optiver.com/join-us/jobs/8641352002",
-      "seen_at": "2026-07-21T20:51:32.721564+00:00"
-    },
-    {
-      "id": "simplify-01ae98fa-826d-40b3-990a-3254933cd747",
-      "seen_at": "2026-07-21T20:51:32.721693+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
-      "seen_at": "2026-07-21T20:51:32.721843+00:00"
-    },
-    {
-      "id": "simplify-a547349d-335a-4ac3-97e7-5f3616c53eae",
-      "seen_at": "2026-07-21T20:51:32.721973+00:00"
-    },
-    {
-      "id": "url:https://www.optiver.com/join-us/jobs/8402114002",
-      "seen_at": "2026-07-21T20:51:32.722090+00:00"
-    },
-    {
-      "id": "simplify-09196c2e-4267-4ca4-b899-14fa16e52c59",
-      "seen_at": "2026-07-21T20:51:36.555726+00:00"
-    },
-    {
-      "id": "url:https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2668",
-      "seen_at": "2026-07-21T20:51:36.555982+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8077787",
-      "seen_at": "2026-07-21T20:51:36.556150+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8077787",
-      "seen_at": "2026-07-21T20:51:36.556285+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-7452669",
-      "seen_at": "2026-07-21T20:51:36.556427+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/7452669",
-      "seen_at": "2026-07-21T20:51:36.556554+00:00"
-    },
-    {
-      "id": "ashby-openai-b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
-      "seen_at": "2026-07-21T20:51:36.556685+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
-      "seen_at": "2026-07-21T20:51:36.556842+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5364804008",
       "seen_at": "2026-07-21T21:49:15.899843+00:00"
     },
@@ -27875,18 +27819,36 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/8a86b02b-6063-4124-863f-7e41e9849e22",
       "seen_at": "2026-08-20T20:49:57.895779+00:00"
+    },
+    {
+      "id": "jobright-144c1df1d7b6",
+      "seen_at": "2026-08-20T21:13:07.613572+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a4d4d6f3122a76a8fd54fdb",
+      "seen_at": "2026-08-20T21:13:07.614082+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-7452669",
+      "seen_at": "2026-08-20T21:13:10.027524+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/7452669",
+      "seen_at": "2026-08-20T21:13:10.028082+00:00"
+    },
+    {
+      "id": "ashby-openai-b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
+      "seen_at": "2026-08-20T21:13:10.028566+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
+      "seen_at": "2026-08-20T21:13:10.029026+00:00"
     }
   ],
-  "last_run": "2026-08-20T20:49:58.187290+00:00",
-  "total_notified": 3584,
+  "last_run": "2026-08-20T21:13:10.259671+00:00",
+  "total_notified": 3587,
   "channels": {
     "swe-jobs": [
-      "simplify-48263b7f-c07b-458b-99a8-4af5e13edd67",
-      "url:https://www.optiver.com/join-us/jobs/8641352002",
-      "simplify-01ae98fa-826d-40b3-990a-3254933cd747",
-      "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
-      "simplify-a547349d-335a-4ac3-97e7-5f3616c53eae",
-      "url:https://www.optiver.com/join-us/jobs/8402114002",
       "simplify-800e06ea-4a8a-4db5-a93a-7aae82cfac49",
       "url:https://job-boards.greenhouse.io/virtu/jobs/8624410002",
       "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
@@ -30317,17 +30279,11 @@
       "jobright-de432b4eab0c",
       "url:https://jobright.ai/jobs/info/6a6a694619d76667a2abf912",
       "jobright-312db4cd3011",
-      "url:https://jobright.ai/jobs/info/6a872f50cde3717f9e9b0aa6"
+      "url:https://jobright.ai/jobs/info/6a872f50cde3717f9e9b0aa6",
+      "jobright-144c1df1d7b6",
+      "url:https://jobright.ai/jobs/info/6a4d4d6f3122a76a8fd54fdb"
     ],
     "swe-ai-full-time": [
-      "simplify-09196c2e-4267-4ca4-b899-14fa16e52c59",
-      "url:https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2668",
-      "greenhouse-airbnb-8077787",
-      "url:https://careers.airbnb.com/positions/8077787",
-      "greenhouse-datadog-7452669",
-      "url:https://careers.datadoghq.com/detail/7452669",
-      "ashby-openai-b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
-      "url:https://jobs.ashbyhq.com/openai/b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
       "greenhouse-anthropic-5364804008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
       "ashby-openai-aeeabb7a-f6e0-4e8d-a9ad-ae3464288125",
@@ -34865,7 +34821,11 @@
       "greenhouse-datadog-7554877",
       "url:https://careers.datadoghq.com/detail/7554877",
       "ashby-openai-8a86b02b-6063-4124-863f-7e41e9849e22",
-      "url:https://jobs.ashbyhq.com/openai/8a86b02b-6063-4124-863f-7e41e9849e22"
+      "url:https://jobs.ashbyhq.com/openai/8a86b02b-6063-4124-863f-7e41e9849e22",
+      "greenhouse-datadog-7452669",
+      "url:https://careers.datadoghq.com/detail/7452669",
+      "ashby-openai-b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
+      "url:https://jobs.ashbyhq.com/openai/b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea"
     ]
   }
 }
