@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-2cc55124-4613-4f77-b226-6eb616f18ca8",
-      "seen_at": "2026-07-21T19:44:38.250454+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/spacex/jobs/8642274002",
-      "seen_at": "2026-07-21T19:44:38.250608+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8077612",
-      "seen_at": "2026-07-21T19:44:38.250773+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8077612",
-      "seen_at": "2026-07-21T19:44:38.250883+00:00"
-    },
-    {
-      "id": "ashby-openai-e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5",
-      "seen_at": "2026-07-21T19:44:38.250994+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5",
-      "seen_at": "2026-07-21T19:44:38.251101+00:00"
-    },
-    {
       "id": "simplify-48263b7f-c07b-458b-99a8-4af5e13edd67",
       "seen_at": "2026-07-21T20:51:32.721402+00:00"
     },
@@ -27883,10 +27859,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a6a694619d76667a2abf912",
       "seen_at": "2026-08-20T19:03:53.059134+00:00"
+    },
+    {
+      "id": "jobright-312db4cd3011",
+      "seen_at": "2026-08-20T20:11:05.742285+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a872f50cde3717f9e9b0aa6",
+      "seen_at": "2026-08-20T20:11:05.742645+00:00"
     }
   ],
-  "last_run": "2026-08-20T19:38:27.756347+00:00",
-  "total_notified": 3582,
+  "last_run": "2026-08-20T20:11:06.690142+00:00",
+  "total_notified": 3583,
   "channels": {
     "swe-jobs": [
       "simplify-48263b7f-c07b-458b-99a8-4af5e13edd67",
@@ -30323,15 +30307,11 @@
       "jobright-e0039ef9d859",
       "url:https://jobright.ai/jobs/info/68fbd1424129dd33cd135004",
       "jobright-de432b4eab0c",
-      "url:https://jobright.ai/jobs/info/6a6a694619d76667a2abf912"
+      "url:https://jobright.ai/jobs/info/6a6a694619d76667a2abf912",
+      "jobright-312db4cd3011",
+      "url:https://jobright.ai/jobs/info/6a872f50cde3717f9e9b0aa6"
     ],
     "swe-ai-full-time": [
-      "simplify-2cc55124-4613-4f77-b226-6eb616f18ca8",
-      "url:https://boards.greenhouse.io/spacex/jobs/8642274002",
-      "greenhouse-airbnb-8077612",
-      "url:https://careers.airbnb.com/positions/8077612",
-      "ashby-openai-e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5",
-      "url:https://jobs.ashbyhq.com/openai/e5a10dfd-2cfc-4e0a-8d1e-b60eefa777c5",
       "simplify-09196c2e-4267-4ca4-b899-14fa16e52c59",
       "url:https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2668",
       "greenhouse-airbnb-8077787",
