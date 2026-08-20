@@ -27667,10 +27667,34 @@
     {
       "id": "url:https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply",
       "seen_at": "2026-08-20T03:05:32.988283+00:00"
+    },
+    {
+      "id": "simplify-1bd50634-5114-480f-8a35-3a592f0fe763",
+      "seen_at": "2026-08-20T07:10:38.870106+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply",
+      "seen_at": "2026-08-20T07:10:38.870688+00:00"
+    },
+    {
+      "id": "simplify-1c385c6d-d388-465d-9ccb-4051032c9a09",
+      "seen_at": "2026-08-20T07:10:38.871187+00:00"
+    },
+    {
+      "id": "url:https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Software-Dev-Engineer-Intern_R263660",
+      "seen_at": "2026-08-20T07:10:38.871626+00:00"
+    },
+    {
+      "id": "simplify-f3e7ea1f-fd8f-4fcc-b0ad-a9fa301dd0a5",
+      "seen_at": "2026-08-20T07:10:40.529685+00:00"
+    },
+    {
+      "id": "url:https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100",
+      "seen_at": "2026-08-20T07:10:40.530363+00:00"
     }
   ],
-  "last_run": "2026-08-20T06:18:56.646863+00:00",
-  "total_notified": 3550,
+  "last_run": "2026-08-20T07:10:40.814588+00:00",
+  "total_notified": 3553,
   "channels": {
     "swe-jobs": [
       "simplify-48263b7f-c07b-458b-99a8-4af5e13edd67",
@@ -29377,7 +29401,11 @@
       "simplify-af4f346b-7d83-473b-b205-a8487c067438",
       "url:https://lifeattiktok.com/search/7675524738811218229",
       "simplify-0027f5ce-0bdc-419e-ac80-095bae27c176",
-      "url:https://lifeattiktok.com/search/7675163472469444917"
+      "url:https://lifeattiktok.com/search/7675163472469444917",
+      "simplify-1bd50634-5114-480f-8a35-3a592f0fe763",
+      "url:https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply",
+      "simplify-1c385c6d-d388-465d-9ccb-4051032c9a09",
+      "url:https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Software-Dev-Engineer-Intern_R263660"
     ],
     "pm-jobs": [
       "ashby-openai-b8a1293b-bf5b-488d-8257-869584db6496",
@@ -34605,7 +34633,9 @@
       "ashby-openai-c1a28411-266b-487b-8ef3-03efb254fc36",
       "url:https://jobs.ashbyhq.com/openai/c1a28411-266b-487b-8ef3-03efb254fc36",
       "simplify-fdb7c5e9-3d58-4332-bb5d-4b3446253fd0",
-      "url:https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply"
+      "url:https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply",
+      "simplify-f3e7ea1f-fd8f-4fcc-b0ad-a9fa301dd0a5",
+      "url:https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100"
     ]
   }
 }
