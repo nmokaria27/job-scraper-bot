@@ -27779,10 +27779,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a86f1104afae74a08345c36",
       "seen_at": "2026-08-20T15:17:51.060301+00:00"
+    },
+    {
+      "id": "simplify-19b37e51-2041-4d10-a23e-d342a6b7f791",
+      "seen_at": "2026-08-20T15:51:26.486396+00:00"
+    },
+    {
+      "id": "url:https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level",
+      "seen_at": "2026-08-20T15:51:26.486955+00:00"
+    },
+    {
+      "id": "simplify-56082bd5-7ff2-4b3c-a7df-c69e8373d451",
+      "seen_at": "2026-08-20T15:51:26.487432+00:00"
+    },
+    {
+      "id": "url:https://jobs.constellationenergy.com/jobs/138187",
+      "seen_at": "2026-08-20T15:51:26.487896+00:00"
+    },
+    {
+      "id": "simplify-c382b781-c095-4a4e-ad0f-c6b109e2af26",
+      "seen_at": "2026-08-20T15:51:26.488338+00:00"
+    },
+    {
+      "id": "url:https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---California/Associate-Field-Service-Engineer--Southern-California--LA-SD-Territory-_JR-119510",
+      "seen_at": "2026-08-20T15:51:26.488784+00:00"
+    },
+    {
+      "id": "simplify-c15fdda6-c63a-4851-a515-02b1bdf30cbd",
+      "seen_at": "2026-08-20T15:51:26.489221+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421454800",
+      "seen_at": "2026-08-20T15:51:26.489666+00:00"
+    },
+    {
+      "id": "simplify-5b5f1d64-64ce-4ba5-8385-34e05c21ece5",
+      "seen_at": "2026-08-20T15:51:26.490105+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300",
+      "seen_at": "2026-08-20T15:51:26.490563+00:00"
     }
   ],
-  "last_run": "2026-08-20T15:17:52.240976+00:00",
-  "total_notified": 3566,
+  "last_run": "2026-08-20T15:51:26.759163+00:00",
+  "total_notified": 3571,
   "channels": {
     "swe-jobs": [
       "simplify-48263b7f-c07b-458b-99a8-4af5e13edd67",
@@ -34745,7 +34785,17 @@
       "simplify-fdb7c5e9-3d58-4332-bb5d-4b3446253fd0",
       "url:https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply",
       "simplify-f3e7ea1f-fd8f-4fcc-b0ad-a9fa301dd0a5",
-      "url:https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100"
+      "url:https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100",
+      "simplify-19b37e51-2041-4d10-a23e-d342a6b7f791",
+      "url:https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level",
+      "simplify-56082bd5-7ff2-4b3c-a7df-c69e8373d451",
+      "url:https://jobs.constellationenergy.com/jobs/138187",
+      "simplify-c382b781-c095-4a4e-ad0f-c6b109e2af26",
+      "url:https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---California/Associate-Field-Service-Engineer--Southern-California--LA-SD-Territory-_JR-119510",
+      "simplify-c15fdda6-c63a-4851-a515-02b1bdf30cbd",
+      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421454800",
+      "simplify-5b5f1d64-64ce-4ba5-8385-34e05c21ece5",
+      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300"
     ]
   }
 }
