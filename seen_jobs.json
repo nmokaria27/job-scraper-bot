@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-figma-6119781004",
-      "seen_at": "2026-07-22T17:35:08.552520+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/6119781004",
-      "seen_at": "2026-07-22T17:35:08.552690+00:00"
-    },
-    {
-      "id": "greenhouse-discord-8642220002",
-      "seen_at": "2026-07-22T17:35:11.609996+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8642220002",
-      "seen_at": "2026-07-22T17:35:11.610197+00:00"
-    },
-    {
-      "id": "greenhouse-vercel-6122437004",
-      "seen_at": "2026-07-22T17:35:11.610379+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6122437004",
-      "seen_at": "2026-07-22T17:35:11.610518+00:00"
-    },
-    {
-      "id": "ashby-openai-872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9",
-      "seen_at": "2026-07-22T17:35:11.610659+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9",
-      "seen_at": "2026-07-22T17:35:11.610795+00:00"
-    },
-    {
       "id": "ashby-openai-c3783e22-c6b6-41d6-b0d4-2b648912268f",
       "seen_at": "2026-07-22T21:17:38.385104+00:00"
     },
@@ -28899,10 +28867,42 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
       "seen_at": "2026-08-21T16:55:40.451923+00:00"
+    },
+    {
+      "id": "jobright-220b0797eeff",
+      "seen_at": "2026-08-21T17:37:21.304481+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8867a44afae74a0834b787",
+      "seen_at": "2026-08-21T17:37:21.304995+00:00"
+    },
+    {
+      "id": "jobright-7ca980eadfd9",
+      "seen_at": "2026-08-21T17:37:21.305457+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a886722e8b6601d12906837",
+      "seen_at": "2026-08-21T17:37:21.305865+00:00"
+    },
+    {
+      "id": "ashby-openai-990397de-c00c-4577-b093-d8c82b4e9145",
+      "seen_at": "2026-08-21T17:37:23.423348+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/990397de-c00c-4577-b093-d8c82b4e9145",
+      "seen_at": "2026-08-21T17:37:23.423889+00:00"
+    },
+    {
+      "id": "ashby-openai-872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9",
+      "seen_at": "2026-08-21T17:37:23.424358+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9",
+      "seen_at": "2026-08-21T17:37:23.424772+00:00"
     }
   ],
-  "last_run": "2026-08-21T16:55:40.689703+00:00",
-  "total_notified": 3739,
+  "last_run": "2026-08-21T17:37:23.644246+00:00",
+  "total_notified": 3743,
   "channels": {
     "swe-jobs": [
       "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
@@ -30734,8 +30734,6 @@
       "url:https://job-boards.greenhouse.io/figma/jobs/6131089004"
     ],
     "pm-jobs": [
-      "greenhouse-figma-6119781004",
-      "url:https://boards.greenhouse.io/figma/jobs/6119781004",
       "ashby-openai-c3783e22-c6b6-41d6-b0d4-2b648912268f",
       "url:https://jobs.ashbyhq.com/openai/c3783e22-c6b6-41d6-b0d4-2b648912268f",
       "greenhouse-anthropic-5368023008",
@@ -31523,15 +31521,13 @@
       "greenhouse-anthropic-5108695008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5108695008",
       "greenhouse-anthropic-4989788008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4989788008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/4989788008",
+      "jobright-220b0797eeff",
+      "url:https://jobright.ai/jobs/info/6a8867a44afae74a0834b787",
+      "jobright-7ca980eadfd9",
+      "url:https://jobright.ai/jobs/info/6a886722e8b6601d12906837"
     ],
     "swe-ai-full-time": [
-      "greenhouse-discord-8642220002",
-      "url:https://job-boards.greenhouse.io/discord/jobs/8642220002",
-      "greenhouse-vercel-6122437004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6122437004",
-      "ashby-openai-872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9",
-      "url:https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9",
       "ashby-openai-3f99bfef-5b1a-48ea-aed0-2dbd57b12722",
       "url:https://jobs.ashbyhq.com/openai/3f99bfef-5b1a-48ea-aed0-2dbd57b12722",
       "simplify-62d11aec-ce0b-4085-b323-3da6cb9f2ea0",
@@ -36147,7 +36143,11 @@
       "greenhouse-anthropic-5228463008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5228463008",
       "greenhouse-anthropic-4720576008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/4720576008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
+      "ashby-openai-990397de-c00c-4577-b093-d8c82b4e9145",
+      "url:https://jobs.ashbyhq.com/openai/990397de-c00c-4577-b093-d8c82b4e9145",
+      "ashby-openai-872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9",
+      "url:https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9"
     ]
   }
 }
