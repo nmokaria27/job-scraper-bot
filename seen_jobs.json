@@ -28331,10 +28331,26 @@
     {
       "id": "url:https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820",
       "seen_at": "2026-08-21T14:45:39.703448+00:00"
+    },
+    {
+      "id": "jobright-d93727fc4d3c",
+      "seen_at": "2026-08-21T15:16:39.618163+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a87975925fc4e7ae3daddd7",
+      "seen_at": "2026-08-21T15:16:39.618686+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-8144607",
+      "seen_at": "2026-08-21T15:16:40.845836+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/8144607",
+      "seen_at": "2026-08-21T15:16:40.846424+00:00"
     }
   ],
-  "last_run": "2026-08-21T14:45:39.985596+00:00",
-  "total_notified": 3670,
+  "last_run": "2026-08-21T15:16:41.116792+00:00",
+  "total_notified": 3672,
   "channels": {
     "swe-jobs": [
       "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
@@ -30869,7 +30885,9 @@
       "jobright-045f4fe208cd",
       "url:https://jobright.ai/jobs/info/6a62e4de32abf9182432c142",
       "jobright-cc6da30a2922",
-      "url:https://jobright.ai/jobs/info/6a0ad6e8a203b1052e44f280"
+      "url:https://jobright.ai/jobs/info/6a0ad6e8a203b1052e44f280",
+      "jobright-d93727fc4d3c",
+      "url:https://jobright.ai/jobs/info/6a87975925fc4e7ae3daddd7"
     ],
     "swe-ai-full-time": [
       "simplify-55f9d906-6fa5-49e9-8717-7e16023326ac",
@@ -35437,7 +35455,9 @@
       "simplify-9dd2d074-1b3b-40e8-8722-db75083e64d1",
       "url:https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312",
       "simplify-2a701480-0cb2-4855-8732-d762f6105134",
-      "url:https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820"
+      "url:https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820",
+      "greenhouse-datadog-8144607",
+      "url:https://careers.datadoghq.com/detail/8144607"
     ]
   }
 }
