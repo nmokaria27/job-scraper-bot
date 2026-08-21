@@ -1,64 +1,7 @@
 {
   "channels": {
-    "swe-ai-full-time": [
-      {
-        "id": "greenhouse-anthropic-5109273008",
-        "seen_keys": [
-          "greenhouse-anthropic-5109273008",
-          "url:https://job-boards.greenhouse.io/anthropic/jobs/5109273008"
-        ],
-        "title": "Software Engineer, Human Data Interface",
-        "company": "Anthropic",
-        "location": "San Francisco, CA | New York City, NY",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5109273008",
-        "platform": "greenhouse",
-        "posted_at": "2026-08-21T12:49:55-04:00",
-        "queued_at": "2026-08-21T16:55:40.449008+00:00"
-      },
-      {
-        "id": "greenhouse-anthropic-5238606008",
-        "seen_keys": [
-          "greenhouse-anthropic-5238606008",
-          "url:https://job-boards.greenhouse.io/anthropic/jobs/5238606008"
-        ],
-        "title": "Software Engineer, RL Data",
-        "company": "Anthropic",
-        "location": "San Francisco, CA | New York City, NY",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5238606008",
-        "platform": "greenhouse",
-        "posted_at": "2026-08-21T12:50:22-04:00",
-        "queued_at": "2026-08-21T16:55:40.449023+00:00"
-      },
-      {
-        "id": "greenhouse-anthropic-5228463008",
-        "seen_keys": [
-          "greenhouse-anthropic-5228463008",
-          "url:https://job-boards.greenhouse.io/anthropic/jobs/5228463008"
-        ],
-        "title": "Support Engineer",
-        "company": "Anthropic",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5228463008",
-        "platform": "greenhouse",
-        "posted_at": "2026-08-21T12:50:16-04:00",
-        "queued_at": "2026-08-21T16:55:40.449033+00:00"
-      },
-      {
-        "id": "greenhouse-anthropic-4720576008",
-        "seen_keys": [
-          "greenhouse-anthropic-4720576008",
-          "url:https://job-boards.greenhouse.io/anthropic/jobs/4720576008"
-        ],
-        "title": "TPU Kernel Engineer",
-        "company": "Anthropic",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
-        "platform": "greenhouse",
-        "posted_at": "2026-08-21T12:49:39-04:00",
-        "queued_at": "2026-08-21T16:55:40.449044+00:00"
-      }
-    ],
+    "swe-ai-full-time": [],
     "swe-jobs": []
   },
-  "last_run": "2026-08-21T17:37:23.644264+00:00"
+  "last_run": "2026-08-21T18:00:41.885572+00:00"
 }
