@@ -29035,10 +29035,34 @@
     {
       "id": "url:https://careers.airbnb.com/positions/8146265",
       "seen_at": "2026-08-21T20:34:16.229175+00:00"
+    },
+    {
+      "id": "simplify-9e276b36-0027-450c-b77d-ba9d4664b668",
+      "seen_at": "2026-08-21T20:54:39.282656+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/avalore/j/236521B2C0/apply",
+      "seen_at": "2026-08-21T20:54:39.283259+00:00"
+    },
+    {
+      "id": "simplify-90f9f1b5-758f-40b8-b6dd-9a555735a261",
+      "seen_at": "2026-08-21T20:54:39.283756+00:00"
+    },
+    {
+      "id": "url:https://lbl.taleo.net/careersection/5/jobdetail.ftl",
+      "seen_at": "2026-08-21T20:54:39.284233+00:00"
+    },
+    {
+      "id": "simplify-360847fa-a110-475d-aa7e-121fcba41e78",
+      "seen_at": "2026-08-21T20:54:39.284712+00:00"
+    },
+    {
+      "id": "url:https://onearc.bamboohr.com/careers/402",
+      "seen_at": "2026-08-21T20:54:39.285185+00:00"
     }
   ],
-  "last_run": "2026-08-21T20:34:16.572845+00:00",
-  "total_notified": 3764,
+  "last_run": "2026-08-21T20:54:39.542267+00:00",
+  "total_notified": 3767,
   "channels": {
     "swe-jobs": [
       "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
@@ -36317,7 +36341,13 @@
       "simplify-9e675a71-dd54-4b7e-9dad-72b84c93433e",
       "url:https://careers-mercuryinsurance.icims.com/jobs/6743/job",
       "greenhouse-airbnb-8146265",
-      "url:https://careers.airbnb.com/positions/8146265"
+      "url:https://careers.airbnb.com/positions/8146265",
+      "simplify-9e276b36-0027-450c-b77d-ba9d4664b668",
+      "url:https://apply.workable.com/avalore/j/236521B2C0/apply",
+      "simplify-90f9f1b5-758f-40b8-b6dd-9a555735a261",
+      "url:https://lbl.taleo.net/careersection/5/jobdetail.ftl",
+      "simplify-360847fa-a110-475d-aa7e-121fcba41e78",
+      "url:https://onearc.bamboohr.com/careers/402"
     ]
   }
 }
