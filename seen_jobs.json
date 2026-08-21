@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-62d11aec-ce0b-4085-b323-3da6cb9f2ea0",
-      "seen_at": "2026-07-22T23:26:32.057703+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/bosonai/2b520a0f-556a-4dc2-a5a7-d8845a921335/apply",
-      "seen_at": "2026-07-22T23:26:32.057885+00:00"
-    },
-    {
-      "id": "simplify-e5641813-b0c5-4823-8207-fff119dcec78",
-      "seen_at": "2026-07-22T23:26:32.058092+00:00"
-    },
-    {
-      "id": "url:https://www.google.com/about/careers/applications/jobs/results/91555030850511558",
-      "seen_at": "2026-07-22T23:26:32.058225+00:00"
-    },
-    {
-      "id": "simplify-8b0a6977-f796-456e-a016-3191e02750a7",
-      "seen_at": "2026-07-22T23:26:32.058358+00:00"
-    },
-    {
-      "id": "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Reverse-Engineer---Analyst_RQ224343-1",
-      "seen_at": "2026-07-22T23:26:32.058471+00:00"
-    },
-    {
-      "id": "simplify-c095eb88-6e4b-4b23-a453-84859c7b753e",
-      "seen_at": "2026-07-22T23:26:32.058605+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1411705300",
-      "seen_at": "2026-07-22T23:26:32.058729+00:00"
-    },
-    {
-      "id": "simplify-5b94931b-c8c1-4030-94fd-b855ea4581c5",
-      "seen_at": "2026-07-22T23:26:32.058852+00:00"
-    },
-    {
-      "id": "url:https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs",
-      "seen_at": "2026-07-22T23:26:32.058978+00:00"
-    },
-    {
-      "id": "simplify-33cc8535-c719-4dbe-bb40-dd257deb0ae1",
-      "seen_at": "2026-07-22T23:26:32.059097+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016672",
-      "seen_at": "2026-07-22T23:26:32.059205+00:00"
-    },
-    {
-      "id": "ashby-openai-1f9c3666-82c8-45a7-8d4b-633a265ce996",
-      "seen_at": "2026-07-22T23:26:32.059316+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/1f9c3666-82c8-45a7-8d4b-633a265ce996",
-      "seen_at": "2026-07-22T23:26:32.059423+00:00"
-    },
-    {
       "id": "simplify-15e2628c-9ea6-46b7-b10b-1c4aae03e7df",
       "seen_at": "2026-07-23T01:05:08.693026+00:00"
     },
@@ -29187,10 +29131,42 @@
     {
       "id": "url:https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739",
       "seen_at": "2026-08-21T22:54:48.944508+00:00"
+    },
+    {
+      "id": "simplify-2533cf48-d1d8-4e5f-bed0-485c583da8a6",
+      "seen_at": "2026-08-21T23:31:46.815865+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/eudia/jobs/4379570009",
+      "seen_at": "2026-08-21T23:31:46.816341+00:00"
+    },
+    {
+      "id": "simplify-7f975658-42d7-48c0-8e20-ccb21aee47b8",
+      "seen_at": "2026-08-21T23:31:46.816766+00:00"
+    },
+    {
+      "id": "url:https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--Marketing_Req-50234",
+      "seen_at": "2026-08-21T23:31:46.817163+00:00"
+    },
+    {
+      "id": "simplify-158354ff-729f-4923-845b-d4f59eea424f",
+      "seen_at": "2026-08-21T23:31:49.058401+00:00"
+    },
+    {
+      "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Engineer---HBM-Design-for-Test--DFT-_JR109696",
+      "seen_at": "2026-08-21T23:31:49.058948+00:00"
+    },
+    {
+      "id": "ashby-openai-1f9c3666-82c8-45a7-8d4b-633a265ce996",
+      "seen_at": "2026-08-21T23:31:49.059397+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/1f9c3666-82c8-45a7-8d4b-633a265ce996",
+      "seen_at": "2026-08-21T23:31:49.059825+00:00"
     }
   ],
-  "last_run": "2026-08-21T22:54:49.185455+00:00",
-  "total_notified": 3786,
+  "last_run": "2026-08-21T23:31:49.386737+00:00",
+  "total_notified": 3790,
   "channels": {
     "swe-jobs": [
       "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
@@ -31837,23 +31813,13 @@
       "greenhouse-anthropic-5368023008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5368023008",
       "jobright-bd6667bc4f36",
-      "url:https://jobright.ai/jobs/info/6a88baa925fc4e7ae3db20ba"
+      "url:https://jobright.ai/jobs/info/6a88baa925fc4e7ae3db20ba",
+      "simplify-2533cf48-d1d8-4e5f-bed0-485c583da8a6",
+      "url:https://job-boards.greenhouse.io/eudia/jobs/4379570009",
+      "simplify-7f975658-42d7-48c0-8e20-ccb21aee47b8",
+      "url:https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--Marketing_Req-50234"
     ],
     "swe-ai-full-time": [
-      "simplify-62d11aec-ce0b-4085-b323-3da6cb9f2ea0",
-      "url:https://jobs.lever.co/bosonai/2b520a0f-556a-4dc2-a5a7-d8845a921335/apply",
-      "simplify-e5641813-b0c5-4823-8207-fff119dcec78",
-      "url:https://www.google.com/about/careers/applications/jobs/results/91555030850511558",
-      "simplify-8b0a6977-f796-456e-a016-3191e02750a7",
-      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Reverse-Engineer---Analyst_RQ224343-1",
-      "simplify-c095eb88-6e4b-4b23-a453-84859c7b753e",
-      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1411705300",
-      "simplify-5b94931b-c8c1-4030-94fd-b855ea4581c5",
-      "url:https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs",
-      "simplify-33cc8535-c719-4dbe-bb40-dd257deb0ae1",
-      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016672",
-      "ashby-openai-1f9c3666-82c8-45a7-8d4b-633a265ce996",
-      "url:https://jobs.ashbyhq.com/openai/1f9c3666-82c8-45a7-8d4b-633a265ce996",
       "simplify-15e2628c-9ea6-46b7-b10b-1c4aae03e7df",
       "url:https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Fall-2026-Hire/360284",
       "simplify-7599b00f-543d-45cf-ad21-d80fa58b6d90",
@@ -36507,7 +36473,11 @@
       "simplify-567f686f-9093-4a26-b732-e7aa4ee87b29",
       "url:https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4615-1",
       "simplify-18a9df54-1420-4258-8c24-37817d250f22",
-      "url:https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739"
+      "url:https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739",
+      "simplify-158354ff-729f-4923-845b-d4f59eea424f",
+      "url:https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Engineer---HBM-Design-for-Test--DFT-_JR109696",
+      "ashby-openai-1f9c3666-82c8-45a7-8d4b-633a265ce996",
+      "url:https://jobs.ashbyhq.com/openai/1f9c3666-82c8-45a7-8d4b-633a265ce996"
     ]
   }
 }
