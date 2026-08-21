@@ -28203,10 +28203,42 @@
     {
       "id": "url:https://jobs.bytedance.com/en/position/7673306902554102069/detail",
       "seen_at": "2026-08-21T09:55:57.849527+00:00"
+    },
+    {
+      "id": "simplify-892947b6-4cac-464b-941a-7244615e4d0a",
+      "seen_at": "2026-08-21T10:39:02.833047+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7676250516494436661",
+      "seen_at": "2026-08-21T10:39:02.833430+00:00"
+    },
+    {
+      "id": "simplify-75173633-1cf1-424b-b068-516958721462",
+      "seen_at": "2026-08-21T10:39:04.201277+00:00"
+    },
+    {
+      "id": "url:https://careers-ebscoind.icims.com/jobs/2069/job",
+      "seen_at": "2026-08-21T10:39:04.201655+00:00"
+    },
+    {
+      "id": "simplify-953a45ef-400f-4757-9a4e-ac3c919383f8",
+      "seen_at": "2026-08-21T10:39:06.183961+00:00"
+    },
+    {
+      "id": "url:https://qualcomm.eightfold.ai/careers/job/446720634561",
+      "seen_at": "2026-08-21T10:39:06.184405+00:00"
+    },
+    {
+      "id": "simplify-b4b7ba37-55e7-4a90-9a2c-08d0a62432d5",
+      "seen_at": "2026-08-21T10:39:06.184760+00:00"
+    },
+    {
+      "id": "url:https://qualcomm.eightfold.ai/careers/job/446720634563",
+      "seen_at": "2026-08-21T10:39:06.185109+00:00"
     }
   ],
-  "last_run": "2026-08-21T09:55:58.065560+00:00",
-  "total_notified": 3654,
+  "last_run": "2026-08-21T10:39:06.548122+00:00",
+  "total_notified": 3658,
   "channels": {
     "swe-jobs": [
       "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
@@ -29991,7 +30023,9 @@
       "simplify-16ab9e56-fd38-43a4-a048-7cca73f13c2d",
       "url:https://careers.amd.com/jobs/90820",
       "simplify-1a0df397-2083-456f-9ecb-137eec7603ef",
-      "url:https://boards.greenhouse.io/embed/job_app"
+      "url:https://boards.greenhouse.io/embed/job_app",
+      "simplify-892947b6-4cac-464b-941a-7244615e4d0a",
+      "url:https://lifeattiktok.com/search/7676250516494436661"
     ],
     "pm-jobs": [
       "greenhouse-figma-6119781004",
@@ -30719,7 +30753,9 @@
       "ashby-openai-b8a1293b-bf5b-488d-8257-869584db6496",
       "url:https://jobs.ashbyhq.com/openai/b8a1293b-bf5b-488d-8257-869584db6496",
       "greenhouse-pinterest-8046820",
-      "url:https://www.pinterestcareers.com/jobs"
+      "url:https://www.pinterestcareers.com/jobs",
+      "simplify-75173633-1cf1-424b-b068-516958721462",
+      "url:https://careers-ebscoind.icims.com/jobs/2069/job"
     ],
     "swe-ai-full-time": [
       "simplify-55f9d906-6fa5-49e9-8717-7e16023326ac",
@@ -35277,7 +35313,11 @@
       "simplify-1125c69f-65e1-4147-8a75-a88ddc41e3b2",
       "url:https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3",
       "simplify-67f9183a-b3d2-41ab-a0e5-2b1c829e2a9c",
-      "url:https://jobs.bytedance.com/en/position/7673306902554102069/detail"
+      "url:https://jobs.bytedance.com/en/position/7673306902554102069/detail",
+      "simplify-953a45ef-400f-4757-9a4e-ac3c919383f8",
+      "url:https://qualcomm.eightfold.ai/careers/job/446720634561",
+      "simplify-b4b7ba37-55e7-4a90-9a2c-08d0a62432d5",
+      "url:https://qualcomm.eightfold.ai/careers/job/446720634563"
     ]
   }
 }
