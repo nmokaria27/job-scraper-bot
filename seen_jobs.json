@@ -28235,10 +28235,106 @@
     {
       "id": "url:https://qualcomm.eightfold.ai/careers/job/446720634563",
       "seen_at": "2026-08-21T10:39:06.185109+00:00"
+    },
+    {
+      "id": "jobright-89054d707671",
+      "seen_at": "2026-08-21T14:45:36.404258+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a884aca25fc4e7ae3dafb27",
+      "seen_at": "2026-08-21T14:45:36.404750+00:00"
+    },
+    {
+      "id": "jobright-f25f7e6602af",
+      "seen_at": "2026-08-21T14:45:36.405219+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6b82d55c54bc4752ce9701",
+      "seen_at": "2026-08-21T14:45:36.405654+00:00"
+    },
+    {
+      "id": "jobright-5c22be94e9fa",
+      "seen_at": "2026-08-21T14:45:36.406082+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a55d222ec54dd532d814272",
+      "seen_at": "2026-08-21T14:45:36.406492+00:00"
+    },
+    {
+      "id": "jobright-b8bd7f65ddc1",
+      "seen_at": "2026-08-21T14:45:36.406921+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0ad6e9ef3b13362e7d6d19",
+      "seen_at": "2026-08-21T14:45:36.407329+00:00"
+    },
+    {
+      "id": "jobright-047f0f797384",
+      "seen_at": "2026-08-21T14:45:36.407739+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a1d59496b135014dbc95dc8",
+      "seen_at": "2026-08-21T14:45:36.408186+00:00"
+    },
+    {
+      "id": "jobright-389f74dec683",
+      "seen_at": "2026-08-21T14:45:36.408601+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0ad6e26186f46859892bff",
+      "seen_at": "2026-08-21T14:45:36.409027+00:00"
+    },
+    {
+      "id": "jobright-ec067145e89b",
+      "seen_at": "2026-08-21T14:45:36.409438+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a1e8eaab61b2c65b37abf2f",
+      "seen_at": "2026-08-21T14:45:36.409858+00:00"
+    },
+    {
+      "id": "jobright-045f4fe208cd",
+      "seen_at": "2026-08-21T14:45:36.410267+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a62e4de32abf9182432c142",
+      "seen_at": "2026-08-21T14:45:36.410670+00:00"
+    },
+    {
+      "id": "jobright-cc6da30a2922",
+      "seen_at": "2026-08-21T14:45:36.411093+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0ad6e8a203b1052e44f280",
+      "seen_at": "2026-08-21T14:45:36.411491+00:00"
+    },
+    {
+      "id": "simplify-e2780e38-7d31-45ad-9998-c8b228376036",
+      "seen_at": "2026-08-21T14:45:39.700864+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795",
+      "seen_at": "2026-08-21T14:45:39.701513+00:00"
+    },
+    {
+      "id": "simplify-9dd2d074-1b3b-40e8-8722-db75083e64d1",
+      "seen_at": "2026-08-21T14:45:39.702014+00:00"
+    },
+    {
+      "id": "url:https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312",
+      "seen_at": "2026-08-21T14:45:39.702461+00:00"
+    },
+    {
+      "id": "simplify-2a701480-0cb2-4855-8732-d762f6105134",
+      "seen_at": "2026-08-21T14:45:39.702925+00:00"
+    },
+    {
+      "id": "url:https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820",
+      "seen_at": "2026-08-21T14:45:39.703448+00:00"
     }
   ],
-  "last_run": "2026-08-21T14:01:13.837755+00:00",
-  "total_notified": 3658,
+  "last_run": "2026-08-21T14:45:39.985596+00:00",
+  "total_notified": 3670,
   "channels": {
     "swe-jobs": [
       "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
@@ -30755,7 +30851,25 @@
       "greenhouse-pinterest-8046820",
       "url:https://www.pinterestcareers.com/jobs",
       "simplify-75173633-1cf1-424b-b068-516958721462",
-      "url:https://careers-ebscoind.icims.com/jobs/2069/job"
+      "url:https://careers-ebscoind.icims.com/jobs/2069/job",
+      "jobright-89054d707671",
+      "url:https://jobright.ai/jobs/info/6a884aca25fc4e7ae3dafb27",
+      "jobright-f25f7e6602af",
+      "url:https://jobright.ai/jobs/info/6a6b82d55c54bc4752ce9701",
+      "jobright-5c22be94e9fa",
+      "url:https://jobright.ai/jobs/info/6a55d222ec54dd532d814272",
+      "jobright-b8bd7f65ddc1",
+      "url:https://jobright.ai/jobs/info/6a0ad6e9ef3b13362e7d6d19",
+      "jobright-047f0f797384",
+      "url:https://jobright.ai/jobs/info/6a1d59496b135014dbc95dc8",
+      "jobright-389f74dec683",
+      "url:https://jobright.ai/jobs/info/6a0ad6e26186f46859892bff",
+      "jobright-ec067145e89b",
+      "url:https://jobright.ai/jobs/info/6a1e8eaab61b2c65b37abf2f",
+      "jobright-045f4fe208cd",
+      "url:https://jobright.ai/jobs/info/6a62e4de32abf9182432c142",
+      "jobright-cc6da30a2922",
+      "url:https://jobright.ai/jobs/info/6a0ad6e8a203b1052e44f280"
     ],
     "swe-ai-full-time": [
       "simplify-55f9d906-6fa5-49e9-8717-7e16023326ac",
@@ -35317,7 +35431,13 @@
       "simplify-953a45ef-400f-4757-9a4e-ac3c919383f8",
       "url:https://qualcomm.eightfold.ai/careers/job/446720634561",
       "simplify-b4b7ba37-55e7-4a90-9a2c-08d0a62432d5",
-      "url:https://qualcomm.eightfold.ai/careers/job/446720634563"
+      "url:https://qualcomm.eightfold.ai/careers/job/446720634563",
+      "simplify-e2780e38-7d31-45ad-9998-c8b228376036",
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795",
+      "simplify-9dd2d074-1b3b-40e8-8722-db75083e64d1",
+      "url:https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312",
+      "simplify-2a701480-0cb2-4855-8732-d762f6105134",
+      "url:https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820"
     ]
   }
 }
