@@ -29211,10 +29211,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/dd7443fe-a7b8-4794-8dd5-cb7d14c00c64",
       "seen_at": "2026-08-22T02:02:19.944442+00:00"
+    },
+    {
+      "id": "simplify-6245b5b1-9a7d-4d30-aabb-19a2cedbde40",
+      "seen_at": "2026-08-22T03:01:59.449520+00:00"
+    },
+    {
+      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "seen_at": "2026-08-22T03:01:59.450109+00:00"
+    },
+    {
+      "id": "simplify-9d5887c5-a484-493a-a9cd-38e0b51c1ef6",
+      "seen_at": "2026-08-22T03:01:59.450681+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply",
+      "seen_at": "2026-08-22T03:01:59.451126+00:00"
     }
   ],
-  "last_run": "2026-08-22T02:02:20.167477+00:00",
-  "total_notified": 3801,
+  "last_run": "2026-08-22T03:02:00.753517+00:00",
+  "total_notified": 3803,
   "channels": {
     "swe-jobs": [
       "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
@@ -31061,7 +31077,11 @@
       "simplify-b364c68b-8fda-447b-b50d-dfa7fcd4039f",
       "url:https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436",
       "simplify-b9776d83-bf68-42d9-88e2-4ebdd4ffda09",
-      "url:https://lifeattiktok.com/search/7676276048527214901"
+      "url:https://lifeattiktok.com/search/7676276048527214901",
+      "simplify-6245b5b1-9a7d-4d30-aabb-19a2cedbde40",
+      "url:https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "simplify-9d5887c5-a484-493a-a9cd-38e0b51c1ef6",
+      "url:https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply"
     ],
     "pm-jobs": [
       "simplify-56695ff1-b6c0-40d2-b758-8cdd4c91994b",
