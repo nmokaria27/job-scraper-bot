@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
-      "seen_at": "2026-07-23T07:10:03.668534+00:00"
-    },
-    {
-      "id": "url:https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern",
-      "seen_at": "2026-07-23T07:10:03.668689+00:00"
-    },
-    {
-      "id": "simplify-81f2c13d-2485-497a-ae69-2e73193cb14e",
-      "seen_at": "2026-07-23T07:10:10.647839+00:00"
-    },
-    {
-      "id": "url:https://tapengineering.applytojob.com/apply/IK0hxrQaiv/Software-Engineer-Level-1",
-      "seen_at": "2026-07-23T07:10:10.648016+00:00"
-    },
-    {
-      "id": "simplify-a1fe3ca1-9cc9-4c37-96ce-93e032594d55",
-      "seen_at": "2026-07-23T07:10:10.648164+00:00"
-    },
-    {
-      "id": "url:https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Technology---Associate-Software-Engineer_82752",
-      "seen_at": "2026-07-23T07:10:10.648286+00:00"
-    },
-    {
-      "id": "simplify-256b9544-3a10-40a8-b3af-597fbb332828",
-      "seen_at": "2026-07-23T07:10:10.648448+00:00"
-    },
-    {
-      "id": "url:https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Assoc-Software-Engineer_R-2026-69992",
-      "seen_at": "2026-07-23T07:10:10.648559+00:00"
-    },
-    {
-      "id": "simplify-42adbeae-5304-418d-aa90-6022836e2020",
-      "seen_at": "2026-07-23T07:10:10.648679+00:00"
-    },
-    {
-      "id": "url:https://pegatrontechnologiesllc.applytojob.com/apply/PGNGTgapVq/Test-Engineer",
-      "seen_at": "2026-07-23T07:10:10.648784+00:00"
-    },
-    {
-      "id": "simplify-bd40fda7-37cc-4439-aca3-fdc324bbba53",
-      "seen_at": "2026-07-23T07:10:10.648897+00:00"
-    },
-    {
-      "id": "url:https://lentechinc.applytojob.com/apply/qnjVhHgXdC/Entry-Web-Developer",
-      "seen_at": "2026-07-23T07:10:10.649001+00:00"
-    },
-    {
-      "id": "simplify-ee08ed0a-6414-48a2-85a1-734e610ddc39",
-      "seen_at": "2026-07-23T07:10:10.649112+00:00"
-    },
-    {
-      "id": "url:https://ignitehumancapital.applytojob.com/apply/DeRgaHM0Vw/CAD-PCB-Layout-Engineer",
-      "seen_at": "2026-07-23T07:10:10.649216+00:00"
-    },
-    {
-      "id": "simplify-1d712e1a-d25e-498f-b325-75f7329ccd57",
-      "seen_at": "2026-07-23T07:10:10.649340+00:00"
-    },
-    {
-      "id": "url:https://innoflightinc.applytojob.com/apply/wkGSQg7HNk/Hardware-Integration-Test-Engineer-I",
-      "seen_at": "2026-07-23T07:10:10.649444+00:00"
-    },
-    {
-      "id": "simplify-58675663-1619-413f-b473-3a52d0da40bb",
-      "seen_at": "2026-07-23T07:10:10.649556+00:00"
-    },
-    {
-      "id": "url:https://digitalfoundry.applytojob.com/apply/AImbCdvOV4/Software-Engineer-Associate",
-      "seen_at": "2026-07-23T07:10:10.649660+00:00"
-    },
-    {
       "id": "simplify-56695ff1-b6c0-40d2-b758-8cdd4c91994b",
       "seen_at": "2026-07-23T09:40:02.987386+00:00"
     },
@@ -29221,12 +29149,10 @@
       "seen_at": "2026-08-22T03:01:59.451126+00:00"
     }
   ],
-  "last_run": "2026-08-22T06:53:45.091244+00:00",
+  "last_run": "2026-08-22T07:38:16.749738+00:00",
   "total_notified": 3803,
   "channels": {
     "swe-jobs": [
-      "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
-      "url:https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern",
       "simplify-9a969dee-3299-4199-9e37-0f0e37a0d66f",
       "url:https://jobs.smartrecruiters.com/WesternDigital/744000139338269",
       "simplify-3084c516-85ae-493d-a322-241adba5a8ed",
@@ -31898,22 +31824,6 @@
       "url:https://lifeattiktok.com/search/7676283436713593093"
     ],
     "swe-ai-full-time": [
-      "simplify-81f2c13d-2485-497a-ae69-2e73193cb14e",
-      "url:https://tapengineering.applytojob.com/apply/IK0hxrQaiv/Software-Engineer-Level-1",
-      "simplify-a1fe3ca1-9cc9-4c37-96ce-93e032594d55",
-      "url:https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Technology---Associate-Software-Engineer_82752",
-      "simplify-256b9544-3a10-40a8-b3af-597fbb332828",
-      "url:https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Assoc-Software-Engineer_R-2026-69992",
-      "simplify-42adbeae-5304-418d-aa90-6022836e2020",
-      "url:https://pegatrontechnologiesllc.applytojob.com/apply/PGNGTgapVq/Test-Engineer",
-      "simplify-bd40fda7-37cc-4439-aca3-fdc324bbba53",
-      "url:https://lentechinc.applytojob.com/apply/qnjVhHgXdC/Entry-Web-Developer",
-      "simplify-ee08ed0a-6414-48a2-85a1-734e610ddc39",
-      "url:https://ignitehumancapital.applytojob.com/apply/DeRgaHM0Vw/CAD-PCB-Layout-Engineer",
-      "simplify-1d712e1a-d25e-498f-b325-75f7329ccd57",
-      "url:https://innoflightinc.applytojob.com/apply/wkGSQg7HNk/Hardware-Integration-Test-Engineer-I",
-      "simplify-58675663-1619-413f-b473-3a52d0da40bb",
-      "url:https://digitalfoundry.applytojob.com/apply/AImbCdvOV4/Software-Engineer-Associate",
       "simplify-6db3dedb-6d02-4025-82ce-507796ab97fd",
       "url:https://bespoketechinc.applytojob.com/apply/6elfOe74I1/RD-Computer-Engineer",
       "simplify-4f97919a-e2f3-42e7-a1e7-6b964079b369",
