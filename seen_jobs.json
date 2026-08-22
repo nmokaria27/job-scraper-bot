@@ -29163,10 +29163,26 @@
     {
       "id": "url:https://careers-springswindowfashions.icims.com/jobs/12892/job",
       "seen_at": "2026-08-22T14:51:52.380385+00:00"
+    },
+    {
+      "id": "jobright-5a09d183f55c",
+      "seen_at": "2026-08-22T15:06:26.808639+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6da416ca1f9338466047ab",
+      "seen_at": "2026-08-22T15:06:26.809135+00:00"
+    },
+    {
+      "id": "jobright-9676afd37462",
+      "seen_at": "2026-08-22T15:06:26.809586+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6cf6d932f9300c3a3e6461",
+      "seen_at": "2026-08-22T15:06:26.810003+00:00"
     }
   ],
-  "last_run": "2026-08-22T14:51:53.038852+00:00",
-  "total_notified": 3812,
+  "last_run": "2026-08-22T15:06:27.752844+00:00",
+  "total_notified": 3814,
   "channels": {
     "swe-jobs": [
       "simplify-9a969dee-3299-4199-9e37-0f0e37a0d66f",
@@ -31849,7 +31865,11 @@
       "jobright-3ae402011823",
       "url:https://jobright.ai/jobs/info/6a6d0ff8ba7efe79c2f68469",
       "simplify-fb4c05e4-dae7-48e3-b6d3-5e670ed8556d",
-      "url:https://careers-springswindowfashions.icims.com/jobs/12892/job"
+      "url:https://careers-springswindowfashions.icims.com/jobs/12892/job",
+      "jobright-5a09d183f55c",
+      "url:https://jobright.ai/jobs/info/6a6da416ca1f9338466047ab",
+      "jobright-9676afd37462",
+      "url:https://jobright.ai/jobs/info/6a6cf6d932f9300c3a3e6461"
     ],
     "swe-ai-full-time": [
       "simplify-c63e3c05-9a47-401f-ae91-17cfc9ff81ff",
