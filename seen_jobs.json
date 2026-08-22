@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-febf0ce3-b358-48c8-805e-03aab0ba0354",
-      "seen_at": "2026-07-23T04:26:29.243079+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/Crusoe/bd0a5128-8727-4631-ab3b-913249b2ea84/application",
-      "seen_at": "2026-07-23T04:26:29.243304+00:00"
-    },
-    {
       "id": "simplify-e0eb06ce-3707-4dcb-a920-42bbb76b94a2",
       "seen_at": "2026-07-23T07:10:03.668534+00:00"
     },
@@ -29229,7 +29221,7 @@
       "seen_at": "2026-08-22T03:01:59.451126+00:00"
     }
   ],
-  "last_run": "2026-08-22T04:17:46.859894+00:00",
+  "last_run": "2026-08-22T04:53:03.041417+00:00",
   "total_notified": 3803,
   "channels": {
     "swe-jobs": [
@@ -31906,8 +31898,6 @@
       "url:https://lifeattiktok.com/search/7676283436713593093"
     ],
     "swe-ai-full-time": [
-      "simplify-febf0ce3-b358-48c8-805e-03aab0ba0354",
-      "url:https://jobs.ashbyhq.com/Crusoe/bd0a5128-8727-4631-ab3b-913249b2ea84/application",
       "simplify-81f2c13d-2485-497a-ae69-2e73193cb14e",
       "url:https://tapengineering.applytojob.com/apply/IK0hxrQaiv/Software-Engineer-Level-1",
       "simplify-a1fe3ca1-9cc9-4c37-96ce-93e032594d55",
