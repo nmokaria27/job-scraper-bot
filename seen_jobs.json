@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-d8f80069-7e92-4a82-9b1f-b8aaa60b695c",
-      "seen_at": "2026-07-24T15:03:14.978281+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/joinpogo/570c8f47-ee6f-4c54-9858-33d9f2233fb6/application",
-      "seen_at": "2026-07-24T15:03:14.978447+00:00"
-    },
-    {
-      "id": "simplify-d18bc1a4-16e1-4dad-9fb3-8dcae83337fe",
-      "seen_at": "2026-07-24T15:03:14.978564+00:00"
-    },
-    {
-      "id": "url:https://jobs.apple.com/en-us/details/200672759",
-      "seen_at": "2026-07-24T15:03:14.978664+00:00"
-    },
-    {
       "id": "ashby-openai-afc9813c-ec78-4579-b08b-e3716a36dbb0",
       "seen_at": "2026-07-24T16:50:53.753218+00:00"
     },
@@ -28917,7 +28901,7 @@
       "seen_at": "2026-08-23T12:55:52.206361+00:00"
     }
   ],
-  "last_run": "2026-08-23T14:52:57.087152+00:00",
+  "last_run": "2026-08-23T15:30:55.857217+00:00",
   "total_notified": 3828,
   "channels": {
     "swe-jobs": [
@@ -31604,10 +31588,6 @@
       "url:https://jobright.ai/jobs/info/69fd095a6b788e7e7a5c47de"
     ],
     "swe-ai-full-time": [
-      "simplify-d8f80069-7e92-4a82-9b1f-b8aaa60b695c",
-      "url:https://jobs.ashbyhq.com/joinpogo/570c8f47-ee6f-4c54-9858-33d9f2233fb6/application",
-      "simplify-d18bc1a4-16e1-4dad-9fb3-8dcae83337fe",
-      "url:https://jobs.apple.com/en-us/details/200672759",
       "ashby-openai-afc9813c-ec78-4579-b08b-e3716a36dbb0",
       "url:https://jobs.ashbyhq.com/openai/afc9813c-ec78-4579-b08b-e3716a36dbb0",
       "ashby-openai-07522b43-7861-4e71-b18c-f43aab192e20",
