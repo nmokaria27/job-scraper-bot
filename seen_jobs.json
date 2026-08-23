@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-airbnb-8083137",
-      "seen_at": "2026-07-24T09:37:46.845192+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8083137",
-      "seen_at": "2026-07-24T09:37:46.845377+00:00"
-    },
-    {
       "id": "greenhouse-datadog-7449072",
       "seen_at": "2026-07-24T13:03:54.940419+00:00"
     },
@@ -28917,7 +28909,7 @@
       "seen_at": "2026-08-22T23:59:54.241386+00:00"
     }
   ],
-  "last_run": "2026-08-23T09:13:39.903694+00:00",
+  "last_run": "2026-08-23T09:46:38.456799+00:00",
   "total_notified": 3826,
   "channels": {
     "swe-jobs": [
@@ -31600,8 +31592,6 @@
       "url:https://jobright.ai/jobs/info/6a6ceeaa5c54bc4752cf02e3"
     ],
     "swe-ai-full-time": [
-      "greenhouse-airbnb-8083137",
-      "url:https://careers.airbnb.com/positions/8083137",
       "greenhouse-datadog-7449072",
       "url:https://careers.datadoghq.com/detail/7449072",
       "simplify-d8f80069-7e92-4a82-9b1f-b8aaa60b695c",
