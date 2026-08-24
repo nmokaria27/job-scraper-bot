@@ -28955,10 +28955,74 @@
     {
       "id": "url:https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Subsurface-Technology-Reservoir-Engineer---Houston--TX_RQ115139",
       "seen_at": "2026-08-24T20:40:28.748544+00:00"
+    },
+    {
+      "id": "simplify-21abe7e3-285d-4817-a48a-557228cb2228",
+      "seen_at": "2026-08-24T21:13:53.499787+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/kodiak/jobs/4377407009",
+      "seen_at": "2026-08-24T21:13:53.500453+00:00"
+    },
+    {
+      "id": "simplify-5a92381f-f858-4847-a147-1dc9ffc07f92",
+      "seen_at": "2026-08-24T21:13:53.501025+00:00"
+    },
+    {
+      "id": "url:https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756",
+      "seen_at": "2026-08-24T21:13:53.501520+00:00"
+    },
+    {
+      "id": "simplify-cb063395-698b-47f5-9fe1-4b86a1b0dee5",
+      "seen_at": "2026-08-24T21:13:53.502049+00:00"
+    },
+    {
+      "id": "url:https://careers-springswindowfashions.icims.com/jobs/12891/job",
+      "seen_at": "2026-08-24T21:13:53.502525+00:00"
+    },
+    {
+      "id": "simplify-bc4407ea-452d-4ef5-b173-3260a4f7db7b",
+      "seen_at": "2026-08-24T21:13:53.503031+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/sage49/jobs/6131185004",
+      "seen_at": "2026-08-24T21:13:53.503536+00:00"
+    },
+    {
+      "id": "simplify-0aa38a85-7be2-4d60-8ec3-0002a9643512",
+      "seen_at": "2026-08-24T21:13:53.504048+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/sage49/jobs/6131191004",
+      "seen_at": "2026-08-24T21:13:53.504503+00:00"
+    },
+    {
+      "id": "simplify-610f0d04-dcde-4471-b453-03c32a16f5a2",
+      "seen_at": "2026-08-24T21:13:59.008930+00:00"
+    },
+    {
+      "id": "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
+      "seen_at": "2026-08-24T21:13:59.009470+00:00"
+    },
+    {
+      "id": "simplify-dc6284c7-4bc7-41bd-b3a7-77ad38c4a1a9",
+      "seen_at": "2026-08-24T21:13:59.010018+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply",
+      "seen_at": "2026-08-24T21:13:59.010487+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5400153008",
+      "seen_at": "2026-08-24T21:13:59.010920+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5400153008",
+      "seen_at": "2026-08-24T21:13:59.011336+00:00"
     }
   ],
-  "last_run": "2026-08-24T20:40:29.079746+00:00",
-  "total_notified": 3874,
+  "last_run": "2026-08-24T21:13:59.334335+00:00",
+  "total_notified": 3882,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -30827,7 +30891,17 @@
       "simplify-f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
       "url:https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
       "simplify-fa59ec3c-a4bd-4395-87e0-3817d5e0f9f6",
-      "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218"
+      "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218",
+      "simplify-21abe7e3-285d-4817-a48a-557228cb2228",
+      "url:https://job-boards.greenhouse.io/kodiak/jobs/4377407009",
+      "simplify-5a92381f-f858-4847-a147-1dc9ffc07f92",
+      "url:https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756",
+      "simplify-cb063395-698b-47f5-9fe1-4b86a1b0dee5",
+      "url:https://careers-springswindowfashions.icims.com/jobs/12891/job",
+      "simplify-bc4407ea-452d-4ef5-b173-3260a4f7db7b",
+      "url:https://job-boards.greenhouse.io/sage49/jobs/6131185004",
+      "simplify-0aa38a85-7be2-4d60-8ec3-0002a9643512",
+      "url:https://job-boards.greenhouse.io/sage49/jobs/6131191004"
     ],
     "pm-jobs": [
       "ashby-openai-5c4fec38-39d8-4f03-b67e-891893ce2550",
@@ -36217,7 +36291,13 @@
       "simplify-824e17c4-67a7-495a-a3c6-f616610f8aa4",
       "url:https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Automation-Engineer---Financial-Systems-AI_1641989-1",
       "simplify-23dbfbf2-af33-49dd-8a47-5fb0ce2b0339",
-      "url:https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Subsurface-Technology-Reservoir-Engineer---Houston--TX_RQ115139"
+      "url:https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Subsurface-Technology-Reservoir-Engineer---Houston--TX_RQ115139",
+      "simplify-610f0d04-dcde-4471-b453-03c32a16f5a2",
+      "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
+      "simplify-dc6284c7-4bc7-41bd-b3a7-77ad38c4a1a9",
+      "url:https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply",
+      "greenhouse-anthropic-5400153008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5400153008"
     ]
   }
 }
