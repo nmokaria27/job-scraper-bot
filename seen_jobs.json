@@ -29019,10 +29019,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5400153008",
       "seen_at": "2026-08-24T21:13:59.011336+00:00"
+    },
+    {
+      "id": "jobright-936a01dda88b",
+      "seen_at": "2026-08-24T21:47:06.993001+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8ca4b7581f2d7bfdfe4e5c",
+      "seen_at": "2026-08-24T21:47:06.993576+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5396384008",
+      "seen_at": "2026-08-24T21:47:08.371654+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5396384008",
+      "seen_at": "2026-08-24T21:47:08.372301+00:00"
     }
   ],
-  "last_run": "2026-08-24T21:13:59.334335+00:00",
-  "total_notified": 3882,
+  "last_run": "2026-08-24T21:47:08.612533+00:00",
+  "total_notified": 3884,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -31747,7 +31763,9 @@
       "jobright-0571ade7b9b3",
       "url:https://jobright.ai/jobs/info/6a8c77f6d34f700f87fd0b19",
       "simplify-a07da328-cad2-4ede-bbbb-87ffe48211e5",
-      "url:https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345"
+      "url:https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345",
+      "jobright-936a01dda88b",
+      "url:https://jobright.ai/jobs/info/6a8ca4b7581f2d7bfdfe4e5c"
     ],
     "swe-ai-full-time": [
       "simplify-5371578f-2351-4165-bb6f-8e6cfbbc8086",
@@ -36297,7 +36315,9 @@
       "simplify-dc6284c7-4bc7-41bd-b3a7-77ad38c4a1a9",
       "url:https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply",
       "greenhouse-anthropic-5400153008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5400153008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5400153008",
+      "greenhouse-anthropic-5396384008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5396384008"
     ]
   }
 }
