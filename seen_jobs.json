@@ -28875,10 +28875,90 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a8c77f6d34f700f87fd0b19",
       "seen_at": "2026-08-24T19:37:12.197257+00:00"
+    },
+    {
+      "id": "simplify-3761b187-d0d2-438d-9b56-f3853671880e",
+      "seen_at": "2026-08-24T20:40:22.585925+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Wilmington-Intern-D,-Software-Engineer-MA-01887/1422529400",
+      "seen_at": "2026-08-24T20:40:22.586299+00:00"
+    },
+    {
+      "id": "simplify-5a24ffd7-21dd-4446-9322-8b43eab99a97",
+      "seen_at": "2026-08-24T20:40:22.586645+00:00"
+    },
+    {
+      "id": "url:https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
+      "seen_at": "2026-08-24T20:40:22.586986+00:00"
+    },
+    {
+      "id": "simplify-f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
+      "seen_at": "2026-08-24T20:40:22.587287+00:00"
+    },
+    {
+      "id": "url:https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
+      "seen_at": "2026-08-24T20:40:22.587572+00:00"
+    },
+    {
+      "id": "simplify-fa59ec3c-a4bd-4395-87e0-3817d5e0f9f6",
+      "seen_at": "2026-08-24T20:40:22.587880+00:00"
+    },
+    {
+      "id": "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218",
+      "seen_at": "2026-08-24T20:40:22.588162+00:00"
+    },
+    {
+      "id": "simplify-a07da328-cad2-4ede-bbbb-87ffe48211e5",
+      "seen_at": "2026-08-24T20:40:24.077429+00:00"
+    },
+    {
+      "id": "url:https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345",
+      "seen_at": "2026-08-24T20:40:24.077850+00:00"
+    },
+    {
+      "id": "simplify-84c9f989-d1bf-43c7-ace1-da5f288ace4f",
+      "seen_at": "2026-08-24T20:40:28.745612+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1422532000",
+      "seen_at": "2026-08-24T20:40:28.746050+00:00"
+    },
+    {
+      "id": "simplify-6f703f37-ec50-41db-9745-f5e4c7bb97d6",
+      "seen_at": "2026-08-24T20:40:28.746405+00:00"
+    },
+    {
+      "id": "url:https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Packaging-Integration-Engineer--2027-New-College-Graduate-_JR-2604302",
+      "seen_at": "2026-08-24T20:40:28.746737+00:00"
+    },
+    {
+      "id": "simplify-85d7cbe8-ca54-4877-83dd-d0a6cfcc4157",
+      "seen_at": "2026-08-24T20:40:28.747058+00:00"
+    },
+    {
+      "id": "url:https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0247713",
+      "seen_at": "2026-08-24T20:40:28.747365+00:00"
+    },
+    {
+      "id": "simplify-824e17c4-67a7-495a-a3c6-f616610f8aa4",
+      "seen_at": "2026-08-24T20:40:28.747664+00:00"
+    },
+    {
+      "id": "url:https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Automation-Engineer---Financial-Systems-AI_1641989-1",
+      "seen_at": "2026-08-24T20:40:28.747967+00:00"
+    },
+    {
+      "id": "simplify-23dbfbf2-af33-49dd-8a47-5fb0ce2b0339",
+      "seen_at": "2026-08-24T20:40:28.748262+00:00"
+    },
+    {
+      "id": "url:https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Subsurface-Technology-Reservoir-Engineer---Houston--TX_RQ115139",
+      "seen_at": "2026-08-24T20:40:28.748544+00:00"
     }
   ],
-  "last_run": "2026-08-24T19:59:16.548220+00:00",
-  "total_notified": 3864,
+  "last_run": "2026-08-24T20:40:29.079746+00:00",
+  "total_notified": 3874,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -30739,7 +30819,15 @@
       "simplify-d55a832d-489f-468a-8688-f419fb8b1b38",
       "url:https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134",
       "simplify-40a73eb1-1878-4203-a116-82e2ad5c39c2",
-      "url:https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740"
+      "url:https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
+      "simplify-3761b187-d0d2-438d-9b56-f3853671880e",
+      "url:https://jobs.l3harris.com/job/Wilmington-Intern-D,-Software-Engineer-MA-01887/1422529400",
+      "simplify-5a24ffd7-21dd-4446-9322-8b43eab99a97",
+      "url:https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
+      "simplify-f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
+      "url:https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
+      "simplify-fa59ec3c-a4bd-4395-87e0-3817d5e0f9f6",
+      "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218"
     ],
     "pm-jobs": [
       "ashby-openai-5c4fec38-39d8-4f03-b67e-891893ce2550",
@@ -31583,7 +31671,9 @@
       "jobright-056bb9b654c2",
       "url:https://jobright.ai/jobs/info/6a8c76bd2f736c304f2a5db4",
       "jobright-0571ade7b9b3",
-      "url:https://jobright.ai/jobs/info/6a8c77f6d34f700f87fd0b19"
+      "url:https://jobright.ai/jobs/info/6a8c77f6d34f700f87fd0b19",
+      "simplify-a07da328-cad2-4ede-bbbb-87ffe48211e5",
+      "url:https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345"
     ],
     "swe-ai-full-time": [
       "simplify-5371578f-2351-4165-bb6f-8e6cfbbc8086",
@@ -36117,7 +36207,17 @@
       "ashby-openai-9248eab6-74e0-4940-98eb-ca09b17da532",
       "url:https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532",
       "ashby-openai-d1121575-a1a7-47c9-97e6-56c70f441143",
-      "url:https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143"
+      "url:https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143",
+      "simplify-84c9f989-d1bf-43c7-ace1-da5f288ace4f",
+      "url:https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1422532000",
+      "simplify-6f703f37-ec50-41db-9745-f5e4c7bb97d6",
+      "url:https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Packaging-Integration-Engineer--2027-New-College-Graduate-_JR-2604302",
+      "simplify-85d7cbe8-ca54-4877-83dd-d0a6cfcc4157",
+      "url:https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0247713",
+      "simplify-824e17c4-67a7-495a-a3c6-f616610f8aa4",
+      "url:https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Automation-Engineer---Financial-Systems-AI_1641989-1",
+      "simplify-23dbfbf2-af33-49dd-8a47-5fb0ce2b0339",
+      "url:https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Subsurface-Technology-Reservoir-Engineer---Houston--TX_RQ115139"
     ]
   }
 }
