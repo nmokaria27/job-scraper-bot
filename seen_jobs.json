@@ -28835,10 +28835,18 @@
     {
       "id": "url:https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
       "seen_at": "2026-08-24T16:18:10.321315+00:00"
+    },
+    {
+      "id": "ashby-openai-ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
+      "seen_at": "2026-08-24T16:58:41.198170+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
+      "seen_at": "2026-08-24T16:58:41.198464+00:00"
     }
   ],
-  "last_run": "2026-08-24T16:18:11.834229+00:00",
-  "total_notified": 3858,
+  "last_run": "2026-08-24T16:58:41.515065+00:00",
+  "total_notified": 3859,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -36067,7 +36075,9 @@
       "greenhouse-anthropic-5399158008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5399158008",
       "greenhouse-anthropic-5399162008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5399162008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5399162008",
+      "ashby-openai-ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
+      "url:https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96"
     ]
   }
 }
