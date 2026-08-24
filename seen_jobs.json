@@ -29035,10 +29035,18 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5396384008",
       "seen_at": "2026-08-24T21:47:08.372301+00:00"
+    },
+    {
+      "id": "jobright-0d533829f332",
+      "seen_at": "2026-08-24T22:04:17.397375+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8ca1e025fc4e7ae3db9886",
+      "seen_at": "2026-08-24T22:04:17.397864+00:00"
     }
   ],
-  "last_run": "2026-08-24T21:47:08.612533+00:00",
-  "total_notified": 3884,
+  "last_run": "2026-08-24T22:04:18.300330+00:00",
+  "total_notified": 3885,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -31765,7 +31773,9 @@
       "simplify-a07da328-cad2-4ede-bbbb-87ffe48211e5",
       "url:https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345",
       "jobright-936a01dda88b",
-      "url:https://jobright.ai/jobs/info/6a8ca4b7581f2d7bfdfe4e5c"
+      "url:https://jobright.ai/jobs/info/6a8ca4b7581f2d7bfdfe4e5c",
+      "jobright-0d533829f332",
+      "url:https://jobright.ai/jobs/info/6a8ca1e025fc4e7ae3db9886"
     ],
     "swe-ai-full-time": [
       "simplify-5371578f-2351-4165-bb6f-8e6cfbbc8086",
