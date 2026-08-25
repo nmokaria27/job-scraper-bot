@@ -29339,10 +29339,50 @@
     {
       "id": "url:https://careers.amd.com/jobs/91463",
       "seen_at": "2026-08-25T07:13:17.220018+00:00"
+    },
+    {
+      "id": "simplify-e179d914-b70e-45ab-994b-6317583a37d7",
+      "seen_at": "2026-08-25T11:36:14.719738+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Herndon-Intern,-Security-Research-Engineer-VA-20171/1422834800",
+      "seen_at": "2026-08-25T11:36:14.720276+00:00"
+    },
+    {
+      "id": "simplify-aacc4ee3-09a8-40e8-99a0-5bc47790fe52",
+      "seen_at": "2026-08-25T11:36:14.720709+00:00"
+    },
+    {
+      "id": "url:https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1",
+      "seen_at": "2026-08-25T11:36:14.721108+00:00"
+    },
+    {
+      "id": "simplify-2ced41cc-c8cf-41e5-ae1d-1ded73852520",
+      "seen_at": "2026-08-25T11:36:14.721508+00:00"
+    },
+    {
+      "id": "url:https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158",
+      "seen_at": "2026-08-25T11:36:14.721884+00:00"
+    },
+    {
+      "id": "simplify-2601d254-0c81-443b-b1ca-3c2293da624a",
+      "seen_at": "2026-08-25T11:36:14.722239+00:00"
+    },
+    {
+      "id": "url:https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2",
+      "seen_at": "2026-08-25T11:36:14.722583+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-6161129004",
+      "seen_at": "2026-08-25T11:36:16.357713+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6161129004",
+      "seen_at": "2026-08-25T11:36:16.358283+00:00"
     }
   ],
-  "last_run": "2026-08-25T10:53:00.472577+00:00",
-  "total_notified": 3924,
+  "last_run": "2026-08-25T11:36:16.635056+00:00",
+  "total_notified": 3929,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -31241,7 +31281,15 @@
       "simplify-87d12a7b-d741-4dd9-a558-de2b329aa098",
       "url:https://careers.amd.com/jobs/91471",
       "simplify-06673e9a-5d65-4652-9ea8-f673b24c85a5",
-      "url:https://careers.amd.com/jobs/91463"
+      "url:https://careers.amd.com/jobs/91463",
+      "simplify-e179d914-b70e-45ab-994b-6317583a37d7",
+      "url:https://jobs.l3harris.com/job/Herndon-Intern,-Security-Research-Engineer-VA-20171/1422834800",
+      "simplify-aacc4ee3-09a8-40e8-99a0-5bc47790fe52",
+      "url:https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1",
+      "simplify-2ced41cc-c8cf-41e5-ae1d-1ded73852520",
+      "url:https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158",
+      "simplify-2601d254-0c81-443b-b1ca-3c2293da624a",
+      "url:https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2"
     ],
     "pm-jobs": [
       "ashby-openai-5c4fec38-39d8-4f03-b67e-891893ce2550",
@@ -36697,7 +36745,9 @@
       "simplify-2029943e-bdea-40e0-af4d-e7e07e36b06a",
       "url:https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582",
       "simplify-af9ad2a9-dee9-44f4-abc5-b30f9c1df4e4",
-      "url:https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141"
+      "url:https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141",
+      "greenhouse-vercel-6161129004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6161129004"
     ]
   }
 }
