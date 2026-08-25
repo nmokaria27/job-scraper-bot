@@ -29747,10 +29747,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a8df9e347679c68bf5e5e48",
       "seen_at": "2026-08-25T22:37:06.995451+00:00"
+    },
+    {
+      "id": "jobright-34899a9e7aed",
+      "seen_at": "2026-08-25T22:59:23.686888+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a879eef25fc4e7ae3dae006",
+      "seen_at": "2026-08-25T22:59:23.687540+00:00"
+    },
+    {
+      "id": "jobright-f85426906b42",
+      "seen_at": "2026-08-25T22:59:23.688111+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a84fc7d58ded76ad8fea386",
+      "seen_at": "2026-08-25T22:59:23.688567+00:00"
+    },
+    {
+      "id": "jobright-7c265fe804d0",
+      "seen_at": "2026-08-25T22:59:23.689070+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a84fc7dc1a3fd7120f741b3",
+      "seen_at": "2026-08-25T22:59:23.689522+00:00"
+    },
+    {
+      "id": "jobright-0fae6aefc60a",
+      "seen_at": "2026-08-25T22:59:23.690005+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a879ee0680f314a29d39970",
+      "seen_at": "2026-08-25T22:59:23.690453+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5390966008",
+      "seen_at": "2026-08-25T22:59:23.690912+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5390966008",
+      "seen_at": "2026-08-25T22:59:23.691390+00:00"
     }
   ],
-  "last_run": "2026-08-25T22:37:07.734576+00:00",
-  "total_notified": 3977,
+  "last_run": "2026-08-25T22:59:23.927456+00:00",
+  "total_notified": 3982,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -37209,7 +37249,17 @@
       "simplify-a3fa760c-c8ec-4d27-8090-1ff8948cd4d0",
       "url:https://careers.jhuapl.edu/jobs/59654",
       "greenhouse-figma-6158162004",
-      "url:https://boards.greenhouse.io/figma/jobs/6158162004"
+      "url:https://boards.greenhouse.io/figma/jobs/6158162004",
+      "jobright-34899a9e7aed",
+      "url:https://jobright.ai/jobs/info/6a879eef25fc4e7ae3dae006",
+      "jobright-f85426906b42",
+      "url:https://jobright.ai/jobs/info/6a84fc7d58ded76ad8fea386",
+      "jobright-7c265fe804d0",
+      "url:https://jobright.ai/jobs/info/6a84fc7dc1a3fd7120f741b3",
+      "jobright-0fae6aefc60a",
+      "url:https://jobright.ai/jobs/info/6a879ee0680f314a29d39970",
+      "greenhouse-anthropic-5390966008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5390966008"
     ]
   }
 }
