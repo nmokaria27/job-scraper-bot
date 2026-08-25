@@ -29731,10 +29731,26 @@
     {
       "id": "url:https://boards.greenhouse.io/figma/jobs/6158162004",
       "seen_at": "2026-08-25T21:47:10.610401+00:00"
+    },
+    {
+      "id": "simplify-2a0b4fae-5de5-4ba8-b55d-c4bba930145b",
+      "seen_at": "2026-08-25T22:37:06.994001+00:00"
+    },
+    {
+      "id": "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110789",
+      "seen_at": "2026-08-25T22:37:06.994606+00:00"
+    },
+    {
+      "id": "jobright-37709a0052b6",
+      "seen_at": "2026-08-25T22:37:06.995043+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8df9e347679c68bf5e5e48",
+      "seen_at": "2026-08-25T22:37:06.995451+00:00"
     }
   ],
-  "last_run": "2026-08-25T22:02:42.725869+00:00",
-  "total_notified": 3975,
+  "last_run": "2026-08-25T22:37:07.734576+00:00",
+  "total_notified": 3977,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -32555,7 +32571,11 @@
       "jobright-a4fb182223a9",
       "url:https://jobright.ai/jobs/info/6a8ddaba47679c68bf5e523d",
       "simplify-8cf244f2-f67a-4786-b968-74bd6c7aec38",
-      "url:https://jobs.lever.co/Xpansiv%20/8a1649ec-ef5f-425d-8a36-34f28d67e8a7/apply"
+      "url:https://jobs.lever.co/Xpansiv%20/8a1649ec-ef5f-425d-8a36-34f28d67e8a7/apply",
+      "simplify-2a0b4fae-5de5-4ba8-b55d-c4bba930145b",
+      "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110789",
+      "jobright-37709a0052b6",
+      "url:https://jobright.ai/jobs/info/6a8df9e347679c68bf5e5e48"
     ],
     "swe-ai-full-time": [
       "simplify-15516d2c-266f-4437-aa09-f737ed54939c",
