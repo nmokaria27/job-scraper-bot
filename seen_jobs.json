@@ -29283,10 +29283,34 @@
     {
       "id": "url:https://jobs.smartrecruiters.com/STCU1/744000145379939",
       "seen_at": "2026-08-25T02:05:11.658472+00:00"
+    },
+    {
+      "id": "simplify-d5cb9991-9336-4138-b9c5-18d14b6c8f1b",
+      "seen_at": "2026-08-25T04:03:45.443486+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1422806500",
+      "seen_at": "2026-08-25T04:03:45.444146+00:00"
+    },
+    {
+      "id": "simplify-7a0ebab5-1cf3-49b7-b609-5c5258ac7694",
+      "seen_at": "2026-08-25T04:03:45.444673+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Wilmington-Associate,-Optical-Engineer-MA-01887/1422797100",
+      "seen_at": "2026-08-25T04:03:45.445161+00:00"
+    },
+    {
+      "id": "simplify-2029943e-bdea-40e0-af4d-e7e07e36b06a",
+      "seen_at": "2026-08-25T04:03:45.445652+00:00"
+    },
+    {
+      "id": "url:https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582",
+      "seen_at": "2026-08-25T04:03:45.446130+00:00"
     }
   ],
-  "last_run": "2026-08-25T03:08:28.239946+00:00",
-  "total_notified": 3916,
+  "last_run": "2026-08-25T04:03:45.844587+00:00",
+  "total_notified": 3919,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -36627,7 +36651,13 @@
       "simplify-2db7fa24-ce61-44d2-ab75-88bedecf3d02",
       "url:https://jobs.bytedance.com/en/position/7675473897004861749/detail",
       "simplify-f6ea312c-a27d-4faa-9ea7-e433fa700f5a",
-      "url:https://jobs.smartrecruiters.com/STCU1/744000145379939"
+      "url:https://jobs.smartrecruiters.com/STCU1/744000145379939",
+      "simplify-d5cb9991-9336-4138-b9c5-18d14b6c8f1b",
+      "url:https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1422806500",
+      "simplify-7a0ebab5-1cf3-49b7-b609-5c5258ac7694",
+      "url:https://jobs.l3harris.com/job/Wilmington-Associate,-Optical-Engineer-MA-01887/1422797100",
+      "simplify-2029943e-bdea-40e0-af4d-e7e07e36b06a",
+      "url:https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582"
     ]
   }
 }
