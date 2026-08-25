@@ -29571,10 +29571,34 @@
     {
       "id": "url:https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
       "seen_at": "2026-08-25T19:01:51.558947+00:00"
+    },
+    {
+      "id": "jobright-0e44af4b7d7a",
+      "seen_at": "2026-08-25T20:08:26.147181+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8dae3cd34f700f87fd5363",
+      "seen_at": "2026-08-25T20:08:26.147691+00:00"
+    },
+    {
+      "id": "jobright-2c803f0ef841",
+      "seen_at": "2026-08-25T20:08:26.148144+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8dd1dc581f2d7bfdfe95b0",
+      "seen_at": "2026-08-25T20:08:26.148576+00:00"
+    },
+    {
+      "id": "jobright-c453ea3f2b21",
+      "seen_at": "2026-08-25T20:08:26.148995+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7223ca71acd469eeda62e7",
+      "seen_at": "2026-08-25T20:08:26.149441+00:00"
     }
   ],
-  "last_run": "2026-08-25T19:39:00.154112+00:00",
-  "total_notified": 3954,
+  "last_run": "2026-08-25T20:08:26.764441+00:00",
+  "total_notified": 3957,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -32369,7 +32393,13 @@
       "simplify-43726f05-d685-4bcb-bd0f-b3d05ccc91e1",
       "url:https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/XMLNAME-2026-AFS-Technology-Internship-Program_JR103660",
       "simplify-61f248d1-fb21-4da6-ba94-323cd500187e",
-      "url:https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Associate-Product-Analyst--ALDP-_JR103415-1"
+      "url:https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Associate-Product-Analyst--ALDP-_JR103415-1",
+      "jobright-0e44af4b7d7a",
+      "url:https://jobright.ai/jobs/info/6a8dae3cd34f700f87fd5363",
+      "jobright-2c803f0ef841",
+      "url:https://jobright.ai/jobs/info/6a8dd1dc581f2d7bfdfe95b0",
+      "jobright-c453ea3f2b21",
+      "url:https://jobright.ai/jobs/info/6a7223ca71acd469eeda62e7"
     ],
     "swe-ai-full-time": [
       "greenhouse-reddit-8029120",
