@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-reddit-8029120",
-      "seen_at": "2026-07-26T21:06:47.487714+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8029120",
-      "seen_at": "2026-07-26T21:06:47.487959+00:00"
-    },
-    {
       "id": "simplify-15516d2c-266f-4437-aa09-f737ed54939c",
       "seen_at": "2026-07-26T23:15:02.180288+00:00"
     },
@@ -29595,10 +29587,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a7223ca71acd469eeda62e7",
       "seen_at": "2026-08-25T20:08:26.149441+00:00"
+    },
+    {
+      "id": "jobright-ad155d95481f",
+      "seen_at": "2026-08-25T21:12:20.918676+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8de48447679c68bf5e564e",
+      "seen_at": "2026-08-25T21:12:20.919163+00:00"
+    },
+    {
+      "id": "jobright-a4fb182223a9",
+      "seen_at": "2026-08-25T21:12:20.919598+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8ddaba47679c68bf5e523d",
+      "seen_at": "2026-08-25T21:12:20.919986+00:00"
+    },
+    {
+      "id": "greenhouse-reddit-8029120",
+      "seen_at": "2026-08-25T21:12:22.167888+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8029120",
+      "seen_at": "2026-08-25T21:12:22.168460+00:00"
     }
   ],
-  "last_run": "2026-08-25T20:49:17.113366+00:00",
-  "total_notified": 3957,
+  "last_run": "2026-08-25T21:12:22.535295+00:00",
+  "total_notified": 3960,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -32399,11 +32415,13 @@
       "jobright-2c803f0ef841",
       "url:https://jobright.ai/jobs/info/6a8dd1dc581f2d7bfdfe95b0",
       "jobright-c453ea3f2b21",
-      "url:https://jobright.ai/jobs/info/6a7223ca71acd469eeda62e7"
+      "url:https://jobright.ai/jobs/info/6a7223ca71acd469eeda62e7",
+      "jobright-ad155d95481f",
+      "url:https://jobright.ai/jobs/info/6a8de48447679c68bf5e564e",
+      "jobright-a4fb182223a9",
+      "url:https://jobright.ai/jobs/info/6a8ddaba47679c68bf5e523d"
     ],
     "swe-ai-full-time": [
-      "greenhouse-reddit-8029120",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8029120",
       "simplify-15516d2c-266f-4437-aa09-f737ed54939c",
       "url:https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87/application",
       "simplify-2b6ae9a3-338f-478c-8bb1-24ae92d0c4cf",
@@ -37019,7 +37037,9 @@
       "simplify-9148ea6a-f591-495f-9a97-2fd5c7ac2aea",
       "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer-I_JR102952",
       "simplify-9d74aeea-fa25-46c6-af6f-3d20a6065b64",
-      "url:https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1"
+      "url:https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+      "greenhouse-reddit-8029120",
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8029120"
     ]
   }
 }
