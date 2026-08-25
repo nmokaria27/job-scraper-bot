@@ -29187,10 +29187,106 @@
     {
       "id": "url:https://lifeattiktok.com/search/7676647728043280645",
       "seen_at": "2026-08-25T00:24:43.088308+00:00"
+    },
+    {
+      "id": "simplify-39309c17-e806-4ea4-ba0d-0d69cfaca27f",
+      "seen_at": "2026-08-25T02:05:02.290295+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc/application",
+      "seen_at": "2026-08-25T02:05:02.290816+00:00"
+    },
+    {
+      "id": "simplify-4e9fe751-4379-45cd-97bd-7083fd5e58d1",
+      "seen_at": "2026-08-25T02:05:11.648656+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/coldquanta/j/DA0D4B3975/apply",
+      "seen_at": "2026-08-25T02:05:11.649184+00:00"
+    },
+    {
+      "id": "simplify-eac46790-0057-4518-8e60-be17fee9950f",
+      "seen_at": "2026-08-25T02:05:11.649676+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/coldquanta/j/1B97312CA0/apply",
+      "seen_at": "2026-08-25T02:05:11.650135+00:00"
+    },
+    {
+      "id": "simplify-efe8c7af-0baa-411f-8106-bdfcbe0674b4",
+      "seen_at": "2026-08-25T02:05:11.650611+00:00"
+    },
+    {
+      "id": "url:https://careers-libertymutual.icims.com/jobs/77179/job",
+      "seen_at": "2026-08-25T02:05:11.651062+00:00"
+    },
+    {
+      "id": "simplify-11435ff1-cc4d-469b-9935-224cfaeec6c6",
+      "seen_at": "2026-08-25T02:05:11.651560+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/oceancomm/j/912979C2F0/apply",
+      "seen_at": "2026-08-25T02:05:11.652017+00:00"
+    },
+    {
+      "id": "simplify-b4fbf723-b634-4b03-a717-5a7477ac972b",
+      "seen_at": "2026-08-25T02:05:11.652477+00:00"
+    },
+    {
+      "id": "url:https://www.yelp.careers/us/en/job/14018",
+      "seen_at": "2026-08-25T02:05:11.652951+00:00"
+    },
+    {
+      "id": "simplify-1f2bf4b5-3f79-48a6-a9df-947ef666ee29",
+      "seen_at": "2026-08-25T02:05:11.653407+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sciemo/208da924-4a08-4be7-a20c-a420f08e77d2/application",
+      "seen_at": "2026-08-25T02:05:11.653866+00:00"
+    },
+    {
+      "id": "simplify-707f077b-d4f3-4d3b-a12c-a7dd9eb195ce",
+      "seen_at": "2026-08-25T02:05:11.654314+00:00"
+    },
+    {
+      "id": "url:https://www.yelp.careers/us/en/job/14019",
+      "seen_at": "2026-08-25T02:05:11.654770+00:00"
+    },
+    {
+      "id": "simplify-748876fb-0603-4b73-b26c-469bc138674c",
+      "seen_at": "2026-08-25T02:05:11.655221+00:00"
+    },
+    {
+      "id": "url:https://careers.cisco.com/global/en/job/2023527",
+      "seen_at": "2026-08-25T02:05:11.655706+00:00"
+    },
+    {
+      "id": "simplify-9ecb4578-6a8a-4f73-ac53-0651cbbd7167",
+      "seen_at": "2026-08-25T02:05:11.656187+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026",
+      "seen_at": "2026-08-25T02:05:11.656659+00:00"
+    },
+    {
+      "id": "simplify-2db7fa24-ce61-44d2-ab75-88bedecf3d02",
+      "seen_at": "2026-08-25T02:05:11.657113+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7675473897004861749/detail",
+      "seen_at": "2026-08-25T02:05:11.657574+00:00"
+    },
+    {
+      "id": "simplify-f6ea312c-a27d-4faa-9ea7-e433fa700f5a",
+      "seen_at": "2026-08-25T02:05:11.658025+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/STCU1/744000145379939",
+      "seen_at": "2026-08-25T02:05:11.658472+00:00"
     }
   ],
-  "last_run": "2026-08-25T00:24:43.551045+00:00",
-  "total_notified": 3904,
+  "last_run": "2026-08-25T02:05:11.860962+00:00",
+  "total_notified": 3916,
   "channels": {
     "swe-jobs": [
       "simplify-3393d4cf-e1e5-47d1-8143-309545e4195f",
@@ -31079,7 +31175,9 @@
       "simplify-7194b5a6-5ff2-4d30-8f27-55c669757b74",
       "url:https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Engineering-Intern_JR-051325",
       "simplify-23283fde-40f1-42d9-bf10-9b7362a6c553",
-      "url:https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316"
+      "url:https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316",
+      "simplify-39309c17-e806-4ea4-ba0d-0d69cfaca27f",
+      "url:https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc/application"
     ],
     "pm-jobs": [
       "ashby-openai-5c4fec38-39d8-4f03-b67e-891893ce2550",
@@ -36507,7 +36605,29 @@
       "simplify-c9509f6d-616f-4865-a883-0bb3b2fcba90",
       "url:https://lifeattiktok.com/search/7676650760662157621",
       "simplify-31f44b7e-6d0d-463a-802d-ce894a00130f",
-      "url:https://lifeattiktok.com/search/7676647728043280645"
+      "url:https://lifeattiktok.com/search/7676647728043280645",
+      "simplify-4e9fe751-4379-45cd-97bd-7083fd5e58d1",
+      "url:https://apply.workable.com/coldquanta/j/DA0D4B3975/apply",
+      "simplify-eac46790-0057-4518-8e60-be17fee9950f",
+      "url:https://apply.workable.com/coldquanta/j/1B97312CA0/apply",
+      "simplify-efe8c7af-0baa-411f-8106-bdfcbe0674b4",
+      "url:https://careers-libertymutual.icims.com/jobs/77179/job",
+      "simplify-11435ff1-cc4d-469b-9935-224cfaeec6c6",
+      "url:https://apply.workable.com/oceancomm/j/912979C2F0/apply",
+      "simplify-b4fbf723-b634-4b03-a717-5a7477ac972b",
+      "url:https://www.yelp.careers/us/en/job/14018",
+      "simplify-1f2bf4b5-3f79-48a6-a9df-947ef666ee29",
+      "url:https://jobs.ashbyhq.com/sciemo/208da924-4a08-4be7-a20c-a420f08e77d2/application",
+      "simplify-707f077b-d4f3-4d3b-a12c-a7dd9eb195ce",
+      "url:https://www.yelp.careers/us/en/job/14019",
+      "simplify-748876fb-0603-4b73-b26c-469bc138674c",
+      "url:https://careers.cisco.com/global/en/job/2023527",
+      "simplify-9ecb4578-6a8a-4f73-ac53-0651cbbd7167",
+      "url:https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026",
+      "simplify-2db7fa24-ce61-44d2-ab75-88bedecf3d02",
+      "url:https://jobs.bytedance.com/en/position/7675473897004861749/detail",
+      "simplify-f6ea312c-a27d-4faa-9ea7-e433fa700f5a",
+      "url:https://jobs.smartrecruiters.com/STCU1/744000145379939"
     ]
   }
 }
