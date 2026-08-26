@@ -29987,10 +29987,50 @@
     {
       "id": "url:https://boards.greenhouse.io/figma/jobs/5651744004",
       "seen_at": "2026-08-26T14:20:48.364431+00:00"
+    },
+    {
+      "id": "simplify-ffc80c46-0710-4acb-82cc-c1e1d640674c",
+      "seen_at": "2026-08-26T15:55:58.889140+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/281233",
+      "seen_at": "2026-08-26T15:55:58.889767+00:00"
+    },
+    {
+      "id": "simplify-e3c3148d-dbd6-4119-8953-00548ba0f6a0",
+      "seen_at": "2026-08-26T15:56:03.278008+00:00"
+    },
+    {
+      "id": "url:https://careers.ocadogroup.com/jobs/details",
+      "seen_at": "2026-08-26T15:56:03.278688+00:00"
+    },
+    {
+      "id": "simplify-ac0fcf1b-7b15-45db-88c7-26e72ddf2047",
+      "seen_at": "2026-08-26T15:56:03.279226+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/Keenfinity/744000145726019",
+      "seen_at": "2026-08-26T15:56:03.279734+00:00"
+    },
+    {
+      "id": "simplify-7eb1feaf-2674-4186-8e2b-9988a4887949",
+      "seen_at": "2026-08-26T15:56:03.280240+00:00"
+    },
+    {
+      "id": "url:https://www.newrocket.com/careers/job",
+      "seen_at": "2026-08-26T15:56:03.280730+00:00"
+    },
+    {
+      "id": "ashby-openai-f6880901-6527-4b71-9f70-bc8d38989b84",
+      "seen_at": "2026-08-26T15:56:03.281228+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/f6880901-6527-4b71-9f70-bc8d38989b84",
+      "seen_at": "2026-08-26T15:56:03.281709+00:00"
     }
   ],
-  "last_run": "2026-08-26T14:20:48.684581+00:00",
-  "total_notified": 4014,
+  "last_run": "2026-08-26T15:56:03.595775+00:00",
+  "total_notified": 4019,
   "channels": {
     "swe-jobs": [
       "simplify-b87fb0cc-a6b4-405f-8642-7485bd8fffee",
@@ -31955,7 +31995,9 @@
       "simplify-54895a2c-533f-4466-a619-4c4176fde4ff",
       "url:https://apply.careers.microsoft.com/careers/job/1970393556958170",
       "simplify-5eecec55-6e05-4898-acb6-2869c78bf30b",
-      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868886"
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868886",
+      "simplify-ffc80c46-0710-4acb-82cc-c1e1d640674c",
+      "url:https://www.tesla.com/careers/search/job/281233"
     ],
     "pm-jobs": [
       "ashby-openai-5c4fec38-39d8-4f03-b67e-891893ce2550",
@@ -37509,7 +37551,15 @@
       "simplify-225c073c-c7cc-420b-a859-6c087a72388a",
       "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433",
       "greenhouse-figma-5651744004",
-      "url:https://boards.greenhouse.io/figma/jobs/5651744004"
+      "url:https://boards.greenhouse.io/figma/jobs/5651744004",
+      "simplify-e3c3148d-dbd6-4119-8953-00548ba0f6a0",
+      "url:https://careers.ocadogroup.com/jobs/details",
+      "simplify-ac0fcf1b-7b15-45db-88c7-26e72ddf2047",
+      "url:https://jobs.smartrecruiters.com/Keenfinity/744000145726019",
+      "simplify-7eb1feaf-2674-4186-8e2b-9988a4887949",
+      "url:https://www.newrocket.com/careers/job",
+      "ashby-openai-f6880901-6527-4b71-9f70-bc8d38989b84",
+      "url:https://jobs.ashbyhq.com/openai/f6880901-6527-4b71-9f70-bc8d38989b84"
     ]
   }
 }
