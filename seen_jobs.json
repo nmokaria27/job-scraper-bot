@@ -29923,10 +29923,74 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a8ec0f0382b237ac80c2b7f",
       "seen_at": "2026-08-26T13:26:40.526229+00:00"
+    },
+    {
+      "id": "simplify-c874f359-c317-4bb9-8bf9-f4c699848017",
+      "seen_at": "2026-08-26T14:20:45.205205+00:00"
+    },
+    {
+      "id": "url:https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Reservoir-Engineer-Intern_83636-1",
+      "seen_at": "2026-08-26T14:20:45.205810+00:00"
+    },
+    {
+      "id": "simplify-7d63ae5d-6722-40c4-a6b6-22560e143461",
+      "seen_at": "2026-08-26T14:20:45.206389+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890",
+      "seen_at": "2026-08-26T14:20:45.206839+00:00"
+    },
+    {
+      "id": "simplify-386e2728-ef0f-4332-86d8-df3f6627f509",
+      "seen_at": "2026-08-26T14:20:45.207300+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869",
+      "seen_at": "2026-08-26T14:20:45.207740+00:00"
+    },
+    {
+      "id": "simplify-54895a2c-533f-4466-a619-4c4176fde4ff",
+      "seen_at": "2026-08-26T14:20:45.208232+00:00"
+    },
+    {
+      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556958170",
+      "seen_at": "2026-08-26T14:20:45.208678+00:00"
+    },
+    {
+      "id": "simplify-5eecec55-6e05-4898-acb6-2869c78bf30b",
+      "seen_at": "2026-08-26T14:20:45.209154+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868886",
+      "seen_at": "2026-08-26T14:20:45.209595+00:00"
+    },
+    {
+      "id": "simplify-ee871fc2-a48b-4f6f-8b78-4f13099021ca",
+      "seen_at": "2026-08-26T14:20:48.361374+00:00"
+    },
+    {
+      "id": "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1",
+      "seen_at": "2026-08-26T14:20:48.362200+00:00"
+    },
+    {
+      "id": "simplify-225c073c-c7cc-420b-a859-6c087a72388a",
+      "seen_at": "2026-08-26T14:20:48.362825+00:00"
+    },
+    {
+      "id": "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433",
+      "seen_at": "2026-08-26T14:20:48.363349+00:00"
+    },
+    {
+      "id": "greenhouse-figma-5651744004",
+      "seen_at": "2026-08-26T14:20:48.363953+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/5651744004",
+      "seen_at": "2026-08-26T14:20:48.364431+00:00"
     }
   ],
-  "last_run": "2026-08-26T13:26:41.472111+00:00",
-  "total_notified": 4006,
+  "last_run": "2026-08-26T14:20:48.684581+00:00",
+  "total_notified": 4014,
   "channels": {
     "swe-jobs": [
       "simplify-b87fb0cc-a6b4-405f-8642-7485bd8fffee",
@@ -31881,7 +31945,17 @@
       "simplify-a9b6e0e0-7d76-45b2-8d3b-c8a40a8342cd",
       "url:https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8/application",
       "simplify-41047974-7321-45cf-b910-ac9710ae6e39",
-      "url:https://jobs.smartrecruiters.com/AbbVie/3743990014860306"
+      "url:https://jobs.smartrecruiters.com/AbbVie/3743990014860306",
+      "simplify-c874f359-c317-4bb9-8bf9-f4c699848017",
+      "url:https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Reservoir-Engineer-Intern_83636-1",
+      "simplify-7d63ae5d-6722-40c4-a6b6-22560e143461",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890",
+      "simplify-386e2728-ef0f-4332-86d8-df3f6627f509",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869",
+      "simplify-54895a2c-533f-4466-a619-4c4176fde4ff",
+      "url:https://apply.careers.microsoft.com/careers/job/1970393556958170",
+      "simplify-5eecec55-6e05-4898-acb6-2869c78bf30b",
+      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868886"
     ],
     "pm-jobs": [
       "ashby-openai-5c4fec38-39d8-4f03-b67e-891893ce2550",
@@ -37429,7 +37503,13 @@
       "simplify-be001f88-4df5-4cc7-be0e-2ef836029012",
       "url:https://jobs.l3harris.com/job/Rochester-Engineering-Technician-Electrical-Assembly-1-NY-14606/1422965500",
       "simplify-8cf72dd6-f0f9-40d1-85c5-813990262e3e",
-      "url:https://careers.jhuapl.edu/jobs/59818"
+      "url:https://careers.jhuapl.edu/jobs/59818",
+      "simplify-ee871fc2-a48b-4f6f-8b78-4f13099021ca",
+      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1",
+      "simplify-225c073c-c7cc-420b-a859-6c087a72388a",
+      "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433",
+      "greenhouse-figma-5651744004",
+      "url:https://boards.greenhouse.io/figma/jobs/5651744004"
     ]
   }
 }
