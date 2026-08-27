@@ -1,318 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-a188e67b-1783-4dcd-9052-82585ee3aaf0",
-      "seen_at": "2026-07-28T16:19:37.910247+00:00"
-    },
-    {
-      "id": "url:https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466",
-      "seen_at": "2026-07-28T16:19:37.910400+00:00"
-    },
-    {
-      "id": "simplify-553369f5-663d-4019-8901-6134f7102b4d",
-      "seen_at": "2026-07-28T16:19:37.910520+00:00"
-    },
-    {
-      "id": "url:https://careers-peraton.icims.com/jobs/168949/job",
-      "seen_at": "2026-07-28T16:19:37.910620+00:00"
-    },
-    {
-      "id": "simplify-53d9ab39-e29b-463e-ac70-97d6977fb6ba",
-      "seen_at": "2026-07-28T16:19:37.910718+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/HarvardUniversity/3743990014314307",
-      "seen_at": "2026-07-28T16:19:37.910824+00:00"
-    },
-    {
-      "id": "simplify-33972c52-575d-4ede-a314-0ccebc85ee47",
-      "seen_at": "2026-07-28T16:19:37.910933+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/joinpogo/a54fe5c6-d695-4925-8087-d9378756dde7/application",
-      "seen_at": "2026-07-28T16:19:37.911045+00:00"
-    },
-    {
-      "id": "simplify-6bbdcfe2-93ba-469c-9fe4-be23b9387ac6",
-      "seen_at": "2026-07-28T16:19:37.911146+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/alta-ares/ad4ace6a-823c-43ea-ae32-3d0711c33096/application",
-      "seen_at": "2026-07-28T16:19:37.911235+00:00"
-    },
-    {
-      "id": "simplify-81476e53-2803-426e-8021-2bcd1ad52184",
-      "seen_at": "2026-07-28T16:19:37.911330+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413204500",
-      "seen_at": "2026-07-28T16:19:37.911417+00:00"
-    },
-    {
-      "id": "simplify-4ba38e7e-381e-463a-9acc-2814e492da98",
-      "seen_at": "2026-07-28T16:19:37.911515+00:00"
-    },
-    {
-      "id": "url:https://careers-peraton.icims.com/jobs/168946/job",
-      "seen_at": "2026-07-28T16:19:37.911601+00:00"
-    },
-    {
-      "id": "ashby-openai-3229b152-015f-49ad-9921-9c9de95570c8",
-      "seen_at": "2026-07-28T17:47:54.767206+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8",
-      "seen_at": "2026-07-28T17:47:54.767428+00:00"
-    },
-    {
-      "id": "ashby-openai-f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6",
-      "seen_at": "2026-07-28T17:47:54.767624+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6",
-      "seen_at": "2026-07-28T17:47:54.767750+00:00"
-    },
-    {
-      "id": "greenhouse-robinhood-7543003",
-      "seen_at": "2026-07-28T20:21:55.912327+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/robinhood/jobs/7543003",
-      "seen_at": "2026-07-28T20:21:55.912567+00:00"
-    },
-    {
-      "id": "simplify-aff149ec-8435-4f94-9798-ea3716d37883",
-      "seen_at": "2026-07-28T22:38:33.357031+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766",
-      "seen_at": "2026-07-28T22:38:33.357241+00:00"
-    },
-    {
-      "id": "ashby-openai-6db2af13-50b2-4fe0-a8df-874e2ba57f71",
-      "seen_at": "2026-07-28T22:38:33.357388+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/6db2af13-50b2-4fe0-a8df-874e2ba57f71",
-      "seen_at": "2026-07-28T22:38:33.357514+00:00"
-    },
-    {
-      "id": "simplify-293a2db3-6ec7-465d-b8ba-1e20db33494f",
-      "seen_at": "2026-07-28T22:38:36.080410+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413415700",
-      "seen_at": "2026-07-28T22:38:36.080592+00:00"
-    },
-    {
-      "id": "simplify-a7a21277-7af0-4b06-894f-af2ce1530e21",
-      "seen_at": "2026-07-28T22:38:36.080747+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413343400",
-      "seen_at": "2026-07-28T22:38:36.080919+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8093038",
-      "seen_at": "2026-07-28T22:38:36.081076+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8093038",
-      "seen_at": "2026-07-28T22:38:36.081211+00:00"
-    },
-    {
-      "id": "simplify-b9a81086-50d0-4ea0-bd8e-97fd33f70311",
-      "seen_at": "2026-07-28T23:44:15.243483+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/278249",
-      "seen_at": "2026-07-28T23:44:15.243650+00:00"
-    },
-    {
-      "id": "simplify-02855d39-751b-42b4-909c-814d9d98b768",
-      "seen_at": "2026-07-28T23:44:15.243793+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/cloudflare/jobs/8089379",
-      "seen_at": "2026-07-28T23:44:15.243924+00:00"
-    },
-    {
-      "id": "simplify-0493a5d3-fb9f-430d-8751-58b168f5a0f4",
-      "seen_at": "2026-07-28T23:44:15.244094+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application",
-      "seen_at": "2026-07-28T23:44:15.244224+00:00"
-    },
-    {
-      "id": "simplify-c9ad7130-d51b-4977-b457-507b9ff86717",
-      "seen_at": "2026-07-28T23:44:15.244353+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application",
-      "seen_at": "2026-07-28T23:44:15.244478+00:00"
-    },
-    {
-      "id": "simplify-6ffe9360-2d1b-4612-90b5-2b30153fe38c",
-      "seen_at": "2026-07-28T23:44:34.521265+00:00"
-    },
-    {
-      "id": "url:https://careers-gdms.icims.com/jobs/73835/job",
-      "seen_at": "2026-07-28T23:44:34.521454+00:00"
-    },
-    {
-      "id": "simplify-4c068b9a-952a-4155-bd1c-fa897c862b5d",
-      "seen_at": "2026-07-28T23:44:34.521621+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01862140",
-      "seen_at": "2026-07-28T23:44:34.521795+00:00"
-    },
-    {
-      "id": "simplify-513036c6-8bdd-44bf-8c57-e5d73bf66998",
-      "seen_at": "2026-07-28T23:44:34.521952+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--Onsite-_01861373",
-      "seen_at": "2026-07-28T23:44:34.522156+00:00"
-    },
-    {
-      "id": "simplify-d6ad51e0-366b-4b13-b829-8c5dacf13565",
-      "seen_at": "2026-07-28T23:44:34.522317+00:00"
-    },
-    {
-      "id": "url:https://jobs.apple.com/en-us/details/200674154",
-      "seen_at": "2026-07-28T23:44:34.522459+00:00"
-    },
-    {
-      "id": "simplify-9e6e56d1-9f9d-4225-b07a-a32e4e6988ca",
-      "seen_at": "2026-07-28T23:44:34.522605+00:00"
-    },
-    {
-      "id": "url:https://ats.rippling.com/tavernresearch/jobs/328ac66c-4c82-4598-8101-3d9fa64bd436",
-      "seen_at": "2026-07-28T23:44:34.522746+00:00"
-    },
-    {
-      "id": "simplify-eade91a6-60d5-49dd-8a45-35003ed22533",
-      "seen_at": "2026-07-28T23:44:34.522889+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276",
-      "seen_at": "2026-07-28T23:44:34.523055+00:00"
-    },
-    {
-      "id": "simplify-0fe0ca22-c7ed-4459-9e24-825ae1a9c5d2",
-      "seen_at": "2026-07-28T23:44:34.523203+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008",
-      "seen_at": "2026-07-28T23:44:34.523340+00:00"
-    },
-    {
-      "id": "simplify-fddc9951-f122-4dee-9f6b-96563bf42448",
-      "seen_at": "2026-07-28T23:44:34.523483+00:00"
-    },
-    {
-      "id": "url:https://kearney.taleo.net/careersection/01/jobdetail.ftl",
-      "seen_at": "2026-07-28T23:44:34.523677+00:00"
-    },
-    {
-      "id": "simplify-e4969d84-0576-4efa-86ba-e29afbe254ea",
-      "seen_at": "2026-07-28T23:44:34.523840+00:00"
-    },
-    {
-      "id": "url:https://ats.rippling.com/tavernresearch/jobs/7433de0b-caae-4c3d-8ad3-70fcbb2f3e6c",
-      "seen_at": "2026-07-28T23:44:34.523990+00:00"
-    },
-    {
-      "id": "simplify-d719689b-b5b0-4b29-abec-aba4b0475305",
-      "seen_at": "2026-07-28T23:44:34.524135+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/eliza/3190c7b1-a01f-42e0-9a16-2c6dfc40eb8d/application",
-      "seen_at": "2026-07-28T23:44:34.524271+00:00"
-    },
-    {
-      "id": "simplify-1c9e0188-d9cb-4324-afaa-fa5d4da2946f",
-      "seen_at": "2026-07-28T23:44:34.524418+00:00"
-    },
-    {
-      "id": "url:https://ats.rippling.com/tavernresearch/jobs/17952240-27e9-4c49-8869-e3e1ea2aadc3",
-      "seen_at": "2026-07-28T23:44:34.524559+00:00"
-    },
-    {
-      "id": "simplify-8cf416d2-c4e8-4bbd-800d-6b10b4b953e3",
-      "seen_at": "2026-07-28T23:44:34.524705+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Assoc-Software-Engineer---Simulation_01853132",
-      "seen_at": "2026-07-28T23:44:34.524844+00:00"
-    },
-    {
-      "id": "simplify-f9c4f87f-c5a3-4ccd-918b-31f3f3c9af51",
-      "seen_at": "2026-07-28T23:44:34.525013+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01862658",
-      "seen_at": "2026-07-28T23:44:34.525171+00:00"
-    },
-    {
-      "id": "simplify-b2fa0f21-04d7-441c-90f2-b38ee22120fb",
-      "seen_at": "2026-07-28T23:44:34.525318+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I---Tactical-Missile-System-Simulation--Unreal-Engine-_01862202",
-      "seen_at": "2026-07-28T23:44:34.525452+00:00"
-    },
-    {
-      "id": "simplify-2642491d-58eb-447a-ae7d-a7f33759c98d",
-      "seen_at": "2026-07-28T23:44:34.525591+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497",
-      "seen_at": "2026-07-28T23:44:34.525723+00:00"
-    },
-    {
-      "id": "simplify-a4136041-2a5f-42c9-8f7a-1b50d9e8c5f9",
-      "seen_at": "2026-07-28T23:44:34.525860+00:00"
-    },
-    {
-      "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---EDA-CAD-Engineer_JR103200",
-      "seen_at": "2026-07-28T23:44:34.526003+00:00"
-    },
-    {
-      "id": "simplify-48a4d49c-4337-40c0-92cd-2175effead3b",
-      "seen_at": "2026-07-28T23:44:34.526146+00:00"
-    },
-    {
-      "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---EDA-CAD-Engineer_JR103201",
-      "seen_at": "2026-07-28T23:44:34.526281+00:00"
-    },
-    {
-      "id": "simplify-eb14fde0-a057-4228-ad8b-f70f7818ae17",
-      "seen_at": "2026-07-28T23:44:34.526422+00:00"
-    },
-    {
-      "id": "url:https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558",
-      "seen_at": "2026-07-28T23:44:34.526556+00:00"
-    },
-    {
-      "id": "simplify-d8f84d42-30b7-4a74-b193-a2adde5bac7e",
-      "seen_at": "2026-07-28T23:44:34.526697+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626",
-      "seen_at": "2026-07-28T23:44:34.526832+00:00"
-    },
-    {
-      "id": "simplify-e63c2874-2871-4188-a826-8057c63d376f",
-      "seen_at": "2026-07-28T23:44:34.527030+00:00"
-    },
-    {
-      "id": "url:https://glginsights.com/careers/jobs/7813612003",
-      "seen_at": "2026-07-28T23:44:34.527171+00:00"
-    },
-    {
       "id": "simplify-6219c04b-bc5c-4d14-90ea-426f117b51c0",
       "seen_at": "2026-07-29T04:33:57.861697+00:00"
     },
@@ -30067,20 +29755,588 @@
     {
       "id": "url:https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9/application",
       "seen_at": "2026-08-27T14:21:52.094093+00:00"
+    },
+    {
+      "id": "simplify-b909918b-5b16-4503-b656-a6ecd440233a",
+      "seen_at": "2026-08-27T23:50:18.413886+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1",
+      "seen_at": "2026-08-27T23:50:18.414418+00:00"
+    },
+    {
+      "id": "simplify-ca0cc910-e9e7-48a4-ac62-3536b3421ae2",
+      "seen_at": "2026-08-27T23:50:18.414883+00:00"
+    },
+    {
+      "id": "url:https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Investment-Engineering--Undergraduate---Master-s-_2026-9025",
+      "seen_at": "2026-08-27T23:50:18.415306+00:00"
+    },
+    {
+      "id": "simplify-46ff6819-f211-4a17-917d-93908fe60ce6",
+      "seen_at": "2026-08-27T23:50:18.415715+00:00"
+    },
+    {
+      "id": "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100360",
+      "seen_at": "2026-08-27T23:50:18.416101+00:00"
+    },
+    {
+      "id": "simplify-fc36587f-acf4-428e-a61f-aab42b07540c",
+      "seen_at": "2026-08-27T23:50:18.416480+00:00"
+    },
+    {
+      "id": "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1",
+      "seen_at": "2026-08-27T23:50:18.416879+00:00"
+    },
+    {
+      "id": "simplify-db4deaf3-658e-4ff9-b870-70d3847988d4",
+      "seen_at": "2026-08-27T23:50:18.417256+00:00"
+    },
+    {
+      "id": "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100361",
+      "seen_at": "2026-08-27T23:50:18.417746+00:00"
+    },
+    {
+      "id": "simplify-c4841e3b-7bc1-434f-89ca-6339d37cc8ff",
+      "seen_at": "2026-08-27T23:50:18.418130+00:00"
+    },
+    {
+      "id": "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100359",
+      "seen_at": "2026-08-27T23:50:18.418491+00:00"
+    },
+    {
+      "id": "simplify-72774ca6-fdd5-4060-85a9-2893a5786ab0",
+      "seen_at": "2026-08-27T23:50:18.418885+00:00"
+    },
+    {
+      "id": "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100364",
+      "seen_at": "2026-08-27T23:50:18.419249+00:00"
+    },
+    {
+      "id": "simplify-0f82e199-34b0-49c2-90ed-3f8ff3a45548",
+      "seen_at": "2026-08-27T23:50:18.419630+00:00"
+    },
+    {
+      "id": "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363",
+      "seen_at": "2026-08-27T23:50:18.420000+00:00"
+    },
+    {
+      "id": "simplify-e7293c88-f396-415f-920c-742686dde2e3",
+      "seen_at": "2026-08-27T23:50:18.420355+00:00"
+    },
+    {
+      "id": "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045",
+      "seen_at": "2026-08-27T23:50:18.420720+00:00"
+    },
+    {
+      "id": "simplify-b5849ab7-6000-47b6-847d-99300b7d8722",
+      "seen_at": "2026-08-27T23:50:18.421097+00:00"
+    },
+    {
+      "id": "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
+      "seen_at": "2026-08-27T23:50:18.421462+00:00"
+    },
+    {
+      "id": "simplify-8a398659-4aa5-4cf4-a9d1-222302c48e50",
+      "seen_at": "2026-08-27T23:50:18.421881+00:00"
+    },
+    {
+      "id": "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
+      "seen_at": "2026-08-27T23:50:18.422271+00:00"
+    },
+    {
+      "id": "simplify-84aad02e-2ac4-4eaf-89fd-3674ae05f75e",
+      "seen_at": "2026-08-27T23:50:18.422701+00:00"
+    },
+    {
+      "id": "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
+      "seen_at": "2026-08-27T23:50:18.423072+00:00"
+    },
+    {
+      "id": "simplify-841e2cd6-9fb6-4ffd-adb4-671a6b81ade2",
+      "seen_at": "2026-08-27T23:50:18.423434+00:00"
+    },
+    {
+      "id": "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038",
+      "seen_at": "2026-08-27T23:50:18.423797+00:00"
+    },
+    {
+      "id": "simplify-cd6f32c7-2c66-4423-8ff5-b998f48126e0",
+      "seen_at": "2026-08-27T23:50:18.424146+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application",
+      "seen_at": "2026-08-27T23:50:18.424488+00:00"
+    },
+    {
+      "id": "simplify-ae6480dc-19f7-41c1-93ec-fd10763825b1",
+      "seen_at": "2026-08-27T23:50:18.424845+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+      "seen_at": "2026-08-27T23:50:18.425185+00:00"
+    },
+    {
+      "id": "simplify-caa5d432-7f4d-4c1f-92de-98d8fd87d850",
+      "seen_at": "2026-08-27T23:50:18.425530+00:00"
+    },
+    {
+      "id": "url:https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680",
+      "seen_at": "2026-08-27T23:50:18.425890+00:00"
+    },
+    {
+      "id": "simplify-896b0108-cef7-4d08-a0b3-a8969f63f4dc",
+      "seen_at": "2026-08-27T23:50:18.426231+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411/apply",
+      "seen_at": "2026-08-27T23:50:18.426573+00:00"
+    },
+    {
+      "id": "simplify-d87e1816-d063-45ca-a689-0c0488e78b91",
+      "seen_at": "2026-08-27T23:50:18.426923+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7/apply",
+      "seen_at": "2026-08-27T23:50:18.427278+00:00"
+    },
+    {
+      "id": "simplify-af7e4027-6aa7-4bab-8f94-d3f58be921ce",
+      "seen_at": "2026-08-27T23:50:18.427622+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/CesiumAstro/47333595-c85f-4b06-965c-ad4429dde0f0/apply",
+      "seen_at": "2026-08-27T23:50:18.427981+00:00"
+    },
+    {
+      "id": "simplify-74de6522-955b-42bb-908b-e3dfcb52ae94",
+      "seen_at": "2026-08-27T23:50:18.428322+00:00"
+    },
+    {
+      "id": "url:https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Applications-_R3714-26",
+      "seen_at": "2026-08-27T23:50:18.428691+00:00"
+    },
+    {
+      "id": "simplify-bc8cef80-2478-4abe-8166-7f6a226c4edd",
+      "seen_at": "2026-08-27T23:50:18.429041+00:00"
+    },
+    {
+      "id": "url:https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021",
+      "seen_at": "2026-08-27T23:50:18.429384+00:00"
+    },
+    {
+      "id": "simplify-c5bd1b3f-c4a1-4606-b687-e4afcc112363",
+      "seen_at": "2026-08-27T23:50:18.429734+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/281097",
+      "seen_at": "2026-08-27T23:50:18.430068+00:00"
+    },
+    {
+      "id": "simplify-615b2214-ffde-44ff-b1af-d08cea6fe865",
+      "seen_at": "2026-08-27T23:50:18.430406+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/281473",
+      "seen_at": "2026-08-27T23:50:18.430764+00:00"
+    },
+    {
+      "id": "simplify-aac19326-02f3-415a-991f-d6a81d6a7ef9",
+      "seen_at": "2026-08-27T23:50:18.431108+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/281623",
+      "seen_at": "2026-08-27T23:50:18.431444+00:00"
+    },
+    {
+      "id": "simplify-96a80fff-d4c9-467e-b9f7-80924676ceca",
+      "seen_at": "2026-08-27T23:50:18.431804+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/281607",
+      "seen_at": "2026-08-27T23:50:18.432145+00:00"
+    },
+    {
+      "id": "simplify-81f31a55-3c12-476c-bb99-e74e63986e74",
+      "seen_at": "2026-08-27T23:50:18.432579+00:00"
+    },
+    {
+      "id": "url:https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+      "seen_at": "2026-08-27T23:50:18.433045+00:00"
+    },
+    {
+      "id": "simplify-13c82543-49b6-4293-ac18-052fd0889c76",
+      "seen_at": "2026-08-27T23:50:18.433473+00:00"
+    },
+    {
+      "id": "url:https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00190672-1",
+      "seen_at": "2026-08-27T23:50:18.433919+00:00"
+    },
+    {
+      "id": "simplify-596a789f-9d3f-4275-91f3-da77d86fc246",
+      "seen_at": "2026-08-27T23:50:18.434343+00:00"
+    },
+    {
+      "id": "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050",
+      "seen_at": "2026-08-27T23:50:18.434748+00:00"
+    },
+    {
+      "id": "simplify-73fe59bd-6ea1-4126-b2c2-83f766ca2520",
+      "seen_at": "2026-08-27T23:50:18.435129+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/fab2/96e96a9c-8419-4a67-ba4a-4b28e87b3f16/application",
+      "seen_at": "2026-08-27T23:50:18.435497+00:00"
+    },
+    {
+      "id": "simplify-31e48f4e-9237-4007-97ac-93f10f9546c5",
+      "seen_at": "2026-08-27T23:50:29.407219+00:00"
+    },
+    {
+      "id": "url:https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Rosemont/XMLNAME--Product-Analyst---LHB_R0047993-2",
+      "seen_at": "2026-08-27T23:50:29.407738+00:00"
+    },
+    {
+      "id": "jobright-c657faf5d97d",
+      "seen_at": "2026-08-27T23:50:29.408167+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9085ffd96ad228f1261b8f",
+      "seen_at": "2026-08-27T23:50:29.408560+00:00"
+    },
+    {
+      "id": "jobright-b672f544f8d3",
+      "seen_at": "2026-08-27T23:50:29.408951+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9096e67c32860d14cfa42b",
+      "seen_at": "2026-08-27T23:50:29.409324+00:00"
+    },
+    {
+      "id": "jobright-7655d9b63235",
+      "seen_at": "2026-08-27T23:50:29.409701+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a906faf2e254e06fb9f0e9a",
+      "seen_at": "2026-08-27T23:50:29.410054+00:00"
+    },
+    {
+      "id": "jobright-e2925a00359b",
+      "seen_at": "2026-08-27T23:50:29.410439+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a90655d8ffa38557e6cc969",
+      "seen_at": "2026-08-27T23:50:29.410861+00:00"
+    },
+    {
+      "id": "jobright-fccb0e8ec366",
+      "seen_at": "2026-08-27T23:50:29.411221+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a908023a198864866761785",
+      "seen_at": "2026-08-27T23:50:29.411561+00:00"
+    },
+    {
+      "id": "jobright-68923f5d94d4",
+      "seen_at": "2026-08-27T23:50:29.411917+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a90802ca19886486676178a",
+      "seen_at": "2026-08-27T23:50:29.412249+00:00"
+    },
+    {
+      "id": "jobright-21bdcfe0ccb3",
+      "seen_at": "2026-08-27T23:50:29.412582+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a904a84d96ad228f1260500",
+      "seen_at": "2026-08-27T23:50:29.412918+00:00"
+    },
+    {
+      "id": "jobright-1f8c4035794d",
+      "seen_at": "2026-08-27T23:50:29.413344+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a4becec4f64ba41dcb5dc02",
+      "seen_at": "2026-08-27T23:50:29.413703+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5407337008",
+      "seen_at": "2026-08-27T23:50:29.414040+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5407337008",
+      "seen_at": "2026-08-27T23:50:29.414398+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-8024863",
+      "seen_at": "2026-08-27T23:50:29.414779+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/8024863",
+      "seen_at": "2026-08-27T23:50:29.415131+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-8029539",
+      "seen_at": "2026-08-27T23:50:29.415480+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/8029539",
+      "seen_at": "2026-08-27T23:50:29.415851+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-8023763",
+      "seen_at": "2026-08-27T23:50:29.416207+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/8023763",
+      "seen_at": "2026-08-27T23:50:29.416547+00:00"
+    },
+    {
+      "id": "simplify-e956ef2d-bb6c-4265-9310-de2b65de47a4",
+      "seen_at": "2026-08-27T23:50:50.580781+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/graphcore/jobs/8747132002",
+      "seen_at": "2026-08-27T23:50:50.581342+00:00"
+    },
+    {
+      "id": "simplify-80c570a9-6dd8-492d-96d7-bec0cd87c8b5",
+      "seen_at": "2026-08-27T23:50:50.581863+00:00"
+    },
+    {
+      "id": "url:https://textron.taleo.net/careersection/textron/jobdetail.ftl",
+      "seen_at": "2026-08-27T23:50:50.582331+00:00"
+    },
+    {
+      "id": "simplify-053c7987-6469-4ab8-b5d7-cdf305153c29",
+      "seen_at": "2026-08-27T23:50:50.582810+00:00"
+    },
+    {
+      "id": "url:https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101",
+      "seen_at": "2026-08-27T23:50:50.583224+00:00"
+    },
+    {
+      "id": "simplify-a270922d-2173-4482-b7ad-d9fcc70f0b39",
+      "seen_at": "2026-08-27T23:50:50.583626+00:00"
+    },
+    {
+      "id": "url:https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15732",
+      "seen_at": "2026-08-27T23:50:50.584110+00:00"
+    },
+    {
+      "id": "simplify-a62806df-d00b-4b10-9d89-b2e124ba1727",
+      "seen_at": "2026-08-27T23:50:50.584538+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/matchgroup/26725d4e-c597-4434-95d3-e6b86472d8a4/apply",
+      "seen_at": "2026-08-27T23:50:50.584969+00:00"
+    },
+    {
+      "id": "simplify-c744244f-670e-496a-a8e7-3f470887a7dd",
+      "seen_at": "2026-08-27T23:50:50.585369+00:00"
+    },
+    {
+      "id": "url:https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Product-Engineer_R0248101",
+      "seen_at": "2026-08-27T23:50:50.585776+00:00"
+    },
+    {
+      "id": "simplify-a6b9abdc-a123-4775-8c85-8ad97dda03b1",
+      "seen_at": "2026-08-27T23:50:50.586163+00:00"
+    },
+    {
+      "id": "url:https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Scientist-for-Analytics--Engineer-Scientist-Support_331256",
+      "seen_at": "2026-08-27T23:50:50.586547+00:00"
+    },
+    {
+      "id": "simplify-dc134c5a-4e51-42bc-8e94-3f5e69b36ba3",
+      "seen_at": "2026-08-27T23:50:50.586943+00:00"
+    },
+    {
+      "id": "url:https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Applied-AI-Software-Developer_R0248109",
+      "seen_at": "2026-08-27T23:50:50.587324+00:00"
+    },
+    {
+      "id": "simplify-aeece349-0ea8-402f-8b31-1b085e06ce66",
+      "seen_at": "2026-08-27T23:50:50.587714+00:00"
+    },
+    {
+      "id": "url:https://jobs.keysight.com/jobs/54048",
+      "seen_at": "2026-08-27T23:50:50.588088+00:00"
+    },
+    {
+      "id": "simplify-21dc7236-2495-4c4d-93a4-22cc6acac928",
+      "seen_at": "2026-08-27T23:50:50.588464+00:00"
+    },
+    {
+      "id": "url:https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Junior-Generative-AI-Application-Developer_26962250",
+      "seen_at": "2026-08-27T23:50:50.588880+00:00"
+    },
+    {
+      "id": "simplify-eded4bc5-bc12-47b0-8029-6e97c596ae81",
+      "seen_at": "2026-08-27T23:50:50.589278+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97/apply",
+      "seen_at": "2026-08-27T23:50:50.589667+00:00"
+    },
+    {
+      "id": "simplify-ffb4bdca-3de5-4962-937b-7fda5a63c717",
+      "seen_at": "2026-08-27T23:50:50.590045+00:00"
+    },
+    {
+      "id": "url:https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer---BBP_2640025",
+      "seen_at": "2026-08-27T23:50:50.590416+00:00"
+    },
+    {
+      "id": "simplify-d4b7c637-570f-409e-beaf-5d2c23cf8d68",
+      "seen_at": "2026-08-27T23:50:50.590811+00:00"
+    },
+    {
+      "id": "url:https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer---BBP_2640025-2",
+      "seen_at": "2026-08-27T23:50:50.591183+00:00"
+    },
+    {
+      "id": "simplify-92e26ac8-dfc6-42c8-867f-6c96fb1a9e63",
+      "seen_at": "2026-08-27T23:50:50.591558+00:00"
+    },
+    {
+      "id": "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526",
+      "seen_at": "2026-08-27T23:50:50.591938+00:00"
+    },
+    {
+      "id": "simplify-07bd103c-1d70-4013-a353-134890eb3530",
+      "seen_at": "2026-08-27T23:50:50.592310+00:00"
+    },
+    {
+      "id": "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529",
+      "seen_at": "2026-08-27T23:50:50.592688+00:00"
+    },
+    {
+      "id": "simplify-1ed0d67f-c05f-4cc9-bf79-9c13b1a17811",
+      "seen_at": "2026-08-27T23:50:50.593061+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/281591",
+      "seen_at": "2026-08-27T23:50:50.593428+00:00"
+    },
+    {
+      "id": "simplify-bd50ff7c-e21f-427c-87ad-4a45b42e134c",
+      "seen_at": "2026-08-27T23:50:50.593810+00:00"
+    },
+    {
+      "id": "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823836101",
+      "seen_at": "2026-08-27T23:50:50.594179+00:00"
+    },
+    {
+      "id": "simplify-bea01365-4ada-471d-abb2-9e8cd6325b9e",
+      "seen_at": "2026-08-27T23:50:50.594549+00:00"
+    },
+    {
+      "id": "url:https://careers.viasat.com/jobs/6735",
+      "seen_at": "2026-08-27T23:50:50.594924+00:00"
+    },
+    {
+      "id": "simplify-d26b671a-bd46-4c7b-9156-0a29cfe9579b",
+      "seen_at": "2026-08-27T23:50:50.595294+00:00"
+    },
+    {
+      "id": "url:https://jobs.constellationenergy.com/jobs/138264",
+      "seen_at": "2026-08-27T23:50:50.595671+00:00"
+    },
+    {
+      "id": "simplify-64997f89-8d5e-4379-8743-ed57dbe15db5",
+      "seen_at": "2026-08-27T23:50:50.596045+00:00"
+    },
+    {
+      "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610-1839/1424037300",
+      "seen_at": "2026-08-27T23:50:50.596409+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6164379004",
+      "seen_at": "2026-08-27T23:50:50.596792+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6164379004",
+      "seen_at": "2026-08-27T23:50:50.597191+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5397596008",
+      "seen_at": "2026-08-27T23:50:50.597594+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5397596008",
+      "seen_at": "2026-08-27T23:50:50.597991+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-7857714",
+      "seen_at": "2026-08-27T23:50:50.598402+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/7857714",
+      "seen_at": "2026-08-27T23:50:50.598816+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-7487353",
+      "seen_at": "2026-08-27T23:50:50.599226+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/7487353",
+      "seen_at": "2026-08-27T23:50:50.599619+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-7874990",
+      "seen_at": "2026-08-27T23:50:50.600050+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/7874990",
+      "seen_at": "2026-08-27T23:50:50.600427+00:00"
+    },
+    {
+      "id": "ashby-openai-984da843-107f-4ff6-ad27-07a06700e338",
+      "seen_at": "2026-08-27T23:50:50.600904+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/984da843-107f-4ff6-ad27-07a06700e338",
+      "seen_at": "2026-08-27T23:50:50.601344+00:00"
+    },
+    {
+      "id": "ashby-openai-3229b152-015f-49ad-9921-9c9de95570c8",
+      "seen_at": "2026-08-27T23:50:50.601827+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8",
+      "seen_at": "2026-08-27T23:50:50.602275+00:00"
+    },
+    {
+      "id": "ashby-openai-f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6",
+      "seen_at": "2026-08-27T23:50:50.602722+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6",
+      "seen_at": "2026-08-27T23:50:50.603132+00:00"
+    },
+    {
+      "id": "ashby-openai-d33eec12-e0c3-48a0-bb54-35d1e7aa9ee1",
+      "seen_at": "2026-08-27T23:50:50.603532+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/d33eec12-e0c3-48a0-bb54-35d1e7aa9ee1",
+      "seen_at": "2026-08-27T23:50:50.603936+00:00"
+    },
+    {
+      "id": "ashby-openai-832094fd-4d89-4fe4-bc18-9ba88d347a18",
+      "seen_at": "2026-08-27T23:50:50.604334+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/832094fd-4d89-4fe4-bc18-9ba88d347a18",
+      "seen_at": "2026-08-27T23:50:50.604731+00:00"
     }
   ],
-  "last_run": "2026-08-27T14:21:53.557942+00:00",
-  "total_notified": 4073,
+  "last_run": "2026-08-27T23:50:50.878388+00:00",
+  "total_notified": 4136,
   "channels": {
     "swe-jobs": [
-      "simplify-b9a81086-50d0-4ea0-bd8e-97fd33f70311",
-      "url:https://www.tesla.com/careers/search/job/278249",
-      "simplify-02855d39-751b-42b4-909c-814d9d98b768",
-      "url:https://boards.greenhouse.io/cloudflare/jobs/8089379",
-      "simplify-0493a5d3-fb9f-430d-8751-58b168f5a0f4",
-      "url:https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application",
-      "simplify-c9ad7130-d51b-4977-b457-507b9ff86717",
-      "url:https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application",
       "simplify-6219c04b-bc5c-4d14-90ea-426f117b51c0",
       "url:https://lifeattiktok.com/search/7667690418804902149",
       "simplify-13dd6f9c-c173-4f09-aefe-7255a8bc03f6",
@@ -32067,13 +32323,67 @@
       "simplify-fd89ae0c-d315-47fd-910a-9c9b60aefe74",
       "url:https://jobs.l3harris.com/job/Waco-Intern,-Engineering-Operations-TX-76705/1423786200",
       "simplify-57123fb8-44cd-438c-bcd0-f1c97fcd5c9c",
-      "url:https://jobs.l3harris.com/job/Waco-Intern,-Engineering-Operations-TX-76705/1423785700"
+      "url:https://jobs.l3harris.com/job/Waco-Intern,-Engineering-Operations-TX-76705/1423785700",
+      "simplify-b909918b-5b16-4503-b656-a6ecd440233a",
+      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1",
+      "simplify-ca0cc910-e9e7-48a4-ac62-3536b3421ae2",
+      "url:https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Investment-Engineering--Undergraduate---Master-s-_2026-9025",
+      "simplify-46ff6819-f211-4a17-917d-93908fe60ce6",
+      "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100360",
+      "simplify-fc36587f-acf4-428e-a61f-aab42b07540c",
+      "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1",
+      "simplify-db4deaf3-658e-4ff9-b870-70d3847988d4",
+      "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100361",
+      "simplify-c4841e3b-7bc1-434f-89ca-6339d37cc8ff",
+      "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100359",
+      "simplify-72774ca6-fdd5-4060-85a9-2893a5786ab0",
+      "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100364",
+      "simplify-0f82e199-34b0-49c2-90ed-3f8ff3a45548",
+      "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363",
+      "simplify-e7293c88-f396-415f-920c-742686dde2e3",
+      "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045",
+      "simplify-b5849ab7-6000-47b6-847d-99300b7d8722",
+      "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
+      "simplify-8a398659-4aa5-4cf4-a9d1-222302c48e50",
+      "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
+      "simplify-84aad02e-2ac4-4eaf-89fd-3674ae05f75e",
+      "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
+      "simplify-841e2cd6-9fb6-4ffd-adb4-671a6b81ade2",
+      "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038",
+      "simplify-cd6f32c7-2c66-4423-8ff5-b998f48126e0",
+      "url:https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application",
+      "simplify-ae6480dc-19f7-41c1-93ec-fd10763825b1",
+      "url:https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+      "simplify-caa5d432-7f4d-4c1f-92de-98d8fd87d850",
+      "url:https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680",
+      "simplify-896b0108-cef7-4d08-a0b3-a8969f63f4dc",
+      "url:https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411/apply",
+      "simplify-d87e1816-d063-45ca-a689-0c0488e78b91",
+      "url:https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7/apply",
+      "simplify-af7e4027-6aa7-4bab-8f94-d3f58be921ce",
+      "url:https://jobs.lever.co/CesiumAstro/47333595-c85f-4b06-965c-ad4429dde0f0/apply",
+      "simplify-74de6522-955b-42bb-908b-e3dfcb52ae94",
+      "url:https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Applications-_R3714-26",
+      "simplify-bc8cef80-2478-4abe-8166-7f6a226c4edd",
+      "url:https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021",
+      "simplify-c5bd1b3f-c4a1-4606-b687-e4afcc112363",
+      "url:https://www.tesla.com/careers/search/job/281097",
+      "simplify-615b2214-ffde-44ff-b1af-d08cea6fe865",
+      "url:https://www.tesla.com/careers/search/job/281473",
+      "simplify-aac19326-02f3-415a-991f-d6a81d6a7ef9",
+      "url:https://www.tesla.com/careers/search/job/281623",
+      "simplify-96a80fff-d4c9-467e-b9f7-80924676ceca",
+      "url:https://www.tesla.com/careers/search/job/281607",
+      "simplify-81f31a55-3c12-476c-bb99-e74e63986e74",
+      "url:https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+      "simplify-13c82543-49b6-4293-ac18-052fd0889c76",
+      "url:https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00190672-1",
+      "simplify-596a789f-9d3f-4275-91f3-da77d86fc246",
+      "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050",
+      "simplify-73fe59bd-6ea1-4126-b2c2-83f766ca2520",
+      "url:https://jobs.ashbyhq.com/fab2/96e96a9c-8419-4a67-ba4a-4b28e87b3f16/application"
     ],
     "pm-jobs": [
-      "simplify-aff149ec-8435-4f94-9798-ea3716d37883",
-      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766",
-      "ashby-openai-6db2af13-50b2-4fe0-a8df-874e2ba57f71",
-      "url:https://jobs.ashbyhq.com/openai/6db2af13-50b2-4fe0-a8df-874e2ba57f71",
       "simplify-0456663c-5f85-4ba5-a2d6-105f82049709",
       "url:https://jobs.farmersinsurance.com/job/Product-Analyst-I-Bristol-West-Commercial-Auto/1368062257",
       "simplify-70bc621d-eca4-4bc2-9cca-cbf883a2a5b4",
@@ -32967,75 +33277,35 @@
       "greenhouse-anthropic-5406817008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5406817008",
       "greenhouse-anthropic-5406106008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5406106008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5406106008",
+      "simplify-31e48f4e-9237-4007-97ac-93f10f9546c5",
+      "url:https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Rosemont/XMLNAME--Product-Analyst---LHB_R0047993-2",
+      "jobright-c657faf5d97d",
+      "url:https://jobright.ai/jobs/info/6a9085ffd96ad228f1261b8f",
+      "jobright-b672f544f8d3",
+      "url:https://jobright.ai/jobs/info/6a9096e67c32860d14cfa42b",
+      "jobright-7655d9b63235",
+      "url:https://jobright.ai/jobs/info/6a906faf2e254e06fb9f0e9a",
+      "jobright-e2925a00359b",
+      "url:https://jobright.ai/jobs/info/6a90655d8ffa38557e6cc969",
+      "jobright-fccb0e8ec366",
+      "url:https://jobright.ai/jobs/info/6a908023a198864866761785",
+      "jobright-68923f5d94d4",
+      "url:https://jobright.ai/jobs/info/6a90802ca19886486676178a",
+      "jobright-21bdcfe0ccb3",
+      "url:https://jobright.ai/jobs/info/6a904a84d96ad228f1260500",
+      "jobright-1f8c4035794d",
+      "url:https://jobright.ai/jobs/info/6a4becec4f64ba41dcb5dc02",
+      "greenhouse-anthropic-5407337008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5407337008",
+      "greenhouse-datadog-8024863",
+      "url:https://careers.datadoghq.com/detail/8024863",
+      "greenhouse-datadog-8029539",
+      "url:https://careers.datadoghq.com/detail/8029539",
+      "greenhouse-datadog-8023763",
+      "url:https://careers.datadoghq.com/detail/8023763"
     ],
     "swe-ai-full-time": [
-      "simplify-a188e67b-1783-4dcd-9052-82585ee3aaf0",
-      "url:https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466",
-      "simplify-553369f5-663d-4019-8901-6134f7102b4d",
-      "url:https://careers-peraton.icims.com/jobs/168949/job",
-      "simplify-53d9ab39-e29b-463e-ac70-97d6977fb6ba",
-      "url:https://jobs.smartrecruiters.com/HarvardUniversity/3743990014314307",
-      "simplify-33972c52-575d-4ede-a314-0ccebc85ee47",
-      "url:https://jobs.ashbyhq.com/joinpogo/a54fe5c6-d695-4925-8087-d9378756dde7/application",
-      "simplify-6bbdcfe2-93ba-469c-9fe4-be23b9387ac6",
-      "url:https://jobs.ashbyhq.com/alta-ares/ad4ace6a-823c-43ea-ae32-3d0711c33096/application",
-      "simplify-81476e53-2803-426e-8021-2bcd1ad52184",
-      "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413204500",
-      "simplify-4ba38e7e-381e-463a-9acc-2814e492da98",
-      "url:https://careers-peraton.icims.com/jobs/168946/job",
-      "ashby-openai-3229b152-015f-49ad-9921-9c9de95570c8",
-      "url:https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8",
-      "ashby-openai-f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6",
-      "url:https://jobs.ashbyhq.com/openai/f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6",
-      "greenhouse-robinhood-7543003",
-      "url:https://boards.greenhouse.io/robinhood/jobs/7543003",
-      "simplify-293a2db3-6ec7-465d-b8ba-1e20db33494f",
-      "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413415700",
-      "simplify-a7a21277-7af0-4b06-894f-af2ce1530e21",
-      "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413343400",
-      "greenhouse-airbnb-8093038",
-      "url:https://careers.airbnb.com/positions/8093038",
-      "simplify-6ffe9360-2d1b-4612-90b5-2b30153fe38c",
-      "url:https://careers-gdms.icims.com/jobs/73835/job",
-      "simplify-4c068b9a-952a-4155-bd1c-fa897c862b5d",
-      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01862140",
-      "simplify-513036c6-8bdd-44bf-8c57-e5d73bf66998",
-      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--Onsite-_01861373",
-      "simplify-d6ad51e0-366b-4b13-b829-8c5dacf13565",
-      "url:https://jobs.apple.com/en-us/details/200674154",
-      "simplify-9e6e56d1-9f9d-4225-b07a-a32e4e6988ca",
-      "url:https://ats.rippling.com/tavernresearch/jobs/328ac66c-4c82-4598-8101-3d9fa64bd436",
-      "simplify-eade91a6-60d5-49dd-8a45-35003ed22533",
-      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276",
-      "simplify-0fe0ca22-c7ed-4459-9e24-825ae1a9c5d2",
-      "url:https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008",
-      "simplify-fddc9951-f122-4dee-9f6b-96563bf42448",
-      "url:https://kearney.taleo.net/careersection/01/jobdetail.ftl",
-      "simplify-e4969d84-0576-4efa-86ba-e29afbe254ea",
-      "url:https://ats.rippling.com/tavernresearch/jobs/7433de0b-caae-4c3d-8ad3-70fcbb2f3e6c",
-      "simplify-d719689b-b5b0-4b29-abec-aba4b0475305",
-      "url:https://jobs.ashbyhq.com/eliza/3190c7b1-a01f-42e0-9a16-2c6dfc40eb8d/application",
-      "simplify-1c9e0188-d9cb-4324-afaa-fa5d4da2946f",
-      "url:https://ats.rippling.com/tavernresearch/jobs/17952240-27e9-4c49-8869-e3e1ea2aadc3",
-      "simplify-8cf416d2-c4e8-4bbd-800d-6b10b4b953e3",
-      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Assoc-Software-Engineer---Simulation_01853132",
-      "simplify-f9c4f87f-c5a3-4ccd-918b-31f3f3c9af51",
-      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01862658",
-      "simplify-b2fa0f21-04d7-441c-90f2-b38ee22120fb",
-      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I---Tactical-Missile-System-Simulation--Unreal-Engine-_01862202",
-      "simplify-2642491d-58eb-447a-ae7d-a7f33759c98d",
-      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497",
-      "simplify-a4136041-2a5f-42c9-8f7a-1b50d9e8c5f9",
-      "url:https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---EDA-CAD-Engineer_JR103200",
-      "simplify-48a4d49c-4337-40c0-92cd-2175effead3b",
-      "url:https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---EDA-CAD-Engineer_JR103201",
-      "simplify-eb14fde0-a057-4228-ad8b-f70f7818ae17",
-      "url:https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558",
-      "simplify-d8f84d42-30b7-4a74-b193-a2adde5bac7e",
-      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626",
-      "simplify-e63c2874-2871-4188-a826-8057c63d376f",
-      "url:https://glginsights.com/careers/jobs/7813612003",
       "simplify-49643f6b-95e6-4d37-af1d-1118ce4439cd",
       "url:https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
       "ashby-openai-fcb0ed1a-9329-4e8f-8aab-92bb626d8141",
@@ -37609,7 +37879,67 @@
       "simplify-22c1325e-0afd-47f3-910f-bf0e15ff82ce",
       "url:https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32116",
       "simplify-d44c4b34-245b-4951-b4ec-573f93fbe2ac",
-      "url:https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9/application"
+      "url:https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9/application",
+      "simplify-e956ef2d-bb6c-4265-9310-de2b65de47a4",
+      "url:https://job-boards.greenhouse.io/graphcore/jobs/8747132002",
+      "simplify-80c570a9-6dd8-492d-96d7-bec0cd87c8b5",
+      "url:https://textron.taleo.net/careersection/textron/jobdetail.ftl",
+      "simplify-053c7987-6469-4ab8-b5d7-cdf305153c29",
+      "url:https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101",
+      "simplify-a270922d-2173-4482-b7ad-d9fcc70f0b39",
+      "url:https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15732",
+      "simplify-a62806df-d00b-4b10-9d89-b2e124ba1727",
+      "url:https://jobs.lever.co/matchgroup/26725d4e-c597-4434-95d3-e6b86472d8a4/apply",
+      "simplify-c744244f-670e-496a-a8e7-3f470887a7dd",
+      "url:https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Product-Engineer_R0248101",
+      "simplify-a6b9abdc-a123-4775-8c85-8ad97dda03b1",
+      "url:https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Scientist-for-Analytics--Engineer-Scientist-Support_331256",
+      "simplify-dc134c5a-4e51-42bc-8e94-3f5e69b36ba3",
+      "url:https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Applied-AI-Software-Developer_R0248109",
+      "simplify-aeece349-0ea8-402f-8b31-1b085e06ce66",
+      "url:https://jobs.keysight.com/jobs/54048",
+      "simplify-21dc7236-2495-4c4d-93a4-22cc6acac928",
+      "url:https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Junior-Generative-AI-Application-Developer_26962250",
+      "simplify-eded4bc5-bc12-47b0-8029-6e97c596ae81",
+      "url:https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97/apply",
+      "simplify-ffb4bdca-3de5-4962-937b-7fda5a63c717",
+      "url:https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer---BBP_2640025",
+      "simplify-d4b7c637-570f-409e-beaf-5d2c23cf8d68",
+      "url:https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer---BBP_2640025-2",
+      "simplify-92e26ac8-dfc6-42c8-867f-6c96fb1a9e63",
+      "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526",
+      "simplify-07bd103c-1d70-4013-a353-134890eb3530",
+      "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529",
+      "simplify-1ed0d67f-c05f-4cc9-bf79-9c13b1a17811",
+      "url:https://www.tesla.com/careers/search/job/281591",
+      "simplify-bd50ff7c-e21f-427c-87ad-4a45b42e134c",
+      "url:https://job-boards.eu.greenhouse.io/imc/jobs/4823836101",
+      "simplify-bea01365-4ada-471d-abb2-9e8cd6325b9e",
+      "url:https://careers.viasat.com/jobs/6735",
+      "simplify-d26b671a-bd46-4c7b-9156-0a29cfe9579b",
+      "url:https://jobs.constellationenergy.com/jobs/138264",
+      "simplify-64997f89-8d5e-4379-8743-ed57dbe15db5",
+      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610-1839/1424037300",
+      "greenhouse-figma-6164379004",
+      "url:https://boards.greenhouse.io/figma/jobs/6164379004",
+      "greenhouse-anthropic-5397596008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5397596008",
+      "greenhouse-datadog-7857714",
+      "url:https://careers.datadoghq.com/detail/7857714",
+      "greenhouse-datadog-7487353",
+      "url:https://careers.datadoghq.com/detail/7487353",
+      "greenhouse-datadog-7874990",
+      "url:https://careers.datadoghq.com/detail/7874990",
+      "ashby-openai-984da843-107f-4ff6-ad27-07a06700e338",
+      "url:https://jobs.ashbyhq.com/openai/984da843-107f-4ff6-ad27-07a06700e338",
+      "ashby-openai-3229b152-015f-49ad-9921-9c9de95570c8",
+      "url:https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8",
+      "ashby-openai-f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6",
+      "url:https://jobs.ashbyhq.com/openai/f7a60ee2-fa56-44cd-9905-62bf1a9e0fd6",
+      "ashby-openai-d33eec12-e0c3-48a0-bb54-35d1e7aa9ee1",
+      "url:https://jobs.ashbyhq.com/openai/d33eec12-e0c3-48a0-bb54-35d1e7aa9ee1",
+      "ashby-openai-832094fd-4d89-4fe4-bc18-9ba88d347a18",
+      "url:https://jobs.ashbyhq.com/openai/832094fd-4d89-4fe4-bc18-9ba88d347a18"
     ]
   }
 }
