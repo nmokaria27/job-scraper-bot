@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-b5c7fd89-4672-4907-87b7-68a4b6957acb",
-      "seen_at": "2026-07-31T07:38:09.982041+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/278703",
-      "seen_at": "2026-07-31T07:38:09.982188+00:00"
-    },
-    {
-      "id": "simplify-75e9fee1-d55a-4025-b42d-c45a49be336f",
-      "seen_at": "2026-07-31T07:38:11.695782+00:00"
-    },
-    {
-      "id": "url:https://jobs.apple.com/en-us/details/200657382",
-      "seen_at": "2026-07-31T07:38:11.695952+00:00"
-    },
-    {
       "id": "simplify-f49965a8-66d7-460e-aefb-c756911f4dff",
       "seen_at": "2026-07-31T14:42:41.949581+00:00"
     },
@@ -30341,12 +30325,10 @@
       "seen_at": "2026-08-29T22:36:23.906446+00:00"
     }
   ],
-  "last_run": "2026-08-30T05:54:09.830088+00:00",
+  "last_run": "2026-08-30T11:48:27.761434+00:00",
   "total_notified": 4186,
   "channels": {
     "swe-jobs": [
-      "simplify-b5c7fd89-4672-4907-87b7-68a4b6957acb",
-      "url:https://www.tesla.com/careers/search/job/278703",
       "simplify-56196707-1bc1-44de-9e0e-a32456792771",
       "url:https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application",
       "simplify-443c6322-3e3b-48b4-9fd4-3a9c04931db8",
@@ -33332,8 +33314,6 @@
       "url:https://jobright.ai/jobs/info/6a8a7d40cde3717f9e9b9887"
     ],
     "swe-ai-full-time": [
-      "simplify-75e9fee1-d55a-4025-b42d-c45a49be336f",
-      "url:https://jobs.apple.com/en-us/details/200657382",
       "simplify-f49965a8-66d7-460e-aefb-c756911f4dff",
       "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300",
       "simplify-b505b48b-e77b-457e-b978-12bd26fa4506",
