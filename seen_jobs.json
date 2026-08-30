@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-datadog-8098833",
-      "seen_at": "2026-07-31T19:48:06.055343+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/8098833",
-      "seen_at": "2026-07-31T19:48:06.055504+00:00"
-    },
-    {
       "id": "simplify-443c6322-3e3b-48b4-9fd4-3a9c04931db8",
       "seen_at": "2026-07-31T22:44:38.791339+00:00"
     },
@@ -30277,7 +30269,7 @@
       "seen_at": "2026-08-29T22:36:23.906446+00:00"
     }
   ],
-  "last_run": "2026-08-30T18:46:20.823723+00:00",
+  "last_run": "2026-08-30T21:37:45.316284+00:00",
   "total_notified": 4186,
   "channels": {
     "swe-jobs": [
@@ -33264,8 +33256,6 @@
       "url:https://jobright.ai/jobs/info/6a8a7d40cde3717f9e9b9887"
     ],
     "swe-ai-full-time": [
-      "greenhouse-datadog-8098833",
-      "url:https://careers.datadoghq.com/detail/8098833",
       "simplify-48921fdc-0754-40c8-91cc-f5e1bb6277bb",
       "url:https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
       "simplify-0a72bef2-8ca2-4206-94ca-6c6467df7de6",
