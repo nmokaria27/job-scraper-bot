@@ -1,118 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-c63937cc-49b3-4672-b316-c4e35731c6af",
-      "seen_at": "2026-07-30T23:34:57.231185+00:00"
-    },
-    {
-      "id": "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964",
-      "seen_at": "2026-07-30T23:34:57.231321+00:00"
-    },
-    {
-      "id": "simplify-079e1669-46b8-488f-8297-f7c139a745ec",
-      "seen_at": "2026-07-30T23:34:57.231432+00:00"
-    },
-    {
-      "id": "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965",
-      "seen_at": "2026-07-30T23:34:57.231567+00:00"
-    },
-    {
-      "id": "simplify-fbc2121f-6452-434e-a732-904dabe11cd7",
-      "seen_at": "2026-07-30T23:34:57.231673+00:00"
-    },
-    {
-      "id": "url:https://careers.formlabs.com/job/8097694/apply",
-      "seen_at": "2026-07-30T23:34:57.231761+00:00"
-    },
-    {
-      "id": "simplify-4d5cf6f1-3ecd-458b-b5a3-dc787dd18c2a",
-      "seen_at": "2026-07-30T23:34:59.229141+00:00"
-    },
-    {
-      "id": "url:https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GLOBAL-CUSTOM-COMMERCEBLINDS-OFFICE-HOUSTON---2140/Associate-Product-Manager_Req187999",
-      "seen_at": "2026-07-30T23:34:59.229278+00:00"
-    },
-    {
-      "id": "simplify-d6f97031-4271-45b1-a7e1-7889ff9c98b3",
-      "seen_at": "2026-07-30T23:34:59.229384+00:00"
-    },
-    {
-      "id": "url:https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/90246",
-      "seen_at": "2026-07-30T23:34:59.229483+00:00"
-    },
-    {
-      "id": "simplify-e2782551-ee25-4e02-a7f4-f2f46752bd8e",
-      "seen_at": "2026-07-30T23:35:06.063050+00:00"
-    },
-    {
-      "id": "url:https://pyrovio.breezy.hr/p/a0653fb2684d/apply",
-      "seen_at": "2026-07-30T23:35:06.063208+00:00"
-    },
-    {
-      "id": "simplify-ad30a281-d114-4faa-9791-373a3fa5be68",
-      "seen_at": "2026-07-30T23:35:06.063332+00:00"
-    },
-    {
-      "id": "url:https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Colorado---Denver/Environmental-Engineer_RQ113835",
-      "seen_at": "2026-07-30T23:35:06.063434+00:00"
-    },
-    {
-      "id": "simplify-ac4ef6f6-759d-4722-84e4-20b1fcd59ac8",
-      "seen_at": "2026-07-30T23:35:06.063569+00:00"
-    },
-    {
-      "id": "url:https://www.esri.com/careers/5198108007",
-      "seen_at": "2026-07-30T23:35:06.063678+00:00"
-    },
-    {
-      "id": "simplify-472125a8-9314-47f2-9392-39ed62ab2b3c",
-      "seen_at": "2026-07-30T23:35:06.063793+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767-1",
-      "seen_at": "2026-07-30T23:35:06.063895+00:00"
-    },
-    {
-      "id": "simplify-d8fd75f8-9639-4a1e-a974-f68d2c24cad7",
-      "seen_at": "2026-07-30T23:35:06.063998+00:00"
-    },
-    {
-      "id": "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-I--Full-Time----United-States_1449197",
-      "seen_at": "2026-07-30T23:35:06.064092+00:00"
-    },
-    {
-      "id": "simplify-002edf7c-6a14-4eb5-ac0e-eea3094b22f4",
-      "seen_at": "2026-07-30T23:35:06.064194+00:00"
-    },
-    {
-      "id": "url:https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1",
-      "seen_at": "2026-07-30T23:35:06.064287+00:00"
-    },
-    {
-      "id": "simplify-20077851-2609-416e-843a-cad59e6e7059",
-      "seen_at": "2026-07-30T23:35:06.064387+00:00"
-    },
-    {
-      "id": "url:https://genpt.wd1.myworkdayjobs.com/Careers/job/Kirkland-WA-USA/Motion-Automation-Intelligence--Application-Engineer_R26_0000024336",
-      "seen_at": "2026-07-30T23:35:06.064540+00:00"
-    },
-    {
-      "id": "greenhouse-discord-8614971002",
-      "seen_at": "2026-07-30T23:35:06.064641+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8614971002",
-      "seen_at": "2026-07-30T23:35:06.064746+00:00"
-    },
-    {
-      "id": "greenhouse-vercel-6020852004",
-      "seen_at": "2026-07-30T23:35:06.064853+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6020852004",
-      "seen_at": "2026-07-30T23:35:06.064946+00:00"
-    },
-    {
       "id": "simplify-3d88fb1f-4b46-4e88-a576-048f777a91f2",
       "seen_at": "2026-07-31T04:45:51.229813+00:00"
     },
@@ -30477,16 +30365,10 @@
       "seen_at": "2026-08-29T22:36:23.906446+00:00"
     }
   ],
-  "last_run": "2026-08-29T22:36:24.323357+00:00",
+  "last_run": "2026-08-30T00:39:31.846284+00:00",
   "total_notified": 4186,
   "channels": {
     "swe-jobs": [
-      "simplify-c63937cc-49b3-4672-b316-c4e35731c6af",
-      "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964",
-      "simplify-079e1669-46b8-488f-8297-f7c139a745ec",
-      "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965",
-      "simplify-fbc2121f-6452-434e-a732-904dabe11cd7",
-      "url:https://careers.formlabs.com/job/8097694/apply",
       "simplify-3d88fb1f-4b46-4e88-a576-048f777a91f2",
       "url:https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application",
       "simplify-b5c7fd89-4672-4907-87b7-68a4b6957acb",
@@ -32548,10 +32430,6 @@
       "url:https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application"
     ],
     "pm-jobs": [
-      "simplify-4d5cf6f1-3ecd-458b-b5a3-dc787dd18c2a",
-      "url:https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GLOBAL-CUSTOM-COMMERCEBLINDS-OFFICE-HOUSTON---2140/Associate-Product-Manager_Req187999",
-      "simplify-d6f97031-4271-45b1-a7e1-7889ff9c98b3",
-      "url:https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/90246",
       "simplify-6cb6f4c5-0d14-454d-9289-fa07a847ef2d",
       "url:https://job-boards.greenhouse.io/armada/jobs/5371838008",
       "simplify-63312998-23b7-4617-994a-97b67a1866fb",
@@ -33482,24 +33360,6 @@
       "url:https://jobright.ai/jobs/info/6a8a7d40cde3717f9e9b9887"
     ],
     "swe-ai-full-time": [
-      "simplify-e2782551-ee25-4e02-a7f4-f2f46752bd8e",
-      "url:https://pyrovio.breezy.hr/p/a0653fb2684d/apply",
-      "simplify-ad30a281-d114-4faa-9791-373a3fa5be68",
-      "url:https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Colorado---Denver/Environmental-Engineer_RQ113835",
-      "simplify-ac4ef6f6-759d-4722-84e4-20b1fcd59ac8",
-      "url:https://www.esri.com/careers/5198108007",
-      "simplify-472125a8-9314-47f2-9392-39ed62ab2b3c",
-      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767-1",
-      "simplify-d8fd75f8-9639-4a1e-a974-f68d2c24cad7",
-      "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-I--Full-Time----United-States_1449197",
-      "simplify-002edf7c-6a14-4eb5-ac0e-eea3094b22f4",
-      "url:https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1",
-      "simplify-20077851-2609-416e-843a-cad59e6e7059",
-      "url:https://genpt.wd1.myworkdayjobs.com/Careers/job/Kirkland-WA-USA/Motion-Automation-Intelligence--Application-Engineer_R26_0000024336",
-      "greenhouse-discord-8614971002",
-      "url:https://job-boards.greenhouse.io/discord/jobs/8614971002",
-      "greenhouse-vercel-6020852004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6020852004",
       "simplify-950f53eb-f578-4031-8d81-ac822b56d643",
       "url:https://careers.cisco.com/global/en/job/1449197",
       "simplify-75e9fee1-d55a-4025-b42d-c45a49be336f",
