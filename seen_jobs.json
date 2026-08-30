@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-f49965a8-66d7-460e-aefb-c756911f4dff",
-      "seen_at": "2026-07-31T14:42:41.949581+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300",
-      "seen_at": "2026-07-31T14:42:41.949857+00:00"
-    },
-    {
       "id": "simplify-56196707-1bc1-44de-9e0e-a32456792771",
       "seen_at": "2026-07-31T16:27:25.227824+00:00"
     },
@@ -30325,7 +30317,7 @@
       "seen_at": "2026-08-29T22:36:23.906446+00:00"
     }
   ],
-  "last_run": "2026-08-30T11:48:27.761434+00:00",
+  "last_run": "2026-08-30T15:29:10.489629+00:00",
   "total_notified": 4186,
   "channels": {
     "swe-jobs": [
@@ -33314,8 +33306,6 @@
       "url:https://jobright.ai/jobs/info/6a8a7d40cde3717f9e9b9887"
     ],
     "swe-ai-full-time": [
-      "simplify-f49965a8-66d7-460e-aefb-c756911f4dff",
-      "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300",
       "simplify-b505b48b-e77b-457e-b978-12bd26fa4506",
       "url:https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Home---UK--England/AI-Operations-Engineer_R0018646-1",
       "greenhouse-airbnb-8097917",
