@@ -1,110 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-42c0c70a-f3aa-4aab-b737-a65c498589b7",
-      "seen_at": "2026-08-03T16:34:57.856243+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668204394458466565",
-      "seen_at": "2026-08-03T16:34:57.856462+00:00"
-    },
-    {
-      "id": "simplify-14e4cecc-8df0-4784-b302-5fa8e96fae39",
-      "seen_at": "2026-08-03T16:34:57.856618+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668202602270951733",
-      "seen_at": "2026-08-03T16:34:57.856737+00:00"
-    },
-    {
-      "id": "simplify-fc4f2880-dfbe-4370-a129-24ea58c9a173",
-      "seen_at": "2026-08-03T16:35:07.115773+00:00"
-    },
-    {
-      "id": "url:https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Analyst_JR17441",
-      "seen_at": "2026-08-03T16:35:07.115968+00:00"
-    },
-    {
-      "id": "simplify-0e8a5b2c-b74c-4698-9f5d-00348584454a",
-      "seen_at": "2026-08-03T16:35:07.116128+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4079284009",
-      "seen_at": "2026-08-03T16:35:07.116262+00:00"
-    },
-    {
-      "id": "simplify-7f68f7a5-a5b3-40e6-bd0d-3fbf7b677c24",
-      "seen_at": "2026-08-03T16:35:07.116396+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7667769079948347701",
-      "seen_at": "2026-08-03T16:35:07.116552+00:00"
-    },
-    {
-      "id": "simplify-80a6fe19-0d74-4dcf-82d0-0833ae58fd78",
-      "seen_at": "2026-08-03T16:35:07.116689+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7665994926854555909",
-      "seen_at": "2026-08-03T16:35:07.116812+00:00"
-    },
-    {
-      "id": "simplify-3ff95d68-7985-49f9-9cd5-08275666f3d9",
-      "seen_at": "2026-08-03T16:35:07.116940+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7665989163791403269",
-      "seen_at": "2026-08-03T16:35:07.117062+00:00"
-    },
-    {
-      "id": "simplify-1e93d3f9-f99a-4fad-89d9-68c176cd5b89",
-      "seen_at": "2026-08-03T16:35:07.117188+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7663389363824773381",
-      "seen_at": "2026-08-03T16:35:07.117307+00:00"
-    },
-    {
-      "id": "simplify-a361534e-bae9-48ea-971f-acc6566fbb47",
-      "seen_at": "2026-08-03T16:35:07.117481+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7667767820142643461",
-      "seen_at": "2026-08-03T16:35:07.117600+00:00"
-    },
-    {
-      "id": "simplify-e5443b5b-331f-470e-b03e-f8cb378f467a",
-      "seen_at": "2026-08-03T16:35:07.117727+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7665991852209932597",
-      "seen_at": "2026-08-03T16:35:07.117843+00:00"
-    },
-    {
-      "id": "simplify-6877141a-26a2-42c6-affa-8795287920b8",
-      "seen_at": "2026-08-03T16:35:07.117966+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7663389745178757429",
-      "seen_at": "2026-08-03T16:35:07.118083+00:00"
-    },
-    {
-      "id": "simplify-9ee25097-f93f-4cf5-94fc-b8071589bf17",
-      "seen_at": "2026-08-03T16:35:07.118210+00:00"
-    },
-    {
-      "id": "url:https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
-      "seen_at": "2026-08-03T16:35:07.118329+00:00"
-    },
-    {
-      "id": "hn-49157178",
-      "seen_at": "2026-08-03T16:35:07.118467+00:00"
-    },
-    {
-      "id": "url:https://news.ycombinator.com/item",
-      "seen_at": "2026-08-03T16:35:07.118582+00:00"
-    },
-    {
       "id": "greenhouse-airbnb-8095390",
       "seen_at": "2026-08-03T20:03:29.412404+00:00"
     },
@@ -30975,16 +30871,88 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a5e2b8527bf767ea68f50ec",
       "seen_at": "2026-09-02T12:59:51.476414+00:00"
+    },
+    {
+      "id": "hn-49528405",
+      "seen_at": "2026-09-02T17:06:37.683288+00:00"
+    },
+    {
+      "id": "url:https://news.ycombinator.com/item",
+      "seen_at": "2026-09-02T17:06:37.683827+00:00"
+    },
+    {
+      "id": "ashby-perplexity-3c9c051f-e6ca-4a70-9abf-1f640e154ee1",
+      "seen_at": "2026-09-02T17:06:37.684350+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/3c9c051f-e6ca-4a70-9abf-1f640e154ee1",
+      "seen_at": "2026-09-02T17:06:37.684769+00:00"
+    },
+    {
+      "id": "ashby-perplexity-6f3c5131-2efa-400c-8248-44203a4dbfbb",
+      "seen_at": "2026-09-02T17:06:37.685183+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/6f3c5131-2efa-400c-8248-44203a4dbfbb",
+      "seen_at": "2026-09-02T17:06:37.685574+00:00"
+    },
+    {
+      "id": "ashby-perplexity-7f880194-7276-4b46-8a50-58b48da8882e",
+      "seen_at": "2026-09-02T17:06:37.685962+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/7f880194-7276-4b46-8a50-58b48da8882e",
+      "seen_at": "2026-09-02T17:06:37.686320+00:00"
+    },
+    {
+      "id": "ashby-perplexity-fa088d92-b08b-43f7-9232-275b0ae08827",
+      "seen_at": "2026-09-02T17:06:37.686674+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/fa088d92-b08b-43f7-9232-275b0ae08827",
+      "seen_at": "2026-09-02T17:06:37.687045+00:00"
+    },
+    {
+      "id": "ashby-perplexity-182ab2ec-6fb1-409b-a2dc-63c7832b0a13",
+      "seen_at": "2026-09-02T17:06:37.687389+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13",
+      "seen_at": "2026-09-02T17:06:37.687723+00:00"
+    },
+    {
+      "id": "hn-49539168",
+      "seen_at": "2026-09-02T17:06:41.797570+00:00"
+    },
+    {
+      "id": "greenhouse-discord-8396927002",
+      "seen_at": "2026-09-02T17:06:41.798608+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8396927002",
+      "seen_at": "2026-09-02T17:06:41.799064+00:00"
+    },
+    {
+      "id": "greenhouse-discord-8609250002",
+      "seen_at": "2026-09-02T17:06:41.799501+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8609250002",
+      "seen_at": "2026-09-02T17:06:41.799932+00:00"
+    },
+    {
+      "id": "greenhouse-discord-8642220002",
+      "seen_at": "2026-09-02T17:06:41.800364+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8642220002",
+      "seen_at": "2026-09-02T17:06:41.800757+00:00"
     }
   ],
-  "last_run": "2026-09-02T12:59:52.377105+00:00",
-  "total_notified": 4447,
+  "last_run": "2026-09-02T17:06:42.211956+00:00",
+  "total_notified": 4457,
   "channels": {
     "swe-jobs": [
-      "simplify-42c0c70a-f3aa-4aab-b737-a65c498589b7",
-      "url:https://lifeattiktok.com/search/7668204394458466565",
-      "simplify-14e4cecc-8df0-4784-b302-5fa8e96fae39",
-      "url:https://lifeattiktok.com/search/7668202602270951733",
       "simplify-de4fe3d1-76de-472c-8e5d-cd3753a6ab3c",
       "url:https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502",
       "simplify-3f75b98c-3c6a-4192-8268-3e946dae7519",
@@ -33151,7 +33119,6 @@
       "simplify-7aa9448f-c028-4566-8078-45d402ca4ffe",
       "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
       "hn-49164297",
-      "url:https://news.ycombinator.com/item",
       "simplify-14af9b4a-6b3e-473b-844f-542a89afb184",
       "url:https://lifeattiktok.com/search/7667874197682899205",
       "simplify-8bc8874a-e4e7-4cc8-ba27-aa5854cba4d6",
@@ -34169,31 +34136,21 @@
       "jobright-f20271430646",
       "url:https://jobright.ai/jobs/info/6a97aca5408304609c16deea",
       "jobright-8e1ce71a6d9c",
-      "url:https://jobright.ai/jobs/info/6a5e2b8527bf767ea68f50ec"
+      "url:https://jobright.ai/jobs/info/6a5e2b8527bf767ea68f50ec",
+      "hn-49528405",
+      "url:https://news.ycombinator.com/item",
+      "ashby-perplexity-3c9c051f-e6ca-4a70-9abf-1f640e154ee1",
+      "url:https://jobs.ashbyhq.com/perplexity/3c9c051f-e6ca-4a70-9abf-1f640e154ee1",
+      "ashby-perplexity-6f3c5131-2efa-400c-8248-44203a4dbfbb",
+      "url:https://jobs.ashbyhq.com/perplexity/6f3c5131-2efa-400c-8248-44203a4dbfbb",
+      "ashby-perplexity-7f880194-7276-4b46-8a50-58b48da8882e",
+      "url:https://jobs.ashbyhq.com/perplexity/7f880194-7276-4b46-8a50-58b48da8882e",
+      "ashby-perplexity-fa088d92-b08b-43f7-9232-275b0ae08827",
+      "url:https://jobs.ashbyhq.com/perplexity/fa088d92-b08b-43f7-9232-275b0ae08827",
+      "ashby-perplexity-182ab2ec-6fb1-409b-a2dc-63c7832b0a13",
+      "url:https://jobs.ashbyhq.com/perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13"
     ],
     "swe-ai-full-time": [
-      "simplify-fc4f2880-dfbe-4370-a129-24ea58c9a173",
-      "url:https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Analyst_JR17441",
-      "simplify-0e8a5b2c-b74c-4698-9f5d-00348584454a",
-      "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4079284009",
-      "simplify-7f68f7a5-a5b3-40e6-bd0d-3fbf7b677c24",
-      "url:https://lifeattiktok.com/search/7667769079948347701",
-      "simplify-80a6fe19-0d74-4dcf-82d0-0833ae58fd78",
-      "url:https://lifeattiktok.com/search/7665994926854555909",
-      "simplify-3ff95d68-7985-49f9-9cd5-08275666f3d9",
-      "url:https://lifeattiktok.com/search/7665989163791403269",
-      "simplify-1e93d3f9-f99a-4fad-89d9-68c176cd5b89",
-      "url:https://lifeattiktok.com/search/7663389363824773381",
-      "simplify-a361534e-bae9-48ea-971f-acc6566fbb47",
-      "url:https://lifeattiktok.com/search/7667767820142643461",
-      "simplify-e5443b5b-331f-470e-b03e-f8cb378f467a",
-      "url:https://lifeattiktok.com/search/7665991852209932597",
-      "simplify-6877141a-26a2-42c6-affa-8795287920b8",
-      "url:https://lifeattiktok.com/search/7663389745178757429",
-      "simplify-9ee25097-f93f-4cf5-94fc-b8071589bf17",
-      "url:https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
-      "hn-49157178",
-      "url:https://news.ycombinator.com/item",
       "greenhouse-airbnb-8095390",
       "url:https://careers.airbnb.com/positions/8095390",
       "ashby-openai-29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
@@ -38753,7 +38710,15 @@
       "greenhouse-lyft-8772594002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8772594002",
       "greenhouse-lyft-8772571002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8772571002"
+      "url:https://app.careerpuck.com/job-board/lyft/job/8772571002",
+      "hn-49539168",
+      "url:https://news.ycombinator.com/item",
+      "greenhouse-discord-8396927002",
+      "url:https://job-boards.greenhouse.io/discord/jobs/8396927002",
+      "greenhouse-discord-8609250002",
+      "url:https://job-boards.greenhouse.io/discord/jobs/8609250002",
+      "greenhouse-discord-8642220002",
+      "url:https://job-boards.greenhouse.io/discord/jobs/8642220002"
     ]
   }
 }
