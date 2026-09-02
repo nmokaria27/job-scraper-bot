@@ -30947,10 +30947,50 @@
     {
       "id": "url:https://job-boards.greenhouse.io/discord/jobs/8642220002",
       "seen_at": "2026-09-02T17:06:41.800757+00:00"
+    },
+    {
+      "id": "simplify-98621c93-f516-46e0-8eda-22230c879010",
+      "seen_at": "2026-09-02T19:44:42.542497+00:00"
+    },
+    {
+      "id": "url:https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400",
+      "seen_at": "2026-09-02T19:44:42.543121+00:00"
+    },
+    {
+      "id": "jobright-2034bcc2527a",
+      "seen_at": "2026-09-02T19:44:46.701163+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9767dfd13b4819f39e0e21",
+      "seen_at": "2026-09-02T19:44:46.701698+00:00"
+    },
+    {
+      "id": "jobright-23f2456dbe88",
+      "seen_at": "2026-09-02T19:44:46.702155+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a986ac883fc633357631628",
+      "seen_at": "2026-09-02T19:44:46.702591+00:00"
+    },
+    {
+      "id": "jobright-d1b051534ccc",
+      "seen_at": "2026-09-02T19:44:46.703009+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a3c2997982bb239f812e9cd",
+      "seen_at": "2026-09-02T19:44:46.703428+00:00"
+    },
+    {
+      "id": "jobright-9524b418381a",
+      "seen_at": "2026-09-02T19:44:46.703817+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a54e5da81744f383a313c0a",
+      "seen_at": "2026-09-02T19:44:46.704187+00:00"
     }
   ],
-  "last_run": "2026-09-02T17:06:42.211956+00:00",
-  "total_notified": 4457,
+  "last_run": "2026-09-02T19:44:47.750757+00:00",
+  "total_notified": 4462,
   "channels": {
     "swe-jobs": [
       "simplify-de4fe3d1-76de-472c-8e5d-cd3753a6ab3c",
@@ -33099,7 +33139,9 @@
       "simplify-a3985ea3-6b46-4283-ad5c-a7701cb38169",
       "url:https://jobs.ashbyhq.com/armadin/8ddb9c3a-3031-42d4-ad68-adcc865e32cf/application",
       "simplify-4d6c1aee-d6d2-466a-8c2b-c74c48746c43",
-      "url:https://jobs.ashbyhq.com/armadin/65b0796c-7490-4f92-91aa-5240b65e5211/application"
+      "url:https://jobs.ashbyhq.com/armadin/65b0796c-7490-4f92-91aa-5240b65e5211/application",
+      "simplify-98621c93-f516-46e0-8eda-22230c879010",
+      "url:https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400"
     ],
     "pm-jobs": [
       "greenhouse-anthropic-5251866008",
@@ -34148,7 +34190,15 @@
       "ashby-perplexity-fa088d92-b08b-43f7-9232-275b0ae08827",
       "url:https://jobs.ashbyhq.com/perplexity/fa088d92-b08b-43f7-9232-275b0ae08827",
       "ashby-perplexity-182ab2ec-6fb1-409b-a2dc-63c7832b0a13",
-      "url:https://jobs.ashbyhq.com/perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13"
+      "url:https://jobs.ashbyhq.com/perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13",
+      "jobright-2034bcc2527a",
+      "url:https://jobright.ai/jobs/info/6a9767dfd13b4819f39e0e21",
+      "jobright-23f2456dbe88",
+      "url:https://jobright.ai/jobs/info/6a986ac883fc633357631628",
+      "jobright-d1b051534ccc",
+      "url:https://jobright.ai/jobs/info/6a3c2997982bb239f812e9cd",
+      "jobright-9524b418381a",
+      "url:https://jobright.ai/jobs/info/6a54e5da81744f383a313c0a"
     ],
     "swe-ai-full-time": [
       "greenhouse-airbnb-8095390",
