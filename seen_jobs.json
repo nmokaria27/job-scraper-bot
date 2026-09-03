@@ -1,282 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-dc98760f-d794-4d68-be4d-5639d2bcf3f3",
-      "seen_at": "2026-08-04T04:32:59.491164+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/278620",
-      "seen_at": "2026-08-04T04:32:59.491344+00:00"
-    },
-    {
-      "id": "simplify-4afc774c-1a8c-44d6-b0c6-ebae36dfd0b9",
-      "seen_at": "2026-08-04T04:32:59.491563+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/278622",
-      "seen_at": "2026-08-04T04:32:59.491695+00:00"
-    },
-    {
-      "id": "simplify-7aa9448f-c028-4566-8078-45d402ca4ffe",
-      "seen_at": "2026-08-04T04:33:01.545953+00:00"
-    },
-    {
-      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
-      "seen_at": "2026-08-04T04:33:01.546129+00:00"
-    },
-    {
-      "id": "hn-49164297",
-      "seen_at": "2026-08-04T04:33:01.546306+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8037090",
-      "seen_at": "2026-08-04T04:33:03.879510+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8037090",
-      "seen_at": "2026-08-04T04:33:03.879716+00:00"
-    },
-    {
-      "id": "ashby-openai-d2aad13c-6ed0-4905-ae12-8ea2397b190c",
-      "seen_at": "2026-08-04T04:33:03.879892+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c",
-      "seen_at": "2026-08-04T04:33:03.880038+00:00"
-    },
-    {
-      "id": "simplify-25286ad8-8260-4a0d-9ab1-89a677c29b20",
-      "seen_at": "2026-08-04T07:18:23.718933+00:00"
-    },
-    {
-      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "seen_at": "2026-08-04T07:18:23.719109+00:00"
-    },
-    {
-      "id": "simplify-4fa5508b-be5b-43c6-8651-fcb4753d6e99",
-      "seen_at": "2026-08-04T07:18:23.719250+00:00"
-    },
-    {
-      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "seen_at": "2026-08-04T07:18:23.719367+00:00"
-    },
-    {
-      "id": "simplify-b412b084-36e9-45e2-b3a0-561c4336e62e",
-      "seen_at": "2026-08-04T07:18:23.719482+00:00"
-    },
-    {
-      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "seen_at": "2026-08-04T07:18:23.719590+00:00"
-    },
-    {
-      "id": "simplify-ed31bd8d-9acf-436c-9628-1d4c79959bac",
-      "seen_at": "2026-08-04T07:18:23.719714+00:00"
-    },
-    {
-      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556922922",
-      "seen_at": "2026-08-04T07:18:23.719823+00:00"
-    },
-    {
-      "id": "simplify-7e143f06-1c28-41b7-9291-53a869d86325",
-      "seen_at": "2026-08-04T07:18:23.719957+00:00"
-    },
-    {
-      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "seen_at": "2026-08-04T07:18:23.720082+00:00"
-    },
-    {
-      "id": "simplify-f51e897f-3776-452b-9c35-46c88e0185ae",
-      "seen_at": "2026-08-04T07:18:23.720273+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668381860191734021",
-      "seen_at": "2026-08-04T07:18:23.720388+00:00"
-    },
-    {
-      "id": "simplify-8b95003b-f01d-4d6b-a4d2-1e4c6d890df5",
-      "seen_at": "2026-08-04T07:18:23.720503+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7669711844487399685",
-      "seen_at": "2026-08-04T07:18:23.720612+00:00"
-    },
-    {
-      "id": "simplify-6f9b09ce-ac3f-47ef-9225-03bace1084c7",
-      "seen_at": "2026-08-04T07:18:23.720738+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668379675467761925",
-      "seen_at": "2026-08-04T07:18:23.720846+00:00"
-    },
-    {
-      "id": "simplify-4ef18c97-61e7-45fb-96b5-55d9163a1786",
-      "seen_at": "2026-08-04T07:18:23.720958+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668725183121000757",
-      "seen_at": "2026-08-04T07:18:23.721066+00:00"
-    },
-    {
-      "id": "simplify-04eb8758-e0be-4ae4-aca7-40e1626d3e24",
-      "seen_at": "2026-08-04T07:18:23.721177+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7667935633764370741",
-      "seen_at": "2026-08-04T07:18:23.721283+00:00"
-    },
-    {
-      "id": "simplify-b8f5c841-1a67-4b15-bb05-70d871b0ab77",
-      "seen_at": "2026-08-04T07:18:23.721394+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668834837268138293",
-      "seen_at": "2026-08-04T07:18:23.721502+00:00"
-    },
-    {
-      "id": "simplify-b1a212f9-bfdc-4a20-bc91-e34800cb57f6",
-      "seen_at": "2026-08-04T07:18:23.721613+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7669702702763018501",
-      "seen_at": "2026-08-04T07:18:23.721733+00:00"
-    },
-    {
-      "id": "simplify-6fa46b99-9c48-44b2-8d38-e17ef2651837",
-      "seen_at": "2026-08-04T07:18:23.721843+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7669705785962727733",
-      "seen_at": "2026-08-04T07:18:23.721950+00:00"
-    },
-    {
-      "id": "simplify-44dacd86-f76d-414d-9cb5-9dd6a0211b2d",
-      "seen_at": "2026-08-04T07:18:23.722062+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7669700361976809733",
-      "seen_at": "2026-08-04T07:18:23.722169+00:00"
-    },
-    {
-      "id": "simplify-1b288e59-0885-4ce7-bd60-b7cdda93c8bc",
-      "seen_at": "2026-08-04T07:18:23.722279+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668921505254410549",
-      "seen_at": "2026-08-04T07:18:23.722391+00:00"
-    },
-    {
-      "id": "simplify-08be4cf5-fcc4-47ed-82fc-2dc64c84d1b4",
-      "seen_at": "2026-08-04T07:18:23.722503+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668834837268416821",
-      "seen_at": "2026-08-04T07:18:23.722611+00:00"
-    },
-    {
-      "id": "simplify-d7cdec21-1d63-46c8-8dee-3c6968019ca3",
-      "seen_at": "2026-08-04T07:18:34.568840+00:00"
-    },
-    {
-      "id": "url:https://jobs.apple.com/en-us/details/200660851",
-      "seen_at": "2026-08-04T07:18:34.569051+00:00"
-    },
-    {
-      "id": "simplify-7cf90be5-721e-4501-ae56-97684360dd1c",
-      "seen_at": "2026-08-04T07:18:34.569224+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668561079544154373",
-      "seen_at": "2026-08-04T07:18:34.569366+00:00"
-    },
-    {
-      "id": "simplify-c4828318-4268-4f55-b12e-3ffd6f7daa6b",
-      "seen_at": "2026-08-04T07:18:34.569509+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668384123840514309",
-      "seen_at": "2026-08-04T07:18:34.569635+00:00"
-    },
-    {
-      "id": "simplify-c78d4a32-8ee7-49e9-8f39-e63ea6cd4b9e",
-      "seen_at": "2026-08-04T07:18:34.569799+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668701361741007109",
-      "seen_at": "2026-08-04T07:18:34.569948+00:00"
-    },
-    {
-      "id": "simplify-89d6d565-8e62-4d80-8a57-4febe3548501",
-      "seen_at": "2026-08-04T07:18:34.570082+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668663594419374341",
-      "seen_at": "2026-08-04T07:18:34.570219+00:00"
-    },
-    {
-      "id": "simplify-674e67ef-7ad8-486e-9f4c-f82c982d003c",
-      "seen_at": "2026-08-04T07:18:34.570373+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668557209047894325",
-      "seen_at": "2026-08-04T07:18:34.570518+00:00"
-    },
-    {
-      "id": "simplify-43cac478-76b4-4968-9ede-e3293fd02c28",
-      "seen_at": "2026-08-04T07:18:34.570687+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668569995571726597",
-      "seen_at": "2026-08-04T07:18:34.570827+00:00"
-    },
-    {
-      "id": "simplify-fa833b4d-22a1-41d9-b0cf-9ae746021d98",
-      "seen_at": "2026-08-04T07:18:34.570970+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668855346857019701",
-      "seen_at": "2026-08-04T07:18:34.571098+00:00"
-    },
-    {
-      "id": "simplify-bdc01603-d301-4eaa-9792-9a044f50c4a5",
-      "seen_at": "2026-08-04T07:18:34.571233+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668838052657678597",
-      "seen_at": "2026-08-04T07:18:34.571379+00:00"
-    },
-    {
-      "id": "simplify-63b734f3-ef25-4f57-bf17-32b0036f8b43",
-      "seen_at": "2026-08-04T07:18:34.571526+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7669709290431236357",
-      "seen_at": "2026-08-04T07:18:34.571673+00:00"
-    },
-    {
-      "id": "simplify-0e9e78f5-653e-4e42-bda0-7183bbd7045a",
-      "seen_at": "2026-08-04T07:18:34.571809+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7669698543896054069",
-      "seen_at": "2026-08-04T07:18:34.571934+00:00"
-    },
-    {
-      "id": "simplify-46575741-75da-4faf-bcef-a1e47eb90fd2",
-      "seen_at": "2026-08-04T07:18:34.572066+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7668879883938203957",
-      "seen_at": "2026-08-04T07:18:34.572190+00:00"
-    },
-    {
-      "id": "simplify-0e90651f-2008-4290-b336-a660bb4398af",
-      "seen_at": "2026-08-04T07:18:34.572319+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7669702699627661573",
-      "seen_at": "2026-08-04T07:18:34.572442+00:00"
-    },
-    {
       "id": "simplify-708992c3-129c-4bbd-9c10-a0ae59f29fd2",
       "seen_at": "2026-08-04T10:02:14.776420+00:00"
     },
@@ -30675,48 +30399,460 @@
     {
       "id": "url:https://careers.rivian.com/jobs/30795",
       "seen_at": "2026-09-03T04:12:51.454486+00:00"
+    },
+    {
+      "id": "simplify-f4b5ad30-b50a-410a-bf80-36fad0275497",
+      "seen_at": "2026-09-03T08:59:13.008896+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2/application",
+      "seen_at": "2026-09-03T08:59:13.009434+00:00"
+    },
+    {
+      "id": "simplify-6f3a77be-dd63-4de2-a8dd-80babbfaecac",
+      "seen_at": "2026-09-03T08:59:13.009910+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b/application",
+      "seen_at": "2026-09-03T08:59:13.010361+00:00"
+    },
+    {
+      "id": "simplify-eb02dd97-b6c6-4dbc-94d3-d7db278bf381",
+      "seen_at": "2026-09-03T08:59:13.010827+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/4966/job",
+      "seen_at": "2026-09-03T08:59:13.011277+00:00"
+    },
+    {
+      "id": "simplify-de7763b4-1647-4cc9-8b46-9c559a58c510",
+      "seen_at": "2026-09-03T08:59:13.011738+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/4960/job",
+      "seen_at": "2026-09-03T08:59:13.012325+00:00"
+    },
+    {
+      "id": "simplify-fa0384db-18b6-4394-a8d1-afd89c2d9fc4",
+      "seen_at": "2026-09-03T08:59:13.012918+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/4955/job",
+      "seen_at": "2026-09-03T08:59:13.013381+00:00"
+    },
+    {
+      "id": "simplify-aad50edd-1a3f-41b5-b3c1-d444e1c77fa0",
+      "seen_at": "2026-09-03T08:59:13.013863+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/4971/job",
+      "seen_at": "2026-09-03T08:59:13.014304+00:00"
+    },
+    {
+      "id": "simplify-62b070f3-36f8-45af-8694-3c1417f363aa",
+      "seen_at": "2026-09-03T08:59:13.014764+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/4982/job",
+      "seen_at": "2026-09-03T08:59:13.015210+00:00"
+    },
+    {
+      "id": "simplify-1d106df7-acfd-4514-9ccd-c00e9d70d3d9",
+      "seen_at": "2026-09-03T08:59:13.015668+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/4995/job",
+      "seen_at": "2026-09-03T08:59:13.016113+00:00"
+    },
+    {
+      "id": "simplify-d9dfbdc8-c094-4676-99ce-4f1cb9346b62",
+      "seen_at": "2026-09-03T08:59:13.016640+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/4976/job",
+      "seen_at": "2026-09-03T08:59:13.017087+00:00"
+    },
+    {
+      "id": "simplify-9a6bfc62-3b30-4eb9-ae60-710c5f62d722",
+      "seen_at": "2026-09-03T08:59:13.017549+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/5020/job",
+      "seen_at": "2026-09-03T08:59:13.017992+00:00"
+    },
+    {
+      "id": "simplify-80bc2f39-e660-4691-aa38-68acbd7b9e84",
+      "seen_at": "2026-09-03T08:59:13.018453+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/4996/job",
+      "seen_at": "2026-09-03T08:59:13.018896+00:00"
+    },
+    {
+      "id": "simplify-10891019-b6b2-42dd-acd2-980b3b6cd2dc",
+      "seen_at": "2026-09-03T08:59:13.019338+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/4973/job",
+      "seen_at": "2026-09-03T08:59:13.019790+00:00"
+    },
+    {
+      "id": "simplify-052aae75-1cb8-41e7-9062-f49eac2a2fd6",
+      "seen_at": "2026-09-03T08:59:13.020231+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/4964/job",
+      "seen_at": "2026-09-03T08:59:13.020683+00:00"
+    },
+    {
+      "id": "simplify-27e893cb-896a-4fd1-805b-a43fbb5f89f9",
+      "seen_at": "2026-09-03T08:59:13.021123+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/5017/job",
+      "seen_at": "2026-09-03T08:59:13.021575+00:00"
+    },
+    {
+      "id": "simplify-acb5e18d-829f-4144-8ea5-fca50848a80b",
+      "seen_at": "2026-09-03T08:59:13.022031+00:00"
+    },
+    {
+      "id": "url:https://careers.amd.com/jobs/90743",
+      "seen_at": "2026-09-03T08:59:13.022485+00:00"
+    },
+    {
+      "id": "simplify-003db965-cd46-4168-86e9-a83f8b4fa825",
+      "seen_at": "2026-09-03T08:59:13.022925+00:00"
+    },
+    {
+      "id": "url:https://careers.amd.com/jobs/90745",
+      "seen_at": "2026-09-03T08:59:13.023364+00:00"
+    },
+    {
+      "id": "simplify-6e3c0adb-d5a0-4338-84f4-8952eff0c717",
+      "seen_at": "2026-09-03T08:59:13.023818+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/282227",
+      "seen_at": "2026-09-03T08:59:13.024257+00:00"
+    },
+    {
+      "id": "simplify-426b172d-0484-4838-80d6-08e3d84a357e",
+      "seen_at": "2026-09-03T08:59:13.024715+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/282241",
+      "seen_at": "2026-09-03T08:59:13.025176+00:00"
+    },
+    {
+      "id": "simplify-e4814955-4e90-400b-9335-a3ab04843a7b",
+      "seen_at": "2026-09-03T08:59:13.025631+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/282242",
+      "seen_at": "2026-09-03T08:59:13.026072+00:00"
+    },
+    {
+      "id": "simplify-4866cbcf-d67b-4afa-b4df-3d028fbae980",
+      "seen_at": "2026-09-03T08:59:13.026525+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/282248",
+      "seen_at": "2026-09-03T08:59:13.026964+00:00"
+    },
+    {
+      "id": "simplify-e6cdaee5-3eef-435f-bda6-5a0850011909",
+      "seen_at": "2026-09-03T08:59:13.027420+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200681368",
+      "seen_at": "2026-09-03T08:59:13.027859+00:00"
+    },
+    {
+      "id": "simplify-43841eec-e864-4974-9040-b082631ecd4c",
+      "seen_at": "2026-09-03T08:59:13.028301+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/282291",
+      "seen_at": "2026-09-03T08:59:13.028757+00:00"
+    },
+    {
+      "id": "simplify-de8cb307-6829-4afa-8e31-0fefe60818e7",
+      "seen_at": "2026-09-03T08:59:13.029224+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/282303",
+      "seen_at": "2026-09-03T08:59:13.029696+00:00"
+    },
+    {
+      "id": "simplify-d9696ea6-f208-467f-a8df-f2c2afb5b120",
+      "seen_at": "2026-09-03T08:59:13.030149+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584/application",
+      "seen_at": "2026-09-03T08:59:13.030629+00:00"
+    },
+    {
+      "id": "simplify-ad9376a4-7196-4ce6-a3b4-e88763b96811",
+      "seen_at": "2026-09-03T08:59:13.031081+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application",
+      "seen_at": "2026-09-03T08:59:13.031554+00:00"
+    },
+    {
+      "id": "simplify-8028ea71-392c-4173-9d2a-1dc31c5a4571",
+      "seen_at": "2026-09-03T08:59:13.032153+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application",
+      "seen_at": "2026-09-03T08:59:13.032633+00:00"
+    },
+    {
+      "id": "simplify-3fe64406-339f-454d-9e28-25a6d610d285",
+      "seen_at": "2026-09-03T08:59:13.033094+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/lunarenergy/jobs/6179736004",
+      "seen_at": "2026-09-03T08:59:13.033558+00:00"
+    },
+    {
+      "id": "simplify-7a74c2ea-0373-4933-9cde-8b4f1a84218e",
+      "seen_at": "2026-09-03T08:59:13.034007+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017546",
+      "seen_at": "2026-09-03T08:59:13.034465+00:00"
+    },
+    {
+      "id": "simplify-a8c72548-3b4a-47dd-aafb-2bd8ec5524d5",
+      "seen_at": "2026-09-03T08:59:13.034911+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017545",
+      "seen_at": "2026-09-03T08:59:13.035358+00:00"
+    },
+    {
+      "id": "simplify-a4885be4-c0d8-4714-bec6-11f1d0d763de",
+      "seen_at": "2026-09-03T08:59:13.035818+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017544",
+      "seen_at": "2026-09-03T08:59:13.036265+00:00"
+    },
+    {
+      "id": "simplify-9b863925-a24a-403b-982f-18403d027333",
+      "seen_at": "2026-09-03T08:59:13.036756+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017543",
+      "seen_at": "2026-09-03T08:59:13.037236+00:00"
+    },
+    {
+      "id": "simplify-599825f7-b453-45b1-870a-8ab037aefcb2",
+      "seen_at": "2026-09-03T08:59:13.037715+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017571",
+      "seen_at": "2026-09-03T08:59:13.038164+00:00"
+    },
+    {
+      "id": "simplify-25a04e72-1703-4ff5-ace6-4fe2129f5b27",
+      "seen_at": "2026-09-03T08:59:13.038625+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017547",
+      "seen_at": "2026-09-03T08:59:13.039071+00:00"
+    },
+    {
+      "id": "simplify-00a52ad4-067c-472b-a535-cacfc706483d",
+      "seen_at": "2026-09-03T08:59:13.039530+00:00"
+    },
+    {
+      "id": "url:https://careers.jhuapl.edu/jobs/59784",
+      "seen_at": "2026-09-03T08:59:13.039974+00:00"
+    },
+    {
+      "id": "simplify-031c6b44-ce56-408c-81b2-2f6074c1d1dd",
+      "seen_at": "2026-09-03T08:59:13.040445+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017548",
+      "seen_at": "2026-09-03T08:59:13.040892+00:00"
+    },
+    {
+      "id": "simplify-0eb42ce5-1545-42e1-b143-30809529deb0",
+      "seen_at": "2026-09-03T08:59:13.041342+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017568",
+      "seen_at": "2026-09-03T08:59:13.041804+00:00"
+    },
+    {
+      "id": "simplify-757e2c6b-9fbc-4427-862d-f87a0382bea0",
+      "seen_at": "2026-09-03T08:59:13.042264+00:00"
+    },
+    {
+      "id": "url:https://www.tesla.com/careers/search/job/281100",
+      "seen_at": "2026-09-03T08:59:13.042720+00:00"
+    },
+    {
+      "id": "simplify-7c176f66-e486-46f0-b9c9-5b651e4cf7cc",
+      "seen_at": "2026-09-03T08:59:13.043164+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application",
+      "seen_at": "2026-09-03T08:59:13.043633+00:00"
+    },
+    {
+      "id": "simplify-30c22ab2-c292-4f03-b2d9-800af01e875b",
+      "seen_at": "2026-09-03T08:59:17.642513+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/4990/job",
+      "seen_at": "2026-09-03T08:59:17.643027+00:00"
+    },
+    {
+      "id": "simplify-645b61ea-3bc4-432f-86af-7f6909ed5656",
+      "seen_at": "2026-09-03T08:59:17.643505+00:00"
+    },
+    {
+      "id": "url:https://careersus-shure.icims.com/jobs/5024/job",
+      "seen_at": "2026-09-03T08:59:17.643953+00:00"
+    },
+    {
+      "id": "simplify-82b82765-ac44-4015-94fc-97d512495e37",
+      "seen_at": "2026-09-03T08:59:17.644409+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7677493272788683013",
+      "seen_at": "2026-09-03T08:59:17.644849+00:00"
+    },
+    {
+      "id": "simplify-45f530d7-4c78-4402-8da1-8e54f5c4a245",
+      "seen_at": "2026-09-03T08:59:17.645288+00:00"
+    },
+    {
+      "id": "url:https://careers.roblox.com/jobs/8143981",
+      "seen_at": "2026-09-03T08:59:17.645742+00:00"
+    },
+    {
+      "id": "simplify-face01f2-48c1-40a1-a54e-8cff911ad58d",
+      "seen_at": "2026-09-03T08:59:17.646179+00:00"
+    },
+    {
+      "id": "url:https://careers.roblox.com/jobs/8143976",
+      "seen_at": "2026-09-03T08:59:17.646645+00:00"
+    },
+    {
+      "id": "simplify-4e7aba31-7df3-4efb-88c6-0121f6b68e6b",
+      "seen_at": "2026-09-03T08:59:29.280650+00:00"
+    },
+    {
+      "id": "url:https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10730",
+      "seen_at": "2026-09-03T08:59:29.281217+00:00"
+    },
+    {
+      "id": "simplify-f65480d4-ea80-40b5-8df9-f91ba3d8d535",
+      "seen_at": "2026-09-03T08:59:29.281766+00:00"
+    },
+    {
+      "id": "url:https://careers.viasat.com/jobs/6330",
+      "seen_at": "2026-09-03T08:59:29.282252+00:00"
+    },
+    {
+      "id": "simplify-551ab6e9-715d-4111-9de9-e888a5dd2718",
+      "seen_at": "2026-09-03T08:59:29.282747+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/andurilindustries/jobs/5228868007",
+      "seen_at": "2026-09-03T08:59:29.283219+00:00"
+    },
+    {
+      "id": "simplify-f4f63dfa-3cc3-4d63-bbe5-da2f63af5c94",
+      "seen_at": "2026-09-03T08:59:29.283708+00:00"
+    },
+    {
+      "id": "url:https://ats.rippling.com/lyte/jobs/6136b8d2-90a9-449e-94b2-716f30cf8e3a",
+      "seen_at": "2026-09-03T08:59:29.284179+00:00"
+    },
+    {
+      "id": "simplify-b70dd956-6085-4758-b5b8-1a3509421369",
+      "seen_at": "2026-09-03T08:59:29.284694+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application",
+      "seen_at": "2026-09-03T08:59:29.285168+00:00"
+    },
+    {
+      "id": "simplify-dd719782-2aa3-4a4b-831e-f3da699bf6a4",
+      "seen_at": "2026-09-03T08:59:29.285663+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847/application",
+      "seen_at": "2026-09-03T08:59:29.286135+00:00"
+    },
+    {
+      "id": "simplify-d9ab191f-a642-4db2-9b5d-d6e566d0a2b8",
+      "seen_at": "2026-09-03T08:59:29.286623+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application",
+      "seen_at": "2026-09-03T08:59:29.287094+00:00"
+    },
+    {
+      "id": "simplify-aaa3bc85-9d65-4c72-a3c0-656079d3aa4a",
+      "seen_at": "2026-09-03T08:59:29.287578+00:00"
+    },
+    {
+      "id": "url:https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000",
+      "seen_at": "2026-09-03T08:59:29.288050+00:00"
+    },
+    {
+      "id": "simplify-a929f668-d453-4ef2-9df1-9e972f0cfaa0",
+      "seen_at": "2026-09-03T08:59:29.288553+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017549",
+      "seen_at": "2026-09-03T08:59:29.289052+00:00"
+    },
+    {
+      "id": "simplify-47d45e6e-d2b7-40ad-a60d-8da2b1effc44",
+      "seen_at": "2026-09-03T08:59:29.289558+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017551",
+      "seen_at": "2026-09-03T08:59:29.290037+00:00"
+    },
+    {
+      "id": "simplify-988e5175-a56f-4c3a-b1d9-3a643a63a503",
+      "seen_at": "2026-09-03T08:59:29.290530+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application",
+      "seen_at": "2026-09-03T08:59:29.291001+00:00"
+    },
+    {
+      "id": "simplify-894eb687-31ed-49f7-86c8-228331a4c092",
+      "seen_at": "2026-09-03T08:59:29.291490+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application",
+      "seen_at": "2026-09-03T08:59:29.291965+00:00"
+    },
+    {
+      "id": "ashby-openai-d2aad13c-6ed0-4905-ae12-8ea2397b190c",
+      "seen_at": "2026-09-03T08:59:29.292453+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c",
+      "seen_at": "2026-09-03T08:59:29.292925+00:00"
     }
   ],
-  "last_run": "2026-09-03T04:12:51.780960+00:00",
-  "total_notified": 4472,
+  "last_run": "2026-09-03T08:59:29.562826+00:00",
+  "total_notified": 4515,
   "channels": {
     "swe-jobs": [
-      "simplify-dc98760f-d794-4d68-be4d-5639d2bcf3f3",
-      "url:https://www.tesla.com/careers/search/job/278620",
-      "simplify-4afc774c-1a8c-44d6-b0c6-ebae36dfd0b9",
-      "url:https://www.tesla.com/careers/search/job/278622",
-      "simplify-25286ad8-8260-4a0d-9ab1-89a677c29b20",
-      "url:https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "simplify-4fa5508b-be5b-43c6-8651-fcb4753d6e99",
-      "url:https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "simplify-b412b084-36e9-45e2-b3a0-561c4336e62e",
-      "url:https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "simplify-ed31bd8d-9acf-436c-9628-1d4c79959bac",
-      "url:https://apply.careers.microsoft.com/careers/job/1970393556922922",
-      "simplify-7e143f06-1c28-41b7-9291-53a869d86325",
-      "url:https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "simplify-f51e897f-3776-452b-9c35-46c88e0185ae",
-      "url:https://lifeattiktok.com/search/7668381860191734021",
-      "simplify-8b95003b-f01d-4d6b-a4d2-1e4c6d890df5",
-      "url:https://lifeattiktok.com/search/7669711844487399685",
-      "simplify-6f9b09ce-ac3f-47ef-9225-03bace1084c7",
-      "url:https://lifeattiktok.com/search/7668379675467761925",
-      "simplify-4ef18c97-61e7-45fb-96b5-55d9163a1786",
-      "url:https://lifeattiktok.com/search/7668725183121000757",
-      "simplify-04eb8758-e0be-4ae4-aca7-40e1626d3e24",
-      "url:https://lifeattiktok.com/search/7667935633764370741",
-      "simplify-b8f5c841-1a67-4b15-bb05-70d871b0ab77",
-      "url:https://lifeattiktok.com/search/7668834837268138293",
-      "simplify-b1a212f9-bfdc-4a20-bc91-e34800cb57f6",
-      "url:https://lifeattiktok.com/search/7669702702763018501",
-      "simplify-6fa46b99-9c48-44b2-8d38-e17ef2651837",
-      "url:https://lifeattiktok.com/search/7669705785962727733",
-      "simplify-44dacd86-f76d-414d-9cb5-9dd6a0211b2d",
-      "url:https://lifeattiktok.com/search/7669700361976809733",
-      "simplify-1b288e59-0885-4ce7-bd60-b7cdda93c8bc",
-      "url:https://lifeattiktok.com/search/7668921505254410549",
-      "simplify-08be4cf5-fcc4-47ed-82fc-2dc64c84d1b4",
-      "url:https://lifeattiktok.com/search/7668834837268416821",
       "simplify-708992c3-129c-4bbd-9c10-a0ae59f29fd2",
       "url:https://lifeattiktok.com/search/7669693163422845237",
       "simplify-a355430e-bb97-47ee-9229-434cec3e3a6c",
@@ -32803,12 +32939,85 @@
       "simplify-4d6c1aee-d6d2-466a-8c2b-c74c48746c43",
       "url:https://jobs.ashbyhq.com/armadin/65b0796c-7490-4f92-91aa-5240b65e5211/application",
       "simplify-98621c93-f516-46e0-8eda-22230c879010",
-      "url:https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400"
+      "url:https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400",
+      "simplify-f4b5ad30-b50a-410a-bf80-36fad0275497",
+      "url:https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2/application",
+      "simplify-6f3a77be-dd63-4de2-a8dd-80babbfaecac",
+      "url:https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b/application",
+      "simplify-eb02dd97-b6c6-4dbc-94d3-d7db278bf381",
+      "url:https://careersus-shure.icims.com/jobs/4966/job",
+      "simplify-de7763b4-1647-4cc9-8b46-9c559a58c510",
+      "url:https://careersus-shure.icims.com/jobs/4960/job",
+      "simplify-fa0384db-18b6-4394-a8d1-afd89c2d9fc4",
+      "url:https://careersus-shure.icims.com/jobs/4955/job",
+      "simplify-aad50edd-1a3f-41b5-b3c1-d444e1c77fa0",
+      "url:https://careersus-shure.icims.com/jobs/4971/job",
+      "simplify-62b070f3-36f8-45af-8694-3c1417f363aa",
+      "url:https://careersus-shure.icims.com/jobs/4982/job",
+      "simplify-1d106df7-acfd-4514-9ccd-c00e9d70d3d9",
+      "url:https://careersus-shure.icims.com/jobs/4995/job",
+      "simplify-d9dfbdc8-c094-4676-99ce-4f1cb9346b62",
+      "url:https://careersus-shure.icims.com/jobs/4976/job",
+      "simplify-9a6bfc62-3b30-4eb9-ae60-710c5f62d722",
+      "url:https://careersus-shure.icims.com/jobs/5020/job",
+      "simplify-80bc2f39-e660-4691-aa38-68acbd7b9e84",
+      "url:https://careersus-shure.icims.com/jobs/4996/job",
+      "simplify-10891019-b6b2-42dd-acd2-980b3b6cd2dc",
+      "url:https://careersus-shure.icims.com/jobs/4973/job",
+      "simplify-052aae75-1cb8-41e7-9062-f49eac2a2fd6",
+      "url:https://careersus-shure.icims.com/jobs/4964/job",
+      "simplify-27e893cb-896a-4fd1-805b-a43fbb5f89f9",
+      "url:https://careersus-shure.icims.com/jobs/5017/job",
+      "simplify-acb5e18d-829f-4144-8ea5-fca50848a80b",
+      "url:https://careers.amd.com/jobs/90743",
+      "simplify-003db965-cd46-4168-86e9-a83f8b4fa825",
+      "url:https://careers.amd.com/jobs/90745",
+      "simplify-6e3c0adb-d5a0-4338-84f4-8952eff0c717",
+      "url:https://www.tesla.com/careers/search/job/282227",
+      "simplify-426b172d-0484-4838-80d6-08e3d84a357e",
+      "url:https://www.tesla.com/careers/search/job/282241",
+      "simplify-e4814955-4e90-400b-9335-a3ab04843a7b",
+      "url:https://www.tesla.com/careers/search/job/282242",
+      "simplify-4866cbcf-d67b-4afa-b4df-3d028fbae980",
+      "url:https://www.tesla.com/careers/search/job/282248",
+      "simplify-e6cdaee5-3eef-435f-bda6-5a0850011909",
+      "url:https://jobs.apple.com/en-us/details/200681368",
+      "simplify-43841eec-e864-4974-9040-b082631ecd4c",
+      "url:https://www.tesla.com/careers/search/job/282291",
+      "simplify-de8cb307-6829-4afa-8e31-0fefe60818e7",
+      "url:https://www.tesla.com/careers/search/job/282303",
+      "simplify-d9696ea6-f208-467f-a8df-f2c2afb5b120",
+      "url:https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584/application",
+      "simplify-ad9376a4-7196-4ce6-a3b4-e88763b96811",
+      "url:https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application",
+      "simplify-8028ea71-392c-4173-9d2a-1dc31c5a4571",
+      "url:https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application",
+      "simplify-3fe64406-339f-454d-9e28-25a6d610d285",
+      "url:https://job-boards.greenhouse.io/lunarenergy/jobs/6179736004",
+      "simplify-7a74c2ea-0373-4933-9cde-8b4f1a84218e",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017546",
+      "simplify-a8c72548-3b4a-47dd-aafb-2bd8ec5524d5",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017545",
+      "simplify-a4885be4-c0d8-4714-bec6-11f1d0d763de",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017544",
+      "simplify-9b863925-a24a-403b-982f-18403d027333",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017543",
+      "simplify-599825f7-b453-45b1-870a-8ab037aefcb2",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017571",
+      "simplify-25a04e72-1703-4ff5-ace6-4fe2129f5b27",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017547",
+      "simplify-00a52ad4-067c-472b-a535-cacfc706483d",
+      "url:https://careers.jhuapl.edu/jobs/59784",
+      "simplify-031c6b44-ce56-408c-81b2-2f6074c1d1dd",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017548",
+      "simplify-0eb42ce5-1545-42e1-b143-30809529deb0",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017568",
+      "simplify-757e2c6b-9fbc-4427-862d-f87a0382bea0",
+      "url:https://www.tesla.com/careers/search/job/281100",
+      "simplify-7c176f66-e486-46f0-b9c9-5b651e4cf7cc",
+      "url:https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application"
     ],
     "pm-jobs": [
-      "simplify-7aa9448f-c028-4566-8078-45d402ca4ffe",
-      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
-      "hn-49164297",
       "simplify-14af9b4a-6b3e-473b-844f-542a89afb184",
       "url:https://lifeattiktok.com/search/7667874197682899205",
       "simplify-8bc8874a-e4e7-4cc8-ba27-aa5854cba4d6",
@@ -33856,39 +34065,19 @@
       "ashby-openai-58c28108-5bc6-449d-8461-9274f5abd7e6",
       "url:https://jobs.ashbyhq.com/openai/58c28108-5bc6-449d-8461-9274f5abd7e6",
       "ashby-openai-ad958934-fd89-4033-8b13-1a4871d8073c",
-      "url:https://jobs.ashbyhq.com/openai/ad958934-fd89-4033-8b13-1a4871d8073c"
+      "url:https://jobs.ashbyhq.com/openai/ad958934-fd89-4033-8b13-1a4871d8073c",
+      "simplify-30c22ab2-c292-4f03-b2d9-800af01e875b",
+      "url:https://careersus-shure.icims.com/jobs/4990/job",
+      "simplify-645b61ea-3bc4-432f-86af-7f6909ed5656",
+      "url:https://careersus-shure.icims.com/jobs/5024/job",
+      "simplify-82b82765-ac44-4015-94fc-97d512495e37",
+      "url:https://lifeattiktok.com/search/7677493272788683013",
+      "simplify-45f530d7-4c78-4402-8da1-8e54f5c4a245",
+      "url:https://careers.roblox.com/jobs/8143981",
+      "simplify-face01f2-48c1-40a1-a54e-8cff911ad58d",
+      "url:https://careers.roblox.com/jobs/8143976"
     ],
     "swe-ai-full-time": [
-      "greenhouse-airbnb-8037090",
-      "url:https://careers.airbnb.com/positions/8037090",
-      "ashby-openai-d2aad13c-6ed0-4905-ae12-8ea2397b190c",
-      "url:https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c",
-      "simplify-d7cdec21-1d63-46c8-8dee-3c6968019ca3",
-      "url:https://jobs.apple.com/en-us/details/200660851",
-      "simplify-7cf90be5-721e-4501-ae56-97684360dd1c",
-      "url:https://lifeattiktok.com/search/7668561079544154373",
-      "simplify-c4828318-4268-4f55-b12e-3ffd6f7daa6b",
-      "url:https://lifeattiktok.com/search/7668384123840514309",
-      "simplify-c78d4a32-8ee7-49e9-8f39-e63ea6cd4b9e",
-      "url:https://lifeattiktok.com/search/7668701361741007109",
-      "simplify-89d6d565-8e62-4d80-8a57-4febe3548501",
-      "url:https://lifeattiktok.com/search/7668663594419374341",
-      "simplify-674e67ef-7ad8-486e-9f4c-f82c982d003c",
-      "url:https://lifeattiktok.com/search/7668557209047894325",
-      "simplify-43cac478-76b4-4968-9ede-e3293fd02c28",
-      "url:https://lifeattiktok.com/search/7668569995571726597",
-      "simplify-fa833b4d-22a1-41d9-b0cf-9ae746021d98",
-      "url:https://lifeattiktok.com/search/7668855346857019701",
-      "simplify-bdc01603-d301-4eaa-9792-9a044f50c4a5",
-      "url:https://lifeattiktok.com/search/7668838052657678597",
-      "simplify-63b734f3-ef25-4f57-bf17-32b0036f8b43",
-      "url:https://lifeattiktok.com/search/7669709290431236357",
-      "simplify-0e9e78f5-653e-4e42-bda0-7183bbd7045a",
-      "url:https://lifeattiktok.com/search/7669698543896054069",
-      "simplify-46575741-75da-4faf-bcef-a1e47eb90fd2",
-      "url:https://lifeattiktok.com/search/7668879883938203957",
-      "simplify-0e90651f-2008-4290-b336-a660bb4398af",
-      "url:https://lifeattiktok.com/search/7669702699627661573",
       "simplify-a9413073-fe48-40e8-acab-c3106fc3d9a7",
       "url:https://lifeattiktok.com/search/7668550561096665397",
       "simplify-e2a3239b-97ee-4566-ac2b-764e100bcfc7",
@@ -38378,7 +38567,33 @@
       "simplify-d7ff0340-92fe-4508-b930-cd88bf08f010",
       "url:https://careers.jhuapl.edu/jobs/59882",
       "simplify-5c9bd73e-6b9a-47ce-ac2f-8fc9d5d38bf7",
-      "url:https://careers.rivian.com/jobs/30795"
+      "url:https://careers.rivian.com/jobs/30795",
+      "simplify-4e7aba31-7df3-4efb-88c6-0121f6b68e6b",
+      "url:https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10730",
+      "simplify-f65480d4-ea80-40b5-8df9-f91ba3d8d535",
+      "url:https://careers.viasat.com/jobs/6330",
+      "simplify-551ab6e9-715d-4111-9de9-e888a5dd2718",
+      "url:https://boards.greenhouse.io/andurilindustries/jobs/5228868007",
+      "simplify-f4f63dfa-3cc3-4d63-bbe5-da2f63af5c94",
+      "url:https://ats.rippling.com/lyte/jobs/6136b8d2-90a9-449e-94b2-716f30cf8e3a",
+      "simplify-b70dd956-6085-4758-b5b8-1a3509421369",
+      "url:https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application",
+      "simplify-dd719782-2aa3-4a4b-831e-f3da699bf6a4",
+      "url:https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847/application",
+      "simplify-d9ab191f-a642-4db2-9b5d-d6e566d0a2b8",
+      "url:https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application",
+      "simplify-aaa3bc85-9d65-4c72-a3c0-656079d3aa4a",
+      "url:https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000",
+      "simplify-a929f668-d453-4ef2-9df1-9e972f0cfaa0",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017549",
+      "simplify-47d45e6e-d2b7-40ad-a60d-8da2b1effc44",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017551",
+      "simplify-988e5175-a56f-4c3a-b1d9-3a643a63a503",
+      "url:https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application",
+      "simplify-894eb687-31ed-49f7-86c8-228331a4c092",
+      "url:https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application",
+      "ashby-openai-d2aad13c-6ed0-4905-ae12-8ea2397b190c",
+      "url:https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c"
     ]
   }
 }
