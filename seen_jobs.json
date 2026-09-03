@@ -30659,10 +30659,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/c442eab0-b8b4-40f6-b0f2-0fc91aea294a",
       "seen_at": "2026-09-03T00:03:02.939069+00:00"
+    },
+    {
+      "id": "simplify-d7ff0340-92fe-4508-b930-cd88bf08f010",
+      "seen_at": "2026-09-03T04:12:51.452863+00:00"
+    },
+    {
+      "id": "url:https://careers.jhuapl.edu/jobs/59882",
+      "seen_at": "2026-09-03T04:12:51.453445+00:00"
+    },
+    {
+      "id": "simplify-5c9bd73e-6b9a-47ce-ac2f-8fc9d5d38bf7",
+      "seen_at": "2026-09-03T04:12:51.453982+00:00"
+    },
+    {
+      "id": "url:https://careers.rivian.com/jobs/30795",
+      "seen_at": "2026-09-03T04:12:51.454486+00:00"
     }
   ],
-  "last_run": "2026-09-03T00:03:03.379024+00:00",
-  "total_notified": 4470,
+  "last_run": "2026-09-03T04:12:51.780960+00:00",
+  "total_notified": 4472,
   "channels": {
     "swe-jobs": [
       "simplify-dc98760f-d794-4d68-be4d-5639d2bcf3f3",
@@ -38358,7 +38374,11 @@
       "ashby-openai-1bf678c5-1058-45ca-b9bd-b0029fccd60e",
       "url:https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e",
       "ashby-openai-c442eab0-b8b4-40f6-b0f2-0fc91aea294a",
-      "url:https://jobs.ashbyhq.com/openai/c442eab0-b8b4-40f6-b0f2-0fc91aea294a"
+      "url:https://jobs.ashbyhq.com/openai/c442eab0-b8b4-40f6-b0f2-0fc91aea294a",
+      "simplify-d7ff0340-92fe-4508-b930-cd88bf08f010",
+      "url:https://careers.jhuapl.edu/jobs/59882",
+      "simplify-5c9bd73e-6b9a-47ce-ac2f-8fc9d5d38bf7",
+      "url:https://careers.rivian.com/jobs/30795"
     ]
   }
 }
