@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-airbnb-8096359",
-      "seen_at": "2026-08-04T20:00:31.141521+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8096359",
-      "seen_at": "2026-08-04T20:00:31.141768+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-7905365",
-      "seen_at": "2026-08-04T21:21:12.256354+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/7905365",
-      "seen_at": "2026-08-04T21:21:12.256577+00:00"
-    },
-    {
       "id": "simplify-cbd56b83-ba52-4c04-b781-d4ae5e585151",
       "seen_at": "2026-08-04T22:32:03.343905+00:00"
     },
@@ -30607,10 +30591,42 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3",
       "seen_at": "2026-09-03T19:54:57.652579+00:00"
+    },
+    {
+      "id": "jobright-b39fea3d403f",
+      "seen_at": "2026-09-03T22:29:35.431817+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a99ca5490a313642c652ccd",
+      "seen_at": "2026-09-03T22:29:35.432374+00:00"
+    },
+    {
+      "id": "jobright-f96380080586",
+      "seen_at": "2026-09-03T22:29:35.432832+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a960a839fcec544237310fa",
+      "seen_at": "2026-09-03T22:29:35.433315+00:00"
+    },
+    {
+      "id": "ashby-openai-0a7f5df1-f5aa-4df6-98a8-5afbc660782b",
+      "seen_at": "2026-09-03T22:29:35.433761+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/0a7f5df1-f5aa-4df6-98a8-5afbc660782b",
+      "seen_at": "2026-09-03T22:29:35.434218+00:00"
+    },
+    {
+      "id": "ashby-openai-4d1ede8c-3d4c-4503-8408-81e4b68c5c91",
+      "seen_at": "2026-09-03T22:29:36.806973+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/4d1ede8c-3d4c-4503-8408-81e4b68c5c91",
+      "seen_at": "2026-09-03T22:29:36.807584+00:00"
     }
   ],
-  "last_run": "2026-09-03T19:54:57.922729+00:00",
-  "total_notified": 4537,
+  "last_run": "2026-09-03T22:29:37.083280+00:00",
+  "total_notified": 4541,
   "channels": {
     "swe-jobs": [
       "simplify-cbd56b83-ba52-4c04-b781-d4ae5e585151",
@@ -32758,10 +32774,6 @@
       "url:https://jobright.ai/jobs/info/6a996dffad752e2ad54ff795"
     ],
     "pm-jobs": [
-      "greenhouse-airbnb-8096359",
-      "url:https://careers.airbnb.com/positions/8096359",
-      "greenhouse-airbnb-7905365",
-      "url:https://careers.airbnb.com/positions/7905365",
       "simplify-fb262cfb-af24-408e-8846-460fd50a2727",
       "url:https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Remote---Remote/Insurance-Product-Management-Consultant-I_R33266",
       "simplify-f7298edb-1fb0-4e58-bc88-d30b54d9deea",
@@ -33831,7 +33843,13 @@
       "jobright-9814767b1e71",
       "url:https://jobright.ai/jobs/info/6a99b9f68a8b765bc55f50f3",
       "greenhouse-figma-6179155004",
-      "url:https://boards.greenhouse.io/figma/jobs/6179155004"
+      "url:https://boards.greenhouse.io/figma/jobs/6179155004",
+      "jobright-b39fea3d403f",
+      "url:https://jobright.ai/jobs/info/6a99ca5490a313642c652ccd",
+      "jobright-f96380080586",
+      "url:https://jobright.ai/jobs/info/6a960a839fcec544237310fa",
+      "ashby-openai-0a7f5df1-f5aa-4df6-98a8-5afbc660782b",
+      "url:https://jobs.ashbyhq.com/openai/0a7f5df1-f5aa-4df6-98a8-5afbc660782b"
     ],
     "swe-ai-full-time": [
       "greenhouse-anthropic-4926242008",
@@ -38295,7 +38313,9 @@
       "ashby-openai-6cf91ff5-a811-435c-bf93-f3d958896599",
       "url:https://jobs.ashbyhq.com/openai/6cf91ff5-a811-435c-bf93-f3d958896599",
       "ashby-openai-1098311d-3a07-40ad-8107-6245a492a0b3",
-      "url:https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3"
+      "url:https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3",
+      "ashby-openai-4d1ede8c-3d4c-4503-8408-81e4b68c5c91",
+      "url:https://jobs.ashbyhq.com/openai/4d1ede8c-3d4c-4503-8408-81e4b68c5c91"
     ]
   }
 }
