@@ -2,9 +2,6 @@ import unittest
 from unittest.mock import AsyncMock, patch, MagicMock
 import sys
 
-# Mock dependencies
-sys.modules["httpx"] = MagicMock()
-sys.modules["dotenv"] = MagicMock()
 
 import main
 from config import ChannelConfig

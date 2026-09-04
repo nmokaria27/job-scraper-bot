@@ -24,7 +24,10 @@ from scrapers.lever import LeverScraper
 from scrapers.ashby import AshbyScraper
 from scrapers.simplify import SimplifyScraper
 from scrapers.hackernews import HackerNewsScraper
-from scrapers.markdown_table import SpeedyApplyScraper, JobRightScraper
+from scrapers.markdown_table import SpeedyApplyScraper, JobRightScraper, ZapplyScraper
+from scrapers.json_sources import JsonSourceScraper
+from scrapers.bigtech import AmazonScraper, WorkdayScraper
+from scrapers.fetch import describe_error
 import discord_notifier
 
 
@@ -123,13 +126,21 @@ def get_channel_seen_ids(data: dict, channel_name: str) -> set[str]:
     return set(data.get("channels", {}).get(channel_name, []))
 
 
-def ensure_channel_seen_state(data: dict, channels: list[ChannelConfig]) -> None:
+def ensure_channel_seen_state(
+    data: dict,
+    channels: list[ChannelConfig],
+    prune_stale: bool = False,
+) -> None:
     """
     Ensure seen_jobs.json has per-channel dedupe lists.
 
     When migrating from the old single-channel schema, existing global seen IDs
     are copied into the configured channel names to avoid re-notifying every
     historical match on the first multi-channel run.
+
+    With prune_stale=True, per-channel lists for channels that are no longer
+    configured (e.g. the retired internship channel) are dropped so the file
+    doesn't carry dead state forever. Only normal runs prune; --init never does.
     """
     channel_map = data.setdefault("channels", {})
     global_ids = [entry["id"] for entry in data.get("jobs", []) if entry.get("id")]
@@ -151,6 +162,21 @@ def ensure_channel_seen_state(data: dict, channels: list[ChannelConfig]) -> None
 
     for name in configured_names:
         channel_map.setdefault(name, [])
+
+    if prune_stale:
+        for name in [n for n in channel_map if n not in configured_names]:
+            removed = len(channel_map.pop(name) or [])
+            print(f"[INFO] Dropped seen-state for retired channel '{name}' ({removed} ids)")
+
+
+def drop_stale_queue_channels(queue_data: dict, channels: list[ChannelConfig]) -> None:
+    """Remove queued jobs for channels that are no longer configured."""
+    configured = {ch.name for ch in channels}
+    queue_channels = queue_data.setdefault("channels", {})
+    for name in [n for n in queue_channels if n not in configured]:
+        removed = len(queue_channels.pop(name) or [])
+        if removed:
+            print(f"[INFO] Dropped {removed} queued job(s) for retired channel '{name}'")
 
 
 def mark_seen_global(data: dict, job_id: str) -> None:
@@ -324,8 +350,17 @@ def filter_for_channel(jobs: list[Job], channel: ChannelConfig) -> list[Job]:
         and _filter_scraper.matches_keywords(
             job.title, channel.keywords, channel.excluded_keywords
         )
-        and _filter_scraper.matches_location(job.location, channel.locations)
+        and _filter_scraper.matches_location(
+            job.location, channel.locations, channel.excluded_locations
+        )
     ]
+
+
+# Sources that only know the posting *date* (jobright, Amazon, Workday, the
+# JSON trackers) emit "YYYY-MM-DD". Midnight would make a job posted at 23:00
+# look 25h old by the next morning's run and be dropped forever, so date-only
+# timestamps get an extra day of grace.
+_DATE_ONLY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
 def filter_recent_jobs(jobs: list[Job]) -> list[Job]:
@@ -335,13 +370,16 @@ def filter_recent_jobs(jobs: list[Job]) -> list[Job]:
     if max_age_hours <= 0:
         return jobs
 
-    cutoff = datetime.now(tz=timezone.utc) - timedelta(hours=max_age_hours)
+    now = datetime.now(tz=timezone.utc)
+    cutoff = now - timedelta(hours=max_age_hours)
+    date_only_cutoff = cutoff - timedelta(hours=24)
     # datetime.min means unparseable — keep those jobs rather than silently dropping them
     min_dt = datetime.min.replace(tzinfo=timezone.utc)
     recent = []
     for job in jobs:
         posted_dt = _parse_dt(job.posted_at)
-        if posted_dt == min_dt or posted_dt >= cutoff:
+        effective_cutoff = date_only_cutoff if _DATE_ONLY_RE.match(job.posted_at or "") else cutoff
+        if posted_dt == min_dt or posted_dt >= effective_cutoff:
             recent.append(job)
 
     skipped = len(jobs) - len(recent)
@@ -352,13 +390,20 @@ def filter_recent_jobs(jobs: list[Job]) -> list[Job]:
     return recent
 
 
+# When the same posting shows up from several sources, keep the one closest to
+# the employer (direct ATS > curated list > aggregator > HN comment).
 PLATFORM_DEDUPE_PRIORITY: dict[str, int] = {
     "greenhouse": 4,
     "lever": 4,
     "ashby": 4,
+    "amazon": 4,
+    "workday": 4,
     "simplify": 3,
     "speedyapply": 2,
     "jobright": 2,
+    "zapply": 2,
+    "applyguy": 2,
+    "gradtracker": 2,
     "hackernews": 1,
 }
 
@@ -393,13 +438,49 @@ def get_job_seen_key(job: Job) -> str:
     )
 
 
+def get_job_identity_key(job: Job) -> str:
+    """
+    Company + title + location, normalised. Catches the same posting listed
+    under different URLs (aggregators re-list with fresh IDs; the same req is
+    posted as several ATS entries).
+    """
+    return "identity:" + "|".join(
+        [
+            _normalize_text(job.company),
+            _normalize_text(job.title),
+            _normalize_text(job.location),
+        ]
+    )
+
+
 def get_job_seen_keys(job: Job) -> list[str]:
+    """
+    Keys persisted in seen_jobs.json: the raw id and the normalised URL.
+    The identity key is deliberately NOT persisted — big employers re-post
+    the same title/location as new reqs for months, and those are new jobs.
+    """
     keys = [job.id, get_job_seen_key(job)]
     unique_keys: list[str] = []
     for key in keys:
         if key and key not in unique_keys:
             unique_keys.append(key)
     return unique_keys
+
+
+def get_job_dedupe_keys(job: Job) -> list[str]:
+    """Keys used to collapse duplicates inside a single run (URL or identity)."""
+    return [get_job_seen_key(job), get_job_identity_key(job)]
+
+
+def _newest_first(jobs: list[Job]) -> list[Job]:
+    """Dated jobs newest first; undated ones last (so the cap prefers fresh posts)."""
+    min_dt = datetime.min.replace(tzinfo=timezone.utc)
+
+    def sort_key(job: Job) -> tuple[int, datetime]:
+        posted = _parse_dt(job.posted_at)
+        return (0 if posted != min_dt else 1, -posted.timestamp() if posted != min_dt else 0.0)
+
+    return sorted(jobs, key=sort_key)
 
 
 def _job_dedupe_rank(job: Job) -> tuple[int, bool, datetime, int, int]:
@@ -414,19 +495,33 @@ def _job_dedupe_rank(job: Job) -> tuple[int, bool, datetime, int, int]:
 
 
 def dedupe_jobs_for_channel(channel_name: str, jobs: list[Job]) -> list[Job]:
-    deduped_by_key: dict[str, Job] = {}
+    """
+    Collapse jobs that share a normalised URL *or* a company/title/location
+    identity, keeping the highest-ranked source for each cluster.
+    """
+    index: dict[str, Job] = {}
+    kept: dict[int, Job] = {}
     duplicates_removed = 0
 
     for job in jobs:
-        seen_key = get_job_seen_key(job)
-        existing = deduped_by_key.get(seen_key)
+        keys = get_job_dedupe_keys(job)
+        existing = next((index[key] for key in keys if key in index), None)
+
         if existing is None:
-            deduped_by_key[seen_key] = job
+            kept[id(job)] = job
+            for key in keys:
+                index[key] = job
             continue
 
         duplicates_removed += 1
-        if _job_dedupe_rank(job) > _job_dedupe_rank(existing):
-            deduped_by_key[seen_key] = job
+        winner = job if _job_dedupe_rank(job) > _job_dedupe_rank(existing) else existing
+        if winner is job:
+            kept.pop(id(existing), None)
+            kept[id(job)] = job
+            for key in get_job_dedupe_keys(existing):
+                index[key] = job
+        for key in keys:
+            index[key] = winner
 
     if duplicates_removed:
         print(
@@ -434,7 +529,7 @@ def dedupe_jobs_for_channel(channel_name: str, jobs: list[Job]) -> list[Job]:
             f"match(es) for '{channel_name}'"
         )
 
-    return list(deduped_by_key.values())
+    return list(kept.values())
 
 
 def job_was_seen(seen_ids: set[str], job: Job) -> bool:
@@ -469,24 +564,39 @@ async def scrape_all_raw() -> tuple[list[Job], int]:
         "hackernews": HackerNewsScraper(),
         "speedyapply": SpeedyApplyScraper(),
         "jobright": JobRightScraper(),
+        "zapply": ZapplyScraper(),
+        "jsonsource": JsonSourceScraper(),
+        "amazon": AmazonScraper(),
+        "workday": WorkdayScraper(),
     }
 
     all_jobs: list[Job] = []
     total_checked = 0
     companies = get_companies()
 
-    # --- Bulk scrapers first ---
-    for platform, scraper in bulk_scrapers.items():
-        if platform not in companies:
-            continue
-        jobs = await scraper.fetch_jobs("")
+    # --- Bulk scrapers first (each isolated: one broken source must not kill the run) ---
+    async def run_bulk(platform: str, scraper) -> list[Job]:
+        try:
+            return await scraper.fetch_jobs("")
+        except Exception as e:  # noqa: BLE001 — deliberate isolation boundary
+            print(f"[ERROR] {platform}: scraper crashed — {describe_error(e)}")
+            return []
+
+    bulk_results = await asyncio.gather(
+        *[run_bulk(platform, scraper) for platform, scraper in bulk_scrapers.items() if platform in companies]
+    )
+    for jobs in bulk_results:
         total_checked += len(jobs)
         all_jobs.extend(jobs)
 
     # --- ATS scrapers per company ---
     async def fetch_company(platform: str, slug: str, semaphore: asyncio.Semaphore) -> list[Job]:
         async with semaphore:
-            jobs = await ats_scrapers[platform].fetch_jobs(slug)
+            try:
+                jobs = await ats_scrapers[platform].fetch_jobs(slug)
+            except Exception as e:  # noqa: BLE001 — deliberate isolation boundary
+                print(f"[ERROR] {platform}/{slug}: scraper crashed — {describe_error(e)}")
+                jobs = []
             if config.SLEEP_BETWEEN_COMPANIES > 0:
                 await asyncio.sleep(config.SLEEP_BETWEEN_COMPANIES)
             return jobs
@@ -524,11 +634,13 @@ async def main(init_mode: bool = False) -> None:
     # Load + prune seen_jobs.json
     seen_data = load_seen_jobs()
     seen_data = prune_seen_jobs(seen_data)
-    ensure_channel_seen_state(seen_data, channels)
+    ensure_channel_seen_state(seen_data, channels, prune_stale=not init_mode)
 
     # Load + prune queued_jobs.json
     queue_data = load_queued_jobs()
     queue_data = prune_queued_jobs(queue_data)
+    if not init_mode:
+        drop_stale_queue_channels(queue_data, channels)
 
     # Scrape all platforms (raw, no filtering)
     print("\n[INFO] Scraping all platforms...")
@@ -571,8 +683,11 @@ async def main(init_mode: bool = False) -> None:
         matching = dedupe_jobs_for_channel(ch.name, filter_for_channel(all_jobs, ch))
         ch_seen_ids = get_channel_seen_ids(seen_data, ch.name)
 
-        # Find jobs not yet sent to THIS channel
-        new_for_channel = [job for job in matching if not job_was_seen(ch_seen_ids, job)]
+        # Find jobs not yet sent to THIS channel, freshest first so the per-run
+        # cap never spends its budget on undated backlog.
+        new_for_channel = _newest_first(
+            [job for job in matching if not job_was_seen(ch_seen_ids, job)]
+        )
 
         print(f"[INFO] Matching: {len(matching)} | New for channel: {len(new_for_channel)}")
 

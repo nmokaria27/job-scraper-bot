@@ -3,9 +3,6 @@ from datetime import datetime, timedelta, timezone
 from unittest.mock import AsyncMock, patch, MagicMock
 import sys
 
-# Mock dependencies
-sys.modules["httpx"] = MagicMock()
-sys.modules["dotenv"] = MagicMock()
 
 import main
 from config import ChannelConfig
@@ -36,7 +33,13 @@ class QueueingBehaviorTests(unittest.IsolatedAsyncioTestCase):
         )
 
         # First run: 3 matching jobs but cap=1; 2 should be queued
-        jobs_run1 = [_job("j1", "Software Engineer"), _job("j2", "Software Engineer"), _job("j3", "Software Engineer")]
+        # Distinct titles: identical company/title/location would be collapsed
+        # as duplicates within a run.
+        jobs_run1 = [
+            _job("j1", "Software Engineer, Payments"),
+            _job("j2", "Software Engineer, Search"),
+            _job("j3", "Software Engineer, Infra"),
+        ]
 
         # Second run: no jobs; should flush queued (up to cap=1)
         jobs_run2: list[Job] = []

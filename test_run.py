@@ -5,20 +5,20 @@ Runs scrapers and prints fetch counts, bypassing keyword/location filters.
 Does NOT send Discord notifications and does NOT write to seen_jobs.json.
 
 Usage:
-  python test_run.py                     # Test ATS platforms
-  python test_run.py --hours 24          # Show only jobs posted in the last 24 hours
-  python test_run.py --simplify          # Test SimplifyJobs
-  python test_run.py --simplify --hours 48
+  python test_run.py                       # ATS platforms (Greenhouse, Lever, Ashby)
+  python test_run.py --hours 24            # only jobs posted in the last 24 hours
+  python test_run.py --source simplify     # one bulk source (see SOURCES below)
+  python test_run.py --source amazon --hours 48
+  python test_run.py --channels            # DRY RUN: what each channel would notify
+  python test_run.py --channels --hours 72 # ...over a wider window
 
-Tips:
-  --hours filters on the job's posted_at timestamp (ISO string from each API).
-  For SimplifyJobs, date_posted is when the COMPANY posted, not when SimplifyJobs
-  indexed it — so filtering by a short window will return 0 for old listings.
-  For Greenhouse/Lever/Ashby, updated_at/createdAt/publishedDate should surface
-  fresh hits if the source is returning recent jobs.
+Legacy flags --simplify / --speedyapply / --jobright still work.
 
-This script is intentionally noisy: it is meant to answer "is the platform
-fetching anything?" before you tune the Discord filters.
+--channels is the tool to use when tuning keywords: it runs the full scrape,
+applies the built-in PM + full-time channel filters (or your configured
+channels if webhooks are set), dedupes, and prints every would-be
+notification grouped by channel. No seen-state is consulted, so you see the
+complete picture for the window.
 """
 
 import asyncio
@@ -26,21 +26,43 @@ import sys
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 
+import config
 from companies import get_companies
 from scrapers.ashby import AshbyScraper
 from scrapers.base import Job
+from scrapers.bigtech import AmazonScraper, WorkdayScraper
 from scrapers.greenhouse import GreenhouseScraper
-from scrapers.lever import LeverScraper
-from scrapers.simplify import SimplifyScraper
 from scrapers.hackernews import HackerNewsScraper
-from scrapers.markdown_table import SpeedyApplyScraper, JobRightScraper
+from scrapers.json_sources import JsonSourceScraper
+from scrapers.lever import LeverScraper
+from scrapers.markdown_table import JobRightScraper, SpeedyApplyScraper, ZapplyScraper
+from scrapers.simplify import SimplifyScraper
+
+SOURCES = {
+    "simplify": SimplifyScraper,
+    "speedyapply": SpeedyApplyScraper,
+    "jobright": JobRightScraper,
+    "zapply": ZapplyScraper,
+    "jsonsource": JsonSourceScraper,
+    "amazon": AmazonScraper,
+    "workday": WorkdayScraper,
+    "hackernews": HackerNewsScraper,
+}
+
+
+def _arg_value(flag: str) -> str | None:
+    try:
+        idx = sys.argv.index(flag)
+        return sys.argv[idx + 1]
+    except (ValueError, IndexError):
+        return None
+
 
 def _parse_hours() -> int | None:
-    """Return the value of --hours N if present, else None."""
+    raw = _arg_value("--hours")
     try:
-        idx = sys.argv.index("--hours")
-        return int(sys.argv[idx + 1])
-    except (ValueError, IndexError):
+        return int(raw) if raw else None
+    except ValueError:
         return None
 
 
@@ -94,60 +116,17 @@ def _print_summary(jobs: list[Job]) -> None:
         print(f"  - {company}: {count}")
 
 
-async def test_simplify(hours: int | None) -> None:
-    """Test SimplifyJobs — fetch all active jobs and optionally filter by recency."""
+async def test_source(name: str, hours: int | None) -> None:
+    """Fetch one bulk source and print what it returned."""
+    scraper_cls = SOURCES[name]
     print("=" * 60)
-    print("SimplifyJobs Test Run")
-    note = f" (last {hours}h)" if hours else " (showing first 10 of all active)"
-    print(f"Fetching all active listings{note}...")
-    print("NOTE: date_posted = original company post date, not when SimplifyJobs indexed it.")
-    print("No Discord notifications. No file writes.")
-    print("=" * 60)
-
-    scraper = SimplifyScraper()
-    jobs = await scraper.fetch_jobs()
-
-    if hours:
-        before = len(jobs)
-        jobs = _filter_by_recency(jobs, hours)
-        print(f"  → {len(jobs)} of {before} jobs posted in last {hours}h")
-        _print_jobs(jobs)
-    else:
-        _print_jobs(jobs, limit=10)
-
-
-async def test_speedyapply(hours: int | None) -> None:
-    """Test SpeedyApply — fetch jobs from markdown tables."""
-    print("=" * 60)
-    print("SpeedyApply Test Run")
+    print(f"{name} Test Run")
     note = f" (last {hours}h)" if hours else " (showing first 10)"
     print(f"Fetching job listings{note}...")
     print("No Discord notifications. No file writes.")
     print("=" * 60)
 
-    scraper = SpeedyApplyScraper()
-    jobs = await scraper.fetch_jobs()
-
-    if hours:
-        before = len(jobs)
-        jobs = _filter_by_recency(jobs, hours)
-        print(f"  → {len(jobs)} of {before} jobs posted in last {hours}h")
-        _print_jobs(jobs)
-    else:
-        _print_jobs(jobs, limit=10)
-
-
-async def test_jobright(hours: int | None) -> None:
-    """Test JobRight — fetch PM jobs from markdown tables."""
-    print("=" * 60)
-    print("JobRight Test Run")
-    note = f" (last {hours}h)" if hours else " (showing first 10)"
-    print(f"Fetching job listings{note}...")
-    print("No Discord notifications. No file writes.")
-    print("=" * 60)
-
-    scraper = JobRightScraper()
-    jobs = await scraper.fetch_jobs()
+    jobs = await scraper_cls().fetch_jobs()
 
     if hours:
         before = len(jobs)
@@ -206,17 +185,82 @@ async def test_ats(hours: int | None) -> None:
     _print_jobs(all_jobs)
 
 
-async def main() -> None:
+def _dry_run_channels() -> list[config.ChannelConfig]:
+    """Configured channels if any webhooks are set, else the built-in defaults."""
+    channels = config.load_channels(require_webhooks=False)
+    if channels and not (len(channels) == 1 and channels[0].name == "default"):
+        return channels
+    return [
+        config.ChannelConfig(
+            name="pm-jobs",
+            webhook_url="",
+            keywords=config.DEFAULT_PM_KEYWORDS,
+            excluded_keywords=config.DEFAULT_PM_EXCLUDED_KEYWORDS,
+            locations=config.DEFAULT_LOCATIONS,
+            excluded_locations=config.DEFAULT_EXCLUDED_LOCATIONS,
+        ),
+        config.ChannelConfig(
+            name="swe-ai-full-time",
+            webhook_url="",
+            keywords=config.DEFAULT_SWE_FULL_TIME_KEYWORDS,
+            excluded_keywords=config.DEFAULT_SWE_FULL_TIME_EXCLUDED_KEYWORDS,
+            locations=config.DEFAULT_LOCATIONS,
+            excluded_locations=config.DEFAULT_EXCLUDED_LOCATIONS,
+        ),
+    ]
+
+
+async def test_channels(hours: int | None) -> None:
+    """Full scrape + per-channel filtering, printed instead of posted."""
+    import main  # local import: main pulls in every scraper
+
+    window = hours or config.RECENT_POSTING_MAX_AGE_HOURS
+    config.RECENT_POSTING_MAX_AGE_HOURS = window
+    channels = _dry_run_channels()
+
+    print("=" * 60)
+    print("Channel DRY RUN")
+    print(f"Window: last {window}h | Channels: {[ch.name for ch in channels]}")
+    print("No Discord notifications. No file writes. Seen-state ignored.")
+    print("=" * 60)
+
+    all_jobs, total = await main.scrape_all_raw()
+    print(f"\n[INFO] Total postings fetched: {total}")
+    recent = main.filter_recent_jobs(all_jobs)
+    print("[INFO] Recent by platform:", dict(sorted(Counter(j.platform for j in recent).items())))
+
+    for ch in channels:
+        matches = main.dedupe_jobs_for_channel(ch.name, main.filter_for_channel(recent, ch))
+        print(f"\n{'=' * 60}")
+        print(f"[{ch.name}] {len(matches)} would-be notification(s)")
+        print("=" * 60)
+        for job in sorted(matches, key=lambda j: (j.platform, j.company.lower(), j.title.lower())):
+            print(f"{job.platform:11} | {job.company[:28]:28} | {job.title[:80]:80} | {job.location[:45]}")
+
+
+async def main_entry() -> None:
     hours = _parse_hours()
-    if "--simplify" in sys.argv:
-        await test_simplify(hours)
-    elif "--speedyapply" in sys.argv:
-        await test_speedyapply(hours)
-    elif "--jobright" in sys.argv:
-        await test_jobright(hours)
-    else:
-        await test_ats(hours)
+    source = _arg_value("--source")
+
+    if "--channels" in sys.argv:
+        await test_channels(hours)
+        return
+
+    if not source:
+        for legacy in ("simplify", "speedyapply", "jobright", "zapply", "amazon", "workday", "hackernews"):
+            if f"--{legacy}" in sys.argv:
+                source = legacy
+                break
+
+    if source:
+        if source not in SOURCES:
+            print(f"Unknown source '{source}'. Choose from: {', '.join(SOURCES)}")
+            sys.exit(2)
+        await test_source(source, hours)
+        return
+
+    await test_ats(hours)
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    asyncio.run(main_entry())

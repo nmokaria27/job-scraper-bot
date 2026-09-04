@@ -5,9 +5,6 @@ import unittest
 from unittest.mock import patch, MagicMock
 import sys
 
-# Mock dependencies
-sys.modules["httpx"] = MagicMock()
-sys.modules["dotenv"] = MagicMock()
 
 import discover_companies
 from companies import COMPANIES, get_companies

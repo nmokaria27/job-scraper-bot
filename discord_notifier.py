@@ -14,9 +14,14 @@ PLATFORM_LABELS: dict[str, str] = {
     "greenhouse":  "\U0001f33f Greenhouse",
     "lever":       "\u2699\ufe0f Lever",
     "ashby":       "\U0001f537 Ashby",
+    "amazon":      "\U0001f4e6 Amazon Jobs",
+    "workday":     "\U0001f3e2 Workday",
     "simplify":    "\u26a1 SimplifyJobs",
     "speedyapply": "\U0001f4a8 SpeedyApply",
     "jobright":    "\U0001f3af JobRight",
+    "zapply":      "\U0001f680 Zapply",
+    "applyguy":    "\U0001f9ed ApplyGuy",
+    "gradtracker": "\U0001f4cb New-Grad Tracker",
     "hackernews":  "\U0001f7e0 HN: Who's Hiring",
 }
 
@@ -24,11 +29,20 @@ PLATFORM_COLORS: dict[str, int] = {
     "greenhouse":  0x3CB371,   # Green
     "lever":       0x4A90E2,   # Blue
     "ashby":       0x7B68EE,   # Purple
+    "amazon":      0xFF9900,   # Amazon orange
+    "workday":     0xF38B00,   # Workday orange
     "simplify":    0xFF6B35,   # Orange
     "speedyapply": 0x1ABC9C,   # Teal
     "jobright":    0xEB459E,   # Pink
+    "zapply":      0x2ECC71,   # Bright green
+    "applyguy":    0x9B59B6,   # Violet
+    "gradtracker": 0x95A5A6,   # Grey
     "hackernews":  0xFF6600,   # HN orange
 }
+
+# Discord returns 429 with a retry_after (seconds) when a webhook is posted to
+# too quickly. Honour it instead of dropping the notification.
+MAX_RATE_LIMIT_RETRIES = 3
 
 
 FATAL_WEBHOOK_STATUS_CODES = {401, 404, 405}
@@ -57,19 +71,44 @@ async def _post_webhook(
         print("[ERROR] Discord webhook URL is missing")
         return WebhookPostResult(success=False, fatal=True)
 
-    try:
-        response = await client.post(url, json=payload)
-        response.raise_for_status()
-        return WebhookPostResult(success=True)
-    except httpx.HTTPStatusError as e:
-        print(f"[ERROR] Discord webhook HTTP error {e.response.status_code}: {e.response.text}")
+    for attempt in range(1, MAX_RATE_LIMIT_RETRIES + 2):
+        try:
+            response = await client.post(url, json=payload)
+        except httpx.RequestError as e:
+            print(f"[ERROR] Discord webhook connection error: {type(e).__name__}: {e}")
+            return WebhookPostResult(success=False)
+
+        if response.status_code == 429 and attempt <= MAX_RATE_LIMIT_RETRIES:
+            retry_after = _retry_after_seconds(response)
+            print(f"[WARN] Discord rate limited (429); retrying in {retry_after:.1f}s")
+            await asyncio.sleep(retry_after)
+            continue
+
+        if response.is_success:
+            return WebhookPostResult(success=True)
+
+        print(f"[ERROR] Discord webhook HTTP error {response.status_code}: {response.text[:200]}")
         return WebhookPostResult(
             success=False,
-            fatal=e.response.status_code in FATAL_WEBHOOK_STATUS_CODES,
+            fatal=response.status_code in FATAL_WEBHOOK_STATUS_CODES,
         )
-    except httpx.RequestError as e:
-        print(f"[ERROR] Discord webhook connection error: {e}")
-        return WebhookPostResult(success=False)
+
+    return WebhookPostResult(success=False)
+
+
+def _retry_after_seconds(response: httpx.Response) -> float:
+    """Discord sends retry_after in the JSON body (seconds) and/or a header."""
+    try:
+        body = response.json()
+        if isinstance(body, dict) and body.get("retry_after") is not None:
+            return min(float(body["retry_after"]) + 0.25, 30.0)
+    except (ValueError, TypeError):
+        pass
+    header = response.headers.get("Retry-After") or response.headers.get("X-RateLimit-Reset-After")
+    try:
+        return min(float(header) + 0.25, 30.0) if header else 2.0
+    except ValueError:
+        return 2.0
 
 
 def _build_job_embed(job: Job) -> dict:

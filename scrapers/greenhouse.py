@@ -1,57 +1,59 @@
-import asyncio
-import json
-import httpx
-from scrapers.base import BaseScraper, Job
-import config
+from scrapers.base import BaseScraper, Job, company_name_from_slug, has_real_location
+from scrapers.fetch import fetch_json, make_client
 
 
 class GreenhouseScraper(BaseScraper):
     PLATFORM = "greenhouse"
-    BASE_URL = "https://boards-api.greenhouse.io/v1/boards/{company}/jobs"
+    # `content=true` adds the `offices` list, which is the only way to get a
+    # real place for boards that put "Hybrid" / "In-Office" in location.name
+    # (Cloudflare does this for every posting).
+    BASE_URL = "https://boards-api.greenhouse.io/v1/boards/{company}/jobs?content=true"
+
+    @staticmethod
+    def _location(raw: dict) -> str:
+        name = ((raw.get("location") or {}).get("name") or "").strip()
+        offices = [
+            office.get("name", "").strip()
+            for office in raw.get("offices") or []
+            if has_real_location(office.get("name", ""))
+        ]
+        if has_real_location(name):
+            return name
+        if offices:
+            joined = " / ".join(offices)
+            return f"{joined} ({name})" if name else joined
+        return name or "Remote / Not Specified"
+
+    @classmethod
+    def parse_job(cls, raw: dict, company_slug: str) -> Job | None:
+        title = raw.get("title")
+        if not title or raw.get("id") is None:
+            return None
+        return Job(
+            id=f"greenhouse-{company_slug}-{raw['id']}",
+            title=title,
+            company=company_name_from_slug(company_slug),
+            location=cls._location(raw),
+            url=raw.get("absolute_url", ""),
+            platform=cls.PLATFORM,
+            # first_published is the true posting date; updated_at moves every
+            # time the listing is edited and caused old jobs to re-surface.
+            posted_at=raw.get("first_published") or raw.get("updated_at") or "Unknown",
+        )
 
     async def fetch_jobs(self, company_slug: str) -> list[Job]:
         url = self.BASE_URL.format(company=company_slug)
-        try:
-            async with httpx.AsyncClient(timeout=config.REQUEST_TIMEOUT) as client:
-                response = await client.get(url)
-
-                if response.status_code == 404:
-                    print(f"[WARN] greenhouse/{company_slug}: company not found on Greenhouse (404)")
-                    return []
-
-                response.raise_for_status()
-                data = response.json()
-
-        except httpx.HTTPStatusError as e:
-            print(f"[ERROR] greenhouse/{company_slug}: HTTP error {e.response.status_code} — {e}")
-            return []
-        except httpx.RequestError as e:
-            print(f"[ERROR] greenhouse/{company_slug}: connection error — {e}")
-            return []
-        except json.JSONDecodeError as e:
-            print(f"[ERROR] greenhouse/{company_slug}: failed to parse JSON — {e}")
+        label = f"greenhouse/{company_slug}"
+        async with make_client() as client:
+            data = await fetch_json(client, url, label)
+        if not isinstance(data, dict):
             return []
 
         jobs: list[Job] = []
-        raw_jobs = data.get("jobs", [])
+        for raw in data.get("jobs", []):
+            job = self.parse_job(raw, company_slug)
+            if job:
+                jobs.append(job)
 
-        for raw in raw_jobs:
-            title = raw.get("title")
-            if not title:
-                continue
-
-            location = (raw.get("location") or {}).get("name") or "Remote / Not Specified"
-            job = Job(
-                id=f"greenhouse-{company_slug}-{raw['id']}",
-                title=title,
-                company=company_slug.replace("-", " ").title(),
-                location=location,
-                url=raw.get("absolute_url", ""),
-                platform=self.PLATFORM,
-                posted_at=raw.get("updated_at", "Unknown"),
-            )
-            jobs.append(job)
-
-        print(f"[OK] greenhouse/{company_slug}: {len(jobs)} jobs found")
-        await asyncio.sleep(0)  # yield control back to event loop
+        print(f"[OK] {label}: {len(jobs)} jobs found")
         return jobs

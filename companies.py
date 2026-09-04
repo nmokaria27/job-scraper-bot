@@ -11,7 +11,7 @@ from copy import deepcopy
 #   - Ashby:      https://jobs.ashbyhq.com/<slug>           → verify at api.ashbyhq.com/posting-api/job-board/<slug>
 #
 # To disable a company without deleting it, comment out its slug.
-# All slugs in this file were verified as of 2026-05-07.
+# All slugs in this file were verified as of 2026-09-04.
 
 COMPANIES: dict[str, list[str]] = {
     # -------------------------------------------------------------------------
@@ -21,11 +21,14 @@ COMPANIES: dict[str, list[str]] = {
     "simplify": [],      # SimplifyJobs + vanshb03 repos (GitHub JSON)
     "hackernews": [],    # HN "Ask HN: Who is Hiring?" monthly thread
     "speedyapply": [],   # speedyapply SWE/AI repos (markdown tables)
-    "jobright": [],      # jobright-ai PM repos (markdown tables)
+    "jobright": [],      # jobright-ai PM + SWE new-grad repos (markdown tables)
+    "zapply": [],        # zapplyjobs/New-Grad-Jobs-2027 (markdown table, ~15 min refresh)
+    "jsonsource": [],    # ApplyGuy + new-grad-2027-tracker JSON feeds
+    "amazon": [],        # amazon.jobs search.json
+    "workday": [],       # Workday CXS tenants (NVIDIA, Salesforce, Adobe, Capital One, Intel)
 
     # -------------------------------------------------------------------------
-    # Greenhouse ATS — verified working slugs (as of 2026-05-07)
-    # Many big-name companies have migrated to Workday/custom ATS.
+    # Greenhouse ATS — every slug below returned jobs on 2026-09-04.
     # Verify a slug with: curl -s https://boards-api.greenhouse.io/v1/boards/<slug>/jobs | python3 -c "import sys,json; print(len(json.load(sys.stdin).get('jobs',[])))"
     # -------------------------------------------------------------------------
     "greenhouse": [
@@ -37,8 +40,16 @@ COMPANIES: dict[str, list[str]] = {
         "brex",
         "databricks",
         "deepmind",
+        "coinbase",
+        "affirm",
+        "block",
+        "chime",
+        "sofi",
+        "upstart",
+        "carta",
+        "gusto",
 
-        # Product / infra
+        # Consumer / product / infra
         "airbnb",
         "reddit",
         "pinterest",
@@ -48,62 +59,146 @@ COMPANIES: dict[str, list[str]] = {
         "amplitude",
         "vercel",
         "lyft",
+        "doordashusa",
+        "instacart",
+        "roblox",
+        "dropbox",
+        "twilio",
+        "okta",
+        "mongodb",
+        "elastic",
+        "samsara",
+        "verkada",
+        "duolingo",
+        "linkedin",
+        "asana",
+        "gitlab",
+        "klaviyo",
+        "rubrik",
+        "toast",
+        "twitch",
+        "zscaler",
+        "squarespace",
+        "nextdoor",
+        "oscar",
+        "flexport",
+        "checkr",
+        "cockroachlabs",
+
+        # AI labs / AI infra
+        "xai",
+        "scaleai",
+        "togetherai",
+        "gleanwork",
+        "snorkelai",
+        "assemblyai",
+        "sambanovasystems",
+        "tenstorrent",
+        "lightmatter",
+
+        # Autonomy / robotics
+        "waymo",
+        "nuro",
+        "wayve",
+
+        # Quant / trading
+        "janestreet",
+        "jumptrading",
+        "imc",
+        "optiverus",
+        "drweng",
+        "akunacapital",
+        "point72",
 
         # Previously in list but currently 404 — moved to other ATS:
-        # "notion",          # moved to Workday
-        # "openai",          # uses custom careers page
-        # "ramp",            # uses custom careers page
+        # "notion",          # now on Ashby (see below)
+        # "openai",          # now on Ashby (see below)
+        # "ramp",            # now on Ashby (see below)
         # "confluent",       # moved to Workday
         # "retool",          # moved to Workday
-        # "scale",           # uses scale.com/careers (custom)
         # "weights-biases",  # uses their own ATS
-        # "huggingface",     # uses their own careers page
-        # "cohere",          # uses their own careers page
+        # "huggingface",     # Workable
+        # "cohere",          # now on Ashby (see below)
     ],
 
     # -------------------------------------------------------------------------
-    # Lever ATS — verified working slugs (as of 2026-05-07)
-    # Most big companies have migrated off Lever; list is intentionally small.
+    # Lever ATS — verified 2026-09-04.
     # -------------------------------------------------------------------------
     "lever": [
-        "anyscale",   # 1 job (verified)
+        "anyscale",
+        "palantir",
+        "zoox",
+        "spotify",
+        "waabi",
+        "wealthfront",
 
         # Previously in list but currently 404:
-        # "netflix",      # migrated off Lever (returns 0 jobs / 404)
+        # "netflix",      # Eightfold (explore.jobs.netflix.net)
         # "twitter",      # 404
-        # "square",       # 404 (now Block)
+        # "square",       # now "block" on Greenhouse
         # "lyft",         # now on Greenhouse
-        # "doordash",     # 404
-        # "replit",       # 404
-        # "modal",        # 404
-        # "together-ai",  # 404
+        # "doordash",     # now "doordashusa" on Greenhouse
+        # "replit",       # now on Ashby
+        # "modal",        # now on Ashby
+        # "together-ai",  # now "togetherai" on Greenhouse
     ],
 
     # -------------------------------------------------------------------------
-    # Ashby ATS — verified Ashby-hosted boards.
+    # Ashby ATS — verified 2026-09-04.
     # To add a working company:
     #   1. Visit https://jobs.ashbyhq.com/<slug>
     #   2. Verify the API: curl -s "https://api.ashbyhq.com/posting-api/job-board/<slug>"
     #      should return {"jobs":[...]} not {"error":"Not Found"}
     # -------------------------------------------------------------------------
     "ashby": [
+        # AI labs / AI products
         "openai",
         "perplexity",
-        "Ashby",
+        "cursor",
+        "cohere",
+        "cerebras",
+        "harvey",
+        "sierra",
+        "decagon",
+        "elevenlabs",
+        "etched",
+        "cognition",
+        "deepgram",
+        "fireworks",
+        "suno",
+        "midjourney",
+        "poolside",
+        "character",
+        "runway",
 
-        # Previously checked slugs:
-        # "mistral",              # 404
-        # "anysphere",            # 404 (Cursor)
-        # "cognition",            # 404
-        # "imbue",                # 404
-        # "adept",                # 404
-        # "covariant",            # 404
-        # "physical-intelligence",# 404
-        # "genesis",              # 404
-        # "exa",                  # 404
-        # "groq",                 # 404
-        # "fireworks-ai",         # 404
-        # "together-ai",          # 404
+        # Dev tools / infra
+        "Ashby",
+        "notion",
+        "ramp",
+        "plaid",
+        "snowflake",
+        "replit",
+        "supabase",
+        "temporal",
+        "modal",
+        "linear",
+        "sentry",
+        "render",
+        "railway",
+        "benchling",
+
+        # Defense / autonomy / consumer
+        "shield-ai",
+        "applied",        # Applied Intuition
+        "handshake",
+        "substack",
+        "thumbtack",
+        "miro",
+
+        # Previously checked slugs (404 on 2026-09-04):
+        # "mistral", "anysphere" (use "cursor"), "imbue", "adept", "covariant",
+        # "physical-intelligence", "genesis", "exa", "groq", "fireworks-ai"
+        # (use "fireworks"), "together-ai" (Greenhouse "togetherai")
     ],
 }
 
