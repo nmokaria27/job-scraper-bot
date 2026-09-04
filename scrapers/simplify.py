@@ -1,40 +1,30 @@
-import json
 from datetime import datetime, timezone
-import httpx
-from scrapers.base import BaseScraper, Job
+
 import config
+from scrapers.base import BaseScraper, Job
+from scrapers.fetch import fetch_json, make_client
 
 
 class SimplifyScraper(BaseScraper):
+    """SimplifyJobs listings.json format (also used by the vanshb03 repos)."""
+
     PLATFORM = "simplify"
 
-    async def _fetch_one(self, client: httpx.AsyncClient, url: str) -> list[Job]:
-        """Fetch and parse jobs from a single SimplifyJobs JSON URL."""
-        try:
-            response = await client.get(url)
-            response.raise_for_status()
-            entries = response.json()
-        except httpx.HTTPStatusError as e:
-            print(f"[ERROR] simplify ({url}): HTTP error {e.response.status_code} — {e}")
+    @classmethod
+    def parse_entries(cls, entries: object) -> list[Job]:
+        if not isinstance(entries, list):
             return []
-        except httpx.RequestError as e:
-            print(f"[ERROR] simplify ({url}): connection error — {e}")
-            return []
-        except json.JSONDecodeError as e:
-            print(f"[ERROR] simplify ({url}): failed to parse JSON — {e}")
-            return []
-
-        # Use the last path segment of the URL as a short label for logs
-        label = url.split("/")[4] if len(url.split("/")) > 4 else url
 
         jobs: list[Job] = []
         for entry in entries:
+            if not isinstance(entry, dict):
+                continue
             # Only include active and visible listings
             if not entry.get("active") or not entry.get("is_visible"):
                 continue
 
             title = entry.get("title")
-            if not title:
+            if not title or not entry.get("id"):
                 continue
 
             # Join the locations list into a single string
@@ -43,28 +33,24 @@ class SimplifyScraper(BaseScraper):
 
             # date_posted is Unix timestamp in seconds
             date_posted = entry.get("date_posted")
+            posted_at = "Unknown"
             if date_posted:
                 try:
-                    posted_at = datetime.fromtimestamp(
-                        date_posted, tz=timezone.utc
-                    ).isoformat()
-                except (ValueError, OSError):
+                    posted_at = datetime.fromtimestamp(date_posted, tz=timezone.utc).isoformat()
+                except (ValueError, OSError, TypeError):
                     posted_at = "Unknown"
-            else:
-                posted_at = "Unknown"
 
-            job = Job(
-                id=f"simplify-{entry['id']}",
-                title=title,
-                company=entry.get("company_name", "Unknown"),
-                location=location,
-                url=entry.get("url", ""),
-                platform=self.PLATFORM,
-                posted_at=posted_at,
+            jobs.append(
+                Job(
+                    id=f"simplify-{entry['id']}",
+                    title=title,
+                    company=entry.get("company_name", "Unknown"),
+                    location=location,
+                    url=entry.get("url", ""),
+                    platform=cls.PLATFORM,
+                    posted_at=posted_at,
+                )
             )
-            jobs.append(job)
-
-        print(f"[OK] simplify ({label}): {len(jobs)} active jobs found")
         return jobs
 
     async def fetch_jobs(self, company_slug: str = "") -> list[Job]:
@@ -76,9 +62,16 @@ class SimplifyScraper(BaseScraper):
         seen_ids: set[str] = set()
         all_jobs: list[Job] = []
 
-        async with httpx.AsyncClient(timeout=config.REQUEST_TIMEOUT) as client:
+        async with make_client() as client:
             for url in config.SIMPLIFY_URLS:
-                jobs = await self._fetch_one(client, url)
+                # Use owner/repo as a short label for logs
+                parts = url.split("/")
+                label = f"simplify ({parts[3]}/{parts[4]})" if len(parts) > 4 else f"simplify ({url})"
+                entries = await fetch_json(client, url, label)
+                if entries is None:
+                    continue
+                jobs = self.parse_entries(entries)
+                print(f"[OK] {label}: {len(jobs)} active jobs found")
                 for job in jobs:
                     if job.id not in seen_ids:
                         seen_ids.add(job.id)

@@ -4,6 +4,7 @@ import re
 from datetime import datetime, timezone
 import httpx
 from scrapers.base import BaseScraper, Job
+from scrapers.fetch import make_client
 import config
 
 HN_BASE = "https://hacker-news.firebaseio.com/v0"
@@ -122,7 +123,7 @@ class HackerNewsScraper(BaseScraper):
         Fetch the current month's HN 'Who is Hiring?' thread and return all
         top-level comments as Job objects. company_slug is ignored.
         """
-        async with httpx.AsyncClient(timeout=config.REQUEST_TIMEOUT) as client:
+        async with make_client() as client:
             # Step 1: Find the latest thread
             thread_id = await self._find_latest_thread(client)
             if not thread_id:

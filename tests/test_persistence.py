@@ -3,9 +3,6 @@ from unittest.mock import patch, mock_open, MagicMock
 import json
 import sys
 
-# Mock dependencies before importing main
-sys.modules["httpx"] = MagicMock()
-sys.modules["dotenv"] = MagicMock()
 
 import main
 

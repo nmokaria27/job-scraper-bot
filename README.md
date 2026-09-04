@@ -1,220 +1,135 @@
 # Job Scraper Discord Bot
 
-Scrapes job postings from Greenhouse, Lever, Ashby, SimplifyJobs (+ vanshb03), SpeedyApply, JobRight, and Hacker News every 15 minutes (off-peak schedule) and sends rich Discord notifications for new matches. Supports one Discord channel or multiple channels with separate keyword/location filters. Runs entirely on GitHub Actions — no server, no database, no cost.
+Scrapes ~30,000 job postings per run from ~110 company ATS boards (Greenhouse, Lever, Ashby), direct big-tech feeds (Amazon, NVIDIA/Salesforce/Adobe/Capital One/Intel via Workday), curated new-grad GitHub lists (SimplifyJobs, vanshb03, speedyapply, jobright-ai, zapplyjobs, ApplyGuy, new-grad-2027-tracker) and Hacker News "Who is Hiring?", then posts new entry-level matches to Discord. Two channels are built in:
+
+| Channel | Secret | What it catches |
+|---|---|---|
+| `pm-jobs` | `PM_WEBHOOK_URL` | Product Manager, APM, TPM, Product Owner, Product Analyst, PM internships (not Group/Sr/Director) |
+| `swe-ai-full-time` | `FULL_TIME_WEBHOOK_URL` | New-grad / entry-level Software, AI/ML, Research, Data Science, SRE, MTS (no interns, no seniors, no sales/support/hardware "engineers") |
+
+Runs entirely on GitHub Actions — no server, no database, no cost. A full run takes about 45 seconds.
 
 ## How it works
 
-1. GitHub Actions triggers `main.py` on a cron every 15 minutes (off-peak minutes)
-2. The scraper checks every configured source in `companies.py` (plus optional discovered ATS slugs)
-3. Jobs are filtered for each configured Discord channel
-4. New job IDs are compared against `seen_jobs.json` per channel — duplicates are skipped
-5. New matches are posted to the matching Discord channel webhook
-6. `seen_jobs.json` is committed back to the repo to persist state
+1. `main.py` fetches every source once (`scrape_all_raw`). Each source is isolated: if one API breaks, the run loses that source, not everything.
+2. Jobs older than `RECENT_POSTING_MAX_AGE_HOURS` (24) are dropped. Sources that only know the posting *date* get an extra day of grace.
+3. Each channel applies its keyword, exclusion, location and foreign-location filters.
+4. Duplicates across sources (same URL, or same company+title+location) collapse to the source closest to the employer.
+5. Jobs not yet sent to that channel are posted newest-first, capped at 25 per run; the rest are queued and flushed on quiet runs.
+6. `seen_jobs.json` is committed back to the repo so state persists.
 
 ---
 
-## Setup (under 5 minutes)
+## Setup
 
-### 1. Fork or clone this repo to a new **public** GitHub repository
+### 1. Fork or clone to a **public** repo
 
-> **Why public?** GitHub Actions gives unlimited free minutes for public repos, but only 500 min/month for private. At 15-min intervals, a private repo can exhaust that quickly (often around ~1 week, depending on workflow runtime).
+Public repos get unlimited Actions minutes; private repos get 500/month, which ~96 runs/day exhausts in days.
 
-```bash
-git clone <your-repo-url>
-cd job-scraper-bot
-```
+### 2. Create Discord webhooks
 
-### 2. Create Discord webhook(s)
+Server Settings → Integrations → Webhooks → New Webhook → pick the channel → Copy Webhook URL. One per channel.
 
-1. Open your Discord server → **Server Settings** → **Integrations** → **Webhooks**
-2. Click **New Webhook**, give it a name, choose a channel
-3. Click **Copy Webhook URL** — repeat this for each channel you want to notify
+### 3. Add GitHub secrets
 
-### 3. Configure local environment (for testing)
+Settings → Secrets and variables → Actions → New repository secret:
 
-```bash
-cp .env.example .env
-# Edit .env and paste either DISCORD_WEBHOOK_URL or CHANNELS_JSON
-```
+| Secret | Value |
+|---|---|
+| `PM_WEBHOOK_URL` | PM channel webhook |
+| `FULL_TIME_WEBHOOK_URL` | SWE/AI/ML full-time channel webhook |
+| `CHANNELS_JSON` | *(optional)* JSON list to add channels or override a built-in one by name — see `channels.json.example` |
+| `DISCORD_WEBHOOK_URL` | *(optional)* single-channel fallback if neither of the above is set |
 
-For local multi-channel config, copy the example:
+Optional repository **Variables** (not secrets):
 
-```bash
-cp channels.json.example channels.json
-# Edit channels.json with your channel names, webhooks, and filters
-```
+| Variable | Default | Purpose |
+|---|---|---|
+| `RECENT_POSTING_MAX_AGE_HOURS` | `24` | Posting freshness window |
+| `SEND_NO_NEW_SUMMARY` | `false` | Post a "no new jobs" embed on quiet runs — leave off, it's noise |
+| `ATS_CONCURRENCY` / `REQUEST_TIMEOUT` | `8` / `25` | Board fetch parallelism and per-request timeout |
+| `SIMPLIFY_URLS`, `SPEEDYAPPLY_URLS`, `JOBRIGHT_URLS`, `ZAPPLY_URLS`, `JSON_SOURCE_URLS`, `WORKDAY_TENANTS` | see `config.py` | Override source lists (e.g. when a repo rolls to a new year) |
+| `RUN_COMPANY_DISCOVERY`, `DISCOVERY_SOURCE_URLS`, `INCLUDE_DISCOVERED_COMPANIES` | — | Auto-discover extra ATS slugs |
 
-### 4. Install dependencies and run the initialization
+### 4. Enable Actions write permission
+
+Settings → Actions → General → Workflow permissions → **Read and write permissions**.
+
+### 5. Seed the state (no notifications)
+
+Actions → **Job Scraper** → **Run workflow** → mode **`init`**. This marks every *current* match as seen so the first real run doesn't flood the channels. Do this again whenever you add sources or channels.
+
+### 6. Reliable 15-minute scheduling (important)
+
+GitHub's cron is best-effort. On this repo the last 100 scheduled runs were a **median of 104 minutes apart** (max 12 hours). Nothing is lost — the 24 h window catches everything — but "as soon as it opens" needs an external trigger:
+
+1. Create a fine-grained GitHub token with **Actions: Read and write** on this repo.
+2. On [cron-job.org](https://cron-job.org) (free) create a job every 15 minutes:
+   - URL: `https://api.github.com/repos/<owner>/<repo>/actions/workflows/scraper.yml/dispatches`
+   - Method: `POST`, body: `{"ref":"main"}`
+   - Headers: `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`
+3. Check Actions: runs should now show event `workflow_dispatch` every 15 minutes. The single concurrency group prevents overlaps with the GitHub cron.
+
+---
+
+## Local development
 
 ```bash
 pip install -r requirements.txt
+cp .env.example .env            # fill in webhooks (or leave for dry runs)
 
-# Seed seen_jobs.json — marks all CURRENT jobs as seen without notifying.
-# This prevents a flood of notifications on the first real run.
-python main.py --init
+python -m pytest tests/ -q      # 67 unit tests, no network
 
-# Verify the scrapers work
-python test_run.py
+python test_run.py --channels   # DRY RUN: prints what each channel would post right now
+python test_run.py --channels --hours 72
+python test_run.py --source zapply --hours 24   # one source: simplify | speedyapply | jobright | zapply | jsonsource | amazon | workday | hackernews
+python test_run.py              # all Greenhouse / Lever / Ashby boards
+
+PM_WEBHOOK_URL=x FULL_TIME_WEBHOOK_URL=x python main.py --init   # seed locally
+python main.py                  # real run (posts to Discord)
 ```
 
-### 5. Push to GitHub
-
-```bash
-git add .
-git commit -m "Initial setup"
-git push origin main
-```
-
-### 6. Add GitHub Secrets
-
-Go to your repo → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**
-
-| Secret name | Value |
-|---|---|
-| `SWE_WEBHOOK_URL` | SWE Discord channel webhook URL |
-| `PM_WEBHOOK_URL` | PM Discord channel webhook URL |
-| `FULL_TIME_WEBHOOK_URL` | Optional full-time SWE/AI/ML Discord webhook URL |
-| `CHANNELS_JSON` | *(advanced override/add-on)* Custom channel JSON; can add new channels or override built-in channel names |
-| `DISCORD_WEBHOOK_URL` | Single-channel fallback webhook URL |
-| `KEYWORDS` | *(single-channel only, optional)* Comma-separated keywords |
-| `EXCLUDED_KEYWORDS` | *(single-channel only, optional)* Comma-separated words to exclude from titles |
-| `LOCATIONS` | *(single-channel only, optional)* Comma-separated location substrings |
-| `MAX_NOTIFICATIONS_PER_RUN` | *(optional)* Default: `25` |
-
-Optional non-secret repository variables can be set under **Settings** → **Secrets and variables** → **Actions** → **Variables**:
-
-| Variable name | Value |
-|---|---|
-| `RECENT_POSTING_MAX_AGE_HOURS` | Default: `24`; only notify postings with recent timestamps |
-| `ATS_CONCURRENCY` | Default: `5`; number of company job boards fetched concurrently |
-| `SEND_NO_NEW_SUMMARY` | Default: `false`; set to `true` to send a summary when no new jobs are found |
-| `RUN_COMPANY_DISCOVERY` | Set to `true` to run `discover_companies.py` before scraping |
-| `DISCOVERY_SOURCE_URLS` | Comma-separated URLs to scan for ATS links |
-| `INCLUDE_DISCOVERED_COMPANIES` | Default: `true`; merge `discovered_companies.json` into runtime targets |
-| `DISCOVERED_COMPANIES_PATH` | Default: `discovered_companies.json` |
-
-### 7. Enable Actions write permissions
-
-Go to **Settings** → **Actions** → **General** → scroll to **Workflow permissions** → select **Read and write permissions** → Save.
-
-### 8. Test the full pipeline
-
-Go to **Actions** tab → select **Job Scraper** → click **Run workflow**.
-
-Check that:
-- The workflow completes without errors
-- A `chore: update seen_jobs [skip ci]` commit appears in your repo
-- No Discord notifications were sent (since `--init` already seeded everything)
-
-The cron takes over from here. New job postings will appear in Discord automatically.
+`--channels` is the tool for tuning filters: it ignores seen-state and shows the full picture for the window.
 
 ---
 
 ## Customization
 
-### Add or remove companies
+### Keywords, exclusions, locations
 
-Edit `companies.py`. Each entry is a company slug — the identifier used in the ATS URL:
+Defaults are in `config.py` (`DEFAULT_PM_*`, `DEFAULT_SWE_FULL_TIME_*`, `DEFAULT_LOCATIONS`, `DEFAULT_EXCLUDED_LOCATIONS`). Matching is whole-word and case-insensitive. An excluded word is ignored when it sits inside a matched positive phrase (`manager` in `product manager`).
 
-| Platform | Job board URL pattern | Slug |
-|---|---|---|
-| Greenhouse | `https://boards.greenhouse.io/<slug>/jobs` | `<slug>` |
-| Lever | `https://jobs.lever.co/<slug>` | `<slug>` |
-| Ashby | `https://jobs.ashbyhq.com/<slug>` | `<slug>` |
+Locations: short entries (`us`, `ca`, `ny`) match as whole tokens, longer ones as substrings. Entries in `excluded_locations` (Canada, UK, India, …) veto a job unless a concrete US location also appears, so "Remote - Canada" is rejected while "Remote - US or Canada" passes. Blank or work-model-only locations ("Hybrid", "N/A") are kept.
 
-```python
-COMPANIES = {
-    "greenhouse": ["stripe", "anthropic", "your-new-company"],
-    ...
-}
-```
+To change a built-in channel without editing code, put a channel with the same `name` in `CHANNELS_JSON` / `channels.json` — it replaces the defaults. Any other `name` adds a channel.
 
-### Auto-discover ATS slugs
+### Companies
+
+Edit `companies.py`. Every slug in it was verified on 2026-09-04. Verify a new one:
 
 ```bash
-python discover_companies.py --sources "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json,https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json"
+curl -s "https://boards-api.greenhouse.io/v1/boards/<slug>/jobs" | python3 -c "import sys,json; print(len(json.load(sys.stdin).get('jobs',[])))"
+curl -s "https://api.lever.co/v0/postings/<slug>?mode=json" | python3 -c "import sys,json; print(len(json.load(sys.stdin)))"
+curl -s "https://api.ashbyhq.com/posting-api/job-board/<slug>" | python3 -c "import sys,json; print(len(json.load(sys.stdin).get('jobs',[])))"
 ```
 
-The discovery step:
-- scans source URLs for ATS links (`boards.greenhouse.io`, `jobs.lever.co`, `jobs.ashbyhq.com`)
-- extracts slug candidates
-- validates each candidate with the corresponding public ATS API
-- writes/merges valid slugs into `discovered_companies.json`
+Workday tenants use `WORKDAY_TENANTS="tenant:wdN:site:Label,..."`; find the values in a company's careers URL (`https://<tenant>.<wdN>.myworkdayjobs.com/<site>`).
 
-At runtime, `main.py` calls `companies.get_companies()` to merge static `companies.py` targets with discovered slugs (unless `INCLUDE_DISCOVERED_COMPANIES=false`).
+### Sources
 
-### Configure multiple Discord channels
+| Source | Kind | Notes |
+|---|---|---|
+| SimplifyJobs `Summer2027-Internships`, `New-Grad-Positions`; vanshb03 `Summer2027-Internships`, `New-Grad-2027` | `listings.json` | Precise `date_posted`. Roll the year in `SIMPLIFY_URLS` when a new cycle starts; don't list renamed old repos (GitHub serves both names → double download) |
+| speedyapply `2027-SWE-College-Jobs`, `2027-AI-College-Jobs` | README table | Relative age (`3d`) |
+| jobright-ai `2026-Product-Management-Internship`, `2026-Product-Management-New-Grad`, `2026-Software-Engineer-New-Grad` | README table | This is the data behind intern-list.com. Date-only |
+| zapplyjobs `New-Grad-Jobs-2027` | README table | Regenerated every ~15 min, ages in minutes |
+| ApplyGuy `2027-New-Grad-Jobs`, harrycodingnow `new-grad-2027-tracker` | JSON | Trackers that pull Workday/Eightfold boards (NVIDIA, Qualcomm, Microsoft, Jane Street…). Field specs in `scrapers/json_sources.py` |
+| amazon.jobs | JSON | Six search queries, sorted by recency |
+| Workday | JSON (POST) | NVIDIA, Salesforce, Adobe, Capital One, Intel |
+| Greenhouse / Lever / Ashby | JSON | ~110 boards in `companies.py` |
+| Hacker News | JSON | Monthly "Who is Hiring?" thread |
 
-For the built-in SWE and PM channels, set `SWE_WEBHOOK_URL` and
-`PM_WEBHOOK_URL` as GitHub repository secrets. The bot will use the default
-SWE/PM keywords, exclusions, and locations from `config.py`.
-
-Use `channels.json` locally or `CHANNELS_JSON` in GitHub Actions when you need
-custom channel definitions. `CHANNELS_JSON` can now add extra channels while
-keeping the built-in SWE/PM channels, or override a built-in channel by
-reusing the same `name`. Each channel has its own webhook, keywords, excluded
-keywords, and optional locations.
-
-```json
-[
-  {
-    "name": "swe-jobs",
-    "webhook_url": "https://discord.com/api/webhooks/...",
-    "keywords": ["intern", "new grad", "software engineer"],
-    "excluded_keywords": ["senior", "staff", "manager"],
-    "locations": []
-  },
-  {
-    "name": "swe-full-time-ai-ml-jobs",
-    "webhook_url": "https://discord.com/api/webhooks/...",
-    "keywords": ["software engineer", "engineer", "ml engineer", "ai engineer", "llm"],
-    "excluded_keywords": ["intern", "internship", "new grad", "senior", "staff", "manager"],
-    "locations": ["remote", "new york", "seattle", "san francisco"]
-  }
-]
-```
-
-After adding channels to an existing repo, run `python main.py --init` once if you want to seed current matches without sending notifications.
-
-The keyword matcher treats mixed early-career and role keywords as an AND filter:
-titles must match both an early-career term such as `intern` or `new grad` and
-a role term such as `software engineer` or `product manager`. This avoids broad
-matches like `HR Intern`. Excluded terms still block titles, except when the
-excluded word appears only inside a positive phrase, such as `manager` inside
-`product manager`.
-
-SWE defaults now include broader role nouns such as `engineer`,
-`engineering`, `developer`, `software development`, `programmer`, `sde`,
-`llm`, and `agentic`, which lets titles such as `Engineering Intern` or
-`Software Development Intern` pass the early-career intersection filter.
-
-Location filters keep jobs with blank location fields, since many remote roles
-do not populate structured location data. Short filters like `US`, `CA`, or
-`NY` are matched as standalone tokens to avoid matching unrelated words. The
-default location list also includes full state names and common tech-hub city
-names such as `texas`, `massachusetts`, `bellevue`, `palo alto`, and
-`mountain view`.
-
-Normal runs only notify jobs whose `posted_at` timestamp is within
-`RECENT_POSTING_MAX_AGE_HOURS` hours. Greenhouse exposes `updated_at`, not a
-true first-published timestamp, so recently updated listings may still appear.
-
-### Change single-channel keywords
-
-Update the `KEYWORDS` secret in GitHub (or `KEYWORDS` in your `.env` for local runs).
-Comma-separated, case-insensitive substring match against job titles.
-
-### Filter out senior roles
-
-Update the `EXCLUDED_KEYWORDS` secret. Default excludes: `senior, staff, lead, director, principal, manager, vp, head of`.
-
-### Filter by location
-
-Set the `LOCATIONS` secret to a comma-separated list of location substrings, e.g., `remote,san francisco,new york`. Leave blank to see all locations.
-
-### Trigger manually
-
-Go to **Actions** tab → **Job Scraper** → **Run workflow** button.
+Evaluated and not used: intern-list.com (Airtable embeds, no API — jobright-ai repos are the same data), briansjobsearch.com (a search-query builder, no listings), Microsoft careers API (ignores query/paging), Google/Meta/Apple/Uber/Tesla careers (no public JSON).
 
 ---
 
@@ -222,38 +137,40 @@ Go to **Actions** tab → **Job Scraper** → **Run workflow** button.
 
 ```
 .
-├── .github/workflows/scraper.yml  # GitHub Actions cron job
+├── .github/workflows/scraper.yml  # cron + workflow_dispatch (mode: normal | init)
 ├── scrapers/
-│   ├── base.py                    # Job dataclass + abstract BaseScraper
-│   ├── greenhouse.py              # Greenhouse ATS scraper
-│   ├── lever.py                   # Lever ATS scraper
-│   ├── ashby.py                   # Ashby ATS scraper
-│   └── markdown_table.py          # SpeedyApply + JobRight GitHub-README scrapers
-├── companies.py                   # Master list of companies to scrape
-├── discover_companies.py          # ATS slug discovery + API validation
-├── config.py                      # Env/channel loading + defaults
-├── discord_notifier.py            # Discord webhook integration
-├── main.py                        # Orchestrator (--init flag for first run)
-├── test_run.py                    # Standalone scraper verification script
-├── seen_jobs.json                 # Persisted deduplication state (committed by Actions)
-├── channels.json.example          # Multi-channel config example
-├── requirements.txt
-├── .env.example
-└── README.md
+│   ├── base.py                    # Job dataclass, keyword + location matching
+│   ├── fetch.py                   # shared httpx client, retries, error formatting
+│   ├── greenhouse.py / lever.py / ashby.py
+│   ├── simplify.py                # SimplifyJobs-format listings.json
+│   ├── markdown_table.py          # header-driven README table parser (speedyapply, jobright, zapply)
+│   ├── json_sources.py            # spec-driven JSON trackers (ApplyGuy, gradtracker)
+│   ├── bigtech.py                 # Amazon, Workday
+│   └── hackernews.py
+├── companies.py                   # ATS slugs (verified 2026-09-04)
+├── config.py                      # env parsing, channel defaults, source URLs
+├── discord_notifier.py            # webhook posting, 429 handling
+├── main.py                        # orchestrator (--init seeds without notifying)
+├── test_run.py                    # dry runs: --channels, --source <name>
+├── tests/                         # unit tests (pytest)
+├── seen_jobs.json                 # dedupe state, committed by Actions
+├── queued_jobs.json               # capped notifications awaiting a quiet run
+├── channels.json.example          # generated from config defaults
+└── .env.example
 ```
 
 ---
 
 ## Troubleshooting
 
-**Workflow fails on `git push`**
-→ Check that **Read and write permissions** is enabled under Settings → Actions → General → Workflow permissions. The workflow now fetches and rebases before pushing `seen_jobs.json` and `discovered_companies.json`, and runs under a single concurrency group to avoid duplicate notifications when multiple runs land close together.
+**Runs are hours apart** → GitHub cron delay; set up the external trigger (Setup step 6).
 
-**No notifications arriving**
-→ Run `python test_run.py` locally to verify scrapers return jobs. Check that your `DISCORD_WEBHOOK_URL` secret is set correctly.
+**A burst of old jobs after adding sources** → run the workflow with mode `init` first.
 
-**Too many notifications on first run**
-→ You skipped `python main.py --init`. Delete `seen_jobs.json`, run `--init` locally, push the updated file, then re-enable the cron.
+**Workflow fails on `git push`** → enable Read and write permissions (Setup step 4). The workflow rebases before pushing and runs in one concurrency group.
 
-**A company returns 0 jobs / 404 warnings**
-→ The company may have moved to a different ATS, or the slug may be wrong. Check the company's current careers page URL.
+**`[WARN] ... not found (404)`** → the company moved ATS; check its careers URL and update `companies.py`.
+
+**`[ERROR] ... ReadTimeout`** → raise the `REQUEST_TIMEOUT` variable (default 25 s).
+
+**Too much noise** → `python test_run.py --channels --hours 72`, then extend the exclusion lists in `config.py` (or override the channel via `CHANNELS_JSON`).

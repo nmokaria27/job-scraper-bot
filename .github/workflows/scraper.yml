@@ -6,7 +6,15 @@ env:
 on:
   schedule:
     - cron: '7,22,37,52 * * * *'   # Every 15 minutes at off-peak minutes
-  workflow_dispatch:           # Allow manual trigger from the GitHub Actions UI
+  workflow_dispatch:           # Manual trigger (GitHub UI, or cron-job.org via the REST API)
+    inputs:
+      mode:
+        description: "normal = scrape + notify; init = seed seen_jobs.json for current matches WITHOUT notifying (use after adding sources/channels)"
+        type: choice
+        default: normal
+        options:
+          - normal
+          - init
 
 concurrency:
   group: job-scraper-main
@@ -15,6 +23,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 15        # a hung source must not block the next scheduled run
     permissions:
       contents: write          # Required to commit seen_jobs.json back to the repo
 
@@ -42,8 +51,8 @@ jobs:
 
       - name: Run scraper
         env:
-          # Preferred multi-channel mode: set these as repository secrets.
-          SWE_WEBHOOK_URL: ${{ secrets.SWE_WEBHOOK_URL }}
+          # Built-in channels: set these as repository secrets.
+          # (SWE_WEBHOOK_URL / the internship channel was retired 2026-09-04.)
           PM_WEBHOOK_URL: ${{ secrets.PM_WEBHOOK_URL }}
           FULL_TIME_WEBHOOK_URL: ${{ secrets.FULL_TIME_WEBHOOK_URL }}
           # Advanced multi-channel mode: JSON list, or {"channels": [...]}
@@ -61,11 +70,23 @@ jobs:
           SEND_NO_NEW_SUMMARY: ${{ vars.SEND_NO_NEW_SUMMARY }}
           INCLUDE_DISCOVERED_COMPANIES: ${{ vars.INCLUDE_DISCOVERED_COMPANIES }}
           DISCOVERED_COMPANIES_PATH: ${{ vars.DISCOVERED_COMPANIES_PATH }}
-          # SimplifyJobs (optional — defaults to Summer internships + New Grad)
-          SIMPLIFY_URLS: ${{ secrets.SIMPLIFY_URLS }}
+          # Source overrides (optional — all have defaults in config.py)
+          SIMPLIFY_URLS: ${{ vars.SIMPLIFY_URLS }}
+          SPEEDYAPPLY_URLS: ${{ vars.SPEEDYAPPLY_URLS }}
+          JOBRIGHT_URLS: ${{ vars.JOBRIGHT_URLS }}
+          ZAPPLY_URLS: ${{ vars.ZAPPLY_URLS }}
+          JSON_SOURCE_URLS: ${{ vars.JSON_SOURCE_URLS }}
+          WORKDAY_TENANTS: ${{ vars.WORKDAY_TENANTS }}
+          REQUEST_TIMEOUT: ${{ vars.REQUEST_TIMEOUT }}
           # HackerNews (optional — defaults to 500 comments)
-          HN_MAX_COMMENTS: ${{ secrets.HN_MAX_COMMENTS }}
-        run: python main.py
+          HN_MAX_COMMENTS: ${{ vars.HN_MAX_COMMENTS }}
+        run: |
+          if [ "${{ github.event.inputs.mode }}" = "init" ]; then
+            echo "::notice::INIT mode — seeding seen_jobs.json, no Discord notifications"
+            python main.py --init
+          else
+            python main.py
+          fi
 
       - name: Commit updated seen_jobs.json
         run: |

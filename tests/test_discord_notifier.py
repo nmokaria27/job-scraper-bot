@@ -3,10 +3,6 @@ from datetime import datetime, timezone
 import sys
 from unittest.mock import MagicMock
 
-# Mock httpx because it's not installed and we don't need it for testing _build_job_embed
-sys.modules['httpx'] = MagicMock()
-# Mock config as well if needed
-sys.modules['config'] = MagicMock()
 
 from scrapers.base import Job
 from discord_notifier import _build_job_embed

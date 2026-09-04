@@ -10,8 +10,25 @@ class Job:
     company: str
     location: str
     url: str
-    platform: str    # "greenhouse", "lever", "ashby", "simplify", "hackernews"
+    platform: str    # "greenhouse", "lever", "ashby", "simplify", "speedyapply", "jobright", "hackernews"
     posted_at: str   # ISO string or "Unknown"
+
+
+# Display names for ATS slugs that don't title-case cleanly.
+COMPANY_DISPLAY_NAMES: dict[str, str] = {
+    "openai": "OpenAI",
+    "deepmind": "Google DeepMind",
+    "ashby": "Ashby",
+    "anyscale": "Anyscale",
+}
+
+
+def company_name_from_slug(slug: str) -> str:
+    """Turn an ATS board slug into a readable company name."""
+    key = slug.strip().lower()
+    if key in COMPANY_DISPLAY_NAMES:
+        return COMPANY_DISPLAY_NAMES[key]
+    return slug.replace("-", " ").replace("_", " ").title()
 
 
 def _word_match(keyword: str, text: str) -> bool:
@@ -98,7 +115,9 @@ def _matches_location_filter(filter_value: str, location: str) -> bool:
         return False
     location_without_periods = location.replace(".", "")
     needle_without_periods = needle.replace(".", "")
-    if len(needle) <= 3:
+    # Decide token-vs-substring on the period-stripped form so "u.s." behaves
+    # like "us" (a whole token) instead of matching inside "a-us-tralia".
+    if len(needle_without_periods) <= 3:
         return bool(
             re.search(
                 r"(?<![a-z0-9])" + re.escape(needle_without_periods) + r"(?![a-z0-9])",
@@ -106,6 +125,92 @@ def _matches_location_filter(filter_value: str, location: str) -> bool:
             )
         )
     return needle in location or needle_without_periods in location_without_periods
+
+
+def _location_token_match(needle: str, location: str) -> bool:
+    """Whole-word match for excluded locations ("india" must not hit "Indianapolis")."""
+    needle = needle.strip().lower().replace(".", "")
+    if not needle:
+        return False
+    return bool(
+        re.search(
+            r"(?<![a-z0-9])" + re.escape(needle) + r"(?![a-z0-9])",
+            location.replace(".", ""),
+        )
+    )
+
+
+# Location strings that carry a work model but no place. Treated like a blank
+# location (benefit of the doubt) instead of failing every location filter.
+WORK_MODEL_ONLY_LOCATIONS: set[str] = {
+    "remote",
+    "hybrid",
+    "in-office",
+    "in office",
+    "on-site",
+    "onsite",
+    "on site",
+    "n/a",
+    "na",
+    "tbd",
+    "unknown",
+    "see posting",
+    "multiple locations",
+    "multiple",
+    "various",
+    "flexible",
+    "not specified",
+    "remote / not specified",
+}
+
+# Positive location tokens that are too ambiguous to override a foreign
+# location on their own: "remote" (Remote - Canada), "ca" (Canada),
+# "wa" (Western Australia).
+WEAK_LOCATION_TOKENS: set[str] = {"remote", "ca", "wa"}
+
+
+_COUNT_ONLY_LOCATION_RE = re.compile(r"^\d+\s+locations?$")
+
+
+def has_real_location(location: str) -> bool:
+    """True when the location names an actual place, not just a work model."""
+    normalized = re.sub(r"\s+", " ", (location or "")).strip().lower()
+    if not normalized or normalized in WORK_MODEL_ONLY_LOCATIONS:
+        return False
+    return not _COUNT_ONLY_LOCATION_RE.match(normalized)
+
+
+def location_is_allowed(
+    location: str,
+    locations_filter: list[str],
+    excluded_locations: list[str] | None = None,
+) -> bool:
+    """
+    Location filter used by every channel.
+
+    - No filter, blank location, or work-model-only location -> allowed.
+    - Otherwise at least one positive entry must match.
+    - If an excluded (foreign) location also matches, keep the job only when a
+      concrete positive token matched too. "Remote - US or Canada" passes,
+      "Remote - Canada" and "Toronto, ON, CA" do not.
+    """
+    if not locations_filter:
+        return True
+    if not has_real_location(location):
+        return True
+
+    location_lower = location.lower()
+    positives = [loc for loc in locations_filter if _matches_location_filter(loc, location_lower)]
+    if not positives:
+        return False
+
+    if excluded_locations and any(
+        _location_token_match(loc, location_lower) for loc in excluded_locations
+    ):
+        strong = [loc for loc in positives if loc.strip().lower() not in WEAK_LOCATION_TOKENS]
+        return bool(strong)
+
+    return True
 
 
 class BaseScraper(ABC):
@@ -157,14 +262,11 @@ class BaseScraper(ABC):
         self,
         location: str,
         locations_filter: list[str],
+        excluded_locations: list[str] | None = None,
     ) -> bool:
         """
-        Returns True if locations_filter is empty, if the job has no structured
-        location, or if any configured location matches the job location.
+        Returns True if locations_filter is empty, if the job has no real
+        location, or if a configured location matches and no excluded
+        location vetoes it. See `location_is_allowed`.
         """
-        if not locations_filter:
-            return True
-        if not location:
-            return True
-        location_lower = location.lower()
-        return any(_matches_location_filter(loc, location_lower) for loc in locations_filter)
+        return location_is_allowed(location, locations_filter, excluded_locations)
