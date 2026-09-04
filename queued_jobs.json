@@ -3598,8 +3598,302 @@
         "platform": "jobright",
         "posted_at": "2026-09-03",
         "queued_at": "2026-09-04T21:53:57.310016+00:00"
+      },
+      {
+        "id": "simplify-c192d7cd-8e41-43d0-9f80-86b20fa05310",
+        "seen_keys": [
+          "simplify-c192d7cd-8e41-43d0-9f80-86b20fa05310",
+          "url:https://careers.jhuapl.edu/jobs/59974"
+        ],
+        "title": "Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development",
+        "company": "Johns Hopkins Applied Physics Laboratory",
+        "location": "Laurel, MD",
+        "url": "https://careers.jhuapl.edu/jobs/59974?icims=1",
+        "platform": "simplify",
+        "posted_at": "2026-09-04T22:07:29+00:00",
+        "queued_at": "2026-09-04T23:59:58.660987+00:00"
+      },
+      {
+        "id": "simplify-787a34fe-7bf8-4c55-b010-f4c0d496b5b3",
+        "seen_keys": [
+          "simplify-787a34fe-7bf8-4c55-b010-f4c0d496b5b3",
+          "url:https://careers.jhuapl.edu/jobs/59967"
+        ],
+        "title": "Robotic/Autonomous Systems Engineer - Maritime Robotics",
+        "company": "Johns Hopkins Applied Physics Laboratory",
+        "location": "Laurel, MD",
+        "url": "https://careers.jhuapl.edu/jobs/59967?icims=1",
+        "platform": "simplify",
+        "posted_at": "2026-09-04T22:07:29+00:00",
+        "queued_at": "2026-09-04T23:59:58.661003+00:00"
+      },
+      {
+        "id": "simplify-3c896aa0-4c92-4cf3-93d4-7da41b7a9f91",
+        "seen_keys": [
+          "simplify-3c896aa0-4c92-4cf3-93d4-7da41b7a9f91",
+          "url:https://careers.jhuapl.edu/jobs/59918"
+        ],
+        "title": "Data Scientist New Grad - Computer Scientist - Decision Systems",
+        "company": "Johns Hopkins Applied Physics Laboratory",
+        "location": "Laurel, MD",
+        "url": "https://careers.jhuapl.edu/jobs/59918?icims=1",
+        "platform": "simplify",
+        "posted_at": "2026-09-04T22:07:27+00:00",
+        "queued_at": "2026-09-04T23:59:58.661017+00:00"
+      },
+      {
+        "id": "simplify-bd069b24-aa60-4d48-8c89-899ea7fac476",
+        "seen_keys": [
+          "simplify-bd069b24-aa60-4d48-8c89-899ea7fac476",
+          "url:https://eyglobal.yello.co/jobs/k-0h0FlaXImE-sESVrR35A"
+        ],
+        "title": "Artificial Intelligence Analyst - Tax Technology and Transformation - Artificial Intelligence",
+        "company": "Ernst & Young",
+        "location": "Dallas, TX / NYC",
+        "url": "https://eyglobal.yello.co/jobs/k-0h0FlaXImE-sESVrR35A?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+        "platform": "simplify",
+        "posted_at": "2026-09-04T22:06:23+00:00",
+        "queued_at": "2026-09-04T23:59:58.661030+00:00"
+      },
+      {
+        "id": "simplify-238b4335-e95e-471b-ad55-a3d3da60a5f6",
+        "seen_keys": [
+          "simplify-238b4335-e95e-471b-ad55-a3d3da60a5f6",
+          "url:https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004"
+        ],
+        "title": "Associate Software Engineer",
+        "company": "Garner Health",
+        "location": "NYC",
+        "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004",
+        "platform": "simplify",
+        "posted_at": "2026-09-04T22:04:48+00:00",
+        "queued_at": "2026-09-04T23:59:58.661042+00:00"
+      },
+      {
+        "id": "simplify-7663017a-6036-4a9f-997c-0db0dd562328",
+        "seen_keys": [
+          "simplify-7663017a-6036-4a9f-997c-0db0dd562328",
+          "url:https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056"
+        ],
+        "title": "Software Engineer - Cloud Platform",
+        "company": "GlobalFoundries",
+        "location": "Santa Clara, CA",
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056",
+        "platform": "simplify",
+        "posted_at": "2026-09-04T00:00:00+00:00",
+        "queued_at": "2026-09-04T23:59:58.661070+00:00"
+      },
+      {
+        "id": "jobright-d1ac0d2de7b0",
+        "seen_keys": [
+          "jobright-d1ac0d2de7b0",
+          "url:https://jobright.ai/jobs/info/6a9b465990a313642c65975c"
+        ],
+        "title": "Junior Application Developer",
+        "company": "MANTECH",
+        "location": "United States",
+        "url": "https://jobright.ai/jobs/info/6a9b465990a313642c65975c?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661085+00:00"
+      },
+      {
+        "id": "jobright-43e93bc75858",
+        "seen_keys": [
+          "jobright-43e93bc75858",
+          "url:https://jobright.ai/jobs/info/6a9b417113883870605976d5"
+        ],
+        "title": "Software Engineer - CTJ - Poly",
+        "company": "Microsoft",
+        "location": "Reston, VA, United States",
+        "url": "https://jobright.ai/jobs/info/6a9b417113883870605976d5?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661097+00:00"
+      },
+      {
+        "id": "jobright-74cd9a08daf3",
+        "seen_keys": [
+          "jobright-74cd9a08daf3",
+          "url:https://jobright.ai/jobs/info/6a9b3ee8fe45b8490f60796c"
+        ],
+        "title": "Entry Level Software Engineer",
+        "company": "General Dynamics Mission Systems",
+        "location": "Lakewood, OH, United States",
+        "url": "https://jobright.ai/jobs/info/6a9b3ee8fe45b8490f60796c?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661109+00:00"
+      },
+      {
+        "id": "jobright-1f4bea63e130",
+        "seen_keys": [
+          "jobright-1f4bea63e130",
+          "url:https://jobright.ai/jobs/info/6a9b09092cdc5958f53ea884"
+        ],
+        "title": "Junior Software Engineer",
+        "company": "Auto-Chlor System",
+        "location": "Mountain View, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6a9b09092cdc5958f53ea884?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661120+00:00"
+      },
+      {
+        "id": "jobright-9bf1adafe87d",
+        "seen_keys": [
+          "jobright-9bf1adafe87d",
+          "url:https://jobright.ai/jobs/info/6a9b33eb90a313642c659155"
+        ],
+        "title": "Associate Software Engineer",
+        "company": "HealthEdge",
+        "location": "Remote, United States",
+        "url": "https://jobright.ai/jobs/info/6a9b33eb90a313642c659155?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661131+00:00"
+      },
+      {
+        "id": "jobright-6f242dc63baf",
+        "seen_keys": [
+          "jobright-6f242dc63baf",
+          "url:https://jobright.ai/jobs/info/6a99df4fad752e2ad55029c0"
+        ],
+        "title": "Full Stack Software Developer",
+        "company": "Cognizant",
+        "location": "Plano, TX, United States",
+        "url": "https://jobright.ai/jobs/info/6a99df4fad752e2ad55029c0?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661142+00:00"
+      },
+      {
+        "id": "jobright-9bf73097ae10",
+        "seen_keys": [
+          "jobright-9bf73097ae10",
+          "url:https://jobright.ai/jobs/info/6a53be0d8ef95364ead93254"
+        ],
+        "title": "Software Engineer (Starlink)",
+        "company": "SpaceX",
+        "location": "Redmond, WA, United States",
+        "url": "https://jobright.ai/jobs/info/6a53be0d8ef95364ead93254?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661156+00:00"
+      },
+      {
+        "id": "jobright-332faa952ceb",
+        "seen_keys": [
+          "jobright-332faa952ceb",
+          "url:https://jobright.ai/jobs/info/69a4141db600907a962a1f15"
+        ],
+        "title": "Backend Python Engineer - Clearance Required",
+        "company": "BTI360",
+        "location": "Tysons Corner, VA, United States",
+        "url": "https://jobright.ai/jobs/info/69a4141db600907a962a1f15?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661167+00:00"
+      },
+      {
+        "id": "jobright-2d472681b40c",
+        "seen_keys": [
+          "jobright-2d472681b40c",
+          "url:https://jobright.ai/jobs/info/6a9a52536c308f08f89c5815"
+        ],
+        "title": "Software Engineer, Measurement Applications",
+        "company": "Keysight Technologies",
+        "location": "Colorado Springs, CO, United States",
+        "url": "https://jobright.ai/jobs/info/6a9a52536c308f08f89c5815?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661178+00:00"
+      },
+      {
+        "id": "gradtracker-6678cfbf38b5",
+        "seen_keys": [
+          "gradtracker-6678cfbf38b5",
+          "url:https://www.amazon.jobs/en/jobs/10530461/data-engineer-i-zappos-analytics"
+        ],
+        "title": "Data Engineer I, Zappos Analytics",
+        "company": "Amazon",
+        "location": "New York, New York, USA, United States",
+        "url": "https://www.amazon.jobs/en/jobs/10530461/data-engineer-i-zappos-analytics",
+        "platform": "gradtracker",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661186+00:00"
+      },
+      {
+        "id": "gradtracker-ad8eb7533a23",
+        "seen_keys": [
+          "gradtracker-ad8eb7533a23",
+          "url:https://apply.careers.microsoft.com/careers/job/1970393556867395"
+        ],
+        "title": "Software Engineer - CTJ - Poly",
+        "company": "Microsoft",
+        "location": "United States, Washington, Redmond, United States",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
+        "platform": "gradtracker",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661194+00:00"
+      },
+      {
+        "id": "amazon-10530555",
+        "seen_keys": [
+          "amazon-10530555",
+          "url:https://www.amazon.jobs/en/jobs/10530555/software-dev-engineer-aws-elastic-container-service"
+        ],
+        "title": "Software Dev Engineer, AWS Elastic Container Service",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10530555/software-dev-engineer-aws-elastic-container-service",
+        "platform": "amazon",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661203+00:00"
+      },
+      {
+        "id": "amazon-10530565",
+        "seen_keys": [
+          "amazon-10530565",
+          "url:https://www.amazon.jobs/en/jobs/10530565/software-development-engineer-devx-lift"
+        ],
+        "title": "Software Development Engineer, DevX LIFT",
+        "company": "Amazon",
+        "location": "Raleigh, North Carolina, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10530565/software-development-engineer-devx-lift",
+        "platform": "amazon",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661211+00:00"
+      },
+      {
+        "id": "amazon-10530570",
+        "seen_keys": [
+          "amazon-10530570",
+          "url:https://www.amazon.jobs/en/jobs/10530570/member-of-technical-staff-frontier-ai-robotics-far"
+        ],
+        "title": "Member of Technical Staff, Frontier AI & Robotics (FAR)",
+        "company": "Amazon",
+        "location": "San Francisco, California, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10530570/member-of-technical-staff-frontier-ai-robotics-far",
+        "platform": "amazon",
+        "posted_at": "2026-09-04",
+        "queued_at": "2026-09-04T23:59:58.661219+00:00"
+      },
+      {
+        "id": "jobright-9f6e1d56b7f6",
+        "seen_keys": [
+          "jobright-9f6e1d56b7f6",
+          "url:https://jobright.ai/jobs/info/6a97357ef5337b2cf7320a40"
+        ],
+        "title": "Associate Software Engineer-Hire-to-Train Program (Pega)",
+        "company": "Accenture Federal Services",
+        "location": "Washington, DC, United States",
+        "url": "https://jobright.ai/jobs/info/6a97357ef5337b2cf7320a40?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-03",
+        "queued_at": "2026-09-04T23:59:58.661231+00:00"
       }
     ]
   },
-  "last_run": "2026-09-04T21:53:57.996748+00:00"
+  "last_run": "2026-09-04T23:59:58.974798+00:00"
 }
