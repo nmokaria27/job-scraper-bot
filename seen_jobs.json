@@ -1,94 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-aa42f975-1356-4e81-b1b7-ba3bc8cbc546",
-      "seen_at": "2026-08-05T06:46:34.259352+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446718848199",
-      "seen_at": "2026-08-05T06:46:34.259612+00:00"
-    },
-    {
-      "id": "simplify-1356bccf-812b-4aec-bc0e-77f74393868f",
-      "seen_at": "2026-08-05T06:46:34.259817+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446717859953",
-      "seen_at": "2026-08-05T06:46:34.259981+00:00"
-    },
-    {
-      "id": "simplify-f68322f9-2ad9-48c4-9fcb-785a29ddd474",
-      "seen_at": "2026-08-05T06:46:34.260151+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446719767153",
-      "seen_at": "2026-08-05T06:46:34.260328+00:00"
-    },
-    {
-      "id": "simplify-d4c0487b-6fd5-415f-aa90-67e231bd1a5f",
-      "seen_at": "2026-08-05T06:46:34.260497+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446718848189",
-      "seen_at": "2026-08-05T06:46:34.260658+00:00"
-    },
-    {
-      "id": "simplify-b90d0e96-8ea2-42f6-8276-dbf324c80154",
-      "seen_at": "2026-08-05T06:46:34.260821+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446719764029",
-      "seen_at": "2026-08-05T06:46:34.260970+00:00"
-    },
-    {
-      "id": "simplify-096cb8e8-ec6c-49e2-85b5-11f2f1c5c489",
-      "seen_at": "2026-08-05T06:46:34.261126+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446719364433",
-      "seen_at": "2026-08-05T06:46:34.261290+00:00"
-    },
-    {
-      "id": "simplify-75ed4c32-1473-436a-92cb-2ef53683d3e1",
-      "seen_at": "2026-08-05T06:46:34.261447+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446719058286",
-      "seen_at": "2026-08-05T06:46:34.261595+00:00"
-    },
-    {
-      "id": "simplify-d4999f6f-b6dc-41ef-b7ee-8ec0c83e90bd",
-      "seen_at": "2026-08-05T06:46:34.261750+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446718440313",
-      "seen_at": "2026-08-05T06:46:34.261950+00:00"
-    },
-    {
-      "id": "simplify-77fe5b68-ffda-4a79-b56d-caddb2246641",
-      "seen_at": "2026-08-05T06:46:34.262108+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446719871565",
-      "seen_at": "2026-08-05T06:46:34.262273+00:00"
-    },
-    {
-      "id": "simplify-34f52f69-5cba-4c0a-ba8f-8510ff445acf",
-      "seen_at": "2026-08-05T06:46:34.262428+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446715371689",
-      "seen_at": "2026-08-05T06:46:34.262576+00:00"
-    },
-    {
-      "id": "simplify-3bc207c2-01af-4364-899b-7d1a0f58630a",
-      "seen_at": "2026-08-05T06:46:34.262729+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446716514304",
-      "seen_at": "2026-08-05T06:46:34.262876+00:00"
-    },
-    {
       "id": "simplify-861c7a8a-d9c3-4137-b070-331f0d26e5b3",
       "seen_at": "2026-08-05T11:38:15.302490+00:00"
     },
@@ -30583,10 +30495,18 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/7243bdb7-7f75-4dff-a10f-18bd7296f632",
       "seen_at": "2026-09-04T04:43:15.744406+00:00"
+    },
+    {
+      "id": "simplify-b27bdb2b-fba2-4b47-bb69-c965e4a9e543",
+      "seen_at": "2026-09-04T09:06:29.535767+00:00"
+    },
+    {
+      "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667",
+      "seen_at": "2026-09-04T09:06:29.536370+00:00"
     }
   ],
-  "last_run": "2026-09-04T04:43:15.916855+00:00",
-  "total_notified": 4563,
+  "last_run": "2026-09-04T09:06:29.810524+00:00",
+  "total_notified": 4564,
   "channels": {
     "swe-jobs": [
       "simplify-861c7a8a-d9c3-4137-b070-331f0d26e5b3",
@@ -33822,28 +33742,6 @@
       "url:https://lifeattiktok.com/search/7680555984532982069"
     ],
     "swe-ai-full-time": [
-      "simplify-aa42f975-1356-4e81-b1b7-ba3bc8cbc546",
-      "url:https://qualcomm.eightfold.ai/careers/job/446718848199",
-      "simplify-1356bccf-812b-4aec-bc0e-77f74393868f",
-      "url:https://qualcomm.eightfold.ai/careers/job/446717859953",
-      "simplify-f68322f9-2ad9-48c4-9fcb-785a29ddd474",
-      "url:https://qualcomm.eightfold.ai/careers/job/446719767153",
-      "simplify-d4c0487b-6fd5-415f-aa90-67e231bd1a5f",
-      "url:https://qualcomm.eightfold.ai/careers/job/446718848189",
-      "simplify-b90d0e96-8ea2-42f6-8276-dbf324c80154",
-      "url:https://qualcomm.eightfold.ai/careers/job/446719764029",
-      "simplify-096cb8e8-ec6c-49e2-85b5-11f2f1c5c489",
-      "url:https://qualcomm.eightfold.ai/careers/job/446719364433",
-      "simplify-75ed4c32-1473-436a-92cb-2ef53683d3e1",
-      "url:https://qualcomm.eightfold.ai/careers/job/446719058286",
-      "simplify-d4999f6f-b6dc-41ef-b7ee-8ec0c83e90bd",
-      "url:https://qualcomm.eightfold.ai/careers/job/446718440313",
-      "simplify-77fe5b68-ffda-4a79-b56d-caddb2246641",
-      "url:https://qualcomm.eightfold.ai/careers/job/446719871565",
-      "simplify-34f52f69-5cba-4c0a-ba8f-8510ff445acf",
-      "url:https://qualcomm.eightfold.ai/careers/job/446715371689",
-      "simplify-3bc207c2-01af-4364-899b-7d1a0f58630a",
-      "url:https://qualcomm.eightfold.ai/careers/job/446716514304",
       "simplify-3d38784e-80ec-40c4-9082-77aabd533031",
       "url:https://jobs.bytedance.com/en/position/7669899962768165173/detail",
       "simplify-2c2eb6e8-d129-4384-bdce-cdd5ba022bfc",
@@ -38265,7 +38163,9 @@
       "greenhouse-anthropic-4973067008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
       "ashby-openai-7243bdb7-7f75-4dff-a10f-18bd7296f632",
-      "url:https://jobs.ashbyhq.com/openai/7243bdb7-7f75-4dff-a10f-18bd7296f632"
+      "url:https://jobs.ashbyhq.com/openai/7243bdb7-7f75-4dff-a10f-18bd7296f632",
+      "simplify-b27bdb2b-fba2-4b47-bb69-c965e4a9e543",
+      "url:https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Staff-Engineer--Circuit-Design_JR94667"
     ]
   }
 }
