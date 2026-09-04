@@ -1,11 +1,11 @@
 name: Job Scraper
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 on:
   schedule:
-    - cron: '7,22,37,52 * * * *'   # Every 15 minutes at off-peak minutes
+    # Every 15 minutes at off-peak minutes, but not between midnight and 6am
+    # Eastern. GitHub cron is UTC: hours 4-9 UTC = 00:00-05:59 EDT. (In winter
+    # the window shifts an hour; the quiet-hours step below covers that.)
+    - cron: '7,22,37,52 0-3,10-23 * * *'
   workflow_dispatch:           # Manual trigger (GitHub UI, or cron-job.org via the REST API)
     inputs:
       mode:
@@ -28,28 +28,43 @@ jobs:
       contents: write          # Required to commit seen_jobs.json back to the repo
 
     steps:
+      - name: Quiet hours check (no runs 12am-6am Eastern)
+        id: quiet
+        run: |
+          HOUR=$(TZ=America/New_York date +%H)
+          if [ "$HOUR" -lt 6 ] && [ "${{ github.event.inputs.mode }}" != "init" ]; then
+            echo "::notice::Quiet hours (${HOUR}:00 Eastern) — skipping this run"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Checkout repo
-        uses: actions/checkout@v4
+        if: steps.quiet.outputs.skip != 'true'
+        uses: actions/checkout@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        if: steps.quiet.outputs.skip != 'true'
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
           cache: 'pip'
 
       - name: Install dependencies
+        if: steps.quiet.outputs.skip != 'true'
         run: pip install -r requirements.txt
 
       - name: Discover ATS companies
-        if: ${{ vars.RUN_COMPANY_DISCOVERY == 'true' }}
+        if: ${{ steps.quiet.outputs.skip != 'true' && vars.RUN_COMPANY_DISCOVERY == 'true' }}
         env:
           DISCOVERY_SOURCE_URLS: ${{ vars.DISCOVERY_SOURCE_URLS }}
           DISCOVERED_COMPANIES_PATH: ${{ vars.DISCOVERED_COMPANIES_PATH }}
         run: python discover_companies.py
 
       - name: Run scraper
+        if: steps.quiet.outputs.skip != 'true'
         env:
           # Built-in channels: set these as repository secrets.
           # (SWE_WEBHOOK_URL / the internship channel was retired 2026-09-04.)
@@ -89,6 +104,7 @@ jobs:
           fi
 
       - name: Commit updated seen_jobs.json
+        if: steps.quiet.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
