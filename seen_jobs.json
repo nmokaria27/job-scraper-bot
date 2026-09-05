@@ -53515,10 +53515,98 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a2a24310c4972328e7e70ef",
       "seen_at": "2026-09-05T20:41:55.842883+00:00"
+    },
+    {
+      "id": "zapply-67588d4a7f58",
+      "seen_at": "2026-09-05T22:23:06.513851+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/EVERSANA1/744000133638950",
+      "seen_at": "2026-09-05T22:23:06.514879+00:00"
+    },
+    {
+      "id": "zapply-9c76fe5727a7",
+      "seen_at": "2026-09-05T22:23:16.015221+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/solidigm/744000138365194",
+      "seen_at": "2026-09-05T22:23:16.016289+00:00"
+    },
+    {
+      "id": "zapply-87946b470166",
+      "seen_at": "2026-09-05T22:23:16.017202+00:00"
+    },
+    {
+      "id": "url:https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Nebraska---Elkhorn/Associate-Specialist--Engineering--BTS---Biotechnology-and-Solutions-_R414227-1",
+      "seen_at": "2026-09-05T22:23:16.018044+00:00"
+    },
+    {
+      "id": "zapply-74bcd91e83ff",
+      "seen_at": "2026-09-05T22:23:16.018873+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/RaytheonTechnologies/743999840718111",
+      "seen_at": "2026-09-05T22:23:16.019744+00:00"
+    },
+    {
+      "id": "zapply-94b9ce23ee87",
+      "seen_at": "2026-09-05T22:23:16.020626+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/Sandisk/744000134302680",
+      "seen_at": "2026-09-05T22:23:16.021449+00:00"
+    },
+    {
+      "id": "zapply-b81ce7fb67e9",
+      "seen_at": "2026-09-05T22:23:16.022277+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/ServiceNow/744000138178124",
+      "seen_at": "2026-09-05T22:23:16.023100+00:00"
+    },
+    {
+      "id": "zapply-a6cbd8e39a82",
+      "seen_at": "2026-09-05T22:23:16.023909+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/field-ai/c0932811-6a6e-45b4-bced-4d0efe50d427",
+      "seen_at": "2026-09-05T22:23:16.024723+00:00"
+    },
+    {
+      "id": "jobright-ce9a331d886c",
+      "seen_at": "2026-09-05T22:23:16.025610+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9c7969dacf777321a8e118",
+      "seen_at": "2026-09-05T22:23:16.026436+00:00"
+    },
+    {
+      "id": "jobright-e73a366b3717",
+      "seen_at": "2026-09-05T22:23:16.027282+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f6b18e2030208f276dea6",
+      "seen_at": "2026-09-05T22:23:16.028072+00:00"
+    },
+    {
+      "id": "jobright-c022cc1b804a",
+      "seen_at": "2026-09-05T22:23:16.028870+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9c7fcca7ba386c5d66ea6d",
+      "seen_at": "2026-09-05T22:23:16.029670+00:00"
+    },
+    {
+      "id": "zapply-bfeaa8299b74",
+      "seen_at": "2026-09-05T22:23:16.030488+00:00"
+    },
+    {
+      "id": "fallback:two sigma|quantitative researcher: machine learning|new york",
+      "seen_at": "2026-09-05T22:23:16.031257+00:00"
     }
   ],
-  "last_run": "2026-09-05T20:41:56.219924+00:00",
-  "total_notified": 4802,
+  "last_run": "2026-09-05T22:23:16.307147+00:00",
+  "total_notified": 4813,
   "channels": {
     "pm-jobs": [
       "simplify-d083e91c-c1b4-48f7-b678-f532b96cf705",
@@ -55147,7 +55235,9 @@
       "zapply-c53ae858d117",
       "url:https://jobs.ashbyhq.com/talos-trading/6bfa5c2e-dbd1-4b6a-93b5-3592c264ff40",
       "jobright-469ed6b929cd",
-      "url:https://jobright.ai/jobs/info/6a9c5863a7ba386c5d66e424"
+      "url:https://jobright.ai/jobs/info/6a9c5863a7ba386c5d66e424",
+      "zapply-67588d4a7f58",
+      "url:https://jobs.smartrecruiters.com/EVERSANA1/744000133638950"
     ],
     "swe-ai-full-time": [
       "simplify-8d516c44-1ed3-45b1-ad5b-eaadc09b513f",
@@ -64818,7 +64908,27 @@
       "jobright-af4928430d5e",
       "url:https://jobright.ai/jobs/info/6a84902ce459fa3baa85f399",
       "jobright-c5fce67081f4",
-      "url:https://jobright.ai/jobs/info/6a2a24310c4972328e7e70ef"
+      "url:https://jobright.ai/jobs/info/6a2a24310c4972328e7e70ef",
+      "zapply-9c76fe5727a7",
+      "url:https://jobs.smartrecruiters.com/solidigm/744000138365194",
+      "zapply-87946b470166",
+      "url:https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Nebraska---Elkhorn/Associate-Specialist--Engineering--BTS---Biotechnology-and-Solutions-_R414227-1",
+      "zapply-74bcd91e83ff",
+      "url:https://jobs.smartrecruiters.com/RaytheonTechnologies/743999840718111",
+      "zapply-94b9ce23ee87",
+      "url:https://jobs.smartrecruiters.com/Sandisk/744000134302680",
+      "zapply-b81ce7fb67e9",
+      "url:https://jobs.smartrecruiters.com/ServiceNow/744000138178124",
+      "zapply-a6cbd8e39a82",
+      "url:https://jobs.lever.co/field-ai/c0932811-6a6e-45b4-bced-4d0efe50d427",
+      "jobright-ce9a331d886c",
+      "url:https://jobright.ai/jobs/info/6a9c7969dacf777321a8e118",
+      "jobright-e73a366b3717",
+      "url:https://jobright.ai/jobs/info/6a7f6b18e2030208f276dea6",
+      "jobright-c022cc1b804a",
+      "url:https://jobright.ai/jobs/info/6a9c7fcca7ba386c5d66ea6d",
+      "zapply-bfeaa8299b74",
+      "fallback:two sigma|quantitative researcher: machine learning|new york"
     ]
   }
 }
