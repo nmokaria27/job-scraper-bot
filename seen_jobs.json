@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-45787753-974b-45ac-8b08-a2fd6962db6d",
-      "seen_at": "2026-08-06T14:38:04.684036+00:00"
-    },
-    {
-      "id": "url:https://amazon.jobs/en/jobs/10494000/data-engineer-data-science-focus-ads-science-analysis-tech-asat",
-      "seen_at": "2026-08-06T14:38:04.684302+00:00"
-    },
-    {
       "id": "simplify-e80e3302-1101-475b-8706-adaf4a95d93a",
       "seen_at": "2026-08-07T00:18:10.356755+00:00"
     },
@@ -53155,10 +53147,210 @@
     {
       "id": "url:https://job-boards.greenhouse.io/grvty/jobs/4394819009",
       "seen_at": "2026-09-05T13:26:23.631165+00:00"
+    },
+    {
+      "id": "jobright-64b4b986952f",
+      "seen_at": "2026-09-05T16:14:16.646863+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a626314f805ef6ff4232944",
+      "seen_at": "2026-09-05T16:14:16.647662+00:00"
+    },
+    {
+      "id": "zapply-1f09c41e3249",
+      "seen_at": "2026-09-05T16:14:37.714727+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/veeva/383df24e-e549-4889-b5d8-1163eed92bef",
+      "seen_at": "2026-09-05T16:14:37.715622+00:00"
+    },
+    {
+      "id": "zapply-b0cace003ced",
+      "seen_at": "2026-09-05T16:14:37.716491+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/veeva/1e141fa7-d296-4e16-ba2d-894da2c26b02",
+      "seen_at": "2026-09-05T16:14:37.717285+00:00"
+    },
+    {
+      "id": "zapply-8a9d70d43016",
+      "seen_at": "2026-09-05T16:14:37.718070+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/AbbVie/3743990012923713",
+      "seen_at": "2026-09-05T16:14:37.718868+00:00"
+    },
+    {
+      "id": "zapply-6747f29a8022",
+      "seen_at": "2026-09-05T16:14:37.719658+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/leland/93498a3e-293b-4685-8102-b3744405aacf",
+      "seen_at": "2026-09-05T16:14:37.720435+00:00"
+    },
+    {
+      "id": "zapply-05a919aad49a",
+      "seen_at": "2026-09-05T16:14:37.721217+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/hermeus/efab6659-7548-4dd7-93f0-a9c93dc83d42",
+      "seen_at": "2026-09-05T16:14:37.721979+00:00"
+    },
+    {
+      "id": "zapply-f5979e94bce6",
+      "seen_at": "2026-09-05T16:14:37.722775+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/layup/226baa91-118d-4df3-bdca-2932f8d5cfee",
+      "seen_at": "2026-09-05T16:14:37.723553+00:00"
+    },
+    {
+      "id": "zapply-1e5800784fb7",
+      "seen_at": "2026-09-05T16:14:37.724332+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Vultr/46511947-f059-4771-a4bf-57bf3a78caa4",
+      "seen_at": "2026-09-05T16:14:37.725142+00:00"
+    },
+    {
+      "id": "ashby-openai-0b9e565a-ae5f-40fc-8350-b59f71f76df1",
+      "seen_at": "2026-09-05T16:14:37.725913+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/0b9e565a-ae5f-40fc-8350-b59f71f76df1",
+      "seen_at": "2026-09-05T16:14:37.726698+00:00"
+    },
+    {
+      "id": "jobright-5bd20312462d",
+      "seen_at": "2026-09-05T16:14:37.727521+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f8148e51a1e18a2413669",
+      "seen_at": "2026-09-05T16:14:37.728320+00:00"
+    },
+    {
+      "id": "jobright-303247eca4d8",
+      "seen_at": "2026-09-05T16:14:37.729131+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a461b583dbab558e29a3c8f",
+      "seen_at": "2026-09-05T16:14:37.729917+00:00"
+    },
+    {
+      "id": "jobright-9cd0b0fce461",
+      "seen_at": "2026-09-05T16:14:37.730725+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f484fe2030208f276cd13",
+      "seen_at": "2026-09-05T16:14:37.731533+00:00"
+    },
+    {
+      "id": "jobright-64d8d71729fc",
+      "seen_at": "2026-09-05T16:14:37.732349+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7ec6b3b56bea5779c06fa3",
+      "seen_at": "2026-09-05T16:14:37.733132+00:00"
+    },
+    {
+      "id": "jobright-b2cf71e43ec4",
+      "seen_at": "2026-09-05T16:14:37.733945+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f6a48927c79391ad08c3d",
+      "seen_at": "2026-09-05T16:14:37.734731+00:00"
+    },
+    {
+      "id": "jobright-f637fe3f3c24",
+      "seen_at": "2026-09-05T16:14:37.735527+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a639f03979290281c703344",
+      "seen_at": "2026-09-05T16:14:37.736312+00:00"
+    },
+    {
+      "id": "jobright-37bbe8793df7",
+      "seen_at": "2026-09-05T16:14:37.737099+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a1538b3128680351d96002d",
+      "seen_at": "2026-09-05T16:14:37.737899+00:00"
+    },
+    {
+      "id": "jobright-f5ddc2fc28ac",
+      "seen_at": "2026-09-05T16:14:37.738695+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a52e53a8ef95364ead904ac",
+      "seen_at": "2026-09-05T16:14:37.739492+00:00"
+    },
+    {
+      "id": "jobright-6b1ddf60f8b0",
+      "seen_at": "2026-09-05T16:14:37.740294+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a2213097c30cc2cc516d39a",
+      "seen_at": "2026-09-05T16:14:37.741070+00:00"
+    },
+    {
+      "id": "jobright-09e36409068e",
+      "seen_at": "2026-09-05T16:14:37.741866+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/683df139abb1ff44979fe7bb",
+      "seen_at": "2026-09-05T16:14:37.742701+00:00"
+    },
+    {
+      "id": "jobright-719d63457b2b",
+      "seen_at": "2026-09-05T16:14:37.743528+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9c0adba7ba386c5d66ddd8",
+      "seen_at": "2026-09-05T16:14:37.744315+00:00"
+    },
+    {
+      "id": "jobright-8764d56a52a1",
+      "seen_at": "2026-09-05T16:14:37.745103+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7fa0e9ad9ff00c26baf82d",
+      "seen_at": "2026-09-05T16:14:37.745888+00:00"
+    },
+    {
+      "id": "jobright-d2d01d7981de",
+      "seen_at": "2026-09-05T16:14:37.746763+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9c0d8fa7ba386c5d66de36",
+      "seen_at": "2026-09-05T16:14:37.747551+00:00"
+    },
+    {
+      "id": "jobright-bda5b2f49e83",
+      "seen_at": "2026-09-05T16:14:37.748349+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f795ce2030208f276e6d6",
+      "seen_at": "2026-09-05T16:14:37.749136+00:00"
+    },
+    {
+      "id": "jobright-73725bf11ae5",
+      "seen_at": "2026-09-05T16:14:37.749942+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a2a1f082cde2824469bfebc",
+      "seen_at": "2026-09-05T16:14:37.750735+00:00"
+    },
+    {
+      "id": "jobright-8ebd893e2a53",
+      "seen_at": "2026-09-05T16:14:37.751546+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9b193d9c24314c35f97bfa",
+      "seen_at": "2026-09-05T16:14:37.752368+00:00"
     }
   ],
-  "last_run": "2026-09-05T13:26:24.144010+00:00",
-  "total_notified": 4756,
+  "last_run": "2026-09-05T16:14:37.998248+00:00",
+  "total_notified": 4781,
   "channels": {
     "pm-jobs": [
       "simplify-d083e91c-c1b4-48f7-b678-f532b96cf705",
@@ -54779,11 +54971,11 @@
       "jobright-1a9aa380535c",
       "url:https://jobright.ai/jobs/info/6a9b7e829c24314c35f99623",
       "jobright-de70e0f29dbe",
-      "url:https://jobright.ai/jobs/info/6a9b3d16d5ff1f3f1c39e610"
+      "url:https://jobright.ai/jobs/info/6a9b3d16d5ff1f3f1c39e610",
+      "jobright-64b4b986952f",
+      "url:https://jobright.ai/jobs/info/6a626314f805ef6ff4232944"
     ],
     "swe-ai-full-time": [
-      "simplify-45787753-974b-45ac-8b08-a2fd6962db6d",
-      "url:https://amazon.jobs/en/jobs/10494000/data-engineer-data-science-focus-ads-science-analysis-tech-asat",
       "simplify-8d516c44-1ed3-45b1-ad5b-eaadc09b513f",
       "url:https://jobs.lever.co/bluesight/e51efb52-0290-4cb7-80fe-4c786e0e3e7b/apply",
       "simplify-94b406e2-f31b-4303-b276-e99f3781da36",
@@ -64368,7 +64560,55 @@
       "applyguy-54ede7e9-60a2-4d51-a64a-28b59c61797d",
       "url:https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056",
       "applyguy-742c51bb-1024-481e-b7f0-4f60430bddbb",
-      "url:https://job-boards.greenhouse.io/grvty/jobs/4394819009"
+      "url:https://job-boards.greenhouse.io/grvty/jobs/4394819009",
+      "zapply-1f09c41e3249",
+      "url:https://jobs.lever.co/veeva/383df24e-e549-4889-b5d8-1163eed92bef",
+      "zapply-b0cace003ced",
+      "url:https://jobs.lever.co/veeva/1e141fa7-d296-4e16-ba2d-894da2c26b02",
+      "zapply-8a9d70d43016",
+      "url:https://jobs.smartrecruiters.com/AbbVie/3743990012923713",
+      "zapply-6747f29a8022",
+      "url:https://jobs.ashbyhq.com/leland/93498a3e-293b-4685-8102-b3744405aacf",
+      "zapply-05a919aad49a",
+      "url:https://jobs.lever.co/hermeus/efab6659-7548-4dd7-93f0-a9c93dc83d42",
+      "zapply-f5979e94bce6",
+      "url:https://jobs.lever.co/layup/226baa91-118d-4df3-bdca-2932f8d5cfee",
+      "zapply-1e5800784fb7",
+      "url:https://jobs.ashbyhq.com/Vultr/46511947-f059-4771-a4bf-57bf3a78caa4",
+      "ashby-openai-0b9e565a-ae5f-40fc-8350-b59f71f76df1",
+      "url:https://jobs.ashbyhq.com/openai/0b9e565a-ae5f-40fc-8350-b59f71f76df1",
+      "jobright-5bd20312462d",
+      "url:https://jobright.ai/jobs/info/6a7f8148e51a1e18a2413669",
+      "jobright-303247eca4d8",
+      "url:https://jobright.ai/jobs/info/6a461b583dbab558e29a3c8f",
+      "jobright-9cd0b0fce461",
+      "url:https://jobright.ai/jobs/info/6a7f484fe2030208f276cd13",
+      "jobright-64d8d71729fc",
+      "url:https://jobright.ai/jobs/info/6a7ec6b3b56bea5779c06fa3",
+      "jobright-b2cf71e43ec4",
+      "url:https://jobright.ai/jobs/info/6a7f6a48927c79391ad08c3d",
+      "jobright-f637fe3f3c24",
+      "url:https://jobright.ai/jobs/info/6a639f03979290281c703344",
+      "jobright-37bbe8793df7",
+      "url:https://jobright.ai/jobs/info/6a1538b3128680351d96002d",
+      "jobright-f5ddc2fc28ac",
+      "url:https://jobright.ai/jobs/info/6a52e53a8ef95364ead904ac",
+      "jobright-6b1ddf60f8b0",
+      "url:https://jobright.ai/jobs/info/6a2213097c30cc2cc516d39a",
+      "jobright-09e36409068e",
+      "url:https://jobright.ai/jobs/info/683df139abb1ff44979fe7bb",
+      "jobright-719d63457b2b",
+      "url:https://jobright.ai/jobs/info/6a9c0adba7ba386c5d66ddd8",
+      "jobright-8764d56a52a1",
+      "url:https://jobright.ai/jobs/info/6a7fa0e9ad9ff00c26baf82d",
+      "jobright-d2d01d7981de",
+      "url:https://jobright.ai/jobs/info/6a9c0d8fa7ba386c5d66de36",
+      "jobright-bda5b2f49e83",
+      "url:https://jobright.ai/jobs/info/6a7f795ce2030208f276e6d6",
+      "jobright-73725bf11ae5",
+      "url:https://jobright.ai/jobs/info/6a2a1f082cde2824469bfebc",
+      "jobright-8ebd893e2a53",
+      "url:https://jobright.ai/jobs/info/6a9b193d9c24314c35f97bfa"
     ]
   }
 }
