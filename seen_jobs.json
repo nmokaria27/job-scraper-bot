@@ -53415,10 +53415,106 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a535752d007ee02d95fb1da",
       "seen_at": "2026-09-06T16:29:37.369682+00:00"
+    },
+    {
+      "id": "jobright-a9e7bd7433b0",
+      "seen_at": "2026-09-06T18:37:20.025479+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a429749ff87fd527f984c07",
+      "seen_at": "2026-09-06T18:37:20.026252+00:00"
+    },
+    {
+      "id": "zapply-b3b01ec154c1",
+      "seen_at": "2026-09-06T18:37:30.496305+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/physicalintelligence/81d1eb25-ada9-40fd-8708-e1e42ecb2b7e",
+      "seen_at": "2026-09-06T18:37:30.497171+00:00"
+    },
+    {
+      "id": "zapply-4d2b2a738be9",
+      "seen_at": "2026-09-06T18:37:30.497989+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/synergyecp/da23f594-a1cf-4978-8770-3f8f31e7b00e",
+      "seen_at": "2026-09-06T18:37:30.498807+00:00"
+    },
+    {
+      "id": "zapply-92ba8e652015",
+      "seen_at": "2026-09-06T18:37:30.499630+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/synergyecp/ea249105-93f5-48c9-bab9-6b666eaf3208",
+      "seen_at": "2026-09-06T18:37:30.500429+00:00"
+    },
+    {
+      "id": "zapply-99cbebddfb91",
+      "seen_at": "2026-09-06T18:37:30.501230+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/gritt/0c8c31da-118d-4b83-8228-be58203d5649",
+      "seen_at": "2026-09-06T18:37:30.502022+00:00"
+    },
+    {
+      "id": "zapply-239730cc055c",
+      "seen_at": "2026-09-06T18:37:30.502823+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/synergyecp/9937b3dd-fa2f-40ae-995b-3a896a0e3bd9",
+      "seen_at": "2026-09-06T18:37:30.503634+00:00"
+    },
+    {
+      "id": "zapply-e3876cdb307e",
+      "seen_at": "2026-09-06T18:37:30.504442+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/synergyecp/529f18f5-47cd-4d45-a97f-fc36dd8aaa2c",
+      "seen_at": "2026-09-06T18:37:30.505223+00:00"
+    },
+    {
+      "id": "jobright-0d85337064c7",
+      "seen_at": "2026-09-06T18:37:30.506041+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a534f5d8576ec69c014f57f",
+      "seen_at": "2026-09-06T18:37:30.506842+00:00"
+    },
+    {
+      "id": "jobright-0d9271134d16",
+      "seen_at": "2026-09-06T18:37:30.507651+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5e37b667b2850e77defd27",
+      "seen_at": "2026-09-06T18:37:30.508446+00:00"
+    },
+    {
+      "id": "jobright-5a380b924be5",
+      "seen_at": "2026-09-06T18:37:30.509240+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a4332634461bf091787af97",
+      "seen_at": "2026-09-06T18:37:30.510037+00:00"
+    },
+    {
+      "id": "jobright-d087a2c99b49",
+      "seen_at": "2026-09-06T18:37:30.510845+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a62e67a1ed5b0056a93929c",
+      "seen_at": "2026-09-06T18:37:30.511637+00:00"
+    },
+    {
+      "id": "jobright-d0a53d1142bd",
+      "seen_at": "2026-09-06T18:37:30.512443+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0f44fd80bf0430c76322b7",
+      "seen_at": "2026-09-06T18:37:30.513227+00:00"
     }
   ],
-  "last_run": "2026-09-06T16:29:37.773692+00:00",
-  "total_notified": 4847,
+  "last_run": "2026-09-06T18:37:30.683793+00:00",
+  "total_notified": 4859,
   "channels": {
     "pm-jobs": [
       "ashby-openai-8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
@@ -55041,7 +55137,9 @@
       "zapply-e4855ca37724",
       "url:https://jobs.lever.co/matchgroup/af478895-db01-4dbe-b394-54d58201b082",
       "jobright-54f18fd5b6fa",
-      "url:https://jobright.ai/jobs/info/6a9d5d7568f82b40367379af"
+      "url:https://jobright.ai/jobs/info/6a9d5d7568f82b40367379af",
+      "jobright-a9e7bd7433b0",
+      "url:https://jobright.ai/jobs/info/6a429749ff87fd527f984c07"
     ],
     "swe-ai-full-time": [
       "greenhouse-vercel-6137983004",
@@ -64711,7 +64809,29 @@
       "jobright-b22d9d03027d",
       "url:https://jobright.ai/jobs/info/6a51263378e364789ca5958e",
       "jobright-5aca85f6554f",
-      "url:https://jobright.ai/jobs/info/6a535752d007ee02d95fb1da"
+      "url:https://jobright.ai/jobs/info/6a535752d007ee02d95fb1da",
+      "zapply-b3b01ec154c1",
+      "url:https://jobs.ashbyhq.com/physicalintelligence/81d1eb25-ada9-40fd-8708-e1e42ecb2b7e",
+      "zapply-4d2b2a738be9",
+      "url:https://jobs.lever.co/synergyecp/da23f594-a1cf-4978-8770-3f8f31e7b00e",
+      "zapply-92ba8e652015",
+      "url:https://jobs.lever.co/synergyecp/ea249105-93f5-48c9-bab9-6b666eaf3208",
+      "zapply-99cbebddfb91",
+      "url:https://jobs.ashbyhq.com/gritt/0c8c31da-118d-4b83-8228-be58203d5649",
+      "zapply-239730cc055c",
+      "url:https://jobs.lever.co/synergyecp/9937b3dd-fa2f-40ae-995b-3a896a0e3bd9",
+      "zapply-e3876cdb307e",
+      "url:https://jobs.lever.co/synergyecp/529f18f5-47cd-4d45-a97f-fc36dd8aaa2c",
+      "jobright-0d85337064c7",
+      "url:https://jobright.ai/jobs/info/6a534f5d8576ec69c014f57f",
+      "jobright-0d9271134d16",
+      "url:https://jobright.ai/jobs/info/6a5e37b667b2850e77defd27",
+      "jobright-5a380b924be5",
+      "url:https://jobright.ai/jobs/info/6a4332634461bf091787af97",
+      "jobright-d087a2c99b49",
+      "url:https://jobright.ai/jobs/info/6a62e67a1ed5b0056a93929c",
+      "jobright-d0a53d1142bd",
+      "url:https://jobright.ai/jobs/info/6a0f44fd80bf0430c76322b7"
     ]
   }
 }
