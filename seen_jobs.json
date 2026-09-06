@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-vercel-6137983004",
-      "seen_at": "2026-08-07T19:08:17.871621+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6137983004",
-      "seen_at": "2026-08-07T19:08:17.871846+00:00"
-    },
-    {
-      "id": "greenhouse-robinhood-8109753",
-      "seen_at": "2026-08-07T20:02:09.674740+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/robinhood/jobs/8109753",
-      "seen_at": "2026-08-07T20:02:09.675046+00:00"
-    },
-    {
       "id": "ashby-openai-8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
       "seen_at": "2026-08-07T22:08:10.188373+00:00"
     },
@@ -53511,10 +53495,82 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a0f44fd80bf0430c76322b7",
       "seen_at": "2026-09-06T18:37:30.513227+00:00"
+    },
+    {
+      "id": "jobright-5346a355d779",
+      "seen_at": "2026-09-06T20:50:04.687851+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5da616686b4755d1e1e737",
+      "seen_at": "2026-09-06T20:50:04.688511+00:00"
+    },
+    {
+      "id": "jobright-3ba04f69c6c4",
+      "seen_at": "2026-09-06T20:50:04.689093+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a2bfe1fc260bb1b8ae1405d",
+      "seen_at": "2026-09-06T20:50:04.689658+00:00"
+    },
+    {
+      "id": "zapply-3b7ea84ab478",
+      "seen_at": "2026-09-06T20:50:11.087837+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/layup/b2ab778f-63bb-482c-83ab-19961b7fe6b5",
+      "seen_at": "2026-09-06T20:50:11.088601+00:00"
+    },
+    {
+      "id": "jobright-299c98960fed",
+      "seen_at": "2026-09-06T20:50:11.089269+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8b42af680f314a29d40ed9",
+      "seen_at": "2026-09-06T20:50:11.089871+00:00"
+    },
+    {
+      "id": "jobright-2aa2653c07a7",
+      "seen_at": "2026-09-06T20:50:11.090499+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a714fe2ee751e0c79343362",
+      "seen_at": "2026-09-06T20:50:11.091088+00:00"
+    },
+    {
+      "id": "jobright-5499396a70a7",
+      "seen_at": "2026-09-06T20:50:11.091696+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a50f2a702522b5b722e6102",
+      "seen_at": "2026-09-06T20:50:11.092285+00:00"
+    },
+    {
+      "id": "jobright-29180328677c",
+      "seen_at": "2026-09-06T20:50:11.092865+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/690e5b98221b890c2780d204",
+      "seen_at": "2026-09-06T20:50:11.093444+00:00"
+    },
+    {
+      "id": "jobright-439126394493",
+      "seen_at": "2026-09-06T20:50:11.094023+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0f453b619335383fb2a762",
+      "seen_at": "2026-09-06T20:50:11.094584+00:00"
+    },
+    {
+      "id": "jobright-4030887cdcac",
+      "seen_at": "2026-09-06T20:50:11.095175+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/69d2d944cdb525785fbba923",
+      "seen_at": "2026-09-06T20:50:11.095728+00:00"
     }
   ],
-  "last_run": "2026-09-06T18:37:30.683793+00:00",
-  "total_notified": 4859,
+  "last_run": "2026-09-06T20:50:11.568500+00:00",
+  "total_notified": 4868,
   "channels": {
     "pm-jobs": [
       "ashby-openai-8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
@@ -55139,13 +55195,13 @@
       "jobright-54f18fd5b6fa",
       "url:https://jobright.ai/jobs/info/6a9d5d7568f82b40367379af",
       "jobright-a9e7bd7433b0",
-      "url:https://jobright.ai/jobs/info/6a429749ff87fd527f984c07"
+      "url:https://jobright.ai/jobs/info/6a429749ff87fd527f984c07",
+      "jobright-5346a355d779",
+      "url:https://jobright.ai/jobs/info/6a5da616686b4755d1e1e737",
+      "jobright-3ba04f69c6c4",
+      "url:https://jobright.ai/jobs/info/6a2bfe1fc260bb1b8ae1405d"
     ],
     "swe-ai-full-time": [
-      "greenhouse-vercel-6137983004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6137983004",
-      "greenhouse-robinhood-8109753",
-      "url:https://boards.greenhouse.io/robinhood/jobs/8109753",
       "simplify-d4d7c8e0-a6c3-4abd-933c-fb0fd6204aa9",
       "url:https://job-boards.greenhouse.io/ionq/jobs/6096581004",
       "simplify-199e7d94-1625-41cc-861d-a587e1f7b52e",
@@ -64831,7 +64887,21 @@
       "jobright-d087a2c99b49",
       "url:https://jobright.ai/jobs/info/6a62e67a1ed5b0056a93929c",
       "jobright-d0a53d1142bd",
-      "url:https://jobright.ai/jobs/info/6a0f44fd80bf0430c76322b7"
+      "url:https://jobright.ai/jobs/info/6a0f44fd80bf0430c76322b7",
+      "zapply-3b7ea84ab478",
+      "url:https://jobs.lever.co/layup/b2ab778f-63bb-482c-83ab-19961b7fe6b5",
+      "jobright-299c98960fed",
+      "url:https://jobright.ai/jobs/info/6a8b42af680f314a29d40ed9",
+      "jobright-2aa2653c07a7",
+      "url:https://jobright.ai/jobs/info/6a714fe2ee751e0c79343362",
+      "jobright-5499396a70a7",
+      "url:https://jobright.ai/jobs/info/6a50f2a702522b5b722e6102",
+      "jobright-29180328677c",
+      "url:https://jobright.ai/jobs/info/690e5b98221b890c2780d204",
+      "jobright-439126394493",
+      "url:https://jobright.ai/jobs/info/6a0f453b619335383fb2a762",
+      "jobright-4030887cdcac",
+      "url:https://jobright.ai/jobs/info/69d2d944cdb525785fbba923"
     ]
   }
 }
