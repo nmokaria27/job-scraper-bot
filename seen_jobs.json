@@ -53603,10 +53603,42 @@
     {
       "id": "fallback:two sigma|quantitative researcher: machine learning|new york",
       "seen_at": "2026-09-05T22:23:16.031257+00:00"
+    },
+    {
+      "id": "zapply-7a3459d8f951",
+      "seen_at": "2026-09-06T00:11:44.692923+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/veeva/a65d1918-e99e-4179-bebf-6ae040cfab12",
+      "seen_at": "2026-09-06T00:11:44.693758+00:00"
+    },
+    {
+      "id": "zapply-2c6d24d44c36",
+      "seen_at": "2026-09-06T00:11:44.694581+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/veeva/22f3c712-9119-4403-acb1-eb7d783cef94",
+      "seen_at": "2026-09-06T00:11:44.695359+00:00"
+    },
+    {
+      "id": "zapply-9806e73f1177",
+      "seen_at": "2026-09-06T00:11:49.838026+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compute-Platform-Engineer--License-Scheduling_JR2023965",
+      "seen_at": "2026-09-06T00:11:49.838934+00:00"
+    },
+    {
+      "id": "jobright-6e27e6a00ea3",
+      "seen_at": "2026-09-06T00:11:49.839786+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a714fdee2b7476e7b20da64",
+      "seen_at": "2026-09-06T00:11:49.840582+00:00"
     }
   ],
-  "last_run": "2026-09-05T22:23:16.307147+00:00",
-  "total_notified": 4813,
+  "last_run": "2026-09-06T00:11:50.213893+00:00",
+  "total_notified": 4817,
   "channels": {
     "pm-jobs": [
       "simplify-d083e91c-c1b4-48f7-b678-f532b96cf705",
@@ -55237,7 +55269,11 @@
       "jobright-469ed6b929cd",
       "url:https://jobright.ai/jobs/info/6a9c5863a7ba386c5d66e424",
       "zapply-67588d4a7f58",
-      "url:https://jobs.smartrecruiters.com/EVERSANA1/744000133638950"
+      "url:https://jobs.smartrecruiters.com/EVERSANA1/744000133638950",
+      "zapply-7a3459d8f951",
+      "url:https://jobs.lever.co/veeva/a65d1918-e99e-4179-bebf-6ae040cfab12",
+      "zapply-2c6d24d44c36",
+      "url:https://jobs.lever.co/veeva/22f3c712-9119-4403-acb1-eb7d783cef94"
     ],
     "swe-ai-full-time": [
       "simplify-8d516c44-1ed3-45b1-ad5b-eaadc09b513f",
@@ -64928,7 +64964,11 @@
       "jobright-c022cc1b804a",
       "url:https://jobright.ai/jobs/info/6a9c7fcca7ba386c5d66ea6d",
       "zapply-bfeaa8299b74",
-      "fallback:two sigma|quantitative researcher: machine learning|new york"
+      "fallback:two sigma|quantitative researcher: machine learning|new york",
+      "zapply-9806e73f1177",
+      "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compute-Platform-Engineer--License-Scheduling_JR2023965",
+      "jobright-6e27e6a00ea3",
+      "url:https://jobright.ai/jobs/info/6a714fdee2b7476e7b20da64"
     ]
   }
 }
