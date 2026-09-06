@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5357947008",
-      "seen_at": "2026-08-07T15:03:00.761721+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5357947008",
-      "seen_at": "2026-08-07T15:03:00.761948+00:00"
-    },
-    {
       "id": "greenhouse-vercel-6137983004",
       "seen_at": "2026-08-07T19:08:17.871621+00:00"
     },
@@ -53375,10 +53367,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a7f77ac927c79391ad0958a",
       "seen_at": "2026-09-06T13:38:37.687898+00:00"
+    },
+    {
+      "id": "jobright-54f18fd5b6fa",
+      "seen_at": "2026-09-06T16:29:31.753523+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9d5d7568f82b40367379af",
+      "seen_at": "2026-09-06T16:29:31.754296+00:00"
+    },
+    {
+      "id": "jobright-633c94760634",
+      "seen_at": "2026-09-06T16:29:37.362476+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a788a99b17cba5690361a95",
+      "seen_at": "2026-09-06T16:29:37.363313+00:00"
+    },
+    {
+      "id": "jobright-75234275ec04",
+      "seen_at": "2026-09-06T16:29:37.364125+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8878be25fc4e7ae3db087d",
+      "seen_at": "2026-09-06T16:29:37.364910+00:00"
+    },
+    {
+      "id": "jobright-129ce3b8a7f8",
+      "seen_at": "2026-09-06T16:29:37.365728+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a3d8ab68bfad862bc99d9d6",
+      "seen_at": "2026-09-06T16:29:37.366503+00:00"
+    },
+    {
+      "id": "jobright-b22d9d03027d",
+      "seen_at": "2026-09-06T16:29:37.367334+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a51263378e364789ca5958e",
+      "seen_at": "2026-09-06T16:29:37.368117+00:00"
+    },
+    {
+      "id": "jobright-5aca85f6554f",
+      "seen_at": "2026-09-06T16:29:37.368906+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a535752d007ee02d95fb1da",
+      "seen_at": "2026-09-06T16:29:37.369682+00:00"
     }
   ],
-  "last_run": "2026-09-06T13:38:38.021606+00:00",
-  "total_notified": 4841,
+  "last_run": "2026-09-06T16:29:37.773692+00:00",
+  "total_notified": 4847,
   "channels": {
     "pm-jobs": [
       "ashby-openai-8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
@@ -54999,11 +55039,11 @@
       "zapply-2c6d24d44c36",
       "url:https://jobs.lever.co/veeva/22f3c712-9119-4403-acb1-eb7d783cef94",
       "zapply-e4855ca37724",
-      "url:https://jobs.lever.co/matchgroup/af478895-db01-4dbe-b394-54d58201b082"
+      "url:https://jobs.lever.co/matchgroup/af478895-db01-4dbe-b394-54d58201b082",
+      "jobright-54f18fd5b6fa",
+      "url:https://jobright.ai/jobs/info/6a9d5d7568f82b40367379af"
     ],
     "swe-ai-full-time": [
-      "greenhouse-anthropic-5357947008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5357947008",
       "greenhouse-vercel-6137983004",
       "url:https://job-boards.greenhouse.io/vercel/jobs/6137983004",
       "greenhouse-robinhood-8109753",
@@ -64661,7 +64701,17 @@
       "jobright-929c49c115f3",
       "url:https://jobright.ai/jobs/info/6a83c45f3eeac101cfaa19d7",
       "jobright-7ce72bb79f7e",
-      "url:https://jobright.ai/jobs/info/6a7f77ac927c79391ad0958a"
+      "url:https://jobright.ai/jobs/info/6a7f77ac927c79391ad0958a",
+      "jobright-633c94760634",
+      "url:https://jobright.ai/jobs/info/6a788a99b17cba5690361a95",
+      "jobright-75234275ec04",
+      "url:https://jobright.ai/jobs/info/6a8878be25fc4e7ae3db087d",
+      "jobright-129ce3b8a7f8",
+      "url:https://jobright.ai/jobs/info/6a3d8ab68bfad862bc99d9d6",
+      "jobright-b22d9d03027d",
+      "url:https://jobright.ai/jobs/info/6a51263378e364789ca5958e",
+      "jobright-5aca85f6554f",
+      "url:https://jobright.ai/jobs/info/6a535752d007ee02d95fb1da"
     ]
   }
 }
