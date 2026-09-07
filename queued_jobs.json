@@ -1,6 +1,357 @@
 {
   "channels": {
-    "swe-ai-full-time": []
+    "swe-ai-full-time": [
+      {
+        "id": "jobright-fb19f76ff999",
+        "seen_keys": [
+          "jobright-fb19f76ff999",
+          "url:https://jobright.ai/jobs/info/6a9e2b01dacf777321a90a7e"
+        ],
+        "title": "Front End Software Developer",
+        "company": "IBM",
+        "location": "Tucson, AZ, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e2b01dacf777321a90a7e?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122368+00:00"
+      },
+      {
+        "id": "jobright-14d3b7fbb0e2",
+        "seen_keys": [
+          "jobright-14d3b7fbb0e2",
+          "url:https://jobright.ai/jobs/info/6a9e2ada27c94c3d5a1cb603"
+        ],
+        "title": "Federal Associate Developer 2027",
+        "company": "IBM",
+        "location": "Herndon, VA, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e2ada27c94c3d5a1cb603?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122385+00:00"
+      },
+      {
+        "id": "jobright-670918dab46d",
+        "seen_keys": [
+          "jobright-670918dab46d",
+          "url:https://jobright.ai/jobs/info/6a9e2a4968f82b4036738c64"
+        ],
+        "title": "Entry Level Software Developer-Tucson, AZ",
+        "company": "IBM",
+        "location": "Tucson, AZ, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e2a4968f82b4036738c64?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122399+00:00"
+      },
+      {
+        "id": "jobright-b20f3018081e",
+        "seen_keys": [
+          "jobright-b20f3018081e",
+          "url:https://jobright.ai/jobs/info/6a9e2a3c75edfa11b47106cd"
+        ],
+        "title": "Entry Level QA/Test Developer-Tucson-AZ",
+        "company": "IBM",
+        "location": "Tucson, AZ, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e2a3c75edfa11b47106cd?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122414+00:00"
+      },
+      {
+        "id": "jobright-3cb3f84b8c41",
+        "seen_keys": [
+          "jobright-3cb3f84b8c41",
+          "url:https://jobright.ai/jobs/info/6a9e29f575edfa11b47106c7"
+        ],
+        "title": "Entry Level Software Developer -Rochester-MN",
+        "company": "IBM",
+        "location": "Rochester, MN, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e29f575edfa11b47106c7?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122426+00:00"
+      },
+      {
+        "id": "jobright-36267248d768",
+        "seen_keys": [
+          "jobright-36267248d768",
+          "url:https://jobright.ai/jobs/info/6a9e29e175edfa11b47106c5"
+        ],
+        "title": "Entry Level Software Developer 2027",
+        "company": "IBM",
+        "location": "Poughkeepsie, NY, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e29e175edfa11b47106c5?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122438+00:00"
+      },
+      {
+        "id": "jobright-035e6c6f8664",
+        "seen_keys": [
+          "jobright-035e6c6f8664",
+          "url:https://jobright.ai/jobs/info/6a9e29dc27c94c3d5a1cb5f6"
+        ],
+        "title": "Entry Level Back-End Developer - Dallas 2027",
+        "company": "IBM",
+        "location": "Dallas, TX, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e29dc27c94c3d5a1cb5f6?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122449+00:00"
+      },
+      {
+        "id": "jobright-ed5de2c884ac",
+        "seen_keys": [
+          "jobright-ed5de2c884ac",
+          "url:https://jobright.ai/jobs/info/6a9e29d3a7ba386c5d670e77"
+        ],
+        "title": "Entry Level Software Developer",
+        "company": "IBM",
+        "location": "Poughkeepsie, NY, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e29d3a7ba386c5d670e77?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122460+00:00"
+      },
+      {
+        "id": "jobright-2de5fd0f4a9a",
+        "seen_keys": [
+          "jobright-2de5fd0f4a9a",
+          "url:https://jobright.ai/jobs/info/6a9e29d22c964816f65ebd3a"
+        ],
+        "title": "Entry Level QA/Test Developer",
+        "company": "IBM",
+        "location": "Poughkeepsie, NY, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e29d22c964816f65ebd3a?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122471+00:00"
+      },
+      {
+        "id": "jobright-d15e0056f6bf",
+        "seen_keys": [
+          "jobright-d15e0056f6bf",
+          "url:https://jobright.ai/jobs/info/6a9e29c168f82b4036738c50"
+        ],
+        "title": "Back-End Software Developer-Tucson-AZ",
+        "company": "IBM",
+        "location": "Tucson, AZ, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e29c168f82b4036738c50?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122482+00:00"
+      },
+      {
+        "id": "jobright-dbe9bd893e72",
+        "seen_keys": [
+          "jobright-dbe9bd893e72",
+          "url:https://jobright.ai/jobs/info/6a9e29b7a7ba386c5d670e65"
+        ],
+        "title": "Entry Level Back End Developer 2026",
+        "company": "IBM",
+        "location": "Poughkeepsie, NY, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e29b7a7ba386c5d670e65?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122493+00:00"
+      },
+      {
+        "id": "jobright-2ef1b75bf9de",
+        "seen_keys": [
+          "jobright-2ef1b75bf9de",
+          "url:https://jobright.ai/jobs/info/6a9e29b62c964816f65ebd33"
+        ],
+        "title": "Entry Level Cloud Developer - Chicago, IL - 2027",
+        "company": "IBM",
+        "location": "Chicago, IL, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e29b62c964816f65ebd33?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122504+00:00"
+      },
+      {
+        "id": "jobright-e9ce3cc4601f",
+        "seen_keys": [
+          "jobright-e9ce3cc4601f",
+          "url:https://jobright.ai/jobs/info/6a9e29b375edfa11b47106b5"
+        ],
+        "title": "Entry Level Back-End Developer-Houston, TX",
+        "company": "IBM",
+        "location": "Houston, TX, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e29b375edfa11b47106b5?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122514+00:00"
+      },
+      {
+        "id": "jobright-dd94badc61fd",
+        "seen_keys": [
+          "jobright-dd94badc61fd",
+          "url:https://jobright.ai/jobs/info/6a9e29b375edfa11b47106b4"
+        ],
+        "title": "Entry level Backend Developer - San Jose, CA - 2027",
+        "company": "IBM",
+        "location": "San Jose, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e29b375edfa11b47106b4?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122525+00:00"
+      },
+      {
+        "id": "jobright-9e73ce93b45c",
+        "seen_keys": [
+          "jobright-9e73ce93b45c",
+          "url:https://jobright.ai/jobs/info/6a9e298e75edfa11b47106b3"
+        ],
+        "title": "Entry Level Back End Developer 2027",
+        "company": "IBM",
+        "location": "Poughkeepsie, NY, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e298e75edfa11b47106b3?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122534+00:00"
+      },
+      {
+        "id": "jobright-153b294f44e3",
+        "seen_keys": [
+          "jobright-153b294f44e3",
+          "url:https://jobright.ai/jobs/info/6a9e237c75edfa11b471062d"
+        ],
+        "title": "Associate Application Developer 2027 - Azure and Microsoft",
+        "company": "IBM",
+        "location": "Baton Rouge, LA, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e237c75edfa11b471062d?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122544+00:00"
+      },
+      {
+        "id": "jobright-dde5136ab21e",
+        "seen_keys": [
+          "jobright-dde5136ab21e",
+          "url:https://jobright.ai/jobs/info/6a9e236d75edfa11b471062a"
+        ],
+        "title": "Associate Application Developer - Oracle - 2027",
+        "company": "IBM",
+        "location": "Baton Rouge, LA, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e236d75edfa11b471062a?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122554+00:00"
+      },
+      {
+        "id": "jobright-d188e8659c31",
+        "seen_keys": [
+          "jobright-d188e8659c31",
+          "url:https://jobright.ai/jobs/info/6a9e236ca7ba386c5d670df7"
+        ],
+        "title": "Associate Application Developer Oracle - 2027",
+        "company": "IBM",
+        "location": "Baton Rouge, LA, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e236ca7ba386c5d670df7?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122564+00:00"
+      },
+      {
+        "id": "jobright-153ff9b7bd6d",
+        "seen_keys": [
+          "jobright-153ff9b7bd6d",
+          "url:https://jobright.ai/jobs/info/6a9e236cdacf777321a909f2"
+        ],
+        "title": "Associate Application Developer IBM Tech & Red Hat - 2027",
+        "company": "IBM",
+        "location": "Baton Rouge, LA, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e236cdacf777321a909f2?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122575+00:00"
+      },
+      {
+        "id": "jobright-f62211219c80",
+        "seen_keys": [
+          "jobright-f62211219c80",
+          "url:https://jobright.ai/jobs/info/6a9e236575edfa11b4710627"
+        ],
+        "title": "Associate Application Developer Salesforce - 2027",
+        "company": "IBM",
+        "location": "Baton Rouge, LA, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e236575edfa11b4710627?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122585+00:00"
+      },
+      {
+        "id": "jobright-1f9402393640",
+        "seen_keys": [
+          "jobright-1f9402393640",
+          "url:https://jobright.ai/jobs/info/6a9e235a68f82b4036738bd5"
+        ],
+        "title": "Associate Application Developer 2027 - DPE",
+        "company": "IBM",
+        "location": "Chicago, IL, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e235a68f82b4036738bd5?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122595+00:00"
+      },
+      {
+        "id": "jobright-1a2a72dae85a",
+        "seen_keys": [
+          "jobright-1a2a72dae85a",
+          "url:https://jobright.ai/jobs/info/6a9e22e368f82b4036738bd3"
+        ],
+        "title": "Associate Application Developer AWS - 2027",
+        "company": "IBM",
+        "location": "Baton Rouge, Louisiana, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e22e368f82b4036738bd3?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122606+00:00"
+      },
+      {
+        "id": "jobright-27f40dcbaec9",
+        "seen_keys": [
+          "jobright-27f40dcbaec9",
+          "url:https://jobright.ai/jobs/info/6a9e22bf68f82b4036738bd0"
+        ],
+        "title": "Associate Application Developer - Adobe - 2027",
+        "company": "IBM",
+        "location": "Buffalo, NY, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e22bf68f82b4036738bd0?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122617+00:00"
+      },
+      {
+        "id": "jobright-1f1bc4008f25",
+        "seen_keys": [
+          "jobright-1f1bc4008f25",
+          "url:https://jobright.ai/jobs/info/6a73f26c1ce9647cdbcaa9c2"
+        ],
+        "title": "Software Engineer Graduate (Global E-commerce-Search) - 2027 Start",
+        "company": "TikTok",
+        "location": "Seattle, WA, United States",
+        "url": "https://jobright.ai/jobs/info/6a73f26c1ce9647cdbcaa9c2?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122627+00:00"
+      },
+      {
+        "id": "jobright-1d7489c33b36",
+        "seen_keys": [
+          "jobright-1d7489c33b36",
+          "url:https://jobright.ai/jobs/info/6a9df1e368f82b403673861c"
+        ],
+        "title": "Junior Full Stack Developer",
+        "company": "CyberProof",
+        "location": "Atlanta, GA, United States",
+        "url": "https://jobright.ai/jobs/info/6a9df1e368f82b403673861c?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-06",
+        "queued_at": "2026-09-07T15:48:35.122638+00:00"
+      }
+    ]
   },
-  "last_run": "2026-09-07T00:19:32.788170+00:00"
+  "last_run": "2026-09-07T15:48:35.401916+00:00"
 }
