@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-65780e7c-6cbd-4e01-a437-2142363d855d",
-      "seen_at": "2026-08-09T02:37:46.854386+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/65780e7c-6cbd-4e01-a437-2142363d855d",
-      "seen_at": "2026-08-09T02:37:46.854694+00:00"
-    },
-    {
       "id": "ashby-openai-004ae8f4-245b-4aad-8903-9daabdb58bb9",
       "seen_at": "2026-08-09T18:16:44.631825+00:00"
     },
@@ -52391,10 +52383,522 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a9f336768f82b403673c722",
       "seen_at": "2026-09-08T00:31:24.820293+00:00"
+    },
+    {
+      "id": "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
+      "seen_at": "2026-09-08T14:28:42.110335+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cohere/aa041da3-6aad-4758-9c9e-4a5fab69b694",
+      "seen_at": "2026-09-08T14:28:42.111129+00:00"
+    },
+    {
+      "id": "simplify-e48c29fc-99d2-4bdf-8d09-2e919817bd74",
+      "seen_at": "2026-09-08T14:28:42.111869+00:00"
+    },
+    {
+      "id": "url:https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185",
+      "seen_at": "2026-09-08T14:28:42.112566+00:00"
+    },
+    {
+      "id": "jobright-b1ab960dc8dd",
+      "seen_at": "2026-09-08T14:28:42.113275+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a58dab5856af468ab0003a0",
+      "seen_at": "2026-09-08T14:28:42.113981+00:00"
+    },
+    {
+      "id": "jobright-b0ad273a4085",
+      "seen_at": "2026-09-08T14:28:42.114669+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7d10d4a346cb6c8d5f18ab",
+      "seen_at": "2026-09-08T14:28:42.115430+00:00"
+    },
+    {
+      "id": "jobright-f96d374b5c69",
+      "seen_at": "2026-09-08T14:28:42.116132+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5262469fbdab22fe13b511",
+      "seen_at": "2026-09-08T14:28:42.116815+00:00"
+    },
+    {
+      "id": "jobright-79fb3ac30e0c",
+      "seen_at": "2026-09-08T14:28:42.117503+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9fe65736c44a0fd09b8d6f",
+      "seen_at": "2026-09-08T14:28:42.118181+00:00"
+    },
+    {
+      "id": "jobright-3de809e38623",
+      "seen_at": "2026-09-08T14:28:42.118878+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8ce2d11d96e6541c8c3612",
+      "seen_at": "2026-09-08T14:28:42.119516+00:00"
+    },
+    {
+      "id": "jobright-e08b64c3fb03",
+      "seen_at": "2026-09-08T14:28:42.120155+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8ce2d51d96e6541c8c3613",
+      "seen_at": "2026-09-08T14:28:42.120783+00:00"
+    },
+    {
+      "id": "jobright-12ab52c324f0",
+      "seen_at": "2026-09-08T14:28:42.121400+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9fa5c168f82b403673d86c",
+      "seen_at": "2026-09-08T14:28:42.122028+00:00"
+    },
+    {
+      "id": "jobright-193a9cb88f54",
+      "seen_at": "2026-09-08T14:28:42.122653+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9f8f8a2c964816f65f0599",
+      "seen_at": "2026-09-08T14:28:42.123263+00:00"
+    },
+    {
+      "id": "jobright-9f63bcb5c494",
+      "seen_at": "2026-09-08T14:28:42.123883+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9fa5c168f82b403673d86d",
+      "seen_at": "2026-09-08T14:28:42.124486+00:00"
+    },
+    {
+      "id": "jobright-53e6b742005f",
+      "seen_at": "2026-09-08T14:28:42.125101+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9f8f97352f093fc756e9e5",
+      "seen_at": "2026-09-08T14:28:42.125711+00:00"
+    },
+    {
+      "id": "jobright-e4ec7b27ef4c",
+      "seen_at": "2026-09-08T14:28:42.126315+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9f8f8d68f82b403673d527",
+      "seen_at": "2026-09-08T14:28:42.126937+00:00"
+    },
+    {
+      "id": "zapply-8e4f16b8901f",
+      "seen_at": "2026-09-08T14:29:01.356168+00:00"
+    },
+    {
+      "id": "url:https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Davenport-Iowa-United-States/Field-Service-Engineer--Quad-Cities---Iowa-City-_588688",
+      "seen_at": "2026-09-08T14:29:01.357073+00:00"
+    },
+    {
+      "id": "zapply-819448c4e297",
+      "seen_at": "2026-09-08T14:29:01.357891+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/solidigm/744000145382589",
+      "seen_at": "2026-09-08T14:29:01.358680+00:00"
+    },
+    {
+      "id": "zapply-5d504515faf4",
+      "seen_at": "2026-09-08T14:29:01.359460+00:00"
+    },
+    {
+      "id": "url:https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Bumper--Grille--Fascia--and-Exterior-Trim_JR-202615694",
+      "seen_at": "2026-09-08T14:29:01.360223+00:00"
+    },
+    {
+      "id": "zapply-8c5252eeb4c2",
+      "seen_at": "2026-09-08T14:29:01.361024+00:00"
+    },
+    {
+      "id": "url:https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Robotics-Engineer_R0000387369-1",
+      "seen_at": "2026-09-08T14:29:01.361778+00:00"
+    },
+    {
+      "id": "ashby-cerebras-ada45357-f6bb-452c-a9db-acd9ec33f0aa",
+      "seen_at": "2026-09-08T14:29:01.362535+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cerebras/ada45357-f6bb-452c-a9db-acd9ec33f0aa",
+      "seen_at": "2026-09-08T14:29:01.363272+00:00"
+    },
+    {
+      "id": "simplify-904b380c-a361-462b-b5d6-f954f2969657",
+      "seen_at": "2026-09-08T14:29:01.364066+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/extropic/f9d4811c-3a4c-4a6a-a739-8719ff9c6bab/application",
+      "seen_at": "2026-09-08T14:29:01.364824+00:00"
+    },
+    {
+      "id": "jobright-d7cedf806246",
+      "seen_at": "2026-09-08T14:29:01.365580+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa00278dbc0e60e37e0af2a",
+      "seen_at": "2026-09-08T14:29:01.366318+00:00"
+    },
+    {
+      "id": "jobright-4ec7ec9c98d7",
+      "seen_at": "2026-09-08T14:29:01.367076+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a837d64379c304e892f7bd9",
+      "seen_at": "2026-09-08T14:29:01.367801+00:00"
+    },
+    {
+      "id": "jobright-cf3c3247f4c1",
+      "seen_at": "2026-09-08T14:29:01.368530+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a678f55d0fb4c3df393d802",
+      "seen_at": "2026-09-08T14:29:01.369239+00:00"
+    },
+    {
+      "id": "jobright-d45bbc3fd449",
+      "seen_at": "2026-09-08T14:29:01.369967+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9e93b9a7ba386c5d672957",
+      "seen_at": "2026-09-08T14:29:01.370686+00:00"
+    },
+    {
+      "id": "jobright-cbd9c3275dd5",
+      "seen_at": "2026-09-08T14:29:01.371427+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5ec528f3674a0545d2ae8f",
+      "seen_at": "2026-09-08T14:29:01.372233+00:00"
+    },
+    {
+      "id": "jobright-e5c89ebdf41d",
+      "seen_at": "2026-09-08T14:29:01.373078+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a677099d0fb4c3df393cd60",
+      "seen_at": "2026-09-08T14:29:01.373878+00:00"
+    },
+    {
+      "id": "jobright-aaea844a04fe",
+      "seen_at": "2026-09-08T14:29:01.374684+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8b1e2cd34f700f87fcd75d",
+      "seen_at": "2026-09-08T14:29:01.375445+00:00"
+    },
+    {
+      "id": "jobright-062253bb4a3a",
+      "seen_at": "2026-09-08T14:29:01.376237+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a701a40f5953013637f727b",
+      "seen_at": "2026-09-08T14:29:01.376992+00:00"
+    },
+    {
+      "id": "jobright-0c59fea0ef41",
+      "seen_at": "2026-09-08T14:29:01.377760+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a754ce537da8525e8cdcefe",
+      "seen_at": "2026-09-08T14:29:01.378488+00:00"
+    },
+    {
+      "id": "jobright-e9e76fca1ba8",
+      "seen_at": "2026-09-08T14:29:01.379236+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a73f1811ce9647cdbcaa9a3",
+      "seen_at": "2026-09-08T14:29:01.379961+00:00"
+    },
+    {
+      "id": "jobright-355f998b28b2",
+      "seen_at": "2026-09-08T14:29:01.380717+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a83c46c9b859b2277670aa6",
+      "seen_at": "2026-09-08T14:29:01.381423+00:00"
+    },
+    {
+      "id": "jobright-d65848e27bdc",
+      "seen_at": "2026-09-08T14:29:01.382201+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f6074ad9ff00c26badd02",
+      "seen_at": "2026-09-08T14:29:01.382951+00:00"
+    },
+    {
+      "id": "jobright-41bf3e3e3515",
+      "seen_at": "2026-09-08T14:29:01.383721+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7ed2e0179e4f7b7e8d8afd",
+      "seen_at": "2026-09-08T14:29:01.384441+00:00"
+    },
+    {
+      "id": "jobright-504ea43e5e88",
+      "seen_at": "2026-09-08T14:29:01.385227+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8863c1e8b6601d12906714",
+      "seen_at": "2026-09-08T14:29:01.385985+00:00"
+    },
+    {
+      "id": "jobright-8847b044f321",
+      "seen_at": "2026-09-08T14:29:01.386727+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8da9b5cc0cf270685244a9",
+      "seen_at": "2026-09-08T14:29:01.387466+00:00"
+    },
+    {
+      "id": "jobright-4b94233c9704",
+      "seen_at": "2026-09-08T14:29:01.388225+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6ffdc5cd3bac13d3709520",
+      "seen_at": "2026-09-08T14:29:01.388931+00:00"
+    },
+    {
+      "id": "jobright-4ad35607df4d",
+      "seen_at": "2026-09-08T14:29:01.389651+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc",
+      "seen_at": "2026-09-08T14:29:01.390334+00:00"
+    },
+    {
+      "id": "jobright-0059d1a2d5ea",
+      "seen_at": "2026-09-08T14:29:01.391075+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a701a3dcd3bac13d3709853",
+      "seen_at": "2026-09-08T14:29:01.391793+00:00"
+    },
+    {
+      "id": "jobright-f0200f9859ea",
+      "seen_at": "2026-09-08T14:29:01.392526+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a701a4dcd3bac13d3709858",
+      "seen_at": "2026-09-08T14:29:01.393238+00:00"
+    },
+    {
+      "id": "jobright-332ad207fa9e",
+      "seen_at": "2026-09-08T14:29:01.394303+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a71a429e2b7476e7b20ed8d",
+      "seen_at": "2026-09-08T14:29:01.395114+00:00"
+    },
+    {
+      "id": "jobright-04e1450a396e",
+      "seen_at": "2026-09-08T14:29:01.395927+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8fa3dcd96ad228f125e48f",
+      "seen_at": "2026-09-08T14:29:01.396714+00:00"
+    },
+    {
+      "id": "jobright-296698f4b686",
+      "seen_at": "2026-09-08T14:29:01.397511+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a79ff6d67a1ad0bc53d0f41",
+      "seen_at": "2026-09-08T14:29:01.398266+00:00"
+    },
+    {
+      "id": "jobright-f96ab8e65063",
+      "seen_at": "2026-09-08T14:29:01.399038+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a838b60b5a0ac0e84a26a42",
+      "seen_at": "2026-09-08T14:29:01.399814+00:00"
+    },
+    {
+      "id": "jobright-9524540cad9d",
+      "seen_at": "2026-09-08T14:29:01.400626+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a750bd537da8525e8cdc15f",
+      "seen_at": "2026-09-08T14:29:01.401390+00:00"
+    },
+    {
+      "id": "jobright-3bebdafb39ee",
+      "seen_at": "2026-09-08T14:29:01.402144+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f5feeb56bea5779c0a9a8",
+      "seen_at": "2026-09-08T14:29:01.402875+00:00"
+    },
+    {
+      "id": "jobright-45a015177f65",
+      "seen_at": "2026-09-08T14:29:01.403616+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a714fee02d93145bf88ef63",
+      "seen_at": "2026-09-08T14:29:01.404331+00:00"
+    },
+    {
+      "id": "jobright-e101b1977aa0",
+      "seen_at": "2026-09-08T14:29:01.405075+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7d10c7dc3dff2d1c0ca935",
+      "seen_at": "2026-09-08T14:29:01.405806+00:00"
+    },
+    {
+      "id": "jobright-079256bd459c",
+      "seen_at": "2026-09-08T14:29:01.406536+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a750bc237da8525e8cdc14d",
+      "seen_at": "2026-09-08T14:29:01.407256+00:00"
+    },
+    {
+      "id": "jobright-6766c6d3174f",
+      "seen_at": "2026-09-08T14:29:01.408007+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a3d815fd261407de9800c6c",
+      "seen_at": "2026-09-08T14:29:01.408755+00:00"
+    },
+    {
+      "id": "jobright-84945d2a6020",
+      "seen_at": "2026-09-08T14:29:01.409572+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a527aaf8ef95364ead8e939",
+      "seen_at": "2026-09-08T14:29:01.410342+00:00"
+    },
+    {
+      "id": "jobright-0de4d776324a",
+      "seen_at": "2026-09-08T14:29:01.411160+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a58bf9b63a8f619507be15f",
+      "seen_at": "2026-09-08T14:29:01.412008+00:00"
+    },
+    {
+      "id": "jobright-8523f098d2ab",
+      "seen_at": "2026-09-08T14:29:01.412831+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9fc1782c964816f65f0b19",
+      "seen_at": "2026-09-08T14:29:01.413563+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2023435",
+      "seen_at": "2026-09-08T14:29:01.414320+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineer--SONiC_JR2023435",
+      "seen_at": "2026-09-08T14:29:01.415071+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2025037",
+      "seen_at": "2026-09-08T14:29:01.415816+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--Cloud-Platforms_JR2025037",
+      "seen_at": "2026-09-08T14:29:01.416538+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR353713",
+      "seen_at": "2026-09-08T14:29:01.417279+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Forward-Deployed-Engineer---Public-Sector--Nonprofit---Education_JR353713-1",
+      "seen_at": "2026-09-08T14:29:01.418009+00:00"
+    },
+    {
+      "id": "jobright-413d6cf6126b",
+      "seen_at": "2026-09-08T14:29:01.418765+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5216648576ec69c014a596",
+      "seen_at": "2026-09-08T14:29:01.419470+00:00"
+    },
+    {
+      "id": "jobright-1a299e987451",
+      "seen_at": "2026-09-08T14:29:01.420200+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9ffc1ddbc0e60e37e0ae0b",
+      "seen_at": "2026-09-08T14:29:01.420910+00:00"
+    },
+    {
+      "id": "jobright-c62e7afd5d12",
+      "seen_at": "2026-09-08T14:29:01.421633+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6cbf1facb0a61f9dbc6c95",
+      "seen_at": "2026-09-08T14:29:01.422343+00:00"
+    },
+    {
+      "id": "jobright-a5a285157cb5",
+      "seen_at": "2026-09-08T14:29:01.423088+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a552a674119652ff3863ceb",
+      "seen_at": "2026-09-08T14:29:01.423857+00:00"
+    },
+    {
+      "id": "jobright-7137d32e39e7",
+      "seen_at": "2026-09-08T14:29:01.424624+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9f6bfea7ba386c5d675025",
+      "seen_at": "2026-09-08T14:29:01.425328+00:00"
+    },
+    {
+      "id": "jobright-d2e8518fb2e9",
+      "seen_at": "2026-09-08T14:29:01.426083+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a560dc3f7517b519ad5374e",
+      "seen_at": "2026-09-08T14:29:01.426825+00:00"
+    },
+    {
+      "id": "jobright-700f223fd21e",
+      "seen_at": "2026-09-08T14:29:01.427562+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8cc2c0d34f700f87fd28d8",
+      "seen_at": "2026-09-08T14:29:01.428284+00:00"
+    },
+    {
+      "id": "jobright-39d9de5bdd2a",
+      "seen_at": "2026-09-08T14:29:01.429043+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9fe545dbc0e60e37e0a99a",
+      "seen_at": "2026-09-08T14:29:01.429776+00:00"
+    },
+    {
+      "id": "jobright-2f4b4168eca8",
+      "seen_at": "2026-09-08T14:29:01.430510+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8cc2351d96e6541c8c2de0",
+      "seen_at": "2026-09-08T14:29:01.431226+00:00"
+    },
+    {
+      "id": "jobright-f1bb3d2322d7",
+      "seen_at": "2026-09-08T14:29:01.431955+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f6fb5b56bea5779c0b3b7",
+      "seen_at": "2026-09-08T14:29:01.432701+00:00"
     }
   ],
-  "last_run": "2026-09-08T00:31:25.061334+00:00",
-  "total_notified": 4952,
+  "last_run": "2026-09-08T14:29:01.705390+00:00",
+  "total_notified": 4990,
   "channels": {
     "pm-jobs": [
       "ashby-openai-004ae8f4-245b-4aad-8903-9daabdb58bb9",
@@ -54035,11 +54539,35 @@
       "jobright-13d860532946",
       "url:https://jobright.ai/jobs/info/6a84f9b8c1a3fd7120f74106",
       "workday-capitalone-R248239",
-      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Data-Product-Manager---Travel-Core-Services_R248239-1"
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Data-Product-Manager---Travel-Core-Services_R248239-1",
+      "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
+      "url:https://jobs.ashbyhq.com/cohere/aa041da3-6aad-4758-9c9e-4a5fab69b694",
+      "simplify-e48c29fc-99d2-4bdf-8d09-2e919817bd74",
+      "url:https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185",
+      "jobright-b1ab960dc8dd",
+      "url:https://jobright.ai/jobs/info/6a58dab5856af468ab0003a0",
+      "jobright-b0ad273a4085",
+      "url:https://jobright.ai/jobs/info/6a7d10d4a346cb6c8d5f18ab",
+      "jobright-f96d374b5c69",
+      "url:https://jobright.ai/jobs/info/6a5262469fbdab22fe13b511",
+      "jobright-79fb3ac30e0c",
+      "url:https://jobright.ai/jobs/info/6a9fe65736c44a0fd09b8d6f",
+      "jobright-3de809e38623",
+      "url:https://jobright.ai/jobs/info/6a8ce2d11d96e6541c8c3612",
+      "jobright-e08b64c3fb03",
+      "url:https://jobright.ai/jobs/info/6a8ce2d51d96e6541c8c3613",
+      "jobright-12ab52c324f0",
+      "url:https://jobright.ai/jobs/info/6a9fa5c168f82b403673d86c",
+      "jobright-193a9cb88f54",
+      "url:https://jobright.ai/jobs/info/6a9f8f8a2c964816f65f0599",
+      "jobright-9f63bcb5c494",
+      "url:https://jobright.ai/jobs/info/6a9fa5c168f82b403673d86d",
+      "jobright-53e6b742005f",
+      "url:https://jobright.ai/jobs/info/6a9f8f97352f093fc756e9e5",
+      "jobright-e4ec7b27ef4c",
+      "url:https://jobright.ai/jobs/info/6a9f8f8d68f82b403673d527"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-65780e7c-6cbd-4e01-a437-2142363d855d",
-      "url:https://jobs.ashbyhq.com/openai/65780e7c-6cbd-4e01-a437-2142363d855d",
       "ashby-openai-4070d52e-0263-4cd5-9107-052b4ecc1209",
       "url:https://jobs.ashbyhq.com/openai/4070d52e-0263-4cd5-9107-052b4ecc1209",
       "ashby-openai-3c2d1178-777f-4613-a084-75a3d37cd1af",
@@ -63466,7 +63994,109 @@
       "jobright-f5614f64486c",
       "url:https://jobright.ai/jobs/info/6a9f37aa2c964816f65ef825",
       "jobright-ee0f12ceef07",
-      "url:https://jobright.ai/jobs/info/6a9f336768f82b403673c722"
+      "url:https://jobright.ai/jobs/info/6a9f336768f82b403673c722",
+      "zapply-8e4f16b8901f",
+      "url:https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Davenport-Iowa-United-States/Field-Service-Engineer--Quad-Cities---Iowa-City-_588688",
+      "zapply-819448c4e297",
+      "url:https://jobs.smartrecruiters.com/solidigm/744000145382589",
+      "zapply-5d504515faf4",
+      "url:https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Bumper--Grille--Fascia--and-Exterior-Trim_JR-202615694",
+      "zapply-8c5252eeb4c2",
+      "url:https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Robotics-Engineer_R0000387369-1",
+      "ashby-cerebras-ada45357-f6bb-452c-a9db-acd9ec33f0aa",
+      "url:https://jobs.ashbyhq.com/cerebras/ada45357-f6bb-452c-a9db-acd9ec33f0aa",
+      "simplify-904b380c-a361-462b-b5d6-f954f2969657",
+      "url:https://jobs.ashbyhq.com/extropic/f9d4811c-3a4c-4a6a-a739-8719ff9c6bab/application",
+      "jobright-d7cedf806246",
+      "url:https://jobright.ai/jobs/info/6aa00278dbc0e60e37e0af2a",
+      "jobright-4ec7ec9c98d7",
+      "url:https://jobright.ai/jobs/info/6a837d64379c304e892f7bd9",
+      "jobright-cf3c3247f4c1",
+      "url:https://jobright.ai/jobs/info/6a678f55d0fb4c3df393d802",
+      "jobright-d45bbc3fd449",
+      "url:https://jobright.ai/jobs/info/6a9e93b9a7ba386c5d672957",
+      "jobright-cbd9c3275dd5",
+      "url:https://jobright.ai/jobs/info/6a5ec528f3674a0545d2ae8f",
+      "jobright-e5c89ebdf41d",
+      "url:https://jobright.ai/jobs/info/6a677099d0fb4c3df393cd60",
+      "jobright-aaea844a04fe",
+      "url:https://jobright.ai/jobs/info/6a8b1e2cd34f700f87fcd75d",
+      "jobright-062253bb4a3a",
+      "url:https://jobright.ai/jobs/info/6a701a40f5953013637f727b",
+      "jobright-0c59fea0ef41",
+      "url:https://jobright.ai/jobs/info/6a754ce537da8525e8cdcefe",
+      "jobright-e9e76fca1ba8",
+      "url:https://jobright.ai/jobs/info/6a73f1811ce9647cdbcaa9a3",
+      "jobright-355f998b28b2",
+      "url:https://jobright.ai/jobs/info/6a83c46c9b859b2277670aa6",
+      "jobright-d65848e27bdc",
+      "url:https://jobright.ai/jobs/info/6a7f6074ad9ff00c26badd02",
+      "jobright-41bf3e3e3515",
+      "url:https://jobright.ai/jobs/info/6a7ed2e0179e4f7b7e8d8afd",
+      "jobright-504ea43e5e88",
+      "url:https://jobright.ai/jobs/info/6a8863c1e8b6601d12906714",
+      "jobright-8847b044f321",
+      "url:https://jobright.ai/jobs/info/6a8da9b5cc0cf270685244a9",
+      "jobright-4b94233c9704",
+      "url:https://jobright.ai/jobs/info/6a6ffdc5cd3bac13d3709520",
+      "jobright-4ad35607df4d",
+      "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc",
+      "jobright-0059d1a2d5ea",
+      "url:https://jobright.ai/jobs/info/6a701a3dcd3bac13d3709853",
+      "jobright-f0200f9859ea",
+      "url:https://jobright.ai/jobs/info/6a701a4dcd3bac13d3709858",
+      "jobright-332ad207fa9e",
+      "url:https://jobright.ai/jobs/info/6a71a429e2b7476e7b20ed8d",
+      "jobright-04e1450a396e",
+      "url:https://jobright.ai/jobs/info/6a8fa3dcd96ad228f125e48f",
+      "jobright-296698f4b686",
+      "url:https://jobright.ai/jobs/info/6a79ff6d67a1ad0bc53d0f41",
+      "jobright-f96ab8e65063",
+      "url:https://jobright.ai/jobs/info/6a838b60b5a0ac0e84a26a42",
+      "jobright-9524540cad9d",
+      "url:https://jobright.ai/jobs/info/6a750bd537da8525e8cdc15f",
+      "jobright-3bebdafb39ee",
+      "url:https://jobright.ai/jobs/info/6a7f5feeb56bea5779c0a9a8",
+      "jobright-45a015177f65",
+      "url:https://jobright.ai/jobs/info/6a714fee02d93145bf88ef63",
+      "jobright-e101b1977aa0",
+      "url:https://jobright.ai/jobs/info/6a7d10c7dc3dff2d1c0ca935",
+      "jobright-079256bd459c",
+      "url:https://jobright.ai/jobs/info/6a750bc237da8525e8cdc14d",
+      "jobright-6766c6d3174f",
+      "url:https://jobright.ai/jobs/info/6a3d815fd261407de9800c6c",
+      "jobright-84945d2a6020",
+      "url:https://jobright.ai/jobs/info/6a527aaf8ef95364ead8e939",
+      "jobright-0de4d776324a",
+      "url:https://jobright.ai/jobs/info/6a58bf9b63a8f619507be15f",
+      "jobright-8523f098d2ab",
+      "url:https://jobright.ai/jobs/info/6a9fc1782c964816f65f0b19",
+      "workday-nvidia-JR2023435",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineer--SONiC_JR2023435",
+      "workday-nvidia-JR2025037",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--Cloud-Platforms_JR2025037",
+      "workday-salesforce-JR353713",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Forward-Deployed-Engineer---Public-Sector--Nonprofit---Education_JR353713-1",
+      "jobright-413d6cf6126b",
+      "url:https://jobright.ai/jobs/info/6a5216648576ec69c014a596",
+      "jobright-1a299e987451",
+      "url:https://jobright.ai/jobs/info/6a9ffc1ddbc0e60e37e0ae0b",
+      "jobright-c62e7afd5d12",
+      "url:https://jobright.ai/jobs/info/6a6cbf1facb0a61f9dbc6c95",
+      "jobright-a5a285157cb5",
+      "url:https://jobright.ai/jobs/info/6a552a674119652ff3863ceb",
+      "jobright-7137d32e39e7",
+      "url:https://jobright.ai/jobs/info/6a9f6bfea7ba386c5d675025",
+      "jobright-d2e8518fb2e9",
+      "url:https://jobright.ai/jobs/info/6a560dc3f7517b519ad5374e",
+      "jobright-700f223fd21e",
+      "url:https://jobright.ai/jobs/info/6a8cc2c0d34f700f87fd28d8",
+      "jobright-39d9de5bdd2a",
+      "url:https://jobright.ai/jobs/info/6a9fe545dbc0e60e37e0a99a",
+      "jobright-2f4b4168eca8",
+      "url:https://jobright.ai/jobs/info/6a8cc2351d96e6541c8c2de0",
+      "jobright-f1bb3d2322d7",
+      "url:https://jobright.ai/jobs/info/6a7f6fb5b56bea5779c0b3b7"
     ]
   }
 }
