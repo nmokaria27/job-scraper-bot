@@ -154,8 +154,106 @@
         "platform": "workday",
         "posted_at": "2026-09-08",
         "queued_at": "2026-09-09T14:30:31.741440+00:00"
+      },
+      {
+        "id": "amazon-10534632",
+        "seen_keys": [
+          "amazon-10534632",
+          "url:https://www.amazon.jobs/en/jobs/10534632/software-development-engineer-aws-cloudwatch-opentelemetry"
+        ],
+        "title": "Software Development Engineer, AWS CloudWatch OpenTelemetry",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10534632/software-development-engineer-aws-cloudwatch-opentelemetry",
+        "platform": "amazon",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-09T17:59:35.690800+00:00"
+      },
+      {
+        "id": "amazon-10534336",
+        "seen_keys": [
+          "amazon-10534336",
+          "url:https://www.amazon.jobs/en/jobs/10534336/applied-scientist-amazon-music-search-science"
+        ],
+        "title": "Applied Scientist, Amazon Music - Search Science",
+        "company": "Amazon",
+        "location": "Sunnyvale, California, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10534336/applied-scientist-amazon-music-search-science",
+        "platform": "amazon",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-09T17:59:35.690813+00:00"
+      },
+      {
+        "id": "jobright-999540154ab5",
+        "seen_keys": [
+          "jobright-999540154ab5",
+          "url:https://jobright.ai/jobs/info/6a93b35b9864261ccd2a320d"
+        ],
+        "title": "Jr. Software Engineer",
+        "company": "Rincon Research Corporation",
+        "location": "Centennial, CO, United States",
+        "url": "https://jobright.ai/jobs/info/6a93b35b9864261ccd2a320d?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-08",
+        "queued_at": "2026-09-09T17:59:35.690835+00:00"
+      },
+      {
+        "id": "jobright-0864cc3e7721",
+        "seen_keys": [
+          "jobright-0864cc3e7721",
+          "url:https://jobright.ai/jobs/info/6a88e45425fc4e7ae3db2c93"
+        ],
+        "title": "Software Engineer I",
+        "company": "Uber",
+        "location": "Sunnyvale, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6a88e45425fc4e7ae3db2c93?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-08",
+        "queued_at": "2026-09-09T17:59:35.690852+00:00"
+      },
+      {
+        "id": "jobright-d21c5c83758e",
+        "seen_keys": [
+          "jobright-d21c5c83758e",
+          "url:https://jobright.ai/jobs/info/6973f7fc206da320f49e014a"
+        ],
+        "title": "Software Engineer, Systems Research, PhD, Early Career",
+        "company": "Google",
+        "location": "Sunnyvale, CA",
+        "url": "https://jobright.ai/jobs/info/6973f7fc206da320f49e014a?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-08",
+        "queued_at": "2026-09-09T17:59:35.690867+00:00"
+      },
+      {
+        "id": "jobright-3496d5d1733b",
+        "seen_keys": [
+          "jobright-3496d5d1733b",
+          "url:https://jobright.ai/jobs/info/6a700b3b160eda5948e8d2a6"
+        ],
+        "title": "Backend Software Engineer Graduate (Risk & Response) - 2027 Start",
+        "company": "TikTok",
+        "location": "Seattle, WA, United States",
+        "url": "https://jobright.ai/jobs/info/6a700b3b160eda5948e8d2a6?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-08",
+        "queued_at": "2026-09-09T17:59:35.690881+00:00"
+      },
+      {
+        "id": "jobright-ac5caf81df93",
+        "seen_keys": [
+          "jobright-ac5caf81df93",
+          "url:https://jobright.ai/jobs/info/6a700b3ccd3bac13d370968d"
+        ],
+        "title": "(General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start",
+        "company": "TikTok",
+        "location": "Seattle, WA, United States",
+        "url": "https://jobright.ai/jobs/info/6a700b3ccd3bac13d370968d?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-08",
+        "queued_at": "2026-09-09T17:59:35.690894+00:00"
       }
     ]
   },
-  "last_run": "2026-09-09T14:30:32.015153+00:00"
+  "last_run": "2026-09-09T17:59:36.009793+00:00"
 }
