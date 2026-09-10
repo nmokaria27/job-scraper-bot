@@ -2,104 +2,6 @@
   "channels": {
     "swe-ai-full-time": [
       {
-        "id": "amazon-10534632",
-        "seen_keys": [
-          "amazon-10534632",
-          "url:https://www.amazon.jobs/en/jobs/10534632/software-development-engineer-aws-cloudwatch-opentelemetry"
-        ],
-        "title": "Software Development Engineer, AWS CloudWatch OpenTelemetry",
-        "company": "Amazon",
-        "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10534632/software-development-engineer-aws-cloudwatch-opentelemetry",
-        "platform": "amazon",
-        "posted_at": "2026-09-09",
-        "queued_at": "2026-09-09T17:59:35.690800+00:00"
-      },
-      {
-        "id": "amazon-10534336",
-        "seen_keys": [
-          "amazon-10534336",
-          "url:https://www.amazon.jobs/en/jobs/10534336/applied-scientist-amazon-music-search-science"
-        ],
-        "title": "Applied Scientist, Amazon Music - Search Science",
-        "company": "Amazon",
-        "location": "Sunnyvale, California, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10534336/applied-scientist-amazon-music-search-science",
-        "platform": "amazon",
-        "posted_at": "2026-09-09",
-        "queued_at": "2026-09-09T17:59:35.690813+00:00"
-      },
-      {
-        "id": "jobright-999540154ab5",
-        "seen_keys": [
-          "jobright-999540154ab5",
-          "url:https://jobright.ai/jobs/info/6a93b35b9864261ccd2a320d"
-        ],
-        "title": "Jr. Software Engineer",
-        "company": "Rincon Research Corporation",
-        "location": "Centennial, CO, United States",
-        "url": "https://jobright.ai/jobs/info/6a93b35b9864261ccd2a320d?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-08",
-        "queued_at": "2026-09-09T17:59:35.690835+00:00"
-      },
-      {
-        "id": "jobright-0864cc3e7721",
-        "seen_keys": [
-          "jobright-0864cc3e7721",
-          "url:https://jobright.ai/jobs/info/6a88e45425fc4e7ae3db2c93"
-        ],
-        "title": "Software Engineer I",
-        "company": "Uber",
-        "location": "Sunnyvale, CA, United States",
-        "url": "https://jobright.ai/jobs/info/6a88e45425fc4e7ae3db2c93?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-08",
-        "queued_at": "2026-09-09T17:59:35.690852+00:00"
-      },
-      {
-        "id": "jobright-d21c5c83758e",
-        "seen_keys": [
-          "jobright-d21c5c83758e",
-          "url:https://jobright.ai/jobs/info/6973f7fc206da320f49e014a"
-        ],
-        "title": "Software Engineer, Systems Research, PhD, Early Career",
-        "company": "Google",
-        "location": "Sunnyvale, CA",
-        "url": "https://jobright.ai/jobs/info/6973f7fc206da320f49e014a?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-08",
-        "queued_at": "2026-09-09T17:59:35.690867+00:00"
-      },
-      {
-        "id": "jobright-3496d5d1733b",
-        "seen_keys": [
-          "jobright-3496d5d1733b",
-          "url:https://jobright.ai/jobs/info/6a700b3b160eda5948e8d2a6"
-        ],
-        "title": "Backend Software Engineer Graduate (Risk & Response) - 2027 Start",
-        "company": "TikTok",
-        "location": "Seattle, WA, United States",
-        "url": "https://jobright.ai/jobs/info/6a700b3b160eda5948e8d2a6?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-08",
-        "queued_at": "2026-09-09T17:59:35.690881+00:00"
-      },
-      {
-        "id": "jobright-ac5caf81df93",
-        "seen_keys": [
-          "jobright-ac5caf81df93",
-          "url:https://jobright.ai/jobs/info/6a700b3ccd3bac13d370968d"
-        ],
-        "title": "(General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start",
-        "company": "TikTok",
-        "location": "Seattle, WA, United States",
-        "url": "https://jobright.ai/jobs/info/6a700b3ccd3bac13d370968d?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-08",
-        "queued_at": "2026-09-09T17:59:35.690894+00:00"
-      },
-      {
         "id": "amazon-10535238",
         "seen_keys": [
           "amazon-10535238",
@@ -854,8 +756,400 @@
         "platform": "jobright",
         "posted_at": "2026-09-08",
         "queued_at": "2026-09-09T23:11:22.256065+00:00"
+      },
+      {
+        "id": "jobright-b0412c9cfa22",
+        "seen_keys": [
+          "jobright-b0412c9cfa22",
+          "url:https://jobright.ai/jobs/info/6aa1bbad0ffb3d4fea6b6b47"
+        ],
+        "title": "Entry-Level Software Engineer",
+        "company": "22nd Century Technologies Inc.",
+        "location": "Painted Post, NY, United States",
+        "url": "https://jobright.ai/jobs/info/6aa1bbad0ffb3d4fea6b6b47?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626331+00:00"
+      },
+      {
+        "id": "jobright-afa965dc41e1",
+        "seen_keys": [
+          "jobright-afa965dc41e1",
+          "url:https://jobright.ai/jobs/info/6aa1b3b33272060a8e3f19c3"
+        ],
+        "title": "Forward Deployed Engineer - New Grad, 2027",
+        "company": "Domino Data Lab",
+        "location": "New York, NY, United States",
+        "url": "https://jobright.ai/jobs/info/6aa1b3b33272060a8e3f19c3?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626348+00:00"
+      },
+      {
+        "id": "jobright-a5ff0a7fd015",
+        "seen_keys": [
+          "jobright-a5ff0a7fd015",
+          "url:https://jobright.ai/jobs/info/6aa1b3b23272060a8e3f19c2"
+        ],
+        "title": "Software Engineer - New Grad, 2027",
+        "company": "Domino Data Lab",
+        "location": "New York, NY, United States",
+        "url": "https://jobright.ai/jobs/info/6aa1b3b23272060a8e3f19c2?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626362+00:00"
+      },
+      {
+        "id": "jobright-145584c6ceb6",
+        "seen_keys": [
+          "jobright-145584c6ceb6",
+          "url:https://jobright.ai/jobs/info/6a8f2846382b237ac80c4965"
+        ],
+        "title": "Full Stack Developer",
+        "company": "PetVet Care Centers",
+        "location": "Westport, CT, United States",
+        "url": "https://jobright.ai/jobs/info/6a8f2846382b237ac80c4965?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626375+00:00"
+      },
+      {
+        "id": "jobright-65ff5e417768",
+        "seen_keys": [
+          "jobright-65ff5e417768",
+          "url:https://jobright.ai/jobs/info/6aa1aedb3272060a8e3f1835"
+        ],
+        "title": "Software Engineer (Secret) (4611)",
+        "company": "SMX",
+        "location": "Boston, MA, United States",
+        "url": "https://jobright.ai/jobs/info/6aa1aedb3272060a8e3f1835?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626386+00:00"
+      },
+      {
+        "id": "jobright-d5af72f0b371",
+        "seen_keys": [
+          "jobright-d5af72f0b371",
+          "url:https://jobright.ai/jobs/info/6aa1ad3a3272060a8e3f17a8"
+        ],
+        "title": "Software Engineer - New Grad (Summer 2027)",
+        "company": "Replit",
+        "location": "Foster City, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6aa1ad3a3272060a8e3f17a8?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626398+00:00"
+      },
+      {
+        "id": "jobright-9be19dbc1542",
+        "seen_keys": [
+          "jobright-9be19dbc1542",
+          "url:https://jobright.ai/jobs/info/6aa1a4752f936e4a53dad2c2"
+        ],
+        "title": "Amazon Dedicated Cloud Engineer, Region Reliability",
+        "company": "Amazon Web Services (AWS)",
+        "location": "Denver, CO, United States",
+        "url": "https://jobright.ai/jobs/info/6aa1a4752f936e4a53dad2c2?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626410+00:00"
+      },
+      {
+        "id": "jobright-f52756e0898e",
+        "seen_keys": [
+          "jobright-f52756e0898e",
+          "url:https://jobright.ai/jobs/info/6a8f1e63309e5f224870a83c"
+        ],
+        "title": "Software Engineer I, Memberships",
+        "company": "Twitch",
+        "location": "Seattle, WA, United States",
+        "url": "https://jobright.ai/jobs/info/6a8f1e63309e5f224870a83c?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626422+00:00"
+      },
+      {
+        "id": "jobright-9d3afba9d43a",
+        "seen_keys": [
+          "jobright-9d3afba9d43a",
+          "url:https://jobright.ai/jobs/info/6a8f1e3ba10ee661e24d6ab4"
+        ],
+        "title": "Software Engineer I, Memberships",
+        "company": "Twitch",
+        "location": "San Francisco, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6a8f1e3ba10ee661e24d6ab4?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626432+00:00"
+      },
+      {
+        "id": "jobright-c0796067b0ee",
+        "seen_keys": [
+          "jobright-c0796067b0ee",
+          "url:https://jobright.ai/jobs/info/6aa1a9e4500b01124c77e4b5"
+        ],
+        "title": "Software Engineer",
+        "company": "ServiceNow",
+        "location": "Santa Clara, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6aa1a9e4500b01124c77e4b5?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626443+00:00"
+      },
+      {
+        "id": "jobright-870d91400576",
+        "seen_keys": [
+          "jobright-870d91400576",
+          "url:https://jobright.ai/jobs/info/6aa19dda0ffb3d4fea6b602e"
+        ],
+        "title": "Software Engineer \u2013 (Proficient in JAVA)",
+        "company": "General Dynamics",
+        "location": "Pittsfield, MA, United States",
+        "url": "https://jobright.ai/jobs/info/6aa19dda0ffb3d4fea6b602e?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626454+00:00"
+      },
+      {
+        "id": "jobright-b5936f38ccf2",
+        "seen_keys": [
+          "jobright-b5936f38ccf2",
+          "url:https://jobright.ai/jobs/info/6aa183680ffb3d4fea6b507a"
+        ],
+        "title": "Embedded Software Engineer I (Onsite)",
+        "company": "Raytheon",
+        "location": "McKinney, TX, United States",
+        "url": "https://jobright.ai/jobs/info/6aa183680ffb3d4fea6b507a?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626466+00:00"
+      },
+      {
+        "id": "jobright-4a1b3127c1d3",
+        "seen_keys": [
+          "jobright-4a1b3127c1d3",
+          "url:https://jobright.ai/jobs/info/6aa197c3dbc0e60e37e12590"
+        ],
+        "title": "Applications Developer I",
+        "company": "North Carolina Department of Agriculture and Consumer Services",
+        "location": "Madison County, MS, United States",
+        "url": "https://jobright.ai/jobs/info/6aa197c3dbc0e60e37e12590?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626477+00:00"
+      },
+      {
+        "id": "jobright-127034792913",
+        "seen_keys": [
+          "jobright-127034792913",
+          "url:https://jobright.ai/jobs/info/6aa1952a0ffb3d4fea6b5b3d"
+        ],
+        "title": "Software Engineer",
+        "company": "Publicis Sapient",
+        "location": "Westminster, CO, United States",
+        "url": "https://jobright.ai/jobs/info/6aa1952a0ffb3d4fea6b5b3d?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626489+00:00"
+      },
+      {
+        "id": "jobright-138ee19981e5",
+        "seen_keys": [
+          "jobright-138ee19981e5",
+          "url:https://jobright.ai/jobs/info/6aa1c55e3272060a8e3f2061"
+        ],
+        "title": "Software Engineer",
+        "company": "Publicis Montr\u00e9al",
+        "location": "Westminster, CO, United States",
+        "url": "https://jobright.ai/jobs/info/6aa1c55e3272060a8e3f2061?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626499+00:00"
+      },
+      {
+        "id": "jobright-06a136f12e7d",
+        "seen_keys": [
+          "jobright-06a136f12e7d",
+          "url:https://jobright.ai/jobs/info/6a571ad110c4d945d864d02a"
+        ],
+        "title": "Self-Perform Project Engineer",
+        "company": "Consigli Construction Co., Inc.",
+        "location": "Milford, Massachusetts, United States",
+        "url": "https://jobright.ai/jobs/info/6a571ad110c4d945d864d02a?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626511+00:00"
+      },
+      {
+        "id": "jobright-46eedacd4f19",
+        "seen_keys": [
+          "jobright-46eedacd4f19",
+          "url:https://jobright.ai/jobs/info/6a84e5cf2f4f0014cae23636"
+        ],
+        "title": "Lab Development Engineer, Dedicated Cloud Training",
+        "company": "Amazon Web Services (AWS)",
+        "location": "Herndon, VA, United States",
+        "url": "https://jobright.ai/jobs/info/6a84e5cf2f4f0014cae23636?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626522+00:00"
+      },
+      {
+        "id": "jobright-b9589a3c59fd",
+        "seen_keys": [
+          "jobright-b9589a3c59fd",
+          "url:https://jobright.ai/jobs/info/6a427c4d6a9c2774b3fa628c"
+        ],
+        "title": "Software Engineer, New Grad",
+        "company": "Palantir Technologies",
+        "location": "New York, NY",
+        "url": "https://jobright.ai/jobs/info/6a427c4d6a9c2774b3fa628c?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626533+00:00"
+      },
+      {
+        "id": "jobright-e5fd46861bc8",
+        "seen_keys": [
+          "jobright-e5fd46861bc8",
+          "url:https://jobright.ai/jobs/info/6a427c566faf756060966e30"
+        ],
+        "title": "Software Engineer, New Grad",
+        "company": "Palantir Technologies",
+        "location": "Denver, CO, United States",
+        "url": "https://jobright.ai/jobs/info/6a427c566faf756060966e30?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626544+00:00"
+      },
+      {
+        "id": "jobright-3f278fcbfb06",
+        "seen_keys": [
+          "jobright-3f278fcbfb06",
+          "url:https://jobright.ai/jobs/info/6a84a0732f4f0014cae21b9a"
+        ],
+        "title": "ADC Engineer I, S3+Glacier Unique Regions",
+        "company": "Amazon Web Services (AWS)",
+        "location": "Seattle, WA, United States",
+        "url": "https://jobright.ai/jobs/info/6a84a0732f4f0014cae21b9a?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626555+00:00"
+      },
+      {
+        "id": "jobright-af55629526c5",
+        "seen_keys": [
+          "jobright-af55629526c5",
+          "url:https://jobright.ai/jobs/info/6a96482d4c22023a07938c8c"
+        ],
+        "title": "Genesys Cloud CX Engineer",
+        "company": "Infosys",
+        "location": "United States",
+        "url": "https://jobright.ai/jobs/info/6a96482d4c22023a07938c8c?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626565+00:00"
+      },
+      {
+        "id": "jobright-6d8df62a077d",
+        "seen_keys": [
+          "jobright-6d8df62a077d",
+          "url:https://jobright.ai/jobs/info/6aa1affadbc0e60e37e130fc"
+        ],
+        "title": "Project Engineer",
+        "company": "WESTLAND CONSTRUCTION, INC.",
+        "location": "St. George, UT, United States",
+        "url": "https://jobright.ai/jobs/info/6aa1affadbc0e60e37e130fc?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626576+00:00"
+      },
+      {
+        "id": "jobright-be02d1654a6f",
+        "seen_keys": [
+          "jobright-be02d1654a6f",
+          "url:https://jobright.ai/jobs/info/6a680a8e872eb74f9eadc308"
+        ],
+        "title": "Software Engineer I",
+        "company": "Rocket",
+        "location": "Texas, United States",
+        "url": "https://jobright.ai/jobs/info/6a680a8e872eb74f9eadc308?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626587+00:00"
+      },
+      {
+        "id": "jobright-bfb16f073e06",
+        "seen_keys": [
+          "jobright-bfb16f073e06",
+          "url:https://jobright.ai/jobs/info/6aa19d44ef23570cae245199"
+        ],
+        "title": "Software Engineer, LI",
+        "company": "Abacus Global Management",
+        "location": "Orlando, FL, United States",
+        "url": "https://jobright.ai/jobs/info/6aa19d44ef23570cae245199?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626598+00:00"
+      },
+      {
+        "id": "jobright-b9f38815a10d",
+        "seen_keys": [
+          "jobright-b9f38815a10d",
+          "url:https://jobright.ai/jobs/info/6a8da9d0a5639a4810326ac7"
+        ],
+        "title": "3D Graphics Innovation Engineer Graduate (PICO Foundation-Developer Technology) - 2027 Start",
+        "company": "ByteDance",
+        "location": "San Jose, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6a8da9d0a5639a4810326ac7?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626609+00:00"
+      },
+      {
+        "id": "jobright-12cb7e97844a",
+        "seen_keys": [
+          "jobright-12cb7e97844a",
+          "url:https://jobright.ai/jobs/info/6a8da9accc0cf270685244a1"
+        ],
+        "title": "Software Engineer Graduate (Traffic Infrastructure)- 2027 Start",
+        "company": "ByteDance",
+        "location": "San Jose, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6a8da9accc0cf270685244a1?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626620+00:00"
+      },
+      {
+        "id": "applyguy-68115136-a172-4569-a36f-803b691890ca",
+        "seen_keys": [
+          "applyguy-68115136-a172-4569-a36f-803b691890ca",
+          "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491069"
+        ],
+        "title": "Software Engineer - Entry Level (Summer 2027)",
+        "company": "Gravitate Energy LLC",
+        "location": "Dallas, TX",
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491069",
+        "platform": "applyguy",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626628+00:00"
+      },
+      {
+        "id": "amazon-10535559",
+        "seen_keys": [
+          "amazon-10535559",
+          "url:https://www.amazon.jobs/en/jobs/10535559/software-development-engineer-aws-opensearch-opensearch-dashboards"
+        ],
+        "title": "Software Development Engineer - AWS OpenSearch, OpenSearch Dashboards",
+        "company": "Amazon",
+        "location": "Bellevue, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10535559/software-development-engineer-aws-opensearch-opensearch-dashboards",
+        "platform": "amazon",
+        "posted_at": "2026-09-09",
+        "queued_at": "2026-09-10T01:12:09.626639+00:00"
       }
     ]
   },
-  "last_run": "2026-09-09T23:11:22.581555+00:00"
+  "last_run": "2026-09-10T01:12:09.906757+00:00"
 }
