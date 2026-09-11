@@ -1,6 +1,49 @@
 {
   "channels": {
-    "swe-ai-full-time": []
+    "swe-ai-full-time": [
+      {
+        "id": "amazon-10536941",
+        "seen_keys": [
+          "amazon-10536941",
+          "url:https://www.amazon.jobs/en/jobs/10536941/network-development-engineer-i-alg-software-and-network-integration-and-test"
+        ],
+        "title": "Network Development Engineer I, ALG Software and Network Integration and Test",
+        "company": "Amazon",
+        "location": "Northridge, California, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10536941/network-development-engineer-i-alg-software-and-network-integration-and-test",
+        "platform": "amazon",
+        "posted_at": "2026-09-10",
+        "queued_at": "2026-09-11T00:31:26.942636+00:00"
+      },
+      {
+        "id": "amazon-10536949",
+        "seen_keys": [
+          "amazon-10536949",
+          "url:https://www.amazon.jobs/en/jobs/10536949/data-scientist-na-operations"
+        ],
+        "title": "Data Scientist, NA Operations",
+        "company": "Amazon",
+        "location": "Bellevue, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10536949/data-scientist-na-operations",
+        "platform": "amazon",
+        "posted_at": "2026-09-10",
+        "queued_at": "2026-09-11T00:31:26.942650+00:00"
+      },
+      {
+        "id": "amazon-10536940",
+        "seen_keys": [
+          "amazon-10536940",
+          "url:https://www.amazon.jobs/en/jobs/10536940/business-intelligence-engineer-customer-experience-and-business-trends"
+        ],
+        "title": "Business Intelligence Engineer , Customer Experience and Business Trends",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10536940/business-intelligence-engineer-customer-experience-and-business-trends",
+        "platform": "amazon",
+        "posted_at": "2026-09-10",
+        "queued_at": "2026-09-11T00:31:26.942660+00:00"
+      }
+    ]
   },
-  "last_run": "2026-09-10T22:34:10.930693+00:00"
+  "last_run": "2026-09-11T00:31:27.420963+00:00"
 }
