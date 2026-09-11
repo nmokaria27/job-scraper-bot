@@ -2170,8 +2170,190 @@
         "platform": "jobright",
         "posted_at": "2026-09-10",
         "queued_at": "2026-09-11T17:49:20.998998+00:00"
+      },
+      {
+        "id": "jobright-5fc23701c31e",
+        "seen_keys": [
+          "jobright-5fc23701c31e",
+          "url:https://jobright.ai/jobs/info/6a87a59d4afae74a08349c6e"
+        ],
+        "title": "Full Stack Software Engineer - Simulation & Flight Systems",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6a87a59d4afae74a08349c6e?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-11T20:06:38.086978+00:00"
+      },
+      {
+        "id": "jobright-076cadc91df4",
+        "seen_keys": [
+          "jobright-076cadc91df4",
+          "url:https://jobright.ai/jobs/info/6aa42e0f1d92e2d05d113b22"
+        ],
+        "title": "Software Engineer I -(Onsite)",
+        "company": "Raytheon",
+        "location": "Fort Wayne, IN, United States",
+        "url": "https://jobright.ai/jobs/info/6aa42e0f1d92e2d05d113b22?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-11T20:06:38.086994+00:00"
+      },
+      {
+        "id": "jobright-161d414ded50",
+        "seen_keys": [
+          "jobright-161d414ded50",
+          "url:https://jobright.ai/jobs/info/6a3c06c7122f340d29cec28f"
+        ],
+        "title": "Software Engineer - JobID-0198",
+        "company": "Innovative Defense Technologies (IDT)",
+        "location": "Arlington, VA, United States",
+        "url": "https://jobright.ai/jobs/info/6a3c06c7122f340d29cec28f?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-11T20:06:38.087008+00:00"
+      },
+      {
+        "id": "jobright-fbe875bdd151",
+        "seen_keys": [
+          "jobright-fbe875bdd151",
+          "url:https://jobright.ai/jobs/info/6a536ed38a74e077472f8581"
+        ],
+        "title": ".net developer",
+        "company": "PreludeSys",
+        "location": "Illinois, United States",
+        "url": "https://jobright.ai/jobs/info/6a536ed38a74e077472f8581?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-11T20:06:38.087020+00:00"
+      },
+      {
+        "id": "applyguy-39413ac8-43de-44e2-8e24-1257c01f965b",
+        "seen_keys": [
+          "applyguy-39413ac8-43de-44e2-8e24-1257c01f965b",
+          "url:https://leidos.wd5.myworkdayjobs.com/external/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00191096"
+        ],
+        "title": "Software Engineer (Tactical Decision Aids \u2013 Entry-Level)",
+        "company": "Leidos",
+        "location": "Bethesda, MD",
+        "url": "https://leidos.wd5.myworkdayjobs.com/external/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00191096",
+        "platform": "applyguy",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-11T20:06:38.087030+00:00"
+      },
+      {
+        "id": "applyguy-034d2940-e3fb-4979-a905-6e63d784b173",
+        "seen_keys": [
+          "applyguy-034d2940-e3fb-4979-a905-6e63d784b173",
+          "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I---Gen4-Tactical-Airborne-Radar_01874418"
+        ],
+        "title": "Software Engineer I - Gen4 Tactical Airborne Radar",
+        "company": "RTX",
+        "location": "El Segundo, CA",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I---Gen4-Tactical-Airborne-Radar_01874418",
+        "platform": "applyguy",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-11T20:06:38.087039+00:00"
+      },
+      {
+        "id": "gradtracker-6d75b692736b",
+        "seen_keys": [
+          "gradtracker-6d75b692736b",
+          "url:https://www.amazon.jobs/en/jobs/10537574/data-engineer-1-cia-orchestration-team"
+        ],
+        "title": "Data Engineer 1, CIA Orchestration Team",
+        "company": "Amazon",
+        "location": "Austin, Texas, USA, United States",
+        "url": "https://www.amazon.jobs/en/jobs/10537574/data-engineer-1-cia-orchestration-team",
+        "platform": "gradtracker",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-11T20:06:38.087048+00:00"
+      },
+      {
+        "id": "gradtracker-13ff3b9386ac",
+        "seen_keys": [
+          "gradtracker-13ff3b9386ac",
+          "url:https://www.amazon.jobs/en/jobs/10537769/software-development-engineer-fba-from-origin-ffo"
+        ],
+        "title": "Software Development Engineer, FBA from Origin (FFO)",
+        "company": "Amazon",
+        "location": "Bellevue, Washington, USA, United States",
+        "url": "https://www.amazon.jobs/en/jobs/10537769/software-development-engineer-fba-from-origin-ffo",
+        "platform": "gradtracker",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-11T20:06:38.087057+00:00"
+      },
+      {
+        "id": "amazon-10537934",
+        "seen_keys": [
+          "amazon-10537934",
+          "url:https://www.amazon.jobs/en/jobs/10537934/software-development-engineer-amazon-quick"
+        ],
+        "title": "Software Development Engineer, Amazon Quick",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10537934/software-development-engineer-amazon-quick",
+        "platform": "amazon",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-11T20:06:38.087066+00:00"
+      },
+      {
+        "id": "workday-salesforce-JR347839",
+        "seen_keys": [
+          "workday-salesforce-JR347839",
+          "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Agentic-Operations-Consultant_JR347839"
+        ],
+        "title": "Agentic Operations Consultant",
+        "company": "Salesforce",
+        "location": "55 Locations",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Agentic-Operations-Consultant_JR347839",
+        "platform": "workday",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-11T20:06:38.087075+00:00"
+      },
+      {
+        "id": "workday-capitalone-R1000537",
+        "seen_keys": [
+          "workday-capitalone-R1000537",
+          "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Applied-Researcher-I--AI-Foundations--LLM-Customization--Finetuning--Reinforcement-Learning-_R1000537-1"
+        ],
+        "title": "Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)",
+        "company": "Capital One",
+        "location": "4 Locations",
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Applied-Researcher-I--AI-Foundations--LLM-Customization--Finetuning--Reinforcement-Learning-_R1000537-1",
+        "platform": "workday",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-11T20:06:38.087083+00:00"
+      },
+      {
+        "id": "jobright-6296268acb40",
+        "seen_keys": [
+          "jobright-6296268acb40",
+          "url:https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919"
+        ],
+        "title": "Embedded Software Engineer",
+        "company": "Viasat",
+        "location": "Duluth, GA, United States",
+        "url": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-10",
+        "queued_at": "2026-09-11T20:06:38.087096+00:00"
+      },
+      {
+        "id": "jobright-2264a993831b",
+        "seen_keys": [
+          "jobright-2264a993831b",
+          "url:https://jobright.ai/jobs/info/6aa43079f7baf881567cdaf1"
+        ],
+        "title": ".Net Engineer",
+        "company": "Netrolynx AI",
+        "location": "United States",
+        "url": "https://jobright.ai/jobs/info/6aa43079f7baf881567cdaf1?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-10",
+        "queued_at": "2026-09-11T20:06:38.087108+00:00"
       }
     ]
   },
-  "last_run": "2026-09-11T17:49:21.388163+00:00"
+  "last_run": "2026-09-11T20:06:38.381087+00:00"
 }
