@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-robinhood-8067604",
-      "seen_at": "2026-08-13T21:55:50.152702+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/robinhood/jobs/8067604",
-      "seen_at": "2026-08-13T21:55:50.153106+00:00"
-    },
-    {
-      "id": "ashby-openai-ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
-      "seen_at": "2026-08-13T21:55:50.153449+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
-      "seen_at": "2026-08-13T21:55:50.153772+00:00"
-    },
-    {
-      "id": "simplify-6753f099-9106-4840-b725-97e422c72cb4",
-      "seen_at": "2026-08-13T22:54:11.563835+00:00"
-    },
-    {
-      "id": "url:https://mantech.avature.net/en_US/careers/JobDetail/64747",
-      "seen_at": "2026-08-13T22:54:11.564463+00:00"
-    },
-    {
-      "id": "simplify-b82ebee3-b9ea-4a22-b498-9b803e53e092",
-      "seen_at": "2026-08-13T22:54:11.565042+00:00"
-    },
-    {
-      "id": "url:https://aircontrolconcepts.applytojob.com/apply/0mgWNmp2sM/Application-Engineer",
-      "seen_at": "2026-08-13T22:54:11.565466+00:00"
-    },
-    {
-      "id": "simplify-203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
-      "seen_at": "2026-08-13T22:54:11.565907+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
-      "seen_at": "2026-08-13T22:54:11.566330+00:00"
-    },
-    {
       "id": "simplify-58f7e9f6-b7b9-4af8-bfd7-466b0e3255e7",
       "seen_at": "2026-08-13T23:51:57.277110+00:00"
     },
@@ -45823,10 +45783,130 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aa381bb4233a2201a2b1ac9",
       "seen_at": "2026-09-12T21:02:50.923547+00:00"
+    },
+    {
+      "id": "zapply-b23192a9c055",
+      "seen_at": "2026-09-12T23:01:00.856664+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-zoox-7bf2a9b3-8aa5-4950-b8b8-14306ef1069f",
+      "seen_at": "2026-09-12T23:01:00.857426+00:00"
+    },
+    {
+      "id": "zapply-f9c34f254e73",
+      "seen_at": "2026-09-12T23:01:00.858132+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-zoox-0a22d356-f7f7-4374-b393-55637772edda",
+      "seen_at": "2026-09-12T23:01:00.858780+00:00"
+    },
+    {
+      "id": "zapply-b5f2dc20c316",
+      "seen_at": "2026-09-12T23:01:00.859412+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-tessera-labs-3b2d45b8-9881-41fe-b103-7bbc400e1544",
+      "seen_at": "2026-09-12T23:01:00.860031+00:00"
+    },
+    {
+      "id": "zapply-8eb80b15c3c6",
+      "seen_at": "2026-09-12T23:01:00.860677+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-e39a441a-07e4-4ea3-a687-b483007deb94",
+      "seen_at": "2026-09-12T23:01:00.861301+00:00"
+    },
+    {
+      "id": "jobright-38d24c75f579",
+      "seen_at": "2026-09-12T23:01:00.861943+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa1e238500b01124c77f860",
+      "seen_at": "2026-09-12T23:01:00.862588+00:00"
+    },
+    {
+      "id": "zapply-fdec14639bba",
+      "seen_at": "2026-09-12T23:01:09.587399+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-RaytheonTechnologies-743999840715481",
+      "seen_at": "2026-09-12T23:01:09.588506+00:00"
+    },
+    {
+      "id": "zapply-94f14415533f",
+      "seen_at": "2026-09-12T23:01:09.589466+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-clickhouse-96178d88-9e95-4919-8eca-330b94dd4954",
+      "seen_at": "2026-09-12T23:01:09.590420+00:00"
+    },
+    {
+      "id": "zapply-a173b4d7c558",
+      "seen_at": "2026-09-12T23:01:09.591356+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-zip-58571fb8-d337-4ed7-81f1-006d7c95fe87",
+      "seen_at": "2026-09-12T23:01:09.592280+00:00"
+    },
+    {
+      "id": "zapply-2f4288e7bbee",
+      "seen_at": "2026-09-12T23:01:09.593183+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-suno-6f27a62f-02ac-46c0-8e77-347cf28881ed",
+      "seen_at": "2026-09-12T23:01:09.594159+00:00"
+    },
+    {
+      "id": "zapply-006fc796f2bb",
+      "seen_at": "2026-09-12T23:01:09.595059+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-tessera-labs-c48696b2-b320-4a79-8b19-ebdb94575817",
+      "seen_at": "2026-09-12T23:01:09.595972+00:00"
+    },
+    {
+      "id": "zapply-42feda9c94d8",
+      "seen_at": "2026-09-12T23:01:09.596881+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-143a2248-564b-4cfa-85f5-d47bac911d74",
+      "seen_at": "2026-09-12T23:01:09.597855+00:00"
+    },
+    {
+      "id": "zapply-2a2b50bf7d3d",
+      "seen_at": "2026-09-12T23:01:09.598805+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-zip-df6eb1ee-b360-46fe-b23f-658626ec59ea",
+      "seen_at": "2026-09-12T23:01:09.599758+00:00"
+    },
+    {
+      "id": "jobright-e6cf40e8eaeb",
+      "seen_at": "2026-09-12T23:01:09.600714+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa3cd769b7684dd0b92dd7f",
+      "seen_at": "2026-09-12T23:01:09.601686+00:00"
+    },
+    {
+      "id": "jobright-87a14fe28a61",
+      "seen_at": "2026-09-12T23:01:09.602643+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa56338654b2a9424cf415f",
+      "seen_at": "2026-09-12T23:01:09.603323+00:00"
+    },
+    {
+      "id": "jobright-e29e6d4e5d6e",
+      "seen_at": "2026-09-12T23:01:09.604002+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa39d584233a2201a2b26f4",
+      "seen_at": "2026-09-12T23:01:09.604680+00:00"
     }
   ],
-  "last_run": "2026-09-12T21:02:51.132652+00:00",
-  "total_notified": 5655,
+  "last_run": "2026-09-12T23:01:09.986321+00:00",
+  "total_notified": 5670,
   "channels": {
     "pm-jobs": [
       "simplify-b4ec14b4-17c7-49dc-a000-7e6d0217898f",
@@ -47420,19 +47500,19 @@
       "zapply-811c2f33ede0",
       "url:https://zapply.jobs/l/d/workday-db-dbwebsite-R0440662",
       "jobright-b69a8ad1a0fc",
-      "url:https://jobright.ai/jobs/info/6aa59ca92ed333b4ea5c772d"
+      "url:https://jobright.ai/jobs/info/6aa59ca92ed333b4ea5c772d",
+      "zapply-b23192a9c055",
+      "url:https://zapply.jobs/l/d/lever-zoox-7bf2a9b3-8aa5-4950-b8b8-14306ef1069f",
+      "zapply-f9c34f254e73",
+      "url:https://zapply.jobs/l/d/lever-zoox-0a22d356-f7f7-4374-b393-55637772edda",
+      "zapply-b5f2dc20c316",
+      "url:https://zapply.jobs/l/d/ashby-tessera-labs-3b2d45b8-9881-41fe-b103-7bbc400e1544",
+      "zapply-8eb80b15c3c6",
+      "url:https://zapply.jobs/l/d/ashby-snowflake-e39a441a-07e4-4ea3-a687-b483007deb94",
+      "jobright-38d24c75f579",
+      "url:https://jobright.ai/jobs/info/6aa1e238500b01124c77f860"
     ],
     "swe-ai-full-time": [
-      "greenhouse-robinhood-8067604",
-      "url:https://boards.greenhouse.io/robinhood/jobs/8067604",
-      "ashby-openai-ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
-      "url:https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1",
-      "simplify-6753f099-9106-4840-b725-97e422c72cb4",
-      "url:https://mantech.avature.net/en_US/careers/JobDetail/64747",
-      "simplify-b82ebee3-b9ea-4a22-b498-9b803e53e092",
-      "url:https://aircontrolconcepts.applytojob.com/apply/0mgWNmp2sM/Application-Engineer",
-      "simplify-203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
-      "url:https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
       "simplify-5626cf23-a738-4254-a817-c09de4ad69af",
       "url:https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Software-Engineer_R-00189564",
       "simplify-d4ae6451-b1b2-4a63-8dc6-e456e9f5bf19",
@@ -56406,7 +56486,27 @@
       "jobright-970b59852c3c",
       "url:https://jobright.ai/jobs/info/6aa59538930bff471a29f378",
       "jobright-f85af7e7c074",
-      "url:https://jobright.ai/jobs/info/6aa381bb4233a2201a2b1ac9"
+      "url:https://jobright.ai/jobs/info/6aa381bb4233a2201a2b1ac9",
+      "zapply-fdec14639bba",
+      "url:https://zapply.jobs/l/d/sr-RaytheonTechnologies-743999840715481",
+      "zapply-94f14415533f",
+      "url:https://zapply.jobs/l/d/ashby-clickhouse-96178d88-9e95-4919-8eca-330b94dd4954",
+      "zapply-a173b4d7c558",
+      "url:https://zapply.jobs/l/d/ashby-zip-58571fb8-d337-4ed7-81f1-006d7c95fe87",
+      "zapply-2f4288e7bbee",
+      "url:https://zapply.jobs/l/d/ashby-suno-6f27a62f-02ac-46c0-8e77-347cf28881ed",
+      "zapply-006fc796f2bb",
+      "url:https://zapply.jobs/l/d/ashby-tessera-labs-c48696b2-b320-4a79-8b19-ebdb94575817",
+      "zapply-42feda9c94d8",
+      "url:https://zapply.jobs/l/d/ashby-snowflake-143a2248-564b-4cfa-85f5-d47bac911d74",
+      "zapply-2a2b50bf7d3d",
+      "url:https://zapply.jobs/l/d/ashby-zip-df6eb1ee-b360-46fe-b23f-658626ec59ea",
+      "jobright-e6cf40e8eaeb",
+      "url:https://jobright.ai/jobs/info/6aa3cd769b7684dd0b92dd7f",
+      "jobright-87a14fe28a61",
+      "url:https://jobright.ai/jobs/info/6aa56338654b2a9424cf415f",
+      "jobright-e29e6d4e5d6e",
+      "url:https://jobright.ai/jobs/info/6aa39d584233a2201a2b26f4"
     ]
   }
 }
