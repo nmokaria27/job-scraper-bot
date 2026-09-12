@@ -1,102 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-7f4f97085289",
-      "seen_at": "2026-08-13T14:02:05.868580+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7da4ca0a156a4f2c227212",
-      "seen_at": "2026-08-13T14:02:05.869044+00:00"
-    },
-    {
-      "id": "simplify-d15c2dd4-7288-4110-bf59-550c753167ab",
-      "seen_at": "2026-08-13T15:06:30.083725+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
-      "seen_at": "2026-08-13T15:06:30.084355+00:00"
-    },
-    {
-      "id": "ashby-openai-f0d51f11-0f35-4e10-b8bb-d24191ba26f3",
-      "seen_at": "2026-08-13T15:06:31.451272+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/f0d51f11-0f35-4e10-b8bb-d24191ba26f3",
-      "seen_at": "2026-08-13T15:06:31.451851+00:00"
-    },
-    {
-      "id": "simplify-87d3b674-66f6-4a43-b3c8-765da738bad1",
-      "seen_at": "2026-08-13T15:06:34.897744+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1419017400",
-      "seen_at": "2026-08-13T15:06:34.898372+00:00"
-    },
-    {
-      "id": "simplify-446febb4-b44b-4e23-bd24-9d5be19954c1",
-      "seen_at": "2026-08-13T15:06:34.898884+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/RenesasElectronics/744000143318619",
-      "seen_at": "2026-08-13T15:06:34.899354+00:00"
-    },
-    {
-      "id": "simplify-1f8e4468-cfb9-4773-8eff-5deb0dfd3370",
-      "seen_at": "2026-08-13T15:06:34.899918+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369",
-      "seen_at": "2026-08-13T15:06:34.900379+00:00"
-    },
-    {
-      "id": "greenhouse-robinhood-7960680",
-      "seen_at": "2026-08-13T15:06:34.900879+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/robinhood/jobs/7960680",
-      "seen_at": "2026-08-13T15:06:34.901368+00:00"
-    },
-    {
-      "id": "jobright-1a6bd66459fa",
-      "seen_at": "2026-08-13T16:06:41.508882+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a6b250057120971bf3a51a6",
-      "seen_at": "2026-08-13T16:06:41.509333+00:00"
-    },
-    {
-      "id": "jobright-38b23f404679",
-      "seen_at": "2026-08-13T16:06:41.509754+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7dcbdbe2030208f2765ec2",
-      "seen_at": "2026-08-13T16:06:41.510171+00:00"
-    },
-    {
-      "id": "simplify-07c3dec1-0e25-447d-9793-3004c2b063cc",
-      "seen_at": "2026-08-13T16:06:44.876910+00:00"
-    },
-    {
-      "id": "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1-Imaging_R4044274-1",
-      "seen_at": "2026-08-13T16:06:44.877408+00:00"
-    },
-    {
-      "id": "simplify-51e32ae3-c939-432c-9c71-7804f1af781e",
-      "seen_at": "2026-08-13T16:06:44.877933+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866786",
-      "seen_at": "2026-08-13T16:06:44.878372+00:00"
-    },
-    {
-      "id": "simplify-928e76da-a595-40dc-a8b9-409cd3c6b94c",
-      "seen_at": "2026-08-13T16:06:44.878823+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866787",
-      "seen_at": "2026-08-13T16:06:44.879253+00:00"
-    },
-    {
       "id": "jobright-a12376657fb1",
       "seen_at": "2026-08-13T17:08:18.275865+00:00"
     },
@@ -45423,20 +45327,428 @@
     {
       "id": "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853",
       "seen_at": "2026-09-12T13:35:04.201341+00:00"
+    },
+    {
+      "id": "zapply-c48c90a1e6e8",
+      "seen_at": "2026-09-12T16:28:51.727710+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-tessera-labs-0bf8dc5d-b180-475e-9473-2d10f04c7fe9",
+      "seen_at": "2026-09-12T16:28:51.728449+00:00"
+    },
+    {
+      "id": "zapply-7a843770aae0",
+      "seen_at": "2026-09-12T16:28:51.729090+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-taaraconnect-d012be1c-33e3-461f-aba8-d678b9aa4aca",
+      "seen_at": "2026-09-12T16:28:51.729699+00:00"
+    },
+    {
+      "id": "zapply-0d46aac92534",
+      "seen_at": "2026-09-12T16:28:51.730317+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-uncountable-1f8425be-cd39-4397-a9c1-6511ecfc39fc",
+      "seen_at": "2026-09-12T16:28:51.730914+00:00"
+    },
+    {
+      "id": "zapply-d4117cae82c0",
+      "seen_at": "2026-09-12T16:28:51.731549+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-talos-trading-6bfa5c2e-dbd1-4b6a-93b5-3592c264ff40",
+      "seen_at": "2026-09-12T16:28:51.732161+00:00"
+    },
+    {
+      "id": "jobright-3e07f701bbbd",
+      "seen_at": "2026-09-12T16:28:51.732774+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa472fd8275e3a21176066f",
+      "seen_at": "2026-09-12T16:28:51.733385+00:00"
+    },
+    {
+      "id": "jobright-6d866f3799b3",
+      "seen_at": "2026-09-12T16:28:51.733987+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa4e95042411952ff9a610f",
+      "seen_at": "2026-09-12T16:28:51.734612+00:00"
+    },
+    {
+      "id": "jobright-47a8ffaac003",
+      "seen_at": "2026-09-12T16:28:51.735249+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8cb5a225fc4e7ae3dba124",
+      "seen_at": "2026-09-12T16:28:51.735846+00:00"
+    },
+    {
+      "id": "jobright-12795124aa87",
+      "seen_at": "2026-09-12T16:28:51.736474+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa53b41a77a53f5a157043e",
+      "seen_at": "2026-09-12T16:28:51.737096+00:00"
+    },
+    {
+      "id": "zapply-7a486d3e4feb",
+      "seen_at": "2026-09-12T16:29:15.259927+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR192279",
+      "seen_at": "2026-09-12T16:29:15.260795+00:00"
+    },
+    {
+      "id": "zapply-c010f7de5d8c",
+      "seen_at": "2026-09-12T16:29:15.261534+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR192275",
+      "seen_at": "2026-09-12T16:29:15.262244+00:00"
+    },
+    {
+      "id": "zapply-6bdd5b0f20e2",
+      "seen_at": "2026-09-12T16:29:15.262932+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-whatnot-46ed3852-aea2-426d-a144-674b2f5950c3",
+      "seen_at": "2026-09-12T16:29:15.263632+00:00"
+    },
+    {
+      "id": "zapply-7e6877c54cac",
+      "seen_at": "2026-09-12T16:29:15.264324+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-deepgram-4bfadd29-fa58-4e06-bbf0-7b5dbc41a621",
+      "seen_at": "2026-09-12T16:29:15.264992+00:00"
+    },
+    {
+      "id": "zapply-3fb5cadcae72",
+      "seen_at": "2026-09-12T16:29:15.265669+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-clickhouse-8997dfc4-1413-4b63-9388-904e289a9a6a",
+      "seen_at": "2026-09-12T16:29:15.266345+00:00"
+    },
+    {
+      "id": "zapply-7fd62b57fdf5",
+      "seen_at": "2026-09-12T16:29:15.267014+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-openai-b08126cc-8134-45f0-aeb3-4b00e96547de",
+      "seen_at": "2026-09-12T16:29:15.267720+00:00"
+    },
+    {
+      "id": "zapply-9de77697a1bb",
+      "seen_at": "2026-09-12T16:29:15.268411+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-saronic-89c34139-0005-4bd5-aa25-845d56a76bd3",
+      "seen_at": "2026-09-12T16:29:15.269089+00:00"
+    },
+    {
+      "id": "zapply-68b1c677e1a7",
+      "seen_at": "2026-09-12T16:29:15.269768+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-skydio-ef9f7dd2-5a88-49b4-a507-d5fc9cad565a",
+      "seen_at": "2026-09-12T16:29:15.270520+00:00"
+    },
+    {
+      "id": "zapply-c33b06dc74ef",
+      "seen_at": "2026-09-12T16:29:15.271223+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-suno-dba162e0-97f1-4efe-b4ff-c7d671a01b11",
+      "seen_at": "2026-09-12T16:29:15.271891+00:00"
+    },
+    {
+      "id": "zapply-648b01c6f86f",
+      "seen_at": "2026-09-12T16:29:15.272574+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-suno-56372310-e8cd-4406-b843-394128dac97d",
+      "seen_at": "2026-09-12T16:29:15.273256+00:00"
+    },
+    {
+      "id": "zapply-07c91c260bfd",
+      "seen_at": "2026-09-12T16:29:15.273931+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-tessera-labs-92a6668b-97d5-47e9-8c9c-106f3f0c8851",
+      "seen_at": "2026-09-12T16:29:15.274610+00:00"
+    },
+    {
+      "id": "zapply-3228539a8380",
+      "seen_at": "2026-09-12T16:29:15.275290+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-tessera-labs-0e719bf0-e1ef-4cad-ae3b-c16ab4e08307",
+      "seen_at": "2026-09-12T16:29:15.275955+00:00"
+    },
+    {
+      "id": "zapply-e5f516092667",
+      "seen_at": "2026-09-12T16:29:15.276664+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-vanta-0ccbb65f-f675-410a-ae54-1d34575f228a",
+      "seen_at": "2026-09-12T16:29:15.277416+00:00"
+    },
+    {
+      "id": "zapply-20ccee851bee",
+      "seen_at": "2026-09-12T16:29:15.278111+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-uncountable-242a7cde-f500-4a56-ae55-7327cbcd90d1",
+      "seen_at": "2026-09-12T16:29:15.278779+00:00"
+    },
+    {
+      "id": "zapply-02055f6da48e",
+      "seen_at": "2026-09-12T16:29:15.279457+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-uncountable-677487ff-7923-4be1-97ab-bab17ee7f9fb",
+      "seen_at": "2026-09-12T16:29:15.280130+00:00"
+    },
+    {
+      "id": "zapply-69a0046189b0",
+      "seen_at": "2026-09-12T16:29:15.280796+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-3eb872af-0ab1-4986-8f72-e7321fcd1538",
+      "seen_at": "2026-09-12T16:29:15.281467+00:00"
+    },
+    {
+      "id": "zapply-d1a7ca9260c4",
+      "seen_at": "2026-09-12T16:29:15.282141+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-db1375f0-ea5d-404a-b640-259f94dbc995",
+      "seen_at": "2026-09-12T16:29:15.282804+00:00"
+    },
+    {
+      "id": "zapply-e69fe4a7daca",
+      "seen_at": "2026-09-12T16:29:15.283496+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-08ba6a41-fb63-4b51-aee7-be5501668909",
+      "seen_at": "2026-09-12T16:29:15.284173+00:00"
+    },
+    {
+      "id": "zapply-c0f782772bc0",
+      "seen_at": "2026-09-12T16:29:15.284837+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-talos-trading-3ec93f41-3231-4170-bb25-aa33a0f406b0",
+      "seen_at": "2026-09-12T16:29:15.285535+00:00"
+    },
+    {
+      "id": "zapply-4c69c90ce0f5",
+      "seen_at": "2026-09-12T16:29:15.286211+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-talos-trading-885d627f-9bf2-4310-81ae-fda27121fd7b",
+      "seen_at": "2026-09-12T16:29:15.286877+00:00"
+    },
+    {
+      "id": "zapply-c5d06ef1fc8a",
+      "seen_at": "2026-09-12T16:29:15.287568+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-Vultr-403c9f22-6392-489a-b216-27a02c3863dc",
+      "seen_at": "2026-09-12T16:29:15.288261+00:00"
+    },
+    {
+      "id": "zapply-cff4ae0cb819",
+      "seen_at": "2026-09-12T16:29:15.288928+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-Vultr-5fbc4ef6-f1f1-4f49-bb34-52e2d46c7ead",
+      "seen_at": "2026-09-12T16:29:15.289651+00:00"
+    },
+    {
+      "id": "zapply-1dd28e6bd341",
+      "seen_at": "2026-09-12T16:29:15.290339+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-Vultr-46511947-f059-4771-a4bf-57bf3a78caa4",
+      "seen_at": "2026-09-12T16:29:15.291007+00:00"
+    },
+    {
+      "id": "zapply-da1b4c3f1252",
+      "seen_at": "2026-09-12T16:29:15.291686+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-zip-e7bcd788-ca5f-4e90-9728-0de7b57026a1",
+      "seen_at": "2026-09-12T16:29:15.292364+00:00"
+    },
+    {
+      "id": "zapply-cff8a26094b5",
+      "seen_at": "2026-09-12T16:29:15.293024+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-zip-0c1b3417-9ba4-4630-8590-f6b45c40310a",
+      "seen_at": "2026-09-12T16:29:15.293694+00:00"
+    },
+    {
+      "id": "zapply-d21a906238ce",
+      "seen_at": "2026-09-12T16:29:15.294677+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-persona.ai-eead56c6-52d6-496a-9a93-13bcbd1e7636",
+      "seen_at": "2026-09-12T16:29:15.295377+00:00"
+    },
+    {
+      "id": "zapply-d3ee7ddd5747",
+      "seen_at": "2026-09-12T16:29:15.296075+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-persona.ai-7bc07e51-fb3e-4363-bd10-83bb5c933e80",
+      "seen_at": "2026-09-12T16:29:15.296743+00:00"
+    },
+    {
+      "id": "zapply-2845bb9880a3",
+      "seen_at": "2026-09-12T16:29:15.297425+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-yotta-62d8f4db-a749-46f5-858a-a2e0ff168682",
+      "seen_at": "2026-09-12T16:29:15.298100+00:00"
+    },
+    {
+      "id": "zapply-74242cfa437c",
+      "seen_at": "2026-09-12T16:29:15.298771+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-warp-655962db-5fbe-40cc-a072-9522295b3cbc",
+      "seen_at": "2026-09-12T16:29:15.299460+00:00"
+    },
+    {
+      "id": "zapply-8eddc0b46dcd",
+      "seen_at": "2026-09-12T16:29:15.300142+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-gritt-0c8c31da-118d-4b83-8228-be58203d5649",
+      "seen_at": "2026-09-12T16:29:15.300821+00:00"
+    },
+    {
+      "id": "zapply-515bec6ab3db",
+      "seen_at": "2026-09-12T16:29:15.301523+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-gritt-731460ed-b7a1-4912-b32a-6dc05744a5a0",
+      "seen_at": "2026-09-12T16:29:15.302214+00:00"
+    },
+    {
+      "id": "zapply-8ccf4d2beb27",
+      "seen_at": "2026-09-12T16:29:15.302886+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-watershed-95adbc9d-2839-45a3-bf4f-d086251112f7",
+      "seen_at": "2026-09-12T16:29:15.303584+00:00"
+    },
+    {
+      "id": "zapply-3aff7bdbf0b4",
+      "seen_at": "2026-09-12T16:29:15.304297+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-watershed-2f60ee9b-cb7f-4c05-93d2-bad49243bf31",
+      "seen_at": "2026-09-12T16:29:15.304962+00:00"
+    },
+    {
+      "id": "jobright-f15fa8465c16",
+      "seen_at": "2026-09-12T16:29:15.305680+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a885c9b4afae74a0834b3df",
+      "seen_at": "2026-09-12T16:29:15.306377+00:00"
+    },
+    {
+      "id": "jobright-eaecc1809c9f",
+      "seen_at": "2026-09-12T16:29:15.307075+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa47854f3aa936e2cdb1592",
+      "seen_at": "2026-09-12T16:29:15.307753+00:00"
+    },
+    {
+      "id": "jobright-4361f4bf29b5",
+      "seen_at": "2026-09-12T16:29:15.308506+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa498f6c1928370a285ea3a",
+      "seen_at": "2026-09-12T16:29:15.309225+00:00"
+    },
+    {
+      "id": "jobright-6f72befe2367",
+      "seen_at": "2026-09-12T16:29:15.309917+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa3d347959a10d7230d45aa",
+      "seen_at": "2026-09-12T16:29:15.310605+00:00"
+    },
+    {
+      "id": "jobright-53fce5c1e0aa",
+      "seen_at": "2026-09-12T16:29:15.311295+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a4fe2de9469c0662034f404",
+      "seen_at": "2026-09-12T16:29:15.311965+00:00"
+    },
+    {
+      "id": "jobright-56f2a9a91f83",
+      "seen_at": "2026-09-12T16:29:15.312660+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8897294afae74a0834c806",
+      "seen_at": "2026-09-12T16:29:15.313343+00:00"
+    },
+    {
+      "id": "jobright-f7aa6d877d43",
+      "seen_at": "2026-09-12T16:29:15.314027+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa5435c654b2a9424cf3968",
+      "seen_at": "2026-09-12T16:29:15.314712+00:00"
+    },
+    {
+      "id": "jobright-0e1e1aacd92f",
+      "seen_at": "2026-09-12T16:29:15.315412+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa5394a82e82a31997bcd18",
+      "seen_at": "2026-09-12T16:29:15.316094+00:00"
+    },
+    {
+      "id": "jobright-f401bb77d3cc",
+      "seen_at": "2026-09-12T16:29:15.316771+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa54141930bff471a29dea3",
+      "seen_at": "2026-09-12T16:29:15.317465+00:00"
+    },
+    {
+      "id": "jobright-0ac19a6b0144",
+      "seen_at": "2026-09-12T16:29:15.318156+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa5399342411952ff9a7be9",
+      "seen_at": "2026-09-12T16:29:15.318832+00:00"
+    },
+    {
+      "id": "jobright-509bfeeacf11",
+      "seen_at": "2026-09-12T16:29:15.319524+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa3a77e5c11cce3603656c6",
+      "seen_at": "2026-09-12T16:29:15.320221+00:00"
     }
   ],
-  "last_run": "2026-09-12T13:35:04.478095+00:00",
-  "total_notified": 5597,
+  "last_run": "2026-09-12T16:29:15.601723+00:00",
+  "total_notified": 5630,
   "channels": {
     "pm-jobs": [
-      "jobright-7f4f97085289",
-      "url:https://jobright.ai/jobs/info/6a7da4ca0a156a4f2c227212",
-      "ashby-openai-f0d51f11-0f35-4e10-b8bb-d24191ba26f3",
-      "url:https://jobs.ashbyhq.com/openai/f0d51f11-0f35-4e10-b8bb-d24191ba26f3",
-      "jobright-1a6bd66459fa",
-      "url:https://jobright.ai/jobs/info/6a6b250057120971bf3a51a6",
-      "jobright-38b23f404679",
-      "url:https://jobright.ai/jobs/info/6a7dcbdbe2030208f2765ec2",
       "jobright-a12376657fb1",
       "url:https://jobright.ai/jobs/info/6a5e40d0050c423c792ee07d",
       "ashby-openai-aecce97b-235b-4ff6-8295-f8c22953f841",
@@ -47020,23 +47332,25 @@
       "jobright-a4e4243e2b06",
       "url:https://jobright.ai/jobs/info/6aa3ae925c11cce3603659bf",
       "jobright-1abd40620669",
-      "url:https://jobright.ai/jobs/info/6aa3a930c5a856ac7e33ac26"
+      "url:https://jobright.ai/jobs/info/6aa3a930c5a856ac7e33ac26",
+      "zapply-c48c90a1e6e8",
+      "url:https://zapply.jobs/l/d/ashby-tessera-labs-0bf8dc5d-b180-475e-9473-2d10f04c7fe9",
+      "zapply-7a843770aae0",
+      "url:https://zapply.jobs/l/d/ashby-taaraconnect-d012be1c-33e3-461f-aba8-d678b9aa4aca",
+      "zapply-0d46aac92534",
+      "url:https://zapply.jobs/l/d/ashby-uncountable-1f8425be-cd39-4397-a9c1-6511ecfc39fc",
+      "zapply-d4117cae82c0",
+      "url:https://zapply.jobs/l/d/ashby-talos-trading-6bfa5c2e-dbd1-4b6a-93b5-3592c264ff40",
+      "jobright-3e07f701bbbd",
+      "url:https://jobright.ai/jobs/info/6aa472fd8275e3a21176066f",
+      "jobright-6d866f3799b3",
+      "url:https://jobright.ai/jobs/info/6aa4e95042411952ff9a610f",
+      "jobright-47a8ffaac003",
+      "url:https://jobright.ai/jobs/info/6a8cb5a225fc4e7ae3dba124",
+      "jobright-12795124aa87",
+      "url:https://jobright.ai/jobs/info/6aa53b41a77a53f5a157043e"
     ],
     "swe-ai-full-time": [
-      "simplify-87d3b674-66f6-4a43-b3c8-765da738bad1",
-      "url:https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1419017400",
-      "simplify-446febb4-b44b-4e23-bd24-9d5be19954c1",
-      "url:https://jobs.smartrecruiters.com/RenesasElectronics/744000143318619",
-      "simplify-1f8e4468-cfb9-4773-8eff-5deb0dfd3370",
-      "url:https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369",
-      "greenhouse-robinhood-7960680",
-      "url:https://boards.greenhouse.io/robinhood/jobs/7960680",
-      "simplify-07c3dec1-0e25-447d-9793-3004c2b063cc",
-      "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1-Imaging_R4044274-1",
-      "simplify-51e32ae3-c939-432c-9c71-7804f1af781e",
-      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866786",
-      "simplify-928e76da-a595-40dc-a8b9-409cd3c6b94c",
-      "url:https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866787",
       "greenhouse-airbnb-8127075",
       "url:https://careers.airbnb.com/positions/8127075",
       "ashby-openai-099dd6af-b017-4a60-85d5-4c79da3a9ead",
@@ -55904,7 +56218,95 @@
       "jobright-86d51dc35ffd",
       "url:https://jobright.ai/jobs/info/6aa39229959a10d7230d2751",
       "applyguy-39fb825f-cf1f-4c61-8800-364c34b0fa28",
-      "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853"
+      "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853",
+      "zapply-7a486d3e4feb",
+      "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR192279",
+      "zapply-c010f7de5d8c",
+      "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR192275",
+      "zapply-6bdd5b0f20e2",
+      "url:https://zapply.jobs/l/d/ashby-whatnot-46ed3852-aea2-426d-a144-674b2f5950c3",
+      "zapply-7e6877c54cac",
+      "url:https://zapply.jobs/l/d/ashby-deepgram-4bfadd29-fa58-4e06-bbf0-7b5dbc41a621",
+      "zapply-3fb5cadcae72",
+      "url:https://zapply.jobs/l/d/ashby-clickhouse-8997dfc4-1413-4b63-9388-904e289a9a6a",
+      "zapply-7fd62b57fdf5",
+      "url:https://zapply.jobs/l/d/ashby-openai-b08126cc-8134-45f0-aeb3-4b00e96547de",
+      "zapply-9de77697a1bb",
+      "url:https://zapply.jobs/l/d/ashby-saronic-89c34139-0005-4bd5-aa25-845d56a76bd3",
+      "zapply-68b1c677e1a7",
+      "url:https://zapply.jobs/l/d/ashby-skydio-ef9f7dd2-5a88-49b4-a507-d5fc9cad565a",
+      "zapply-c33b06dc74ef",
+      "url:https://zapply.jobs/l/d/ashby-suno-dba162e0-97f1-4efe-b4ff-c7d671a01b11",
+      "zapply-648b01c6f86f",
+      "url:https://zapply.jobs/l/d/ashby-suno-56372310-e8cd-4406-b843-394128dac97d",
+      "zapply-07c91c260bfd",
+      "url:https://zapply.jobs/l/d/ashby-tessera-labs-92a6668b-97d5-47e9-8c9c-106f3f0c8851",
+      "zapply-3228539a8380",
+      "url:https://zapply.jobs/l/d/ashby-tessera-labs-0e719bf0-e1ef-4cad-ae3b-c16ab4e08307",
+      "zapply-e5f516092667",
+      "url:https://zapply.jobs/l/d/ashby-vanta-0ccbb65f-f675-410a-ae54-1d34575f228a",
+      "zapply-20ccee851bee",
+      "url:https://zapply.jobs/l/d/ashby-uncountable-242a7cde-f500-4a56-ae55-7327cbcd90d1",
+      "zapply-02055f6da48e",
+      "url:https://zapply.jobs/l/d/ashby-uncountable-677487ff-7923-4be1-97ab-bab17ee7f9fb",
+      "zapply-69a0046189b0",
+      "url:https://zapply.jobs/l/d/ashby-snowflake-3eb872af-0ab1-4986-8f72-e7321fcd1538",
+      "zapply-d1a7ca9260c4",
+      "url:https://zapply.jobs/l/d/ashby-snowflake-db1375f0-ea5d-404a-b640-259f94dbc995",
+      "zapply-e69fe4a7daca",
+      "url:https://zapply.jobs/l/d/ashby-snowflake-08ba6a41-fb63-4b51-aee7-be5501668909",
+      "zapply-c0f782772bc0",
+      "url:https://zapply.jobs/l/d/ashby-talos-trading-3ec93f41-3231-4170-bb25-aa33a0f406b0",
+      "zapply-4c69c90ce0f5",
+      "url:https://zapply.jobs/l/d/ashby-talos-trading-885d627f-9bf2-4310-81ae-fda27121fd7b",
+      "zapply-c5d06ef1fc8a",
+      "url:https://zapply.jobs/l/d/ashby-Vultr-403c9f22-6392-489a-b216-27a02c3863dc",
+      "zapply-cff4ae0cb819",
+      "url:https://zapply.jobs/l/d/ashby-Vultr-5fbc4ef6-f1f1-4f49-bb34-52e2d46c7ead",
+      "zapply-1dd28e6bd341",
+      "url:https://zapply.jobs/l/d/ashby-Vultr-46511947-f059-4771-a4bf-57bf3a78caa4",
+      "zapply-da1b4c3f1252",
+      "url:https://zapply.jobs/l/d/ashby-zip-e7bcd788-ca5f-4e90-9728-0de7b57026a1",
+      "zapply-cff8a26094b5",
+      "url:https://zapply.jobs/l/d/ashby-zip-0c1b3417-9ba4-4630-8590-f6b45c40310a",
+      "zapply-d21a906238ce",
+      "url:https://zapply.jobs/l/d/ashby-persona.ai-eead56c6-52d6-496a-9a93-13bcbd1e7636",
+      "zapply-d3ee7ddd5747",
+      "url:https://zapply.jobs/l/d/ashby-persona.ai-7bc07e51-fb3e-4363-bd10-83bb5c933e80",
+      "zapply-2845bb9880a3",
+      "url:https://zapply.jobs/l/d/ashby-yotta-62d8f4db-a749-46f5-858a-a2e0ff168682",
+      "zapply-74242cfa437c",
+      "url:https://zapply.jobs/l/d/ashby-warp-655962db-5fbe-40cc-a072-9522295b3cbc",
+      "zapply-8eddc0b46dcd",
+      "url:https://zapply.jobs/l/d/ashby-gritt-0c8c31da-118d-4b83-8228-be58203d5649",
+      "zapply-515bec6ab3db",
+      "url:https://zapply.jobs/l/d/ashby-gritt-731460ed-b7a1-4912-b32a-6dc05744a5a0",
+      "zapply-8ccf4d2beb27",
+      "url:https://zapply.jobs/l/d/ashby-watershed-95adbc9d-2839-45a3-bf4f-d086251112f7",
+      "zapply-3aff7bdbf0b4",
+      "url:https://zapply.jobs/l/d/ashby-watershed-2f60ee9b-cb7f-4c05-93d2-bad49243bf31",
+      "jobright-f15fa8465c16",
+      "url:https://jobright.ai/jobs/info/6a885c9b4afae74a0834b3df",
+      "jobright-eaecc1809c9f",
+      "url:https://jobright.ai/jobs/info/6aa47854f3aa936e2cdb1592",
+      "jobright-4361f4bf29b5",
+      "url:https://jobright.ai/jobs/info/6aa498f6c1928370a285ea3a",
+      "jobright-6f72befe2367",
+      "url:https://jobright.ai/jobs/info/6aa3d347959a10d7230d45aa",
+      "jobright-53fce5c1e0aa",
+      "url:https://jobright.ai/jobs/info/6a4fe2de9469c0662034f404",
+      "jobright-56f2a9a91f83",
+      "url:https://jobright.ai/jobs/info/6a8897294afae74a0834c806",
+      "jobright-f7aa6d877d43",
+      "url:https://jobright.ai/jobs/info/6aa5435c654b2a9424cf3968",
+      "jobright-0e1e1aacd92f",
+      "url:https://jobright.ai/jobs/info/6aa5394a82e82a31997bcd18",
+      "jobright-f401bb77d3cc",
+      "url:https://jobright.ai/jobs/info/6aa54141930bff471a29dea3",
+      "jobright-0ac19a6b0144",
+      "url:https://jobright.ai/jobs/info/6aa5399342411952ff9a7be9",
+      "jobright-509bfeeacf11",
+      "url:https://jobright.ai/jobs/info/6aa3a77e5c11cce3603656c6"
     ]
   }
 }

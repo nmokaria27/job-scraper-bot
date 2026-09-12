@@ -350,8 +350,274 @@
         "platform": "applyguy",
         "posted_at": "2026-09-11",
         "queued_at": "2026-09-12T13:35:04.172812+00:00"
+      },
+      {
+        "id": "zapply-d21a906238ce",
+        "seen_keys": [
+          "zapply-d21a906238ce",
+          "url:https://zapply.jobs/l/d/ashby-persona.ai-eead56c6-52d6-496a-9a93-13bcbd1e7636"
+        ],
+        "title": "Robotics Software Engineer, Manipulation",
+        "company": "Persona AI",
+        "location": "Pensacola, FL or Houston, TX",
+        "url": "https://zapply.jobs/l/d/ashby-persona.ai-eead56c6-52d6-496a-9a93-13bcbd1e7636?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-12T16:14:07.801919+00:00",
+        "queued_at": "2026-09-12T16:29:15.293894+00:00"
+      },
+      {
+        "id": "zapply-d3ee7ddd5747",
+        "seen_keys": [
+          "zapply-d3ee7ddd5747",
+          "url:https://zapply.jobs/l/d/ashby-persona.ai-7bc07e51-fb3e-4363-bd10-83bb5c933e80"
+        ],
+        "title": "Robotics Full Stack Software Engineer",
+        "company": "Persona AI",
+        "location": "Pensacola, FL or Houston, TX",
+        "url": "https://zapply.jobs/l/d/ashby-persona.ai-7bc07e51-fb3e-4363-bd10-83bb5c933e80?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-12T16:14:07.801874+00:00",
+        "queued_at": "2026-09-12T16:29:15.293907+00:00"
+      },
+      {
+        "id": "zapply-2845bb9880a3",
+        "seen_keys": [
+          "zapply-2845bb9880a3",
+          "url:https://zapply.jobs/l/d/ashby-yotta-62d8f4db-a749-46f5-858a-a2e0ff168682"
+        ],
+        "title": "GPU Cloud Platform Engineer",
+        "company": "Yotta Labs",
+        "location": "United States",
+        "url": "https://zapply.jobs/l/d/ashby-yotta-62d8f4db-a749-46f5-858a-a2e0ff168682?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-12T16:14:07.801850+00:00",
+        "queued_at": "2026-09-12T16:29:15.293916+00:00"
+      },
+      {
+        "id": "zapply-74242cfa437c",
+        "seen_keys": [
+          "zapply-74242cfa437c",
+          "url:https://zapply.jobs/l/d/ashby-warp-655962db-5fbe-40cc-a072-9522295b3cbc"
+        ],
+        "title": "Software Engineer, Product",
+        "company": "Warp",
+        "location": "New York",
+        "url": "https://zapply.jobs/l/d/ashby-warp-655962db-5fbe-40cc-a072-9522295b3cbc?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-12T16:14:07.801824+00:00",
+        "queued_at": "2026-09-12T16:29:15.293924+00:00"
+      },
+      {
+        "id": "zapply-8eddc0b46dcd",
+        "seen_keys": [
+          "zapply-8eddc0b46dcd",
+          "url:https://zapply.jobs/l/d/ashby-gritt-0c8c31da-118d-4b83-8228-be58203d5649"
+        ],
+        "title": "Robotics Software - Perception ML Engineer",
+        "company": "Gritt Robotics",
+        "location": "South San Francisco",
+        "url": "https://zapply.jobs/l/d/ashby-gritt-0c8c31da-118d-4b83-8228-be58203d5649?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-12T16:14:07.801778+00:00",
+        "queued_at": "2026-09-12T16:29:15.293932+00:00"
+      },
+      {
+        "id": "zapply-515bec6ab3db",
+        "seen_keys": [
+          "zapply-515bec6ab3db",
+          "url:https://zapply.jobs/l/d/ashby-gritt-731460ed-b7a1-4912-b32a-6dc05744a5a0"
+        ],
+        "title": "Robotics Software Engineer",
+        "company": "Gritt Robotics",
+        "location": "South San Francisco",
+        "url": "https://zapply.jobs/l/d/ashby-gritt-731460ed-b7a1-4912-b32a-6dc05744a5a0?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-12T16:14:07.801751+00:00",
+        "queued_at": "2026-09-12T16:29:15.293964+00:00"
+      },
+      {
+        "id": "zapply-8ccf4d2beb27",
+        "seen_keys": [
+          "zapply-8ccf4d2beb27",
+          "url:https://zapply.jobs/l/d/ashby-watershed-95adbc9d-2839-45a3-bf4f-d086251112f7"
+        ],
+        "title": "Software engineer, full-stack",
+        "company": "Watershed",
+        "location": "San Francisco",
+        "url": "https://zapply.jobs/l/d/ashby-watershed-95adbc9d-2839-45a3-bf4f-d086251112f7?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-12T16:14:07.801705+00:00",
+        "queued_at": "2026-09-12T16:29:15.293981+00:00"
+      },
+      {
+        "id": "zapply-3aff7bdbf0b4",
+        "seen_keys": [
+          "zapply-3aff7bdbf0b4",
+          "url:https://zapply.jobs/l/d/ashby-watershed-2f60ee9b-cb7f-4c05-93d2-bad49243bf31"
+        ],
+        "title": "Software engineer, full-stack",
+        "company": "Watershed",
+        "location": "New York City",
+        "url": "https://zapply.jobs/l/d/ashby-watershed-2f60ee9b-cb7f-4c05-93d2-bad49243bf31?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-12T16:14:07.801684+00:00",
+        "queued_at": "2026-09-12T16:29:15.293996+00:00"
+      },
+      {
+        "id": "jobright-f15fa8465c16",
+        "seen_keys": [
+          "jobright-f15fa8465c16",
+          "url:https://jobright.ai/jobs/info/6a885c9b4afae74a0834b3df"
+        ],
+        "title": "Junior Software Test Engineer",
+        "company": "Leidos",
+        "location": "Omaha, NE, United States",
+        "url": "https://jobright.ai/jobs/info/6a885c9b4afae74a0834b3df?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-12",
+        "queued_at": "2026-09-12T16:29:15.294011+00:00"
+      },
+      {
+        "id": "jobright-eaecc1809c9f",
+        "seen_keys": [
+          "jobright-eaecc1809c9f",
+          "url:https://jobright.ai/jobs/info/6aa47854f3aa936e2cdb1592"
+        ],
+        "title": "Associate Software Developer",
+        "company": "Lockheed Martin",
+        "location": "Cherry Hill, NJ, United States",
+        "url": "https://jobright.ai/jobs/info/6aa47854f3aa936e2cdb1592?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-12",
+        "queued_at": "2026-09-12T16:29:15.294025+00:00"
+      },
+      {
+        "id": "jobright-4361f4bf29b5",
+        "seen_keys": [
+          "jobright-4361f4bf29b5",
+          "url:https://jobright.ai/jobs/info/6aa498f6c1928370a285ea3a"
+        ],
+        "title": "Associate, Software Engineer",
+        "company": "L3Harris Technologies",
+        "location": "San Diego, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6aa498f6c1928370a285ea3a?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-12",
+        "queued_at": "2026-09-12T16:29:15.294038+00:00"
+      },
+      {
+        "id": "jobright-6f72befe2367",
+        "seen_keys": [
+          "jobright-6f72befe2367",
+          "url:https://jobright.ai/jobs/info/6aa3d347959a10d7230d45aa"
+        ],
+        "title": "Associate, Software Engineering",
+        "company": "L3Harris Technologies",
+        "location": "Clifton, MD, United States",
+        "url": "https://jobright.ai/jobs/info/6aa3d347959a10d7230d45aa?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-12",
+        "queued_at": "2026-09-12T16:29:15.294065+00:00"
+      },
+      {
+        "id": "jobright-53fce5c1e0aa",
+        "seen_keys": [
+          "jobright-53fce5c1e0aa",
+          "url:https://jobright.ai/jobs/info/6a4fe2de9469c0662034f404"
+        ],
+        "title": "Software Engineer, New Grad",
+        "company": "Pylon",
+        "location": "San Francisco, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6a4fe2de9469c0662034f404?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-12",
+        "queued_at": "2026-09-12T16:29:15.294079+00:00"
+      },
+      {
+        "id": "jobright-56f2a9a91f83",
+        "seen_keys": [
+          "jobright-56f2a9a91f83",
+          "url:https://jobright.ai/jobs/info/6a8897294afae74a0834c806"
+        ],
+        "title": "Software Engineer, AV Data Collection",
+        "company": "General Motors",
+        "location": "Sunnyvale, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6a8897294afae74a0834c806?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-12",
+        "queued_at": "2026-09-12T16:29:15.294091+00:00"
+      },
+      {
+        "id": "jobright-f7aa6d877d43",
+        "seen_keys": [
+          "jobright-f7aa6d877d43",
+          "url:https://jobright.ai/jobs/info/6aa5435c654b2a9424cf3968"
+        ],
+        "title": "Frontend Engineer (eCommerce)",
+        "company": "Torentify",
+        "location": "Phoenix, AZ, United States",
+        "url": "https://jobright.ai/jobs/info/6aa5435c654b2a9424cf3968?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-12",
+        "queued_at": "2026-09-12T16:29:15.294103+00:00"
+      },
+      {
+        "id": "jobright-0e1e1aacd92f",
+        "seen_keys": [
+          "jobright-0e1e1aacd92f",
+          "url:https://jobright.ai/jobs/info/6aa5394a82e82a31997bcd18"
+        ],
+        "title": "Software Development Engineer in Test (SDET)",
+        "company": "PathAI",
+        "location": "Boston, MA, United States",
+        "url": "https://jobright.ai/jobs/info/6aa5394a82e82a31997bcd18?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-12",
+        "queued_at": "2026-09-12T16:29:15.294114+00:00"
+      },
+      {
+        "id": "jobright-f401bb77d3cc",
+        "seen_keys": [
+          "jobright-f401bb77d3cc",
+          "url:https://jobright.ai/jobs/info/6aa54141930bff471a29dea3"
+        ],
+        "title": "Android Mobile Developer - Chicago Hybrid",
+        "company": "Publicis Sapient",
+        "location": "Chicago, IL, United States",
+        "url": "https://jobright.ai/jobs/info/6aa54141930bff471a29dea3?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-12T16:29:15.294125+00:00"
+      },
+      {
+        "id": "jobright-0ac19a6b0144",
+        "seen_keys": [
+          "jobright-0ac19a6b0144",
+          "url:https://jobright.ai/jobs/info/6aa5399342411952ff9a7be9"
+        ],
+        "title": "Software Engineer 1",
+        "company": "Rincon Research Corporation",
+        "location": "Centennial, CO, United States",
+        "url": "https://jobright.ai/jobs/info/6aa5399342411952ff9a7be9?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-12T16:29:15.294137+00:00"
+      },
+      {
+        "id": "jobright-509bfeeacf11",
+        "seen_keys": [
+          "jobright-509bfeeacf11",
+          "url:https://jobright.ai/jobs/info/6aa3a77e5c11cce3603656c6"
+        ],
+        "title": "C/C++Software Developer",
+        "company": "Amentum",
+        "location": "Dahlgren, VA, United States",
+        "url": "https://jobright.ai/jobs/info/6aa3a77e5c11cce3603656c6?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-11",
+        "queued_at": "2026-09-12T16:29:15.294151+00:00"
       }
     ]
   },
-  "last_run": "2026-09-12T13:35:04.478109+00:00"
+  "last_run": "2026-09-12T16:29:15.601734+00:00"
 }
