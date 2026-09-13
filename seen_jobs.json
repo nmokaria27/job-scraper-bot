@@ -1,430 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-9f78c41f-8d39-46c9-b9c3-c3b075905b24",
-      "seen_at": "2026-08-14T03:14:56.030477+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/9f78c41f-8d39-46c9-b9c3-c3b075905b24",
-      "seen_at": "2026-08-14T03:14:56.031036+00:00"
-    },
-    {
-      "id": "simplify-8b347fb9-e0fc-41eb-9c15-657806d1607f",
-      "seen_at": "2026-08-14T05:08:28.157445+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007",
-      "seen_at": "2026-08-14T05:08:28.157917+00:00"
-    },
-    {
-      "id": "simplify-7374f199-7fc6-45ac-8316-dc868e97ee81",
-      "seen_at": "2026-08-14T05:08:32.988891+00:00"
-    },
-    {
-      "id": "url:https://apply.workable.com/planetart/j/D7E3095657/apply",
-      "seen_at": "2026-08-14T05:08:32.989360+00:00"
-    },
-    {
-      "id": "simplify-077176ea-84be-43ad-9204-26626feaa4df",
-      "seen_at": "2026-08-14T05:08:32.989793+00:00"
-    },
-    {
-      "id": "url:https://apply.workable.com/planetart/j/2B193B2C30/apply",
-      "seen_at": "2026-08-14T05:08:32.990186+00:00"
-    },
-    {
-      "id": "simplify-962d8f66-1978-47db-9552-864decc8befb",
-      "seen_at": "2026-08-14T05:08:32.990574+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7673198824630077701",
-      "seen_at": "2026-08-14T05:08:32.990970+00:00"
-    },
-    {
-      "id": "simplify-dcf74577-c488-4e1d-ae75-58a17b9f1a4e",
-      "seen_at": "2026-08-14T05:08:32.991355+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7673331530758228229",
-      "seen_at": "2026-08-14T05:08:32.991748+00:00"
-    },
-    {
-      "id": "simplify-3ad6da02-7c30-41b3-8959-9c636059dfcc",
-      "seen_at": "2026-08-14T05:08:32.992130+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7673333697095469317",
-      "seen_at": "2026-08-14T05:08:32.992509+00:00"
-    },
-    {
-      "id": "simplify-b8de23af-ec1e-49cf-bea3-a0ed418060ad",
-      "seen_at": "2026-08-14T05:08:32.992921+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7673194618236078341",
-      "seen_at": "2026-08-14T05:08:32.993331+00:00"
-    },
-    {
-      "id": "simplify-42854aa8-a81f-46b7-a2aa-051cf7e8d64b",
-      "seen_at": "2026-08-14T05:08:32.993715+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7673330687380490501",
-      "seen_at": "2026-08-14T05:08:32.994119+00:00"
-    },
-    {
-      "id": "simplify-5d8b1daf-e1e3-43f1-86c3-4eaeba634d0a",
-      "seen_at": "2026-08-14T05:08:51.518169+00:00"
-    },
-    {
-      "id": "url:https://careers2-vistaequitypartners.icims.com/jobs/3017/job",
-      "seen_at": "2026-08-14T05:08:51.518700+00:00"
-    },
-    {
-      "id": "simplify-767d1491-f472-4664-be9c-276d9f8aa535",
-      "seen_at": "2026-08-14T05:08:51.519185+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446718288363",
-      "seen_at": "2026-08-14T05:08:51.519635+00:00"
-    },
-    {
-      "id": "simplify-ea670782-222f-4f9d-8ca8-8d6120478821",
-      "seen_at": "2026-08-14T05:08:51.520090+00:00"
-    },
-    {
-      "id": "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551",
-      "seen_at": "2026-08-14T05:08:51.520516+00:00"
-    },
-    {
-      "id": "simplify-aa53d20c-29e5-4d18-9182-0e00bfa1cdd6",
-      "seen_at": "2026-08-14T05:08:51.520956+00:00"
-    },
-    {
-      "id": "url:https://careers.navistar.com/jobs/59530",
-      "seen_at": "2026-08-14T05:08:51.521388+00:00"
-    },
-    {
-      "id": "simplify-03f6dca1-a185-4cea-9fdc-a7804e7ad3fc",
-      "seen_at": "2026-08-14T05:08:51.521842+00:00"
-    },
-    {
-      "id": "url:https://careers.navistar.com/jobs/59467",
-      "seen_at": "2026-08-14T05:08:51.522264+00:00"
-    },
-    {
-      "id": "simplify-8b34936c-e41c-4125-be15-b324d6d312c5",
-      "seen_at": "2026-08-14T05:08:51.522689+00:00"
-    },
-    {
-      "id": "url:https://careers.vtgdefense.com/jobs/9316",
-      "seen_at": "2026-08-14T05:08:51.523177+00:00"
-    },
-    {
-      "id": "simplify-1a6e1243-653e-4c44-9a87-789030cb51a3",
-      "seen_at": "2026-08-14T05:08:51.523606+00:00"
-    },
-    {
-      "id": "url:https://careers.vtgdefense.com/jobs/9425",
-      "seen_at": "2026-08-14T05:08:51.524038+00:00"
-    },
-    {
-      "id": "simplify-df7ccad4-e94d-42b5-914a-8875029af2a8",
-      "seen_at": "2026-08-14T05:08:51.524475+00:00"
-    },
-    {
-      "id": "url:https://careers-ita-intl.icims.com/jobs/4470/job",
-      "seen_at": "2026-08-14T05:08:51.524926+00:00"
-    },
-    {
-      "id": "simplify-a665623e-060f-4a0d-8104-96f48b2dbbec",
-      "seen_at": "2026-08-14T05:08:51.525361+00:00"
-    },
-    {
-      "id": "url:https://careers.ctg.com/jobs/17347",
-      "seen_at": "2026-08-14T05:08:51.525828+00:00"
-    },
-    {
-      "id": "simplify-2c69b87b-a3b9-4a6c-b179-1e31b348731a",
-      "seen_at": "2026-08-14T05:08:51.526252+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/applovin/jobs/4705263006",
-      "seen_at": "2026-08-14T05:08:51.526666+00:00"
-    },
-    {
-      "id": "simplify-337a8067-9780-4ed6-b3a0-7c25fdad3b14",
-      "seen_at": "2026-08-14T05:08:51.527104+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/57486",
-      "seen_at": "2026-08-14T05:08:51.527535+00:00"
-    },
-    {
-      "id": "simplify-d82fea85-cee3-45bf-b464-5034a6e4b576",
-      "seen_at": "2026-08-14T05:08:51.527983+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/57438",
-      "seen_at": "2026-08-14T05:08:51.528398+00:00"
-    },
-    {
-      "id": "simplify-8be181ac-18b4-4c90-8d3f-95f303749bf2",
-      "seen_at": "2026-08-14T05:08:51.528828+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/57600",
-      "seen_at": "2026-08-14T05:08:51.529243+00:00"
-    },
-    {
-      "id": "simplify-25bcc690-186a-4bee-90ed-45270fef596a",
-      "seen_at": "2026-08-14T05:08:51.529662+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/57747",
-      "seen_at": "2026-08-14T05:08:51.530093+00:00"
-    },
-    {
-      "id": "simplify-0316d9b0-4ab8-4162-b4db-6f01a603a369",
-      "seen_at": "2026-08-14T05:08:51.530515+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/58080",
-      "seen_at": "2026-08-14T05:08:51.530954+00:00"
-    },
-    {
-      "id": "simplify-2ff916d3-3671-4e8e-a5df-485dc5048bba",
-      "seen_at": "2026-08-14T05:08:51.531376+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/57706",
-      "seen_at": "2026-08-14T05:08:51.531804+00:00"
-    },
-    {
-      "id": "simplify-a9b0880e-9c11-4194-8868-5df112df0da6",
-      "seen_at": "2026-08-14T05:08:51.532221+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/57812",
-      "seen_at": "2026-08-14T05:08:51.532636+00:00"
-    },
-    {
-      "id": "simplify-8427086c-fb04-4125-a38f-4e9c9fa28dc7",
-      "seen_at": "2026-08-14T05:08:51.533066+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/58164",
-      "seen_at": "2026-08-14T05:08:51.533481+00:00"
-    },
-    {
-      "id": "simplify-b7b9f7ca-b945-481f-bfc3-04355ed79955",
-      "seen_at": "2026-08-14T05:08:51.533910+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/57801",
-      "seen_at": "2026-08-14T05:08:51.534328+00:00"
-    },
-    {
-      "id": "simplify-8dc89094-3aea-4bac-9d27-dfbd32fba20c",
-      "seen_at": "2026-08-14T05:08:51.534774+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/58971",
-      "seen_at": "2026-08-14T05:08:51.535190+00:00"
-    },
-    {
-      "id": "simplify-804e9756-cd00-4514-a056-bb06c49a19c4",
-      "seen_at": "2026-08-14T05:08:51.535607+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/59010",
-      "seen_at": "2026-08-14T05:08:51.536037+00:00"
-    },
-    {
-      "id": "simplify-dd30d3b2-252b-4967-903e-8a1f0f4693e2",
-      "seen_at": "2026-08-14T05:08:51.536456+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/59098",
-      "seen_at": "2026-08-14T05:08:51.536884+00:00"
-    },
-    {
-      "id": "simplify-0e6c1db8-ce0d-4d6e-8962-3757c2b0a9e8",
-      "seen_at": "2026-08-14T05:08:51.537303+00:00"
-    },
-    {
-      "id": "url:https://careers-decisionpointcorp.icims.com/jobs/3685/job",
-      "seen_at": "2026-08-14T05:08:51.537718+00:00"
-    },
-    {
-      "id": "simplify-ad89813c-5160-4d6c-86e1-6c0180f9d408",
-      "seen_at": "2026-08-14T05:08:51.538153+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/59337",
-      "seen_at": "2026-08-14T05:08:51.538568+00:00"
-    },
-    {
-      "id": "simplify-ebe4a852-92bc-4d9b-8f32-f4aeea67b6f7",
-      "seen_at": "2026-08-14T05:08:51.538999+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/57653",
-      "seen_at": "2026-08-14T05:08:51.539415+00:00"
-    },
-    {
-      "id": "simplify-33f03ee2-af54-4e9a-a8c3-1ca957e56cd0",
-      "seen_at": "2026-08-14T05:08:51.539926+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/58163",
-      "seen_at": "2026-08-14T05:08:51.540359+00:00"
-    },
-    {
-      "id": "simplify-6d081b1c-739e-4f18-b112-ddf3c2381662",
-      "seen_at": "2026-08-14T05:08:51.540840+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/59497",
-      "seen_at": "2026-08-14T05:08:51.541263+00:00"
-    },
-    {
-      "id": "simplify-168e5987-f713-4754-b420-77422cbf6329",
-      "seen_at": "2026-08-14T05:08:51.541699+00:00"
-    },
-    {
-      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556959253",
-      "seen_at": "2026-08-14T05:08:51.542132+00:00"
-    },
-    {
-      "id": "greenhouse-discord-8703614002",
-      "seen_at": "2026-08-14T05:08:51.542552+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8703614002",
-      "seen_at": "2026-08-14T05:08:51.542981+00:00"
-    },
-    {
-      "id": "simplify-63807ddc-301f-4d78-ac5c-193a82587f30",
-      "seen_at": "2026-08-14T06:46:12.038780+00:00"
-    },
-    {
-      "id": "url:https://careers.mcdean.com/jobs/28841",
-      "seen_at": "2026-08-14T06:46:12.039306+00:00"
-    },
-    {
-      "id": "simplify-94b1d3c4-d5f6-4c9b-a17c-8cc97a1339c6",
-      "seen_at": "2026-08-14T06:46:12.039736+00:00"
-    },
-    {
-      "id": "url:https://careers.mcdean.com/jobs/32119",
-      "seen_at": "2026-08-14T06:46:12.040147+00:00"
-    },
-    {
-      "id": "simplify-d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a",
-      "seen_at": "2026-08-14T06:46:12.040534+00:00"
-    },
-    {
-      "id": "url:https://careers.mcdean.com/jobs/32350",
-      "seen_at": "2026-08-14T06:46:12.040893+00:00"
-    },
-    {
-      "id": "jobright-6456a0b36764",
-      "seen_at": "2026-08-14T09:15:51.415203+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a691a523b549b0b531d3f25",
-      "seen_at": "2026-08-14T09:15:51.415772+00:00"
-    },
-    {
-      "id": "simplify-a5d3459d-3d46-44dd-8e4e-693ca7320203",
-      "seen_at": "2026-08-14T10:26:34.296008+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7673663349758675205",
-      "seen_at": "2026-08-14T10:26:34.296497+00:00"
-    },
-    {
-      "id": "simplify-f9cd7f8b-40b0-42a5-8bd2-f23dfd7d8ac5",
-      "seen_at": "2026-08-14T10:26:34.296925+00:00"
-    },
-    {
-      "id": "url:https://jobs.bytedance.com/en/position/7673638856678279429/detail",
-      "seen_at": "2026-08-14T10:26:34.297346+00:00"
-    },
-    {
-      "id": "simplify-acad052e-b794-4a83-82c4-4d5ff40c200d",
-      "seen_at": "2026-08-14T10:26:34.297698+00:00"
-    },
-    {
-      "id": "url:https://jobs.bytedance.com/en/position/7673617571165620533/detail",
-      "seen_at": "2026-08-14T10:26:34.298026+00:00"
-    },
-    {
-      "id": "simplify-a46d596b-c711-4444-99f7-3c846ae35bb6",
-      "seen_at": "2026-08-14T10:26:34.298359+00:00"
-    },
-    {
-      "id": "url:https://jobs.bytedance.com/en/position/7673608499872827701/detail",
-      "seen_at": "2026-08-14T10:26:34.298665+00:00"
-    },
-    {
-      "id": "simplify-a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
-      "seen_at": "2026-08-14T10:26:37.693667+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7673337777708550405",
-      "seen_at": "2026-08-14T10:26:37.694098+00:00"
-    },
-    {
-      "id": "simplify-56973e0e-ee92-4898-b2d3-7f5df827f064",
-      "seen_at": "2026-08-14T10:26:37.694499+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7673559305519794437",
-      "seen_at": "2026-08-14T10:26:37.694848+00:00"
-    },
-    {
-      "id": "jobright-4a8b083e154f",
-      "seen_at": "2026-08-14T10:26:37.695185+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7ed2e1179e4f7b7e8d8afe",
-      "seen_at": "2026-08-14T10:26:37.695527+00:00"
-    },
-    {
-      "id": "jobright-52dbbf314e17",
-      "seen_at": "2026-08-14T10:26:37.695852+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7ed2afe2030208f276aafe",
-      "seen_at": "2026-08-14T10:26:37.696160+00:00"
-    },
-    {
-      "id": "simplify-47a11f8e-c096-4cad-ba59-7807a675d2c7",
-      "seen_at": "2026-08-14T10:26:40.258930+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7673667938889009461",
-      "seen_at": "2026-08-14T10:26:40.259485+00:00"
-    },
-    {
-      "id": "simplify-99d4157b-10cb-42d0-88ff-db290cc271f9",
-      "seen_at": "2026-08-14T10:26:40.259938+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7673669198965278981",
-      "seen_at": "2026-08-14T10:26:40.260349+00:00"
-    },
-    {
-      "id": "simplify-15d7c999-27e0-4216-a992-2ab4567f9cd7",
-      "seen_at": "2026-08-14T10:26:40.260732+00:00"
-    },
-    {
-      "id": "url:https://jobs.bytedance.com/en/position/7673667614757374213/detail",
-      "seen_at": "2026-08-14T10:26:40.261088+00:00"
-    },
-    {
       "id": "jobright-c7f8ad3d75f1",
       "seen_at": "2026-08-14T14:32:58.383187+00:00"
     },
@@ -45823,36 +45399,164 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a5908d5c8e3a473cb8a4916",
       "seen_at": "2026-09-13T00:55:10.397077+00:00"
+    },
+    {
+      "id": "zapply-c179bc31bd94",
+      "seen_at": "2026-09-13T14:17:54.558529+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-matchgroup-af478895-db01-4dbe-b394-54d58201b082",
+      "seen_at": "2026-09-13T14:17:54.559268+00:00"
+    },
+    {
+      "id": "jobright-82e7a6cc0d22",
+      "seen_at": "2026-09-13T14:17:54.559916+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa54ea882e82a31997bd310",
+      "seen_at": "2026-09-13T14:17:54.560572+00:00"
+    },
+    {
+      "id": "jobright-c18c31fabb46",
+      "seen_at": "2026-09-13T14:17:54.561252+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6921fa5d01972698ee69d4",
+      "seen_at": "2026-09-13T14:17:54.561886+00:00"
+    },
+    {
+      "id": "zapply-c30099722a90",
+      "seen_at": "2026-09-13T14:18:08.910299+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866674",
+      "seen_at": "2026-09-13T14:18:08.911111+00:00"
+    },
+    {
+      "id": "zapply-7d64929009f1",
+      "seen_at": "2026-09-13T14:18:08.911805+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866673",
+      "seen_at": "2026-09-13T14:18:08.912513+00:00"
+    },
+    {
+      "id": "zapply-5538a9ed804d",
+      "seen_at": "2026-09-13T14:18:08.913202+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023841",
+      "seen_at": "2026-09-13T14:18:08.913871+00:00"
+    },
+    {
+      "id": "zapply-40199d9cdbb5",
+      "seen_at": "2026-09-13T14:18:08.914568+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-MachinaLabs-f3bb50fc-2e20-4823-b389-7f448af90e3a",
+      "seen_at": "2026-09-13T14:18:08.915246+00:00"
+    },
+    {
+      "id": "zapply-e0e9e3db42af",
+      "seen_at": "2026-09-13T14:18:08.915913+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-deepgram-378e83b4-28c0-4b4e-8cf0-9355712bd06d",
+      "seen_at": "2026-09-13T14:18:08.916588+00:00"
+    },
+    {
+      "id": "zapply-ac2d01af269b",
+      "seen_at": "2026-09-13T14:18:08.917264+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-deepgram-7ced4c1f-4126-44fe-9cf1-da427a9e4e3e",
+      "seen_at": "2026-09-13T14:18:08.917927+00:00"
+    },
+    {
+      "id": "zapply-ab1f1a39e68e",
+      "seen_at": "2026-09-13T14:18:08.918622+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-palantir-38758e88-5884-4a11-98ac-d23cab51bc7a",
+      "seen_at": "2026-09-13T14:18:08.919302+00:00"
+    },
+    {
+      "id": "zapply-4e9bcc7a5dc3",
+      "seen_at": "2026-09-13T14:18:08.919983+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-palantir-5174e95b-2e0a-46f8-8db7-e2c837a0ac94",
+      "seen_at": "2026-09-13T14:18:08.920647+00:00"
+    },
+    {
+      "id": "simplify-8a02cc33-4d2c-40f2-bf82-81861d00b429",
+      "seen_at": "2026-09-13T14:18:08.921344+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/kitware/dbaac56b-26b2-43b9-8ae3-354b6662ea89/apply",
+      "seen_at": "2026-09-13T14:18:08.922067+00:00"
+    },
+    {
+      "id": "jobright-909d70081d42",
+      "seen_at": "2026-09-13T14:18:08.922768+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa68c55654b2a9424cf7eaa",
+      "seen_at": "2026-09-13T14:18:08.923455+00:00"
+    },
+    {
+      "id": "jobright-7be0d5e0780a",
+      "seen_at": "2026-09-13T14:18:08.924166+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa682892ed333b4ea5ca4bf",
+      "seen_at": "2026-09-13T14:18:08.924837+00:00"
+    },
+    {
+      "id": "jobright-06b4fc445acd",
+      "seen_at": "2026-09-13T14:18:08.925532+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a3f83b8651404064c02ad77",
+      "seen_at": "2026-09-13T14:18:08.926214+00:00"
+    },
+    {
+      "id": "jobright-11cb15a98d28",
+      "seen_at": "2026-09-13T14:18:08.926893+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a04154b22395b6dc6d9a4cc",
+      "seen_at": "2026-09-13T14:18:08.927573+00:00"
+    },
+    {
+      "id": "jobright-097fad1ef84e",
+      "seen_at": "2026-09-13T14:18:08.928277+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa62f24654b2a9424cf7829",
+      "seen_at": "2026-09-13T14:18:08.928964+00:00"
+    },
+    {
+      "id": "jobright-d81bd5dd01fb",
+      "seen_at": "2026-09-13T14:18:08.929643+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa62cb542411952ff9abc86",
+      "seen_at": "2026-09-13T14:18:08.930326+00:00"
+    },
+    {
+      "id": "jobright-5aa9362b3281",
+      "seen_at": "2026-09-13T14:18:08.931042+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa5400382e82a31997bcf30",
+      "seen_at": "2026-09-13T14:18:08.931722+00:00"
     }
   ],
-  "last_run": "2026-09-13T00:55:11.111614+00:00",
-  "total_notified": 5673,
+  "last_run": "2026-09-13T14:18:09.356483+00:00",
+  "total_notified": 5692,
   "channels": {
     "pm-jobs": [
-      "simplify-7374f199-7fc6-45ac-8316-dc868e97ee81",
-      "url:https://apply.workable.com/planetart/j/D7E3095657/apply",
-      "simplify-077176ea-84be-43ad-9204-26626feaa4df",
-      "url:https://apply.workable.com/planetart/j/2B193B2C30/apply",
-      "simplify-962d8f66-1978-47db-9552-864decc8befb",
-      "url:https://lifeattiktok.com/search/7673198824630077701",
-      "simplify-dcf74577-c488-4e1d-ae75-58a17b9f1a4e",
-      "url:https://lifeattiktok.com/search/7673331530758228229",
-      "simplify-3ad6da02-7c30-41b3-8959-9c636059dfcc",
-      "url:https://lifeattiktok.com/search/7673333697095469317",
-      "simplify-b8de23af-ec1e-49cf-bea3-a0ed418060ad",
-      "url:https://lifeattiktok.com/search/7673194618236078341",
-      "simplify-42854aa8-a81f-46b7-a2aa-051cf7e8d64b",
-      "url:https://lifeattiktok.com/search/7673330687380490501",
-      "jobright-6456a0b36764",
-      "url:https://jobright.ai/jobs/info/6a691a523b549b0b531d3f25",
-      "simplify-a0ec26fd-db0f-4eb4-9bed-73b9409cabc5",
-      "url:https://lifeattiktok.com/search/7673337777708550405",
-      "simplify-56973e0e-ee92-4898-b2d3-7f5df827f064",
-      "url:https://lifeattiktok.com/search/7673559305519794437",
-      "jobright-4a8b083e154f",
-      "url:https://jobright.ai/jobs/info/6a7ed2e1179e4f7b7e8d8afe",
-      "jobright-52dbbf314e17",
-      "url:https://jobright.ai/jobs/info/6a7ed2afe2030208f276aafe",
       "jobright-c7f8ad3d75f1",
       "url:https://jobright.ai/jobs/info/6a7f09ffe51a1e18a240ffae",
       "jobright-f41d583d41f2",
@@ -47432,81 +47136,15 @@
       "jobright-e2c4990ac19a",
       "url:https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576",
       "jobright-e2bcb18e04b3",
-      "url:https://jobright.ai/jobs/info/6a5908d5c8e3a473cb8a4916"
+      "url:https://jobright.ai/jobs/info/6a5908d5c8e3a473cb8a4916",
+      "zapply-c179bc31bd94",
+      "url:https://zapply.jobs/l/d/lever-matchgroup-af478895-db01-4dbe-b394-54d58201b082",
+      "jobright-82e7a6cc0d22",
+      "url:https://jobright.ai/jobs/info/6aa54ea882e82a31997bd310",
+      "jobright-c18c31fabb46",
+      "url:https://jobright.ai/jobs/info/6a6921fa5d01972698ee69d4"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-9f78c41f-8d39-46c9-b9c3-c3b075905b24",
-      "url:https://jobs.ashbyhq.com/openai/9f78c41f-8d39-46c9-b9c3-c3b075905b24",
-      "simplify-5d8b1daf-e1e3-43f1-86c3-4eaeba634d0a",
-      "url:https://careers2-vistaequitypartners.icims.com/jobs/3017/job",
-      "simplify-767d1491-f472-4664-be9c-276d9f8aa535",
-      "url:https://qualcomm.eightfold.ai/careers/job/446718288363",
-      "simplify-ea670782-222f-4f9d-8ca8-8d6120478821",
-      "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551",
-      "simplify-aa53d20c-29e5-4d18-9182-0e00bfa1cdd6",
-      "url:https://careers.navistar.com/jobs/59530",
-      "simplify-03f6dca1-a185-4cea-9fdc-a7804e7ad3fc",
-      "url:https://careers.navistar.com/jobs/59467",
-      "simplify-8b34936c-e41c-4125-be15-b324d6d312c5",
-      "url:https://careers.vtgdefense.com/jobs/9316",
-      "simplify-1a6e1243-653e-4c44-9a87-789030cb51a3",
-      "url:https://careers.vtgdefense.com/jobs/9425",
-      "simplify-df7ccad4-e94d-42b5-914a-8875029af2a8",
-      "url:https://careers-ita-intl.icims.com/jobs/4470/job",
-      "simplify-a665623e-060f-4a0d-8104-96f48b2dbbec",
-      "url:https://careers.ctg.com/jobs/17347",
-      "simplify-2c69b87b-a3b9-4a6c-b179-1e31b348731a",
-      "url:https://boards.greenhouse.io/applovin/jobs/4705263006",
-      "simplify-337a8067-9780-4ed6-b3a0-7c25fdad3b14",
-      "url:https://careers.jhuapl.edu/jobs/57486",
-      "simplify-d82fea85-cee3-45bf-b464-5034a6e4b576",
-      "url:https://careers.jhuapl.edu/jobs/57438",
-      "simplify-8be181ac-18b4-4c90-8d3f-95f303749bf2",
-      "url:https://careers.jhuapl.edu/jobs/57600",
-      "simplify-25bcc690-186a-4bee-90ed-45270fef596a",
-      "url:https://careers.jhuapl.edu/jobs/57747",
-      "simplify-0316d9b0-4ab8-4162-b4db-6f01a603a369",
-      "url:https://careers.jhuapl.edu/jobs/58080",
-      "simplify-2ff916d3-3671-4e8e-a5df-485dc5048bba",
-      "url:https://careers.jhuapl.edu/jobs/57706",
-      "simplify-a9b0880e-9c11-4194-8868-5df112df0da6",
-      "url:https://careers.jhuapl.edu/jobs/57812",
-      "simplify-8427086c-fb04-4125-a38f-4e9c9fa28dc7",
-      "url:https://careers.jhuapl.edu/jobs/58164",
-      "simplify-b7b9f7ca-b945-481f-bfc3-04355ed79955",
-      "url:https://careers.jhuapl.edu/jobs/57801",
-      "simplify-8dc89094-3aea-4bac-9d27-dfbd32fba20c",
-      "url:https://careers.jhuapl.edu/jobs/58971",
-      "simplify-804e9756-cd00-4514-a056-bb06c49a19c4",
-      "url:https://careers.jhuapl.edu/jobs/59010",
-      "simplify-dd30d3b2-252b-4967-903e-8a1f0f4693e2",
-      "url:https://careers.jhuapl.edu/jobs/59098",
-      "simplify-0e6c1db8-ce0d-4d6e-8962-3757c2b0a9e8",
-      "url:https://careers-decisionpointcorp.icims.com/jobs/3685/job",
-      "simplify-ad89813c-5160-4d6c-86e1-6c0180f9d408",
-      "url:https://careers.jhuapl.edu/jobs/59337",
-      "simplify-ebe4a852-92bc-4d9b-8f32-f4aeea67b6f7",
-      "url:https://careers.jhuapl.edu/jobs/57653",
-      "simplify-33f03ee2-af54-4e9a-a8c3-1ca957e56cd0",
-      "url:https://careers.jhuapl.edu/jobs/58163",
-      "simplify-6d081b1c-739e-4f18-b112-ddf3c2381662",
-      "url:https://careers.jhuapl.edu/jobs/59497",
-      "simplify-168e5987-f713-4754-b420-77422cbf6329",
-      "url:https://apply.careers.microsoft.com/careers/job/1970393556959253",
-      "greenhouse-discord-8703614002",
-      "url:https://job-boards.greenhouse.io/discord/jobs/8703614002",
-      "simplify-63807ddc-301f-4d78-ac5c-193a82587f30",
-      "url:https://careers.mcdean.com/jobs/28841",
-      "simplify-94b1d3c4-d5f6-4c9b-a17c-8cc97a1339c6",
-      "url:https://careers.mcdean.com/jobs/32119",
-      "simplify-d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a",
-      "url:https://careers.mcdean.com/jobs/32350",
-      "simplify-47a11f8e-c096-4cad-ba59-7807a675d2c7",
-      "url:https://lifeattiktok.com/search/7673667938889009461",
-      "simplify-99d4157b-10cb-42d0-88ff-db290cc271f9",
-      "url:https://lifeattiktok.com/search/7673669198965278981",
-      "simplify-15d7c999-27e0-4216-a992-2ab4567f9cd7",
-      "url:https://jobs.bytedance.com/en/position/7673667614757374213/detail",
       "simplify-4326baaa-75b2-4470-b205-61aed39b27b9",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
       "simplify-5a476d63-cb12-4e98-8fd7-35895108a039",
@@ -56412,7 +56050,39 @@
       "jobright-87a14fe28a61",
       "url:https://jobright.ai/jobs/info/6aa56338654b2a9424cf415f",
       "jobright-e29e6d4e5d6e",
-      "url:https://jobright.ai/jobs/info/6aa39d584233a2201a2b26f4"
+      "url:https://jobright.ai/jobs/info/6aa39d584233a2201a2b26f4",
+      "zapply-c30099722a90",
+      "url:https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866674",
+      "zapply-7d64929009f1",
+      "url:https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866673",
+      "zapply-5538a9ed804d",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023841",
+      "zapply-40199d9cdbb5",
+      "url:https://zapply.jobs/l/d/lever-MachinaLabs-f3bb50fc-2e20-4823-b389-7f448af90e3a",
+      "zapply-e0e9e3db42af",
+      "url:https://zapply.jobs/l/d/ashby-deepgram-378e83b4-28c0-4b4e-8cf0-9355712bd06d",
+      "zapply-ac2d01af269b",
+      "url:https://zapply.jobs/l/d/ashby-deepgram-7ced4c1f-4126-44fe-9cf1-da427a9e4e3e",
+      "zapply-ab1f1a39e68e",
+      "url:https://zapply.jobs/l/d/lever-palantir-38758e88-5884-4a11-98ac-d23cab51bc7a",
+      "zapply-4e9bcc7a5dc3",
+      "url:https://zapply.jobs/l/d/lever-palantir-5174e95b-2e0a-46f8-8db7-e2c837a0ac94",
+      "simplify-8a02cc33-4d2c-40f2-bf82-81861d00b429",
+      "url:https://jobs.lever.co/kitware/dbaac56b-26b2-43b9-8ae3-354b6662ea89/apply",
+      "jobright-909d70081d42",
+      "url:https://jobright.ai/jobs/info/6aa68c55654b2a9424cf7eaa",
+      "jobright-7be0d5e0780a",
+      "url:https://jobright.ai/jobs/info/6aa682892ed333b4ea5ca4bf",
+      "jobright-06b4fc445acd",
+      "url:https://jobright.ai/jobs/info/6a3f83b8651404064c02ad77",
+      "jobright-11cb15a98d28",
+      "url:https://jobright.ai/jobs/info/6a04154b22395b6dc6d9a4cc",
+      "jobright-097fad1ef84e",
+      "url:https://jobright.ai/jobs/info/6aa62f24654b2a9424cf7829",
+      "jobright-d81bd5dd01fb",
+      "url:https://jobright.ai/jobs/info/6aa62cb542411952ff9abc86",
+      "jobright-5aa9362b3281",
+      "url:https://jobright.ai/jobs/info/6aa5400382e82a31997bcf30"
     ]
   }
 }
