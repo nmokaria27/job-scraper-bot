@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-c7f8ad3d75f1",
-      "seen_at": "2026-08-14T14:32:58.383187+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7f09ffe51a1e18a240ffae",
-      "seen_at": "2026-08-14T14:32:58.383796+00:00"
-    },
-    {
-      "id": "jobright-f41d583d41f2",
-      "seen_at": "2026-08-14T15:24:12.125608+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a6262911e089c0cc884c2f6",
-      "seen_at": "2026-08-14T15:24:12.126052+00:00"
-    },
-    {
-      "id": "simplify-4326baaa-75b2-4470-b205-61aed39b27b9",
-      "seen_at": "2026-08-14T15:24:13.429082+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
-      "seen_at": "2026-08-14T15:24:13.429578+00:00"
-    },
-    {
-      "id": "jobright-bfbb79d17348",
-      "seen_at": "2026-08-14T16:26:33.239344+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7f2568b56bea5779c08da7",
-      "seen_at": "2026-08-14T16:26:33.239855+00:00"
-    },
-    {
       "id": "simplify-96d0c172-f893-4193-9ab7-44f5238a335c",
       "seen_at": "2026-08-14T18:27:34.715023+00:00"
     },
@@ -45551,18 +45519,92 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aa5400382e82a31997bcf30",
       "seen_at": "2026-09-13T14:18:08.931722+00:00"
+    },
+    {
+      "id": "zapply-944530844d23",
+      "seen_at": "2026-09-13T17:28:15.697501+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-WesternDigital-744000136547759",
+      "seen_at": "2026-09-13T17:28:15.698158+00:00"
+    },
+    {
+      "id": "zapply-ef633991cc4b",
+      "seen_at": "2026-09-13T17:28:15.698728+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023965",
+      "seen_at": "2026-09-13T17:28:15.699258+00:00"
+    },
+    {
+      "id": "zapply-10b8ba69d4c7",
+      "seen_at": "2026-09-13T17:28:15.699767+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-persona.ai-db6d05fe-f579-413a-b64f-e68c560871e2",
+      "seen_at": "2026-09-13T17:28:15.700249+00:00"
+    },
+    {
+      "id": "zapply-f02908c65ed1",
+      "seen_at": "2026-09-13T17:28:15.700740+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd",
+      "seen_at": "2026-09-13T17:28:15.701220+00:00"
+    },
+    {
+      "id": "zapply-fa365d702aa1",
+      "seen_at": "2026-09-13T17:28:15.701698+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-2b3e7582-84c9-4fd1-969c-16ae1a4f61e6",
+      "seen_at": "2026-09-13T17:28:15.702170+00:00"
+    },
+    {
+      "id": "ashby-perplexity-a172ada5-1a6e-4646-8e0d-26747422af24",
+      "seen_at": "2026-09-13T17:28:15.702637+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24",
+      "seen_at": "2026-09-13T17:28:15.703099+00:00"
+    },
+    {
+      "id": "jobright-00f7b4b1c8d1",
+      "seen_at": "2026-09-13T17:28:15.703576+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa6b83842411952ff9ac4ef",
+      "seen_at": "2026-09-13T17:28:15.704035+00:00"
+    },
+    {
+      "id": "jobright-28493ec0f67a",
+      "seen_at": "2026-09-13T17:28:15.704507+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6941d4ae14ee092a69ffe641",
+      "seen_at": "2026-09-13T17:28:15.704991+00:00"
+    },
+    {
+      "id": "jobright-d6c07d95c54e",
+      "seen_at": "2026-09-13T17:28:15.705484+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a22840e597131741415f0a3",
+      "seen_at": "2026-09-13T17:28:15.705966+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR360029",
+      "seen_at": "2026-09-13T17:28:15.706450+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer--Data---Observability-Platforms---MTS-SMTS_JR360029",
+      "seen_at": "2026-09-13T17:28:15.706922+00:00"
     }
   ],
-  "last_run": "2026-09-13T14:18:09.356483+00:00",
-  "total_notified": 5692,
+  "last_run": "2026-09-13T17:28:16.004980+00:00",
+  "total_notified": 5702,
   "channels": {
     "pm-jobs": [
-      "jobright-c7f8ad3d75f1",
-      "url:https://jobright.ai/jobs/info/6a7f09ffe51a1e18a240ffae",
-      "jobright-f41d583d41f2",
-      "url:https://jobright.ai/jobs/info/6a6262911e089c0cc884c2f6",
-      "jobright-bfbb79d17348",
-      "url:https://jobright.ai/jobs/info/6a7f2568b56bea5779c08da7",
       "simplify-50d4c273-6f3f-44a4-97a9-cd3e5ae91117",
       "url:https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1419595300",
       "jobright-08a48dc8c4e7",
@@ -47145,8 +47187,6 @@
       "url:https://jobright.ai/jobs/info/6a6921fa5d01972698ee69d4"
     ],
     "swe-ai-full-time": [
-      "simplify-4326baaa-75b2-4470-b205-61aed39b27b9",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
       "simplify-5a476d63-cb12-4e98-8fd7-35895108a039",
       "url:https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Associate-Software-Development-Engineer_R1006749",
       "simplify-883f115b-b0ad-4eae-8a80-2bbf523964d4",
@@ -56082,7 +56122,27 @@
       "jobright-d81bd5dd01fb",
       "url:https://jobright.ai/jobs/info/6aa62cb542411952ff9abc86",
       "jobright-5aa9362b3281",
-      "url:https://jobright.ai/jobs/info/6aa5400382e82a31997bcf30"
+      "url:https://jobright.ai/jobs/info/6aa5400382e82a31997bcf30",
+      "zapply-944530844d23",
+      "url:https://zapply.jobs/l/d/sr-WesternDigital-744000136547759",
+      "zapply-ef633991cc4b",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023965",
+      "zapply-10b8ba69d4c7",
+      "url:https://zapply.jobs/l/d/ashby-persona.ai-db6d05fe-f579-413a-b64f-e68c560871e2",
+      "zapply-f02908c65ed1",
+      "url:https://zapply.jobs/l/d/ashby-snowflake-dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd",
+      "zapply-fa365d702aa1",
+      "url:https://zapply.jobs/l/d/ashby-snowflake-2b3e7582-84c9-4fd1-969c-16ae1a4f61e6",
+      "ashby-perplexity-a172ada5-1a6e-4646-8e0d-26747422af24",
+      "url:https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24",
+      "jobright-00f7b4b1c8d1",
+      "url:https://jobright.ai/jobs/info/6aa6b83842411952ff9ac4ef",
+      "jobright-28493ec0f67a",
+      "url:https://jobright.ai/jobs/info/6941d4ae14ee092a69ffe641",
+      "jobright-d6c07d95c54e",
+      "url:https://jobright.ai/jobs/info/6a22840e597131741415f0a3",
+      "workday-salesforce-JR360029",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer--Data---Observability-Platforms---MTS-SMTS_JR360029"
     ]
   }
 }
