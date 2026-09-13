@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-96d0c172-f893-4193-9ab7-44f5238a335c",
-      "seen_at": "2026-08-14T18:27:34.715023+00:00"
-    },
-    {
-      "id": "url:https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411",
-      "seen_at": "2026-08-14T18:27:34.715489+00:00"
-    },
-    {
-      "id": "simplify-50d4c273-6f3f-44a4-97a9-cd3e5ae91117",
-      "seen_at": "2026-08-14T18:27:37.069139+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1419595300",
-      "seen_at": "2026-08-14T18:27:37.069674+00:00"
-    },
-    {
-      "id": "simplify-5a476d63-cb12-4e98-8fd7-35895108a039",
-      "seen_at": "2026-08-14T18:27:40.246778+00:00"
-    },
-    {
-      "id": "url:https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Associate-Software-Development-Engineer_R1006749",
-      "seen_at": "2026-08-14T18:27:40.247301+00:00"
-    },
-    {
-      "id": "simplify-883f115b-b0ad-4eae-8a80-2bbf523964d4",
-      "seen_at": "2026-08-14T18:27:40.247765+00:00"
-    },
-    {
-      "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
-      "seen_at": "2026-08-14T18:27:40.248198+00:00"
-    },
-    {
-      "id": "simplify-a3a958d6-27dc-4ec5-9de4-764a76e85624",
-      "seen_at": "2026-08-14T18:27:40.248644+00:00"
-    },
-    {
-      "id": "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664",
-      "seen_at": "2026-08-14T18:27:40.249073+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5390728008",
-      "seen_at": "2026-08-14T19:31:34.865284+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5390728008",
-      "seen_at": "2026-08-14T19:31:34.865824+00:00"
-    },
-    {
       "id": "greenhouse-lyft-8716222002",
       "seen_at": "2026-08-14T21:09:49.633377+00:00"
     },
@@ -45599,14 +45551,44 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer--Data---Observability-Platforms---MTS-SMTS_JR360029",
       "seen_at": "2026-09-13T17:28:15.706922+00:00"
+    },
+    {
+      "id": "zapply-81bff4ba7a19",
+      "seen_at": "2026-09-13T19:44:00.242326+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360029",
+      "seen_at": "2026-09-13T19:44:00.243140+00:00"
+    },
+    {
+      "id": "jobright-5709fbf399ea",
+      "seen_at": "2026-09-13T19:44:00.243888+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6ce063ca1f933846601306",
+      "seen_at": "2026-09-13T19:44:00.244562+00:00"
+    },
+    {
+      "id": "jobright-16dbb6561fd1",
+      "seen_at": "2026-09-13T19:44:00.245251+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a47f9b65d7b097d2df39059",
+      "seen_at": "2026-09-13T19:44:00.245935+00:00"
+    },
+    {
+      "id": "gradtracker-621dca2f86e3",
+      "seen_at": "2026-09-13T19:44:00.246608+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446718691837",
+      "seen_at": "2026-09-13T19:44:00.247259+00:00"
     }
   ],
-  "last_run": "2026-09-13T17:28:16.004980+00:00",
-  "total_notified": 5702,
+  "last_run": "2026-09-13T19:44:00.526505+00:00",
+  "total_notified": 5706,
   "channels": {
     "pm-jobs": [
-      "simplify-50d4c273-6f3f-44a4-97a9-cd3e5ae91117",
-      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1419595300",
       "jobright-08a48dc8c4e7",
       "url:https://jobright.ai/jobs/info/6a5a8c66856af468ab00916f",
       "greenhouse-airbnb-8112204",
@@ -47187,14 +47169,6 @@
       "url:https://jobright.ai/jobs/info/6a6921fa5d01972698ee69d4"
     ],
     "swe-ai-full-time": [
-      "simplify-5a476d63-cb12-4e98-8fd7-35895108a039",
-      "url:https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Associate-Software-Development-Engineer_R1006749",
-      "simplify-883f115b-b0ad-4eae-8a80-2bbf523964d4",
-      "url:https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
-      "simplify-a3a958d6-27dc-4ec5-9de4-764a76e85624",
-      "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664",
-      "greenhouse-anthropic-5390728008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5390728008",
       "greenhouse-lyft-8716222002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8716222002",
       "ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
@@ -56142,7 +56116,15 @@
       "jobright-d6c07d95c54e",
       "url:https://jobright.ai/jobs/info/6a22840e597131741415f0a3",
       "workday-salesforce-JR360029",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer--Data---Observability-Platforms---MTS-SMTS_JR360029"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer--Data---Observability-Platforms---MTS-SMTS_JR360029",
+      "zapply-81bff4ba7a19",
+      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360029",
+      "jobright-5709fbf399ea",
+      "url:https://jobright.ai/jobs/info/6a6ce063ca1f933846601306",
+      "jobright-16dbb6561fd1",
+      "url:https://jobright.ai/jobs/info/6a47f9b65d7b097d2df39059",
+      "gradtracker-621dca2f86e3",
+      "url:https://careers.qualcomm.com/careers/job/446718691837"
     ]
   }
 }
