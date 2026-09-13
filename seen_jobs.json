@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-lyft-8716222002",
-      "seen_at": "2026-08-14T21:09:49.633377+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8716222002",
-      "seen_at": "2026-08-14T21:09:49.633889+00:00"
-    },
-    {
-      "id": "ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
-      "seen_at": "2026-08-14T21:09:49.634368+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
-      "seen_at": "2026-08-14T21:09:49.634770+00:00"
-    },
-    {
-      "id": "ashby-openai-39e06ef9-5e62-425d-81e2-e8690188011f",
-      "seen_at": "2026-08-14T21:43:43.119472+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/39e06ef9-5e62-425d-81e2-e8690188011f",
-      "seen_at": "2026-08-14T21:43:43.119876+00:00"
-    },
-    {
-      "id": "ashby-openai-da45caa7-461d-478f-a862-82120dd80e19",
-      "seen_at": "2026-08-14T21:43:43.120222+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/da45caa7-461d-478f-a862-82120dd80e19",
-      "seen_at": "2026-08-14T21:43:43.120551+00:00"
-    },
-    {
       "id": "simplify-990a1adb-e945-417c-b734-fb15286f993b",
       "seen_at": "2026-08-14T22:32:45.803246+00:00"
     },
@@ -45583,10 +45551,114 @@
     {
       "id": "url:https://careers.qualcomm.com/careers/job/446718691837",
       "seen_at": "2026-09-13T19:44:00.247259+00:00"
+    },
+    {
+      "id": "jobright-437c0080fd47",
+      "seen_at": "2026-09-13T21:49:00.705522+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9c9340dacf777321a8e7b8",
+      "seen_at": "2026-09-13T21:49:00.706331+00:00"
+    },
+    {
+      "id": "zapply-880a253663d0",
+      "seen_at": "2026-09-13T21:49:12.187343+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250512",
+      "seen_at": "2026-09-13T21:49:12.188241+00:00"
+    },
+    {
+      "id": "zapply-98110bfd9425",
+      "seen_at": "2026-09-13T21:49:12.189037+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250516",
+      "seen_at": "2026-09-13T21:49:12.189804+00:00"
+    },
+    {
+      "id": "zapply-295285f5c843",
+      "seen_at": "2026-09-13T21:49:12.190567+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-physicalintelligence-81d1eb25-ada9-40fd-8708-e1e42ecb2b7e",
+      "seen_at": "2026-09-13T21:49:12.191301+00:00"
+    },
+    {
+      "id": "zapply-3b431b75c7a2",
+      "seen_at": "2026-09-13T21:49:12.192033+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-field-ai-95ff2df3-4408-47f3-a2c5-295d8067bb30",
+      "seen_at": "2026-09-13T21:49:12.192740+00:00"
+    },
+    {
+      "id": "zapply-49bff55f018e",
+      "seen_at": "2026-09-13T21:49:12.193427+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-hermeus-de110c1f-faa3-4442-a5ff-bcffb958608a",
+      "seen_at": "2026-09-13T21:49:12.194135+00:00"
+    },
+    {
+      "id": "zapply-d066cc4b0f7d",
+      "seen_at": "2026-09-13T21:49:12.194832+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-kitware-3bf971c6-93d9-4ba3-8946-54fc7741c2b0",
+      "seen_at": "2026-09-13T21:49:12.195519+00:00"
+    },
+    {
+      "id": "zapply-cee8de8b6f4b",
+      "seen_at": "2026-09-13T21:49:12.196213+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-layup-4a97feec-c1af-4f81-8148-d7ad27a88e1e",
+      "seen_at": "2026-09-13T21:49:12.196943+00:00"
+    },
+    {
+      "id": "zapply-f8da59f75bf3",
+      "seen_at": "2026-09-13T21:49:12.197645+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-layup-b2ab778f-63bb-482c-83ab-19961b7fe6b5",
+      "seen_at": "2026-09-13T21:49:12.198320+00:00"
+    },
+    {
+      "id": "zapply-210b3cc759dc",
+      "seen_at": "2026-09-13T21:49:12.199010+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-ifm-us-5edf0fd9-2f47-4f1f-bf12-a787ebf9934e",
+      "seen_at": "2026-09-13T21:49:12.199687+00:00"
+    },
+    {
+      "id": "zapply-7344f0049dc9",
+      "seen_at": "2026-09-13T21:49:12.200352+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-ifm-us-1454349c-eb2b-480b-9a57-edfbb2aeeffe",
+      "seen_at": "2026-09-13T21:49:12.201024+00:00"
+    },
+    {
+      "id": "jobright-5c2e3d587844",
+      "seen_at": "2026-09-13T21:49:12.201728+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5002d8fc327f422fef766c",
+      "seen_at": "2026-09-13T21:49:12.202388+00:00"
+    },
+    {
+      "id": "jobright-2e7589ec945c",
+      "seen_at": "2026-09-13T21:49:12.203103+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8826af25fc4e7ae3daf653",
+      "seen_at": "2026-09-13T21:49:12.203796+00:00"
     }
   ],
-  "last_run": "2026-09-13T19:44:00.526505+00:00",
-  "total_notified": 5706,
+  "last_run": "2026-09-13T21:49:12.610941+00:00",
+  "total_notified": 5719,
   "channels": {
     "pm-jobs": [
       "jobright-08a48dc8c4e7",
@@ -47166,17 +47238,11 @@
       "jobright-82e7a6cc0d22",
       "url:https://jobright.ai/jobs/info/6aa54ea882e82a31997bd310",
       "jobright-c18c31fabb46",
-      "url:https://jobright.ai/jobs/info/6a6921fa5d01972698ee69d4"
+      "url:https://jobright.ai/jobs/info/6a6921fa5d01972698ee69d4",
+      "jobright-437c0080fd47",
+      "url:https://jobright.ai/jobs/info/6a9c9340dacf777321a8e7b8"
     ],
     "swe-ai-full-time": [
-      "greenhouse-lyft-8716222002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8716222002",
-      "ashby-openai-e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
-      "url:https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
-      "ashby-openai-39e06ef9-5e62-425d-81e2-e8690188011f",
-      "url:https://jobs.ashbyhq.com/openai/39e06ef9-5e62-425d-81e2-e8690188011f",
-      "ashby-openai-da45caa7-461d-478f-a862-82120dd80e19",
-      "url:https://jobs.ashbyhq.com/openai/da45caa7-461d-478f-a862-82120dd80e19",
       "simplify-ee6ad71b-9c92-4578-a0ef-9e90fab6cc97",
       "url:https://boards.greenhouse.io/spacex/jobs/8696058002",
       "simplify-dcaee8da-55dd-4649-9460-913115743ec6",
@@ -56124,7 +56190,31 @@
       "jobright-16dbb6561fd1",
       "url:https://jobright.ai/jobs/info/6a47f9b65d7b097d2df39059",
       "gradtracker-621dca2f86e3",
-      "url:https://careers.qualcomm.com/careers/job/446718691837"
+      "url:https://careers.qualcomm.com/careers/job/446718691837",
+      "zapply-880a253663d0",
+      "url:https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250512",
+      "zapply-98110bfd9425",
+      "url:https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250516",
+      "zapply-295285f5c843",
+      "url:https://zapply.jobs/l/d/ashby-physicalintelligence-81d1eb25-ada9-40fd-8708-e1e42ecb2b7e",
+      "zapply-3b431b75c7a2",
+      "url:https://zapply.jobs/l/d/lever-field-ai-95ff2df3-4408-47f3-a2c5-295d8067bb30",
+      "zapply-49bff55f018e",
+      "url:https://zapply.jobs/l/d/lever-hermeus-de110c1f-faa3-4442-a5ff-bcffb958608a",
+      "zapply-d066cc4b0f7d",
+      "url:https://zapply.jobs/l/d/lever-kitware-3bf971c6-93d9-4ba3-8946-54fc7741c2b0",
+      "zapply-cee8de8b6f4b",
+      "url:https://zapply.jobs/l/d/lever-layup-4a97feec-c1af-4f81-8148-d7ad27a88e1e",
+      "zapply-f8da59f75bf3",
+      "url:https://zapply.jobs/l/d/lever-layup-b2ab778f-63bb-482c-83ab-19961b7fe6b5",
+      "zapply-210b3cc759dc",
+      "url:https://zapply.jobs/l/d/lever-ifm-us-5edf0fd9-2f47-4f1f-bf12-a787ebf9934e",
+      "zapply-7344f0049dc9",
+      "url:https://zapply.jobs/l/d/lever-ifm-us-1454349c-eb2b-480b-9a57-edfbb2aeeffe",
+      "jobright-5c2e3d587844",
+      "url:https://jobright.ai/jobs/info/6a5002d8fc327f422fef766c",
+      "jobright-2e7589ec945c",
+      "url:https://jobright.ai/jobs/info/6a8826af25fc4e7ae3daf653"
     ]
   }
 }
