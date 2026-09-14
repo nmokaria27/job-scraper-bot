@@ -1,6 +1,175 @@
 {
   "channels": {
-    "swe-ai-full-time": []
+    "swe-ai-full-time": [
+      {
+        "id": "jobright-cd5e81ec092a",
+        "seen_keys": [
+          "jobright-cd5e81ec092a",
+          "url:https://jobright.ai/jobs/info/6aa5019582e82a31997bb928"
+        ],
+        "title": "Software Engineer- NEW GRAD",
+        "company": "Brivo",
+        "location": "Austin, TX, United States",
+        "url": "https://jobright.ai/jobs/info/6aa5019582e82a31997bb928?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-14",
+        "queued_at": "2026-09-14T16:21:27.412877+00:00"
+      },
+      {
+        "id": "applyguy-5850997b-e6e1-4f5e-a388-9f9ea1cd7baa",
+        "seen_keys": [
+          "applyguy-5850997b-e6e1-4f5e-a388-9f9ea1cd7baa",
+          "url:https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1"
+        ],
+        "title": "Software Engineer I",
+        "company": "Silabs",
+        "location": "Austin, TX",
+        "url": "https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1",
+        "platform": "applyguy",
+        "posted_at": "2026-09-14",
+        "queued_at": "2026-09-14T16:21:27.412890+00:00"
+      },
+      {
+        "id": "gradtracker-f66f3113d39e",
+        "seen_keys": [
+          "gradtracker-f66f3113d39e",
+          "url:https://morganstanley.eightfold.ai/careers/job/549799423962"
+        ],
+        "title": "Software Engineer - Backend",
+        "company": "Morgan Stanley",
+        "location": "New York, New York, United States of America, United States",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799423962",
+        "platform": "gradtracker",
+        "posted_at": "2026-09-14",
+        "queued_at": "2026-09-14T16:21:27.412899+00:00"
+      },
+      {
+        "id": "gradtracker-bc001fe0334b",
+        "seen_keys": [
+          "gradtracker-bc001fe0334b",
+          "url:https://jobs.smartrecruiters.com/servicenow/744000149338366"
+        ],
+        "title": "Software Engineer",
+        "company": "ServiceNow",
+        "location": "West Palm Beach, Florida, United States",
+        "url": "https://jobs.smartrecruiters.com/servicenow/744000149338366",
+        "platform": "gradtracker",
+        "posted_at": "2026-09-14",
+        "queued_at": "2026-09-14T16:21:27.412911+00:00"
+      },
+      {
+        "id": "amazon-10538318",
+        "seen_keys": [
+          "amazon-10538318",
+          "url:https://www.amazon.jobs/en/jobs/10538318/software-development-engineer-aws-transform"
+        ],
+        "title": "Software Development Engineer, AWS Transform",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10538318/software-development-engineer-aws-transform",
+        "platform": "amazon",
+        "posted_at": "2026-09-14",
+        "queued_at": "2026-09-14T16:21:27.412919+00:00"
+      },
+      {
+        "id": "amazon-10538328",
+        "seen_keys": [
+          "amazon-10538328",
+          "url:https://www.amazon.jobs/en/jobs/10538328/software-development-engineer-ads-nova"
+        ],
+        "title": "Software Development Engineer , Ads Nova",
+        "company": "Amazon",
+        "location": "New York, New York, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10538328/software-development-engineer-ads-nova",
+        "platform": "amazon",
+        "posted_at": "2026-09-14",
+        "queued_at": "2026-09-14T16:21:27.412926+00:00"
+      },
+      {
+        "id": "workday-adobe-R171675",
+        "seen_keys": [
+          "workday-adobe-R171675",
+          "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R171675-1"
+        ],
+        "title": "Software Development Engineer",
+        "company": "Adobe",
+        "location": "San Jose",
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R171675-1",
+        "platform": "workday",
+        "posted_at": "2026-09-14",
+        "queued_at": "2026-09-14T16:21:27.412934+00:00"
+      },
+      {
+        "id": "jobright-a93d6e62473c",
+        "seen_keys": [
+          "jobright-a93d6e62473c",
+          "url:https://jobright.ai/jobs/info/6a50a2662e2ceb72963b4293"
+        ],
+        "title": "Programmer Analyst I",
+        "company": "University of Portland",
+        "location": "Portland, OR, United States",
+        "url": "https://jobright.ai/jobs/info/6a50a2662e2ceb72963b4293?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-13",
+        "queued_at": "2026-09-14T16:21:27.412946+00:00"
+      },
+      {
+        "id": "jobright-fc1879b3827d",
+        "seen_keys": [
+          "jobright-fc1879b3827d",
+          "url:https://jobright.ai/jobs/info/6aa7f981a77a53f5a157694d"
+        ],
+        "title": "Software Engineer I (Onsite)",
+        "company": "RTX",
+        "location": "Indianapolis, IN, United States",
+        "url": "https://jobright.ai/jobs/info/6aa7f981a77a53f5a157694d?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-13",
+        "queued_at": "2026-09-14T16:21:27.412956+00:00"
+      },
+      {
+        "id": "jobright-bb3eb07fb878",
+        "seen_keys": [
+          "jobright-bb3eb07fb878",
+          "url:https://jobright.ai/jobs/info/6aa7d155930bff471a2a409f"
+        ],
+        "title": "2026 Raytheon Full Time-Software Engineer I \u2013 EOIR Advanced Products and Solutions (Onsite)",
+        "company": "RTX",
+        "location": "McKinney, TX, United States",
+        "url": "https://jobright.ai/jobs/info/6aa7d155930bff471a2a409f?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-13",
+        "queued_at": "2026-09-14T16:21:27.412966+00:00"
+      },
+      {
+        "id": "jobright-a3c7824db2b7",
+        "seen_keys": [
+          "jobright-a3c7824db2b7",
+          "url:https://jobright.ai/jobs/info/6aa7ff463a9f0a4fe6f1689b"
+        ],
+        "title": "Associate Software Engineer - Richmond, VA",
+        "company": "CoStar Group",
+        "location": "Richmond, VA, United States",
+        "url": "https://jobright.ai/jobs/info/6aa7ff463a9f0a4fe6f1689b?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-13",
+        "queued_at": "2026-09-14T16:21:27.412976+00:00"
+      },
+      {
+        "id": "jobright-59e738638092",
+        "seen_keys": [
+          "jobright-59e738638092",
+          "url:https://jobright.ai/jobs/info/6aa7ff3d82e82a31997c3260"
+        ],
+        "title": "Associate Software Engineer - Arlington, VA",
+        "company": "CoStar Group",
+        "location": "Arlington, VA, United States",
+        "url": "https://jobright.ai/jobs/info/6aa7ff3d82e82a31997c3260?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-13",
+        "queued_at": "2026-09-14T16:21:27.412984+00:00"
+      }
+    ]
   },
-  "last_run": "2026-09-14T01:46:12.139385+00:00"
+  "last_run": "2026-09-14T16:21:28.185057+00:00"
 }
