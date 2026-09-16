@@ -2,958 +2,1112 @@
   "channels": {
     "swe-ai-full-time": [
       {
-        "id": "zapply-fdd7fcb1f123",
+        "id": "zapply-eb4ab62efc34",
         "seen_keys": [
-          "zapply-fdd7fcb1f123",
-          "url:https://zapply.jobs/l/d/greenhouse-andurilindustries-5239515007"
+          "zapply-eb4ab62efc34",
+          "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2134710"
         ],
-        "title": "Software Engineer - Underseas Recon & Strike",
-        "company": "Anduril",
-        "location": "Boston, Massachusetts, United...",
-        "url": "https://zapply.jobs/l/d/greenhouse-andurilindustries-5239515007?s=gh-new-grad-jobs-2027",
+        "title": "Software Engineer - .NET / C# / XAML Digital",
+        "company": "Fidelity Investments",
+        "location": "Westlake, TX",
+        "url": "https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2134710?s=gh-new-grad-jobs-2027",
         "platform": "zapply",
-        "posted_at": "2026-09-16T01:52:57.568650+00:00",
-        "queued_at": "2026-09-16T14:54:18.758097+00:00"
+        "posted_at": "2026-09-16T20:59:06.973630+00:00",
+        "queued_at": "2026-09-16T21:49:37.567125+00:00"
       },
       {
-        "id": "zapply-39bb7d331886",
+        "id": "zapply-ae37d7fb5f7d",
         "seen_keys": [
-          "zapply-39bb7d331886",
-          "url:https://zapply.jobs/l/d/greenhouse-intrinsicrobotics-6191879004"
+          "zapply-ae37d7fb5f7d",
+          "url:https://zapply.jobs/l/d/sr-AbbVie-3743990015323316"
         ],
-        "title": "Software Engineer, Data Infrastructure",
-        "company": "Intrinsic Robotics",
-        "location": "Mountain View, California",
-        "url": "https://zapply.jobs/l/d/greenhouse-intrinsicrobotics-6191879004?s=gh-new-grad-jobs-2027",
+        "title": "Device Software Engineer",
+        "company": "AbbVie",
+        "location": "North Chicago, IL",
+        "url": "https://zapply.jobs/l/d/sr-AbbVie-3743990015323316?s=gh-new-grad-jobs-2027",
         "platform": "zapply",
-        "posted_at": "2026-09-16T01:52:57.568635+00:00",
-        "queued_at": "2026-09-16T14:54:18.758110+00:00"
+        "posted_at": "2026-09-16T20:53:06.973696+00:00",
+        "queued_at": "2026-09-16T21:49:37.567137+00:00"
       },
       {
-        "id": "simplify-10282be3-6654-440b-8bd2-74329d579fb0",
+        "id": "zapply-7e719bc237c3",
         "seen_keys": [
-          "simplify-10282be3-6654-440b-8bd2-74329d579fb0",
-          "url:https://starbucks.eightfold.ai/careers/job/481079150478"
+          "zapply-7e719bc237c3",
+          "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025882"
         ],
-        "title": "Application Developer - Application Development",
-        "company": "Starbucks",
+        "title": "Software DevOps Engineer, Networking",
+        "company": "NVIDIA",
+        "location": "US, CA, Santa Clara",
+        "url": "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025882?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T20:51:06.973742+00:00",
+        "queued_at": "2026-09-16T21:49:37.567145+00:00"
+      },
+      {
+        "id": "zapply-4b5f601b37ac",
+        "seen_keys": [
+          "zapply-4b5f601b37ac",
+          "url:https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-560341"
+        ],
+        "title": "Infrastructure Engineer",
+        "company": "Wells Fargo",
+        "location": "STERLING, VA",
+        "url": "https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-560341?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T20:51:06.973731+00:00",
+        "queued_at": "2026-09-16T21:49:37.567156+00:00"
+      },
+      {
+        "id": "zapply-a5bf5072eead",
+        "seen_keys": [
+          "zapply-a5bf5072eead",
+          "url:https://zapply.jobs/l/d/workday-aero-external-R016604"
+        ],
+        "title": "2027 Vehicle Systems Software Engineer",
+        "company": "Aerospace Corporation",
+        "location": "El Segundo, CA",
+        "url": "https://zapply.jobs/l/d/workday-aero-external-R016604?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T20:49:06.973777+00:00",
+        "queued_at": "2026-09-16T21:49:37.567164+00:00"
+      },
+      {
+        "id": "zapply-05e0f3d4d660",
+        "seen_keys": [
+          "zapply-05e0f3d4d660",
+          "url:https://zapply.jobs/l/d/greenhouse-stripe-8209337"
+        ],
+        "title": "Data Scientist, Experimental Projects",
+        "company": "Stripe",
+        "location": "San Francisco",
+        "url": "https://zapply.jobs/l/d/greenhouse-stripe-8209337?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T20:48:06.974708+00:00",
+        "queued_at": "2026-09-16T21:49:37.567172+00:00"
+      },
+      {
+        "id": "zapply-e1e0360aff93",
+        "seen_keys": [
+          "zapply-e1e0360aff93",
+          "url:https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873475"
+        ],
+        "title": "Receiver, Exciter, & Processing Architecture Software Engineer I - Onsite",
+        "company": "RTX",
+        "location": "MA-MARLBOROUGH-MA2",
+        "url": "https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873475?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T20:48:06.974045+00:00",
+        "queued_at": "2026-09-16T21:49:37.567180+00:00"
+      },
+      {
+        "id": "zapply-1efb024178ed",
+        "seen_keys": [
+          "zapply-1efb024178ed",
+          "url:https://zapply.jobs/l/d/greenhouse-rdccareers-7997475003"
+        ],
+        "title": "Full Stack Software Engineer",
+        "company": "Realtor.com",
+        "location": "Austin, Texas, United States",
+        "url": "https://zapply.jobs/l/d/greenhouse-rdccareers-7997475003?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T20:48:06.973901+00:00",
+        "queued_at": "2026-09-16T21:49:37.567188+00:00"
+      },
+      {
+        "id": "zapply-184eddd4f45f",
+        "seen_keys": [
+          "zapply-184eddd4f45f",
+          "url:https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-084641"
+        ],
+        "title": "Software Developer I - Tours and Consults",
+        "company": "Rocket Companies",
         "location": "Seattle, WA",
-        "url": "https://starbucks.eightfold.ai/careers/job/481079150478",
-        "platform": "simplify",
-        "posted_at": "2026-09-16T01:39:54+00:00",
-        "queued_at": "2026-09-16T14:54:18.758129+00:00"
+        "url": "https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-084641?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T20:48:06.973846+00:00",
+        "queued_at": "2026-09-16T21:49:37.567195+00:00"
       },
       {
-        "id": "simplify-79f05081-76ad-43d3-9164-5578a63ef412",
+        "id": "zapply-70d2476f8465",
         "seen_keys": [
-          "simplify-79f05081-76ad-43d3-9164-5578a63ef412",
-          "url:https://jobs.ashbyhq.com/allen-control-systems/87abef03-ff94-4a7f-a944-5fad20f23daa/application"
-        ],
-        "title": "Software Engineer - Enterprise Applications",
-        "company": "Allen Control Systems",
-        "location": "Austin, TX",
-        "url": "https://jobs.ashbyhq.com/allen-control-systems/87abef03-ff94-4a7f-a944-5fad20f23daa/application?embed=true",
-        "platform": "simplify",
-        "posted_at": "2026-09-16T01:20:02+00:00",
-        "queued_at": "2026-09-16T14:54:18.758143+00:00"
-      },
-      {
-        "id": "simplify-56368a2c-9796-41d6-a465-bfd0033f24dc",
-        "seen_keys": [
-          "simplify-56368a2c-9796-41d6-a465-bfd0033f24dc",
-          "url:https://lifeattiktok.com/search/7685552743586826549"
-        ],
-        "title": "Machine Learning Engineer Graduate - E-Commerce Content Recommendation - Generative & Large Recommendation Model",
-        "company": "TikTok",
-        "location": "Seattle, WA",
-        "url": "https://lifeattiktok.com/search/7685552743586826549",
-        "platform": "simplify",
-        "posted_at": "2026-09-16T01:19:02+00:00",
-        "queued_at": "2026-09-16T14:54:18.758153+00:00"
-      },
-      {
-        "id": "simplify-eb3949ab-fb05-47ea-ab59-163a7584d703",
-        "seen_keys": [
-          "simplify-eb3949ab-fb05-47ea-ab59-163a7584d703",
-          "url:https://lifeattiktok.com/search/7685552742819842357"
-        ],
-        "title": "Machine Learning Engineer Graduate - E-Commerce Content Recommendation - Generative & Large Recommendation Model",
-        "company": "TikTok",
-        "location": "San Jose, CA",
-        "url": "https://lifeattiktok.com/search/7685552742819842357",
-        "platform": "simplify",
-        "posted_at": "2026-09-16T01:19:02+00:00",
-        "queued_at": "2026-09-16T14:54:18.758161+00:00"
-      },
-      {
-        "id": "simplify-c47f3508-12e8-4e99-a154-587f29f76502",
-        "seen_keys": [
-          "simplify-c47f3508-12e8-4e99-a154-587f29f76502",
-          "url:https://careers.footlocker.com/jobs/71916"
-        ],
-        "title": "Associate Software Engineer - Merchandise Technology",
-        "company": "Foot Locker",
-        "location": "Remote in USA",
-        "url": "https://careers.footlocker.com/jobs/71916?icims=1",
-        "platform": "simplify",
-        "posted_at": "2026-09-16T01:18:18+00:00",
-        "queued_at": "2026-09-16T14:54:18.758170+00:00"
-      },
-      {
-        "id": "simplify-d7b2e201-b556-489b-a8f9-5ccb4788c8d8",
-        "seen_keys": [
-          "simplify-d7b2e201-b556-489b-a8f9-5ccb4788c8d8",
-          "url:https://jobs.ashbyhq.com/Roadrunner/eeeb9757-78e0-4776-889e-507a013e1fcf/application"
-        ],
-        "title": "Forward Deployed Engineer New Grad",
-        "company": "RoadRunner",
-        "location": "SF",
-        "url": "https://jobs.ashbyhq.com/Roadrunner/eeeb9757-78e0-4776-889e-507a013e1fcf/application?embed=true",
-        "platform": "simplify",
-        "posted_at": "2026-09-16T01:17:45+00:00",
-        "queued_at": "2026-09-16T14:54:18.758180+00:00"
-      },
-      {
-        "id": "simplify-3613890a-a6cc-4909-9aa1-7a2f658282c2",
-        "seen_keys": [
-          "simplify-3613890a-a6cc-4909-9aa1-7a2f658282c2",
-          "url:https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937"
+          "zapply-70d2476f8465",
+          "url:https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-083561"
         ],
         "title": "Software Engineer",
-        "company": "Emerson Electric",
-        "location": "Austin, TX",
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937",
+        "company": "Rocket Companies",
+        "location": "Remote - Michigan",
+        "url": "https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-083561?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T20:48:06.973823+00:00",
+        "queued_at": "2026-09-16T21:49:37.567203+00:00"
+      },
+      {
+        "id": "zapply-394e9f23d44d",
+        "seen_keys": [
+          "zapply-394e9f23d44d",
+          "url:https://zapply.jobs/l/d/workday-leidos-external-R-00192383"
+        ],
+        "title": "Test Engineer",
+        "company": "Leidos",
+        "location": "Washington, DC",
+        "url": "https://zapply.jobs/l/d/workday-leidos-external-R-00192383?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.977922+00:00",
+        "queued_at": "2026-09-16T21:49:37.567208+00:00"
+      },
+      {
+        "id": "zapply-17fcfd8b581c",
+        "seen_keys": [
+          "zapply-17fcfd8b581c",
+          "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R171843"
+        ],
+        "title": "2027 University Graduate - People Data Scientist",
+        "company": "Adobe",
+        "location": "San Francisco",
+        "url": "https://zapply.jobs/l/d/workday-adobe-external-experienced-R171843?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.975014+00:00",
+        "queued_at": "2026-09-16T21:49:37.567215+00:00"
+      },
+      {
+        "id": "zapply-feba473b39e0",
+        "seen_keys": [
+          "zapply-feba473b39e0",
+          "url:https://zapply.jobs/l/d/workday-bah-bah-jobs-R0247527"
+        ],
+        "title": "Operational Technology AI Engineer",
+        "company": "Booz Allen Hamilton",
+        "location": "Chantilly, VA",
+        "url": "https://zapply.jobs/l/d/workday-bah-bah-jobs-R0247527?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.974962+00:00",
+        "queued_at": "2026-09-16T21:49:37.567222+00:00"
+      },
+      {
+        "id": "zapply-e26dbc587e00",
+        "seen_keys": [
+          "zapply-e26dbc587e00",
+          "url:https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248928"
+        ],
+        "title": "Data Engineer",
+        "company": "Booz Allen Hamilton",
+        "location": "McLean, VA",
+        "url": "https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248928?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.974951+00:00",
+        "queued_at": "2026-09-16T21:49:37.567229+00:00"
+      },
+      {
+        "id": "zapply-8c9b303d8dec",
+        "seen_keys": [
+          "zapply-8c9b303d8dec",
+          "url:https://zapply.jobs/l/d/workday-leidos-external-R-00192425"
+        ],
+        "title": "Data Scientist SME",
+        "company": "Leidos",
+        "location": "Gaithersburg, MD",
+        "url": "https://zapply.jobs/l/d/workday-leidos-external-R-00192425?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.974918+00:00",
+        "queued_at": "2026-09-16T21:49:37.567236+00:00"
+      },
+      {
+        "id": "zapply-04916cbd15ba",
+        "seen_keys": [
+          "zapply-04916cbd15ba",
+          "url:https://zapply.jobs/l/d/greenhouse-andurilindustries-5240170007"
+        ],
+        "title": "Research Scientist",
+        "company": "Anduril",
+        "location": "Huntsville, Alabama, United States",
+        "url": "https://zapply.jobs/l/d/greenhouse-andurilindustries-5240170007?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.974906+00:00",
+        "queued_at": "2026-09-16T21:49:37.567243+00:00"
+      },
+      {
+        "id": "zapply-fd12aded6acb",
+        "seen_keys": [
+          "zapply-fd12aded6acb",
+          "url:https://zapply.jobs/l/d/workday-citi-2-26991829"
+        ],
+        "title": "DevOps Engineer",
+        "company": "Citi",
+        "location": "New Castle Delaware United States",
+        "url": "https://zapply.jobs/l/d/workday-citi-2-26991829?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.974305+00:00",
+        "queued_at": "2026-09-16T21:49:37.567249+00:00"
+      },
+      {
+        "id": "zapply-1ec4889e936b",
+        "seen_keys": [
+          "zapply-1ec4889e936b",
+          "url:https://zapply.jobs/l/d/greenhouse-spacex-8815068002"
+        ],
+        "title": "IT Network Infrastructure Engineer, Outside Plant",
+        "company": "SpaceX",
+        "location": "Starbase, TX",
+        "url": "https://zapply.jobs/l/d/greenhouse-spacex-8815068002?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.974224+00:00",
+        "queued_at": "2026-09-16T21:49:37.567256+00:00"
+      },
+      {
+        "id": "zapply-ff98e02354f0",
+        "seen_keys": [
+          "zapply-ff98e02354f0",
+          "url:https://zapply.jobs/l/d/greenhouse-spacex-8814943002"
+        ],
+        "title": "IT Network Infrastructure Engineer, Data Centers",
+        "company": "SpaceX",
+        "location": "Starbase, TX",
+        "url": "https://zapply.jobs/l/d/greenhouse-spacex-8814943002?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.974214+00:00",
+        "queued_at": "2026-09-16T21:49:37.567263+00:00"
+      },
+      {
+        "id": "zapply-277a1cbb20be",
+        "seen_keys": [
+          "zapply-277a1cbb20be",
+          "url:https://zapply.jobs/l/d/greenhouse-andurilindustries-5240168007"
+        ],
+        "title": "Software Engineer, C++",
+        "company": "Anduril",
+        "location": "Broomfield, Colorado, United States",
+        "url": "https://zapply.jobs/l/d/greenhouse-andurilindustries-5240168007?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.974202+00:00",
+        "queued_at": "2026-09-16T21:49:37.567270+00:00"
+      },
+      {
+        "id": "zapply-47f582b375a7",
+        "seen_keys": [
+          "zapply-47f582b375a7",
+          "url:https://zapply.jobs/l/d/greenhouse-andurilindustries-5240169007"
+        ],
+        "title": "Software Engineer, Sensor Fusion",
+        "company": "Anduril",
+        "location": "Broomfield, Colorado, United States",
+        "url": "https://zapply.jobs/l/d/greenhouse-andurilindustries-5240169007?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.974190+00:00",
+        "queued_at": "2026-09-16T21:49:37.567276+00:00"
+      },
+      {
+        "id": "zapply-990350cc1b58",
+        "seen_keys": [
+          "zapply-990350cc1b58",
+          "url:https://zapply.jobs/l/d/greenhouse-andurilindustries-5240173007"
+        ],
+        "title": "Software Engineer, Air & Missile Defense",
+        "company": "Anduril",
+        "location": "Huntsville, Alabama, United States",
+        "url": "https://zapply.jobs/l/d/greenhouse-andurilindustries-5240173007?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T19:48:06.974178+00:00",
+        "queued_at": "2026-09-16T21:49:37.567282+00:00"
+      },
+      {
+        "id": "greenhouse-anthropic-5423931008",
+        "seen_keys": [
+          "greenhouse-anthropic-5423931008",
+          "url:https://job-boards.greenhouse.io/anthropic/jobs/5423931008"
+        ],
+        "title": "Copywriter, Developer",
+        "company": "Anthropic",
+        "location": "San Francisco, CA | New York City, NY",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008",
+        "platform": "greenhouse",
+        "posted_at": "2026-09-16T15:39:40-04:00",
+        "queued_at": "2026-09-16T21:49:37.567288+00:00"
+      },
+      {
+        "id": "zapply-379eaa27a2bf",
+        "seen_keys": [
+          "zapply-379eaa27a2bf",
+          "url:https://zapply.jobs/l/d/lever-ro-3910baa9-f961-4380-ad0a-01deec07f7a2"
+        ],
+        "title": "Analytics Engineer, Conversational Analytics",
+        "company": "Ro",
+        "location": "New York, NY",
+        "url": "https://zapply.jobs/l/d/lever-ro-3910baa9-f961-4380-ad0a-01deec07f7a2?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T18:48:06.975029+00:00",
+        "queued_at": "2026-09-16T21:49:37.567294+00:00"
+      },
+      {
+        "id": "greenhouse-vercel-6195280004",
+        "seen_keys": [
+          "greenhouse-vercel-6195280004",
+          "url:https://job-boards.greenhouse.io/vercel/jobs/6195280004"
+        ],
+        "title": "Software Engineer, Platform ",
+        "company": "Vercel",
+        "location": "Hybrid - San Francisco, New York City",
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/6195280004",
+        "platform": "greenhouse",
+        "posted_at": "2026-09-16T13:48:47-04:00",
+        "queued_at": "2026-09-16T21:49:37.567300+00:00"
+      },
+      {
+        "id": "zapply-b3d74824a87e",
+        "seen_keys": [
+          "zapply-b3d74824a87e",
+          "url:https://zapply.jobs/l/d/apple-200683907"
+        ],
+        "title": "Machine Learning Engineer, Apple Search & Knowledge Platforms",
+        "company": "Apple",
+        "location": "Seattle",
+        "url": "https://zapply.jobs/l/d/apple-200683907?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T17:48:06.975052+00:00",
+        "queued_at": "2026-09-16T21:49:37.567307+00:00"
+      },
+      {
+        "id": "greenhouse-doordashusa-8207877",
+        "seen_keys": [
+          "greenhouse-doordashusa-8207877",
+          "url:https://job-boards.greenhouse.io/doordashusa/jobs/8207877"
+        ],
+        "title": "Software Engineer, Full Stack - Developer Insights",
+        "company": "Doordashusa",
+        "location": "San Francisco, CA; New York, NY; Los Angeles, CA; Seattle, WA",
+        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8207877",
+        "platform": "greenhouse",
+        "posted_at": "2026-09-16T13:45:23-04:00",
+        "queued_at": "2026-09-16T21:49:37.567312+00:00"
+      },
+      {
+        "id": "zapply-2b79b6101df3",
+        "seen_keys": [
+          "zapply-2b79b6101df3",
+          "url:https://zapply.jobs/l/d/sr-BoschGroup-744000149910364"
+        ],
+        "title": "Wireless Research Engineer",
+        "company": "Bosch Group",
+        "location": "Sunnyvale, CA",
+        "url": "https://zapply.jobs/l/d/sr-BoschGroup-744000149910364?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T16:48:06.975087+00:00",
+        "queued_at": "2026-09-16T21:49:37.567319+00:00"
+      },
+      {
+        "id": "greenhouse-roblox-8168383",
+        "seen_keys": [
+          "greenhouse-roblox-8168383",
+          "url:https://careers.roblox.com/jobs/8168383"
+        ],
+        "title": "Software Engineer, Discovery UX",
+        "company": "Roblox",
+        "location": "San Mateo, CA, United States",
+        "url": "https://careers.roblox.com/jobs/8168383?gh_jid=8168383",
+        "platform": "greenhouse",
+        "posted_at": "2026-09-16T12:29:17-04:00",
+        "queued_at": "2026-09-16T21:49:37.567324+00:00"
+      },
+      {
+        "id": "greenhouse-anthropic-5423737008",
+        "seen_keys": [
+          "greenhouse-anthropic-5423737008",
+          "url:https://job-boards.greenhouse.io/anthropic/jobs/5423737008"
+        ],
+        "title": "IT Operations Engineer, Asset Management",
+        "company": "Anthropic",
+        "location": "San Francisco, CA | New York City, NY",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423737008",
+        "platform": "greenhouse",
+        "posted_at": "2026-09-16T12:23:56-04:00",
+        "queued_at": "2026-09-16T21:49:37.567330+00:00"
+      },
+      {
+        "id": "greenhouse-zscaler-5239096007",
+        "seen_keys": [
+          "greenhouse-zscaler-5239096007",
+          "url:https://job-boards.greenhouse.io/zscaler/jobs/5239096007"
+        ],
+        "title": "Salesforce Developer",
+        "company": "Zscaler",
+        "location": "San Jose, California, USA",
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239096007",
+        "platform": "greenhouse",
+        "posted_at": "2026-09-16T11:57:59-04:00",
+        "queued_at": "2026-09-16T21:49:37.567335+00:00"
+      },
+      {
+        "id": "ashby-applied-f5de3234-a5d2-4c4c-9c79-3ae803807c63",
+        "seen_keys": [
+          "ashby-applied-f5de3234-a5d2-4c4c-9c79-3ae803807c63",
+          "url:https://jobs.ashbyhq.com/applied/f5de3234-a5d2-4c4c-9c79-3ae803807c63"
+        ],
+        "title": "GNC Engineer (Guidance, Navigation & Control)",
+        "company": "Applied",
+        "location": "Washington, D.C.",
+        "url": "https://jobs.ashbyhq.com/applied/f5de3234-a5d2-4c4c-9c79-3ae803807c63",
+        "platform": "ashby",
+        "posted_at": "2026-09-16T15:51:53.320+00:00",
+        "queued_at": "2026-09-16T21:49:37.567340+00:00"
+      },
+      {
+        "id": "zapply-8ea74c20a059",
+        "seen_keys": [
+          "zapply-8ea74c20a059",
+          "url:https://zapply.jobs/l/d/oracle-bny-82246"
+        ],
+        "title": "2027 BNY Analyst Program - Engineering (Data Science) - Pittsburgh, PA",
+        "company": "BNY",
+        "location": "Pittsburgh, PA, United States",
+        "url": "https://zapply.jobs/l/d/oracle-bny-82246?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T00:48:06.975224+00:00",
+        "queued_at": "2026-09-16T21:49:37.567347+00:00"
+      },
+      {
+        "id": "zapply-d55acc7f39e3",
+        "seen_keys": [
+          "zapply-d55acc7f39e3",
+          "url:https://zapply.jobs/l/d/oracle-bny-82245"
+        ],
+        "title": "2027 BNY Analyst Program - Engineering (Data Science) - New York, NY",
+        "company": "BNY",
+        "location": "New York, NY, United States",
+        "url": "https://zapply.jobs/l/d/oracle-bny-82245?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-16T00:48:06.975212+00:00",
+        "queued_at": "2026-09-16T21:49:37.567355+00:00"
+      },
+      {
+        "id": "simplify-fe0763db-c658-4003-84f4-cc7e0d8848a4",
+        "seen_keys": [
+          "simplify-fe0763db-c658-4003-84f4-cc7e0d8848a4",
+          "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054"
+        ],
+        "title": "Junior Software Engineer",
+        "company": "ICF International",
+        "location": "Reston, VA",
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054",
         "platform": "simplify",
-        "posted_at": "2026-09-16T01:12:27+00:00",
-        "queued_at": "2026-09-16T14:54:18.758190+00:00"
+        "posted_at": "2026-09-16T00:00:00+00:00",
+        "queued_at": "2026-09-16T21:49:37.567362+00:00"
       },
       {
-        "id": "zapply-61ef15dd1547",
+        "id": "simplify-a4f0ad06-c1ae-46ac-b9ae-cb9d2eefc001",
         "seen_keys": [
-          "zapply-61ef15dd1547",
-          "url:https://zapply.jobs/l/d/amazon-b87059f2-3fbf-47db-9999-a6ce7e833426"
+          "simplify-a4f0ad06-c1ae-46ac-b9ae-cb9d2eefc001",
+          "url:https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/HMI-Desktop-Applications-Software-Engineer_JR10439506"
         ],
-        "title": "Applied Scientist I, Alexa Shopping",
-        "company": "Amazon.com Services LLC",
-        "location": "Seattle, WA",
-        "url": "https://zapply.jobs/l/d/amazon-b87059f2-3fbf-47db-9999-a6ce7e833426?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-16T00:52:57.569833+00:00",
-        "queued_at": "2026-09-16T14:54:18.758197+00:00"
+        "title": "HMI/Desktop Applications Software Engineer",
+        "company": "Airbus",
+        "location": "Bingen, WA",
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/HMI-Desktop-Applications-Software-Engineer_JR10439506",
+        "platform": "simplify",
+        "posted_at": "2026-09-16T00:00:00+00:00",
+        "queued_at": "2026-09-16T21:49:37.567370+00:00"
       },
       {
-        "id": "zapply-bffd5270922f",
+        "id": "simplify-92dbb10e-7ec8-4b64-9dd9-a1521850b0db",
         "seen_keys": [
-          "zapply-bffd5270922f",
-          "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210787959"
+          "simplify-92dbb10e-7ec8-4b64-9dd9-a1521850b0db",
+          "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I_01875564"
         ],
-        "title": "Software Engineer \\[Multiple Positions Available\\]",
-        "company": "JPMorgan Chase",
-        "location": "Columbus, OH, United States",
-        "url": "https://zapply.jobs/l/d/oracle-jpmorgan-chase-210787959?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-16T00:52:57.568752+00:00",
-        "queued_at": "2026-09-16T14:54:18.758203+00:00"
+        "title": "Software Engineer 1",
+        "company": "RTX",
+        "location": "Woburn, MA",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I_01875564",
+        "platform": "simplify",
+        "posted_at": "2026-09-16T00:00:00+00:00",
+        "queued_at": "2026-09-16T21:49:37.567378+00:00"
       },
       {
-        "id": "zapply-168daffb7348",
+        "id": "jobright-12a7ad93d338",
         "seen_keys": [
-          "zapply-168daffb7348",
-          "url:https://zapply.jobs/l/d/amazon-1430d8cb-48aa-4638-9a5d-33d58f922399"
+          "jobright-12a7ad93d338",
+          "url:https://jobright.ai/jobs/info/6aaaec8576707040fb083192"
         ],
-        "title": "Software Development Engineer , AWS Kubernetes (K8s), AWS Kubernetes",
-        "company": "Amazon.com Services LLC",
-        "location": "Santa Clara, CA",
-        "url": "https://zapply.jobs/l/d/amazon-1430d8cb-48aa-4638-9a5d-33d58f922399?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-16T00:52:57.568735+00:00",
-        "queued_at": "2026-09-16T14:54:18.758210+00:00"
-      },
-      {
-        "id": "ashby-cursor-c68b3d8f-360d-41f0-84fd-1cb225b19e23",
-        "seen_keys": [
-          "ashby-cursor-c68b3d8f-360d-41f0-84fd-1cb225b19e23",
-          "url:https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23"
-        ],
-        "title": "Software Engineer, RL Environments",
-        "company": "Cursor",
-        "location": "San Francisco",
-        "url": "https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23",
-        "platform": "ashby",
-        "posted_at": "2026-09-16T00:33:21.885+00:00",
-        "queued_at": "2026-09-16T14:54:18.758216+00:00"
-      },
-      {
-        "id": "ashby-openai-3b08148d-085e-4835-9934-1b7f60e0fdce",
-        "seen_keys": [
-          "ashby-openai-3b08148d-085e-4835-9934-1b7f60e0fdce",
-          "url:https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce"
-        ],
-        "title": "Software Engineer, Manufacturing Infrastructure",
-        "company": "OpenAI",
-        "location": "San Francisco",
-        "url": "https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce",
-        "platform": "ashby",
-        "posted_at": "2026-09-16T00:30:26.055+00:00",
-        "queued_at": "2026-09-16T14:54:18.758222+00:00"
-      },
-      {
-        "id": "jobright-d919d0995023",
-        "seen_keys": [
-          "jobright-d919d0995023",
-          "url:https://jobright.ai/jobs/info/6a8e2cb5cc0cf27068527634"
-        ],
-        "title": "Engineer I - Software",
-        "company": "Microchip Technology Inc.",
-        "location": "Santa Rosa, CA, United States",
-        "url": "https://jobright.ai/jobs/info/6a8e2cb5cc0cf27068527634?utm_campaign=Software%20Engineering&utm_source=1103",
+        "title": "Configuration Developer - Analyst",
+        "company": "iCapital",
+        "location": "Colorado Springs, CO, United States",
+        "url": "https://jobright.ai/jobs/info/6aaaec8576707040fb083192?utm_campaign=Software%20Engineering&utm_source=1103",
         "platform": "jobright",
         "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758231+00:00"
+        "queued_at": "2026-09-16T21:49:37.567385+00:00"
       },
       {
-        "id": "jobright-992a6c34bd02",
+        "id": "jobright-892f55dc3de5",
         "seen_keys": [
-          "jobright-992a6c34bd02",
-          "url:https://jobright.ai/jobs/info/6aaa958376707040fb0810fa"
+          "jobright-892f55dc3de5",
+          "url:https://jobright.ai/jobs/info/6aaab7568e1bf0f764af5ddc"
+        ],
+        "title": "2027 Vehicle Systems Software Engineer",
+        "company": "The Aerospace Corporation",
+        "location": "El Segundo, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6aaab7568e1bf0f764af5ddc?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567392+00:00"
+      },
+      {
+        "id": "jobright-7b3474a7d86e",
+        "seen_keys": [
+          "jobright-7b3474a7d86e",
+          "url:https://jobright.ai/jobs/info/6a8cdd5725fc4e7ae3dbac71"
+        ],
+        "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
+        "company": "Amazon",
+        "location": "Redmond, WA, United States",
+        "url": "https://jobright.ai/jobs/info/6a8cdd5725fc4e7ae3dbac71?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567400+00:00"
+      },
+      {
+        "id": "jobright-8cb36e151931",
+        "seen_keys": [
+          "jobright-8cb36e151931",
+          "url:https://jobright.ai/jobs/info/6aaae99676707040fb083019"
         ],
         "title": "Junior Full Stack Developer (Data CoE)",
         "company": "CyberProof",
         "location": "Bellevue, WA, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa958376707040fb0810fa?utm_campaign=Software%20Engineering&utm_source=1103",
+        "url": "https://jobright.ai/jobs/info/6aaae99676707040fb083019?utm_campaign=Software%20Engineering&utm_source=1103",
         "platform": "jobright",
         "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758240+00:00"
+        "queued_at": "2026-09-16T21:49:37.567407+00:00"
       },
       {
-        "id": "jobright-23029400e801",
+        "id": "jobright-e02cc2cf69b5",
         "seen_keys": [
-          "jobright-23029400e801",
-          "url:https://jobright.ai/jobs/info/6aaa95444be87a72913a0348"
+          "jobright-e02cc2cf69b5",
+          "url:https://jobright.ai/jobs/info/6aaae96940807b73bd392b44"
         ],
         "title": "Junior Full Stack Developer (Data CoE)",
         "company": "UST HealthProof",
         "location": "Bellevue, WA, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa95444be87a72913a0348?utm_campaign=Software%20Engineering&utm_source=1103",
+        "url": "https://jobright.ai/jobs/info/6aaae96940807b73bd392b44?utm_campaign=Software%20Engineering&utm_source=1103",
         "platform": "jobright",
         "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758248+00:00"
+        "queued_at": "2026-09-16T21:49:37.567413+00:00"
       },
       {
-        "id": "jobright-dbb6c066ee10",
+        "id": "jobright-c9919c277b16",
         "seen_keys": [
-          "jobright-dbb6c066ee10",
-          "url:https://jobright.ai/jobs/info/6aa39bdfc5a856ac7e33a6b4"
+          "jobright-c9919c277b16",
+          "url:https://jobright.ai/jobs/info/6aaab289f6bd9d2d17c18bf2"
+        ],
+        "title": "HMI/Desktop Applications Software Engineer",
+        "company": "Airbus",
+        "location": "Bingen, WA, United States",
+        "url": "https://jobright.ai/jobs/info/6aaab289f6bd9d2d17c18bf2?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567420+00:00"
+      },
+      {
+        "id": "jobright-a7d1d92e7441",
+        "seen_keys": [
+          "jobright-a7d1d92e7441",
+          "url:https://jobright.ai/jobs/info/6aaad21df6bd9d2d17c19bd0"
+        ],
+        "title": "Software Engineer, Embedded Systems",
+        "company": "Attalon, Inc.",
+        "location": "Bloomfield, CT, United States",
+        "url": "https://jobright.ai/jobs/info/6aaad21df6bd9d2d17c19bd0?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567426+00:00"
+      },
+      {
+        "id": "jobright-9692d72dc7c9",
+        "seen_keys": [
+          "jobright-9692d72dc7c9",
+          "url:https://jobright.ai/jobs/info/6aaaaed44be87a72913a090b"
+        ],
+        "title": "Junior Software Engineer (Entry level - Remote US)",
+        "company": "ICF",
+        "location": "United States",
+        "url": "https://jobright.ai/jobs/info/6aaaaed44be87a72913a090b?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567433+00:00"
+      },
+      {
+        "id": "jobright-2fbe49731c72",
+        "seen_keys": [
+          "jobright-2fbe49731c72",
+          "url:https://jobright.ai/jobs/info/6aaacb8df6bd9d2d17c198d9"
+        ],
+        "title": "Associate Software Engineer - JobID-0186",
+        "company": "Innovative Defense Technologies (IDT)",
+        "location": "Mount Laurel, NJ, United States",
+        "url": "https://jobright.ai/jobs/info/6aaacb8df6bd9d2d17c198d9?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567441+00:00"
+      },
+      {
+        "id": "jobright-422ee55df8ca",
+        "seen_keys": [
+          "jobright-422ee55df8ca",
+          "url:https://jobright.ai/jobs/info/6aaac5e08e1bf0f764af650f"
+        ],
+        "title": "Junior Software Developer",
+        "company": "ECS Group of Companies",
+        "location": "Chantilly, VA, United States",
+        "url": "https://jobright.ai/jobs/info/6aaac5e08e1bf0f764af650f?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567448+00:00"
+      },
+      {
+        "id": "jobright-381d6ed79c16",
+        "seen_keys": [
+          "jobright-381d6ed79c16",
+          "url:https://jobright.ai/jobs/info/6aaabbf176707040fb081d1e"
+        ],
+        "title": "Forward Deployed Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Edison, NJ, United States",
+        "url": "https://jobright.ai/jobs/info/6aaabbf176707040fb081d1e?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567454+00:00"
+      },
+      {
+        "id": "jobright-0b16c573ca51",
+        "seen_keys": [
+          "jobright-0b16c573ca51",
+          "url:https://jobright.ai/jobs/info/6a70e44c1003bd7b70d6d549"
+        ],
+        "title": "Junior Software Engineer",
+        "company": "SOCOTEC",
+        "location": "New York, NY, United States",
+        "url": "https://jobright.ai/jobs/info/6a70e44c1003bd7b70d6d549?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567461+00:00"
+      },
+      {
+        "id": "jobright-e5f5e1734c7c",
+        "seen_keys": [
+          "jobright-e5f5e1734c7c",
+          "url:https://jobright.ai/jobs/info/6aaab9118e1bf0f764af5f78"
+        ],
+        "title": "Common Q Software Engineer",
+        "company": "Westinghouse Electric Company",
+        "location": "Warrendale, Pennsylvania, United States",
+        "url": "https://jobright.ai/jobs/info/6aaab9118e1bf0f764af5f78?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567467+00:00"
+      },
+      {
+        "id": "jobright-86074f27822b",
+        "seen_keys": [
+          "jobright-86074f27822b",
+          "url:https://jobright.ai/jobs/info/6aaaa0adf6bd9d2d17c18782"
+        ],
+        "title": "Digital Experience Engineer",
+        "company": "Accenture Federal Services",
+        "location": "Washington, DC, United States",
+        "url": "https://jobright.ai/jobs/info/6aaaa0adf6bd9d2d17c18782?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567474+00:00"
+      },
+      {
+        "id": "jobright-31a984982ecb",
+        "seen_keys": [
+          "jobright-31a984982ecb",
+          "url:https://jobright.ai/jobs/info/6a8e13bc25fc4e7ae3dbf976"
+        ],
+        "title": "Software Engineer I, Full Stack (New Grad)",
+        "company": "True Anomaly",
+        "location": "Denver, CO, United States",
+        "url": "https://jobright.ai/jobs/info/6a8e13bc25fc4e7ae3dbf976?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567480+00:00"
+      },
+      {
+        "id": "jobright-00cf5c5506ec",
+        "seen_keys": [
+          "jobright-00cf5c5506ec",
+          "url:https://jobright.ai/jobs/info/6aaab28af6bd9d2d17c18bf3"
+        ],
+        "title": "C/C++Software Engineer",
+        "company": "Enterprise Solutions Inc.",
+        "location": "San Diego, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6aaab28af6bd9d2d17c18bf3?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567486+00:00"
+      },
+      {
+        "id": "jobright-bd82207f928f",
+        "seen_keys": [
+          "jobright-bd82207f928f",
+          "url:https://jobright.ai/jobs/info/6aaa094ea2db131437b605f4"
+        ],
+        "title": "Software Development Engineer",
+        "company": "Qualcomm",
+        "location": "San Diego, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6aaa094ea2db131437b605f4?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567493+00:00"
+      },
+      {
+        "id": "jobright-4f3671e45a6d",
+        "seen_keys": [
+          "jobright-4f3671e45a6d",
+          "url:https://jobright.ai/jobs/info/6a8dfde3581f2d7bfdfea5ce"
+        ],
+        "title": "Software Engineer, New Grad (2027 Start)",
+        "company": "Zip",
+        "location": "San Francisco, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6a8dfde3581f2d7bfdfea5ce?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567499+00:00"
+      },
+      {
+        "id": "jobright-d8d214ca1bcd",
+        "seen_keys": [
+          "jobright-d8d214ca1bcd",
+          "url:https://jobright.ai/jobs/info/6aa3a06c4233a2201a2b282b"
         ],
         "title": "Software Engineer - E2",
         "company": "Lockheed Martin",
         "location": "Boulder, CO, United States",
-        "url": "https://jobright.ai/jobs/info/6aa39bdfc5a856ac7e33a6b4?utm_campaign=Software%20Engineering&utm_source=1103",
+        "url": "https://jobright.ai/jobs/info/6aa3a06c4233a2201a2b282b?utm_campaign=Software%20Engineering&utm_source=1103",
         "platform": "jobright",
         "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758256+00:00"
+        "queued_at": "2026-09-16T21:49:37.567506+00:00"
       },
       {
-        "id": "jobright-fec5e3332ce7",
+        "id": "applyguy-38b2520b-1b04-4f0b-bbb9-4c07a2d0486f",
         "seen_keys": [
-          "jobright-fec5e3332ce7",
-          "url:https://jobright.ai/jobs/info/6aaa8f3976707040fb080f03"
+          "applyguy-38b2520b-1b04-4f0b-bbb9-4c07a2d0486f",
+          "url:https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Tours-and-Consults_R-084641"
         ],
-        "title": "Engineer, Software Architecture Job Details / John Deere",
-        "company": "John Deere",
-        "location": "Waterloo, IA, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa8f3976707040fb080f03?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758266+00:00"
-      },
-      {
-        "id": "jobright-bb04e3b5fde0",
-        "seen_keys": [
-          "jobright-bb04e3b5fde0",
-          "url:https://jobright.ai/jobs/info/6aaa886cf116e49925535349"
-        ],
-        "title": "Software Developer 1",
-        "company": "DENSO",
-        "location": "Maryville, TN, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa886cf116e49925535349?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758273+00:00"
-      },
-      {
-        "id": "jobright-b8f468d5e526",
-        "seen_keys": [
-          "jobright-b8f468d5e526",
-          "url:https://jobright.ai/jobs/info/6aaa870c76707040fb080db4"
-        ],
-        "title": "Quantitative Developer",
-        "company": "Point72",
-        "location": "New York, NY, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa870c76707040fb080db4?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758281+00:00"
-      },
-      {
-        "id": "jobright-e6c87066d110",
-        "seen_keys": [
-          "jobright-e6c87066d110",
-          "url:https://jobright.ai/jobs/info/6aa9ba2b3387a3d9b67d6636"
-        ],
-        "title": "Software Engineer",
-        "company": "PayPal",
-        "location": "Austin, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aa9ba2b3387a3d9b67d6636?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758290+00:00"
-      },
-      {
-        "id": "jobright-40711d97212e",
-        "seen_keys": [
-          "jobright-40711d97212e",
-          "url:https://jobright.ai/jobs/info/6aaa60d1f116e49925534edf"
-        ],
-        "title": "Software Engineer",
-        "company": "Booz Allen Hamilton",
-        "location": "Chantilly, VA, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa60d1f116e49925534edf?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758297+00:00"
-      },
-      {
-        "id": "jobright-fa272922fc4f",
-        "seen_keys": [
-          "jobright-fa272922fc4f",
-          "url:https://jobright.ai/jobs/info/6a70171af5953013637f71f0"
-        ],
-        "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
-        "company": "JPMorganChase",
-        "location": "Chicago, IL, United States",
-        "url": "https://jobright.ai/jobs/info/6a70171af5953013637f71f0?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758305+00:00"
-      },
-      {
-        "id": "jobright-40db498f01b8",
-        "seen_keys": [
-          "jobright-40db498f01b8",
-          "url:https://jobright.ai/jobs/info/6aaa2071120c360b6bd4abe1"
-        ],
-        "title": "Software Engineer I (Onsite)",
-        "company": "RTX",
-        "location": "St. Petersburg, FL, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa2071120c360b6bd4abe1?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758313+00:00"
-      },
-      {
-        "id": "jobright-a21151f23ff6",
-        "seen_keys": [
-          "jobright-a21151f23ff6",
-          "url:https://jobright.ai/jobs/info/6a70a7f6cb96192a36844ac4"
-        ],
-        "title": "Single Family Software Development Analyst",
-        "company": "Freddie Mac",
-        "location": "McLean, VA, United States",
-        "url": "https://jobright.ai/jobs/info/6a70a7f6cb96192a36844ac4?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758320+00:00"
-      },
-      {
-        "id": "applyguy-4ae91e9e-8159-4f51-b744-86fb3ec70322",
-        "seen_keys": [
-          "applyguy-4ae91e9e-8159-4f51-b744-86fb3ec70322",
-          "url:https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989"
-        ],
-        "title": "Associate Software Developer",
-        "company": "Guidestone",
-        "location": "Dallas, TX",
-        "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989",
+        "title": "Software Developer I - Tours and Consults",
+        "company": "Quickenloans",
+        "location": "Seattle, WA",
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Tours-and-Consults_R-084641",
         "platform": "applyguy",
         "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758327+00:00"
+        "queued_at": "2026-09-16T21:49:37.567513+00:00"
       },
       {
-        "id": "applyguy-5b79fc97-49ab-4858-b5ac-b2ead6015260",
+        "id": "applyguy-8e0f2dfd-4351-4521-9fb0-f517ed65d970",
         "seen_keys": [
-          "applyguy-5b79fc97-49ab-4858-b5ac-b2ead6015260",
-          "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565"
+          "applyguy-8e0f2dfd-4351-4521-9fb0-f517ed65d970",
+          "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Onsite_01873475"
         ],
-        "title": "Software Engineer I (Onsite)",
-        "company": "RTX",
-        "location": "Tewksbury, MA",
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565",
-        "platform": "applyguy",
-        "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758335+00:00"
-      },
-      {
-        "id": "applyguy-164b6ab2-b9cb-4b65-8af7-f4f6554ff5b9",
-        "seen_keys": [
-          "applyguy-164b6ab2-b9cb-4b65-8af7-f4f6554ff5b9",
-          "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01873299"
-        ],
-        "title": "Software Engineer I (Onsite)",
+        "title": "Receiver, Exciter, & Processing Architecture Software Engineer I - Onsite",
         "company": "RTX",
         "location": "Marlborough, MA",
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01873299",
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Onsite_01873475",
         "platform": "applyguy",
         "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758341+00:00"
+        "queued_at": "2026-09-16T21:49:37.567520+00:00"
       },
       {
-        "id": "gradtracker-4837cbe55fa0",
+        "id": "applyguy-9bab672d-59f7-44fe-a490-a5e0235c68cf",
         "seen_keys": [
-          "gradtracker-4837cbe55fa0",
-          "url:https://www.amazon.jobs/en/jobs/10544200/software-development-engineer-aws-kubernetes-k8s-aws-kubernetes"
+          "applyguy-9bab672d-59f7-44fe-a490-a5e0235c68cf",
+          "url:https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-Software-Engineer_R-797359-2"
         ],
-        "title": "Software Development Engineer , AWS Kubernetes (K8s), AWS Kubernetes",
-        "company": "Amazon",
-        "location": "Santa Clara, California, USA, United States",
-        "url": "https://www.amazon.jobs/en/jobs/10544200/software-development-engineer-aws-kubernetes-k8s-aws-kubernetes",
+        "title": "Junior Software Engineer",
+        "company": "Statestreet",
+        "location": "Quincy, MA",
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-Software-Engineer_R-797359-2",
+        "platform": "applyguy",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567526+00:00"
+      },
+      {
+        "id": "gradtracker-393f1afa7e3a",
+        "seen_keys": [
+          "gradtracker-393f1afa7e3a",
+          "url:https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Full-Stack-Software-Engineer---Remote-Services_2639356"
+        ],
+        "title": "Full-Stack Software Engineer",
+        "company": "KLA",
+        "location": "Ann Arbor, MI, United States of America",
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Full-Stack-Software-Engineer---Remote-Services_2639356",
         "platform": "gradtracker",
         "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758347+00:00"
+        "queued_at": "2026-09-16T21:49:37.567533+00:00"
       },
       {
-        "id": "amazon-10544608",
+        "id": "gradtracker-0fc1713b835e",
         "seen_keys": [
-          "amazon-10544608",
-          "url:https://www.amazon.jobs/en/jobs/10544608/software-development-engineer-aws-security"
+          "gradtracker-0fc1713b835e",
+          "url:https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1"
         ],
-        "title": "Software Development Engineer, AWS Security",
+        "title": "AI Software Engineer - Operations",
+        "company": "KLA",
+        "location": "Ann Arbor, MI, United States of America",
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1",
+        "platform": "gradtracker",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567540+00:00"
+      },
+      {
+        "id": "amazon-10547170",
+        "seen_keys": [
+          "amazon-10547170",
+          "url:https://www.amazon.jobs/en/jobs/10547170/software-development-engineer-specialist-ai-tooling-specialist-technology-team"
+        ],
+        "title": "Software Development Engineer, Specialist AI Tooling, Specialist Technology Team",
+        "company": "Amazon",
+        "location": "Austin, Texas, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10547170/software-development-engineer-specialist-ai-tooling-specialist-technology-team",
+        "platform": "amazon",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567546+00:00"
+      },
+      {
+        "id": "amazon-10547041",
+        "seen_keys": [
+          "amazon-10547041",
+          "url:https://www.amazon.jobs/en/jobs/10547041/software-development-engineer-leo-commerce-data-platform"
+        ],
+        "title": "Software Development Engineer , Leo Commerce Data Platform",
+        "company": "Amazon",
+        "location": "Redmond, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10547041/software-development-engineer-leo-commerce-data-platform",
+        "platform": "amazon",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567553+00:00"
+      },
+      {
+        "id": "amazon-10545829",
+        "seen_keys": [
+          "amazon-10545829",
+          "url:https://www.amazon.jobs/en/jobs/10545829/software-development-engineer-agentic-ai-velocity-labs"
+        ],
+        "title": "Software Development Engineer, Agentic AI, Velocity Labs",
         "company": "Amazon",
         "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10544608/software-development-engineer-aws-security",
+        "url": "https://www.amazon.jobs/en/jobs/10545829/software-development-engineer-agentic-ai-velocity-labs",
         "platform": "amazon",
         "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758354+00:00"
+        "queued_at": "2026-09-16T21:49:37.567559+00:00"
       },
       {
-        "id": "amazon-10544575",
+        "id": "amazon-10545827",
         "seen_keys": [
-          "amazon-10544575",
-          "url:https://www.amazon.jobs/en/jobs/10544575/software-development-engineer-aws-marketplace"
+          "amazon-10545827",
+          "url:https://www.amazon.jobs/en/jobs/10545827/software-development-engineer-agentic-ai-velocity-labs"
         ],
-        "title": "Software Development Engineer, AWS Marketplace",
-        "company": "Amazon",
-        "location": "New York, New York, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10544575/software-development-engineer-aws-marketplace",
-        "platform": "amazon",
-        "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758359+00:00"
-      },
-      {
-        "id": "amazon-10544180",
-        "seen_keys": [
-          "amazon-10544180",
-          "url:https://www.amazon.jobs/en/jobs/10544180/applied-scientist-i-alexa-shopping"
-        ],
-        "title": "Applied Scientist I, Alexa Shopping",
+        "title": "Software Development Engineer, Agentic AI, Velocity Labs",
         "company": "Amazon",
         "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10544180/applied-scientist-i-alexa-shopping",
+        "url": "https://www.amazon.jobs/en/jobs/10545827/software-development-engineer-agentic-ai-velocity-labs",
         "platform": "amazon",
         "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758365+00:00"
+        "queued_at": "2026-09-16T21:49:37.567565+00:00"
       },
       {
-        "id": "workday-salesforce-JR357256",
+        "id": "amazon-10545823",
         "seen_keys": [
-          "workday-salesforce-JR357256",
-          "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256"
+          "amazon-10545823",
+          "url:https://www.amazon.jobs/en/jobs/10545823/software-development-engineer-agentic-ai-velocity-labs"
         ],
-        "title": "Software Engineer, DNS & Cloud Infrastructure",
-        "company": "Salesforce",
-        "location": "2 Locations",
-        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256",
-        "platform": "workday",
+        "title": "Software Development Engineer, Agentic AI, Velocity Labs",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10545823/software-development-engineer-agentic-ai-velocity-labs",
+        "platform": "amazon",
         "posted_at": "2026-09-16",
-        "queued_at": "2026-09-16T14:54:18.758372+00:00"
+        "queued_at": "2026-09-16T21:49:37.567571+00:00"
       },
       {
-        "id": "zapply-23deb6180457",
+        "id": "amazon-10545820",
         "seen_keys": [
-          "zapply-23deb6180457",
-          "url:https://zapply.jobs/l/d/starbucks-260056876"
+          "amazon-10545820",
+          "url:https://www.amazon.jobs/en/jobs/10545820/software-development-engineer-agentic-ai-velocity-labs"
         ],
-        "title": "software engineer- ST, Cloud Foundation Services, Seattle, WA",
-        "company": "Starbucks",
-        "location": "Seattle, Washington, United States",
-        "url": "https://zapply.jobs/l/d/starbucks-260056876?s=gh-new-grad-jobs-2027",
+        "title": "Software Development Engineer, Agentic AI, Velocity Labs",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10545820/software-development-engineer-agentic-ai-velocity-labs",
+        "platform": "amazon",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567577+00:00"
+      },
+      {
+        "id": "amazon-10547074",
+        "seen_keys": [
+          "amazon-10547074",
+          "url:https://www.amazon.jobs/en/jobs/10547074/software-development-engineer-amazon-dsp-amazon-ad-exchange"
+        ],
+        "title": "Software Development Engineer, Amazon DSP, Amazon Ad Exchange",
+        "company": "Amazon",
+        "location": "Arlington, Virginia, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10547074/software-development-engineer-amazon-dsp-amazon-ad-exchange",
+        "platform": "amazon",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567584+00:00"
+      },
+      {
+        "id": "amazon-10547124",
+        "seen_keys": [
+          "amazon-10547124",
+          "url:https://www.amazon.jobs/en/jobs/10547124/software-development-engineer-iac-provider-experience-provider-experience-coverage"
+        ],
+        "title": "Software Development Engineer, IaC Provider Experience, Provider Experience - Coverage",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10547124/software-development-engineer-iac-provider-experience-provider-experience-coverage",
+        "platform": "amazon",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567591+00:00"
+      },
+      {
+        "id": "amazon-10547103",
+        "seen_keys": [
+          "amazon-10547103",
+          "url:https://www.amazon.jobs/en/jobs/10547103/software-development-engineer-humorphic-labs"
+        ],
+        "title": "Software Development Engineer, Humorphic Labs",
+        "company": "Amazon",
+        "location": "Austin, Texas, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10547103/software-development-engineer-humorphic-labs",
+        "platform": "amazon",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567598+00:00"
+      },
+      {
+        "id": "amazon-10545098",
+        "seen_keys": [
+          "amazon-10545098",
+          "url:https://www.amazon.jobs/en/jobs/10545098/software-development-engineer-infrastructure-reliability-engineering"
+        ],
+        "title": "Software Development Engineer, Infrastructure Reliability Engineering",
+        "company": "Amazon",
+        "location": "Arlington, Virginia, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10545098/software-development-engineer-infrastructure-reliability-engineering",
+        "platform": "amazon",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567604+00:00"
+      },
+      {
+        "id": "amazon-10547033",
+        "seen_keys": [
+          "amazon-10547033",
+          "url:https://www.amazon.jobs/en/jobs/10547033/embedded-software-engineer-amazon-leo"
+        ],
+        "title": "Embedded Software Engineer, Amazon Leo",
+        "company": "Amazon",
+        "location": "Austin, Texas, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10547033/embedded-software-engineer-amazon-leo",
+        "platform": "amazon",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567611+00:00"
+      },
+      {
+        "id": "amazon-10545210",
+        "seen_keys": [
+          "amazon-10545210",
+          "url:https://www.amazon.jobs/en/jobs/10545210/applied-scientist-agentic-ai-amazon-fulfillment-technology"
+        ],
+        "title": "Applied Scientist - Agentic AI, Amazon Fulfillment Technology",
+        "company": "Amazon",
+        "location": "Bellevue, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10545210/applied-scientist-agentic-ai-amazon-fulfillment-technology",
+        "platform": "amazon",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567615+00:00"
+      },
+      {
+        "id": "amazon-10545202",
+        "seen_keys": [
+          "amazon-10545202",
+          "url:https://www.amazon.jobs/en/jobs/10545202/applied-scientist-agentic-ai-amazon-fulfillment-technology-ai-science"
+        ],
+        "title": "Applied Scientist - Agentic AI, Amazon Fulfillment Technology AI Science",
+        "company": "Amazon",
+        "location": "Bellevue, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10545202/applied-scientist-agentic-ai-amazon-fulfillment-technology-ai-science",
+        "platform": "amazon",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567620+00:00"
+      },
+      {
+        "id": "amazon-10544622",
+        "seen_keys": [
+          "amazon-10544622",
+          "url:https://www.amazon.jobs/en/jobs/10544622/applied-scientist-perfect-order-experience-poe"
+        ],
+        "title": "Applied Scientist, Perfect Order Experience (POE)",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10544622/applied-scientist-perfect-order-experience-poe",
+        "platform": "amazon",
+        "posted_at": "2026-09-16",
+        "queued_at": "2026-09-16T21:49:37.567625+00:00"
+      },
+      {
+        "id": "jobright-3e5e64bea525",
+        "seen_keys": [
+          "jobright-3e5e64bea525",
+          "url:https://jobright.ai/jobs/info/6aaab986f6bd9d2d17c19042"
+        ],
+        "title": "Software Engineer I (Onsite)",
+        "company": "Collins Aerospace",
+        "location": "Saint Petersburg, FL 33710, United States",
+        "url": "https://jobright.ai/jobs/info/6aaab986f6bd9d2d17c19042?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-15",
+        "queued_at": "2026-09-16T21:49:37.567632+00:00"
+      },
+      {
+        "id": "zapply-548109192444",
+        "seen_keys": [
+          "zapply-548109192444",
+          "url:https://zapply.jobs/l/d/qualcomm-3093998"
+        ],
+        "title": "Display Software Engineer",
+        "company": "Qualcomm",
+        "location": "San Diego, CA",
+        "url": "https://zapply.jobs/l/d/qualcomm-3093998?s=gh-new-grad-jobs-2027",
         "platform": "zapply",
-        "posted_at": "2026-09-15T23:52:57.568810+00:00",
-        "queued_at": "2026-09-16T14:54:18.758380+00:00"
-      },
-      {
-        "id": "zapply-957109c45f96",
-        "seen_keys": [
-          "zapply-957109c45f96",
-          "url:https://zapply.jobs/l/d/starbucks-260051963"
-        ],
-        "title": "application developer- ST; Seattle, WA",
-        "company": "Starbucks",
-        "location": "Seattle, Washington, United States",
-        "url": "https://zapply.jobs/l/d/starbucks-260051963?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-15T23:52:57.568795+00:00",
-        "queued_at": "2026-09-16T14:54:18.758389+00:00"
-      },
-      {
-        "id": "jobright-8eaf8b9a8cf6",
-        "seen_keys": [
-          "jobright-8eaf8b9a8cf6",
-          "url:https://jobright.ai/jobs/info/6aaa23393387a3d9b67d927f"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Webberville, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa23393387a3d9b67d927f?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758396+00:00"
-      },
-      {
-        "id": "jobright-530d78224d14",
-        "seen_keys": [
-          "jobright-530d78224d14",
-          "url:https://jobright.ai/jobs/info/6aaa22f83387a3d9b67d9259"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Jonestown, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa22f83387a3d9b67d9259?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758404+00:00"
-      },
-      {
-        "id": "jobright-ef5b65a7de6e",
-        "seen_keys": [
-          "jobright-ef5b65a7de6e",
-          "url:https://jobright.ai/jobs/info/6aaa22f628e24cb38513e5f4"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Manchaca, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa22f628e24cb38513e5f4?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758412+00:00"
-      },
-      {
-        "id": "jobright-e905b558bbd5",
-        "seen_keys": [
-          "jobright-e905b558bbd5",
-          "url:https://jobright.ai/jobs/info/6aaa22e409ae03adcace1339"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Austin, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa22e409ae03adcace1339?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758421+00:00"
-      },
-      {
-        "id": "jobright-9ccf4bddf571",
-        "seen_keys": [
-          "jobright-9ccf4bddf571",
-          "url:https://jobright.ai/jobs/info/6aaa22e1120c360b6bd4ac4b"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Manor, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa22e1120c360b6bd4ac4b?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758429+00:00"
-      },
-      {
-        "id": "jobright-c9b68c5171f8",
-        "seen_keys": [
-          "jobright-c9b68c5171f8",
-          "url:https://jobright.ai/jobs/info/6aaa22cd10b1cd4f41609f79"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Cedar Park, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa22cd10b1cd4f41609f79?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758437+00:00"
-      },
-      {
-        "id": "jobright-4f5b45fc63f1",
-        "seen_keys": [
-          "jobright-4f5b45fc63f1",
-          "url:https://jobright.ai/jobs/info/6aaa22c3120c360b6bd4ac3a"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Creedmoor, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa22c3120c360b6bd4ac3a?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758445+00:00"
-      },
-      {
-        "id": "jobright-74f4e2e75a7b",
-        "seen_keys": [
-          "jobright-74f4e2e75a7b",
-          "url:https://jobright.ai/jobs/info/6aaa22bf09ae03adcace132b"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Rollingwood, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa22bf09ae03adcace132b?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758453+00:00"
-      },
-      {
-        "id": "jobright-62aed9e723e2",
-        "seen_keys": [
-          "jobright-62aed9e723e2",
-          "url:https://jobright.ai/jobs/info/6aaa22bfa2db131437b60b55"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Bee Cave, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa22bfa2db131437b60b55?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758460+00:00"
-      },
-      {
-        "id": "jobright-e780559d5475",
-        "seen_keys": [
-          "jobright-e780559d5475",
-          "url:https://jobright.ai/jobs/info/6aaa22b83387a3d9b67d9240"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Lakeway, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa22b83387a3d9b67d9240?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758467+00:00"
-      },
-      {
-        "id": "jobright-e3ce2ef3474c",
-        "seen_keys": [
-          "jobright-e3ce2ef3474c",
-          "url:https://jobright.ai/jobs/info/6aaa22b5120c360b6bd4ac2b"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Bear Creek, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa22b5120c360b6bd4ac2b?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758475+00:00"
-      },
-      {
-        "id": "jobright-638b2c79d4e7",
-        "seen_keys": [
-          "jobright-638b2c79d4e7",
-          "url:https://jobright.ai/jobs/info/6aaa229da2db131437b60b36"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "The Hills, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa229da2db131437b60b36?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758483+00:00"
-      },
-      {
-        "id": "jobright-c36c878404b1",
-        "seen_keys": [
-          "jobright-c36c878404b1",
-          "url:https://jobright.ai/jobs/info/6aaa229809ae03adcace1309"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "West Lake Hills, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa229809ae03adcace1309?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758491+00:00"
-      },
-      {
-        "id": "jobright-d30467a60301",
-        "seen_keys": [
-          "jobright-d30467a60301",
-          "url:https://jobright.ai/jobs/info/6aaa229728e24cb38513e5b4"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Buda, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa229728e24cb38513e5b4?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758498+00:00"
-      },
-      {
-        "id": "jobright-6fd4b1b95198",
-        "seen_keys": [
-          "jobright-6fd4b1b95198",
-          "url:https://jobright.ai/jobs/info/6aaa229510b1cd4f41609f4d"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Sunset Valley, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa229510b1cd4f41609f4d?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758505+00:00"
-      },
-      {
-        "id": "jobright-2fa2ebbf7fb5",
-        "seen_keys": [
-          "jobright-2fa2ebbf7fb5",
-          "url:https://jobright.ai/jobs/info/6aaa2294a2db131437b60b31"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Lago Vista, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa2294a2db131437b60b31?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758513+00:00"
-      },
-      {
-        "id": "jobright-9ca08a6d5ed8",
-        "seen_keys": [
-          "jobright-9ca08a6d5ed8",
-          "url:https://jobright.ai/jobs/info/6aaa229310b1cd4f41609f4b"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox Automotive Inc.",
-        "location": "Pflugerville, TX, United States",
-        "url": "https://jobright.ai/jobs/info/6aaa229310b1cd4f41609f4b?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758520+00:00"
-      },
-      {
-        "id": "jobright-935bb7a2a895",
-        "seen_keys": [
-          "jobright-935bb7a2a895",
-          "url:https://jobright.ai/jobs/info/6aa9c545eff87f571fc9b69f"
-        ],
-        "title": "Junior Dynamics 365 Finance & Operations Developer",
-        "company": "LONG Building Technologies",
-        "location": "Littleton, CO, United States",
-        "url": "https://jobright.ai/jobs/info/6aa9c545eff87f571fc9b69f?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758528+00:00"
-      },
-      {
-        "id": "jobright-29a49abbe874",
-        "seen_keys": [
-          "jobright-29a49abbe874",
-          "url:https://jobright.ai/jobs/info/6aa9c42410b1cd4f41607ad7"
-        ],
-        "title": "Aspire Tech Graduate Software Engineer I",
-        "company": "LexisNexis",
-        "location": "Raleigh, NC, United States",
-        "url": "https://jobright.ai/jobs/info/6aa9c42410b1cd4f41607ad7?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758536+00:00"
-      },
-      {
-        "id": "jobright-337741bc9237",
-        "seen_keys": [
-          "jobright-337741bc9237",
-          "url:https://jobright.ai/jobs/info/6aa9dcaf6d0edc2d91b0c17b"
-        ],
-        "title": "Software Engineer I, Enterprise Financial Technology",
-        "company": "Chewy",
-        "location": "Bellevue, WA, United States",
-        "url": "https://jobright.ai/jobs/info/6aa9dcaf6d0edc2d91b0c17b?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758543+00:00"
-      },
-      {
-        "id": "jobright-07ad67eaae5f",
-        "seen_keys": [
-          "jobright-07ad67eaae5f",
-          "url:https://jobright.ai/jobs/info/6aa9d9466d0edc2d91b0bfb8"
-        ],
-        "title": "Software Engineer, Internal Applications",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA, United States",
-        "url": "https://jobright.ai/jobs/info/6aa9d9466d0edc2d91b0bfb8?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758551+00:00"
-      },
-      {
-        "id": "jobright-3b5a631b13c4",
-        "seen_keys": [
-          "jobright-3b5a631b13c4",
-          "url:https://jobright.ai/jobs/info/6aa9e0b928e24cb38513cf28"
-        ],
-        "title": "Associate Software Engineer, Merchandise Technology",
-        "company": "Foot Locker",
-        "location": "United States",
-        "url": "https://jobright.ai/jobs/info/6aa9e0b928e24cb38513cf28?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758559+00:00"
-      },
-      {
-        "id": "applyguy-1710adc1-2bf8-462d-a5fc-87704ac92b64",
-        "seen_keys": [
-          "applyguy-1710adc1-2bf8-462d-a5fc-87704ac92b64",
-          "url:https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Austin-TX/Entry-Level-Software-Engineer---Austin--TX_R202682548-1"
-        ],
-        "title": "Entry Level Software Engineer - Austin, TX",
-        "company": "Cox",
-        "location": "Austin, TX",
-        "url": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Austin-TX/Entry-Level-Software-Engineer---Austin--TX_R202682548-1",
-        "platform": "applyguy",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758568+00:00"
-      },
-      {
-        "id": "applyguy-34544929-bbc2-4a51-a1f2-b6b1cb4fd5c5",
-        "seen_keys": [
-          "applyguy-34544929-bbc2-4a51-a1f2-b6b1cb4fd5c5",
-          "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4507528"
-        ],
-        "title": "Entry Level Full Stack Developer- $65K-$116K + 15% 401k",
-        "company": "Millennial Software Solutions Inc",
-        "location": "Chantilly, VA",
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4507528",
-        "platform": "applyguy",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758576+00:00"
-      },
-      {
-        "id": "applyguy-b1466a53-00c5-482a-a210-64040844feb7",
-        "seen_keys": [
-          "applyguy-b1466a53-00c5-482a-a210-64040844feb7",
-          "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749"
-        ],
-        "title": "Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026",
-        "company": "NVIDIA",
-        "location": "Santa Clara, CA",
-        "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
-        "platform": "applyguy",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758585+00:00"
-      },
-      {
-        "id": "gradtracker-1e79944852a9",
-        "seen_keys": [
-          "gradtracker-1e79944852a9",
-          "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856"
-        ],
-        "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
-        "company": "NVIDIA",
-        "location": "US, CA, Santa Clara, United States of America",
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
-        "platform": "gradtracker",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758594+00:00"
-      },
-      {
-        "id": "gradtracker-dd484a7a9a7f",
-        "seen_keys": [
-          "gradtracker-dd484a7a9a7f",
-          "url:https://paypal.eightfold.ai/careers/job/274922421821"
-        ],
-        "title": "Data Scientist",
-        "company": "PayPal",
-        "location": "San Jose, California, United States of America, United States",
-        "url": "https://paypal.eightfold.ai/careers/job/274922421821",
-        "platform": "gradtracker",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758601+00:00"
-      },
-      {
-        "id": "gradtracker-8a55a1d55fc9",
-        "seen_keys": [
-          "gradtracker-8a55a1d55fc9",
-          "url:https://paypal.eightfold.ai/careers/job/274922421784"
-        ],
-        "title": "Software Engineer",
-        "company": "PayPal",
-        "location": "San Jose, California, United States of America, United States",
-        "url": "https://paypal.eightfold.ai/careers/job/274922421784",
-        "platform": "gradtracker",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758608+00:00"
-      },
-      {
-        "id": "gradtracker-77bc1248c43b",
-        "seen_keys": [
-          "gradtracker-77bc1248c43b",
-          "url:https://paypal.eightfold.ai/careers/job/274922421780"
-        ],
-        "title": "Software Engineer",
-        "company": "PayPal",
-        "location": "Austin, Texas, United States of America, United States",
-        "url": "https://paypal.eightfold.ai/careers/job/274922421780",
-        "platform": "gradtracker",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758615+00:00"
-      },
-      {
-        "id": "workday-nvidia-JR2023749",
-        "seen_keys": [
-          "workday-nvidia-JR2023749",
-          "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749"
-        ],
-        "title": "Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026",
-        "company": "NVIDIA",
-        "location": "2 Locations",
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
-        "platform": "workday",
-        "posted_at": "2026-09-15",
-        "queued_at": "2026-09-16T14:54:18.758621+00:00"
-      },
-      {
-        "id": "jobright-4e81470570d8",
-        "seen_keys": [
-          "jobright-4e81470570d8",
-          "url:https://tenet3.com"
-        ],
-        "title": "[Junior Frontend Software Engineer- HybridNew",
-        "company": "Tenet3\u00ae",
-        "location": "Unknown",
-        "url": "https://tenet3.com/",
-        "platform": "jobright",
         "posted_at": "Unknown",
-        "queued_at": "2026-09-16T14:54:18.758629+00:00"
+        "queued_at": "2026-09-16T21:49:37.567639+00:00"
       },
       {
-        "id": "zapply-da14f9fc81ca",
+        "id": "zapply-b614ccbbfef1",
         "seen_keys": [
-          "zapply-da14f9fc81ca",
-          "url:https://zapply.jobs/l/d/google-122135917941924550"
+          "zapply-b614ccbbfef1",
+          "url:https://zapply.jobs/l/d/google-110460255506178758"
         ],
-        "title": "Software Engineer, AI and Data Protection",
+        "title": "Software Engineer, Front End, Pomelli",
         "company": "Google",
         "location": "United States",
-        "url": "https://zapply.jobs/l/d/google-122135917941924550?s=gh-new-grad-jobs-2027",
+        "url": "https://zapply.jobs/l/d/google-110460255506178758?s=gh-new-grad-jobs-2027",
         "platform": "zapply",
         "posted_at": "Unknown",
-        "queued_at": "2026-09-16T14:54:18.758638+00:00"
+        "queued_at": "2026-09-16T21:49:37.567646+00:00"
+      },
+      {
+        "id": "zapply-f9313e114432",
+        "seen_keys": [
+          "zapply-f9313e114432",
+          "url:https://zapply.jobs/l/d/workday-parsons-search-R186191"
+        ],
+        "title": "Research Scientist - Pathogen Genomics and Surveillance",
+        "company": "Parsons",
+        "location": "MD, Frederick, R186191",
+        "url": "https://zapply.jobs/l/d/workday-parsons-search-R186191?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "Unknown",
+        "queued_at": "2026-09-16T21:49:37.567652+00:00"
       }
     ]
   },
-  "last_run": "2026-09-16T18:54:25.256902+00:00"
+  "last_run": "2026-09-16T21:49:38.006300+00:00"
 }
