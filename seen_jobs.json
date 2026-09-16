@@ -1,110 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-5ed99d32-eed1-4679-b7b4-037de073e57c",
-      "seen_at": "2026-08-17T05:42:47.559666+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/5ed99d32-eed1-4679-b7b4-037de073e57c",
-      "seen_at": "2026-08-17T05:42:47.560196+00:00"
-    },
-    {
-      "id": "simplify-61daacb8-5db1-4ec7-8473-706c85ee08f5",
-      "seen_at": "2026-08-17T13:47:11.497197+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7674027218993154357",
-      "seen_at": "2026-08-17T13:47:11.497799+00:00"
-    },
-    {
-      "id": "simplify-a4647510-ce85-43c7-af8c-50d890fbd299",
-      "seen_at": "2026-08-17T13:47:11.498258+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7674025781001062709",
-      "seen_at": "2026-08-17T13:47:11.498711+00:00"
-    },
-    {
-      "id": "simplify-4d762004-fbe7-46b2-bdcf-3c4e02d54b87",
-      "seen_at": "2026-08-17T13:47:11.499140+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7674023327725373701",
-      "seen_at": "2026-08-17T13:47:11.499579+00:00"
-    },
-    {
-      "id": "simplify-a8e9e244-d0b5-4ee1-a683-4b3d2d6ee8f6",
-      "seen_at": "2026-08-17T13:47:11.500004+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/assystinc/jobs/4371586009",
-      "seen_at": "2026-08-17T13:47:11.500423+00:00"
-    },
-    {
-      "id": "simplify-4a623f52-ac3e-4809-bbff-79d93ef3ec63",
-      "seen_at": "2026-08-17T13:47:11.500899+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-(Herndon,-VA)-VA-20171/1419939200",
-      "seen_at": "2026-08-17T13:47:11.501372+00:00"
-    },
-    {
-      "id": "simplify-367919b2-9f9f-4104-a7e7-811ae0b98c01",
-      "seen_at": "2026-08-17T14:12:11.037933+00:00"
-    },
-    {
-      "id": "url:https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800",
-      "seen_at": "2026-08-17T14:12:11.038484+00:00"
-    },
-    {
-      "id": "simplify-154ae79b-60c6-40a6-9be2-a48637bb96ff",
-      "seen_at": "2026-08-17T14:12:11.038924+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7674029136531015941",
-      "seen_at": "2026-08-17T14:12:11.039338+00:00"
-    },
-    {
-      "id": "simplify-e95cee0e-a2ed-44d1-9017-9befd82e1561",
-      "seen_at": "2026-08-17T14:12:11.039739+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7674032146438162693",
-      "seen_at": "2026-08-17T14:12:11.040131+00:00"
-    },
-    {
-      "id": "simplify-c344d643-aa8d-4d64-a497-67a78ca63dc9",
-      "seen_at": "2026-08-17T14:12:11.040541+00:00"
-    },
-    {
-      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
-      "seen_at": "2026-08-17T14:12:11.040933+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-8052095",
-      "seen_at": "2026-08-17T14:48:20.449248+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/8052095",
-      "seen_at": "2026-08-17T14:48:20.449850+00:00"
-    },
-    {
-      "id": "greenhouse-datadog-8108241",
-      "seen_at": "2026-08-17T14:48:21.609408+00:00"
-    },
-    {
-      "id": "url:https://careers.datadoghq.com/detail/8108241",
-      "seen_at": "2026-08-17T14:48:21.610003+00:00"
-    },
-    {
-      "id": "simplify-acf99652-adf2-4fff-8ef1-4e83760711e4",
-      "seen_at": "2026-08-17T14:48:23.028721+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016",
-      "seen_at": "2026-08-17T14:48:23.029357+00:00"
-    },
-    {
       "id": "simplify-4f8ad54a-59ae-44f1-b878-303aec5b1733",
       "seen_at": "2026-08-17T15:10:39.001822+00:00"
     },
@@ -50343,14 +50239,912 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10544003/software-development-engineer-3p-measurement-tech",
       "seen_at": "2026-09-16T00:31:37.499872+00:00"
+    },
+    {
+      "id": "zapply-b68300b5a58b",
+      "seen_at": "2026-09-16T14:53:56.583284+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133701",
+      "seen_at": "2026-09-16T14:53:56.584222+00:00"
+    },
+    {
+      "id": "zapply-9ae1b871d0cf",
+      "seen_at": "2026-09-16T14:53:56.584837+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1318989",
+      "seen_at": "2026-09-16T14:53:56.585406+00:00"
+    },
+    {
+      "id": "simplify-ec35d0e3-58e4-45c3-a79f-4bbf7c0b5174",
+      "seen_at": "2026-09-16T14:53:56.585997+00:00"
+    },
+    {
+      "id": "url:https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895",
+      "seen_at": "2026-09-16T14:53:56.586545+00:00"
+    },
+    {
+      "id": "zapply-df66f95152c4",
+      "seen_at": "2026-09-16T14:53:56.587114+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4711990006",
+      "seen_at": "2026-09-16T14:53:56.587667+00:00"
+    },
+    {
+      "id": "simplify-8fb80f34-572c-4d42-8a99-b0aa189dd044",
+      "seen_at": "2026-09-16T14:53:56.588238+00:00"
+    },
+    {
+      "id": "url:https://careers.itw.com/global/en/job/JR10112",
+      "seen_at": "2026-09-16T14:53:56.588807+00:00"
+    },
+    {
+      "id": "simplify-2ea38d26-862d-47ae-a223-4b41861e24f5",
+      "seen_at": "2026-09-16T14:53:56.589373+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cheiron/a8514f9b-17d9-40a0-8674-a07543bb86d0/application",
+      "seen_at": "2026-09-16T14:53:56.589982+00:00"
+    },
+    {
+      "id": "simplify-5092b4e1-2dba-4a3e-ba5a-f597e9d35208",
+      "seen_at": "2026-09-16T14:53:56.590523+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cheiron/e193c411-f175-480e-a341-72e7131e009a/application",
+      "seen_at": "2026-09-16T14:53:56.591102+00:00"
+    },
+    {
+      "id": "jobright-b01842bb3380",
+      "seen_at": "2026-09-16T14:53:56.591663+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa7c6b76707040fb080c5b",
+      "seen_at": "2026-09-16T14:53:56.592236+00:00"
+    },
+    {
+      "id": "jobright-2bb427b6ad25",
+      "seen_at": "2026-09-16T14:53:56.592793+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa2738120c360b6bd4ace2",
+      "seen_at": "2026-09-16T14:53:56.593362+00:00"
+    },
+    {
+      "id": "jobright-3a6022adff23",
+      "seen_at": "2026-09-16T14:53:56.593930+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9e6e128e24cb38513d248",
+      "seen_at": "2026-09-16T14:53:56.594512+00:00"
+    },
+    {
+      "id": "jobright-da135afe1e74",
+      "seen_at": "2026-09-16T14:53:56.595176+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a93b2b93603630099198b68",
+      "seen_at": "2026-09-16T14:53:56.595716+00:00"
+    },
+    {
+      "id": "zapply-9b766ab0811f",
+      "seen_at": "2026-09-16T14:53:56.596286+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-waymo-8198582",
+      "seen_at": "2026-09-16T14:53:56.596839+00:00"
+    },
+    {
+      "id": "zapply-b88579c730b6",
+      "seen_at": "2026-09-16T14:53:56.597438+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-Intuitive-744000149700619",
+      "seen_at": "2026-09-16T14:53:56.598020+00:00"
+    },
+    {
+      "id": "jobright-454831346100",
+      "seen_at": "2026-09-16T14:53:56.598567+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9b02c09ae03adcacde5ba",
+      "seen_at": "2026-09-16T14:53:56.599122+00:00"
+    },
+    {
+      "id": "jobright-55d62bb746a3",
+      "seen_at": "2026-09-16T14:53:56.599688+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9b1626d0edc2d91b0aa6d",
+      "seen_at": "2026-09-16T14:53:56.600246+00:00"
+    },
+    {
+      "id": "jobright-5ae7005ba503",
+      "seen_at": "2026-09-16T14:53:56.600794+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa8baba83a6750b1adf9ec7",
+      "seen_at": "2026-09-16T14:53:56.601350+00:00"
+    },
+    {
+      "id": "jobright-deef03aa266c",
+      "seen_at": "2026-09-16T14:53:56.601912+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9da4628e24cb38513cbc0",
+      "seen_at": "2026-09-16T14:53:56.602461+00:00"
+    },
+    {
+      "id": "jobright-b005f0f7bcca",
+      "seen_at": "2026-09-16T14:53:56.603025+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9efc309ae03adcace0567",
+      "seen_at": "2026-09-16T14:53:56.603552+00:00"
+    },
+    {
+      "id": "jobright-30c3d4c10094",
+      "seen_at": "2026-09-16T14:53:56.604112+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9bda56d0edc2d91b0b106",
+      "seen_at": "2026-09-16T14:53:56.604657+00:00"
+    },
+    {
+      "id": "jobright-4bdc792d0e21",
+      "seen_at": "2026-09-16T14:53:56.605216+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa06b510b1cd4f41609856",
+      "seen_at": "2026-09-16T14:53:56.605766+00:00"
+    },
+    {
+      "id": "zapply-a82646117a67",
+      "seen_at": "2026-09-16T14:54:18.727635+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20137",
+      "seen_at": "2026-09-16T14:54:18.728670+00:00"
+    },
+    {
+      "id": "zapply-4af6f9862970",
+      "seen_at": "2026-09-16T14:54:18.729383+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19760",
+      "seen_at": "2026-09-16T14:54:18.730022+00:00"
+    },
+    {
+      "id": "zapply-87fc6d6749c1",
+      "seen_at": "2026-09-16T14:54:18.730634+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2018371",
+      "seen_at": "2026-09-16T14:54:18.731249+00:00"
+    },
+    {
+      "id": "zapply-955d439b2373",
+      "seen_at": "2026-09-16T14:54:18.731860+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2015949",
+      "seen_at": "2026-09-16T14:54:18.732470+00:00"
+    },
+    {
+      "id": "zapply-20875be85cba",
+      "seen_at": "2026-09-16T14:54:18.733091+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R50390",
+      "seen_at": "2026-09-16T14:54:18.733688+00:00"
+    },
+    {
+      "id": "zapply-71e2a2961268",
+      "seen_at": "2026-09-16T14:54:18.734295+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202612876",
+      "seen_at": "2026-09-16T14:54:18.734894+00:00"
+    },
+    {
+      "id": "zapply-9a59390a17ce",
+      "seen_at": "2026-09-16T14:54:18.735508+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2134892",
+      "seen_at": "2026-09-16T14:54:18.736118+00:00"
+    },
+    {
+      "id": "zapply-bf067f21c446",
+      "seen_at": "2026-09-16T14:54:18.736715+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR207356",
+      "seen_at": "2026-09-16T14:54:18.737316+00:00"
+    },
+    {
+      "id": "zapply-5e13515122ec",
+      "seen_at": "2026-09-16T14:54:18.737925+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133271",
+      "seen_at": "2026-09-16T14:54:18.738544+00:00"
+    },
+    {
+      "id": "zapply-52cd1caeb880",
+      "seen_at": "2026-09-16T14:54:18.739152+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249555",
+      "seen_at": "2026-09-16T14:54:18.739746+00:00"
+    },
+    {
+      "id": "zapply-4de444a0f793",
+      "seen_at": "2026-09-16T14:54:18.740350+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00048846",
+      "seen_at": "2026-09-16T14:54:18.740947+00:00"
+    },
+    {
+      "id": "zapply-61feff3ff4f6",
+      "seen_at": "2026-09-16T14:54:18.741551+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-anthropic-5421263008",
+      "seen_at": "2026-09-16T14:54:18.742145+00:00"
+    },
+    {
+      "id": "zapply-972edc8c4529",
+      "seen_at": "2026-09-16T14:54:18.742757+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603054",
+      "seen_at": "2026-09-16T14:54:18.743354+00:00"
+    },
+    {
+      "id": "zapply-6611bd3cf12d",
+      "seen_at": "2026-09-16T14:54:18.743969+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-caci-external-325899",
+      "seen_at": "2026-09-16T14:54:18.744563+00:00"
+    },
+    {
+      "id": "simplify-43fa73bc-03c0-46d9-8e03-fe26427737a0",
+      "seen_at": "2026-09-16T14:54:18.745199+00:00"
+    },
+    {
+      "id": "url:https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245",
+      "seen_at": "2026-09-16T14:54:18.745796+00:00"
+    },
+    {
+      "id": "simplify-9b996926-5344-404a-97c9-7a070220ed40",
+      "seen_at": "2026-09-16T14:54:18.746401+00:00"
+    },
+    {
+      "id": "url:https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82247",
+      "seen_at": "2026-09-16T14:54:18.747001+00:00"
+    },
+    {
+      "id": "simplify-dc67a876-7d1a-4811-828c-8b827ed0eda0",
+      "seen_at": "2026-09-16T14:54:18.747601+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017998",
+      "seen_at": "2026-09-16T14:54:18.748210+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5421263008",
+      "seen_at": "2026-09-16T14:54:18.748821+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5421263008",
+      "seen_at": "2026-09-16T14:54:18.749422+00:00"
+    },
+    {
+      "id": "zapply-86ec32e318e5",
+      "seen_at": "2026-09-16T14:54:18.750042+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-purestorage-8201910",
+      "seen_at": "2026-09-16T14:54:18.750670+00:00"
+    },
+    {
+      "id": "zapply-8f261e0c8716",
+      "seen_at": "2026-09-16T14:54:18.751280+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R171468",
+      "seen_at": "2026-09-16T14:54:18.751879+00:00"
+    },
+    {
+      "id": "zapply-6a15c35a3852",
+      "seen_at": "2026-09-16T14:54:18.752472+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-andurilindustries-5239687007",
+      "seen_at": "2026-09-16T14:54:18.753092+00:00"
+    },
+    {
+      "id": "zapply-2d92e6bb9834",
+      "seen_at": "2026-09-16T14:54:18.753693+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-andurilindustries-5239701007",
+      "seen_at": "2026-09-16T14:54:18.754299+00:00"
+    },
+    {
+      "id": "zapply-bc933949c77c",
+      "seen_at": "2026-09-16T14:54:18.754882+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4712013006",
+      "seen_at": "2026-09-16T14:54:18.755477+00:00"
+    },
+    {
+      "id": "zapply-e26cd9c548c7",
+      "seen_at": "2026-09-16T14:54:18.756106+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-leidos-external-R-00192377",
+      "seen_at": "2026-09-16T14:54:18.756700+00:00"
+    },
+    {
+      "id": "zapply-44fa565bfb06",
+      "seen_at": "2026-09-16T14:54:18.757301+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-leidos-external-R-00175292",
+      "seen_at": "2026-09-16T14:54:18.757893+00:00"
+    },
+    {
+      "id": "zapply-fdd7fcb1f123",
+      "seen_at": "2026-09-16T14:54:18.759088+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-andurilindustries-5239515007",
+      "seen_at": "2026-09-16T14:54:18.759687+00:00"
+    },
+    {
+      "id": "zapply-39bb7d331886",
+      "seen_at": "2026-09-16T14:54:18.760301+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-intrinsicrobotics-6191879004",
+      "seen_at": "2026-09-16T14:54:18.760941+00:00"
+    },
+    {
+      "id": "simplify-10282be3-6654-440b-8bd2-74329d579fb0",
+      "seen_at": "2026-09-16T14:54:18.761546+00:00"
+    },
+    {
+      "id": "url:https://starbucks.eightfold.ai/careers/job/481079150478",
+      "seen_at": "2026-09-16T14:54:18.762158+00:00"
+    },
+    {
+      "id": "simplify-79f05081-76ad-43d3-9164-5578a63ef412",
+      "seen_at": "2026-09-16T14:54:18.762765+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/allen-control-systems/87abef03-ff94-4a7f-a944-5fad20f23daa/application",
+      "seen_at": "2026-09-16T14:54:18.763365+00:00"
+    },
+    {
+      "id": "simplify-56368a2c-9796-41d6-a465-bfd0033f24dc",
+      "seen_at": "2026-09-16T14:54:18.763985+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7685552743586826549",
+      "seen_at": "2026-09-16T14:54:18.764576+00:00"
+    },
+    {
+      "id": "simplify-eb3949ab-fb05-47ea-ab59-163a7584d703",
+      "seen_at": "2026-09-16T14:54:18.765186+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7685552742819842357",
+      "seen_at": "2026-09-16T14:54:18.765789+00:00"
+    },
+    {
+      "id": "simplify-c47f3508-12e8-4e99-a154-587f29f76502",
+      "seen_at": "2026-09-16T14:54:18.766396+00:00"
+    },
+    {
+      "id": "url:https://careers.footlocker.com/jobs/71916",
+      "seen_at": "2026-09-16T14:54:18.767044+00:00"
+    },
+    {
+      "id": "simplify-d7b2e201-b556-489b-a8f9-5ccb4788c8d8",
+      "seen_at": "2026-09-16T14:54:18.767642+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Roadrunner/eeeb9757-78e0-4776-889e-507a013e1fcf/application",
+      "seen_at": "2026-09-16T14:54:18.768249+00:00"
+    },
+    {
+      "id": "simplify-3613890a-a6cc-4909-9aa1-7a2f658282c2",
+      "seen_at": "2026-09-16T14:54:18.768870+00:00"
+    },
+    {
+      "id": "url:https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937",
+      "seen_at": "2026-09-16T14:54:18.769509+00:00"
+    },
+    {
+      "id": "zapply-61ef15dd1547",
+      "seen_at": "2026-09-16T14:54:18.770127+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-b87059f2-3fbf-47db-9999-a6ce7e833426",
+      "seen_at": "2026-09-16T14:54:18.770731+00:00"
+    },
+    {
+      "id": "zapply-bffd5270922f",
+      "seen_at": "2026-09-16T14:54:18.771333+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210787959",
+      "seen_at": "2026-09-16T14:54:18.771940+00:00"
+    },
+    {
+      "id": "zapply-168daffb7348",
+      "seen_at": "2026-09-16T14:54:18.772541+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-1430d8cb-48aa-4638-9a5d-33d58f922399",
+      "seen_at": "2026-09-16T14:54:18.773158+00:00"
+    },
+    {
+      "id": "ashby-cursor-c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+      "seen_at": "2026-09-16T14:54:18.773776+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+      "seen_at": "2026-09-16T14:54:18.774382+00:00"
+    },
+    {
+      "id": "ashby-openai-3b08148d-085e-4835-9934-1b7f60e0fdce",
+      "seen_at": "2026-09-16T14:54:18.775003+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce",
+      "seen_at": "2026-09-16T14:54:18.775634+00:00"
+    },
+    {
+      "id": "jobright-d919d0995023",
+      "seen_at": "2026-09-16T14:54:18.776254+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8e2cb5cc0cf27068527634",
+      "seen_at": "2026-09-16T14:54:18.776856+00:00"
+    },
+    {
+      "id": "jobright-992a6c34bd02",
+      "seen_at": "2026-09-16T14:54:18.777464+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa958376707040fb0810fa",
+      "seen_at": "2026-09-16T14:54:18.778079+00:00"
+    },
+    {
+      "id": "jobright-23029400e801",
+      "seen_at": "2026-09-16T14:54:18.778672+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa95444be87a72913a0348",
+      "seen_at": "2026-09-16T14:54:18.779276+00:00"
+    },
+    {
+      "id": "jobright-dbb6c066ee10",
+      "seen_at": "2026-09-16T14:54:18.779878+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa39bdfc5a856ac7e33a6b4",
+      "seen_at": "2026-09-16T14:54:18.780522+00:00"
+    },
+    {
+      "id": "jobright-fec5e3332ce7",
+      "seen_at": "2026-09-16T14:54:18.781122+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa8f3976707040fb080f03",
+      "seen_at": "2026-09-16T14:54:18.781724+00:00"
+    },
+    {
+      "id": "jobright-bb04e3b5fde0",
+      "seen_at": "2026-09-16T14:54:18.782329+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa886cf116e49925535349",
+      "seen_at": "2026-09-16T14:54:18.782928+00:00"
+    },
+    {
+      "id": "jobright-b8f468d5e526",
+      "seen_at": "2026-09-16T14:54:18.783533+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa870c76707040fb080db4",
+      "seen_at": "2026-09-16T14:54:18.784137+00:00"
+    },
+    {
+      "id": "jobright-e6c87066d110",
+      "seen_at": "2026-09-16T14:54:18.784752+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9ba2b3387a3d9b67d6636",
+      "seen_at": "2026-09-16T14:54:18.785351+00:00"
+    },
+    {
+      "id": "jobright-40711d97212e",
+      "seen_at": "2026-09-16T14:54:18.785949+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa60d1f116e49925534edf",
+      "seen_at": "2026-09-16T14:54:18.786565+00:00"
+    },
+    {
+      "id": "jobright-fa272922fc4f",
+      "seen_at": "2026-09-16T14:54:18.787182+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a70171af5953013637f71f0",
+      "seen_at": "2026-09-16T14:54:18.787792+00:00"
+    },
+    {
+      "id": "jobright-40db498f01b8",
+      "seen_at": "2026-09-16T14:54:18.788413+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa2071120c360b6bd4abe1",
+      "seen_at": "2026-09-16T14:54:18.789025+00:00"
+    },
+    {
+      "id": "jobright-a21151f23ff6",
+      "seen_at": "2026-09-16T14:54:18.789624+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a70a7f6cb96192a36844ac4",
+      "seen_at": "2026-09-16T14:54:18.790228+00:00"
+    },
+    {
+      "id": "applyguy-4ae91e9e-8159-4f51-b744-86fb3ec70322",
+      "seen_at": "2026-09-16T14:54:18.790832+00:00"
+    },
+    {
+      "id": "url:https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989",
+      "seen_at": "2026-09-16T14:54:18.791442+00:00"
+    },
+    {
+      "id": "applyguy-5b79fc97-49ab-4858-b5ac-b2ead6015260",
+      "seen_at": "2026-09-16T14:54:18.792056+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565",
+      "seen_at": "2026-09-16T14:54:18.792645+00:00"
+    },
+    {
+      "id": "applyguy-164b6ab2-b9cb-4b65-8af7-f4f6554ff5b9",
+      "seen_at": "2026-09-16T14:54:18.793251+00:00"
+    },
+    {
+      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01873299",
+      "seen_at": "2026-09-16T14:54:18.793855+00:00"
+    },
+    {
+      "id": "gradtracker-4837cbe55fa0",
+      "seen_at": "2026-09-16T14:54:18.794475+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10544200/software-development-engineer-aws-kubernetes-k8s-aws-kubernetes",
+      "seen_at": "2026-09-16T14:54:18.795080+00:00"
+    },
+    {
+      "id": "amazon-10544608",
+      "seen_at": "2026-09-16T14:54:18.795685+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10544608/software-development-engineer-aws-security",
+      "seen_at": "2026-09-16T14:54:18.796292+00:00"
+    },
+    {
+      "id": "amazon-10544575",
+      "seen_at": "2026-09-16T14:54:18.796900+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10544575/software-development-engineer-aws-marketplace",
+      "seen_at": "2026-09-16T14:54:18.797501+00:00"
+    },
+    {
+      "id": "amazon-10544180",
+      "seen_at": "2026-09-16T14:54:18.798118+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10544180/applied-scientist-i-alexa-shopping",
+      "seen_at": "2026-09-16T14:54:18.798754+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR357256",
+      "seen_at": "2026-09-16T14:54:18.799367+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256",
+      "seen_at": "2026-09-16T14:54:18.799989+00:00"
+    },
+    {
+      "id": "zapply-23deb6180457",
+      "seen_at": "2026-09-16T14:54:18.800570+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/starbucks-260056876",
+      "seen_at": "2026-09-16T14:54:18.801189+00:00"
+    },
+    {
+      "id": "zapply-957109c45f96",
+      "seen_at": "2026-09-16T14:54:18.801788+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/starbucks-260051963",
+      "seen_at": "2026-09-16T14:54:18.802390+00:00"
+    },
+    {
+      "id": "jobright-8eaf8b9a8cf6",
+      "seen_at": "2026-09-16T14:54:18.803018+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa23393387a3d9b67d927f",
+      "seen_at": "2026-09-16T14:54:18.803659+00:00"
+    },
+    {
+      "id": "jobright-530d78224d14",
+      "seen_at": "2026-09-16T14:54:18.804264+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa22f83387a3d9b67d9259",
+      "seen_at": "2026-09-16T14:54:18.804872+00:00"
+    },
+    {
+      "id": "jobright-ef5b65a7de6e",
+      "seen_at": "2026-09-16T14:54:18.805484+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa22f628e24cb38513e5f4",
+      "seen_at": "2026-09-16T14:54:18.806094+00:00"
+    },
+    {
+      "id": "jobright-e905b558bbd5",
+      "seen_at": "2026-09-16T14:54:18.806703+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa22e409ae03adcace1339",
+      "seen_at": "2026-09-16T14:54:18.807310+00:00"
+    },
+    {
+      "id": "jobright-9ccf4bddf571",
+      "seen_at": "2026-09-16T14:54:18.807908+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa22e1120c360b6bd4ac4b",
+      "seen_at": "2026-09-16T14:54:18.808509+00:00"
+    },
+    {
+      "id": "jobright-c9b68c5171f8",
+      "seen_at": "2026-09-16T14:54:18.809114+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa22cd10b1cd4f41609f79",
+      "seen_at": "2026-09-16T14:54:18.809714+00:00"
+    },
+    {
+      "id": "jobright-4f5b45fc63f1",
+      "seen_at": "2026-09-16T14:54:18.810328+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa22c3120c360b6bd4ac3a",
+      "seen_at": "2026-09-16T14:54:18.810941+00:00"
+    },
+    {
+      "id": "jobright-74f4e2e75a7b",
+      "seen_at": "2026-09-16T14:54:18.811542+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa22bf09ae03adcace132b",
+      "seen_at": "2026-09-16T14:54:18.812147+00:00"
+    },
+    {
+      "id": "jobright-62aed9e723e2",
+      "seen_at": "2026-09-16T14:54:18.812780+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa22bfa2db131437b60b55",
+      "seen_at": "2026-09-16T14:54:18.813387+00:00"
+    },
+    {
+      "id": "jobright-e780559d5475",
+      "seen_at": "2026-09-16T14:54:18.814013+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa22b83387a3d9b67d9240",
+      "seen_at": "2026-09-16T14:54:18.814613+00:00"
+    },
+    {
+      "id": "jobright-e3ce2ef3474c",
+      "seen_at": "2026-09-16T14:54:18.815229+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa22b5120c360b6bd4ac2b",
+      "seen_at": "2026-09-16T14:54:18.815834+00:00"
+    },
+    {
+      "id": "jobright-638b2c79d4e7",
+      "seen_at": "2026-09-16T14:54:18.816429+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa229da2db131437b60b36",
+      "seen_at": "2026-09-16T14:54:18.817068+00:00"
+    },
+    {
+      "id": "jobright-c36c878404b1",
+      "seen_at": "2026-09-16T14:54:18.817669+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa229809ae03adcace1309",
+      "seen_at": "2026-09-16T14:54:18.818287+00:00"
+    },
+    {
+      "id": "jobright-d30467a60301",
+      "seen_at": "2026-09-16T14:54:18.818904+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa229728e24cb38513e5b4",
+      "seen_at": "2026-09-16T14:54:18.819524+00:00"
+    },
+    {
+      "id": "jobright-6fd4b1b95198",
+      "seen_at": "2026-09-16T14:54:18.820154+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa229510b1cd4f41609f4d",
+      "seen_at": "2026-09-16T14:54:18.820762+00:00"
+    },
+    {
+      "id": "jobright-2fa2ebbf7fb5",
+      "seen_at": "2026-09-16T14:54:18.821372+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa2294a2db131437b60b31",
+      "seen_at": "2026-09-16T14:54:18.822024+00:00"
+    },
+    {
+      "id": "jobright-9ca08a6d5ed8",
+      "seen_at": "2026-09-16T14:54:18.822626+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaa229310b1cd4f41609f4b",
+      "seen_at": "2026-09-16T14:54:18.823254+00:00"
+    },
+    {
+      "id": "jobright-935bb7a2a895",
+      "seen_at": "2026-09-16T14:54:18.823866+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9c545eff87f571fc9b69f",
+      "seen_at": "2026-09-16T14:54:18.824477+00:00"
+    },
+    {
+      "id": "jobright-29a49abbe874",
+      "seen_at": "2026-09-16T14:54:18.825083+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9c42410b1cd4f41607ad7",
+      "seen_at": "2026-09-16T14:54:18.825670+00:00"
+    },
+    {
+      "id": "jobright-337741bc9237",
+      "seen_at": "2026-09-16T14:54:18.826287+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9dcaf6d0edc2d91b0c17b",
+      "seen_at": "2026-09-16T14:54:18.826887+00:00"
+    },
+    {
+      "id": "jobright-07ad67eaae5f",
+      "seen_at": "2026-09-16T14:54:18.827493+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9d9466d0edc2d91b0bfb8",
+      "seen_at": "2026-09-16T14:54:18.828094+00:00"
+    },
+    {
+      "id": "jobright-3b5a631b13c4",
+      "seen_at": "2026-09-16T14:54:18.828698+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9e0b928e24cb38513cf28",
+      "seen_at": "2026-09-16T14:54:18.829302+00:00"
+    },
+    {
+      "id": "applyguy-1710adc1-2bf8-462d-a5fc-87704ac92b64",
+      "seen_at": "2026-09-16T14:54:18.829899+00:00"
+    },
+    {
+      "id": "url:https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Austin-TX/Entry-Level-Software-Engineer---Austin--TX_R202682548-1",
+      "seen_at": "2026-09-16T14:54:18.830514+00:00"
+    },
+    {
+      "id": "applyguy-34544929-bbc2-4a51-a1f2-b6b1cb4fd5c5",
+      "seen_at": "2026-09-16T14:54:18.831111+00:00"
+    },
+    {
+      "id": "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4507528",
+      "seen_at": "2026-09-16T14:54:18.831716+00:00"
+    },
+    {
+      "id": "applyguy-b1466a53-00c5-482a-a210-64040844feb7",
+      "seen_at": "2026-09-16T14:54:18.832310+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+      "seen_at": "2026-09-16T14:54:18.832902+00:00"
+    },
+    {
+      "id": "gradtracker-1e79944852a9",
+      "seen_at": "2026-09-16T14:54:18.833507+00:00"
+    },
+    {
+      "id": "gradtracker-dd484a7a9a7f",
+      "seen_at": "2026-09-16T14:54:18.834708+00:00"
+    },
+    {
+      "id": "url:https://paypal.eightfold.ai/careers/job/274922421821",
+      "seen_at": "2026-09-16T14:54:18.835350+00:00"
+    },
+    {
+      "id": "gradtracker-8a55a1d55fc9",
+      "seen_at": "2026-09-16T14:54:18.835969+00:00"
+    },
+    {
+      "id": "url:https://paypal.eightfold.ai/careers/job/274922421784",
+      "seen_at": "2026-09-16T14:54:18.836559+00:00"
+    },
+    {
+      "id": "gradtracker-77bc1248c43b",
+      "seen_at": "2026-09-16T14:54:18.837160+00:00"
+    },
+    {
+      "id": "url:https://paypal.eightfold.ai/careers/job/274922421780",
+      "seen_at": "2026-09-16T14:54:18.837737+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2023749",
+      "seen_at": "2026-09-16T14:54:18.838353+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+      "seen_at": "2026-09-16T14:54:18.838986+00:00"
+    },
+    {
+      "id": "jobright-4e81470570d8",
+      "seen_at": "2026-09-16T14:54:18.839576+00:00"
+    },
+    {
+      "id": "url:https://tenet3.com",
+      "seen_at": "2026-09-16T14:54:18.840182+00:00"
+    },
+    {
+      "id": "zapply-da14f9fc81ca",
+      "seen_at": "2026-09-16T14:54:18.840772+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-122135917941924550",
+      "seen_at": "2026-09-16T14:54:18.841384+00:00"
     }
   ],
-  "last_run": "2026-09-16T00:31:37.776621+00:00",
-  "total_notified": 6011,
+  "last_run": "2026-09-16T14:54:19.228082+00:00",
+  "total_notified": 6056,
   "channels": {
     "pm-jobs": [
-      "greenhouse-datadog-8108241",
-      "url:https://careers.datadoghq.com/detail/8108241",
       "simplify-4f8ad54a-59ae-44f1-b878-303aec5b1733",
       "url:https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Product-Manager---Business-Banking---Treasury-Management_R-100612",
       "ashby-openai-713a9469-fb35-49db-809e-36f67c920880",
@@ -52088,23 +52882,49 @@
       "jobright-297457d571c4",
       "url:https://jobright.ai/jobs/info/6aa9be233387a3d9b67d6848",
       "jobright-de84c9b1bffb",
-      "url:https://jobright.ai/jobs/info/6aa9a90810b1cd4f41606eea"
+      "url:https://jobright.ai/jobs/info/6aa9a90810b1cd4f41606eea",
+      "zapply-b68300b5a58b",
+      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133701",
+      "zapply-9ae1b871d0cf",
+      "url:https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1318989",
+      "simplify-ec35d0e3-58e4-45c3-a79f-4bbf7c0b5174",
+      "url:https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895",
+      "zapply-df66f95152c4",
+      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4711990006",
+      "simplify-8fb80f34-572c-4d42-8a99-b0aa189dd044",
+      "url:https://careers.itw.com/global/en/job/JR10112",
+      "simplify-2ea38d26-862d-47ae-a223-4b41861e24f5",
+      "url:https://jobs.ashbyhq.com/cheiron/a8514f9b-17d9-40a0-8674-a07543bb86d0/application",
+      "simplify-5092b4e1-2dba-4a3e-ba5a-f597e9d35208",
+      "url:https://jobs.ashbyhq.com/cheiron/e193c411-f175-480e-a341-72e7131e009a/application",
+      "jobright-b01842bb3380",
+      "url:https://jobright.ai/jobs/info/6aaa7c6b76707040fb080c5b",
+      "jobright-2bb427b6ad25",
+      "url:https://jobright.ai/jobs/info/6aaa2738120c360b6bd4ace2",
+      "jobright-3a6022adff23",
+      "url:https://jobright.ai/jobs/info/6aa9e6e128e24cb38513d248",
+      "jobright-da135afe1e74",
+      "url:https://jobright.ai/jobs/info/6a93b2b93603630099198b68",
+      "zapply-9b766ab0811f",
+      "url:https://zapply.jobs/l/d/greenhouse-waymo-8198582",
+      "zapply-b88579c730b6",
+      "url:https://zapply.jobs/l/d/sr-Intuitive-744000149700619",
+      "jobright-454831346100",
+      "url:https://jobright.ai/jobs/info/6aa9b02c09ae03adcacde5ba",
+      "jobright-55d62bb746a3",
+      "url:https://jobright.ai/jobs/info/6aa9b1626d0edc2d91b0aa6d",
+      "jobright-5ae7005ba503",
+      "url:https://jobright.ai/jobs/info/6aa8baba83a6750b1adf9ec7",
+      "jobright-deef03aa266c",
+      "url:https://jobright.ai/jobs/info/6aa9da4628e24cb38513cbc0",
+      "jobright-b005f0f7bcca",
+      "url:https://jobright.ai/jobs/info/6aa9efc309ae03adcace0567",
+      "jobright-30c3d4c10094",
+      "url:https://jobright.ai/jobs/info/6aa9bda56d0edc2d91b0b106",
+      "jobright-4bdc792d0e21",
+      "url:https://jobright.ai/jobs/info/6aaa06b510b1cd4f41609856"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-5ed99d32-eed1-4679-b7b4-037de073e57c",
-      "url:https://jobs.ashbyhq.com/openai/5ed99d32-eed1-4679-b7b4-037de073e57c",
-      "simplify-61daacb8-5db1-4ec7-8473-706c85ee08f5",
-      "url:https://lifeattiktok.com/search/7674027218993154357",
-      "simplify-a4647510-ce85-43c7-af8c-50d890fbd299",
-      "url:https://lifeattiktok.com/search/7674025781001062709",
-      "simplify-4d762004-fbe7-46b2-bdcf-3c4e02d54b87",
-      "url:https://lifeattiktok.com/search/7674023327725373701",
-      "simplify-a8e9e244-d0b5-4ee1-a683-4b3d2d6ee8f6",
-      "url:https://job-boards.greenhouse.io/assystinc/jobs/4371586009",
-      "simplify-4a623f52-ac3e-4809-bbff-79d93ef3ec63",
-      "url:https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-(Herndon,-VA)-VA-20171/1419939200",
-      "simplify-acf99652-adf2-4fff-8ef1-4e83760711e4",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016",
       "ashby-openai-894ce80d-c587-4ef0-92d2-b16deb9a06b9",
       "url:https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9",
       "greenhouse-figma-6142506004",
@@ -62112,7 +62932,193 @@
       "amazon-10544071",
       "url:https://www.amazon.jobs/en/jobs/10544071/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program",
       "amazon-10544003",
-      "url:https://www.amazon.jobs/en/jobs/10544003/software-development-engineer-3p-measurement-tech"
+      "url:https://www.amazon.jobs/en/jobs/10544003/software-development-engineer-3p-measurement-tech",
+      "zapply-a82646117a67",
+      "url:https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20137",
+      "zapply-4af6f9862970",
+      "url:https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19760",
+      "zapply-87fc6d6749c1",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2018371",
+      "zapply-955d439b2373",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2015949",
+      "zapply-20875be85cba",
+      "url:https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R50390",
+      "zapply-71e2a2961268",
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202612876",
+      "zapply-9a59390a17ce",
+      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2134892",
+      "zapply-bf067f21c446",
+      "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR207356",
+      "zapply-5e13515122ec",
+      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133271",
+      "zapply-52cd1caeb880",
+      "url:https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249555",
+      "zapply-4de444a0f793",
+      "url:https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00048846",
+      "zapply-61feff3ff4f6",
+      "url:https://zapply.jobs/l/d/greenhouse-anthropic-5421263008",
+      "zapply-972edc8c4529",
+      "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603054",
+      "zapply-6611bd3cf12d",
+      "url:https://zapply.jobs/l/d/workday-caci-external-325899",
+      "simplify-43fa73bc-03c0-46d9-8e03-fe26427737a0",
+      "url:https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245",
+      "simplify-9b996926-5344-404a-97c9-7a070220ed40",
+      "url:https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82247",
+      "simplify-dc67a876-7d1a-4811-828c-8b827ed0eda0",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017998",
+      "greenhouse-anthropic-5421263008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5421263008",
+      "zapply-86ec32e318e5",
+      "url:https://zapply.jobs/l/d/greenhouse-purestorage-8201910",
+      "zapply-8f261e0c8716",
+      "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R171468",
+      "zapply-6a15c35a3852",
+      "url:https://zapply.jobs/l/d/greenhouse-andurilindustries-5239687007",
+      "zapply-2d92e6bb9834",
+      "url:https://zapply.jobs/l/d/greenhouse-andurilindustries-5239701007",
+      "zapply-bc933949c77c",
+      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4712013006",
+      "zapply-e26cd9c548c7",
+      "url:https://zapply.jobs/l/d/workday-leidos-external-R-00192377",
+      "zapply-44fa565bfb06",
+      "url:https://zapply.jobs/l/d/workday-leidos-external-R-00175292",
+      "zapply-fdd7fcb1f123",
+      "url:https://zapply.jobs/l/d/greenhouse-andurilindustries-5239515007",
+      "zapply-39bb7d331886",
+      "url:https://zapply.jobs/l/d/greenhouse-intrinsicrobotics-6191879004",
+      "simplify-10282be3-6654-440b-8bd2-74329d579fb0",
+      "url:https://starbucks.eightfold.ai/careers/job/481079150478",
+      "simplify-79f05081-76ad-43d3-9164-5578a63ef412",
+      "url:https://jobs.ashbyhq.com/allen-control-systems/87abef03-ff94-4a7f-a944-5fad20f23daa/application",
+      "simplify-56368a2c-9796-41d6-a465-bfd0033f24dc",
+      "url:https://lifeattiktok.com/search/7685552743586826549",
+      "simplify-eb3949ab-fb05-47ea-ab59-163a7584d703",
+      "url:https://lifeattiktok.com/search/7685552742819842357",
+      "simplify-c47f3508-12e8-4e99-a154-587f29f76502",
+      "url:https://careers.footlocker.com/jobs/71916",
+      "simplify-d7b2e201-b556-489b-a8f9-5ccb4788c8d8",
+      "url:https://jobs.ashbyhq.com/Roadrunner/eeeb9757-78e0-4776-889e-507a013e1fcf/application",
+      "simplify-3613890a-a6cc-4909-9aa1-7a2f658282c2",
+      "url:https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937",
+      "zapply-61ef15dd1547",
+      "url:https://zapply.jobs/l/d/amazon-b87059f2-3fbf-47db-9999-a6ce7e833426",
+      "zapply-bffd5270922f",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210787959",
+      "zapply-168daffb7348",
+      "url:https://zapply.jobs/l/d/amazon-1430d8cb-48aa-4638-9a5d-33d58f922399",
+      "ashby-cursor-c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+      "url:https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+      "ashby-openai-3b08148d-085e-4835-9934-1b7f60e0fdce",
+      "url:https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce",
+      "jobright-d919d0995023",
+      "url:https://jobright.ai/jobs/info/6a8e2cb5cc0cf27068527634",
+      "jobright-992a6c34bd02",
+      "url:https://jobright.ai/jobs/info/6aaa958376707040fb0810fa",
+      "jobright-23029400e801",
+      "url:https://jobright.ai/jobs/info/6aaa95444be87a72913a0348",
+      "jobright-dbb6c066ee10",
+      "url:https://jobright.ai/jobs/info/6aa39bdfc5a856ac7e33a6b4",
+      "jobright-fec5e3332ce7",
+      "url:https://jobright.ai/jobs/info/6aaa8f3976707040fb080f03",
+      "jobright-bb04e3b5fde0",
+      "url:https://jobright.ai/jobs/info/6aaa886cf116e49925535349",
+      "jobright-b8f468d5e526",
+      "url:https://jobright.ai/jobs/info/6aaa870c76707040fb080db4",
+      "jobright-e6c87066d110",
+      "url:https://jobright.ai/jobs/info/6aa9ba2b3387a3d9b67d6636",
+      "jobright-40711d97212e",
+      "url:https://jobright.ai/jobs/info/6aaa60d1f116e49925534edf",
+      "jobright-fa272922fc4f",
+      "url:https://jobright.ai/jobs/info/6a70171af5953013637f71f0",
+      "jobright-40db498f01b8",
+      "url:https://jobright.ai/jobs/info/6aaa2071120c360b6bd4abe1",
+      "jobright-a21151f23ff6",
+      "url:https://jobright.ai/jobs/info/6a70a7f6cb96192a36844ac4",
+      "applyguy-4ae91e9e-8159-4f51-b744-86fb3ec70322",
+      "url:https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989",
+      "applyguy-5b79fc97-49ab-4858-b5ac-b2ead6015260",
+      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565",
+      "applyguy-164b6ab2-b9cb-4b65-8af7-f4f6554ff5b9",
+      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01873299",
+      "gradtracker-4837cbe55fa0",
+      "url:https://www.amazon.jobs/en/jobs/10544200/software-development-engineer-aws-kubernetes-k8s-aws-kubernetes",
+      "amazon-10544608",
+      "url:https://www.amazon.jobs/en/jobs/10544608/software-development-engineer-aws-security",
+      "amazon-10544575",
+      "url:https://www.amazon.jobs/en/jobs/10544575/software-development-engineer-aws-marketplace",
+      "amazon-10544180",
+      "url:https://www.amazon.jobs/en/jobs/10544180/applied-scientist-i-alexa-shopping",
+      "workday-salesforce-JR357256",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256",
+      "zapply-23deb6180457",
+      "url:https://zapply.jobs/l/d/starbucks-260056876",
+      "zapply-957109c45f96",
+      "url:https://zapply.jobs/l/d/starbucks-260051963",
+      "jobright-8eaf8b9a8cf6",
+      "url:https://jobright.ai/jobs/info/6aaa23393387a3d9b67d927f",
+      "jobright-530d78224d14",
+      "url:https://jobright.ai/jobs/info/6aaa22f83387a3d9b67d9259",
+      "jobright-ef5b65a7de6e",
+      "url:https://jobright.ai/jobs/info/6aaa22f628e24cb38513e5f4",
+      "jobright-e905b558bbd5",
+      "url:https://jobright.ai/jobs/info/6aaa22e409ae03adcace1339",
+      "jobright-9ccf4bddf571",
+      "url:https://jobright.ai/jobs/info/6aaa22e1120c360b6bd4ac4b",
+      "jobright-c9b68c5171f8",
+      "url:https://jobright.ai/jobs/info/6aaa22cd10b1cd4f41609f79",
+      "jobright-4f5b45fc63f1",
+      "url:https://jobright.ai/jobs/info/6aaa22c3120c360b6bd4ac3a",
+      "jobright-74f4e2e75a7b",
+      "url:https://jobright.ai/jobs/info/6aaa22bf09ae03adcace132b",
+      "jobright-62aed9e723e2",
+      "url:https://jobright.ai/jobs/info/6aaa22bfa2db131437b60b55",
+      "jobright-e780559d5475",
+      "url:https://jobright.ai/jobs/info/6aaa22b83387a3d9b67d9240",
+      "jobright-e3ce2ef3474c",
+      "url:https://jobright.ai/jobs/info/6aaa22b5120c360b6bd4ac2b",
+      "jobright-638b2c79d4e7",
+      "url:https://jobright.ai/jobs/info/6aaa229da2db131437b60b36",
+      "jobright-c36c878404b1",
+      "url:https://jobright.ai/jobs/info/6aaa229809ae03adcace1309",
+      "jobright-d30467a60301",
+      "url:https://jobright.ai/jobs/info/6aaa229728e24cb38513e5b4",
+      "jobright-6fd4b1b95198",
+      "url:https://jobright.ai/jobs/info/6aaa229510b1cd4f41609f4d",
+      "jobright-2fa2ebbf7fb5",
+      "url:https://jobright.ai/jobs/info/6aaa2294a2db131437b60b31",
+      "jobright-9ca08a6d5ed8",
+      "url:https://jobright.ai/jobs/info/6aaa229310b1cd4f41609f4b",
+      "jobright-935bb7a2a895",
+      "url:https://jobright.ai/jobs/info/6aa9c545eff87f571fc9b69f",
+      "jobright-29a49abbe874",
+      "url:https://jobright.ai/jobs/info/6aa9c42410b1cd4f41607ad7",
+      "jobright-337741bc9237",
+      "url:https://jobright.ai/jobs/info/6aa9dcaf6d0edc2d91b0c17b",
+      "jobright-07ad67eaae5f",
+      "url:https://jobright.ai/jobs/info/6aa9d9466d0edc2d91b0bfb8",
+      "jobright-3b5a631b13c4",
+      "url:https://jobright.ai/jobs/info/6aa9e0b928e24cb38513cf28",
+      "applyguy-1710adc1-2bf8-462d-a5fc-87704ac92b64",
+      "url:https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Austin-TX/Entry-Level-Software-Engineer---Austin--TX_R202682548-1",
+      "applyguy-34544929-bbc2-4a51-a1f2-b6b1cb4fd5c5",
+      "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4507528",
+      "applyguy-b1466a53-00c5-482a-a210-64040844feb7",
+      "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+      "gradtracker-1e79944852a9",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
+      "gradtracker-dd484a7a9a7f",
+      "url:https://paypal.eightfold.ai/careers/job/274922421821",
+      "gradtracker-8a55a1d55fc9",
+      "url:https://paypal.eightfold.ai/careers/job/274922421784",
+      "gradtracker-77bc1248c43b",
+      "url:https://paypal.eightfold.ai/careers/job/274922421780",
+      "workday-nvidia-JR2023749",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+      "jobright-4e81470570d8",
+      "url:https://tenet3.com",
+      "zapply-da14f9fc81ca",
+      "url:https://zapply.jobs/l/d/google-122135917941924550"
     ]
   }
 }
