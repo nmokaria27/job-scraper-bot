@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-2d7f1028-ce9b-49c7-acc8-782714ca1cf4",
-      "seen_at": "2026-08-16T23:48:55.705803+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/2d7f1028-ce9b-49c7-acc8-782714ca1cf4",
-      "seen_at": "2026-08-16T23:48:55.706327+00:00"
-    },
-    {
       "id": "ashby-openai-5ed99d32-eed1-4679-b7b4-037de073e57c",
       "seen_at": "2026-08-17T05:42:47.559666+00:00"
     },
@@ -49887,10 +49879,474 @@
     {
       "id": "url:https://zapply.jobs/l/d/google-132538578914681542",
       "seen_at": "2026-09-15T22:10:33.089456+00:00"
+    },
+    {
+      "id": "jobright-2e2ee6826136",
+      "seen_at": "2026-09-16T00:31:14.091227+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9b824eff87f571fc9af10",
+      "seen_at": "2026-09-16T00:31:14.091819+00:00"
+    },
+    {
+      "id": "jobright-7fc3d9da78d9",
+      "seen_at": "2026-09-16T00:31:14.092384+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9bc1b28e24cb38513bc74",
+      "seen_at": "2026-09-16T00:31:14.092939+00:00"
+    },
+    {
+      "id": "jobright-44187083f5f2",
+      "seen_at": "2026-09-16T00:31:14.093480+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9b2aaeff87f571fc9ac24",
+      "seen_at": "2026-09-16T00:31:14.094011+00:00"
+    },
+    {
+      "id": "jobright-1807341fb1e0",
+      "seen_at": "2026-09-16T00:31:14.094510+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9b2c66d0edc2d91b0ab59",
+      "seen_at": "2026-09-16T00:31:14.095016+00:00"
+    },
+    {
+      "id": "jobright-297457d571c4",
+      "seen_at": "2026-09-16T00:31:14.095538+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9be233387a3d9b67d6848",
+      "seen_at": "2026-09-16T00:31:14.096012+00:00"
+    },
+    {
+      "id": "jobright-de84c9b1bffb",
+      "seen_at": "2026-09-16T00:31:14.096503+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9a90810b1cd4f41606eea",
+      "seen_at": "2026-09-16T00:31:14.096969+00:00"
+    },
+    {
+      "id": "zapply-27d4bc195cc6",
+      "seen_at": "2026-09-16T00:31:37.445574+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00347315",
+      "seen_at": "2026-09-16T00:31:37.446220+00:00"
+    },
+    {
+      "id": "zapply-277ce25b63ae",
+      "seen_at": "2026-09-16T00:31:37.446826+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023340",
+      "seen_at": "2026-09-16T00:31:37.447415+00:00"
+    },
+    {
+      "id": "zapply-524ca062803d",
+      "seen_at": "2026-09-16T00:31:37.448008+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025370",
+      "seen_at": "2026-09-16T00:31:37.448575+00:00"
+    },
+    {
+      "id": "ashby-cursor-c1ac67d4-645a-4632-a178-ea6b5f49bb26",
+      "seen_at": "2026-09-16T00:31:37.449099+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cursor/c1ac67d4-645a-4632-a178-ea6b5f49bb26",
+      "seen_at": "2026-09-16T00:31:37.449639+00:00"
+    },
+    {
+      "id": "zapply-0870ea1efe51",
+      "seen_at": "2026-09-16T00:31:37.450166+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-harbingermotors-5239481007",
+      "seen_at": "2026-09-16T00:31:37.450701+00:00"
+    },
+    {
+      "id": "zapply-c76deae0b0e5",
+      "seen_at": "2026-09-16T00:31:37.451231+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025602",
+      "seen_at": "2026-09-16T00:31:37.451728+00:00"
+    },
+    {
+      "id": "zapply-c8b3fa0ad0f2",
+      "seen_at": "2026-09-16T00:31:37.452225+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-vardaspace-7996649003",
+      "seen_at": "2026-09-16T00:31:37.452709+00:00"
+    },
+    {
+      "id": "zapply-359be2ccbca8",
+      "seen_at": "2026-09-16T00:31:37.453217+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-caci-external-331254",
+      "seen_at": "2026-09-16T00:31:37.453710+00:00"
+    },
+    {
+      "id": "zapply-90add7b200f6",
+      "seen_at": "2026-09-16T00:31:37.454215+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751219",
+      "seen_at": "2026-09-16T00:31:37.454702+00:00"
+    },
+    {
+      "id": "zapply-24b527af48f4",
+      "seen_at": "2026-09-16T00:31:37.455200+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8812137002",
+      "seen_at": "2026-09-16T00:31:37.455726+00:00"
+    },
+    {
+      "id": "zapply-ef80f9b055ff",
+      "seen_at": "2026-09-16T00:31:37.456243+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-caci-external-332168",
+      "seen_at": "2026-09-16T00:31:37.456744+00:00"
+    },
+    {
+      "id": "ashby-openai-4948533f-1df6-49f7-af9e-a2da0e02ebca",
+      "seen_at": "2026-09-16T00:31:37.457262+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/4948533f-1df6-49f7-af9e-a2da0e02ebca",
+      "seen_at": "2026-09-16T00:31:37.457783+00:00"
+    },
+    {
+      "id": "ashby-substack-6c70c3bb-e722-4689-bc9d-cc44136358b5",
+      "seen_at": "2026-09-16T00:31:37.458317+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/substack/6c70c3bb-e722-4689-bc9d-cc44136358b5",
+      "seen_at": "2026-09-16T00:31:37.458808+00:00"
+    },
+    {
+      "id": "ashby-substack-9fcedb9d-8cf3-498e-a22f-acbfa39ebbb1",
+      "seen_at": "2026-09-16T00:31:37.459309+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/substack/9fcedb9d-8cf3-498e-a22f-acbfa39ebbb1",
+      "seen_at": "2026-09-16T00:31:37.459795+00:00"
+    },
+    {
+      "id": "simplify-2666bf8c-5bac-4f5b-9036-479d63ab0600",
+      "seen_at": "2026-09-16T00:31:37.460305+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/truveta/jobs/6193466004",
+      "seen_at": "2026-09-16T00:31:37.460796+00:00"
+    },
+    {
+      "id": "zapply-4d246557fa6e",
+      "seen_at": "2026-09-16T00:31:37.461297+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/microsoft-200044619",
+      "seen_at": "2026-09-16T00:31:37.461815+00:00"
+    },
+    {
+      "id": "zapply-3a622bfcccec",
+      "seen_at": "2026-09-16T00:31:37.462336+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-singlestore-8205389",
+      "seen_at": "2026-09-16T00:31:37.462826+00:00"
+    },
+    {
+      "id": "simplify-d4c19c36-ef9a-4709-85c2-e54045c626b7",
+      "seen_at": "2026-09-16T00:31:37.463339+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application",
+      "seen_at": "2026-09-16T00:31:37.463828+00:00"
+    },
+    {
+      "id": "simplify-bb16cddc-770c-4910-a803-c4c215a3a996",
+      "seen_at": "2026-09-16T00:31:37.464335+00:00"
+    },
+    {
+      "id": "url:https://careers.jhuapl.edu/jobs/60053",
+      "seen_at": "2026-09-16T00:31:37.464825+00:00"
+    },
+    {
+      "id": "simplify-f0954bc1-6b16-4207-83b9-13e1e410c4e3",
+      "seen_at": "2026-09-16T00:31:37.465330+00:00"
+    },
+    {
+      "id": "url:https://careers.jhuapl.edu/jobs/60075",
+      "seen_at": "2026-09-16T00:31:37.465819+00:00"
+    },
+    {
+      "id": "simplify-c33f2a96-c53e-4b1e-91cc-cfcdd4b6f6a3",
+      "seen_at": "2026-09-16T00:31:37.466322+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3/application",
+      "seen_at": "2026-09-16T00:31:37.466834+00:00"
+    },
+    {
+      "id": "simplify-75042e8a-2126-4f9c-8363-aa0aa0fe281c",
+      "seen_at": "2026-09-16T00:31:37.467357+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/saalex/j/758C0628C9/apply",
+      "seen_at": "2026-09-16T00:31:37.467859+00:00"
+    },
+    {
+      "id": "simplify-e3fef2a4-b7e1-4354-9ccd-b21b2d2e9a29",
+      "seen_at": "2026-09-16T00:31:37.468372+00:00"
+    },
+    {
+      "id": "url:https://valitanallc.applytojob.com/apply/2gc9lR7vgG/Client-Onboarding-Software-Engineer-Analyst",
+      "seen_at": "2026-09-16T00:31:37.468876+00:00"
+    },
+    {
+      "id": "simplify-0f9a9732-306e-48a7-ac67-e9dee9cdf0a4",
+      "seen_at": "2026-09-16T00:31:37.469396+00:00"
+    },
+    {
+      "id": "url:https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44448",
+      "seen_at": "2026-09-16T00:31:37.469899+00:00"
+    },
+    {
+      "id": "simplify-ad6bb21b-4869-4a5e-a8c3-152a8089c35f",
+      "seen_at": "2026-09-16T00:31:37.470421+00:00"
+    },
+    {
+      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015894",
+      "seen_at": "2026-09-16T00:31:37.470948+00:00"
+    },
+    {
+      "id": "simplify-ed4f981d-d849-462d-834f-2fde894a4fdb",
+      "seen_at": "2026-09-16T00:31:37.471807+00:00"
+    },
+    {
+      "id": "url:https://careers.amd.com/jobs/91874",
+      "seen_at": "2026-09-16T00:31:37.472409+00:00"
+    },
+    {
+      "id": "simplify-ba178d6f-1d3e-46f4-a920-876f0b880c8d",
+      "seen_at": "2026-09-16T00:31:37.472975+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/singlestore/jobs/8205427",
+      "seen_at": "2026-09-16T00:31:37.473551+00:00"
+    },
+    {
+      "id": "simplify-d6e19b01-22aa-46ab-a8b0-95bb1092f446",
+      "seen_at": "2026-09-16T00:31:37.474119+00:00"
+    },
+    {
+      "id": "url:https://career-schwab.icims.com/jobs/126708/job",
+      "seen_at": "2026-09-16T00:31:37.474691+00:00"
+    },
+    {
+      "id": "simplify-058f10b5-7e10-4926-bb72-004c74c2a665",
+      "seen_at": "2026-09-16T00:31:37.475272+00:00"
+    },
+    {
+      "id": "url:https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437",
+      "seen_at": "2026-09-16T00:31:37.475820+00:00"
+    },
+    {
+      "id": "simplify-15dd11bd-e2ec-4bb3-a174-263274f0f956",
+      "seen_at": "2026-09-16T00:31:37.476370+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/Kioxia/744000149622811",
+      "seen_at": "2026-09-16T00:31:37.476952+00:00"
+    },
+    {
+      "id": "simplify-fcba025b-7ee1-430b-9e21-9d26659e462c",
+      "seen_at": "2026-09-16T00:31:37.477530+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/wyetechllc/636a5fb4-0967-491d-9993-b8a44a47e832/apply",
+      "seen_at": "2026-09-16T00:31:37.478069+00:00"
+    },
+    {
+      "id": "simplify-2252913a-6024-4abe-8ce4-7dcb8de927f7",
+      "seen_at": "2026-09-16T00:31:37.478605+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200683646",
+      "seen_at": "2026-09-16T00:31:37.479128+00:00"
+    },
+    {
+      "id": "simplify-82c69acd-73ca-4a6f-b334-fd16a295ccbf",
+      "seen_at": "2026-09-16T00:31:37.479672+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200683808",
+      "seen_at": "2026-09-16T00:31:37.480196+00:00"
+    },
+    {
+      "id": "jobright-d07032109b29",
+      "seen_at": "2026-09-16T00:31:37.480710+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9c19928e24cb38513bed9",
+      "seen_at": "2026-09-16T00:31:37.481227+00:00"
+    },
+    {
+      "id": "jobright-721b1679d0cc",
+      "seen_at": "2026-09-16T00:31:37.481734+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9ba2828e24cb38513bb58",
+      "seen_at": "2026-09-16T00:31:37.482244+00:00"
+    },
+    {
+      "id": "jobright-765e9e4eaff7",
+      "seen_at": "2026-09-16T00:31:37.482749+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9b18a6d0edc2d91b0aaa6",
+      "seen_at": "2026-09-16T00:31:37.483258+00:00"
+    },
+    {
+      "id": "jobright-67b6cd958732",
+      "seen_at": "2026-09-16T00:31:37.483764+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa41653422289703bd65085",
+      "seen_at": "2026-09-16T00:31:37.484273+00:00"
+    },
+    {
+      "id": "jobright-62421dc1be1d",
+      "seen_at": "2026-09-16T00:31:37.484778+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9b85a09ae03adcacdea75",
+      "seen_at": "2026-09-16T00:31:37.485293+00:00"
+    },
+    {
+      "id": "jobright-9ad5fd4edd56",
+      "seen_at": "2026-09-16T00:31:37.485800+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9b3f76d0edc2d91b0abf3",
+      "seen_at": "2026-09-16T00:31:37.486315+00:00"
+    },
+    {
+      "id": "jobright-b9b6790a47e5",
+      "seen_at": "2026-09-16T00:31:37.486832+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9b2083387a3d9b67d61cd",
+      "seen_at": "2026-09-16T00:31:37.487347+00:00"
+    },
+    {
+      "id": "jobright-c29acc4e683d",
+      "seen_at": "2026-09-16T00:31:37.487855+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9ad293387a3d9b67d5ff8",
+      "seen_at": "2026-09-16T00:31:37.488364+00:00"
+    },
+    {
+      "id": "jobright-fb94a7d353a4",
+      "seen_at": "2026-09-16T00:31:37.488868+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9c1e709ae03adcacdef2c",
+      "seen_at": "2026-09-16T00:31:37.489397+00:00"
+    },
+    {
+      "id": "jobright-3fe6b7f85e01",
+      "seen_at": "2026-09-16T00:31:37.489899+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9c3533387a3d9b67d6ad3",
+      "seen_at": "2026-09-16T00:31:37.490410+00:00"
+    },
+    {
+      "id": "jobright-99e6a2e1803b",
+      "seen_at": "2026-09-16T00:31:37.490919+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9bf9228e24cb38513bdff",
+      "seen_at": "2026-09-16T00:31:37.491443+00:00"
+    },
+    {
+      "id": "jobright-aa808418afff",
+      "seen_at": "2026-09-16T00:31:37.491963+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9bed310b1cd4f416077e3",
+      "seen_at": "2026-09-16T00:31:37.492502+00:00"
+    },
+    {
+      "id": "gradtracker-456d5083c74c",
+      "seen_at": "2026-09-16T00:31:37.493022+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10543787/data-engineer-data-science-engineering-aws-marketing",
+      "seen_at": "2026-09-16T00:31:37.493541+00:00"
+    },
+    {
+      "id": "gradtracker-6397cfc6c57a",
+      "seen_at": "2026-09-16T00:31:37.494050+00:00"
+    },
+    {
+      "id": "url:https://apply.careers.microsoft.com/careers/job/1970393556941429",
+      "seen_at": "2026-09-16T00:31:37.494562+00:00"
+    },
+    {
+      "id": "gradtracker-8a5fc8656c8b",
+      "seen_at": "2026-09-16T00:31:37.495150+00:00"
+    },
+    {
+      "id": "url:https://paypal.eightfold.ai/careers/job/274922417156",
+      "seen_at": "2026-09-16T00:31:37.495704+00:00"
+    },
+    {
+      "id": "gradtracker-cfb356da0f7b",
+      "seen_at": "2026-09-16T00:31:37.496256+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446717707980",
+      "seen_at": "2026-09-16T00:31:37.496783+00:00"
+    },
+    {
+      "id": "amazon-10544074",
+      "seen_at": "2026-09-16T00:31:37.497311+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10544074/software-development-engineer-amazon-ads-demand-tech-forecasting-and-guidance",
+      "seen_at": "2026-09-16T00:31:37.497822+00:00"
+    },
+    {
+      "id": "amazon-10544071",
+      "seen_at": "2026-09-16T00:31:37.498339+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10544071/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program",
+      "seen_at": "2026-09-16T00:31:37.498845+00:00"
+    },
+    {
+      "id": "amazon-10544003",
+      "seen_at": "2026-09-16T00:31:37.499360+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10544003/software-development-engineer-3p-measurement-tech",
+      "seen_at": "2026-09-16T00:31:37.499872+00:00"
     }
   ],
-  "last_run": "2026-09-15T22:10:33.518002+00:00",
-  "total_notified": 5980,
+  "last_run": "2026-09-16T00:31:37.776621+00:00",
+  "total_notified": 6011,
   "channels": {
     "pm-jobs": [
       "greenhouse-datadog-8108241",
@@ -51620,11 +52076,21 @@
       "jobright-7c4c71bd74df",
       "url:https://jobright.ai/jobs/info/6a8cb49c25fc4e7ae3dba0f9",
       "jobright-185820e7d26a",
-      "url:https://jobright.ai/jobs/info/6aa9925e6d0edc2d91b0a341"
+      "url:https://jobright.ai/jobs/info/6aa9925e6d0edc2d91b0a341",
+      "jobright-2e2ee6826136",
+      "url:https://jobright.ai/jobs/info/6aa9b824eff87f571fc9af10",
+      "jobright-7fc3d9da78d9",
+      "url:https://jobright.ai/jobs/info/6aa9bc1b28e24cb38513bc74",
+      "jobright-44187083f5f2",
+      "url:https://jobright.ai/jobs/info/6aa9b2aaeff87f571fc9ac24",
+      "jobright-1807341fb1e0",
+      "url:https://jobright.ai/jobs/info/6aa9b2c66d0edc2d91b0ab59",
+      "jobright-297457d571c4",
+      "url:https://jobright.ai/jobs/info/6aa9be233387a3d9b67d6848",
+      "jobright-de84c9b1bffb",
+      "url:https://jobright.ai/jobs/info/6aa9a90810b1cd4f41606eea"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-2d7f1028-ce9b-49c7-acc8-782714ca1cf4",
-      "url:https://jobs.ashbyhq.com/openai/2d7f1028-ce9b-49c7-acc8-782714ca1cf4",
       "ashby-openai-5ed99d32-eed1-4679-b7b4-037de073e57c",
       "url:https://jobs.ashbyhq.com/openai/5ed99d32-eed1-4679-b7b4-037de073e57c",
       "simplify-61daacb8-5db1-4ec7-8473-706c85ee08f5",
@@ -61542,7 +62008,111 @@
       "jobright-4c2d2c693227",
       "url:https://jobright.ai/jobs/info/6aa9975028e24cb38513b238",
       "zapply-f28a1dc58f41",
-      "url:https://zapply.jobs/l/d/google-132538578914681542"
+      "url:https://zapply.jobs/l/d/google-132538578914681542",
+      "zapply-27d4bc195cc6",
+      "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00347315",
+      "zapply-277ce25b63ae",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023340",
+      "zapply-524ca062803d",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025370",
+      "ashby-cursor-c1ac67d4-645a-4632-a178-ea6b5f49bb26",
+      "url:https://jobs.ashbyhq.com/cursor/c1ac67d4-645a-4632-a178-ea6b5f49bb26",
+      "zapply-0870ea1efe51",
+      "url:https://zapply.jobs/l/d/greenhouse-harbingermotors-5239481007",
+      "zapply-c76deae0b0e5",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025602",
+      "zapply-c8b3fa0ad0f2",
+      "url:https://zapply.jobs/l/d/greenhouse-vardaspace-7996649003",
+      "zapply-359be2ccbca8",
+      "url:https://zapply.jobs/l/d/workday-caci-external-331254",
+      "zapply-90add7b200f6",
+      "url:https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751219",
+      "zapply-24b527af48f4",
+      "url:https://zapply.jobs/l/d/greenhouse-spacex-8812137002",
+      "zapply-ef80f9b055ff",
+      "url:https://zapply.jobs/l/d/workday-caci-external-332168",
+      "ashby-openai-4948533f-1df6-49f7-af9e-a2da0e02ebca",
+      "url:https://jobs.ashbyhq.com/openai/4948533f-1df6-49f7-af9e-a2da0e02ebca",
+      "ashby-substack-6c70c3bb-e722-4689-bc9d-cc44136358b5",
+      "url:https://jobs.ashbyhq.com/substack/6c70c3bb-e722-4689-bc9d-cc44136358b5",
+      "ashby-substack-9fcedb9d-8cf3-498e-a22f-acbfa39ebbb1",
+      "url:https://jobs.ashbyhq.com/substack/9fcedb9d-8cf3-498e-a22f-acbfa39ebbb1",
+      "simplify-2666bf8c-5bac-4f5b-9036-479d63ab0600",
+      "url:https://job-boards.greenhouse.io/truveta/jobs/6193466004",
+      "zapply-4d246557fa6e",
+      "url:https://zapply.jobs/l/d/microsoft-200044619",
+      "zapply-3a622bfcccec",
+      "url:https://zapply.jobs/l/d/greenhouse-singlestore-8205389",
+      "simplify-d4c19c36-ef9a-4709-85c2-e54045c626b7",
+      "url:https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application",
+      "simplify-bb16cddc-770c-4910-a803-c4c215a3a996",
+      "url:https://careers.jhuapl.edu/jobs/60053",
+      "simplify-f0954bc1-6b16-4207-83b9-13e1e410c4e3",
+      "url:https://careers.jhuapl.edu/jobs/60075",
+      "simplify-c33f2a96-c53e-4b1e-91cc-cfcdd4b6f6a3",
+      "url:https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3/application",
+      "simplify-75042e8a-2126-4f9c-8363-aa0aa0fe281c",
+      "url:https://apply.workable.com/saalex/j/758C0628C9/apply",
+      "simplify-e3fef2a4-b7e1-4354-9ccd-b21b2d2e9a29",
+      "url:https://valitanallc.applytojob.com/apply/2gc9lR7vgG/Client-Onboarding-Software-Engineer-Analyst",
+      "simplify-0f9a9732-306e-48a7-ac67-e9dee9cdf0a4",
+      "url:https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44448",
+      "simplify-ad6bb21b-4869-4a5e-a8c3-152a8089c35f",
+      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015894",
+      "simplify-ed4f981d-d849-462d-834f-2fde894a4fdb",
+      "url:https://careers.amd.com/jobs/91874",
+      "simplify-ba178d6f-1d3e-46f4-a920-876f0b880c8d",
+      "url:https://job-boards.greenhouse.io/singlestore/jobs/8205427",
+      "simplify-d6e19b01-22aa-46ab-a8b0-95bb1092f446",
+      "url:https://career-schwab.icims.com/jobs/126708/job",
+      "simplify-058f10b5-7e10-4926-bb72-004c74c2a665",
+      "url:https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437",
+      "simplify-15dd11bd-e2ec-4bb3-a174-263274f0f956",
+      "url:https://jobs.smartrecruiters.com/Kioxia/744000149622811",
+      "simplify-fcba025b-7ee1-430b-9e21-9d26659e462c",
+      "url:https://jobs.lever.co/wyetechllc/636a5fb4-0967-491d-9993-b8a44a47e832/apply",
+      "simplify-2252913a-6024-4abe-8ce4-7dcb8de927f7",
+      "url:https://jobs.apple.com/en-us/details/200683646",
+      "simplify-82c69acd-73ca-4a6f-b334-fd16a295ccbf",
+      "url:https://jobs.apple.com/en-us/details/200683808",
+      "jobright-d07032109b29",
+      "url:https://jobright.ai/jobs/info/6aa9c19928e24cb38513bed9",
+      "jobright-721b1679d0cc",
+      "url:https://jobright.ai/jobs/info/6aa9ba2828e24cb38513bb58",
+      "jobright-765e9e4eaff7",
+      "url:https://jobright.ai/jobs/info/6aa9b18a6d0edc2d91b0aaa6",
+      "jobright-67b6cd958732",
+      "url:https://jobright.ai/jobs/info/6aa41653422289703bd65085",
+      "jobright-62421dc1be1d",
+      "url:https://jobright.ai/jobs/info/6aa9b85a09ae03adcacdea75",
+      "jobright-9ad5fd4edd56",
+      "url:https://jobright.ai/jobs/info/6aa9b3f76d0edc2d91b0abf3",
+      "jobright-b9b6790a47e5",
+      "url:https://jobright.ai/jobs/info/6aa9b2083387a3d9b67d61cd",
+      "jobright-c29acc4e683d",
+      "url:https://jobright.ai/jobs/info/6aa9ad293387a3d9b67d5ff8",
+      "jobright-fb94a7d353a4",
+      "url:https://jobright.ai/jobs/info/6aa9c1e709ae03adcacdef2c",
+      "jobright-3fe6b7f85e01",
+      "url:https://jobright.ai/jobs/info/6aa9c3533387a3d9b67d6ad3",
+      "jobright-99e6a2e1803b",
+      "url:https://jobright.ai/jobs/info/6aa9bf9228e24cb38513bdff",
+      "jobright-aa808418afff",
+      "url:https://jobright.ai/jobs/info/6aa9bed310b1cd4f416077e3",
+      "gradtracker-456d5083c74c",
+      "url:https://www.amazon.jobs/en/jobs/10543787/data-engineer-data-science-engineering-aws-marketing",
+      "gradtracker-6397cfc6c57a",
+      "url:https://apply.careers.microsoft.com/careers/job/1970393556941429",
+      "gradtracker-8a5fc8656c8b",
+      "url:https://paypal.eightfold.ai/careers/job/274922417156",
+      "gradtracker-cfb356da0f7b",
+      "url:https://careers.qualcomm.com/careers/job/446717707980",
+      "amazon-10544074",
+      "url:https://www.amazon.jobs/en/jobs/10544074/software-development-engineer-amazon-ads-demand-tech-forecasting-and-guidance",
+      "amazon-10544071",
+      "url:https://www.amazon.jobs/en/jobs/10544071/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program",
+      "amazon-10544003",
+      "url:https://www.amazon.jobs/en/jobs/10544003/software-development-engineer-3p-measurement-tech"
     ]
   }
 }
