@@ -111,10 +111,13 @@ def _retry_after_seconds(response: httpx.Response) -> float:
         return 2.0
 
 
-def _build_job_embed(job: Job) -> dict:
+def _build_job_embed(job: Job, promoted: bool = False) -> dict:
+    """`promoted` marks a job Jev surfaced from OUTSIDE the keyword filters, so an
+    admission is always visible rather than silent."""
     source_label = PLATFORM_LABELS.get(job.platform, job.platform.capitalize())
     color = PLATFORM_COLORS.get(job.platform, 5814783)
-    full_title = f"\U0001f680 {job.title}"
+    icon = "✨" if promoted else "\U0001f680"
+    full_title = f"{icon} {job.title}"
     title = (full_title[:253] + "...") if len(full_title) > 256 else full_title
     return {
         "title": title,
@@ -142,22 +145,33 @@ def _build_job_embed(job: Job) -> dict:
                 "inline": False,
             },
         ],
-        "footer": {"text": "Job Scraper Bot"},
+        "footer": {
+            "text": "Job Scraper Bot"
+            + (" · surfaced by Jev (outside keyword filters)" if promoted else "")
+        },
         "timestamp": datetime.now(tz=timezone.utc).isoformat(),
     }
 
 
-async def notify_jobs_batch(jobs: list[Job], webhook_url: str | None = None) -> list[Job]:
+async def notify_jobs_batch(
+    jobs: list[Job],
+    webhook_url: str | None = None,
+    promoted_ids: set[str] | None = None,
+) -> list[Job]:
     """
     Send Discord notifications for a list of jobs to a specific webhook.
     Returns the subset of jobs that were successfully notified.
     Rate-limits between each POST.
+
+    `promoted_ids` holds the ids of jobs Jev surfaced from outside the keyword
+    filters; those embeds are visually marked.
     """
     notified: list[Job] = []
+    promoted_ids = promoted_ids or set()
 
     async with httpx.AsyncClient(timeout=10) as client:
         for job in jobs:
-            payload = {"embeds": [_build_job_embed(job)]}
+            payload = {"embeds": [_build_job_embed(job, promoted=job.id in promoted_ids)]}
             result = await _post_webhook(client, payload, webhook_url)
             if result.success:
                 notified.append(job)

@@ -89,6 +89,13 @@ class ChannelConfig:
     # Locations that veto a match unless a concrete US location also appears.
     # Stops "Remote - Canada" / "Remote in UK" from slipping through "remote".
     excluded_locations: list[str] = field(default_factory=list)
+    # Employers whose postings are never notified, matched whole-word against
+    # the job's company name ("meta" hits "Meta" / "Meta Platforms", not
+    # "Metabase").
+    excluded_companies: list[str] = field(default_factory=list)
+    # Which Jev question profile judges this channel: "swe", "pm", or "off".
+    # Blank falls back to a channel-name map, then "swe". See jev.profile_for.
+    jev_profile: str = ""
 
 
 # ---------------------------------------------------------------------------
@@ -132,6 +139,17 @@ _SENIORITY_EXCLUSIONS: list[str] = [
     "founding",
     "expert",
     "experienced",
+    "all levels",
+    "supervisor",
+    "specialist",
+    "consultant",
+    "consulting",
+    "technologist",
+    "postdoc",
+    "postdoctoral",
+    "lmts",   # Salesforce Lead / Principal / Senior Member of Technical Staff
+    "pmts",
+    "smts",
     "mid",
     "mid-level",
     "mid level",
@@ -160,12 +178,14 @@ _NON_FULL_TIME_EXCLUSIONS: list[str] = [
     "intern",
     "interns",
     "internship",
+    "internships",
     "student",
     "co-op",
     "coop",
     "apprentice",
     "apprenticeship",
     "contractor",
+    "contract",
     "temporary",
     "seasonal",
     "part-time",
@@ -186,17 +206,17 @@ DEFAULT_PM_KEYWORDS: list[str] = [
     "product analyst",
     "product operations",
     "product ops",
-    "pm intern",
-    "product intern",
-    "product manager intern",
-    "pm apprentice",
-    "product apprentice",
-    "product management apprentice",
 ]
 
 DEFAULT_PM_EXCLUDED_KEYWORDS: list[str] = [
+    *_NON_FULL_TIME_EXCLUSIONS,
     *_SENIORITY_EXCLUSIONS,
     "group",              # Group Product Manager
+    # Security / customer-facing program management
+    "security",
+    "cyber",
+    "cybersecurity",
+    "customer",
     # Retail / merchandising / non-tech "product" roles
     "retail",
     "store",
@@ -221,9 +241,15 @@ DEFAULT_SWE_FULL_TIME_KEYWORDS: list[str] = [
     "software engineering",
     "software developer",
     "software development",
-    "engineer",
-    "engineering",
-    "developer",
+    "software dev",
+    # "New Graduate Engineer, Software" / "Backend Engineer Graduate" forms.
+    # Bare "engineer" / "developer" are deliberately NOT positives: they let
+    # every "Systems Engineer" / "Test Engineer" / "Salesforce Developer" in.
+    "engineer, software",
+    "engineer - software",
+    "engineer graduate",
+    "graduate engineer",
+    "web developer",
     "programmer",
     "sde",
     "swe",
@@ -246,6 +272,9 @@ DEFAULT_SWE_FULL_TIME_KEYWORDS: list[str] = [
     "research scientist",
     "applied scientist",
     "ai researcher",
+    "ai research",
+    "applied ai",
+    "applied ml",
     "mlops",
     # Data
     "data scientist",
@@ -262,15 +291,58 @@ DEFAULT_SWE_FULL_TIME_KEYWORDS: list[str] = [
     "full-stack",
     "platform engineer",
     "infrastructure engineer",
-    "site reliability",
-    "sre",
-    "devops",
     "embedded software",
     "mobile engineer",
     "ios engineer",
     "android engineer",
     "quantitative developer",
     "quant developer",
+    # --- Added 2026-09-17 from the first-pass experiment (jev_eval.py --first-pass).
+    # The "no bare engineer/developer" rule above made entry-level titles that lean on
+    # a LEVEL SUFFIX invisible: "Software Engineer I", "Mobile Developer 1",
+    # "Junior Developer", "AI Compiler Engineer". Bare "engineer i" / "engineer 1" are
+    # deliberately absent - they catch "Field Service Engineer 1" and "Product Engineer I".
+    # Verified against the golden corpus: 0 must-rejects accepted, 0 must-accepts lost.
+    "software engineer i",
+    "software engineer 1",
+    "software developer i",
+    "software developer 1",
+    "sde i",
+    "sde 1",
+    "swe i",
+    "swe 1",
+    "developer i",
+    "developer 1",
+    "junior developer",
+    "junior software",
+    "junior programmer",
+    "junior engineer",
+    "associate software engineer",
+    "associate engineer",
+    # AI/ML, retrieval and infra titles matching the target profile (RAG, vLLM,
+    # reranking, knowledge graphs, model serving).
+    "compiler engineer",
+    "inference engineer",
+    "ml infrastructure",
+    "ml platform",
+    "model serving",
+    "search engineer",
+    "relevance engineer",
+    "ranking engineer",
+    "search relevance",
+    "recommender system",
+    "recommendation system",
+    "recommendation engine",
+    "information retrieval",
+    "perception engineer",
+    "speech recognition",
+    "speech engineer",
+    "knowledge graph",
+    "foundation model",
+    "large language model",
+    "distributed systems",
+    "api engineer",
+    "systems software",
     "forward deployed",
 ]
 
@@ -353,18 +425,77 @@ DEFAULT_SWE_FULL_TIME_EXCLUDED_KEYWORDS: list[str] = [
     "controls engineer",
     "safety engineer",
     # Security / IT / enterprise systems (not SWE / AI / ML)
+    "security",
     "security engineer",
     "cyber",
     "cybersecurity",
+    "infosec",
+    "information security",
     "incident response",
     "soc",
+    "red team",
+    "red teamer",
+    "grc",
+    "penetration",
+    "pentest",
+    "threat",
+    "vulnerability",
+    "network",
+    "networking",
     "network engineer",
     "systems administrator",
     "sysadmin",
     "business systems",
+    "business intelligence",
+    "business analysis",
+    "data center",
+    "it",
     "power apps",
     "powerapps",
+    "power platform",
     "erp",
+    "sap",
+    "abap",
+    "servicenow",
+    "salesforce",
+    "workday",
+    "sharepoint",
+    "genesys",
+    "windchill",
+    "mainframe",
+    "cobol",
+    # Defense / clearance-gated roles
+    "clearance",
+    "cleared",
+    "ts/sci",
+    "top secret",
+    "secret",
+    "polygraph",
+    "poly",
+    # QA / test / analyst titles
+    "test",
+    "testing",
+    "sdet",
+    "in test",
+    "qa",
+    "quality assurance",
+    "quality",
+    "analyst",
+    # Systems / firmware / physical-domain "engineer" titles
+    "systems engineer",
+    "system engineer",
+    "systems engineering",
+    "firmware",
+    "modem",
+    "eda",
+    "cad",
+    "dft",
+    "wireless",
+    "radar",
+    "bioengineer",
+    "statistician",
+    "physical infrastructure",
+    "manufacturing",
     # Assistant / fellow titles are either non-engineering or very senior
     "assistant",
     "fellow",
@@ -444,6 +575,14 @@ DEFAULT_EXCLUDED_LOCATIONS: list[str] = [
     "brazil", "sao paulo", "mexico", "argentina", "colombia", "chile", "latam",
 ]
 
+# Employers never notified on any built-in channel. Whole-word match on the
+# company name, so "meta" hits "Meta" / "Meta Platforms" but not "Metabase".
+DEFAULT_EXCLUDED_COMPANIES: list[str] = [
+    "microsoft",
+    "uber",
+    "meta",
+]
+
 # Single-channel fallback (DISCORD_WEBHOOK_URL) uses the full-time defaults.
 KEYWORDS: list[str] = _parse_list("KEYWORDS", default=DEFAULT_SWE_FULL_TIME_KEYWORDS)
 EXCLUDED_KEYWORDS: list[str] = _parse_list(
@@ -454,6 +593,10 @@ LOCATIONS: list[str] = _parse_list("LOCATIONS", default=[])
 EXCLUDED_LOCATIONS: list[str] = _parse_list(
     "EXCLUDED_LOCATIONS",
     default=DEFAULT_EXCLUDED_LOCATIONS,
+)
+EXCLUDED_COMPANIES: list[str] = _parse_list(
+    "EXCLUDED_COMPANIES",
+    default=DEFAULT_EXCLUDED_COMPANIES,
 )
 
 # ---------------------------------------------------------------------------
@@ -470,6 +613,60 @@ REQUEST_RETRY_ATTEMPTS: int = _parse_int("REQUEST_RETRY_ATTEMPTS", 2)
 RECENT_POSTING_MAX_AGE_HOURS: int = _parse_int("RECENT_POSTING_MAX_AGE_HOURS", 24)
 ATS_CONCURRENCY: int = _parse_int("ATS_CONCURRENCY", 8)
 SEND_NO_NEW_SUMMARY: bool = _parse_bool("SEND_NO_NEW_SUMMARY", False)
+
+# ---------------------------------------------------------------------------
+# Jev second-pass judge (typesafe.ai)
+#
+# Off by default. The regex filters stay the source of truth and every Jev
+# failure falls back to them (see jev.UNJUDGED). Three independent switches,
+# because they are the phase ladder: shadow -> rank -> enforce, each revertable
+# by flipping a GitHub variable with no deploy.
+#
+# Defaults for the thresholds come from the Phase 0 harness (jev_eval.py),
+# measured over 12h/24h/48h scrape windows on 2026-09-17:
+#   - 0/28 of regex-accepted golden titles wrongly dropped
+#   - explicit new-grad roles filling the 25-cap: 2-3 -> 25 under fit ranking
+# Re-run `python jev_eval.py --golden --sweep` before changing them.
+# ---------------------------------------------------------------------------
+
+JEV_ENABLED: bool = _parse_bool("JEV_ENABLED", False)     # master kill switch
+JEV_RANKING: bool = _parse_bool("JEV_RANKING", False)     # let fit reorder the cap
+JEV_ENFORCE: bool = _parse_bool("JEV_ENFORCE", False)     # let verdicts actually drop
+# The user's key lives in .env as JEV_API_KEY. The SDK would auto-read
+# TYPESAFE_API_KEY, so jev.py passes this explicitly instead.
+JEV_API_KEY: str = os.getenv("JEV_API_KEY", "").strip()
+# Pinned, not "jev-latest": aliases move between versions and the thresholds
+# above are tuned against this one.
+JEV_MODEL: str = os.getenv("JEV_MODEL", "").strip() or "jev-1.13.0"
+# ~0.25s per call, so 5 concurrent is ~20 rps against a 1200 rpm (20 rps) ceiling.
+JEV_CONCURRENCY: int = _parse_int("JEV_CONCURRENCY", 5)
+# Shared across all channels in a run, not per channel.
+JEV_MAX_CALLS_PER_RUN: int = _parse_int("JEV_MAX_CALLS_PER_RUN", 400)
+# The real safety property: a call budget alone still permits
+# max_calls x (timeout + retries) of wall clock. Runs are ~100s against a
+# 15-minute workflow timeout.
+JEV_RUN_DEADLINE_SECONDS: float = _parse_float("JEV_RUN_DEADLINE_SECONDS", 90.0)
+JEV_TIMEOUT_SECONDS: float = _parse_float("JEV_TIMEOUT_SECONDS", 8.0)
+JEV_MAX_RETRIES: int = _parse_int("JEV_MAX_RETRIES", 1)
+# Applied per dimension, never as a min() across answers.
+JEV_MIN_CONFIDENCE: float = _parse_float("JEV_MIN_CONFIDENCE", 0.5)
+# From the Phase 0 sweep: below 0.17 drops 32 golden titles with zero false drops.
+JEV_FIT_FLOOR: float = _parse_float("JEV_FIT_FLOOR", 0.17)
+JEV_CLEARANCE_THRESHOLD: float = _parse_float("JEV_CLEARANCE_THRESHOLD", 0.5)
+# Consecutive errors before the judge gives up for the rest of the run.
+JEV_ERROR_CIRCUIT: int = _parse_int("JEV_ERROR_CIRCUIT", 5)
+# Fit is bucketed to this width before sorting so that near-equal fits stay in
+# recency order — a raw fit sort would let a marginally better older job
+# outrank a fresher one and undo _newest_first.
+JEV_FIT_BUCKET: float = _parse_float("JEV_FIT_BUCKET", 0.1)
+
+# Bounded promotion: the only path where Jev may ADMIT a job the keyword filter
+# rejected. Runs only when a channel is under its notification cap, judges at most
+# JEV_PROMOTE_MAX_CALLS regex-rejected jobs, and requires a positive high-confidence
+# match (see jev.should_promote). Promoted jobs are flagged in Discord.
+JEV_PROMOTE: bool = _parse_bool("JEV_PROMOTE", False)
+JEV_PROMOTE_MIN_FIT: float = _parse_float("JEV_PROMOTE_MIN_FIT", 0.75)
+JEV_PROMOTE_MAX_CALLS: int = _parse_int("JEV_PROMOTE_MAX_CALLS", 150)
 
 # ---------------------------------------------------------------------------
 # Persistence
@@ -672,6 +869,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                     excluded_keywords=list(DEFAULT_PM_EXCLUDED_KEYWORDS),
                     locations=list(DEFAULT_LOCATIONS),
                     excluded_locations=list(DEFAULT_EXCLUDED_LOCATIONS),
+                    excluded_companies=list(DEFAULT_EXCLUDED_COMPANIES),
                 )
             )
         if full_time_webhook_url:
@@ -683,6 +881,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                     excluded_keywords=list(DEFAULT_SWE_FULL_TIME_EXCLUDED_KEYWORDS),
                     locations=list(DEFAULT_LOCATIONS),
                     excluded_locations=list(DEFAULT_EXCLUDED_LOCATIONS),
+                    excluded_companies=list(DEFAULT_EXCLUDED_COMPANIES),
                 )
             )
         return default_channels
@@ -719,6 +918,9 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
             channel.locations = _clean_list(channel.locations, channel.name, "locations", source)
             channel.excluded_locations = _clean_list(
                 channel.excluded_locations, channel.name, "excluded_locations", source
+            )
+            channel.excluded_companies = _clean_list(
+                channel.excluded_companies, channel.name, "excluded_companies", source
             )
             if not channel.keywords:
                 raise ValueError(f"{source} channel '{channel.name}' must include at least one keyword")
@@ -803,6 +1005,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                 excluded_keywords=EXCLUDED_KEYWORDS,
                 locations=LOCATIONS,
                 excluded_locations=EXCLUDED_LOCATIONS,
+                excluded_companies=EXCLUDED_COMPANIES,
             )
         ]
         print("[INFO] Using single-channel mode (DISCORD_WEBHOOK_URL)")

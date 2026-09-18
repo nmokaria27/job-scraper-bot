@@ -172,6 +172,16 @@ WEAK_LOCATION_TOKENS: set[str] = {"remote", "ca", "wa"}
 _COUNT_ONLY_LOCATION_RE = re.compile(r"^\d+\s+locations?$")
 
 
+def company_is_excluded(company: str, excluded_companies: list[str] | None) -> bool:
+    """
+    True when the job's company name contains any excluded employer as a
+    whole word: "uber" hits "Uber" and "Uber Freight", not "Uberflip".
+    """
+    if not excluded_companies or not company:
+        return False
+    return any(_word_match(name, company) for name in excluded_companies if name.strip())
+
+
 def has_real_location(location: str) -> bool:
     """True when the location names an actual place, not just a work model."""
     normalized = re.sub(r"\s+", " ", (location or "")).strip().lower()

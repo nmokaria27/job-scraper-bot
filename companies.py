@@ -119,6 +119,30 @@ COMPANIES: dict[str, list[str]] = {
         # "weights-biases",  # uses their own ATS
         # "huggingface",     # Workable
         # "cohere",          # now on Ashby (see below)
+
+        # --- added 2026-09-17: verified live, job counts at time of check ---
+        "airtable",                # 16 jobs
+        "andurilindustries",       # 2349 jobs
+        "coreweave",               # 295 jobs
+        "databento",               # 14 jobs
+        "fastly",                  # 43 jobs
+        "figure",                  # 11 jobs
+        "fivetran",                # 192 jobs
+        "grafanalabs",             # 117 jobs
+        "imbue",                   # 1 jobs
+        "invisibletech",           # 18 jobs
+        "knock",                   # 3 jobs
+        "labelbox",                # 10 jobs
+        "lucidmotors",             # 396 jobs
+        "mercury",                 # 63 jobs
+        "mixpanel",                # 91 jobs
+        "motional",                # 72 jobs
+        "netlify",                 # 1 jobs
+        "planetscale",             # 13 jobs
+        "roku",                    # 254 jobs
+        "singlestore",             # 40 jobs
+        "webflow",                 # 27 jobs
+        "yugabyte",                # 14 jobs
     ],
 
     # -------------------------------------------------------------------------
@@ -141,6 +165,10 @@ COMPANIES: dict[str, list[str]] = {
         # "replit",       # now on Ashby
         # "modal",        # now on Ashby
         # "together-ai",  # now "togetherai" on Greenhouse
+
+        # --- added 2026-09-17: verified live, job counts at time of check ---
+        "neon",                    # 12 jobs
+        "zilliz",                  # 12 jobs
     ],
 
     # -------------------------------------------------------------------------
@@ -199,6 +227,34 @@ COMPANIES: dict[str, list[str]] = {
         # "mistral", "anysphere" (use "cursor"), "imbue", "adept", "covariant",
         # "physical-intelligence", "genesis", "exa", "groq", "fireworks-ai"
         # (use "fireworks"), "together-ai" (Greenhouse "togetherai")
+
+        # --- added 2026-09-17: verified live, job counts at time of check ---
+        "airbyte",                 # 13 jobs
+        "astronomer",              # 21 jobs
+        "baseten",                 # 99 jobs
+        "clerk",                   # 1 jobs
+        "clickhouse",              # 200 jobs
+        "confluent",               # 21 jobs
+        "docker",                  # 64 jobs
+        "inngest",                 # 1 jobs
+        "langchain",               # 107 jobs
+        "llamaindex",              # 11 jobs
+        "lumaai",                  # 42 jobs
+        "materialize",             # 2 jobs
+        "nousresearch",            # 10 jobs
+        "physicalintelligence",    # 36 jobs
+        "pinecone",                # 7 jobs
+        "posthog",                 # 9 jobs
+        "prefect",                 # 8 jobs
+        "reflectionai",            # 56 jobs
+        "resend",                  # 9 jobs
+        "skydio",                  # 133 jobs
+        "trychroma",               # 1 jobs
+        "weaviate",                # 2 jobs
+        "workos",                  # 27 jobs
+        "worldlabs",               # 8 jobs
+        "zapier",                  # 7 jobs
+        "zed",                     # 1 jobs
     ],
 }
 

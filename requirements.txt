@@ -1,2 +1,5 @@
 httpx==0.27.0
 python-dotenv==1.0.0
+# Jev second-pass judge (jev.py). Pulls httpx2 + msgspec;
+# httpx2 is a separate distribution and coexists with httpx above.
+typesafe-sdk==0.6.0

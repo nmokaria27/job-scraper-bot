@@ -93,6 +93,20 @@ jobs:
           JSON_SOURCE_URLS: ${{ vars.JSON_SOURCE_URLS }}
           WORKDAY_TENANTS: ${{ vars.WORKDAY_TENANTS }}
           REQUEST_TIMEOUT: ${{ vars.REQUEST_TIMEOUT }}
+          # Jev second-pass judge (jev.py). Phase 1 ships ranking only:
+          # leave JEV_ENFORCE unset/false until shadow data says otherwise.
+          JEV_API_KEY: ${{ secrets.JEV_API_KEY }}
+          JEV_ENABLED: ${{ vars.JEV_ENABLED }}
+          JEV_RANKING: ${{ vars.JEV_RANKING }}
+          JEV_ENFORCE: ${{ vars.JEV_ENFORCE }}
+          JEV_MODEL: ${{ vars.JEV_MODEL }}
+          JEV_CONCURRENCY: ${{ vars.JEV_CONCURRENCY }}
+          JEV_MAX_CALLS_PER_RUN: ${{ vars.JEV_MAX_CALLS_PER_RUN }}
+          JEV_RUN_DEADLINE_SECONDS: ${{ vars.JEV_RUN_DEADLINE_SECONDS }}
+          JEV_FIT_FLOOR: ${{ vars.JEV_FIT_FLOOR }}
+          JEV_PROMOTE: ${{ vars.JEV_PROMOTE }}
+          JEV_PROMOTE_MIN_FIT: ${{ vars.JEV_PROMOTE_MIN_FIT }}
+          JEV_PROMOTE_MAX_CALLS: ${{ vars.JEV_PROMOTE_MAX_CALLS }}
           # HackerNews (optional — defaults to 500 comments)
           HN_MAX_COMMENTS: ${{ vars.HN_MAX_COMMENTS }}
         run: |

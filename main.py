@@ -18,7 +18,7 @@ from urllib.parse import urlsplit, urlunsplit
 import config
 from config import ChannelConfig, load_channels
 from companies import get_companies
-from scrapers.base import Job
+from scrapers.base import Job, company_is_excluded
 from scrapers.greenhouse import GreenhouseScraper
 from scrapers.lever import LeverScraper
 from scrapers.ashby import AshbyScraper
@@ -29,6 +29,7 @@ from scrapers.json_sources import JsonSourceScraper
 from scrapers.bigtech import AmazonScraper, WorkdayScraper
 from scrapers.fetch import describe_error
 import discord_notifier
+import jev
 
 
 # ---------------------------------------------------------------------------
@@ -343,15 +344,37 @@ _filter_scraper = GreenhouseScraper()
 
 
 def filter_for_channel(jobs: list[Job], channel: ChannelConfig) -> list[Job]:
-    """Apply a channel's keyword + excluded + location filters to jobs."""
+    """Apply a channel's company, keyword + excluded, and location filters to jobs."""
     return [
         job for job in jobs
         if job.title
+        and not company_is_excluded(job.company, channel.excluded_companies)
         and _filter_scraper.matches_keywords(
             job.title, channel.keywords, channel.excluded_keywords
         )
         and _filter_scraper.matches_location(
             job.location, channel.locations, channel.excluded_locations
+        )
+    ]
+
+
+def promotion_candidates(jobs: list[Job], channel: ChannelConfig) -> list[Job]:
+    """Jobs that pass company + location but FAIL the keyword filter.
+
+    These are exactly what `filter_for_channel` discards. Company and location stay
+    regex because they are preference and geographic fact, not judgement — and Jev
+    is documented as weak at date/place reasoning. Only the keyword decision is
+    handed over, and only under the guards in jev.promote_jobs.
+    """
+    return [
+        job for job in jobs
+        if job.title
+        and not company_is_excluded(job.company, channel.excluded_companies)
+        and _filter_scraper.matches_location(
+            job.location, channel.locations, channel.excluded_locations
+        )
+        and not _filter_scraper.matches_keywords(
+            job.title, channel.keywords, channel.excluded_keywords
         )
     ]
 
@@ -481,6 +504,50 @@ def _newest_first(jobs: list[Job]) -> list[Job]:
         return (0 if posted != min_dt else 1, -posted.timestamp() if posted != min_dt else 0.0)
 
     return sorted(jobs, key=sort_key)
+
+
+def _rank_for_notification(
+    jobs: list[Job], verdicts: list[jev.Verdict]
+) -> tuple[list[Job], list[Job]]:
+    """Order jobs for the per-run cap. Returns (ordered_keepers, dropped).
+
+    Invariant: with every verdict unjudged, the ordering is IDENTICAL to
+    _newest_first(jobs). That is what makes a Jev outage invisible, and
+    tests/test_jev.py locks it in. Unjudged jobs sit in a neutral bucket so an
+    outage degrades to today's recency-only behaviour rather than burying them.
+
+    Fit is bucketed rather than sorted raw: a raw sort would let a marginally
+    better but older job outrank a fresher one, undoing the reason _newest_first
+    exists (the cap must not spend its budget on stale postings).
+    """
+    min_dt = datetime.min.replace(tzinfo=timezone.utc)
+    bucket_width = max(config.JEV_FIT_BUCKET, 0.01)
+    # Neutral bucket for unjudged jobs: mid-scale, so they interleave with judged
+    # ones instead of all sinking below them during an outage.
+    neutral_bucket = int(0.5 / bucket_width)
+
+    keepers: list[tuple[Job, jev.Verdict]] = []
+    dropped: list[Job] = []
+    for job, verdict in zip(jobs, verdicts):
+        if config.JEV_ENFORCE and verdict.judged and not verdict.keep:
+            dropped.append(job)
+        else:
+            keepers.append((job, verdict))
+
+    def sort_key(pair: tuple[Job, jev.Verdict]) -> tuple[int, int, float]:
+        job, verdict = pair
+        posted = _parse_dt(job.posted_at)
+        dated = posted != min_dt
+        if config.JEV_RANKING and verdict.judged:
+            bucket = int(verdict.fit / bucket_width)
+        else:
+            bucket = neutral_bucket
+        # Elements 2 and 3 are character-for-character the _newest_first key, so
+        # an all-unjudged run reproduces it exactly.
+        return (-bucket, 0 if dated else 1, -posted.timestamp() if dated else 0.0)
+
+    keepers.sort(key=sort_key)
+    return [job for job, _ in keepers], dropped
 
 
 def _job_dedupe_rank(job: Job) -> tuple[int, bool, datetime, int, int]:
@@ -670,9 +737,11 @@ async def main(init_mode: bool = False) -> None:
             print(f"[ERROR] Failed to save seen_jobs.json: {e}")
         return
 
-    # --- NORMAL MODE: per-channel filter → dedupe → notify ---
+    # --- NORMAL MODE: per-channel filter → dedupe → judge → notify ---
     all_jobs = filter_recent_jobs(all_jobs)
     total_notified = 0
+    # Shared across channels so two channels cannot each spend the full allowance.
+    jev_budget = jev.new_budget()
 
     for ch in channels:
         print(f"\n{'='*60}")
@@ -683,11 +752,32 @@ async def main(init_mode: bool = False) -> None:
         matching = dedupe_jobs_for_channel(ch.name, filter_for_channel(all_jobs, ch))
         ch_seen_ids = get_channel_seen_ids(seen_data, ch.name)
 
-        # Find jobs not yet sent to THIS channel, freshest first so the per-run
-        # cap never spends its budget on undated backlog.
-        new_for_channel = _newest_first(
-            [job for job in matching if not job_was_seen(ch_seen_ids, job)]
-        )
+        # Find jobs not yet sent to THIS channel. Judging happens AFTER the
+        # seen-filter on purpose: judging `matching` would spend ~100x the calls
+        # on jobs that were never going to be posted anyway.
+        promoted_ids: set[str] = set()
+        unseen = [job for job in matching if not job_was_seen(ch_seen_ids, job)]
+
+        verdicts = await jev.judge_for_channel(unseen, ch, jev_budget)
+        jev.summarise(ch.name, unseen, verdicts)
+        new_for_channel, jev_dropped = _rank_for_notification(unseen, verdicts)
+        if jev_dropped:
+            print(f"[JEV] '{ch.name}': dropped {len(jev_dropped)} of {len(unseen)}")
+
+        # Bounded promotion: only when this channel is UNDER its cap, so we never pay
+        # to judge jobs that could not be posted anyway.
+        free_slots = config.MAX_NOTIFICATIONS_PER_RUN - len(new_for_channel)
+        if config.JEV_PROMOTE and free_slots > 0:
+            candidates = _newest_first(
+                [j for j in promotion_candidates(all_jobs, ch)
+                 if not job_was_seen(ch_seen_ids, j)]
+            )
+            candidates = dedupe_jobs_for_channel(ch.name, candidates)
+            for job, verdict in await jev.promote_jobs(
+                candidates, ch, jev_budget, free_slots
+            ):
+                promoted_ids.add(job.id)
+                new_for_channel.append(job)
 
         print(f"[INFO] Matching: {len(matching)} | New for channel: {len(new_for_channel)}")
 
@@ -725,7 +815,7 @@ async def main(init_mode: bool = False) -> None:
 
         # Send Discord notifications
         notified = await discord_notifier.notify_jobs_batch(
-            jobs_to_notify, ch.webhook_url
+            jobs_to_notify, ch.webhook_url, promoted_ids=promoted_ids
         )
         total_notified += len(notified)
 

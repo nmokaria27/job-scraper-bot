@@ -36,6 +36,17 @@ class FullTimeChannelFilterTests(unittest.TestCase):
             "Data Scientist, Decisions",
             "Software Development Engineer, Early Careers",
             "Forward Deployed Engineer",
+            # Phrase forms that used to rely on bare "engineer" / "developer"
+            "New Graduate Engineer, Software (Starship)",
+            "Engineer, Software",
+            "Backend Engineer Graduate (User Growth) - 2027 Start",
+            "Graduate Software Engineer (2027 Start)",
+            "Software Dev Engineer I - Graviton Software",
+            "Software Engineering AMTS (College Grad)",
+            "Full Stack Developer",
+            "Frontend Engineer, Ads",
+            "Android Engineer, ChatGPT",
+            "Control Systems Software Engineer, Robotics",
         ):
             self.assertTrue(self._matches(title), f"should match {title!r}")
 
@@ -52,6 +63,12 @@ class FullTimeChannelFilterTests(unittest.TestCase):
             "Engineering Manager, Platform",
             "Founding Engineer",
             "Solutions Architect",
+            "Activision 2027 Summer Internships - Game Engineering",
+            "Software Engineer (All Levels)",
+            "Machine Learning - Postdoctoral Researcher",
+            "Associate Consultant - Generative AI",
+            "Frontend Supervisor - Fulltime",
+            "Configuration Specialist Engineer",
         ):
             self.assertFalse(self._matches(title), f"should NOT match {title!r}")
 
@@ -74,6 +91,48 @@ class FullTimeChannelFilterTests(unittest.TestCase):
             "Physical Design Engineer, Synthesis",
             "Fellow, Software Engineering",
             "Data Scientist Assistant",
+            # Bare "engineer" / "developer" are no longer positives
+            "Reliability Engineer/Vibration Analyst",
+            "Space Systems Engineer",
+            "RMA Systems Engineer",
+            "Bioelectronics Engineer, Wetware",
+            "Cloud Engineer",
+            "IT Ops Engineer",
+            "Salesforce Developer",
+            "Application Developer",
+            "Product Engineer I",
+            "Robotics System Test Engineer",
+            "Electronics Test Engineer",
+            "DevOps Engineer",
+            "Site Reliability Engineer - FedRAMP",
+            # Security / clearance / QA / enterprise IT
+            "Adversarial Security Test Engineer",
+            "Security Operations Engineer",
+            "AI Red Teamer (LLM Generalist)",
+            "GRC Engineer",
+            "Software Systems Engineer - Security",
+            "Splunk / Cribl Engineer - Cybersecurity Engineering",
+            "Junior Software Developer (Active TS/SCI with Poly Required)",
+            "Software Engineer - Entry Level - Top Secret Clearance Required",
+            "Software Engineer (Secret)",
+            "Software Engineer - Test and Quality",
+            "Software Development Engineer in Test (SDET)",
+            "Software Engineer I, Quality",
+            "Programmer Analyst I",
+            "Software Development Analyst",
+            "SAP ABAP Full Stack Developer (Remote)",
+            "Business Intelligence Engineer, Customer Experience",
+            "Software Engineer 1 - IT",
+            "Network Development Engineer I",
+            "Manufacturing Software Engineer",
+            "Modem Software Engineer",
+            "EDA/CAD Software Engineer",
+            "Embedded Firmware Engineer",
+            "DFT Design Engineer I, AWS Machine Learning Acceleration",
+            "Software Engineering LMTS - Backend Distributed Systems",
+            "Software Engineering PMTS - Search & Personalization",
+            "Wireless Infrastructure Engineer, Junior",
+            "Machine Learning (ML) Bioengineer",
         ):
             self.assertFalse(self._matches(title), f"should NOT match {title!r}")
 
@@ -95,8 +154,6 @@ class PmChannelFilterTests(unittest.TestCase):
             "Associate Product Manager",
             "APM, New Grad",
             "Technical Program Manager",
-            "Product Manager Intern 2027",
-            "Product Management Intern",
             "Product Owner",
             "Product Analyst",
         ):
@@ -111,8 +168,56 @@ class PmChannelFilterTests(unittest.TestCase):
             "Seasonal Product Operations Educator",
             "Product Marketing Manager",
             "Product Manager II",
+            # Internships and security / customer PM are out of scope
+            "Product Manager Intern 2027",
+            "Product Management Intern",
+            "Associate Product Manager Intern",
+            "PM Apprentice",
+            "Technical Program Manager (Cyber), Public Sector",
+            "Technical Program Manager - Enterprise Security",
+            "Customer Technical Program Manager, Vehicle OS",
         ):
             self.assertFalse(self._matches(title), f"should NOT match {title!r}")
+
+
+class CompanyExclusionTests(unittest.TestCase):
+    def _job(self, company: str, title: str = "Software Engineer") -> Job:
+        return Job(
+            id=f"x-{company}-{title}",
+            title=title,
+            company=company,
+            location="Seattle, WA",
+            url=f"https://example.com/{company}/{title}",
+            platform="simplify",
+            posted_at="2026-09-11T00:00:00+00:00",
+        )
+
+    def test_default_channels_drop_microsoft_uber_and_meta(self) -> None:
+        channel = ChannelConfig(
+            name="swe-ai-full-time",
+            webhook_url="x",
+            keywords=list(config.DEFAULT_SWE_FULL_TIME_KEYWORDS),
+            excluded_keywords=list(config.DEFAULT_SWE_FULL_TIME_EXCLUDED_KEYWORDS),
+            excluded_companies=list(config.DEFAULT_EXCLUDED_COMPANIES),
+        )
+        jobs = [
+            self._job("Microsoft"),
+            self._job("Microsoft Corporation"),
+            self._job("Uber"),
+            self._job("Uber Freight"),
+            self._job("Meta"),
+            self._job("Meta Platforms, Inc."),
+            self._job("Metabase"),
+            self._job("Uberflip"),
+            self._job("Anthropic"),
+        ]
+        kept = [job.company for job in main.filter_for_channel(jobs, channel)]
+        self.assertEqual(kept, ["Metabase", "Uberflip", "Anthropic"])
+
+    def test_no_excluded_companies_keeps_everything(self) -> None:
+        channel = ChannelConfig(name="c", webhook_url="x", keywords=["software engineer"])
+        jobs = [self._job("Microsoft"), self._job("Uber")]
+        self.assertEqual(len(main.filter_for_channel(jobs, channel)), 2)
 
 
 class LocationFilterTests(unittest.TestCase):
@@ -188,6 +293,8 @@ class ChannelLoadingTests(unittest.TestCase):
         self.assertEqual([channel.name for channel in channels], ["pm-jobs", "swe-ai-full-time"])
         self.assertEqual(channels[1].webhook_url, "https://discord.com/api/webhooks/fulltime-env")
         self.assertEqual(channels[0].excluded_locations, config.DEFAULT_EXCLUDED_LOCATIONS)
+        for channel in channels:
+            self.assertEqual(channel.excluded_companies, config.DEFAULT_EXCLUDED_COMPANIES)
 
     def test_channels_json_can_add_and_override_env_channels(self) -> None:
         raw_channels = json.dumps(
@@ -199,6 +306,7 @@ class ChannelLoadingTests(unittest.TestCase):
                     "excluded_keywords": ["senior"],
                     "locations": ["remote"],
                     "excluded_locations": ["canada"],
+                    "excluded_companies": ["  Uber ", ""],
                 },
                 {
                     "name": "quant-jobs",
@@ -222,7 +330,9 @@ class ChannelLoadingTests(unittest.TestCase):
         self.assertEqual(channels[0].webhook_url, "https://discord.com/api/webhooks/override")
         self.assertEqual(channels[0].keywords, ["product manager"])
         self.assertEqual(channels[0].excluded_locations, ["canada"])
+        self.assertEqual(channels[0].excluded_companies, ["Uber"])
         self.assertEqual(channels[1].excluded_locations, [])
+        self.assertEqual(channels[1].excluded_companies, [])
 
 
 class DedupeBehaviorTests(unittest.TestCase):
@@ -339,16 +449,28 @@ class RecentPostingFilterTests(unittest.TestCase):
         )
 
     def test_date_only_timestamps_get_a_day_of_grace(self) -> None:
-        now = datetime.now(tz=timezone.utc)
-        thirty_hours_ago = (now - timedelta(hours=30))
-        sixty_hours_ago = (now - timedelta(hours=60))
+        # The clock is frozen because this assertion is genuinely time-of-day
+        # dependent. A date-only value resolves to MIDNIGHT of that date, so a job
+        # posted 30h ago is 30h + its time-of-day old once truncated — between 30h
+        # and 54h. The grace window is only 48h (24h + 24h), so with a live clock
+        # this test passes or fails depending on the hour it runs at.
+        frozen = datetime(2026, 9, 17, 12, 0, 0, tzinfo=timezone.utc)
+
+        class _Frozen(datetime):
+            @classmethod
+            def now(cls, tz=None):
+                return frozen
+
+        thirty_hours_ago = frozen - timedelta(hours=30)   # 2026-09-16T06:00Z -> date 09-16 = 36h
+        sixty_hours_ago = frozen - timedelta(hours=60)    # 2026-09-15T00:00Z -> date 09-15 = 60h
         jobs = [
             self._job(thirty_hours_ago.isoformat()),          # precise: outside 24h -> dropped
-            self._job(thirty_hours_ago.date().isoformat()),   # date-only: within grace -> kept
-            self._job(sixty_hours_ago.date().isoformat()),    # date-only: too old -> dropped
+            self._job(thirty_hours_ago.date().isoformat()),   # date-only 36h: within 48h -> kept
+            self._job(sixty_hours_ago.date().isoformat()),    # date-only 60h: too old -> dropped
             self._job("Unknown"),                             # unparseable -> kept
         ]
-        with patch("main.config.RECENT_POSTING_MAX_AGE_HOURS", 24):
+        with patch("main.config.RECENT_POSTING_MAX_AGE_HOURS", 24), \
+             patch("main.datetime", _Frozen):
             recent = main.filter_recent_jobs(jobs)
         self.assertEqual(
             [job.posted_at for job in recent],
