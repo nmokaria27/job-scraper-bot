@@ -1722,8 +1722,148 @@
         "platform": "zapply",
         "posted_at": "Unknown",
         "queued_at": "2026-09-17T22:07:33.830059+00:00"
+      },
+      {
+        "id": "jobright-308845d9fd52",
+        "seen_keys": [
+          "jobright-308845d9fd52",
+          "url:https://jobright.ai/jobs/info/6aac53fe636cddf7396f395a"
+        ],
+        "title": "Software Test Engineer",
+        "company": "Cala Health",
+        "location": "United States",
+        "url": "https://jobright.ai/jobs/info/6aac53fe636cddf7396f395a?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-17",
+        "queued_at": "2026-09-18T00:15:02.037479+00:00"
+      },
+      {
+        "id": "jobright-a6556b1b39d0",
+        "seen_keys": [
+          "jobright-a6556b1b39d0",
+          "url:https://jobright.ai/jobs/info/6aa00da13b5aa83237b06a5c"
+        ],
+        "title": "Frontend Supervisor- Fulltime- Open Availability",
+        "company": "The TJX Companies, Inc.",
+        "location": "Virginia Beach, VA, United States",
+        "url": "https://jobright.ai/jobs/info/6aa00da13b5aa83237b06a5c?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-17",
+        "queued_at": "2026-09-18T00:15:02.037497+00:00"
+      },
+      {
+        "id": "jobright-045a2a68f55e",
+        "seen_keys": [
+          "jobright-045a2a68f55e",
+          "url:https://jobright.ai/jobs/info/6a737d498cd88e7ccbf58bd4"
+        ],
+        "title": "Software Developer - Junior (Team 01)",
+        "company": "Amentum",
+        "location": "Washington, DC, United States",
+        "url": "https://jobright.ai/jobs/info/6a737d498cd88e7ccbf58bd4?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-17",
+        "queued_at": "2026-09-18T00:15:02.037511+00:00"
+      },
+      {
+        "id": "jobright-83c128e7e42e",
+        "seen_keys": [
+          "jobright-83c128e7e42e",
+          "url:https://jobright.ai/jobs/info/6aac58133e3ce93970c7d1e8"
+        ],
+        "title": "Junior Developer",
+        "company": "Pharmacy Innovations",
+        "location": "Denton, TX, United States",
+        "url": "https://jobright.ai/jobs/info/6aac58133e3ce93970c7d1e8?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-17",
+        "queued_at": "2026-09-18T00:15:02.037524+00:00"
+      },
+      {
+        "id": "gradtracker-5d45831fdda8",
+        "seen_keys": [
+          "gradtracker-5d45831fdda8",
+          "url:https://apply.careers.microsoft.com/careers/job/1970393556928331"
+        ],
+        "title": "Software Engineer",
+        "company": "Microsoft",
+        "location": "United States, Multiple Locations, Multiple Locations, United States",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
+        "platform": "gradtracker",
+        "posted_at": "2026-09-17",
+        "queued_at": "2026-09-18T00:15:02.037533+00:00"
+      },
+      {
+        "id": "gradtracker-6d9c2f1ec49e",
+        "seen_keys": [
+          "gradtracker-6d9c2f1ec49e",
+          "url:https://careers.qualcomm.com/careers/job/446717394529"
+        ],
+        "title": "IOT Software Engineer",
+        "company": "Qualcomm",
+        "location": "San Diego, California, United States of America, United States",
+        "url": "https://careers.qualcomm.com/careers/job/446717394529",
+        "platform": "gradtracker",
+        "posted_at": "2026-09-17",
+        "queued_at": "2026-09-18T00:15:02.037542+00:00"
+      },
+      {
+        "id": "amazon-10552707",
+        "seen_keys": [
+          "amazon-10552707",
+          "url:https://www.amazon.jobs/en/jobs/10552707/software-development-engineer-aws-lambda"
+        ],
+        "title": "Software Development Engineer, AWS Lambda",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10552707/software-development-engineer-aws-lambda",
+        "platform": "amazon",
+        "posted_at": "2026-09-17",
+        "queued_at": "2026-09-18T00:15:02.037552+00:00"
+      },
+      {
+        "id": "amazon-10552775",
+        "seen_keys": [
+          "amazon-10552775",
+          "url:https://www.amazon.jobs/en/jobs/10552775/software-development-engineer-agentic-ai-devops"
+        ],
+        "title": "Software Development Engineer, Agentic AI DevOps",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10552775/software-development-engineer-agentic-ai-devops",
+        "platform": "amazon",
+        "posted_at": "2026-09-17",
+        "queued_at": "2026-09-18T00:15:02.037562+00:00"
+      },
+      {
+        "id": "amazon-10552986",
+        "seen_keys": [
+          "amazon-10552986",
+          "url:https://www.amazon.jobs/en/jobs/10552986/machine-learning-compiler-engineer-aws-neuron-annapurna-labs"
+        ],
+        "title": "Machine Learning - Compiler Engineer , AWS Neuron, Annapurna Labs",
+        "company": "Amazon",
+        "location": "Cupertino, California, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10552986/machine-learning-compiler-engineer-aws-neuron-annapurna-labs",
+        "platform": "amazon",
+        "posted_at": "2026-09-17",
+        "queued_at": "2026-09-18T00:15:02.037570+00:00"
+      },
+      {
+        "id": "zapply-c3f9e1318416",
+        "seen_keys": [
+          "zapply-c3f9e1318416",
+          "url:https://zapply.jobs/l/d/pinpoint-impulsespace-581796"
+        ],
+        "title": "Identity Governance Engineer",
+        "company": "Impulse Space",
+        "location": "Redondo Beach, California",
+        "url": "https://zapply.jobs/l/d/pinpoint-impulsespace-581796?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "Unknown",
+        "queued_at": "2026-09-18T00:15:02.037579+00:00"
       }
     ]
   },
-  "last_run": "2026-09-17T22:07:34.902666+00:00"
+  "last_run": "2026-09-18T00:15:02.460418+00:00"
 }
