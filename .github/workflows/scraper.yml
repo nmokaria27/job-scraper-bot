@@ -84,6 +84,7 @@ jobs:
           ATS_CONCURRENCY: ${{ vars.ATS_CONCURRENCY }}
           SEND_NO_NEW_SUMMARY: ${{ vars.SEND_NO_NEW_SUMMARY }}
           INCLUDE_DISCOVERED_COMPANIES: ${{ vars.INCLUDE_DISCOVERED_COMPANIES }}
+          INCLUDE_NON_SPONSORING_COMPANIES: ${{ vars.INCLUDE_NON_SPONSORING_COMPANIES }}
           DISCOVERED_COMPANIES_PATH: ${{ vars.DISCOVERED_COMPANIES_PATH }}
           # Source overrides (optional — all have defaults in config.py)
           SIMPLIFY_URLS: ${{ vars.SIMPLIFY_URLS }}

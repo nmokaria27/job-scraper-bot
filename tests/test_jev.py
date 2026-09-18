@@ -490,3 +490,54 @@ class PromotionCandidateTests(unittest.TestCase):
     def test_foreign_location_is_never_a_candidate(self) -> None:
         jobs = [self._job("Vibration Analyst", location="Toronto, ON, CA")]
         self.assertEqual(main.promotion_candidates(jobs, self.channel), [])
+
+
+class SponsorshipFilterTests(unittest.TestCase):
+    """US-person-only employers must be excluded by default, from EVERY source.
+
+    They arrive mostly from the aggregator feeds rather than companies.py, so the
+    filter has to be a company-name exclusion, not just an ATS-list split.
+    """
+
+    def _excluded(self, company: str) -> bool:
+        from scrapers.base import company_is_excluded
+        return company_is_excluded(company, config.effective_excluded_companies())
+
+    def test_defense_primes_are_excluded_by_default(self) -> None:
+        for company in ("Lockheed Martin", "Northrop Grumman", "L3Harris Technologies",
+                        "BAE Systems", "General Dynamics", "Anduril Industries"):
+            self.assertTrue(self._excluded(company), company)
+
+    def test_federal_integrators_are_excluded_by_default(self) -> None:
+        for company in ("CACI International", "Leidos", "Booz Allen Hamilton",
+                        "Peraton", "Noblis", "MITRE", "Guidehouse", "SAIC"):
+            self.assertTrue(self._excluded(company), company)
+
+    def test_commercial_employers_are_not_excluded(self) -> None:
+        for company in ("Stripe", "Databricks", "OpenAI", "Anthropic", "Vercel",
+                        "Crusoe", "CoreWeave", "Snowflake"):
+            self.assertFalse(self._excluded(company), company)
+
+    def test_whole_word_matching_avoids_false_positives(self) -> None:
+        """"bae" must not hit "Bae Systems Inc"-alikes via substring matching."""
+        self.assertFalse(self._excluded("Metabase"))
+        self.assertFalse(self._excluded("Baemin"))
+        self.assertTrue(self._excluded("BAE Systems"))
+
+    def test_base_exclusions_are_preserved(self) -> None:
+        for company in ("Microsoft", "Uber", "Meta"):
+            self.assertTrue(self._excluded(company), company)
+
+    def test_flag_restores_non_sponsoring_employers(self) -> None:
+        from scrapers.base import company_is_excluded
+        with patch.object(config, "INCLUDE_NON_SPONSORING_COMPANIES", True):
+            eff = config.effective_excluded_companies()
+        self.assertFalse(company_is_excluded("Lockheed Martin", eff))
+        self.assertTrue(company_is_excluded("Microsoft", eff))
+
+    def test_us_only_ats_boards_are_out_of_the_default_list(self) -> None:
+        import companies
+        self.assertNotIn("andurilindustries", companies.COMPANIES["greenhouse"])
+        self.assertNotIn("skydio", companies.COMPANIES["ashby"])
+        self.assertIn("andurilindustries", companies.US_ONLY_COMPANIES["greenhouse"])
+        self.assertIn("skydio", companies.US_ONLY_COMPANIES["ashby"])

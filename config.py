@@ -577,11 +577,100 @@ DEFAULT_EXCLUDED_LOCATIONS: list[str] = [
 
 # Employers never notified on any built-in channel. Whole-word match on the
 # company name, so "meta" hits "Meta" / "Meta Platforms" but not "Metabase".
+# ---------------------------------------------------------------------------
+# Sponsorship / work-authorization filtering
+#
+# IMPORTANT, read before editing: per-company H-1B sponsorship cannot be read
+# from any job board API. It lives in DOL LCA disclosure filings. This list is
+# therefore NOT a verified sponsorship database — it is the structural cases
+# only: US defense primes, federal-services integrators and ITAR-controlled
+# employers, where most engineering roles legally require a US person
+# (citizen or permanent resident) regardless of visa sponsorship policy.
+#
+# These arrive overwhelmingly from the AGGREGATOR sources (zapply, speedyapply,
+# jobright), not from companies.py, so excluding them at the ATS list would not
+# work — it has to be a company-name exclusion applied to every source.
+# Measured 2026-09-17: 27 of 214 swe-channel postings (13%) came from these.
+#
+# Matched whole-word against the company name by scrapers.base.company_is_excluded,
+# so "bae" hits "BAE Systems" and not "Bae Inc".
+# ---------------------------------------------------------------------------
+
+DEFAULT_NON_SPONSORING_COMPANIES: list[str] = [
+    # Defense primes and ITAR-controlled manufacturers
+    "lockheed",
+    "lockheed martin",
+    "northrop",
+    "northrop grumman",
+    "raytheon",
+    "rtx",
+    "l3harris",
+    "bae",
+    "bae systems",
+    "general dynamics",
+    "huntington ingalls",
+    "sierra nevada corporation",
+    "aerojet",
+    "anduril",
+    "shield ai",
+    "epirus",
+    "applied intuition defense",
+    # Federal services, integrators and FFRDCs
+    "caci",
+    "leidos",
+    "booz allen",
+    "booz allen hamilton",
+    "saic",
+    "peraton",
+    "mantech",
+    "parsons",
+    "amentum",
+    "kbr",
+    "noblis",
+    "mitre",
+    "draper",
+    "guidehouse",
+    "aerospace corporation",
+    "battelle",
+    "sandia",
+    "lawrence livermore",
+    "llnl",
+    "los alamos",
+    "pacific northwest national",
+    "johns hopkins applied physics",
+    "nuclear",
+    "westinghouse",
+]
+
+# Set INCLUDE_NON_SPONSORING_COMPANIES=true to stop filtering them (e.g. if you
+# become a US person, or want to see cleared roles anyway).
+INCLUDE_NON_SPONSORING_COMPANIES: bool = _parse_bool(
+    "INCLUDE_NON_SPONSORING_COMPANIES", False
+)
+
 DEFAULT_EXCLUDED_COMPANIES: list[str] = [
     "microsoft",
     "uber",
     "meta",
 ]
+
+
+def effective_excluded_companies(base: list[str] | None = None) -> list[str]:
+    """Employer exclusions actually applied to a channel.
+
+    Unless INCLUDE_NON_SPONSORING_COMPANIES is set, the defense / federal-services
+    / ITAR employers in DEFAULT_NON_SPONSORING_COMPANIES are appended, because
+    those roles require a US person and are unreachable on a student visa. They
+    come mostly from the aggregator feeds, so this has to apply to every source.
+    """
+    combined = list(base if base is not None else DEFAULT_EXCLUDED_COMPANIES)
+    if not INCLUDE_NON_SPONSORING_COMPANIES:
+        seen = {c.strip().lower() for c in combined}
+        for name in DEFAULT_NON_SPONSORING_COMPANIES:
+            if name.strip().lower() not in seen:
+                combined.append(name)
+                seen.add(name.strip().lower())
+    return combined
 
 # Single-channel fallback (DISCORD_WEBHOOK_URL) uses the full-time defaults.
 KEYWORDS: list[str] = _parse_list("KEYWORDS", default=DEFAULT_SWE_FULL_TIME_KEYWORDS)
@@ -869,7 +958,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                     excluded_keywords=list(DEFAULT_PM_EXCLUDED_KEYWORDS),
                     locations=list(DEFAULT_LOCATIONS),
                     excluded_locations=list(DEFAULT_EXCLUDED_LOCATIONS),
-                    excluded_companies=list(DEFAULT_EXCLUDED_COMPANIES),
+                    excluded_companies=effective_excluded_companies(),
                 )
             )
         if full_time_webhook_url:
@@ -881,7 +970,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                     excluded_keywords=list(DEFAULT_SWE_FULL_TIME_EXCLUDED_KEYWORDS),
                     locations=list(DEFAULT_LOCATIONS),
                     excluded_locations=list(DEFAULT_EXCLUDED_LOCATIONS),
-                    excluded_companies=list(DEFAULT_EXCLUDED_COMPANIES),
+                    excluded_companies=effective_excluded_companies(),
                 )
             )
         return default_channels
@@ -1005,7 +1094,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                 excluded_keywords=EXCLUDED_KEYWORDS,
                 locations=LOCATIONS,
                 excluded_locations=EXCLUDED_LOCATIONS,
-                excluded_companies=EXCLUDED_COMPANIES,
+                excluded_companies=effective_excluded_companies(EXCLUDED_COMPANIES),
             )
         ]
         print("[INFO] Using single-channel mode (DISCORD_WEBHOOK_URL)")

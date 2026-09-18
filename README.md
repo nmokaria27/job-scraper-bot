@@ -57,6 +57,7 @@ Optional repository **Variables** (not secrets):
 | `JEV_RANKING` | `false` | Let Jev's fit score reorder the cap (changes order, never membership) |
 | `JEV_ENFORCE` | `false` | Let Jev actually drop jobs — read the section below before enabling |
 | `JEV_PROMOTE` | `false` | Let Jev surface jobs the keyword filter rejected (bounded; see below) |
+| `INCLUDE_NON_SPONSORING_COMPANIES` | `false` | Include US-person-only defense/federal employers |
 | `JEV_FIT_FLOOR`, `JEV_CONCURRENCY`, `JEV_MAX_CALLS_PER_RUN`, `JEV_RUN_DEADLINE_SECONDS`, `JEV_MODEL` | see `config.py` | Judge tuning |
 
 ### 4. Enable Actions write permission
@@ -142,6 +143,32 @@ Workday tenants use `WORKDAY_TENANTS="tenant:wdN:site:Label,..."`; find the valu
 | Hacker News | JSON | Monthly "Who is Hiring?" thread |
 
 Evaluated and not used: intern-list.com (Airtable embeds, no API — jobright-ai repos are the same data), briansjobsearch.com (a search-query builder, no listings), Microsoft careers API (ignores query/paging), Google/Meta/Apple/Uber/Tesla careers (no public JSON).
+
+---
+
+## Work authorization filtering
+
+Tuned for an international candidate. US defense primes (Lockheed, Northrop, L3Harris, BAE,
+General Dynamics, Anduril), federal-services integrators (CACI, Leidos, Booz Allen, Peraton,
+SAIC, MITRE, Noblis) and national labs are excluded by default: most engineering roles there
+require a US person — citizen or permanent resident — regardless of visa sponsorship policy.
+
+Measured 2026-09-17: **23 of 214** swe-channel postings (11%) came from these employers.
+
+Two halves, because they arrive from different places:
+
+| | where | list |
+|---|---|---|
+| Company-name exclusion | every source, mostly the aggregator feeds | `config.DEFAULT_NON_SPONSORING_COMPANIES` (41 entries) |
+| ATS board split | `companies.py` | `US_ONLY_COMPANIES` (anduril, shield-ai, skydio) |
+
+Set the repo variable `INCLUDE_NON_SPONSORING_COMPANIES = true` to include both.
+
+**Important caveat:** per-company H-1B sponsorship is *not* knowable from any job board API — it
+lives in DOL LCA disclosure filings. These lists cover the **structural** cases only (ITAR /
+clearance / federal), which are reliable. Everything remaining is commercial, where sponsorship is
+common but **not guaranteed**. Verify before applying. Jev also asks a `requires_clearance` question
+per posting, which catches cleared roles at employers not on the list.
 
 ---
 

@@ -140,6 +140,17 @@ Phase 0 measurements (three scrape windows, 2026-09-17): 0/28 regex-accepted gol
 dropped; explicit new-grad roles filling the 25-cap went 2-3 → 25 under fit ranking; ~300 calls,
 ~15s, ~$0.017 per run.
 
+**Work-authorization filtering** (2026-09-17): the bot targets an international candidate, so US
+defense primes, federal-services integrators and ITAR employers are excluded by default via
+`config.DEFAULT_NON_SPONSORING_COMPANIES` (41 whole-word company names) plus
+`companies.US_ONLY_COMPANIES` (3 ATS boards). `INCLUDE_NON_SPONSORING_COMPANIES=true` restores both.
+The company-name half matters more than the ATS half: these employers arrive mostly from the
+aggregator feeds, not from `companies.py`, so an ATS-list split alone would not filter them.
+Measured at 23/214 (11%) of swe-channel postings. Note this is NOT a sponsorship database —
+per-company H-1B status lives in DOL LCA filings and is unknowable from a job board API; the lists
+cover structural US-person requirements only. `config.effective_excluded_companies()` is the single
+place that combines base + non-sponsoring exclusions; channel defaults call it.
+
 **Dedupe**: within a run, jobs sharing a normalised URL *or* the same company|title|location collapse to the highest-priority source (`PLATFORM_DEDUPE_PRIORITY`). Persisted seen-state uses only id + URL, because big employers re-post the same title/location as genuinely new reqs.
 
 **Per-channel seen-state**: `seen_jobs.json["channels"][name]`. Channels no longer configured are pruned on normal runs (never on `--init`). Only successfully posted jobs are marked seen; capped ones are queued (6h TTL) and marked seen.

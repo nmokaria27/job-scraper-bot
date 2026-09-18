@@ -122,7 +122,6 @@ COMPANIES: dict[str, list[str]] = {
 
         # --- added 2026-09-17: verified live, job counts at time of check ---
         "airtable",                # 16 jobs
-        "andurilindustries",       # 2349 jobs
         "coreweave",               # 295 jobs
         "databento",               # 14 jobs
         "fastly",                  # 43 jobs
@@ -216,7 +215,6 @@ COMPANIES: dict[str, list[str]] = {
         "benchling",
 
         # Defense / autonomy / consumer
-        "shield-ai",
         "applied",        # Applied Intuition
         "handshake",
         "substack",
@@ -248,13 +246,43 @@ COMPANIES: dict[str, list[str]] = {
         "prefect",                 # 8 jobs
         "reflectionai",            # 56 jobs
         "resend",                  # 9 jobs
-        "skydio",                  # 133 jobs
         "trychroma",               # 1 jobs
         "weaviate",                # 2 jobs
         "workos",                  # 27 jobs
         "worldlabs",               # 8 jobs
         "zapier",                  # 7 jobs
         "zed",                     # 1 jobs
+    ],
+}
+
+
+# ---------------------------------------------------------------------------
+# US-person-only employers
+#
+# Defense primes and ITAR-controlled boards. Most engineering roles here require
+# US citizenship or permanent residency regardless of visa sponsorship policy,
+# so they are excluded by default for an international candidate. Set
+# INCLUDE_NON_SPONSORING_COMPANIES=true to scrape them anyway.
+#
+# This is the ATS half of the filter. The larger half is
+# config.DEFAULT_NON_SPONSORING_COMPANIES, which excludes the same class of
+# employer arriving from the aggregator feeds by company NAME — that is where
+# most of them come from (13% of swe-channel postings, measured 2026-09-17).
+#
+# Caveat: per-company H-1B sponsorship is not knowable from a job board API; it
+# lives in DOL LCA disclosure data. These lists cover the structural cases only.
+# Everything in COMPANIES above is commercial, where sponsorship is common but
+# NOT guaranteed — verify before applying.
+# ---------------------------------------------------------------------------
+
+US_ONLY_COMPANIES: dict[str, list[str]] = {
+    "greenhouse": [
+        "andurilindustries",   # 2349 jobs, mostly US persons only
+    ],
+    "lever": [],
+    "ashby": [
+        "shield-ai",           # defense autonomy, US persons
+        "skydio",              # 133 jobs, significant ITAR exposure
     ],
 }
 
@@ -297,8 +325,24 @@ def get_companies() -> dict[str, list[str]]:
     Controlled by:
       - INCLUDE_DISCOVERED_COMPANIES (default: true)
       - DISCOVERED_COMPANIES_PATH (default: discovered_companies.json)
+      - INCLUDE_NON_SPONSORING_COMPANIES (default: false) — when true, the
+        US-person-only defense/ITAR boards are scraped too.
     """
+    import config as _config
+
     merged = deepcopy(COMPANIES)
+
+    if _config.INCLUDE_NON_SPONSORING_COMPANIES:
+        added = 0
+        for platform, slugs in US_ONLY_COMPANIES.items():
+            seen = set(merged.get(platform, []))
+            for slug in slugs:
+                if slug not in seen:
+                    merged.setdefault(platform, []).append(slug)
+                    seen.add(slug)
+                    added += 1
+        if added:
+            print(f"[INFO] Included {added} US-person-only ATS board(s)")
     include_discovered = os.getenv("INCLUDE_DISCOVERED_COMPANIES", "true").strip().lower()
     if include_discovered not in {"1", "true", "yes", "y", "on"}:
         return merged

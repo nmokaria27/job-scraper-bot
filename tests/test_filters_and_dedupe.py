@@ -294,7 +294,14 @@ class ChannelLoadingTests(unittest.TestCase):
         self.assertEqual(channels[1].webhook_url, "https://discord.com/api/webhooks/fulltime-env")
         self.assertEqual(channels[0].excluded_locations, config.DEFAULT_EXCLUDED_LOCATIONS)
         for channel in channels:
-            self.assertEqual(channel.excluded_companies, config.DEFAULT_EXCLUDED_COMPANIES)
+            # Built-in channels get the base exclusions PLUS the US-person-only
+            # defense/federal employers, unless INCLUDE_NON_SPONSORING_COMPANIES.
+            self.assertEqual(
+                channel.excluded_companies, config.effective_excluded_companies()
+            )
+            for name in config.DEFAULT_EXCLUDED_COMPANIES:
+                self.assertIn(name, channel.excluded_companies)
+            self.assertIn("lockheed", channel.excluded_companies)
 
     def test_channels_json_can_add_and_override_env_channels(self) -> None:
         raw_channels = json.dumps(
