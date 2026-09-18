@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
-      "seen_at": "2026-08-19T14:43:47.153515+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579",
-      "seen_at": "2026-08-19T14:43:47.154017+00:00"
-    },
-    {
-      "id": "jobright-9768744ba12b",
-      "seen_at": "2026-08-19T16:13:37.314157+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a85b3ab2f4f0014cae257e9",
-      "seen_at": "2026-08-19T16:13:37.314659+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5393452008",
-      "seen_at": "2026-08-19T16:50:07.874727+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5393452008",
-      "seen_at": "2026-08-19T16:50:07.875163+00:00"
-    },
-    {
-      "id": "ashby-openai-ca2fe3e4-8377-461f-b6f2-80d127f4b94d",
-      "seen_at": "2026-08-19T16:50:09.130082+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/ca2fe3e4-8377-461f-b6f2-80d127f4b94d",
-      "seen_at": "2026-08-19T16:50:09.130603+00:00"
-    },
-    {
-      "id": "jobright-6d92cb336bb9",
-      "seen_at": "2026-08-19T17:12:44.144133+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a85c18de459fa3baa8639bf",
-      "seen_at": "2026-08-19T17:12:44.144844+00:00"
-    },
-    {
-      "id": "jobright-5c7048f50c60",
-      "seen_at": "2026-08-19T17:12:44.145439+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a85c02c4afae74a08340f1e",
-      "seen_at": "2026-08-19T17:12:44.146012+00:00"
-    },
-    {
-      "id": "greenhouse-vercel-5649459004",
-      "seen_at": "2026-08-19T17:44:31.510950+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/5649459004",
-      "seen_at": "2026-08-19T17:44:31.511388+00:00"
-    },
-    {
       "id": "jobright-274c4efb3718",
       "seen_at": "2026-08-19T18:47:41.780578+00:00"
     },
@@ -54931,20 +54875,364 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605058",
       "seen_at": "2026-09-18T14:27:08.981991+00:00"
+    },
+    {
+      "id": "jobright-4886f2b978e5",
+      "seen_at": "2026-09-18T17:51:54.247426+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad59563dbb1f8967cecf2b",
+      "seen_at": "2026-09-18T17:51:54.248290+00:00"
+    },
+    {
+      "id": "amazon-10553644",
+      "seen_at": "2026-09-18T17:51:54.249087+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10553644/product-manager-technical",
+      "seen_at": "2026-09-18T17:51:54.249847+00:00"
+    },
+    {
+      "id": "zapply-318d1ef788d0",
+      "seen_at": "2026-09-18T17:51:54.250595+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2019819",
+      "seen_at": "2026-09-18T17:51:54.251367+00:00"
+    },
+    {
+      "id": "zapply-b3d41bad8811",
+      "seen_at": "2026-09-18T17:51:54.252134+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052168",
+      "seen_at": "2026-09-18T17:51:54.252882+00:00"
+    },
+    {
+      "id": "jobright-b6fadc11eda5",
+      "seen_at": "2026-09-18T17:51:54.253633+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad53de0ebc8fb2313e8d6d",
+      "seen_at": "2026-09-18T17:51:54.254359+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2019819",
+      "seen_at": "2026-09-18T17:51:54.255136+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Manager---AI-Infra-Resilience_JR2019819",
+      "seen_at": "2026-09-18T17:51:54.255883+00:00"
+    },
+    {
+      "id": "zapply-5b72bbd6bf2b",
+      "seen_at": "2026-09-18T17:52:15.245075+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-togetherai-5211582007",
+      "seen_at": "2026-09-18T17:52:15.246036+00:00"
+    },
+    {
+      "id": "jobright-2c0d160bbede",
+      "seen_at": "2026-09-18T17:52:15.246946+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f8203e2030208f276eefd",
+      "seen_at": "2026-09-18T17:52:15.247777+00:00"
+    },
+    {
+      "id": "jobright-6b5a56968ef6",
+      "seen_at": "2026-09-18T17:52:15.248603+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f81e319ce4e6e9d938bdd",
+      "seen_at": "2026-09-18T17:52:15.249456+00:00"
+    },
+    {
+      "id": "jobright-57c856fde909",
+      "seen_at": "2026-09-18T17:52:15.250313+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a75dfbfbb6ca93ae560fa9f",
+      "seen_at": "2026-09-18T17:52:15.251158+00:00"
+    },
+    {
+      "id": "jobright-25d9ce1edb42",
+      "seen_at": "2026-09-18T17:52:15.252021+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a75bab8bb6ca93ae560f49d",
+      "seen_at": "2026-09-18T17:52:15.252878+00:00"
+    },
+    {
+      "id": "zapply-dca4333c8a33",
+      "seen_at": "2026-09-18T17:52:15.253729+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34824",
+      "seen_at": "2026-09-18T17:52:15.254546+00:00"
+    },
+    {
+      "id": "greenhouse-togetherai-5211582007",
+      "seen_at": "2026-09-18T17:52:15.255381+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+      "seen_at": "2026-09-18T17:52:15.256204+00:00"
+    },
+    {
+      "id": "jobright-292f3ee74ecd",
+      "seen_at": "2026-09-18T17:52:15.257039+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a56beaee9b77f668bd65969",
+      "seen_at": "2026-09-18T17:52:15.257903+00:00"
+    },
+    {
+      "id": "jobright-757476b845ff",
+      "seen_at": "2026-09-18T17:52:15.258762+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad402d6956574eac8b49af",
+      "seen_at": "2026-09-18T17:52:15.259593+00:00"
+    },
+    {
+      "id": "jobright-a1453fa0c41c",
+      "seen_at": "2026-09-18T17:52:15.260458+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad49360ebc8fb2313e899f",
+      "seen_at": "2026-09-18T17:52:15.261303+00:00"
+    },
+    {
+      "id": "jobright-018af6275a8d",
+      "seen_at": "2026-09-18T17:52:15.262168+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad34c02e757fcb5c8b7309",
+      "seen_at": "2026-09-18T17:52:15.263051+00:00"
+    },
+    {
+      "id": "zapply-b666cea6f36c",
+      "seen_at": "2026-09-18T17:52:15.263904+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-campfire-2b30b7a1-3649-40e5-804a-ea07bfc94318",
+      "seen_at": "2026-09-18T17:52:15.264755+00:00"
+    },
+    {
+      "id": "zapply-ec0edb8521f4",
+      "seen_at": "2026-09-18T17:52:15.265603+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R168308",
+      "seen_at": "2026-09-18T17:52:15.266450+00:00"
+    },
+    {
+      "id": "zapply-0d64fe8298a2",
+      "seen_at": "2026-09-18T17:52:15.267291+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R166886",
+      "seen_at": "2026-09-18T17:52:15.268133+00:00"
+    },
+    {
+      "id": "zapply-d32194743af6",
+      "seen_at": "2026-09-18T17:52:15.268964+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-waymo-8212478",
+      "seen_at": "2026-09-18T17:52:15.269788+00:00"
+    },
+    {
+      "id": "zapply-76bcb14535df",
+      "seen_at": "2026-09-18T17:52:15.270605+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R168187",
+      "seen_at": "2026-09-18T17:52:15.271447+00:00"
+    },
+    {
+      "id": "zapply-83ac6505ce9a",
+      "seen_at": "2026-09-18T17:52:15.272279+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-iterativehealth-4714222006",
+      "seen_at": "2026-09-18T17:52:15.273116+00:00"
+    },
+    {
+      "id": "zapply-a53d249603e4",
+      "seen_at": "2026-09-18T17:52:15.273948+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-fcae5141-6374-4079-94a9-384bb4d816da",
+      "seen_at": "2026-09-18T17:52:15.274777+00:00"
+    },
+    {
+      "id": "gradtracker-84c6d4bbc966",
+      "seen_at": "2026-09-18T17:52:15.275604+00:00"
+    },
+    {
+      "id": "url:https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-D/Software-Engineer_R027077",
+      "seen_at": "2026-09-18T17:52:15.276430+00:00"
+    },
+    {
+      "id": "amazon-10553687",
+      "seen_at": "2026-09-18T17:52:15.277268+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10553687/software-engineer-data-platform",
+      "seen_at": "2026-09-18T17:52:15.278092+00:00"
+    },
+    {
+      "id": "zapply-2f34767a6901",
+      "seen_at": "2026-09-18T17:52:15.278935+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026521347",
+      "seen_at": "2026-09-18T17:52:15.279755+00:00"
+    },
+    {
+      "id": "zapply-1c5718b82838",
+      "seen_at": "2026-09-18T17:52:15.280570+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-ms-external-PT-JR041494",
+      "seen_at": "2026-09-18T17:52:15.281390+00:00"
+    },
+    {
+      "id": "greenhouse-twitch-8821382002",
+      "seen_at": "2026-09-18T17:52:15.282221+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/twitch/jobs/8821382002",
+      "seen_at": "2026-09-18T17:52:15.283038+00:00"
+    },
+    {
+      "id": "greenhouse-twitch-8817023002",
+      "seen_at": "2026-09-18T17:52:15.283866+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/twitch/jobs/8817023002",
+      "seen_at": "2026-09-18T17:52:15.284685+00:00"
+    },
+    {
+      "id": "zapply-9138e45a54ff",
+      "seen_at": "2026-09-18T17:52:15.285497+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-affa327e-7d27-4172-8624-6bd6c1552b37",
+      "seen_at": "2026-09-18T17:52:15.286320+00:00"
+    },
+    {
+      "id": "amazon-10553505",
+      "seen_at": "2026-09-18T17:52:15.287323+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10553505/applied-scientist-amazon-robotics-amazon-robotics-vulcan-stow",
+      "seen_at": "2026-09-18T17:52:15.288175+00:00"
+    },
+    {
+      "id": "amazon-10553741",
+      "seen_at": "2026-09-18T17:52:15.289022+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10553741/applied-scientist-modeling-and-optimization-modeling-and-optimization",
+      "seen_at": "2026-09-18T17:52:15.289874+00:00"
+    },
+    {
+      "id": "amazon-10553641",
+      "seen_at": "2026-09-18T17:52:15.290747+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10553641/applied-scientist-aws-applied-ai-solutions-life-sciences",
+      "seen_at": "2026-09-18T17:52:15.291607+00:00"
+    },
+    {
+      "id": "jobright-f72c6e91f770",
+      "seen_at": "2026-09-18T17:52:15.292455+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad60d93d96632d741ad629",
+      "seen_at": "2026-09-18T17:52:15.293302+00:00"
+    },
+    {
+      "id": "zapply-58ebac1b84f1",
+      "seen_at": "2026-09-18T17:52:15.294156+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-86584875905098438",
+      "seen_at": "2026-09-18T17:52:15.295015+00:00"
+    },
+    {
+      "id": "jobright-34711ad5260f",
+      "seen_at": "2026-09-18T17:52:15.295858+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a511bc68d7d3e6cf1cbefff",
+      "seen_at": "2026-09-18T17:52:15.296714+00:00"
+    },
+    {
+      "id": "zapply-d7ac1bb02553",
+      "seen_at": "2026-09-18T17:52:15.297565+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-130253079713850054",
+      "seen_at": "2026-09-18T17:52:15.298409+00:00"
+    },
+    {
+      "id": "zapply-f3b9d4383992",
+      "seen_at": "2026-09-18T17:52:15.299261+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2020310",
+      "seen_at": "2026-09-18T17:52:15.300130+00:00"
+    },
+    {
+      "id": "zapply-6d83260d38e0",
+      "seen_at": "2026-09-18T17:52:15.300991+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R169893",
+      "seen_at": "2026-09-18T17:52:15.301857+00:00"
+    },
+    {
+      "id": "ashby-openai-7f76be3a-38d0-4ff4-b997-9f1672e78bc0",
+      "seen_at": "2026-09-18T17:52:15.302706+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/7f76be3a-38d0-4ff4-b997-9f1672e78bc0",
+      "seen_at": "2026-09-18T17:52:15.303538+00:00"
+    },
+    {
+      "id": "ashby-thumbtack-f8e13e37-c559-49e1-9b52-5871ce5cf2ae",
+      "seen_at": "2026-09-18T17:52:15.304377+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/thumbtack/f8e13e37-c559-49e1-9b52-5871ce5cf2ae",
+      "seen_at": "2026-09-18T17:52:15.305212+00:00"
+    },
+    {
+      "id": "ashby-temporal-7b63cf37-2bdb-462c-858c-473167563623",
+      "seen_at": "2026-09-18T17:52:15.306057+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/temporal/7b63cf37-2bdb-462c-858c-473167563623",
+      "seen_at": "2026-09-18T17:52:15.306899+00:00"
+    },
+    {
+      "id": "zapply-5fb46a661beb",
+      "seen_at": "2026-09-18T17:52:15.307734+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142533",
+      "seen_at": "2026-09-18T17:52:15.308562+00:00"
     }
   ],
-  "last_run": "2026-09-18T14:27:09.316439+00:00",
-  "total_notified": 6329,
+  "last_run": "2026-09-18T17:52:15.865959+00:00",
+  "total_notified": 6360,
   "channels": {
     "pm-jobs": [
-      "jobright-9768744ba12b",
-      "url:https://jobright.ai/jobs/info/6a85b3ab2f4f0014cae257e9",
-      "greenhouse-anthropic-5393452008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5393452008",
-      "jobright-6d92cb336bb9",
-      "url:https://jobright.ai/jobs/info/6a85c18de459fa3baa8639bf",
-      "jobright-5c7048f50c60",
-      "url:https://jobright.ai/jobs/info/6a85c02c4afae74a08340f1e",
       "jobright-274c4efb3718",
       "url:https://jobright.ai/jobs/info/6a85dee24afae74a08341cee",
       "jobright-0e57e0e2ed79",
@@ -56789,13 +57077,21 @@
       "workday-adobe-R169989",
       "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Product-Manager---Business-Model-Strategy_R169989",
       "workday-adobe-R170114",
-      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Dir--Product-Management--Adobecom-for-Business_R170114-1"
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Dir--Product-Management--Adobecom-for-Business_R170114-1",
+      "jobright-4886f2b978e5",
+      "url:https://jobright.ai/jobs/info/6aad59563dbb1f8967cecf2b",
+      "amazon-10553644",
+      "url:https://www.amazon.jobs/en/jobs/10553644/product-manager-technical",
+      "zapply-318d1ef788d0",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2019819",
+      "zapply-b3d41bad8811",
+      "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052168",
+      "jobright-b6fadc11eda5",
+      "url:https://jobright.ai/jobs/info/6aad53de0ebc8fb2313e8d6d",
+      "workday-nvidia-JR2019819",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Manager---AI-Infra-Resilience_JR2019819"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-ca2fe3e4-8377-461f-b6f2-80d127f4b94d",
-      "url:https://jobs.ashbyhq.com/openai/ca2fe3e4-8377-461f-b6f2-80d127f4b94d",
-      "greenhouse-vercel-5649459004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/5649459004",
       "greenhouse-anthropic-5392856008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5392856008",
       "simplify-5b1d56c3-edb8-4669-a88c-35690b805b82",
@@ -67917,7 +68213,83 @@
       "jobright-59536bdd1f95",
       "url:https://jobright.ai/jobs/info/6aac7e9e95c707f49dff191d",
       "zapply-899f97341926",
-      "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605058"
+      "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605058",
+      "zapply-5b72bbd6bf2b",
+      "url:https://zapply.jobs/l/d/greenhouse-togetherai-5211582007",
+      "jobright-2c0d160bbede",
+      "url:https://jobright.ai/jobs/info/6a7f8203e2030208f276eefd",
+      "jobright-6b5a56968ef6",
+      "url:https://jobright.ai/jobs/info/6a7f81e319ce4e6e9d938bdd",
+      "jobright-57c856fde909",
+      "url:https://jobright.ai/jobs/info/6a75dfbfbb6ca93ae560fa9f",
+      "jobright-25d9ce1edb42",
+      "url:https://jobright.ai/jobs/info/6a75bab8bb6ca93ae560f49d",
+      "zapply-dca4333c8a33",
+      "url:https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34824",
+      "greenhouse-togetherai-5211582007",
+      "url:https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+      "jobright-292f3ee74ecd",
+      "url:https://jobright.ai/jobs/info/6a56beaee9b77f668bd65969",
+      "jobright-757476b845ff",
+      "url:https://jobright.ai/jobs/info/6aad402d6956574eac8b49af",
+      "jobright-a1453fa0c41c",
+      "url:https://jobright.ai/jobs/info/6aad49360ebc8fb2313e899f",
+      "jobright-018af6275a8d",
+      "url:https://jobright.ai/jobs/info/6aad34c02e757fcb5c8b7309",
+      "zapply-b666cea6f36c",
+      "url:https://zapply.jobs/l/d/ashby-campfire-2b30b7a1-3649-40e5-804a-ea07bfc94318",
+      "zapply-ec0edb8521f4",
+      "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R168308",
+      "zapply-0d64fe8298a2",
+      "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R166886",
+      "zapply-d32194743af6",
+      "url:https://zapply.jobs/l/d/greenhouse-waymo-8212478",
+      "zapply-76bcb14535df",
+      "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R168187",
+      "zapply-83ac6505ce9a",
+      "url:https://zapply.jobs/l/d/greenhouse-iterativehealth-4714222006",
+      "zapply-a53d249603e4",
+      "url:https://zapply.jobs/l/d/amazon-fcae5141-6374-4079-94a9-384bb4d816da",
+      "gradtracker-84c6d4bbc966",
+      "url:https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-D/Software-Engineer_R027077",
+      "amazon-10553687",
+      "url:https://www.amazon.jobs/en/jobs/10553687/software-engineer-data-platform",
+      "zapply-2f34767a6901",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026521347",
+      "zapply-1c5718b82838",
+      "url:https://zapply.jobs/l/d/workday-ms-external-PT-JR041494",
+      "greenhouse-twitch-8821382002",
+      "url:https://job-boards.greenhouse.io/twitch/jobs/8821382002",
+      "greenhouse-twitch-8817023002",
+      "url:https://job-boards.greenhouse.io/twitch/jobs/8817023002",
+      "zapply-9138e45a54ff",
+      "url:https://zapply.jobs/l/d/amazon-affa327e-7d27-4172-8624-6bd6c1552b37",
+      "amazon-10553505",
+      "url:https://www.amazon.jobs/en/jobs/10553505/applied-scientist-amazon-robotics-amazon-robotics-vulcan-stow",
+      "amazon-10553741",
+      "url:https://www.amazon.jobs/en/jobs/10553741/applied-scientist-modeling-and-optimization-modeling-and-optimization",
+      "amazon-10553641",
+      "url:https://www.amazon.jobs/en/jobs/10553641/applied-scientist-aws-applied-ai-solutions-life-sciences",
+      "jobright-f72c6e91f770",
+      "url:https://jobright.ai/jobs/info/6aad60d93d96632d741ad629",
+      "zapply-58ebac1b84f1",
+      "url:https://zapply.jobs/l/d/google-86584875905098438",
+      "jobright-34711ad5260f",
+      "url:https://jobright.ai/jobs/info/6a511bc68d7d3e6cf1cbefff",
+      "zapply-d7ac1bb02553",
+      "url:https://zapply.jobs/l/d/google-130253079713850054",
+      "zapply-f3b9d4383992",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2020310",
+      "zapply-6d83260d38e0",
+      "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R169893",
+      "ashby-openai-7f76be3a-38d0-4ff4-b997-9f1672e78bc0",
+      "url:https://jobs.ashbyhq.com/openai/7f76be3a-38d0-4ff4-b997-9f1672e78bc0",
+      "ashby-thumbtack-f8e13e37-c559-49e1-9b52-5871ce5cf2ae",
+      "url:https://jobs.ashbyhq.com/thumbtack/f8e13e37-c559-49e1-9b52-5871ce5cf2ae",
+      "ashby-temporal-7b63cf37-2bdb-462c-858c-473167563623",
+      "url:https://jobs.ashbyhq.com/temporal/7b63cf37-2bdb-462c-858c-473167563623",
+      "zapply-5fb46a661beb",
+      "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142533"
     ]
   }
 }
