@@ -2,118 +2,6 @@
   "channels": {
     "swe-ai-full-time": [
       {
-        "id": "zapply-101bac43aa4d",
-        "seen_keys": [
-          "zapply-101bac43aa4d",
-          "url:https://zapply.jobs/l/d/google-115384521410388678"
-        ],
-        "title": "GPU System Software Engineer",
-        "company": "Google",
-        "location": "United States",
-        "url": "https://zapply.jobs/l/d/google-115384521410388678?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "Unknown",
-        "queued_at": "2026-09-18T14:27:08.972274+00:00"
-      },
-      {
-        "id": "jobright-cffe051c102d",
-        "seen_keys": [
-          "jobright-cffe051c102d",
-          "url:https://jobright.ai/jobs/info/6aa51bcfa77a53f5a156fa24"
-        ],
-        "title": "Controls Software Engineer-Simulation",
-        "company": "Rolls-Royce",
-        "location": "West Lafayette, IN, United States",
-        "url": "https://jobright.ai/jobs/info/6aa51bcfa77a53f5a156fa24?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-18",
-        "queued_at": "2026-09-18T14:27:08.972291+00:00"
-      },
-      {
-        "id": "jobright-118098c9357b",
-        "seen_keys": [
-          "jobright-118098c9357b",
-          "url:https://jobright.ai/jobs/info/6a3aedb4649fdf162930671e"
-        ],
-        "title": "RedHawk Software Engineer",
-        "company": "HBK - Hottinger Br\u00fcel & Kj\u00e6r",
-        "location": "Pompano Beach, US",
-        "url": "https://jobright.ai/jobs/info/6a3aedb4649fdf162930671e?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-18",
-        "queued_at": "2026-09-18T14:27:08.972303+00:00"
-      },
-      {
-        "id": "jobright-05d6c763a4d5",
-        "seen_keys": [
-          "jobright-05d6c763a4d5",
-          "url:https://jobright.ai/jobs/info/6a73795132ebbc14ffb4f2bc"
-        ],
-        "title": "iOS Engineer",
-        "company": "WHOOP",
-        "location": "Boston, MA, United States",
-        "url": "https://jobright.ai/jobs/info/6a73795132ebbc14ffb4f2bc?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-18",
-        "queued_at": "2026-09-18T14:27:08.972315+00:00"
-      },
-      {
-        "id": "jobright-dfb5da9ed4e9",
-        "seen_keys": [
-          "jobright-dfb5da9ed4e9",
-          "url:https://jobright.ai/jobs/info/6a904c927c32860d14cf8841"
-        ],
-        "title": "Full Stack Software Engineer",
-        "company": "impact.com",
-        "location": "Seattle, WA, United States",
-        "url": "https://jobright.ai/jobs/info/6a904c927c32860d14cf8841?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-18",
-        "queued_at": "2026-09-18T14:27:08.972325+00:00"
-      },
-      {
-        "id": "amazon-10553155",
-        "seen_keys": [
-          "amazon-10553155",
-          "url:https://www.amazon.jobs/en/jobs/10553155/software-development-engineer-devices-services-trust-cx-innovations"
-        ],
-        "title": "Software Development Engineer, Devices & Services Trust CX Innovations",
-        "company": "Amazon",
-        "location": "Sunnyvale, California, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10553155/software-development-engineer-devices-services-trust-cx-innovations",
-        "platform": "amazon",
-        "posted_at": "2026-09-18",
-        "queued_at": "2026-09-18T14:27:08.972333+00:00"
-      },
-      {
-        "id": "jobright-59536bdd1f95",
-        "seen_keys": [
-          "jobright-59536bdd1f95",
-          "url:https://jobright.ai/jobs/info/6aac7e9e95c707f49dff191d"
-        ],
-        "title": "Software Development Engineer (GUI)",
-        "company": "Fortinet",
-        "location": "Sunnyvale, CA, United States",
-        "url": "https://jobright.ai/jobs/info/6aac7e9e95c707f49dff191d?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-17",
-        "queued_at": "2026-09-18T14:27:08.972343+00:00"
-      },
-      {
-        "id": "zapply-899f97341926",
-        "seen_keys": [
-          "zapply-899f97341926",
-          "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605058"
-        ],
-        "title": "MTS Engineer SiPh Device",
-        "company": "GlobalFoundries",
-        "location": "USA - New York - Malta",
-        "url": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605058?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-18T14:11:39.793918+00:00",
-        "queued_at": "2026-09-18T14:27:08.972351+00:00"
-      },
-      {
         "id": "amazon-10553505",
         "seen_keys": [
           "amazon-10553505",
@@ -367,5 +255,5 @@
       }
     ]
   },
-  "last_run": "2026-09-18T20:09:13.958611+00:00"
+  "last_run": "2026-09-18T22:42:13.041447+00:00"
 }
