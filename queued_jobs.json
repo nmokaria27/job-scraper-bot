@@ -294,8 +294,78 @@
         "platform": "zapply",
         "posted_at": "2026-09-18T17:24:51.997080+00:00",
         "queued_at": "2026-09-18T17:52:15.286684+00:00"
+      },
+      {
+        "id": "zapply-a3196e854ac7",
+        "seen_keys": [
+          "zapply-a3196e854ac7",
+          "url:https://zapply.jobs/l/d/workday-broadcom-external-career-R027077"
+        ],
+        "title": "Software Engineer",
+        "company": "Broadcom",
+        "location": "USA-CA - Promontory D",
+        "url": "https://zapply.jobs/l/d/workday-broadcom-external-career-R027077?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-18T19:44:55.941589+00:00",
+        "queued_at": "2026-09-18T20:09:13.581868+00:00"
+      },
+      {
+        "id": "zapply-e50d1bc0b49b",
+        "seen_keys": [
+          "zapply-e50d1bc0b49b",
+          "url:https://zapply.jobs/l/d/apple-200684574"
+        ],
+        "title": "Software Engineer (AML), AI & Data Platforms (AiDP)",
+        "company": "Apple",
+        "location": "Austin",
+        "url": "https://zapply.jobs/l/d/apple-200684574?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-18T19:07:55.943021+00:00",
+        "queued_at": "2026-09-18T20:09:13.581886+00:00"
+      },
+      {
+        "id": "jobright-6e29cf5f255a",
+        "seen_keys": [
+          "jobright-6e29cf5f255a",
+          "url:https://jobright.ai/jobs/info/6aad6cd43dbb1f8967ced72f"
+        ],
+        "title": "Software Engineer",
+        "company": "Docusign",
+        "location": "Chicago, IL, United States",
+        "url": "https://jobright.ai/jobs/info/6aad6cd43dbb1f8967ced72f?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-18",
+        "queued_at": "2026-09-18T20:09:13.581900+00:00"
+      },
+      {
+        "id": "amazon-10553819",
+        "seen_keys": [
+          "amazon-10553819",
+          "url:https://www.amazon.jobs/en/jobs/10553819/software-development-engineer-amazon-devices-ds2-device-software-services"
+        ],
+        "title": "Software Development Engineer, Amazon Devices, DS2 (Device Software & Services)",
+        "company": "Amazon",
+        "location": "Denver, Colorado, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10553819/software-development-engineer-amazon-devices-ds2-device-software-services",
+        "platform": "amazon",
+        "posted_at": "2026-09-18",
+        "queued_at": "2026-09-18T20:09:13.581909+00:00"
+      },
+      {
+        "id": "amazon-10553871",
+        "seen_keys": [
+          "amazon-10553871",
+          "url:https://www.amazon.jobs/en/jobs/10553871/software-development-engineer-advengers-amazon-ads-brand-video"
+        ],
+        "title": "Software Development Engineer, Advengers - Amazon Ads Brand & Video",
+        "company": "Amazon",
+        "location": "New York, New York, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10553871/software-development-engineer-advengers-amazon-ads-brand-video",
+        "platform": "amazon",
+        "posted_at": "2026-09-18",
+        "queued_at": "2026-09-18T20:09:13.581918+00:00"
       }
     ]
   },
-  "last_run": "2026-09-18T17:52:15.865973+00:00"
+  "last_run": "2026-09-18T20:09:13.958611+00:00"
 }

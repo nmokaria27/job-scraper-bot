@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-274c4efb3718",
-      "seen_at": "2026-08-19T18:47:41.780578+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a85dee24afae74a08341cee",
-      "seen_at": "2026-08-19T18:47:41.781028+00:00"
-    },
-    {
-      "id": "jobright-0e57e0e2ed79",
-      "seen_at": "2026-08-19T18:47:41.781531+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a85dbfecc81eb647e9efbed",
-      "seen_at": "2026-08-19T18:47:41.781920+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5392856008",
-      "seen_at": "2026-08-19T18:47:43.219261+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5392856008",
-      "seen_at": "2026-08-19T18:47:43.219757+00:00"
-    },
-    {
-      "id": "simplify-5b1d56c3-edb8-4669-a88c-35690b805b82",
-      "seen_at": "2026-08-19T19:12:14.313106+00:00"
-    },
-    {
-      "id": "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421017800",
-      "seen_at": "2026-08-19T19:12:14.313661+00:00"
-    },
-    {
-      "id": "greenhouse-vercel-6098390004",
-      "seen_at": "2026-08-19T19:12:14.314172+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6098390004",
-      "seen_at": "2026-08-19T19:12:14.314623+00:00"
-    },
-    {
-      "id": "jobright-70ca09579df2",
-      "seen_at": "2026-08-19T19:43:23.769808+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a85ea34d34f700f87fbf175",
-      "seen_at": "2026-08-19T19:43:23.770300+00:00"
-    },
-    {
-      "id": "jobright-2bac5f4d5737",
-      "seen_at": "2026-08-19T19:43:23.770727+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a85deef74e02153f1458fac",
-      "seen_at": "2026-08-19T19:43:23.771150+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5375371008",
       "seen_at": "2026-08-19T20:37:52.180358+00:00"
     },
@@ -55227,20 +55171,284 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142533",
       "seen_at": "2026-09-18T17:52:15.308562+00:00"
+    },
+    {
+      "id": "jobright-ffa8eb4b9044",
+      "seen_at": "2026-09-18T20:08:52.243647+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad7ea5de327d3e210d2b8d",
+      "seen_at": "2026-09-18T20:08:52.244567+00:00"
+    },
+    {
+      "id": "jobright-4f16990a1f5a",
+      "seen_at": "2026-09-18T20:08:52.245354+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a749ea1bb6ca93ae560add3",
+      "seen_at": "2026-09-18T20:08:52.246135+00:00"
+    },
+    {
+      "id": "zapply-9d4dfc4101dd",
+      "seen_at": "2026-09-18T20:08:52.246944+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R248239",
+      "seen_at": "2026-09-18T20:08:52.247708+00:00"
+    },
+    {
+      "id": "workday-capitalone-R1000786",
+      "seen_at": "2026-09-18T20:08:52.248537+00:00"
+    },
+    {
+      "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Data-Product-Manager---Inventory---Places_R1000786-2",
+      "seen_at": "2026-09-18T20:08:52.249288+00:00"
+    },
+    {
+      "id": "jobright-22176f9f1b82",
+      "seen_at": "2026-09-18T20:09:13.540971+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad6a9c2e757fcb5c8b834c",
+      "seen_at": "2026-09-18T20:09:13.541944+00:00"
+    },
+    {
+      "id": "zapply-ff8d1403afec",
+      "seen_at": "2026-09-18T20:09:13.542797+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1211881",
+      "seen_at": "2026-09-18T20:09:13.543629+00:00"
+    },
+    {
+      "id": "zapply-23384e434bf1",
+      "seen_at": "2026-09-18T20:09:13.544446+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-microchiphr-external-R3962-26",
+      "seen_at": "2026-09-18T20:09:13.545283+00:00"
+    },
+    {
+      "id": "jobright-bfbe0f8d336e",
+      "seen_at": "2026-09-18T20:09:13.546124+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad6f962e757fcb5c8b8603",
+      "seen_at": "2026-09-18T20:09:13.546945+00:00"
+    },
+    {
+      "id": "jobright-bdaa5252e980",
+      "seen_at": "2026-09-18T20:09:13.547779+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad6f6bde327d3e210d26a1",
+      "seen_at": "2026-09-18T20:09:13.548604+00:00"
+    },
+    {
+      "id": "jobright-7130fb125d2d",
+      "seen_at": "2026-09-18T20:09:13.549436+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad6dfc0ebc8fb2313e978e",
+      "seen_at": "2026-09-18T20:09:13.550259+00:00"
+    },
+    {
+      "id": "applyguy-318bb52d-d346-40a4-9119-683e983c00dc",
+      "seen_at": "2026-09-18T20:09:13.551089+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687",
+      "seen_at": "2026-09-18T20:09:13.551913+00:00"
+    },
+    {
+      "id": "zapply-a117a6fe9af7",
+      "seen_at": "2026-09-18T20:09:13.552737+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/bytedance-7686733097398290693",
+      "seen_at": "2026-09-18T20:09:13.553563+00:00"
+    },
+    {
+      "id": "zapply-20fa3abbca2b",
+      "seen_at": "2026-09-18T20:09:13.554378+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/bytedance-7686732729746950405",
+      "seen_at": "2026-09-18T20:09:13.555207+00:00"
+    },
+    {
+      "id": "zapply-cd73eb520c44",
+      "seen_at": "2026-09-18T20:09:13.556032+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-AbbVie-3743990015390682",
+      "seen_at": "2026-09-18T20:09:13.556858+00:00"
+    },
+    {
+      "id": "zapply-cac7b21a8a63",
+      "seen_at": "2026-09-18T20:09:13.557705+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-a54f93e5-6a15-483d-909f-3a12d2ff5ca3",
+      "seen_at": "2026-09-18T20:09:13.558528+00:00"
+    },
+    {
+      "id": "jobright-0bf91bc45e32",
+      "seen_at": "2026-09-18T20:09:13.559346+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa39488c5a856ac7e33a3a1",
+      "seen_at": "2026-09-18T20:09:13.560173+00:00"
+    },
+    {
+      "id": "applyguy-ea9c41fe-d045-4c41-a3e4-1bea7e6ca1cf",
+      "seen_at": "2026-09-18T20:09:13.561006+00:00"
+    },
+    {
+      "id": "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4514786",
+      "seen_at": "2026-09-18T20:09:13.561830+00:00"
+    },
+    {
+      "id": "jobright-dce33d303a25",
+      "seen_at": "2026-09-18T20:09:13.562662+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad66d73dbb1f8967ced413",
+      "seen_at": "2026-09-18T20:09:13.563478+00:00"
+    },
+    {
+      "id": "zapply-f79d9114203e",
+      "seen_at": "2026-09-18T20:09:13.564310+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202613719",
+      "seen_at": "2026-09-18T20:09:13.565137+00:00"
+    },
+    {
+      "id": "zapply-7f07d8c68eaf",
+      "seen_at": "2026-09-18T20:09:13.565966+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-lumentum-lite-20261243",
+      "seen_at": "2026-09-18T20:09:13.566792+00:00"
+    },
+    {
+      "id": "zapply-47ba0513c948",
+      "seen_at": "2026-09-18T20:09:13.567630+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2019428",
+      "seen_at": "2026-09-18T20:09:13.568444+00:00"
+    },
+    {
+      "id": "zapply-7fa9fee1ea4b",
+      "seen_at": "2026-09-18T20:09:13.569273+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-ServiceNow-744000150444020",
+      "seen_at": "2026-09-18T20:09:13.570112+00:00"
+    },
+    {
+      "id": "zapply-d7db2af2c521",
+      "seen_at": "2026-09-18T20:09:13.570940+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-argonne-argonne-careers-423427",
+      "seen_at": "2026-09-18T20:09:13.571762+00:00"
+    },
+    {
+      "id": "zapply-731b37d3b372",
+      "seen_at": "2026-09-18T20:09:13.572581+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200684577",
+      "seen_at": "2026-09-18T20:09:13.573419+00:00"
+    },
+    {
+      "id": "zapply-cc6c6d3c6719",
+      "seen_at": "2026-09-18T20:09:13.574240+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/qualcomm-3096875",
+      "seen_at": "2026-09-18T20:09:13.575065+00:00"
+    },
+    {
+      "id": "zapply-3c8e4bec1734",
+      "seen_at": "2026-09-18T20:09:13.575887+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-1fc3ad04-4d2f-4bd6-8b02-8426d0490fd1",
+      "seen_at": "2026-09-18T20:09:13.576710+00:00"
+    },
+    {
+      "id": "amazon-10553877",
+      "seen_at": "2026-09-18T20:09:13.577531+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10553877/machine-learning-data-linguist-alexa-ai",
+      "seen_at": "2026-09-18T20:09:13.578337+00:00"
+    },
+    {
+      "id": "zapply-0bb6a715bcde",
+      "seen_at": "2026-09-18T20:09:13.579157+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R166368",
+      "seen_at": "2026-09-18T20:09:13.579976+00:00"
+    },
+    {
+      "id": "zapply-17e3074029bd",
+      "seen_at": "2026-09-18T20:09:13.580821+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-rivianvw.tech-ac6de63b-1f15-4299-b6dd-ad72b9c2e878",
+      "seen_at": "2026-09-18T20:09:13.581644+00:00"
+    },
+    {
+      "id": "zapply-a3196e854ac7",
+      "seen_at": "2026-09-18T20:09:13.582565+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-broadcom-external-career-R027077",
+      "seen_at": "2026-09-18T20:09:13.583399+00:00"
+    },
+    {
+      "id": "zapply-e50d1bc0b49b",
+      "seen_at": "2026-09-18T20:09:13.584237+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200684574",
+      "seen_at": "2026-09-18T20:09:13.585077+00:00"
+    },
+    {
+      "id": "jobright-6e29cf5f255a",
+      "seen_at": "2026-09-18T20:09:13.585911+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad6cd43dbb1f8967ced72f",
+      "seen_at": "2026-09-18T20:09:13.586745+00:00"
+    },
+    {
+      "id": "amazon-10553819",
+      "seen_at": "2026-09-18T20:09:13.587582+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10553819/software-development-engineer-amazon-devices-ds2-device-software-services",
+      "seen_at": "2026-09-18T20:09:13.588396+00:00"
+    },
+    {
+      "id": "amazon-10553871",
+      "seen_at": "2026-09-18T20:09:13.589253+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10553871/software-development-engineer-advengers-amazon-ads-brand-video",
+      "seen_at": "2026-09-18T20:09:13.590082+00:00"
     }
   ],
-  "last_run": "2026-09-18T17:52:15.865959+00:00",
-  "total_notified": 6360,
+  "last_run": "2026-09-18T20:09:13.958595+00:00",
+  "total_notified": 6389,
   "channels": {
     "pm-jobs": [
-      "jobright-274c4efb3718",
-      "url:https://jobright.ai/jobs/info/6a85dee24afae74a08341cee",
-      "jobright-0e57e0e2ed79",
-      "url:https://jobright.ai/jobs/info/6a85dbfecc81eb647e9efbed",
-      "jobright-70ca09579df2",
-      "url:https://jobright.ai/jobs/info/6a85ea34d34f700f87fbf175",
-      "jobright-2bac5f4d5737",
-      "url:https://jobright.ai/jobs/info/6a85deef74e02153f1458fac",
       "jobright-b4543c5f6141",
       "url:https://jobright.ai/jobs/info/6a8602b52f4f0014cae278a2",
       "jobright-89642d8aed40",
@@ -57089,15 +57297,17 @@
       "jobright-b6fadc11eda5",
       "url:https://jobright.ai/jobs/info/6aad53de0ebc8fb2313e8d6d",
       "workday-nvidia-JR2019819",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Manager---AI-Infra-Resilience_JR2019819"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Manager---AI-Infra-Resilience_JR2019819",
+      "jobright-ffa8eb4b9044",
+      "url:https://jobright.ai/jobs/info/6aad7ea5de327d3e210d2b8d",
+      "jobright-4f16990a1f5a",
+      "url:https://jobright.ai/jobs/info/6a749ea1bb6ca93ae560add3",
+      "zapply-9d4dfc4101dd",
+      "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R248239",
+      "workday-capitalone-R1000786",
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Data-Product-Manager---Inventory---Places_R1000786-2"
     ],
     "swe-ai-full-time": [
-      "greenhouse-anthropic-5392856008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5392856008",
-      "simplify-5b1d56c3-edb8-4669-a88c-35690b805b82",
-      "url:https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421017800",
-      "greenhouse-vercel-6098390004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6098390004",
       "greenhouse-anthropic-5375371008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5375371008",
       "greenhouse-anthropic-5375376008",
@@ -68289,7 +68499,67 @@
       "ashby-temporal-7b63cf37-2bdb-462c-858c-473167563623",
       "url:https://jobs.ashbyhq.com/temporal/7b63cf37-2bdb-462c-858c-473167563623",
       "zapply-5fb46a661beb",
-      "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142533"
+      "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142533",
+      "jobright-22176f9f1b82",
+      "url:https://jobright.ai/jobs/info/6aad6a9c2e757fcb5c8b834c",
+      "zapply-ff8d1403afec",
+      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1211881",
+      "zapply-23384e434bf1",
+      "url:https://zapply.jobs/l/d/workday-microchiphr-external-R3962-26",
+      "jobright-bfbe0f8d336e",
+      "url:https://jobright.ai/jobs/info/6aad6f962e757fcb5c8b8603",
+      "jobright-bdaa5252e980",
+      "url:https://jobright.ai/jobs/info/6aad6f6bde327d3e210d26a1",
+      "jobright-7130fb125d2d",
+      "url:https://jobright.ai/jobs/info/6aad6dfc0ebc8fb2313e978e",
+      "applyguy-318bb52d-d346-40a4-9119-683e983c00dc",
+      "url:https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687",
+      "zapply-a117a6fe9af7",
+      "url:https://zapply.jobs/l/d/bytedance-7686733097398290693",
+      "zapply-20fa3abbca2b",
+      "url:https://zapply.jobs/l/d/bytedance-7686732729746950405",
+      "zapply-cd73eb520c44",
+      "url:https://zapply.jobs/l/d/sr-AbbVie-3743990015390682",
+      "zapply-cac7b21a8a63",
+      "url:https://zapply.jobs/l/d/amazon-a54f93e5-6a15-483d-909f-3a12d2ff5ca3",
+      "jobright-0bf91bc45e32",
+      "url:https://jobright.ai/jobs/info/6aa39488c5a856ac7e33a3a1",
+      "applyguy-ea9c41fe-d045-4c41-a3e4-1bea7e6ca1cf",
+      "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4514786",
+      "jobright-dce33d303a25",
+      "url:https://jobright.ai/jobs/info/6aad66d73dbb1f8967ced413",
+      "zapply-f79d9114203e",
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202613719",
+      "zapply-7f07d8c68eaf",
+      "url:https://zapply.jobs/l/d/workday-lumentum-lite-20261243",
+      "zapply-47ba0513c948",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2019428",
+      "zapply-7fa9fee1ea4b",
+      "url:https://zapply.jobs/l/d/sr-ServiceNow-744000150444020",
+      "zapply-d7db2af2c521",
+      "url:https://zapply.jobs/l/d/workday-argonne-argonne-careers-423427",
+      "zapply-731b37d3b372",
+      "url:https://zapply.jobs/l/d/apple-200684577",
+      "zapply-cc6c6d3c6719",
+      "url:https://zapply.jobs/l/d/qualcomm-3096875",
+      "zapply-3c8e4bec1734",
+      "url:https://zapply.jobs/l/d/amazon-1fc3ad04-4d2f-4bd6-8b02-8426d0490fd1",
+      "amazon-10553877",
+      "url:https://www.amazon.jobs/en/jobs/10553877/machine-learning-data-linguist-alexa-ai",
+      "zapply-0bb6a715bcde",
+      "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R166368",
+      "zapply-17e3074029bd",
+      "url:https://zapply.jobs/l/d/ashby-rivianvw.tech-ac6de63b-1f15-4299-b6dd-ad72b9c2e878",
+      "zapply-a3196e854ac7",
+      "url:https://zapply.jobs/l/d/workday-broadcom-external-career-R027077",
+      "zapply-e50d1bc0b49b",
+      "url:https://zapply.jobs/l/d/apple-200684574",
+      "jobright-6e29cf5f255a",
+      "url:https://jobright.ai/jobs/info/6aad6cd43dbb1f8967ced72f",
+      "amazon-10553819",
+      "url:https://www.amazon.jobs/en/jobs/10553819/software-development-engineer-amazon-devices-ds2-device-software-services",
+      "amazon-10553871",
+      "url:https://www.amazon.jobs/en/jobs/10553871/software-development-engineer-advengers-amazon-ads-brand-video"
     ]
   }
 }
