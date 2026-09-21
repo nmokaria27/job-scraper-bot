@@ -224,8 +224,316 @@
         "platform": "zapply",
         "posted_at": "2026-09-21T19:32:32.471151+00:00",
         "queued_at": "2026-09-21T20:33:50.694431+00:00"
+      },
+      {
+        "id": "zapply-f1899c0cf697",
+        "seen_keys": [
+          "zapply-f1899c0cf697",
+          "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2019274"
+        ],
+        "title": "Software Engineer\u2013 Full Stack",
+        "company": "Cisco",
+        "location": "San Jose, California, US",
+        "url": "https://zapply.jobs/l/d/workday-cisco-cisco-careers-2019274?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T23:16:16.440063+00:00",
+        "queued_at": "2026-09-21T23:34:44.131599+00:00"
+      },
+      {
+        "id": "zapply-39cd1c624326",
+        "seen_keys": [
+          "zapply-39cd1c624326",
+          "url:https://zapply.jobs/l/d/workday-symbotic-symbotic-R7963"
+        ],
+        "title": "Software Engineer",
+        "company": "Symbotic",
+        "location": "USA Wilmington, MA -",
+        "url": "https://zapply.jobs/l/d/workday-symbotic-symbotic-R7963?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T23:16:16.439856+00:00",
+        "queued_at": "2026-09-21T23:34:44.131612+00:00"
+      },
+      {
+        "id": "simplify-8f493b99-aa1d-4b44-8cc1-dc9fc9e2d5d9",
+        "seen_keys": [
+          "simplify-8f493b99-aa1d-4b44-8cc1-dc9fc9e2d5d9",
+          "url:https://boards.greenhouse.io/assuredguaranty/jobs/8827460002"
+        ],
+        "title": "Product Software Developer - Front-End",
+        "company": "Assured Guaranty",
+        "location": "NYC",
+        "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827460002",
+        "platform": "simplify",
+        "posted_at": "2026-09-21T22:42:21+00:00",
+        "queued_at": "2026-09-21T23:34:44.131632+00:00"
+      },
+      {
+        "id": "zapply-fc1a5785d14b",
+        "seen_keys": [
+          "zapply-fc1a5785d14b",
+          "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2021689"
+        ],
+        "title": "Software Engineer, IQ Platform Development",
+        "company": "Cisco",
+        "location": "San Jose, California, US",
+        "url": "https://zapply.jobs/l/d/workday-cisco-cisco-careers-2021689?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T22:33:16.440366+00:00",
+        "queued_at": "2026-09-21T23:34:44.131642+00:00"
+      },
+      {
+        "id": "zapply-58101cb5efdc",
+        "seen_keys": [
+          "zapply-58101cb5efdc",
+          "url:https://zapply.jobs/l/d/sr-WesternDigital-744000150782469"
+        ],
+        "title": "Probe Software Engineer",
+        "company": "Western Digital",
+        "location": "San Jose, CA",
+        "url": "https://zapply.jobs/l/d/sr-WesternDigital-744000150782469?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T21:33:16.441487+00:00",
+        "queued_at": "2026-09-21T23:34:44.131649+00:00"
+      },
+      {
+        "id": "zapply-718d917331c9",
+        "seen_keys": [
+          "zapply-718d917331c9",
+          "url:https://zapply.jobs/l/d/amazon-a3a2154f-9480-4ebb-baf4-dc4fb11cc69c"
+        ],
+        "title": "Applied Scientist, Generative AI and Synthetic Data",
+        "company": "Amazon.com Services LLC",
+        "location": "Sunnyvale, CA",
+        "url": "https://zapply.jobs/l/d/amazon-a3a2154f-9480-4ebb-baf4-dc4fb11cc69c?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T00:33:16.443985+00:00",
+        "queued_at": "2026-09-21T23:34:44.131658+00:00"
+      },
+      {
+        "id": "simplify-5292f2d8-70e9-44a6-a50e-aea6724dfacd",
+        "seen_keys": [
+          "simplify-5292f2d8-70e9-44a6-a50e-aea6724dfacd",
+          "url:https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963"
+        ],
+        "title": "Software Engineer",
+        "company": "Symbotic",
+        "location": "Wilmington, MA",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963",
+        "platform": "simplify",
+        "posted_at": "2026-09-21T00:00:00+00:00",
+        "queued_at": "2026-09-21T23:34:44.131672+00:00"
+      },
+      {
+        "id": "jobright-4a6c80a44361",
+        "seen_keys": [
+          "jobright-4a6c80a44361",
+          "url:https://jobright.ai/jobs/info/6ab19a80f9692ca98b04aa7e"
+        ],
+        "title": "Software Engineer - JobID-0198",
+        "company": "Innovative Defense Technologies (IDT)",
+        "location": "Arlington, VA, United States",
+        "url": "https://jobright.ai/jobs/info/6ab19a80f9692ca98b04aa7e?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T23:34:44.131687+00:00"
+      },
+      {
+        "id": "jobright-aadfd79e1795",
+        "seen_keys": [
+          "jobright-aadfd79e1795",
+          "url:https://jobright.ai/jobs/info/6ab18d15d2a93d5a97ebb542"
+        ],
+        "title": "Software Engineer",
+        "company": "GUIDEcx",
+        "location": "Denver Metropolitan Area, United States",
+        "url": "https://jobright.ai/jobs/info/6ab18d15d2a93d5a97ebb542?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T23:34:44.131699+00:00"
+      },
+      {
+        "id": "gradtracker-0b3f013b4e71",
+        "seen_keys": [
+          "gradtracker-0b3f013b4e71",
+          "url:https://jobs.smartrecruiters.com/servicenow/744000150776289"
+        ],
+        "title": "Software Engineer - Applicant Tracking Systems",
+        "company": "ServiceNow",
+        "location": "West Palm Beach, Florida, United States",
+        "url": "https://jobs.smartrecruiters.com/servicenow/744000150776289",
+        "platform": "gradtracker",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T23:34:44.131708+00:00"
+      },
+      {
+        "id": "amazon-10555470",
+        "seen_keys": [
+          "amazon-10555470",
+          "url:https://www.amazon.jobs/en/jobs/10555470/applied-scientist-generative-ai-and-synthetic-data"
+        ],
+        "title": "Applied Scientist, Generative AI and Synthetic Data",
+        "company": "Amazon",
+        "location": "Sunnyvale, California, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10555470/applied-scientist-generative-ai-and-synthetic-data",
+        "platform": "amazon",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T23:34:44.131717+00:00"
+      },
+      {
+        "id": "simplify-125bd988-6772-4728-ae9c-d0c5bc2562d3",
+        "seen_keys": [
+          "simplify-125bd988-6772-4728-ae9c-d0c5bc2562d3",
+          "url:https://boards.greenhouse.io/assuredguaranty/jobs/8827458002"
+        ],
+        "title": "Product Software Developer - Back-End",
+        "company": "Assured Guaranty",
+        "location": "NYC",
+        "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827458002",
+        "platform": "simplify",
+        "posted_at": "2026-09-21T22:42:22+00:00",
+        "queued_at": "2026-09-21T23:34:44.131729+00:00"
+      },
+      {
+        "id": "jobright-0a961b06a65b",
+        "seen_keys": [
+          "jobright-0a961b06a65b",
+          "url:https://jobright.ai/jobs/info/6ab18f1ad2a93d5a97ebb64b"
+        ],
+        "title": "Software Engineer - Omniverse Simulation",
+        "company": "Mayo Clinic",
+        "location": "Rochester, MN, United States",
+        "url": "https://jobright.ai/jobs/info/6ab18f1ad2a93d5a97ebb64b?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T23:34:44.131740+00:00"
+      },
+      {
+        "id": "jobright-a6a50ef7cbb5",
+        "seen_keys": [
+          "jobright-a6a50ef7cbb5",
+          "url:https://jobright.ai/jobs/info/6ab1887b23005eee3545afbc"
+        ],
+        "title": "Software Engineer - Omniverse Simulation",
+        "company": "Mayo Clinic Rochester",
+        "location": "Rochester, MN, United States",
+        "url": "https://jobright.ai/jobs/info/6ab1887b23005eee3545afbc?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T23:34:44.131752+00:00"
+      },
+      {
+        "id": "jobright-d763862f4da3",
+        "seen_keys": [
+          "jobright-d763862f4da3",
+          "url:https://jobright.ai/jobs/info/6ab1874b23005eee3545af2b"
+        ],
+        "title": "Software Engineer - Omniverse Simulation",
+        "company": "Mayo Clinic Healthcare London",
+        "location": "Rochester, MN, United States",
+        "url": "https://jobright.ai/jobs/info/6ab1874b23005eee3545af2b?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T23:34:44.131763+00:00"
+      },
+      {
+        "id": "amazon-10555428",
+        "seen_keys": [
+          "amazon-10555428",
+          "url:https://www.amazon.jobs/en/jobs/10555428/software-development-engineer-alexa-excellence-alexa-llm-inference-capacity-efficiency"
+        ],
+        "title": "Software Development Engineer, Alexa Excellence, Alexa LLM Inference, Capacity, & Efficiency",
+        "company": "Amazon",
+        "location": "Bellevue, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10555428/software-development-engineer-alexa-excellence-alexa-llm-inference-capacity-efficiency",
+        "platform": "amazon",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T23:34:44.131771+00:00"
+      },
+      {
+        "id": "jobright-ccd14c4b1953",
+        "seen_keys": [
+          "jobright-ccd14c4b1953",
+          "url:https://jobright.ai/jobs/info/6ab1965632552369083e31e7"
+        ],
+        "title": "Full Stack Developer",
+        "company": "The Anywhere Company",
+        "location": "Hilton Head Island, SC, United States",
+        "url": "https://jobright.ai/jobs/info/6ab1965632552369083e31e7?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-20",
+        "queued_at": "2026-09-21T23:34:44.131779+00:00"
+      },
+      {
+        "id": "zapply-ad31bf6ea719",
+        "seen_keys": [
+          "zapply-ad31bf6ea719",
+          "url:https://zapply.jobs/l/d/google-102793884911706822"
+        ],
+        "title": "Research Scientist/Engineer, Frontier Reasoning, DeepMind",
+        "company": "Google",
+        "location": "United States",
+        "url": "https://zapply.jobs/l/d/google-102793884911706822?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "Unknown",
+        "queued_at": "2026-09-21T23:34:44.131787+00:00"
+      },
+      {
+        "id": "zapply-9d71d78da43f",
+        "seen_keys": [
+          "zapply-9d71d78da43f",
+          "url:https://zapply.jobs/l/d/workday-symbotic-symbotic-R7966"
+        ],
+        "title": "PhD Applied Scientist, Routing",
+        "company": "Symbotic",
+        "location": "USA Wilmington, MA -",
+        "url": "https://zapply.jobs/l/d/workday-symbotic-symbotic-R7966?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T23:16:16.442160+00:00",
+        "queued_at": "2026-09-21T23:34:44.131794+00:00"
+      },
+      {
+        "id": "zapply-13b7ed19c1ab",
+        "seen_keys": [
+          "zapply-13b7ed19c1ab",
+          "url:https://zapply.jobs/l/d/ashby-ramp-7cd46077-05fe-4cd7-816f-5528638342f1"
+        ],
+        "title": "Software Engineer, Frontend, Growth",
+        "company": "Ramp",
+        "location": "New York, NY (",
+        "url": "https://zapply.jobs/l/d/ashby-ramp-7cd46077-05fe-4cd7-816f-5528638342f1?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T22:46:16.440248+00:00",
+        "queued_at": "2026-09-21T23:34:44.131801+00:00"
+      },
+      {
+        "id": "zapply-ce71e9f339c8",
+        "seen_keys": [
+          "zapply-ce71e9f339c8",
+          "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR357929"
+        ],
+        "title": "Software Engineering MTS",
+        "company": "Salesforce",
+        "location": "California San Francisco",
+        "url": "https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR357929?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T23:16:16.439879+00:00",
+        "queued_at": "2026-09-21T23:34:44.131808+00:00"
+      },
+      {
+        "id": "ashby-ramp-7cd46077-05fe-4cd7-816f-5528638342f1",
+        "seen_keys": [
+          "ashby-ramp-7cd46077-05fe-4cd7-816f-5528638342f1",
+          "url:https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1"
+        ],
+        "title": "Software Engineer, Frontend, Growth",
+        "company": "Ramp",
+        "location": "New York, NY (HQ) / San Francisco, CA",
+        "url": "https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1",
+        "platform": "ashby",
+        "posted_at": "2026-09-21T22:38:37.920+00:00",
+        "queued_at": "2026-09-21T23:34:44.131816+00:00"
       }
     ]
   },
-  "last_run": "2026-09-21T20:33:50.926448+00:00"
+  "last_run": "2026-09-21T23:34:44.373511+00:00"
 }
