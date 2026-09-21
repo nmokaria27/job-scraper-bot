@@ -1,6 +1,231 @@
 {
   "channels": {
-    "swe-ai-full-time": []
+    "swe-ai-full-time": [
+      {
+        "id": "amazon-10555420",
+        "seen_keys": [
+          "amazon-10555420",
+          "url:https://www.amazon.jobs/en/jobs/10555420/software-development-engineer-humorphic-labs"
+        ],
+        "title": "Software Development Engineer, Humorphic Labs",
+        "company": "Amazon",
+        "location": "Austin, Texas, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10555420/software-development-engineer-humorphic-labs",
+        "platform": "amazon",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T20:33:50.694300+00:00"
+      },
+      {
+        "id": "amazon-10555006",
+        "seen_keys": [
+          "amazon-10555006",
+          "url:https://www.amazon.jobs/en/jobs/10555006/applied-scientist-amazon-ads-forecasting-insights-and-guidance-fig"
+        ],
+        "title": "Applied Scientist, Amazon Ads, Forecasting, Insights and Guidance (FIG)",
+        "company": "Amazon",
+        "location": "Palo Alto, California, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10555006/applied-scientist-amazon-ads-forecasting-insights-and-guidance-fig",
+        "platform": "amazon",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T20:33:50.694313+00:00"
+      },
+      {
+        "id": "zapply-b9c77178a8eb",
+        "seen_keys": [
+          "zapply-b9c77178a8eb",
+          "url:https://zapply.jobs/l/d/greenhouse-discord-8823881002"
+        ],
+        "title": "Software Engineer, Safety Processing",
+        "company": "Discord",
+        "location": "San Francisco Bay Area or...",
+        "url": "https://zapply.jobs/l/d/greenhouse-discord-8823881002?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T19:51:32.470565+00:00",
+        "queued_at": "2026-09-21T20:33:50.694322+00:00"
+      },
+      {
+        "id": "greenhouse-discord-8823881002",
+        "seen_keys": [
+          "greenhouse-discord-8823881002",
+          "url:https://job-boards.greenhouse.io/discord/jobs/8823881002"
+        ],
+        "title": "Software Engineer, Safety Processing",
+        "company": "Discord",
+        "location": "San Francisco Bay Area or Remote (U.S.)",
+        "url": "https://job-boards.greenhouse.io/discord/jobs/8823881002",
+        "platform": "greenhouse",
+        "posted_at": "2026-09-21T15:45:22-04:00",
+        "queued_at": "2026-09-21T20:33:50.694334+00:00"
+      },
+      {
+        "id": "zapply-8b9a6d504048",
+        "seen_keys": [
+          "zapply-8b9a6d504048",
+          "url:https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-25-11049"
+        ],
+        "title": "Embedded Software Engineer",
+        "company": "Moog",
+        "location": "Santa Barbara, CA",
+        "url": "https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-25-11049?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T19:32:32.471073+00:00",
+        "queued_at": "2026-09-21T20:33:50.694343+00:00"
+      },
+      {
+        "id": "zapply-178f702cd4f3",
+        "seen_keys": [
+          "zapply-178f702cd4f3",
+          "url:https://zapply.jobs/l/d/lever-hermeus-1602c0e0-10fe-4fc9-ac0f-22ce2a2c0d18"
+        ],
+        "title": "Software Engineer - Internal Applications",
+        "company": "Hermeus",
+        "location": "Los Angeles, CA",
+        "url": "https://zapply.jobs/l/d/lever-hermeus-1602c0e0-10fe-4fc9-ac0f-22ce2a2c0d18?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T18:32:32.471414+00:00",
+        "queued_at": "2026-09-21T20:33:50.694352+00:00"
+      },
+      {
+        "id": "zapply-18ecfc776f6f",
+        "seen_keys": [
+          "zapply-18ecfc776f6f",
+          "url:https://zapply.jobs/l/d/ashby-applied-99e36fcf-c027-403b-a926-8b73b6b9e2a6"
+        ],
+        "title": "Software Engineer - Real-Time Vehicle Telemetry & Visualization",
+        "company": "Applied Intuition",
+        "location": "Sunnyvale",
+        "url": "https://zapply.jobs/l/d/ashby-applied-99e36fcf-c027-403b-a926-8b73b6b9e2a6?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T18:32:32.471335+00:00",
+        "queued_at": "2026-09-21T20:33:50.694359+00:00"
+      },
+      {
+        "id": "ashby-openai-e42305bf-2266-4dff-82ad-42be7ddac495",
+        "seen_keys": [
+          "ashby-openai-e42305bf-2266-4dff-82ad-42be7ddac495",
+          "url:https://jobs.ashbyhq.com/openai/e42305bf-2266-4dff-82ad-42be7ddac495"
+        ],
+        "title": "Software Engineer, Plugin Ecosystem",
+        "company": "OpenAI",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/e42305bf-2266-4dff-82ad-42be7ddac495",
+        "platform": "ashby",
+        "posted_at": "2026-09-21T17:03:31.264+00:00",
+        "queued_at": "2026-09-21T20:33:50.694368+00:00"
+      },
+      {
+        "id": "jobright-036f47c9809c",
+        "seen_keys": [
+          "jobright-036f47c9809c",
+          "url:https://jobright.ai/jobs/info/6ab14c44f9692ca98b048977"
+        ],
+        "title": "Collibra Platform Engineer",
+        "company": "Akira Technologies",
+        "location": "Washington, DC, United States",
+        "url": "https://jobright.ai/jobs/info/6ab14c44f9692ca98b048977?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T20:33:50.694376+00:00"
+      },
+      {
+        "id": "amazon-10554995",
+        "seen_keys": [
+          "amazon-10554995",
+          "url:https://www.amazon.jobs/en/jobs/10554995/software-development-engineer-amazon-leo-for-government"
+        ],
+        "title": "Software Development Engineer, Amazon Leo for Government",
+        "company": "Amazon",
+        "location": "Redmond, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10554995/software-development-engineer-amazon-leo-for-government",
+        "platform": "amazon",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-21T20:33:50.694385+00:00"
+      },
+      {
+        "id": "greenhouse-rubrik-8209928",
+        "seen_keys": [
+          "greenhouse-rubrik-8209928",
+          "url:https://www.rubrik.com/company/careers/departments/job.8209928"
+        ],
+        "title": "Software Engineer - Cloud Infrastructure ",
+        "company": "Rubrik",
+        "location": "Palo Alto, CA",
+        "url": "https://www.rubrik.com/company/careers/departments/job.8209928?gh_jid=8209928",
+        "platform": "greenhouse",
+        "posted_at": "2026-09-21T16:21:24-04:00",
+        "queued_at": "2026-09-21T20:33:50.694393+00:00"
+      },
+      {
+        "id": "zapply-979d2c707aae",
+        "seen_keys": [
+          "zapply-979d2c707aae",
+          "url:https://zapply.jobs/l/d/ashby-applied-f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104"
+        ],
+        "title": "Full-Stack Software Engineer - Command & Control",
+        "company": "Applied Intuition",
+        "location": "Sunnyvale",
+        "url": "https://zapply.jobs/l/d/ashby-applied-f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T18:32:32.471309+00:00",
+        "queued_at": "2026-09-21T20:33:50.694400+00:00"
+      },
+      {
+        "id": "ashby-applied-f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104",
+        "seen_keys": [
+          "ashby-applied-f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104",
+          "url:https://jobs.ashbyhq.com/applied/f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104"
+        ],
+        "title": "Full-Stack Software Engineer -  Command & Control",
+        "company": "Applied",
+        "location": "Sunnyvale",
+        "url": "https://jobs.ashbyhq.com/applied/f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104",
+        "platform": "ashby",
+        "posted_at": "2026-09-21T18:16:26.492+00:00",
+        "queued_at": "2026-09-21T20:33:50.694408+00:00"
+      },
+      {
+        "id": "zapply-9dab7664429e",
+        "seen_keys": [
+          "zapply-9dab7664429e",
+          "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228848"
+        ],
+        "title": "Hybrid Cloud Platform Engineer",
+        "company": "GDIT",
+        "location": "VA Springfield",
+        "url": "https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228848?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T20:14:32.470124+00:00",
+        "queued_at": "2026-09-21T20:33:50.694416+00:00"
+      },
+      {
+        "id": "zapply-d01df5567ff3",
+        "seen_keys": [
+          "zapply-d01df5567ff3",
+          "url:https://zapply.jobs/l/d/greenhouse-aloyoga-5839943004"
+        ],
+        "title": "Software Engineer - Performance Engineering",
+        "company": "Alo Yoga",
+        "location": "Beverly Hills, California,...",
+        "url": "https://zapply.jobs/l/d/greenhouse-aloyoga-5839943004?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T19:32:32.471181+00:00",
+        "queued_at": "2026-09-21T20:33:50.694423+00:00"
+      },
+      {
+        "id": "zapply-4107a02b51fb",
+        "seen_keys": [
+          "zapply-4107a02b51fb",
+          "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00351000"
+        ],
+        "title": "Cloud Platform Engineer - GCP",
+        "company": "ASML",
+        "location": "Wilton, CT, USA",
+        "url": "https://zapply.jobs/l/d/workday-asml-asmlext1-J-00351000?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-21T19:32:32.471151+00:00",
+        "queued_at": "2026-09-21T20:33:50.694431+00:00"
+      }
+    ]
   },
-  "last_run": "2026-09-21T16:27:16.118659+00:00"
+  "last_run": "2026-09-21T20:33:50.926448+00:00"
 }
