@@ -1,190 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-084d758a2604",
-      "seen_at": "2026-08-21T22:33:43.643108+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a88b794d34f700f87fca19f",
-      "seen_at": "2026-08-21T22:33:43.643604+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5368023008",
-      "seen_at": "2026-08-21T22:33:43.644041+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5368023008",
-      "seen_at": "2026-08-21T22:33:43.644459+00:00"
-    },
-    {
-      "id": "ashby-openai-3fa44620-142a-47fe-b098-92923064d2f5",
-      "seen_at": "2026-08-21T22:33:44.829482+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/3fa44620-142a-47fe-b098-92923064d2f5",
-      "seen_at": "2026-08-21T22:33:44.830006+00:00"
-    },
-    {
-      "id": "jobright-bd6667bc4f36",
-      "seen_at": "2026-08-21T22:54:41.552385+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a88baa925fc4e7ae3db20ba",
-      "seen_at": "2026-08-21T22:54:41.552887+00:00"
-    },
-    {
-      "id": "simplify-2af5ac17-a498-44a7-829b-c3147a8a150b",
-      "seen_at": "2026-08-21T22:54:48.936389+00:00"
-    },
-    {
-      "id": "url:https://careers-gdms.icims.com/jobs/74471/job",
-      "seen_at": "2026-08-21T22:54:48.936955+00:00"
-    },
-    {
-      "id": "simplify-b06e8976-8d59-4e44-abc0-30e329f46f38",
-      "seen_at": "2026-08-21T22:54:48.937438+00:00"
-    },
-    {
-      "id": "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Imaging-Field-Engineer-I_R4044978-1",
-      "seen_at": "2026-08-21T22:54:48.937954+00:00"
-    },
-    {
-      "id": "simplify-7a9df6f7-6085-43b4-ad7e-c3426ad5d305",
-      "seen_at": "2026-08-21T22:54:48.938420+00:00"
-    },
-    {
-      "id": "url:https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304",
-      "seen_at": "2026-08-21T22:54:48.938891+00:00"
-    },
-    {
-      "id": "simplify-d3fb5a6d-95ca-4c74-a448-f3db8b8d1a0a",
-      "seen_at": "2026-08-21T22:54:48.939353+00:00"
-    },
-    {
-      "id": "url:https://careers.heb.com/jobs/231773",
-      "seen_at": "2026-08-21T22:54:48.939818+00:00"
-    },
-    {
-      "id": "simplify-b989c0d7-19f2-4acd-8837-402a4c9fbfe0",
-      "seen_at": "2026-08-21T22:54:48.940273+00:00"
-    },
-    {
-      "id": "url:https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884",
-      "seen_at": "2026-08-21T22:54:48.940759+00:00"
-    },
-    {
-      "id": "simplify-620df5f1-110c-447c-8999-cf2d664001e9",
-      "seen_at": "2026-08-21T22:54:48.941221+00:00"
-    },
-    {
-      "id": "url:https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19224",
-      "seen_at": "2026-08-21T22:54:48.941687+00:00"
-    },
-    {
-      "id": "simplify-253f4a59-14d2-4bf5-8f29-b05e37695e9a",
-      "seen_at": "2026-08-21T22:54:48.942146+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950",
-      "seen_at": "2026-08-21T22:54:48.942610+00:00"
-    },
-    {
-      "id": "simplify-567f686f-9093-4a26-b732-e7aa4ee87b29",
-      "seen_at": "2026-08-21T22:54:48.943069+00:00"
-    },
-    {
-      "id": "url:https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4615-1",
-      "seen_at": "2026-08-21T22:54:48.943539+00:00"
-    },
-    {
-      "id": "simplify-18a9df54-1420-4258-8c24-37817d250f22",
-      "seen_at": "2026-08-21T22:54:48.943998+00:00"
-    },
-    {
-      "id": "url:https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739",
-      "seen_at": "2026-08-21T22:54:48.944508+00:00"
-    },
-    {
-      "id": "simplify-2533cf48-d1d8-4e5f-bed0-485c583da8a6",
-      "seen_at": "2026-08-21T23:31:46.815865+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/eudia/jobs/4379570009",
-      "seen_at": "2026-08-21T23:31:46.816341+00:00"
-    },
-    {
-      "id": "simplify-7f975658-42d7-48c0-8e20-ccb21aee47b8",
-      "seen_at": "2026-08-21T23:31:46.816766+00:00"
-    },
-    {
-      "id": "url:https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--Marketing_Req-50234",
-      "seen_at": "2026-08-21T23:31:46.817163+00:00"
-    },
-    {
-      "id": "simplify-158354ff-729f-4923-845b-d4f59eea424f",
-      "seen_at": "2026-08-21T23:31:49.058401+00:00"
-    },
-    {
-      "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Engineer---HBM-Design-for-Test--DFT-_JR109696",
-      "seen_at": "2026-08-21T23:31:49.058948+00:00"
-    },
-    {
-      "id": "ashby-openai-1f9c3666-82c8-45a7-8d4b-633a265ce996",
-      "seen_at": "2026-08-21T23:31:49.059397+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/1f9c3666-82c8-45a7-8d4b-633a265ce996",
-      "seen_at": "2026-08-21T23:31:49.059825+00:00"
-    },
-    {
-      "id": "simplify-733e27ec-57f0-4e26-8f45-410e4fd4aed5",
-      "seen_at": "2026-08-21T23:51:52.727212+00:00"
-    },
-    {
-      "id": "url:https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern",
-      "seen_at": "2026-08-21T23:51:52.727713+00:00"
-    },
-    {
-      "id": "simplify-45b27f18-198a-4ef0-b8f3-abb8018e7c99",
-      "seen_at": "2026-08-21T23:51:52.728198+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456/application",
-      "seen_at": "2026-08-21T23:51:52.728625+00:00"
-    },
-    {
-      "id": "simplify-b364c68b-8fda-447b-b50d-dfa7fcd4039f",
-      "seen_at": "2026-08-21T23:51:52.729117+00:00"
-    },
-    {
-      "id": "url:https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436",
-      "seen_at": "2026-08-21T23:51:52.729548+00:00"
-    },
-    {
-      "id": "jobright-321e08256757",
-      "seen_at": "2026-08-21T23:51:55.227149+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a889f3325fc4e7ae3db16b9",
-      "seen_at": "2026-08-21T23:51:55.227612+00:00"
-    },
-    {
-      "id": "jobright-d910c3276988",
-      "seen_at": "2026-08-21T23:51:55.228065+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a88cf1f25fc4e7ae3db2738",
-      "seen_at": "2026-08-21T23:51:55.228490+00:00"
-    },
-    {
-      "id": "jobright-b17766cc442d",
-      "seen_at": "2026-08-21T23:51:55.228915+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a4fbf4c9469c0662034eaff",
-      "seen_at": "2026-08-21T23:51:55.229337+00:00"
-    },
-    {
       "id": "simplify-b9776d83-bf68-42d9-88e2-4ebdd4ffda09",
       "seen_at": "2026-08-22T02:02:12.834671+00:00"
     },
@@ -54123,28 +53939,36 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ab02aefde327d3e210d777b",
       "seen_at": "2026-09-20T21:56:29.632542+00:00"
+    },
+    {
+      "id": "zapply-26e66c92e1b4",
+      "seen_at": "2026-09-21T00:12:01.799618+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157986",
+      "seen_at": "2026-09-21T00:12:01.800606+00:00"
+    },
+    {
+      "id": "zapply-fcd025ae84ef",
+      "seen_at": "2026-09-21T00:12:01.801459+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026249",
+      "seen_at": "2026-09-21T00:12:01.802298+00:00"
+    },
+    {
+      "id": "jobright-7dd62e8441cc",
+      "seen_at": "2026-09-21T00:12:01.803148+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6bb7ebacb0a61f9dbc2823",
+      "seen_at": "2026-09-21T00:12:01.803960+00:00"
     }
   ],
-  "last_run": "2026-09-20T21:56:29.781455+00:00",
-  "total_notified": 6506,
+  "last_run": "2026-09-21T00:12:01.961688+00:00",
+  "total_notified": 6509,
   "channels": {
     "pm-jobs": [
-      "jobright-084d758a2604",
-      "url:https://jobright.ai/jobs/info/6a88b794d34f700f87fca19f",
-      "greenhouse-anthropic-5368023008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5368023008",
-      "jobright-bd6667bc4f36",
-      "url:https://jobright.ai/jobs/info/6a88baa925fc4e7ae3db20ba",
-      "simplify-2533cf48-d1d8-4e5f-bed0-485c583da8a6",
-      "url:https://job-boards.greenhouse.io/eudia/jobs/4379570009",
-      "simplify-7f975658-42d7-48c0-8e20-ccb21aee47b8",
-      "url:https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--Marketing_Req-50234",
-      "jobright-321e08256757",
-      "url:https://jobright.ai/jobs/info/6a889f3325fc4e7ae3db16b9",
-      "jobright-d910c3276988",
-      "url:https://jobright.ai/jobs/info/6a88cf1f25fc4e7ae3db2738",
-      "jobright-b17766cc442d",
-      "url:https://jobright.ai/jobs/info/6a4fbf4c9469c0662034eaff",
       "simplify-7fff5796-fc88-4d04-a6fa-be35e0bdb2e0",
       "url:https://lifeattiktok.com/search/7675616554318596357",
       "simplify-3085d453-c413-4fb3-9fc6-7da1855ee4f1",
@@ -55908,30 +55732,6 @@
       "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024574"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-3fa44620-142a-47fe-b098-92923064d2f5",
-      "url:https://jobs.ashbyhq.com/openai/3fa44620-142a-47fe-b098-92923064d2f5",
-      "simplify-2af5ac17-a498-44a7-829b-c3147a8a150b",
-      "url:https://careers-gdms.icims.com/jobs/74471/job",
-      "simplify-b06e8976-8d59-4e44-abc0-30e329f46f38",
-      "url:https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Imaging-Field-Engineer-I_R4044978-1",
-      "simplify-7a9df6f7-6085-43b4-ad7e-c3426ad5d305",
-      "url:https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304",
-      "simplify-d3fb5a6d-95ca-4c74-a448-f3db8b8d1a0a",
-      "url:https://careers.heb.com/jobs/231773",
-      "simplify-b989c0d7-19f2-4acd-8837-402a4c9fbfe0",
-      "url:https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884",
-      "simplify-620df5f1-110c-447c-8999-cf2d664001e9",
-      "url:https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19224",
-      "simplify-253f4a59-14d2-4bf5-8f29-b05e37695e9a",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950",
-      "simplify-567f686f-9093-4a26-b732-e7aa4ee87b29",
-      "url:https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4615-1",
-      "simplify-18a9df54-1420-4258-8c24-37817d250f22",
-      "url:https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739",
-      "simplify-158354ff-729f-4923-845b-d4f59eea424f",
-      "url:https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Engineer---HBM-Design-for-Test--DFT-_JR109696",
-      "ashby-openai-1f9c3666-82c8-45a7-8d4b-633a265ce996",
-      "url:https://jobs.ashbyhq.com/openai/1f9c3666-82c8-45a7-8d4b-633a265ce996",
       "simplify-7a70a260-965f-4aec-902f-7d5704f201a2",
       "url:https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007",
       "ashby-openai-dd7443fe-a7b8-4794-8dd5-cb7d14c00c64",
@@ -67074,7 +66874,13 @@
       "jobright-16ffda1da2c4",
       "url:https://jobright.ai/jobs/info/6ab03ea0dd960b4156418b81",
       "jobright-8c7848d95d46",
-      "url:https://jobright.ai/jobs/info/6ab02aefde327d3e210d777b"
+      "url:https://jobright.ai/jobs/info/6ab02aefde327d3e210d777b",
+      "zapply-26e66c92e1b4",
+      "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157986",
+      "zapply-fcd025ae84ef",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026249",
+      "jobright-7dd62e8441cc",
+      "url:https://jobright.ai/jobs/info/6a6bb7ebacb0a61f9dbc2823"
     ]
   }
 }
