@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-b46ffd99-f9f2-440c-ac13-448eb7911ad6",
-      "seen_at": "2026-08-22T23:59:54.240904+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/b46ffd99-f9f2-440c-ac13-448eb7911ad6",
-      "seen_at": "2026-08-22T23:59:54.241386+00:00"
-    },
-    {
       "id": "jobright-57ac5f5022ee",
       "seen_at": "2026-08-23T12:55:52.204437+00:00"
     },
@@ -54683,10 +54675,218 @@
     {
       "id": "url:https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1",
       "seen_at": "2026-09-21T23:34:44.167417+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5400720008",
+      "seen_at": "2026-09-22T01:50:27.284843+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5400720008",
+      "seen_at": "2026-09-22T01:50:27.285833+00:00"
+    },
+    {
+      "id": "zapply-e271987b8190",
+      "seen_at": "2026-09-22T01:50:50.986010+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266598",
+      "seen_at": "2026-09-22T01:50:50.986782+00:00"
+    },
+    {
+      "id": "simplify-0b77664d-6d83-4a32-9f73-6037dd7f0288",
+      "seen_at": "2026-09-22T01:50:50.987458+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/AbbVie/3743990015538268",
+      "seen_at": "2026-09-22T01:50:50.988088+00:00"
+    },
+    {
+      "id": "jobright-810305646a98",
+      "seen_at": "2026-09-22T01:50:50.988717+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab1b4c923005eee3545c4b9",
+      "seen_at": "2026-09-22T01:50:50.989322+00:00"
+    },
+    {
+      "id": "jobright-d5fe2dd3e48a",
+      "seen_at": "2026-09-22T01:50:50.989977+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab1b2abf9692ca98b04b621",
+      "seen_at": "2026-09-22T01:50:50.990608+00:00"
+    },
+    {
+      "id": "jobright-2f3ea1135696",
+      "seen_at": "2026-09-22T01:50:50.991229+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7367e0e55c73319eb17087",
+      "seen_at": "2026-09-22T01:50:50.991827+00:00"
+    },
+    {
+      "id": "jobright-52a20d799567",
+      "seen_at": "2026-09-22T01:50:50.992425+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab1b2ff191d8c340dbdc804",
+      "seen_at": "2026-09-22T01:50:50.993047+00:00"
+    },
+    {
+      "id": "zapply-72f9fc0aac05",
+      "seen_at": "2026-09-22T01:50:50.993682+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-stripe-8222149",
+      "seen_at": "2026-09-22T01:50:50.994269+00:00"
+    },
+    {
+      "id": "jobright-126c37d954b9",
+      "seen_at": "2026-09-22T01:50:50.994854+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab1a72932552369083e3944",
+      "seen_at": "2026-09-22T01:50:50.995426+00:00"
+    },
+    {
+      "id": "zapply-d4783003e4d0",
+      "seen_at": "2026-09-22T01:50:50.996043+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-8167776a-798f-47d0-89f8-3780148127a4",
+      "seen_at": "2026-09-22T01:50:50.996629+00:00"
+    },
+    {
+      "id": "zapply-7783d107c286",
+      "seen_at": "2026-09-22T01:50:50.997220+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-tessera-labs-202be46b-0d9d-4277-b8b2-719c3321a352",
+      "seen_at": "2026-09-22T01:50:50.997801+00:00"
+    },
+    {
+      "id": "amazon-10555696",
+      "seen_at": "2026-09-22T01:50:50.998377+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10555696/applied-scientist-responsible-ai",
+      "seen_at": "2026-09-22T01:50:50.998945+00:00"
+    },
+    {
+      "id": "simplify-52e1ca75-9907-44e4-9bde-6834837fe9e3",
+      "seen_at": "2026-09-22T01:50:50.999537+00:00"
+    },
+    {
+      "id": "url:https://qualcomm.eightfold.ai/careers/job/446721162271",
+      "seen_at": "2026-09-22T01:50:51.000123+00:00"
+    },
+    {
+      "id": "simplify-a5e5a517-e9b1-459c-9fa1-aecf085cac93",
+      "seen_at": "2026-09-22T01:50:51.000705+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4251267009",
+      "seen_at": "2026-09-22T01:50:51.001264+00:00"
+    },
+    {
+      "id": "jobright-e2f94b7d4cda",
+      "seen_at": "2026-09-22T01:50:51.001841+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa572bba77a53f5a157114d",
+      "seen_at": "2026-09-22T01:50:51.002394+00:00"
+    },
+    {
+      "id": "jobright-6e8450b542d5",
+      "seen_at": "2026-09-22T01:50:51.002965+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab1ae13d2a93d5a97ebc461",
+      "seen_at": "2026-09-22T01:50:51.003516+00:00"
+    },
+    {
+      "id": "zapply-bf24b0c4d066",
+      "seen_at": "2026-09-22T01:50:51.004104+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8829312002",
+      "seen_at": "2026-09-22T01:50:51.004677+00:00"
+    },
+    {
+      "id": "zapply-10bd8ca50cf5",
+      "seen_at": "2026-09-22T01:50:51.005272+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8829309002",
+      "seen_at": "2026-09-22T01:50:51.005864+00:00"
+    },
+    {
+      "id": "zapply-e3a88a5ca08c",
+      "seen_at": "2026-09-22T01:50:51.006442+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8829307002",
+      "seen_at": "2026-09-22T01:50:51.007017+00:00"
+    },
+    {
+      "id": "zapply-b5af7576f901",
+      "seen_at": "2026-09-22T01:50:51.007595+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-c49924ae-9ebe-47dd-8525-25db550bd2f0",
+      "seen_at": "2026-09-22T01:50:51.008155+00:00"
+    },
+    {
+      "id": "amazon-10555703",
+      "seen_at": "2026-09-22T01:50:51.008727+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10555703/software-development-engineer-3p-measurement-tech",
+      "seen_at": "2026-09-22T01:50:51.009279+00:00"
+    },
+    {
+      "id": "amazon-10555716",
+      "seen_at": "2026-09-22T01:50:51.009845+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10555716/applied-scientist-aws-applied-ai-solutions-life-sciences",
+      "seen_at": "2026-09-22T01:50:51.010396+00:00"
+    },
+    {
+      "id": "zapply-02fece97878a",
+      "seen_at": "2026-09-22T01:50:51.010959+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-BoschGroup-744000150800309",
+      "seen_at": "2026-09-22T01:50:51.011509+00:00"
+    },
+    {
+      "id": "jobright-9e3ae1398ded",
+      "seen_at": "2026-09-22T01:50:51.012070+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab1b41cd2a93d5a97ebc872",
+      "seen_at": "2026-09-22T01:50:51.012635+00:00"
+    },
+    {
+      "id": "zapply-e71937d20449",
+      "seen_at": "2026-09-22T01:50:51.013193+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200684973",
+      "seen_at": "2026-09-22T01:50:51.013765+00:00"
+    },
+    {
+      "id": "zapply-e766cf140b7c",
+      "seen_at": "2026-09-22T01:50:51.014322+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_053886",
+      "seen_at": "2026-09-22T01:50:51.014907+00:00"
     }
   ],
-  "last_run": "2026-09-21T23:34:44.373499+00:00",
-  "total_notified": 6590,
+  "last_run": "2026-09-22T01:50:51.389064+00:00",
+  "total_notified": 6616,
   "channels": {
     "pm-jobs": [
       "jobright-57ac5f5022ee",
@@ -56441,11 +56641,11 @@
       "ashby-plaid-34c110d6-61f0-4f51-bbd0-06eb74af00f7",
       "url:https://jobs.ashbyhq.com/plaid/34c110d6-61f0-4f51-bbd0-06eb74af00f7",
       "ashby-openai-83f6d415-9462-4afc-a539-ca8d996e011a",
-      "url:https://jobs.ashbyhq.com/openai/83f6d415-9462-4afc-a539-ca8d996e011a"
+      "url:https://jobs.ashbyhq.com/openai/83f6d415-9462-4afc-a539-ca8d996e011a",
+      "greenhouse-anthropic-5400720008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5400720008"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-b46ffd99-f9f2-440c-ac13-448eb7911ad6",
-      "url:https://jobs.ashbyhq.com/openai/b46ffd99-f9f2-440c-ac13-448eb7911ad6",
       "ashby-openai-584fc51a-1107-457c-b499-a94fe5ef02b4",
       "url:https://jobs.ashbyhq.com/openai/584fc51a-1107-457c-b499-a94fe5ef02b4",
       "ashby-openai-ece054ea-ac75-4b8a-bdbf-5cdf19368312",
@@ -67792,7 +67992,57 @@
       "zapply-ce71e9f339c8",
       "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR357929",
       "ashby-ramp-7cd46077-05fe-4cd7-816f-5528638342f1",
-      "url:https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1"
+      "url:https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1",
+      "zapply-e271987b8190",
+      "url:https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266598",
+      "simplify-0b77664d-6d83-4a32-9f73-6037dd7f0288",
+      "url:https://jobs.smartrecruiters.com/AbbVie/3743990015538268",
+      "jobright-810305646a98",
+      "url:https://jobright.ai/jobs/info/6ab1b4c923005eee3545c4b9",
+      "jobright-d5fe2dd3e48a",
+      "url:https://jobright.ai/jobs/info/6ab1b2abf9692ca98b04b621",
+      "jobright-2f3ea1135696",
+      "url:https://jobright.ai/jobs/info/6a7367e0e55c73319eb17087",
+      "jobright-52a20d799567",
+      "url:https://jobright.ai/jobs/info/6ab1b2ff191d8c340dbdc804",
+      "zapply-72f9fc0aac05",
+      "url:https://zapply.jobs/l/d/greenhouse-stripe-8222149",
+      "jobright-126c37d954b9",
+      "url:https://jobright.ai/jobs/info/6ab1a72932552369083e3944",
+      "zapply-d4783003e4d0",
+      "url:https://zapply.jobs/l/d/amazon-8167776a-798f-47d0-89f8-3780148127a4",
+      "zapply-7783d107c286",
+      "url:https://zapply.jobs/l/d/ashby-tessera-labs-202be46b-0d9d-4277-b8b2-719c3321a352",
+      "amazon-10555696",
+      "url:https://www.amazon.jobs/en/jobs/10555696/applied-scientist-responsible-ai",
+      "simplify-52e1ca75-9907-44e4-9bde-6834837fe9e3",
+      "url:https://qualcomm.eightfold.ai/careers/job/446721162271",
+      "simplify-a5e5a517-e9b1-459c-9fa1-aecf085cac93",
+      "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4251267009",
+      "jobright-e2f94b7d4cda",
+      "url:https://jobright.ai/jobs/info/6aa572bba77a53f5a157114d",
+      "jobright-6e8450b542d5",
+      "url:https://jobright.ai/jobs/info/6ab1ae13d2a93d5a97ebc461",
+      "zapply-bf24b0c4d066",
+      "url:https://zapply.jobs/l/d/greenhouse-spacex-8829312002",
+      "zapply-10bd8ca50cf5",
+      "url:https://zapply.jobs/l/d/greenhouse-spacex-8829309002",
+      "zapply-e3a88a5ca08c",
+      "url:https://zapply.jobs/l/d/greenhouse-spacex-8829307002",
+      "zapply-b5af7576f901",
+      "url:https://zapply.jobs/l/d/amazon-c49924ae-9ebe-47dd-8525-25db550bd2f0",
+      "amazon-10555703",
+      "url:https://www.amazon.jobs/en/jobs/10555703/software-development-engineer-3p-measurement-tech",
+      "amazon-10555716",
+      "url:https://www.amazon.jobs/en/jobs/10555716/applied-scientist-aws-applied-ai-solutions-life-sciences",
+      "zapply-02fece97878a",
+      "url:https://zapply.jobs/l/d/sr-BoschGroup-744000150800309",
+      "jobright-9e3ae1398ded",
+      "url:https://jobright.ai/jobs/info/6ab1b41cd2a93d5a97ebc872",
+      "zapply-e71937d20449",
+      "url:https://zapply.jobs/l/d/apple-200684973",
+      "zapply-e766cf140b7c",
+      "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_053886"
     ]
   }
 }
