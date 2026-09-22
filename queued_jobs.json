@@ -2,132 +2,6 @@
   "channels": {
     "swe-ai-full-time": [
       {
-        "id": "amazon-10556153",
-        "seen_keys": [
-          "amazon-10556153",
-          "url:https://www.amazon.jobs/en/jobs/10556153/software-development-engineer-aws-networks"
-        ],
-        "title": "Software Development Engineer, AWS Networks",
-        "company": "Amazon",
-        "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10556153/software-development-engineer-aws-networks",
-        "platform": "amazon",
-        "posted_at": "2026-09-22",
-        "queued_at": "2026-09-22T14:46:28.384539+00:00"
-      },
-      {
-        "id": "amazon-10556215",
-        "seen_keys": [
-          "amazon-10556215",
-          "url:https://www.amazon.jobs/en/jobs/10556215/software-development-engineer-afx-core-experiences"
-        ],
-        "title": "Software Development Engineer, AFX - Core Experiences",
-        "company": "Amazon",
-        "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10556215/software-development-engineer-afx-core-experiences",
-        "platform": "amazon",
-        "posted_at": "2026-09-22",
-        "queued_at": "2026-09-22T14:46:28.384555+00:00"
-      },
-      {
-        "id": "jobright-a4aa50fcf9b3",
-        "seen_keys": [
-          "jobright-a4aa50fcf9b3",
-          "url:https://jobright.ai/jobs/info/6ab1ddeb23005eee3545cd2d"
-        ],
-        "title": "Software Engineer, Simulations (Vehicle Engineering)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA, United States",
-        "url": "https://jobright.ai/jobs/info/6ab1ddeb23005eee3545cd2d?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-21",
-        "queued_at": "2026-09-22T14:46:28.384574+00:00"
-      },
-      {
-        "id": "jobright-faa5a07187f8",
-        "seen_keys": [
-          "jobright-faa5a07187f8",
-          "url:https://jobright.ai/jobs/info/6ab1dde7d2a93d5a97ebd14b"
-        ],
-        "title": "Software Engineer, C++ (Simulations)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA, United States",
-        "url": "https://jobright.ai/jobs/info/6ab1dde7d2a93d5a97ebd14b?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-21",
-        "queued_at": "2026-09-22T14:46:28.384592+00:00"
-      },
-      {
-        "id": "jobright-77c6f628dd2a",
-        "seen_keys": [
-          "jobright-77c6f628dd2a",
-          "url:https://jobright.ai/jobs/info/6ab18e26d2a93d5a97ebb5da"
-        ],
-        "title": "Software Engineer - Omniverse Simulation",
-        "company": "Mayo Clinic",
-        "location": "Rochester, MN, United States",
-        "url": "https://jobright.ai/jobs/info/6ab18e26d2a93d5a97ebb5da?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-21",
-        "queued_at": "2026-09-22T14:46:28.384607+00:00"
-      },
-      {
-        "id": "jobright-77ac9aec043a",
-        "seen_keys": [
-          "jobright-77ac9aec043a",
-          "url:https://jobright.ai/jobs/info/6ab1eb8923005eee3545cf31"
-        ],
-        "title": "Full Stack Engineer, Launch Software",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA, United States",
-        "url": "https://jobright.ai/jobs/info/6ab1eb8923005eee3545cf31?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-22",
-        "queued_at": "2026-09-22T14:46:28.384621+00:00"
-      },
-      {
-        "id": "zapply-b232c4f02853",
-        "seen_keys": [
-          "zapply-b232c4f02853",
-          "url:https://zapply.jobs/l/d/workday-comcast-comcast-careers-R442090"
-        ],
-        "title": "Forward Deployed Engineer (Solutions Engineering)",
-        "company": "Comcast",
-        "location": "NY - New York, 1407 Broadway...",
-        "url": "https://zapply.jobs/l/d/workday-comcast-comcast-careers-R442090?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-22T14:30:07.908090+00:00",
-        "queued_at": "2026-09-22T14:46:28.384630+00:00"
-      },
-      {
-        "id": "zapply-a35abb85ed90",
-        "seen_keys": [
-          "zapply-a35abb85ed90",
-          "url:https://zapply.jobs/l/d/greenhouse-astspacemobile-4736510005"
-        ],
-        "title": "Infrastructure Engineer - NOC (Service Assurance)",
-        "company": "AST SpaceMobile",
-        "location": "Lanham, Maryland, United States",
-        "url": "https://zapply.jobs/l/d/greenhouse-astspacemobile-4736510005?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-22T02:45:07.897680+00:00",
-        "queued_at": "2026-09-22T14:46:28.384640+00:00"
-      },
-      {
-        "id": "zapply-53a69b7b0bd7",
-        "seen_keys": [
-          "zapply-53a69b7b0bd7",
-          "url:https://zapply.jobs/l/d/workday-kla-search-2640553"
-        ],
-        "title": "HPC Windows Server Infrastructure Engineer",
-        "company": "KLA",
-        "location": "Milpitas, CA",
-        "url": "https://zapply.jobs/l/d/workday-kla-search-2640553?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-22T14:01:07.890253+00:00",
-        "queued_at": "2026-09-22T14:46:28.384649+00:00"
-      },
-      {
         "id": "zapply-7d9c1ccd23d2",
         "seen_keys": [
           "zapply-7d9c1ccd23d2",
@@ -350,8 +224,134 @@
         "platform": "gradtracker",
         "posted_at": "2026-09-22",
         "queued_at": "2026-09-22T18:23:22.995143+00:00"
+      },
+      {
+        "id": "zapply-76772a528101",
+        "seen_keys": [
+          "zapply-76772a528101",
+          "url:https://zapply.jobs/l/d/ashby-openai-ac442f1f-c0d2-4608-a155-bfc89190e01c"
+        ],
+        "title": "Fullstack Software Engineer, Child Safety Tools & Systems",
+        "company": "OpenAI",
+        "location": "San Francisco",
+        "url": "https://zapply.jobs/l/d/ashby-openai-ac442f1f-c0d2-4608-a155-bfc89190e01c?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-22T20:31:57.766916+00:00",
+        "queued_at": "2026-09-22T21:33:23.237855+00:00"
+      },
+      {
+        "id": "amazon-10556924",
+        "seen_keys": [
+          "amazon-10556924",
+          "url:https://www.amazon.jobs/en/jobs/10556924/software-development-engineer-pricing-platform"
+        ],
+        "title": "Software Development Engineer, Pricing Platform",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10556924/software-development-engineer-pricing-platform",
+        "platform": "amazon",
+        "posted_at": "2026-09-22",
+        "queued_at": "2026-09-22T21:33:23.237868+00:00"
+      },
+      {
+        "id": "amazon-10556799",
+        "seen_keys": [
+          "amazon-10556799",
+          "url:https://www.amazon.jobs/en/jobs/10556799/member-of-technical-staff-exp-bee"
+        ],
+        "title": "Member of Technical Staff, Exp, Bee",
+        "company": "Amazon",
+        "location": "San Francisco, California, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10556799/member-of-technical-staff-exp-bee",
+        "platform": "amazon",
+        "posted_at": "2026-09-22",
+        "queued_at": "2026-09-22T21:33:23.237878+00:00"
+      },
+      {
+        "id": "greenhouse-labelbox-5246362007",
+        "seen_keys": [
+          "greenhouse-labelbox-5246362007",
+          "url:https://job-boards.greenhouse.io/labelbox/jobs/5246362007"
+        ],
+        "title": "Member of Technical Staff",
+        "company": "Labelbox",
+        "location": "San Francisco Bay Area",
+        "url": "https://job-boards.greenhouse.io/labelbox/jobs/5246362007",
+        "platform": "greenhouse",
+        "posted_at": "2026-09-22T17:08:47-04:00",
+        "queued_at": "2026-09-22T21:33:23.237887+00:00"
+      },
+      {
+        "id": "ashby-modal-0aa753bb-3e80-45e1-a4d6-08edd730bd65",
+        "seen_keys": [
+          "ashby-modal-0aa753bb-3e80-45e1-a4d6-08edd730bd65",
+          "url:https://jobs.ashbyhq.com/modal/0aa753bb-3e80-45e1-a4d6-08edd730bd65"
+        ],
+        "title": "Member of Technical Staff - Machines",
+        "company": "Modal",
+        "location": "San Francisco / New York",
+        "url": "https://jobs.ashbyhq.com/modal/0aa753bb-3e80-45e1-a4d6-08edd730bd65",
+        "platform": "ashby",
+        "posted_at": "2026-09-22T19:39:02.906+00:00",
+        "queued_at": "2026-09-22T21:33:23.237896+00:00"
+      },
+      {
+        "id": "jobright-90707f6f6a91",
+        "seen_keys": [
+          "jobright-90707f6f6a91",
+          "url:https://jobright.ai/jobs/info/6a95c390cabc9f6703e19b1a"
+        ],
+        "title": "Applied Scientist, Amazon Cryptographic Libraries",
+        "company": "Amazon",
+        "location": "Seattle, WA, United States",
+        "url": "https://jobright.ai/jobs/info/6a95c390cabc9f6703e19b1a?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-22",
+        "queued_at": "2026-09-22T21:33:23.237914+00:00"
+      },
+      {
+        "id": "ashby-openai-ac442f1f-c0d2-4608-a155-bfc89190e01c",
+        "seen_keys": [
+          "ashby-openai-ac442f1f-c0d2-4608-a155-bfc89190e01c",
+          "url:https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c"
+        ],
+        "title": "Fullstack Software Engineer, Child Safety Tools & Systems",
+        "company": "OpenAI",
+        "location": "San Francisco / London, UK",
+        "url": "https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c",
+        "platform": "ashby",
+        "posted_at": "2026-09-22T19:29:04.677+00:00",
+        "queued_at": "2026-09-22T21:33:23.237923+00:00"
+      },
+      {
+        "id": "ashby-modal-e5935496-bd80-48ca-9cf9-906ab1352662",
+        "seen_keys": [
+          "ashby-modal-e5935496-bd80-48ca-9cf9-906ab1352662",
+          "url:https://jobs.ashbyhq.com/modal/e5935496-bd80-48ca-9cf9-906ab1352662"
+        ],
+        "title": "Member of Technical Staff - Storage",
+        "company": "Modal",
+        "location": "San Francisco / New York",
+        "url": "https://jobs.ashbyhq.com/modal/e5935496-bd80-48ca-9cf9-906ab1352662",
+        "platform": "ashby",
+        "posted_at": "2026-09-22T19:21:06.796+00:00",
+        "queued_at": "2026-09-22T21:33:23.237932+00:00"
+      },
+      {
+        "id": "zapply-48ed471b4ed4",
+        "seen_keys": [
+          "zapply-48ed471b4ed4",
+          "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ223041"
+        ],
+        "title": "Software Engineer SME",
+        "company": "GDIT",
+        "location": "USA HI Camp Smith",
+        "url": "https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ223041?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-22T20:53:57.765818+00:00",
+        "queued_at": "2026-09-22T21:33:23.237940+00:00"
       }
     ]
   },
-  "last_run": "2026-09-22T18:23:23.723364+00:00"
+  "last_run": "2026-09-22T21:33:23.487656+00:00"
 }
