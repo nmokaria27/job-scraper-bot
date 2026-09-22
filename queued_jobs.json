@@ -126,8 +126,232 @@
         "platform": "zapply",
         "posted_at": "2026-09-22T14:01:07.890253+00:00",
         "queued_at": "2026-09-22T14:46:28.384649+00:00"
+      },
+      {
+        "id": "zapply-7d9c1ccd23d2",
+        "seen_keys": [
+          "zapply-7d9c1ccd23d2",
+          "url:https://zapply.jobs/l/d/workday-ms-external-PT-JR043635"
+        ],
+        "title": "Back-end Engineer - Data Platforms",
+        "company": "Morgan Stanley",
+        "location": "New York, New York, United...",
+        "url": "https://zapply.jobs/l/d/workday-ms-external-PT-JR043635?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-22T17:21:46.089830+00:00",
+        "queued_at": "2026-09-22T18:23:22.994986+00:00"
+      },
+      {
+        "id": "zapply-5deef65aa092",
+        "seen_keys": [
+          "zapply-5deef65aa092",
+          "url:https://zapply.jobs/l/d/lever-MBRDNA-27aa9d00-74a3-4c5d-8faf-b0a9002c814b"
+        ],
+        "title": "Android Software Developer",
+        "company": "Mercedes-Benz R&D North America",
+        "location": "San Jose, CA",
+        "url": "https://zapply.jobs/l/d/lever-MBRDNA-27aa9d00-74a3-4c5d-8faf-b0a9002c814b?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-22T17:21:46.087723+00:00",
+        "queued_at": "2026-09-22T18:23:22.995000+00:00"
+      },
+      {
+        "id": "greenhouse-invisibletech-4981967101",
+        "seen_keys": [
+          "greenhouse-invisibletech-4981967101",
+          "url:https://job-boards.eu.greenhouse.io/invisibletech/jobs/4981967101"
+        ],
+        "title": "Research Engineer",
+        "company": "Invisibletech",
+        "location": "New York - Hybrid; San Francisco Bay Area - Hybrid",
+        "url": "https://job-boards.eu.greenhouse.io/invisibletech/jobs/4981967101",
+        "platform": "greenhouse",
+        "posted_at": "2026-09-22T12:35:15-04:00",
+        "queued_at": "2026-09-22T18:23:22.995010+00:00"
+      },
+      {
+        "id": "zapply-4428270d01c0",
+        "seen_keys": [
+          "zapply-4428270d01c0",
+          "url:https://zapply.jobs/l/d/amazon-979d8b9e-870d-4c05-aca2-70433aadb610"
+        ],
+        "title": "Software Development Engineer , Leo Regulus",
+        "company": "Amazon Kuiper Manufacturing Enterprises LLC",
+        "location": "Redmond, WA",
+        "url": "https://zapply.jobs/l/d/amazon-979d8b9e-870d-4c05-aca2-70433aadb610?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-22T00:21:46.088904+00:00",
+        "queued_at": "2026-09-22T18:23:22.995019+00:00"
+      },
+      {
+        "id": "jobright-2083f59b5451",
+        "seen_keys": [
+          "jobright-2083f59b5451",
+          "url:https://jobright.ai/jobs/info/6ab1a0eb191d8c340dbdbf57"
+        ],
+        "title": "#Backend Software Engineer",
+        "company": "Qualcomm",
+        "location": "San Diego, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6ab1a0eb191d8c340dbdbf57?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-22",
+        "queued_at": "2026-09-22T18:23:22.995044+00:00"
+      },
+      {
+        "id": "amazon-10554916",
+        "seen_keys": [
+          "amazon-10554916",
+          "url:https://www.amazon.jobs/en/jobs/10554916/software-development-engineer-conversational-ads-experience"
+        ],
+        "title": "Software Development Engineer, Conversational Ads Experience",
+        "company": "Amazon",
+        "location": "Seattle, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10554916/software-development-engineer-conversational-ads-experience",
+        "platform": "amazon",
+        "posted_at": "2026-09-21",
+        "queued_at": "2026-09-22T18:23:22.995054+00:00"
+      },
+      {
+        "id": "zapply-1ad1f0d55864",
+        "seen_keys": [
+          "zapply-1ad1f0d55864",
+          "url:https://zapply.jobs/l/d/apple-200685051"
+        ],
+        "title": "Graphics Software Engineer",
+        "company": "Apple",
+        "location": "Austin",
+        "url": "https://zapply.jobs/l/d/apple-200685051?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-22T17:56:46.087147+00:00",
+        "queued_at": "2026-09-22T18:23:22.995062+00:00"
+      },
+      {
+        "id": "zapply-1b30a0e17f29",
+        "seen_keys": [
+          "zapply-1b30a0e17f29",
+          "url:https://zapply.jobs/l/d/greenhouse-waymo-8222098"
+        ],
+        "title": "Research Scientist, World Model Post-Training",
+        "company": "Waymo",
+        "location": "Mountain View, CA, USA",
+        "url": "https://zapply.jobs/l/d/greenhouse-waymo-8222098?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-22T17:21:46.089932+00:00",
+        "queued_at": "2026-09-22T18:23:22.995070+00:00"
+      },
+      {
+        "id": "greenhouse-asana-8155344",
+        "seen_keys": [
+          "greenhouse-asana-8155344",
+          "url:https://www.asana.com/jobs/apply/8155344"
+        ],
+        "title": "Software Engineer, AI Teammates Experience",
+        "company": "Asana",
+        "location": "San Francisco",
+        "url": "https://www.asana.com/jobs/apply/8155344?gh_jid=8155344",
+        "platform": "greenhouse",
+        "posted_at": "2026-09-22T11:10:09-04:00",
+        "queued_at": "2026-09-22T18:23:22.995080+00:00"
+      },
+      {
+        "id": "zapply-875971d9d772",
+        "seen_keys": [
+          "zapply-875971d9d772",
+          "url:https://zapply.jobs/l/d/greenhouse-upstart-8223417"
+        ],
+        "title": "Software Engineer, Site Reliability",
+        "company": "Upstart",
+        "location": "United States Remote",
+        "url": "https://zapply.jobs/l/d/greenhouse-upstart-8223417?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-22T16:21:46.088028+00:00",
+        "queued_at": "2026-09-22T18:23:22.995088+00:00"
+      },
+      {
+        "id": "zapply-61904edcdc8c",
+        "seen_keys": [
+          "zapply-61904edcdc8c",
+          "url:https://zapply.jobs/l/d/oracle-sherwin-williams-2624433"
+        ],
+        "title": "SCADA Full Stack Application Developer - Industrial Automation",
+        "company": "Sherwin-Williams",
+        "location": "Cleveland, OH, United States",
+        "url": "https://zapply.jobs/l/d/oracle-sherwin-williams-2624433?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-22T00:21:46.089051+00:00",
+        "queued_at": "2026-09-22T18:23:22.995096+00:00"
+      },
+      {
+        "id": "jobright-da7ca5374771",
+        "seen_keys": [
+          "jobright-da7ca5374771",
+          "url:https://jobright.ai/jobs/info/6ab2979f78c69ff506c3f1c8"
+        ],
+        "title": "Frontend Engineer (React / Next.js)",
+        "company": "Mindsize",
+        "location": "United States",
+        "url": "https://jobright.ai/jobs/info/6ab2979f78c69ff506c3f1c8?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-22",
+        "queued_at": "2026-09-22T18:23:22.995109+00:00"
+      },
+      {
+        "id": "zapply-1a4d55f8d1ae",
+        "seen_keys": [
+          "zapply-1a4d55f8d1ae",
+          "url:https://zapply.jobs/l/d/ashby-applied-e10dc74a-12f8-42a3-94db-cf7e7ace9f61"
+        ],
+        "title": "Technical Sourcer, Gen SWE",
+        "company": "Applied Intuition",
+        "location": "Sunnyvale",
+        "url": "https://zapply.jobs/l/d/ashby-applied-e10dc74a-12f8-42a3-94db-cf7e7ace9f61?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-22T17:21:46.087812+00:00",
+        "queued_at": "2026-09-22T18:23:22.995118+00:00"
+      },
+      {
+        "id": "ashby-applied-e10dc74a-12f8-42a3-94db-cf7e7ace9f61",
+        "seen_keys": [
+          "ashby-applied-e10dc74a-12f8-42a3-94db-cf7e7ace9f61",
+          "url:https://jobs.ashbyhq.com/applied/e10dc74a-12f8-42a3-94db-cf7e7ace9f61"
+        ],
+        "title": "Technical Sourcer, Gen SWE",
+        "company": "Applied",
+        "location": "Sunnyvale",
+        "url": "https://jobs.ashbyhq.com/applied/e10dc74a-12f8-42a3-94db-cf7e7ace9f61",
+        "platform": "ashby",
+        "posted_at": "2026-09-22T16:26:58.439+00:00",
+        "queued_at": "2026-09-22T18:23:22.995127+00:00"
+      },
+      {
+        "id": "zapply-9bd57290d561",
+        "seen_keys": [
+          "zapply-9bd57290d561",
+          "url:https://zapply.jobs/l/d/ashby-rivianvw.tech-b6017142-1123-4999-8c04-d6d3b897f8d9"
+        ],
+        "title": "Systems Architecture Software Engineer",
+        "company": "Rivian and Volkswagen Group Technologies",
+        "location": "Palo Alto, California",
+        "url": "https://zapply.jobs/l/d/ashby-rivianvw.tech-b6017142-1123-4999-8c04-d6d3b897f8d9?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-22T16:21:46.087988+00:00",
+        "queued_at": "2026-09-22T18:23:22.995134+00:00"
+      },
+      {
+        "id": "gradtracker-ff726ffd17e8",
+        "seen_keys": [
+          "gradtracker-ff726ffd17e8",
+          "url:https://careers.oracle.com/jobs"
+        ],
+        "title": "Senor Software Engineer, Core Infrastructure",
+        "company": "Oracle",
+        "location": "Reston, VA, United States, United States",
+        "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/345852",
+        "platform": "gradtracker",
+        "posted_at": "2026-09-22",
+        "queued_at": "2026-09-22T18:23:22.995143+00:00"
       }
     ]
   },
-  "last_run": "2026-09-22T14:46:28.705438+00:00"
+  "last_run": "2026-09-22T18:23:23.723364+00:00"
 }
