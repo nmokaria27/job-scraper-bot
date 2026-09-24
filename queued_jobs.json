@@ -2,762 +2,146 @@
   "channels": {
     "swe-ai-full-time": [
       {
-        "id": "zapply-84907928d500",
+        "id": "zapply-92abebc8b478",
         "seen_keys": [
-          "zapply-84907928d500",
-          "url:https://zapply.jobs/l/d/ashby-sierra-b9b9b5e0-7304-4265-aa71-d71d80d29402"
+          "zapply-92abebc8b478",
+          "url:https://zapply.jobs/l/d/apple-200676528"
         ],
-        "title": "Software Engineer, Agent - Insurance",
-        "company": "Sierra",
-        "location": "San Francisco, CA",
-        "url": "https://zapply.jobs/l/d/ashby-sierra-b9b9b5e0-7304-4265-aa71-d71d80d29402?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T17:59:48.876958+00:00",
-        "queued_at": "2026-09-23T19:02:31.918500+00:00"
-      },
-      {
-        "id": "zapply-53ccc970ec69",
-        "seen_keys": [
-          "zapply-53ccc970ec69",
-          "url:https://zapply.jobs/l/d/ashby-sierra-d2dc9baf-30d4-4708-9227-62a946b4b37e"
-        ],
-        "title": "Software Engineer, Agent - Travel & Hospitality",
-        "company": "Sierra",
-        "location": "San Francisco, CA",
-        "url": "https://zapply.jobs/l/d/ashby-sierra-d2dc9baf-30d4-4708-9227-62a946b4b37e?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T17:59:48.876936+00:00",
-        "queued_at": "2026-09-23T19:02:31.918511+00:00"
-      },
-      {
-        "id": "zapply-c9536e4282de",
-        "seen_keys": [
-          "zapply-c9536e4282de",
-          "url:https://zapply.jobs/l/d/ashby-sierra-fd5df98a-e2c8-4d47-a803-daee5cccb36f"
-        ],
-        "title": "Software Engineer, Agent - Tech, Media & Telecom",
-        "company": "Sierra",
-        "location": "San Francisco, CA",
-        "url": "https://zapply.jobs/l/d/ashby-sierra-fd5df98a-e2c8-4d47-a803-daee5cccb36f?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T17:59:48.876913+00:00",
-        "queued_at": "2026-09-23T19:02:31.918521+00:00"
-      },
-      {
-        "id": "zapply-7d36f572ebee",
-        "seen_keys": [
-          "zapply-7d36f572ebee",
-          "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000151439939"
-        ],
-        "title": "Software Engineer - Android",
-        "company": "LinkedIn",
-        "location": "Mountain View, CA",
-        "url": "https://zapply.jobs/l/d/sr-LinkedIn3-744000151439939?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T17:59:48.876867+00:00",
-        "queued_at": "2026-09-23T19:02:31.918531+00:00"
-      },
-      {
-        "id": "zapply-138798316938",
-        "seen_keys": [
-          "zapply-138798316938",
-          "url:https://zapply.jobs/l/d/ashby-commure-0e3440aa-4ddc-4a43-b4c3-804e60a1b2ff"
-        ],
-        "title": "Software Engineer, Voice Agents",
-        "company": "Commure",
-        "location": "Mountain View, CA",
-        "url": "https://zapply.jobs/l/d/ashby-commure-0e3440aa-4ddc-4a43-b4c3-804e60a1b2ff?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T17:59:48.876799+00:00",
-        "queued_at": "2026-09-23T19:02:31.918538+00:00"
-      },
-      {
-        "id": "zapply-b9751aaa086c",
-        "seen_keys": [
-          "zapply-b9751aaa086c",
-          "url:https://zapply.jobs/l/d/sr-Intuitive-744000151442254"
-        ],
-        "title": "RISE Software Engineer",
-        "company": "Intuitive",
-        "location": "Sunnyvale, CA",
-        "url": "https://zapply.jobs/l/d/sr-Intuitive-744000151442254?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T17:59:48.876752+00:00",
-        "queued_at": "2026-09-23T19:02:31.918547+00:00"
-      },
-      {
-        "id": "zapply-800a0f360dd9",
-        "seen_keys": [
-          "zapply-800a0f360dd9",
-          "url:https://zapply.jobs/l/d/apple-200685202"
-        ],
-        "title": "Software Engineer \u2014 Face ID",
+        "title": "Distributed Systems Software Engineer (Golang)",
         "company": "Apple",
-        "location": "Sunnyvale",
-        "url": "https://zapply.jobs/l/d/apple-200685202?s=gh-new-grad-jobs-2027",
+        "location": "Austin",
+        "url": "https://zapply.jobs/l/d/apple-200676528?s=gh-new-grad-jobs-2027",
         "platform": "zapply",
-        "posted_at": "2026-09-23T17:59:48.876551+00:00",
-        "queued_at": "2026-09-23T19:02:31.918555+00:00"
+        "posted_at": "2026-09-24T02:58:23.130944+00:00",
+        "queued_at": "2026-09-24T14:59:53.510785+00:00"
       },
       {
-        "id": "ashby-sierra-fd5df98a-e2c8-4d47-a803-daee5cccb36f",
+        "id": "zapply-36c74d1ac754",
         "seen_keys": [
-          "ashby-sierra-fd5df98a-e2c8-4d47-a803-daee5cccb36f",
-          "url:https://jobs.ashbyhq.com/sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f"
+          "zapply-36c74d1ac754",
+          "url:https://zapply.jobs/l/d/amazon-c4e67171-56a0-4594-84ac-4b01ef5ef1f2"
         ],
-        "title": "Software Engineer, Agent - Tech, Media & Telecom",
-        "company": "Sierra",
-        "location": "San Francisco, CA / New York, NY",
-        "url": "https://jobs.ashbyhq.com/sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f",
-        "platform": "ashby",
-        "posted_at": "2026-09-23T17:08:47.244+00:00",
-        "queued_at": "2026-09-23T19:02:31.918564+00:00"
-      },
-      {
-        "id": "ashby-sierra-d2dc9baf-30d4-4708-9227-62a946b4b37e",
-        "seen_keys": [
-          "ashby-sierra-d2dc9baf-30d4-4708-9227-62a946b4b37e",
-          "url:https://jobs.ashbyhq.com/sierra/d2dc9baf-30d4-4708-9227-62a946b4b37e"
-        ],
-        "title": "Software Engineer, Agent - Travel & Hospitality",
-        "company": "Sierra",
-        "location": "San Francisco, CA / New York, NY / Atlanta, GA",
-        "url": "https://jobs.ashbyhq.com/sierra/d2dc9baf-30d4-4708-9227-62a946b4b37e",
-        "platform": "ashby",
-        "posted_at": "2026-09-23T17:08:27.771+00:00",
-        "queued_at": "2026-09-23T19:02:31.918572+00:00"
-      },
-      {
-        "id": "ashby-sierra-b9b9b5e0-7304-4265-aa71-d71d80d29402",
-        "seen_keys": [
-          "ashby-sierra-b9b9b5e0-7304-4265-aa71-d71d80d29402",
-          "url:https://jobs.ashbyhq.com/sierra/b9b9b5e0-7304-4265-aa71-d71d80d29402"
-        ],
-        "title": "Software Engineer, Agent - Insurance",
-        "company": "Sierra",
-        "location": "San Francisco, CA / New York, NY / Atlanta, GA",
-        "url": "https://jobs.ashbyhq.com/sierra/b9b9b5e0-7304-4265-aa71-d71d80d29402",
-        "platform": "ashby",
-        "posted_at": "2026-09-23T17:07:19.284+00:00",
-        "queued_at": "2026-09-23T19:02:31.918580+00:00"
-      },
-      {
-        "id": "ashby-sierra-c729c633-0376-436e-8f2b-1501088b85b0",
-        "seen_keys": [
-          "ashby-sierra-c729c633-0376-436e-8f2b-1501088b85b0",
-          "url:https://jobs.ashbyhq.com/sierra/c729c633-0376-436e-8f2b-1501088b85b0"
-        ],
-        "title": "Software Engineer, Agent - Retail",
-        "company": "Sierra",
-        "location": "San Francisco, CA / New York, NY / Atlanta, GA / Toronto",
-        "url": "https://jobs.ashbyhq.com/sierra/c729c633-0376-436e-8f2b-1501088b85b0",
-        "platform": "ashby",
-        "posted_at": "2026-09-23T17:06:32.307+00:00",
-        "queued_at": "2026-09-23T19:02:31.918588+00:00"
-      },
-      {
-        "id": "ashby-sierra-7dae2e7c-6556-438c-bf60-509931d8188c",
-        "seen_keys": [
-          "ashby-sierra-7dae2e7c-6556-438c-bf60-509931d8188c",
-          "url:https://jobs.ashbyhq.com/sierra/7dae2e7c-6556-438c-bf60-509931d8188c"
-        ],
-        "title": "Software Engineer, Agent - Public Sector",
-        "company": "Sierra",
-        "location": "San Francisco, CA / New York, NY",
-        "url": "https://jobs.ashbyhq.com/sierra/7dae2e7c-6556-438c-bf60-509931d8188c",
-        "platform": "ashby",
-        "posted_at": "2026-09-23T17:06:01.317+00:00",
-        "queued_at": "2026-09-23T19:02:31.918596+00:00"
-      },
-      {
-        "id": "ashby-sierra-33dbd62f-8212-4ea8-9b59-74370c1f2803",
-        "seen_keys": [
-          "ashby-sierra-33dbd62f-8212-4ea8-9b59-74370c1f2803",
-          "url:https://jobs.ashbyhq.com/sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803"
-        ],
-        "title": "Software Engineer, Agent - Financial Services",
-        "company": "Sierra",
-        "location": "San Francisco, CA / New York, NY / Atlanta, GA",
-        "url": "https://jobs.ashbyhq.com/sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803",
-        "platform": "ashby",
-        "posted_at": "2026-09-23T17:05:41.540+00:00",
-        "queued_at": "2026-09-23T19:02:31.918603+00:00"
-      },
-      {
-        "id": "ashby-sierra-f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
-        "seen_keys": [
-          "ashby-sierra-f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
-          "url:https://jobs.ashbyhq.com/sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9"
-        ],
-        "title": "Software Engineer, Agent - Healthcare",
-        "company": "Sierra",
-        "location": "New York, NY",
-        "url": "https://jobs.ashbyhq.com/sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
-        "platform": "ashby",
-        "posted_at": "2026-09-23T17:05:12.660+00:00",
-        "queued_at": "2026-09-23T19:02:31.918611+00:00"
-      },
-      {
-        "id": "zapply-5ae5ae0d7b86",
-        "seen_keys": [
-          "zapply-5ae5ae0d7b86",
-          "url:https://zapply.jobs/l/d/amazon-e7634b52-f20d-4e1c-9bc2-ec02a2283ee9"
-        ],
-        "title": "Applied Scientist, AWS Payments and Fraud Prevention",
+        "title": "Software Engineer, EC2 Nitro",
         "company": "Amazon Development Center U.S., Inc.",
         "location": "Seattle, WA",
-        "url": "https://zapply.jobs/l/d/amazon-e7634b52-f20d-4e1c-9bc2-ec02a2283ee9?s=gh-new-grad-jobs-2027",
+        "url": "https://zapply.jobs/l/d/amazon-c4e67171-56a0-4594-84ac-4b01ef5ef1f2?s=gh-new-grad-jobs-2027",
         "platform": "zapply",
-        "posted_at": "2026-09-23T00:59:48.878979+00:00",
-        "queued_at": "2026-09-23T19:02:31.918619+00:00"
+        "posted_at": "2026-09-24T00:58:23.131102+00:00",
+        "queued_at": "2026-09-24T14:59:53.510799+00:00"
       },
       {
-        "id": "zapply-e2e7bef3cb79",
+        "id": "amazon-10559049",
         "seen_keys": [
-          "zapply-e2e7bef3cb79",
-          "url:https://zapply.jobs/l/d/amazon-fe8625f6-00b9-44a5-b1e0-1a1c9e693c54"
+          "amazon-10559049",
+          "url:https://www.amazon.jobs/en/jobs/10559049/software-development-engineer-amazon-shopping-videos-ads"
         ],
-        "title": "Data Engineer, WW Ops Finance - S&A",
-        "company": "Amazon.com Services LLC",
-        "location": "Bellevue, WA",
-        "url": "https://zapply.jobs/l/d/amazon-fe8625f6-00b9-44a5-b1e0-1a1c9e693c54?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T00:59:48.878875+00:00",
-        "queued_at": "2026-09-23T19:02:31.918627+00:00"
-      },
-      {
-        "id": "amazon-10557990",
-        "seen_keys": [
-          "amazon-10557990",
-          "url:https://www.amazon.jobs/en/jobs/10557990/software-development-engineer-ads-ai-core-infra"
-        ],
-        "title": "Software Development Engineer, Ads AI Core Infra",
+        "title": "Software Development Engineer, Amazon Shopping Videos (Ads)",
         "company": "Amazon",
         "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10557990/software-development-engineer-ads-ai-core-infra",
+        "url": "https://www.amazon.jobs/en/jobs/10559049/software-development-engineer-amazon-shopping-videos-ads",
         "platform": "amazon",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T19:02:31.918634+00:00"
+        "posted_at": "2026-09-24",
+        "queued_at": "2026-09-24T14:59:53.510807+00:00"
       },
       {
-        "id": "amazon-10557777",
+        "id": "workday-adobe-R171796",
         "seen_keys": [
-          "amazon-10557777",
-          "url:https://www.amazon.jobs/en/jobs/10557777/applied-scientist-catalog-system-services-science"
+          "workday-adobe-R171796",
+          "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R171796"
         ],
-        "title": "Applied Scientist, Catalog System Services Science",
-        "company": "Amazon",
-        "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10557777/applied-scientist-catalog-system-services-science",
-        "platform": "amazon",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T19:02:31.918642+00:00"
-      },
-      {
-        "id": "amazon-10557803",
-        "seen_keys": [
-          "amazon-10557803",
-          "url:https://www.amazon.jobs/en/jobs/10557803/applied-scientist-aws-payments-and-fraud-prevention"
-        ],
-        "title": "Applied Scientist, AWS Payments and Fraud Prevention",
-        "company": "Amazon",
-        "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10557803/applied-scientist-aws-payments-and-fraud-prevention",
-        "platform": "amazon",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T19:02:31.918649+00:00"
-      },
-      {
-        "id": "workday-intel-JR0287335",
-        "seen_keys": [
-          "workday-intel-JR0287335",
-          "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Software-Development-Engineer---Neuromorphic-Computing_JR0287335"
-        ],
-        "title": "AI Software Development Engineer - Neuromorphic Computing",
-        "company": "Intel",
-        "location": "US, California, Santa Clara",
-        "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Software-Development-Engineer---Neuromorphic-Computing_JR0287335",
+        "title": "Software Development Engineer",
+        "company": "Adobe",
+        "location": "2 Locations",
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R171796",
         "platform": "workday",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T19:02:31.918658+00:00"
+        "posted_at": "2026-09-24",
+        "queued_at": "2026-09-24T14:59:53.510818+00:00"
       },
       {
-        "id": "ashby-modal-a518f2cd-e0c7-4105-9004-d7971f7b1daf",
+        "id": "zapply-7d14707914dc",
         "seen_keys": [
-          "ashby-modal-a518f2cd-e0c7-4105-9004-d7971f7b1daf",
-          "url:https://jobs.ashbyhq.com/modal/a518f2cd-e0c7-4105-9004-d7971f7b1daf"
+          "zapply-7d14707914dc",
+          "url:https://zapply.jobs/l/d/google-90333510476145350"
         ],
-        "title": "Analytics Engineer",
-        "company": "Modal",
-        "location": "New York / Stockholm / San Francisco",
-        "url": "https://jobs.ashbyhq.com/modal/a518f2cd-e0c7-4105-9004-d7971f7b1daf",
-        "platform": "ashby",
-        "posted_at": "2026-09-23T18:49:25.298+00:00",
-        "queued_at": "2026-09-23T19:02:31.918666+00:00"
-      },
-      {
-        "id": "zapply-5571f708fda6",
-        "seen_keys": [
-          "zapply-5571f708fda6",
-          "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2011622"
-        ],
-        "title": "System Software Engineer, Profiler - GPU",
-        "company": "NVIDIA",
-        "location": "TX Austin",
-        "url": "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2011622?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T18:23:48.875848+00:00",
-        "queued_at": "2026-09-23T19:02:31.918673+00:00"
-      },
-      {
-        "id": "zapply-64f3c11c64d3",
-        "seen_keys": [
-          "zapply-64f3c11c64d3",
-          "url:https://zapply.jobs/l/d/greenhouse-vast-4715944006"
-        ],
-        "title": "Software Engineer, Mission Software",
-        "company": "VAST",
-        "location": "Long Beach, California, United...",
-        "url": "https://zapply.jobs/l/d/greenhouse-vast-4715944006?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T18:20:48.875966+00:00",
-        "queued_at": "2026-09-23T19:02:31.918680+00:00"
-      },
-      {
-        "id": "zapply-daa3027b87c9",
-        "seen_keys": [
-          "zapply-daa3027b87c9",
-          "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4713230006"
-        ],
-        "title": "Software Developer (Enhancement)",
-        "company": "Accenture Federal Services",
-        "location": "Washington, DC",
-        "url": "https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4713230006?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T18:19:48.875990+00:00",
-        "queued_at": "2026-09-23T19:02:31.918688+00:00"
-      },
-      {
-        "id": "zapply-b3e707e54381",
-        "seen_keys": [
-          "zapply-b3e707e54381",
-          "url:https://zapply.jobs/l/d/greenhouse-doordashusa-8225722"
-        ],
-        "title": "Autonomy Platform Engineer",
-        "company": "DoorDash",
-        "location": "San Francisco, CA",
-        "url": "https://zapply.jobs/l/d/greenhouse-doordashusa-8225722?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T18:13:48.876087+00:00",
-        "queued_at": "2026-09-23T19:02:31.918695+00:00"
-      },
-      {
-        "id": "greenhouse-doordashusa-8225722",
-        "seen_keys": [
-          "greenhouse-doordashusa-8225722",
-          "url:https://job-boards.greenhouse.io/doordashusa/jobs/8225722"
-        ],
-        "title": "Autonomy Platform Engineer",
-        "company": "Doordashusa",
-        "location": "San Francisco, CA",
-        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8225722",
-        "platform": "greenhouse",
-        "posted_at": "2026-09-23T14:04:38-04:00",
-        "queued_at": "2026-09-23T19:02:31.918703+00:00"
-      },
-      {
-        "id": "zapply-611d5638890e",
-        "seen_keys": [
-          "zapply-611d5638890e",
-          "url:https://zapply.jobs/l/d/greenhouse-spacex-8837547002"
-        ],
-        "title": "Full Stack Software Engineer",
-        "company": "SpaceX",
-        "location": "Starbase, TX",
-        "url": "https://zapply.jobs/l/d/greenhouse-spacex-8837547002?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T15:59:48.877173+00:00",
-        "queued_at": "2026-09-23T19:02:31.918710+00:00"
-      },
-      {
-        "id": "jobright-678897cbf97a",
-        "seen_keys": [
-          "jobright-678897cbf97a",
-          "url:https://jobright.ai/jobs/info/6ab3f2ad0e0ae54eeea457da"
-        ],
-        "title": "Software Developer - FRM Trading Technologies",
-        "company": "Milliman",
-        "location": "Chicago, IL, United States",
-        "url": "https://jobright.ai/jobs/info/6ab3f2ad0e0ae54eeea457da?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T19:02:31.918729+00:00"
-      },
-      {
-        "id": "jobright-fda4d3c78998",
-        "seen_keys": [
-          "jobright-fda4d3c78998",
-          "url:https://jobright.ai/jobs/info/6ab3ef8755e9168cf5ea34c2"
-        ],
-        "title": "Software Engineer \u2013 Oscilloscope & Measurement Solutions",
-        "company": "Keysight Technologies",
-        "location": "Colorado Springs, CO, United States",
-        "url": "https://jobright.ai/jobs/info/6ab3ef8755e9168cf5ea34c2?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T19:02:31.918743+00:00"
-      },
-      {
-        "id": "amazon-10558206",
-        "seen_keys": [
-          "amazon-10558206",
-          "url:https://www.amazon.jobs/en/jobs/10558206/software-development-engineer-ads-experience-framework"
-        ],
-        "title": "Software Development Engineer, Ads Experience Framework",
-        "company": "Amazon",
-        "location": "New York, New York, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10558206/software-development-engineer-ads-experience-framework",
-        "platform": "amazon",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T19:02:31.918751+00:00"
-      },
-      {
-        "id": "zapply-38795b77e21e",
-        "seen_keys": [
-          "zapply-38795b77e21e",
-          "url:https://zapply.jobs/l/d/google-140783433285542598"
-        ],
-        "title": "Software Developer, iOS, Glasses System UI",
+        "title": "Software Engineer, Anti-distillation Investigations, Enforcements and Infrastructure, DeepMind",
         "company": "Google",
         "location": "United States",
-        "url": "https://zapply.jobs/l/d/google-140783433285542598?s=gh-new-grad-jobs-2027",
+        "url": "https://zapply.jobs/l/d/google-90333510476145350?s=gh-new-grad-jobs-2027",
         "platform": "zapply",
         "posted_at": "Unknown",
-        "queued_at": "2026-09-23T19:02:31.918759+00:00"
+        "queued_at": "2026-09-24T14:59:53.510826+00:00"
       },
       {
-        "id": "zapply-53595cf8918a",
+        "id": "jobright-248b1c3831eb",
         "seen_keys": [
-          "zapply-53595cf8918a",
-          "url:https://zapply.jobs/l/d/workday-jll-jllcareers-REQ521833"
+          "jobright-248b1c3831eb",
+          "url:https://jobright.ai/jobs/info/6a4356a8b0f2553559ed0040"
         ],
-        "title": "Union Mobile Engineer",
-        "company": "JLL",
-        "location": "Escondido, CA",
-        "url": "https://zapply.jobs/l/d/workday-jll-jllcareers-REQ521833?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T17:59:48.876889+00:00",
-        "queued_at": "2026-09-23T19:02:31.918766+00:00"
+        "title": "#Embedded Software Engineer \u2013 Device Driver Development",
+        "company": "Qualcomm",
+        "location": "San Diego, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6a4356a8b0f2553559ed0040?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-24",
+        "queued_at": "2026-09-24T14:59:53.510841+00:00"
       },
       {
-        "id": "ashby-cursor-9b897011-11bc-4d8f-beb4-d2155d36e941",
+        "id": "jobright-d0fbbc4623ac",
         "seen_keys": [
-          "ashby-cursor-9b897011-11bc-4d8f-beb4-d2155d36e941",
-          "url:https://jobs.ashbyhq.com/cursor/9b897011-11bc-4d8f-beb4-d2155d36e941"
+          "jobright-d0fbbc4623ac",
+          "url:https://jobright.ai/jobs/info/6a99765a138838706058dfc8"
         ],
-        "title": "Forward Deployed Strategist ",
-        "company": "Cursor",
-        "location": "London / New York / Remote",
-        "url": "https://jobs.ashbyhq.com/cursor/9b897011-11bc-4d8f-beb4-d2155d36e941",
-        "platform": "ashby",
-        "posted_at": "2026-09-23T15:41:05.246+00:00",
-        "queued_at": "2026-09-23T19:02:31.918774+00:00"
+        "title": "Software Engineer- Cloud Infrastructure and DevOps",
+        "company": "Venmo",
+        "location": "Austin, TX, United States",
+        "url": "https://jobright.ai/jobs/info/6a99765a138838706058dfc8?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-24",
+        "queued_at": "2026-09-24T14:59:53.510853+00:00"
       },
       {
-        "id": "jobright-01377dab38be",
+        "id": "jobright-35ef223fc988",
         "seen_keys": [
-          "jobright-01377dab38be",
-          "url:https://jobright.ai/jobs/info/6ab3e27264816213f2d95dac"
+          "jobright-35ef223fc988",
+          "url:https://jobright.ai/jobs/info/6ab47e5c64816213f2d994de"
         ],
-        "title": "Jr. Critical Infrastructure Engineer",
-        "company": "DataBank",
-        "location": "Atlanta, GA, United States",
-        "url": "https://jobright.ai/jobs/info/6ab3e27264816213f2d95dac?utm_campaign=Software%20Engineering&utm_source=1103",
+        "title": "Software Engineer, Forward Deployed",
+        "company": "Invisible Technologies",
+        "location": "New York, United States",
+        "url": "https://jobright.ai/jobs/info/6ab47e5c64816213f2d994de?utm_campaign=Software%20Engineering&utm_source=1103",
         "platform": "jobright",
         "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T19:02:31.918787+00:00"
+        "queued_at": "2026-09-24T14:59:53.510862+00:00"
       },
       {
-        "id": "zapply-fa814ad66bc7",
+        "id": "zapply-770f8864c93a",
         "seen_keys": [
-          "zapply-fa814ad66bc7",
-          "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229108"
+          "zapply-770f8864c93a",
+          "url:https://zapply.jobs/l/d/google-76741760050438854"
         ],
-        "title": "Software Developer",
-        "company": "GDIT",
-        "location": "USA VA Herndon",
-        "url": "https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229108?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T21:30:10.499413+00:00",
-        "queued_at": "2026-09-23T22:15:30.927676+00:00"
-      },
-      {
-        "id": "zapply-7771fb07fae3",
-        "seen_keys": [
-          "zapply-7771fb07fae3",
-          "url:https://zapply.jobs/l/d/workday-visa-visa-REF088446W"
-        ],
-        "title": "Software Engineer (Android / iOS)",
-        "company": "Visa",
-        "location": "Austin, TX",
-        "url": "https://zapply.jobs/l/d/workday-visa-visa-REF088446W?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T21:30:10.499295+00:00",
-        "queued_at": "2026-09-23T22:15:30.927688+00:00"
-      },
-      {
-        "id": "zapply-a71128fbc334",
-        "seen_keys": [
-          "zapply-a71128fbc334",
-          "url:https://zapply.jobs/l/d/ashby-airwallex-5031c6ab-8fd3-4b2f-8c1d-4271e85075b0"
-        ],
-        "title": "Software Engineer, Infrastructure AI",
-        "company": "Airwallex",
-        "location": "Seattle",
-        "url": "https://zapply.jobs/l/d/ashby-airwallex-5031c6ab-8fd3-4b2f-8c1d-4271e85075b0?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T21:14:10.500397+00:00",
-        "queued_at": "2026-09-23T22:15:30.927698+00:00"
-      },
-      {
-        "id": "zapply-3a73c347f1a1",
-        "seen_keys": [
-          "zapply-3a73c347f1a1",
-          "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1200169"
-        ],
-        "title": "Software Engineer - Embedded System (Sunnyvale, CA.)",
-        "company": "HPE (University)",
-        "location": "Sunnyvale, California, United...",
-        "url": "https://zapply.jobs/l/d/workday-hpe-jobsathpe-1200169?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T21:14:10.499913+00:00",
-        "queued_at": "2026-09-23T22:15:30.927707+00:00"
-      },
-      {
-        "id": "zapply-1a59b98a1874",
-        "seen_keys": [
-          "zapply-1a59b98a1874",
-          "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4713341006"
-        ],
-        "title": "Software Developer (RICEFW/Bolt-on)",
-        "company": "Accenture Federal Services",
-        "location": "Washington, DC",
-        "url": "https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4713341006?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T19:14:10.500810+00:00",
-        "queued_at": "2026-09-23T22:15:30.927716+00:00"
-      },
-      {
-        "id": "jobright-fa78b6f3bc68",
-        "seen_keys": [
-          "jobright-fa78b6f3bc68",
-          "url:https://jobright.ai/jobs/info/6ab4236dd2f5fbd604be1cc0"
-        ],
-        "title": "Software Engineer - Android",
-        "company": "LinkedIn",
-        "location": "Mountain View, CA, United States",
-        "url": "https://jobright.ai/jobs/info/6ab4236dd2f5fbd604be1cc0?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T22:15:30.927737+00:00"
-      },
-      {
-        "id": "amazon-10558288",
-        "seen_keys": [
-          "amazon-10558288",
-          "url:https://www.amazon.jobs/en/jobs/10558288/applied-scientist-neuron-arg-annapurna-ml"
-        ],
-        "title": "Applied Scientist, Neuron ARG, Annapurna ML",
-        "company": "Amazon",
-        "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10558288/applied-scientist-neuron-arg-annapurna-ml",
-        "platform": "amazon",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T22:15:30.927747+00:00"
-      },
-      {
-        "id": "zapply-53d842766e3f",
-        "seen_keys": [
-          "zapply-53d842766e3f",
-          "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1200169"
-        ],
-        "title": "Software Engineer - Embedded System (Sunnyvale, CA.)",
-        "company": "HPE",
-        "location": "Sunnyvale, California, United...",
-        "url": "https://zapply.jobs/l/d/workday-hpe-acjobsite-1200169?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T21:30:10.499390+00:00",
-        "queued_at": "2026-09-23T22:15:30.927756+00:00"
-      },
-      {
-        "id": "greenhouse-airbnb-8227620",
-        "seen_keys": [
-          "greenhouse-airbnb-8227620",
-          "url:https://careers.airbnb.com/positions/8227620"
-        ],
-        "title": "Software Engineer, Application Platform",
-        "company": "Airbnb",
+        "title": "Software Engineer, Payments Infrastructure, Vendor Gateway Platform Outbound Flows",
+        "company": "Google",
         "location": "United States",
-        "url": "https://careers.airbnb.com/positions/8227620?gh_jid=8227620",
-        "platform": "greenhouse",
-        "posted_at": "2026-09-23T17:27:50-04:00",
-        "queued_at": "2026-09-23T22:15:30.927765+00:00"
-      },
-      {
-        "id": "zapply-b8863d1d5e42",
-        "seen_keys": [
-          "zapply-b8863d1d5e42",
-          "url:https://zapply.jobs/l/d/greenhouse-purestorage-8220346"
-        ],
-        "title": "Systems Software Engineer",
-        "company": "Pure Storage",
-        "location": "Santa Clara, California",
-        "url": "https://zapply.jobs/l/d/greenhouse-purestorage-8220346?s=gh-new-grad-jobs-2027",
+        "url": "https://zapply.jobs/l/d/google-76741760050438854?s=gh-new-grad-jobs-2027",
         "platform": "zapply",
-        "posted_at": "2026-09-23T21:14:10.500350+00:00",
-        "queued_at": "2026-09-23T22:15:30.927772+00:00"
+        "posted_at": "Unknown",
+        "queued_at": "2026-09-24T14:59:53.510869+00:00"
       },
       {
-        "id": "zapply-28fa99fc26d6",
+        "id": "lever-palantir-a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
         "seen_keys": [
-          "zapply-28fa99fc26d6",
-          "url:https://zapply.jobs/l/d/workday-nasdaq-global-external-site-R0026613"
+          "lever-palantir-a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
+          "url:https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58"
         ],
-        "title": "AI / DevOps Engineer \u2013 Agentic Systems & Automation",
-        "company": "Nasdaq",
-        "location": "New York City New York",
-        "url": "https://zapply.jobs/l/d/workday-nasdaq-global-external-site-R0026613?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T21:14:10.500080+00:00",
-        "queued_at": "2026-09-23T22:15:30.927780+00:00"
-      },
-      {
-        "id": "ashby-handshake-bd6c7320-2bfc-4015-8ee1-5b0997b6a9d1",
-        "seen_keys": [
-          "ashby-handshake-bd6c7320-2bfc-4015-8ee1-5b0997b6a9d1",
-          "url:https://jobs.ashbyhq.com/handshake/bd6c7320-2bfc-4015-8ee1-5b0997b6a9d1"
-        ],
-        "title": "Member of Technical Staff, Post-Training",
-        "company": "Handshake",
-        "location": "Remote (USA) / Toronto, Ontario / Remote (UK)",
-        "url": "https://jobs.ashbyhq.com/handshake/bd6c7320-2bfc-4015-8ee1-5b0997b6a9d1",
-        "platform": "ashby",
-        "posted_at": "2026-09-23T19:49:49.815+00:00",
-        "queued_at": "2026-09-23T22:15:30.927788+00:00"
-      },
-      {
-        "id": "jobright-d5ec19a83961",
-        "seen_keys": [
-          "jobright-d5ec19a83961",
-          "url:https://jobright.ai/jobs/info/6ab40816ef911c35dffa2d8b"
-        ],
-        "title": "Software Engineer Job Details / AGCO",
-        "company": "AGCO Corporation",
-        "location": "Jackson, MN, United States",
-        "url": "https://jobright.ai/jobs/info/6ab40816ef911c35dffa2d8b?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T22:15:30.927801+00:00"
-      },
-      {
-        "id": "jobright-b0797ae14a51",
-        "seen_keys": [
-          "jobright-b0797ae14a51",
-          "url:https://jobright.ai/jobs/info/6ab43a81d2f5fbd604be2411"
-        ],
-        "title": "Embedded Software Engineer",
-        "company": "Apogee Research, LLC",
-        "location": "Arlington, VA, United States",
-        "url": "https://jobright.ai/jobs/info/6ab43a81d2f5fbd604be2411?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T22:15:30.927813+00:00"
-      },
-      {
-        "id": "jobright-be193b4a53bd",
-        "seen_keys": [
-          "jobright-be193b4a53bd",
-          "url:https://jobright.ai/jobs/info/6ab42a787bd08137133161bd"
-        ],
-        "title": "Software Engineer - Embedded System (Sunnyvale, CA.)",
-        "company": "Hewlett Packard Enterprise",
-        "location": "Sunnyvale, CA, United States",
-        "url": "https://jobright.ai/jobs/info/6ab42a787bd08137133161bd?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-22",
-        "queued_at": "2026-09-23T22:15:30.927825+00:00"
-      },
-      {
-        "id": "zapply-fd5cbebcebe1",
-        "seen_keys": [
-          "zapply-fd5cbebcebe1",
-          "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025342"
-        ],
-        "title": "Software Engineer, CX(Hybrid)",
-        "company": "Cisco",
-        "location": "Richardson Texas US",
-        "url": "https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025342?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T21:40:10.499038+00:00",
-        "queued_at": "2026-09-23T22:15:30.927832+00:00"
-      },
-      {
-        "id": "zapply-04e694689b17",
-        "seen_keys": [
-          "zapply-04e694689b17",
-          "url:https://zapply.jobs/l/d/greenhouse-block-5418586008"
-        ],
-        "title": "Software Engineer, Privacy Engineering",
-        "company": "Block",
-        "location": "Bay Area, CA, United States of...",
-        "url": "https://zapply.jobs/l/d/greenhouse-block-5418586008?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-23T21:14:10.500522+00:00",
-        "queued_at": "2026-09-23T22:15:30.927840+00:00"
-      },
-      {
-        "id": "greenhouse-block-5418586008",
-        "seen_keys": [
-          "greenhouse-block-5418586008",
-          "url:http://block.xyz/careers/jobs/5418586008"
-        ],
-        "title": "Software Engineer, Privacy Engineering",
-        "company": "Block",
-        "location": "Bay Area, CA, United States of America",
-        "url": "http://block.xyz/careers/jobs/5418586008?gh_jid=5418586008",
-        "platform": "greenhouse",
-        "posted_at": "2026-09-23T16:17:41-04:00",
-        "queued_at": "2026-09-23T22:15:30.927848+00:00"
-      },
-      {
-        "id": "jobright-a2f498312303",
-        "seen_keys": [
-          "jobright-a2f498312303",
-          "url:https://jobright.ai/jobs/info/6ab40d4864816213f2d96f31"
-        ],
-        "title": "Junior Infrastructure Engineer",
-        "company": "TechSur Solutions",
-        "location": "Reston, VA, United States",
-        "url": "https://jobright.ai/jobs/info/6ab40d4864816213f2d96f31?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T22:15:30.927860+00:00"
-      },
-      {
-        "id": "workday-salesforce-JR360867",
-        "seen_keys": [
-          "workday-salesforce-JR360867",
-          "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Member-of-Technical-Staff--MTS---Software-Engineer--Identity---Access-Management_JR360867"
-        ],
-        "title": "Member of Technical Staff (MTS), Software Engineer, Identity & Access Management",
-        "company": "Salesforce",
-        "location": "Washington - Bellevue",
-        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Member-of-Technical-Staff--MTS---Software-Engineer--Identity---Access-Management_JR360867",
-        "platform": "workday",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-23T22:15:30.927869+00:00"
+        "title": "Forward Deployed Software Engineer - US Government",
+        "company": "Palantir",
+        "location": "Kitsap, WA",
+        "url": "https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
+        "platform": "lever",
+        "posted_at": "2026-09-24T14:50:21.850000+00:00",
+        "queued_at": "2026-09-24T14:59:53.510877+00:00"
       }
     ]
   },
-  "last_run": "2026-09-24T00:37:00.842953+00:00"
+  "last_run": "2026-09-24T14:59:53.824183+00:00"
 }
