@@ -1,174 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-0e44af4b7d7a",
-      "seen_at": "2026-08-25T20:08:26.147181+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a8dae3cd34f700f87fd5363",
-      "seen_at": "2026-08-25T20:08:26.147691+00:00"
-    },
-    {
-      "id": "jobright-2c803f0ef841",
-      "seen_at": "2026-08-25T20:08:26.148144+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a8dd1dc581f2d7bfdfe95b0",
-      "seen_at": "2026-08-25T20:08:26.148576+00:00"
-    },
-    {
-      "id": "jobright-c453ea3f2b21",
-      "seen_at": "2026-08-25T20:08:26.148995+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7223ca71acd469eeda62e7",
-      "seen_at": "2026-08-25T20:08:26.149441+00:00"
-    },
-    {
-      "id": "jobright-ad155d95481f",
-      "seen_at": "2026-08-25T21:12:20.918676+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a8de48447679c68bf5e564e",
-      "seen_at": "2026-08-25T21:12:20.919163+00:00"
-    },
-    {
-      "id": "jobright-a4fb182223a9",
-      "seen_at": "2026-08-25T21:12:20.919598+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a8ddaba47679c68bf5e523d",
-      "seen_at": "2026-08-25T21:12:20.919986+00:00"
-    },
-    {
-      "id": "greenhouse-reddit-8029120",
-      "seen_at": "2026-08-25T21:12:22.167888+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8029120",
-      "seen_at": "2026-08-25T21:12:22.168460+00:00"
-    },
-    {
-      "id": "simplify-a767329d-41e2-4902-a15c-d28cb21ad5e1",
-      "seen_at": "2026-08-25T21:47:02.993960+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application",
-      "seen_at": "2026-08-25T21:47:02.994652+00:00"
-    },
-    {
-      "id": "simplify-a19e6481-79f8-4c12-b497-9d6b4566b45d",
-      "seen_at": "2026-08-25T21:47:02.995174+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008",
-      "seen_at": "2026-08-25T21:47:02.995664+00:00"
-    },
-    {
-      "id": "simplify-15dc91f7-a293-402d-901f-811134f675ec",
-      "seen_at": "2026-08-25T21:47:02.996156+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008",
-      "seen_at": "2026-08-25T21:47:02.996641+00:00"
-    },
-    {
-      "id": "simplify-d449be3f-76e4-4a23-907f-0c7e8bcd8582",
-      "seen_at": "2026-08-25T21:47:02.997122+00:00"
-    },
-    {
-      "id": "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522",
-      "seen_at": "2026-08-25T21:47:02.997631+00:00"
-    },
-    {
-      "id": "simplify-f68967a4-f885-4449-89e6-b22c60cedbf9",
-      "seen_at": "2026-08-25T21:47:02.998116+00:00"
-    },
-    {
-      "id": "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554",
-      "seen_at": "2026-08-25T21:47:02.998597+00:00"
-    },
-    {
-      "id": "simplify-b5558b87-ced5-4750-8c2d-4314921cca90",
-      "seen_at": "2026-08-25T21:47:02.999080+00:00"
-    },
-    {
-      "id": "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562",
-      "seen_at": "2026-08-25T21:47:02.999562+00:00"
-    },
-    {
-      "id": "simplify-9e602b9d-937d-4437-b971-a23ddfa8eb74",
-      "seen_at": "2026-08-25T21:47:03.000056+00:00"
-    },
-    {
-      "id": "url:https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561",
-      "seen_at": "2026-08-25T21:47:03.000567+00:00"
-    },
-    {
-      "id": "simplify-8cf244f2-f67a-4786-b968-74bd6c7aec38",
-      "seen_at": "2026-08-25T21:47:04.314493+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/Xpansiv%20/8a1649ec-ef5f-425d-8a36-34f28d67e8a7/apply",
-      "seen_at": "2026-08-25T21:47:04.315091+00:00"
-    },
-    {
-      "id": "simplify-9f6e8d63-9cab-4749-85bc-bfe74f9c7577",
-      "seen_at": "2026-08-25T21:47:10.603981+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application",
-      "seen_at": "2026-08-25T21:47:10.604623+00:00"
-    },
-    {
-      "id": "simplify-22286d2e-ab8f-421b-9e32-02038a5bffa4",
-      "seen_at": "2026-08-25T21:47:10.605136+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application",
-      "seen_at": "2026-08-25T21:47:10.605619+00:00"
-    },
-    {
-      "id": "simplify-c4e96033-c49b-49e3-88cd-fa2f2f99ade1",
-      "seen_at": "2026-08-25T21:47:10.606110+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
-      "seen_at": "2026-08-25T21:47:10.606584+00:00"
-    },
-    {
-      "id": "simplify-5516fbba-d287-4ee8-b391-dd0e5a0c4797",
-      "seen_at": "2026-08-25T21:47:10.607061+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
-      "seen_at": "2026-08-25T21:47:10.607580+00:00"
-    },
-    {
-      "id": "simplify-2b100e48-0d13-4ce4-84ba-7549d0d15f9b",
-      "seen_at": "2026-08-25T21:47:10.608040+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
-      "seen_at": "2026-08-25T21:47:10.608477+00:00"
-    },
-    {
-      "id": "simplify-a3fa760c-c8ec-4d27-8090-1ff8948cd4d0",
-      "seen_at": "2026-08-25T21:47:10.608952+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/59654",
-      "seen_at": "2026-08-25T21:47:10.609474+00:00"
-    },
-    {
-      "id": "greenhouse-figma-6158162004",
-      "seen_at": "2026-08-25T21:47:10.609939+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/6158162004",
-      "seen_at": "2026-08-25T21:47:10.610401+00:00"
-    },
-    {
       "id": "simplify-2a0b4fae-5de5-4ba8-b55d-c4bba930145b",
       "seen_at": "2026-08-25T22:37:06.994001+00:00"
     },
@@ -57531,24 +57363,396 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00348662",
       "seen_at": "2026-09-24T19:05:24.859100+00:00"
+    },
+    {
+      "id": "jobright-c344cf78cfd4",
+      "seen_at": "2026-09-24T22:20:23.450251+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5eb2a8f29acc1a11749253",
+      "seen_at": "2026-09-24T22:20:23.451146+00:00"
+    },
+    {
+      "id": "zapply-074870747628",
+      "seen_at": "2026-09-24T22:20:23.451980+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R246392",
+      "seen_at": "2026-09-24T22:20:23.452777+00:00"
+    },
+    {
+      "id": "jobright-495ad249c836",
+      "seen_at": "2026-09-24T22:20:23.453597+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab582189d4843569fe4a152",
+      "seen_at": "2026-09-24T22:20:23.454386+00:00"
+    },
+    {
+      "id": "workday-capitalone-R246392",
+      "seen_at": "2026-09-24T22:20:23.455132+00:00"
+    },
+    {
+      "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Trade-Credit_R246392-1",
+      "seen_at": "2026-09-24T22:20:23.455874+00:00"
+    },
+    {
+      "id": "zapply-302841e5938a",
+      "seen_at": "2026-09-24T22:20:23.456627+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-290443",
+      "seen_at": "2026-09-24T22:20:23.457363+00:00"
+    },
+    {
+      "id": "greenhouse-webflow-8230796",
+      "seen_at": "2026-09-24T22:20:23.458101+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/webflow/jobs/8230796",
+      "seen_at": "2026-09-24T22:20:23.458852+00:00"
+    },
+    {
+      "id": "jobright-9bdb981868f1",
+      "seen_at": "2026-09-24T22:20:45.530354+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab56a72d85922de20ce0eba",
+      "seen_at": "2026-09-24T22:20:45.531327+00:00"
+    },
+    {
+      "id": "zapply-8e77d2ba467d",
+      "seen_at": "2026-09-24T22:20:45.532208+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_052316",
+      "seen_at": "2026-09-24T22:20:45.533050+00:00"
+    },
+    {
+      "id": "zapply-8afe0a9f70eb",
+      "seen_at": "2026-09-24T22:20:45.533904+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026520254",
+      "seen_at": "2026-09-24T22:20:45.534754+00:00"
+    },
+    {
+      "id": "zapply-ce953744f0d1",
+      "seen_at": "2026-09-24T22:20:45.535640+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2627684",
+      "seen_at": "2026-09-24T22:20:45.536524+00:00"
+    },
+    {
+      "id": "zapply-b7390cf11441",
+      "seen_at": "2026-09-24T22:20:45.537358+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210784830",
+      "seen_at": "2026-09-24T22:20:45.538160+00:00"
+    },
+    {
+      "id": "jobright-55c2b5f5c684",
+      "seen_at": "2026-09-24T22:20:45.539001+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab575c5c6fe0dec811a12bb",
+      "seen_at": "2026-09-24T22:20:45.539811+00:00"
+    },
+    {
+      "id": "jobright-dae6d3dc4942",
+      "seen_at": "2026-09-24T22:20:45.540619+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab5759eb3db59402d0fcc7d",
+      "seen_at": "2026-09-24T22:20:45.541442+00:00"
+    },
+    {
+      "id": "applyguy-24f9ff9e-8630-4cbe-bba5-5493ce6180fe",
+      "seen_at": "2026-09-24T22:20:45.542233+00:00"
+    },
+    {
+      "id": "url:https://btisolutions.wd12.myworkdayjobs.com/external/job/Plano-TX/Junior-Full-Stack-Developer_JR102071-1",
+      "seen_at": "2026-09-24T22:20:45.543011+00:00"
+    },
+    {
+      "id": "jobright-fa20c908cb25",
+      "seen_at": "2026-09-24T22:20:45.543805+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab57a51634ec6aa7c0cf17d",
+      "seen_at": "2026-09-24T22:20:45.544597+00:00"
+    },
+    {
+      "id": "jobright-e315f8d6410f",
+      "seen_at": "2026-09-24T22:20:45.545454+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab57cdb4873fd3fd8529c81",
+      "seen_at": "2026-09-24T22:20:45.546269+00:00"
+    },
+    {
+      "id": "jobright-132803d98e9b",
+      "seen_at": "2026-09-24T22:20:45.547074+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab56e54634ec6aa7c0ced35",
+      "seen_at": "2026-09-24T22:20:45.547888+00:00"
+    },
+    {
+      "id": "zapply-b977ca3faa8e",
+      "seen_at": "2026-09-24T22:20:45.548694+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026512427",
+      "seen_at": "2026-09-24T22:20:45.549493+00:00"
+    },
+    {
+      "id": "amazon-10559066",
+      "seen_at": "2026-09-24T22:20:45.550356+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10559066/data-scientist",
+      "seen_at": "2026-09-24T22:20:45.551141+00:00"
+    },
+    {
+      "id": "zapply-185f3280b253",
+      "seen_at": "2026-09-24T22:20:45.551945+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-transunion-transunion-19042576",
+      "seen_at": "2026-09-24T22:20:45.552749+00:00"
+    },
+    {
+      "id": "greenhouse-discord-8840756002",
+      "seen_at": "2026-09-24T22:20:45.553537+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8840756002",
+      "seen_at": "2026-09-24T22:20:45.554327+00:00"
+    },
+    {
+      "id": "zapply-974a753314e4",
+      "seen_at": "2026-09-24T22:20:45.555114+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-block-5214784008",
+      "seen_at": "2026-09-24T22:20:45.555905+00:00"
+    },
+    {
+      "id": "greenhouse-block-5214784008",
+      "seen_at": "2026-09-24T22:20:45.556692+00:00"
+    },
+    {
+      "id": "url:http://block.xyz/careers/jobs/5214784008",
+      "seen_at": "2026-09-24T22:20:45.557467+00:00"
+    },
+    {
+      "id": "ashby-sierra-87f2a303-c2a1-484e-9e4b-efdcaafa440e",
+      "seen_at": "2026-09-24T22:20:45.558252+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/87f2a303-c2a1-484e-9e4b-efdcaafa440e",
+      "seen_at": "2026-09-24T22:20:45.559023+00:00"
+    },
+    {
+      "id": "zapply-d31bd8d8c435",
+      "seen_at": "2026-09-24T22:20:45.559806+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-visa-visa-REF088549W",
+      "seen_at": "2026-09-24T22:20:45.560588+00:00"
+    },
+    {
+      "id": "zapply-36f5d3ebcec2",
+      "seen_at": "2026-09-24T22:20:45.561366+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000395610",
+      "seen_at": "2026-09-24T22:20:45.562134+00:00"
+    },
+    {
+      "id": "greenhouse-asana-8078102",
+      "seen_at": "2026-09-24T22:20:45.562906+00:00"
+    },
+    {
+      "id": "url:https://www.asana.com/jobs/apply/8078102",
+      "seen_at": "2026-09-24T22:20:45.563675+00:00"
+    },
+    {
+      "id": "zapply-c69eb89a70ba",
+      "seen_at": "2026-09-24T22:20:45.564457+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-draftkings-draftkings-JR14809",
+      "seen_at": "2026-09-24T22:20:45.565248+00:00"
+    },
+    {
+      "id": "ashby-openai-9d4d2727-27f3-4a63-857c-a96466130645",
+      "seen_at": "2026-09-24T22:20:45.566014+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645",
+      "seen_at": "2026-09-24T22:20:45.566799+00:00"
+    },
+    {
+      "id": "zapply-17eee04fbc69",
+      "seen_at": "2026-09-24T22:20:45.567581+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-towerresearchcapital-8230413",
+      "seen_at": "2026-09-24T22:20:45.568360+00:00"
+    },
+    {
+      "id": "jobright-9f0f72cf89d3",
+      "seen_at": "2026-09-24T22:20:45.569139+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab57d4dd85922de20ce1568",
+      "seen_at": "2026-09-24T22:20:45.569945+00:00"
+    },
+    {
+      "id": "jobright-d574955968fe",
+      "seen_at": "2026-09-24T22:20:45.570956+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab2c4a3326574570a002f98",
+      "seen_at": "2026-09-24T22:20:45.571842+00:00"
+    },
+    {
+      "id": "amazon-10559739",
+      "seen_at": "2026-09-24T22:20:45.572716+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10559739/software-development-engineer-automated-reasoning-group",
+      "seen_at": "2026-09-24T22:20:45.573564+00:00"
+    },
+    {
+      "id": "amazon-10559699",
+      "seen_at": "2026-09-24T22:20:45.574395+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10559699/software-development-engineer-general-shopping-intelligence",
+      "seen_at": "2026-09-24T22:20:45.575226+00:00"
+    },
+    {
+      "id": "amazon-10559549",
+      "seen_at": "2026-09-24T22:20:45.576045+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10559549/software-development-engineer-sponsored-products-and-brands",
+      "seen_at": "2026-09-24T22:20:45.576869+00:00"
+    },
+    {
+      "id": "workday-adobe-R171594",
+      "seen_at": "2026-09-24T22:20:45.577704+00:00"
+    },
+    {
+      "id": "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R171594",
+      "seen_at": "2026-09-24T22:20:45.578550+00:00"
+    },
+    {
+      "id": "jobright-7b0374c259df",
+      "seen_at": "2026-09-24T22:20:45.579377+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab571689d4843569fe49c19",
+      "seen_at": "2026-09-24T22:20:45.580199+00:00"
+    },
+    {
+      "id": "zapply-0923f04fffa8",
+      "seen_at": "2026-09-24T22:20:45.581009+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR206190",
+      "seen_at": "2026-09-24T22:20:45.581817+00:00"
+    },
+    {
+      "id": "zapply-54adc138db0e",
+      "seen_at": "2026-09-24T22:20:45.582613+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22847",
+      "seen_at": "2026-09-24T22:20:45.583411+00:00"
+    },
+    {
+      "id": "zapply-b75ebb38063c",
+      "seen_at": "2026-09-24T22:20:45.584202+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-kla-search-2641468",
+      "seen_at": "2026-09-24T22:20:45.585000+00:00"
+    },
+    {
+      "id": "jobright-a4aac8e669e2",
+      "seen_at": "2026-09-24T22:20:45.585782+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9932588a8b765bc55f202e",
+      "seen_at": "2026-09-24T22:20:45.586571+00:00"
+    },
+    {
+      "id": "amazon-10559511",
+      "seen_at": "2026-09-24T22:20:45.587448+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10559511/software-developer-engineer-amazon-workspaces-core-managed-instances",
+      "seen_at": "2026-09-24T22:20:45.588307+00:00"
+    },
+    {
+      "id": "amazon-10559720",
+      "seen_at": "2026-09-24T22:20:45.589124+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10559720/research-scientist-mobile-manipulation-robotics-i-o",
+      "seen_at": "2026-09-24T22:20:45.589944+00:00"
+    },
+    {
+      "id": "zapply-fbe995cf81b5",
+      "seen_at": "2026-09-24T22:20:45.590751+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-jll-jllcareers-REQ538344",
+      "seen_at": "2026-09-24T22:20:45.591568+00:00"
+    },
+    {
+      "id": "zapply-477f7ac40142",
+      "seen_at": "2026-09-24T22:20:45.592368+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200685673",
+      "seen_at": "2026-09-24T22:20:45.593153+00:00"
+    },
+    {
+      "id": "amazon-10559684",
+      "seen_at": "2026-09-24T22:20:45.593939+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10559684/site-reliability-engineer-software-ops-and-scaling-one-material-handling-system-software-controls-and-science",
+      "seen_at": "2026-09-24T22:20:45.594744+00:00"
+    },
+    {
+      "id": "zapply-31998b767e4b",
+      "seen_at": "2026-09-24T22:20:45.595541+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30174",
+      "seen_at": "2026-09-24T22:20:45.596336+00:00"
+    },
+    {
+      "id": "zapply-fbf211c816a7",
+      "seen_at": "2026-09-24T22:20:45.597117+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30257",
+      "seen_at": "2026-09-24T22:20:45.597916+00:00"
     }
   ],
-  "last_run": "2026-09-24T19:05:25.104761+00:00",
-  "total_notified": 6929,
+  "last_run": "2026-09-24T22:20:45.835334+00:00",
+  "total_notified": 6960,
   "channels": {
     "pm-jobs": [
-      "jobright-0e44af4b7d7a",
-      "url:https://jobright.ai/jobs/info/6a8dae3cd34f700f87fd5363",
-      "jobright-2c803f0ef841",
-      "url:https://jobright.ai/jobs/info/6a8dd1dc581f2d7bfdfe95b0",
-      "jobright-c453ea3f2b21",
-      "url:https://jobright.ai/jobs/info/6a7223ca71acd469eeda62e7",
-      "jobright-ad155d95481f",
-      "url:https://jobright.ai/jobs/info/6a8de48447679c68bf5e564e",
-      "jobright-a4fb182223a9",
-      "url:https://jobright.ai/jobs/info/6a8ddaba47679c68bf5e523d",
-      "simplify-8cf244f2-f67a-4786-b968-74bd6c7aec38",
-      "url:https://jobs.lever.co/Xpansiv%20/8a1649ec-ef5f-425d-8a36-34f28d67e8a7/apply",
       "simplify-2a0b4fae-5de5-4ba8-b55d-c4bba930145b",
       "url:https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110789",
       "jobright-37709a0052b6",
@@ -59361,25 +59565,21 @@
       "zapply-2477d000ba64",
       "url:https://zapply.jobs/l/d/greenhouse-esri-5241260007",
       "zapply-1842a5e0c01b",
-      "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22788"
+      "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22788",
+      "jobright-c344cf78cfd4",
+      "url:https://jobright.ai/jobs/info/6a5eb2a8f29acc1a11749253",
+      "zapply-074870747628",
+      "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R246392",
+      "jobright-495ad249c836",
+      "url:https://jobright.ai/jobs/info/6ab582189d4843569fe4a152",
+      "workday-capitalone-R246392",
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Trade-Credit_R246392-1",
+      "zapply-302841e5938a",
+      "url:https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-290443",
+      "greenhouse-webflow-8230796",
+      "url:https://job-boards.greenhouse.io/webflow/jobs/8230796"
     ],
     "swe-ai-full-time": [
-      "greenhouse-reddit-8029120",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8029120",
-      "simplify-9f6e8d63-9cab-4749-85bc-bfe74f9c7577",
-      "url:https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application",
-      "simplify-22286d2e-ab8f-421b-9e32-02038a5bffa4",
-      "url:https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application",
-      "simplify-c4e96033-c49b-49e3-88cd-fa2f2f99ade1",
-      "url:https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
-      "simplify-5516fbba-d287-4ee8-b391-dd0e5a0c4797",
-      "url:https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
-      "simplify-2b100e48-0d13-4ce4-84ba-7549d0d15f9b",
-      "url:https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
-      "simplify-a3fa760c-c8ec-4d27-8090-1ff8948cd4d0",
-      "url:https://careers.jhuapl.edu/jobs/59654",
-      "greenhouse-figma-6158162004",
-      "url:https://boards.greenhouse.io/figma/jobs/6158162004",
       "jobright-34899a9e7aed",
       "url:https://jobright.ai/jobs/info/6a879eef25fc4e7ae3dae006",
       "jobright-f85426906b42",
@@ -71434,7 +71634,91 @@
       "zapply-a3a495944dc1",
       "url:https://zapply.jobs/l/d/workday-nwis-nw-JR101635",
       "zapply-addca1044bd6",
-      "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00348662"
+      "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00348662",
+      "jobright-9bdb981868f1",
+      "url:https://jobright.ai/jobs/info/6ab56a72d85922de20ce0eba",
+      "zapply-8e77d2ba467d",
+      "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_052316",
+      "zapply-8afe0a9f70eb",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026520254",
+      "zapply-ce953744f0d1",
+      "url:https://zapply.jobs/l/d/workday-amat-external-R2627684",
+      "zapply-b7390cf11441",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210784830",
+      "jobright-55c2b5f5c684",
+      "url:https://jobright.ai/jobs/info/6ab575c5c6fe0dec811a12bb",
+      "jobright-dae6d3dc4942",
+      "url:https://jobright.ai/jobs/info/6ab5759eb3db59402d0fcc7d",
+      "applyguy-24f9ff9e-8630-4cbe-bba5-5493ce6180fe",
+      "url:https://btisolutions.wd12.myworkdayjobs.com/external/job/Plano-TX/Junior-Full-Stack-Developer_JR102071-1",
+      "jobright-fa20c908cb25",
+      "url:https://jobright.ai/jobs/info/6ab57a51634ec6aa7c0cf17d",
+      "jobright-e315f8d6410f",
+      "url:https://jobright.ai/jobs/info/6ab57cdb4873fd3fd8529c81",
+      "jobright-132803d98e9b",
+      "url:https://jobright.ai/jobs/info/6ab56e54634ec6aa7c0ced35",
+      "zapply-b977ca3faa8e",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026512427",
+      "amazon-10559066",
+      "url:https://www.amazon.jobs/en/jobs/10559066/data-scientist",
+      "zapply-185f3280b253",
+      "url:https://zapply.jobs/l/d/workday-transunion-transunion-19042576",
+      "greenhouse-discord-8840756002",
+      "url:https://job-boards.greenhouse.io/discord/jobs/8840756002",
+      "zapply-974a753314e4",
+      "url:https://zapply.jobs/l/d/greenhouse-block-5214784008",
+      "greenhouse-block-5214784008",
+      "url:http://block.xyz/careers/jobs/5214784008",
+      "ashby-sierra-87f2a303-c2a1-484e-9e4b-efdcaafa440e",
+      "url:https://jobs.ashbyhq.com/sierra/87f2a303-c2a1-484e-9e4b-efdcaafa440e",
+      "zapply-d31bd8d8c435",
+      "url:https://zapply.jobs/l/d/workday-visa-visa-REF088549W",
+      "zapply-36f5d3ebcec2",
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000395610",
+      "greenhouse-asana-8078102",
+      "url:https://www.asana.com/jobs/apply/8078102",
+      "zapply-c69eb89a70ba",
+      "url:https://zapply.jobs/l/d/workday-draftkings-draftkings-JR14809",
+      "ashby-openai-9d4d2727-27f3-4a63-857c-a96466130645",
+      "url:https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645",
+      "zapply-17eee04fbc69",
+      "url:https://zapply.jobs/l/d/greenhouse-towerresearchcapital-8230413",
+      "jobright-9f0f72cf89d3",
+      "url:https://jobright.ai/jobs/info/6ab57d4dd85922de20ce1568",
+      "jobright-d574955968fe",
+      "url:https://jobright.ai/jobs/info/6ab2c4a3326574570a002f98",
+      "amazon-10559739",
+      "url:https://www.amazon.jobs/en/jobs/10559739/software-development-engineer-automated-reasoning-group",
+      "amazon-10559699",
+      "url:https://www.amazon.jobs/en/jobs/10559699/software-development-engineer-general-shopping-intelligence",
+      "amazon-10559549",
+      "url:https://www.amazon.jobs/en/jobs/10559549/software-development-engineer-sponsored-products-and-brands",
+      "workday-adobe-R171594",
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R171594",
+      "jobright-7b0374c259df",
+      "url:https://jobright.ai/jobs/info/6ab571689d4843569fe49c19",
+      "zapply-0923f04fffa8",
+      "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR206190",
+      "zapply-54adc138db0e",
+      "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22847",
+      "zapply-b75ebb38063c",
+      "url:https://zapply.jobs/l/d/workday-kla-search-2641468",
+      "jobright-a4aac8e669e2",
+      "url:https://jobright.ai/jobs/info/6a9932588a8b765bc55f202e",
+      "amazon-10559511",
+      "url:https://www.amazon.jobs/en/jobs/10559511/software-developer-engineer-amazon-workspaces-core-managed-instances",
+      "amazon-10559720",
+      "url:https://www.amazon.jobs/en/jobs/10559720/research-scientist-mobile-manipulation-robotics-i-o",
+      "zapply-fbe995cf81b5",
+      "url:https://zapply.jobs/l/d/workday-jll-jllcareers-REQ538344",
+      "zapply-477f7ac40142",
+      "url:https://zapply.jobs/l/d/apple-200685673",
+      "amazon-10559684",
+      "url:https://www.amazon.jobs/en/jobs/10559684/site-reliability-engineer-software-ops-and-scaling-one-material-handling-system-software-controls-and-science",
+      "zapply-31998b767e4b",
+      "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30174",
+      "zapply-fbf211c816a7",
+      "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30257"
     ]
   }
 }
