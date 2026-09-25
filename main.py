@@ -816,8 +816,23 @@ async def main(init_mode: bool = False) -> None:
             flushed: list[Job] = []
             if flush_candidates:
                 print(f"[INFO] No new jobs for '{ch.name}'. Flushing {len(flush_candidates)} queued job(s).")
+                flush_verdicts = await jev.judge_for_channel(
+                    flush_candidates, ch, jev_budget
+                )
+                flush_scores = _scores_by_id(flush_candidates, flush_verdicts)
+                if config.JEV_ENFORCE:
+                    rejected = [
+                        job for job, verdict in zip(flush_candidates, flush_verdicts)
+                        if verdict.judged and not verdict.keep
+                    ]
+                    if rejected:
+                        drop_queued_items(queue_data, ch.name, rejected)
+                        flush_candidates = [
+                            job for job in flush_candidates if job not in rejected
+                        ]
+                        print(f"[JEV] '{ch.name}': dropped {len(rejected)} queued job(s) on flush")
                 flushed = await discord_notifier.notify_jobs_batch(
-                    flush_candidates, ch.webhook_url
+                    flush_candidates, ch.webhook_url, scores=flush_scores
                 )
                 total_notified += len(flushed)
                 removed = drop_queued_items(queue_data, ch.name, flushed)
