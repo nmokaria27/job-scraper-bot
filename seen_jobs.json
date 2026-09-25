@@ -57915,10 +57915,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ab680f44873fd3fd852d7b6",
       "seen_at": "2026-09-25T15:54:54.758600+00:00"
+    },
+    {
+      "id": "zapply-162a26e8af6c",
+      "seen_at": "2026-09-25T16:31:31.216517+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-ms-external-JR036259",
+      "seen_at": "2026-09-25T16:31:31.217677+00:00"
+    },
+    {
+      "id": "zapply-110e2d847c53",
+      "seen_at": "2026-09-25T16:31:31.218648+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-skydio-d415cf2b-616c-459e-9c5f-58a1b2c4a1bb",
+      "seen_at": "2026-09-25T16:31:31.219571+00:00"
     }
   ],
-  "last_run": "2026-09-25T16:01:42.058330+00:00",
-  "total_notified": 7012,
+  "last_run": "2026-09-25T16:31:35.415521+00:00",
+  "total_notified": 7014,
   "channels": {
     "pm-jobs": [
       "jobright-c199548a811e",
@@ -71958,7 +71974,11 @@
       "greenhouse-coreweave-4703438006",
       "url:https://coreweave.com/careers/job",
       "jobright-3f9ec376bc3b",
-      "url:https://jobright.ai/jobs/info/6ab680f44873fd3fd852d7b6"
+      "url:https://jobright.ai/jobs/info/6ab680f44873fd3fd852d7b6",
+      "zapply-162a26e8af6c",
+      "url:https://zapply.jobs/l/d/workday-ms-external-JR036259",
+      "zapply-110e2d847c53",
+      "url:https://zapply.jobs/l/d/ashby-skydio-d415cf2b-616c-459e-9c5f-58a1b2c4a1bb"
     ]
   }
 }
