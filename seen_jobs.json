@@ -58019,10 +58019,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ab69867c6fe0dec811a55e7",
       "seen_at": "2026-09-25T18:01:45.095896+00:00"
+    },
+    {
+      "id": "zapply-bc1c2f0942f3",
+      "seen_at": "2026-09-25T18:31:24.506532+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-493d33b9-fd49-4cd4-930c-bcd5b4b3e03a",
+      "seen_at": "2026-09-25T18:31:24.507656+00:00"
+    },
+    {
+      "id": "zapply-5f59c31923c8",
+      "seen_at": "2026-09-25T18:31:24.508612+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4636",
+      "seen_at": "2026-09-25T18:31:24.509522+00:00"
+    },
+    {
+      "id": "zapply-5acc6aea8ca2",
+      "seen_at": "2026-09-25T18:31:24.510494+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-contentful-8233486",
+      "seen_at": "2026-09-25T18:31:24.511416+00:00"
+    },
+    {
+      "id": "amazon-10560684",
+      "seen_at": "2026-09-25T18:31:24.512333+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10560684/applied-scientist-tabular-foundational-model-aws",
+      "seen_at": "2026-09-25T18:31:24.513322+00:00"
+    },
+    {
+      "id": "amazon-10560685",
+      "seen_at": "2026-09-25T18:31:24.514300+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10560685/applied-scientist-rl-post-training-aws",
+      "seen_at": "2026-09-25T18:31:24.515192+00:00"
+    },
+    {
+      "id": "zapply-4b9b888e0946",
+      "seen_at": "2026-09-25T18:31:31.788591+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-jj-jj-R-101400",
+      "seen_at": "2026-09-25T18:31:31.789699+00:00"
     }
   ],
-  "last_run": "2026-09-25T18:01:45.314246+00:00",
-  "total_notified": 7027,
+  "last_run": "2026-09-25T18:31:31.958544+00:00",
+  "total_notified": 7033,
   "channels": {
     "pm-jobs": [
       "greenhouse-anthropic-5406817008",
@@ -59873,7 +59921,9 @@
       "jobright-dff8b5fea14a",
       "url:https://jobright.ai/jobs/info/6aa8af4d17ddad6a8a47ca88",
       "jobright-372ed875eee6",
-      "url:https://jobright.ai/jobs/info/6ab69867c6fe0dec811a55e7"
+      "url:https://jobright.ai/jobs/info/6ab69867c6fe0dec811a55e7",
+      "zapply-4b9b888e0946",
+      "url:https://zapply.jobs/l/d/workday-jj-jj-R-101400"
     ],
     "swe-ai-full-time": [
       "greenhouse-reddit-8148431",
@@ -72088,7 +72138,17 @@
       "amazon-10560626",
       "url:https://www.amazon.jobs/en/jobs/10560626/software-development-engineer-aws-marketing-data-science-engineering-d-se",
       "amazon-10560631",
-      "url:https://www.amazon.jobs/en/jobs/10560631/applied-scientist-genai-trust-and-store-integrity-science"
+      "url:https://www.amazon.jobs/en/jobs/10560631/applied-scientist-genai-trust-and-store-integrity-science",
+      "zapply-bc1c2f0942f3",
+      "url:https://zapply.jobs/l/d/amazon-493d33b9-fd49-4cd4-930c-bcd5b4b3e03a",
+      "zapply-5f59c31923c8",
+      "url:https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4636",
+      "zapply-5acc6aea8ca2",
+      "url:https://zapply.jobs/l/d/greenhouse-contentful-8233486",
+      "amazon-10560684",
+      "url:https://www.amazon.jobs/en/jobs/10560684/applied-scientist-tabular-foundational-model-aws",
+      "amazon-10560685",
+      "url:https://www.amazon.jobs/en/jobs/10560685/applied-scientist-rl-post-training-aws"
     ]
   }
 }
