@@ -58203,10 +58203,114 @@
     {
       "id": "url:https://job-boards.greenhouse.io/snorkelai/jobs/6208895004",
       "seen_at": "2026-09-25T20:31:17.916792+00:00"
+    },
+    {
+      "id": "jobright-fbb4c162d5cd",
+      "seen_at": "2026-09-25T21:01:28.881843+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6c6e64873fd3fd852f349",
+      "seen_at": "2026-09-25T21:01:28.882851+00:00"
+    },
+    {
+      "id": "jobright-e3c606a4ffe3",
+      "seen_at": "2026-09-25T21:01:28.883766+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6c6d6b3db59402d102570",
+      "seen_at": "2026-09-25T21:01:28.884656+00:00"
+    },
+    {
+      "id": "applyguy-34b03c84-aff9-40ea-9d91-2f334706187d",
+      "seen_at": "2026-09-25T21:01:28.885571+00:00"
+    },
+    {
+      "id": "url:https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389",
+      "seen_at": "2026-09-25T21:01:28.886449+00:00"
+    },
+    {
+      "id": "amazon-10560872",
+      "seen_at": "2026-09-25T21:01:28.887366+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10560872/data-engineer-worldwide-grocery-data-analytics",
+      "seen_at": "2026-09-25T21:01:28.888242+00:00"
+    },
+    {
+      "id": "zapply-44085148a0cb",
+      "seen_at": "2026-09-25T21:01:28.889142+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-openai-9d4d2727-27f3-4a63-857c-a96466130645",
+      "seen_at": "2026-09-25T21:01:28.890024+00:00"
+    },
+    {
+      "id": "greenhouse-lucidmotors-5242880007",
+      "seen_at": "2026-09-25T21:01:28.890913+00:00"
+    },
+    {
+      "id": "url:https://lucidmotors.com/careers/search/5242880007",
+      "seen_at": "2026-09-25T21:01:28.891784+00:00"
+    },
+    {
+      "id": "jobright-fc8e86acf194",
+      "seen_at": "2026-09-25T21:01:28.892670+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6c4814873fd3fd852f293",
+      "seen_at": "2026-09-25T21:01:28.893541+00:00"
+    },
+    {
+      "id": "jobright-fb6909bea3f4",
+      "seen_at": "2026-09-25T21:01:28.894424+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6ad1e4873fd3fd852e957",
+      "seen_at": "2026-09-25T21:01:28.895294+00:00"
+    },
+    {
+      "id": "jobright-3c3b4effc2bd",
+      "seen_at": "2026-09-25T21:01:28.896177+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6b8c5d85922de20ce670e",
+      "seen_at": "2026-09-25T21:01:28.897035+00:00"
+    },
+    {
+      "id": "amazon-10560849",
+      "seen_at": "2026-09-25T21:01:28.897916+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10560849/software-development-engineer-devices-software-services",
+      "seen_at": "2026-09-25T21:01:28.898782+00:00"
+    },
+    {
+      "id": "jobright-625b8812c508",
+      "seen_at": "2026-09-25T21:01:28.899657+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6c3bbb3db59402d10246e",
+      "seen_at": "2026-09-25T21:01:28.900525+00:00"
+    },
+    {
+      "id": "jobright-4b22eda02084",
+      "seen_at": "2026-09-25T21:01:34.872459+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6ceae62bb1fbd451dbf4d",
+      "seen_at": "2026-09-25T21:01:34.873344+00:00"
+    },
+    {
+      "id": "jobright-9fa7bfad5904",
+      "seen_at": "2026-09-25T21:01:34.874169+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6b8729d4843569fe4f0f8",
+      "seen_at": "2026-09-25T21:01:34.874953+00:00"
     }
   ],
-  "last_run": "2026-09-25T20:31:22.963874+00:00",
-  "total_notified": 7056,
+  "last_run": "2026-09-25T21:01:35.117289+00:00",
+  "total_notified": 7069,
   "channels": {
     "pm-jobs": [
       "greenhouse-anthropic-5406817008",
@@ -60063,7 +60167,11 @@
       "jobright-94b7d27a717d",
       "url:https://jobright.ai/jobs/info/6ab6a3cbc6fe0dec811a5ca0",
       "jobright-52bbf4eb7dc2",
-      "url:https://jobright.ai/jobs/info/6ab6a8d0634ec6aa7c0d3cfe"
+      "url:https://jobright.ai/jobs/info/6ab6a8d0634ec6aa7c0d3cfe",
+      "jobright-4b22eda02084",
+      "url:https://jobright.ai/jobs/info/6ab6ceae62bb1fbd451dbf4d",
+      "jobright-9fa7bfad5904",
+      "url:https://jobright.ai/jobs/info/6ab6b8729d4843569fe4f0f8"
     ],
     "swe-ai-full-time": [
       "simplify-b9b4d3e6-5667-4e7c-81f4-b1dce70d602c",
@@ -72318,7 +72426,29 @@
       "jobright-8e422f3d1719",
       "url:https://jobright.ai/jobs/info/6ab6b380634ec6aa7c0d40cb",
       "greenhouse-snorkelai-6208895004",
-      "url:https://job-boards.greenhouse.io/snorkelai/jobs/6208895004"
+      "url:https://job-boards.greenhouse.io/snorkelai/jobs/6208895004",
+      "jobright-fbb4c162d5cd",
+      "url:https://jobright.ai/jobs/info/6ab6c6e64873fd3fd852f349",
+      "jobright-e3c606a4ffe3",
+      "url:https://jobright.ai/jobs/info/6ab6c6d6b3db59402d102570",
+      "applyguy-34b03c84-aff9-40ea-9d91-2f334706187d",
+      "url:https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389",
+      "amazon-10560872",
+      "url:https://www.amazon.jobs/en/jobs/10560872/data-engineer-worldwide-grocery-data-analytics",
+      "zapply-44085148a0cb",
+      "url:https://zapply.jobs/l/d/ashby-openai-9d4d2727-27f3-4a63-857c-a96466130645",
+      "greenhouse-lucidmotors-5242880007",
+      "url:https://lucidmotors.com/careers/search/5242880007",
+      "jobright-fc8e86acf194",
+      "url:https://jobright.ai/jobs/info/6ab6c4814873fd3fd852f293",
+      "jobright-fb6909bea3f4",
+      "url:https://jobright.ai/jobs/info/6ab6ad1e4873fd3fd852e957",
+      "jobright-3c3b4effc2bd",
+      "url:https://jobright.ai/jobs/info/6ab6b8c5d85922de20ce670e",
+      "amazon-10560849",
+      "url:https://www.amazon.jobs/en/jobs/10560849/software-development-engineer-devices-software-services",
+      "jobright-625b8812c508",
+      "url:https://jobright.ai/jobs/info/6ab6c3bbb3db59402d10246e"
     ]
   }
 }
