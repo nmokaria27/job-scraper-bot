@@ -58195,10 +58195,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ab6b380634ec6aa7c0d40cb",
       "seen_at": "2026-09-25T20:01:38.499502+00:00"
+    },
+    {
+      "id": "greenhouse-snorkelai-6208895004",
+      "seen_at": "2026-09-25T20:31:17.916124+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/snorkelai/jobs/6208895004",
+      "seen_at": "2026-09-25T20:31:17.916792+00:00"
     }
   ],
-  "last_run": "2026-09-25T20:01:43.439341+00:00",
-  "total_notified": 7055,
+  "last_run": "2026-09-25T20:31:22.963874+00:00",
+  "total_notified": 7056,
   "channels": {
     "pm-jobs": [
       "greenhouse-anthropic-5406817008",
@@ -72308,7 +72316,9 @@
       "jobright-de51f7e3e351",
       "url:https://jobright.ai/jobs/info/6ab6b45e9d4843569fe4ef0a",
       "jobright-8e422f3d1719",
-      "url:https://jobright.ai/jobs/info/6ab6b380634ec6aa7c0d40cb"
+      "url:https://jobright.ai/jobs/info/6ab6b380634ec6aa7c0d40cb",
+      "greenhouse-snorkelai-6208895004",
+      "url:https://job-boards.greenhouse.io/snorkelai/jobs/6208895004"
     ]
   }
 }
