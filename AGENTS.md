@@ -43,7 +43,7 @@ python -m py_compile main.py config.py companies.py discord_notifier.py scrapers
 ### Data flow
 
 ```
-GitHub Actions (cron 7,22,37,52 * * * * — see "Scheduling" below)
+GitHub Actions (cron 7,37 — every 30 min, see "Scheduling" below)
   → main.py
       → scrape_all_raw()              # fetches ALL jobs, no filtering; every source isolated (a crash = [] not a dead run)
           bulk (run concurrently, once each):
@@ -125,10 +125,10 @@ Entries older than `SEEN_JOBS_MAX_AGE_DAYS` (30) are pruned each run.
 
 ## Scheduling (read this before touching the cron)
 
-GitHub's `schedule` trigger is best-effort. Over the last 100 runs the median gap was **104 minutes** (max 12 h), not 15. `workflow_dispatch` from an external cron is the fix — see README "Reliable 15-minute scheduling". Until that's set up, `RECENT_POSTING_MAX_AGE_HOURS=24` means nothing is lost, only delayed.
+GitHub's `schedule` trigger is best-effort. The workflow asks for every 30 minutes (`7,37` UTC, quiet 12am–6am Eastern). Measured gaps on this repo are often a few hours, not 30 minutes. `RECENT_POSTING_MAX_AGE_HOURS=24` means a late run still catches the posting.
 
 `SEND_NO_NEW_SUMMARY` is currently `true` as a repo variable; that posts a "no new jobs" embed to every channel on every run. Set it to `false`.
 
 ## GitHub Actions
 
-`.github/workflows/scraper.yml`: cron at minutes `7,22,37,52`, `workflow_dispatch` with a `mode` input (`normal` | `init`), `timeout-minutes: 15`, single concurrency group. Secrets: `PM_WEBHOOK_URL`, `FULL_TIME_WEBHOOK_URL` (`CHANNELS_JSON` optional). Non-secret tuning goes in Variables (`RECENT_POSTING_MAX_AGE_HOURS`, `ATS_CONCURRENCY`, `SEND_NO_NEW_SUMMARY`, `REQUEST_TIMEOUT`, source URL overrides).
+`.github/workflows/scraper.yml`: cron at minutes `7,37` (every 30 min, hours `0-3,10-23` UTC), `workflow_dispatch` with a `mode` input (`normal` | `init`), `timeout-minutes: 15`, single concurrency group. Secrets: `PM_WEBHOOK_URL`, `FULL_TIME_WEBHOOK_URL` (`CHANNELS_JSON` optional). Non-secret tuning goes in Variables (`RECENT_POSTING_MAX_AGE_HOURS`, `ATS_CONCURRENCY`, `SEND_NO_NEW_SUMMARY`, `REQUEST_TIMEOUT`, source URL overrides).

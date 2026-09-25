@@ -2,11 +2,12 @@ name: Job Scraper
 
 on:
   schedule:
-    # Every 15 minutes at off-peak minutes, but not between midnight and 6am
-    # Eastern. GitHub cron is UTC: hours 4-9 UTC = 00:00-05:59 EDT. (In winter
-    # the window shifts an hour; the quiet-hours step below covers that.)
-    - cron: '7,22,37,52 0-3,10-23 * * *'
-  workflow_dispatch:           # Manual trigger (GitHub UI, or cron-job.org via the REST API)
+    # Every 30 minutes at :07 and :37 UTC, outside midnight–6am Eastern.
+    # Minutes avoid :00/:30, when GitHub's scheduler is most delayed.
+    # Hours 4-9 UTC = 00:00-05:59 EDT. In winter the window shifts an hour;
+    # the quiet-hours step below covers that.
+    - cron: '7,37 0-3,10-23 * * *'
+  workflow_dispatch:           # Manual trigger from the GitHub UI or API
     inputs:
       mode:
         description: "normal = scrape + notify; init = seed seen_jobs.json for current matches WITHOUT notifying (use after adding sources/channels)"

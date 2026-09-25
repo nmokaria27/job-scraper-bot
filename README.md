@@ -68,16 +68,9 @@ Settings → Actions → General → Workflow permissions → **Read and write p
 
 Actions → **Job Scraper** → **Run workflow** → mode **`init`**. This marks every *current* match as seen so the first real run doesn't flood the channels. Do this again whenever you add sources or channels.
 
-### 6. Reliable 15-minute scheduling (important)
+### 6. Schedule
 
-GitHub's cron is best-effort. On this repo the last 100 scheduled runs were a **median of 104 minutes apart** (max 12 hours). Nothing is lost — the 24 h window catches everything — but "as soon as it opens" needs an external trigger:
-
-1. Create a fine-grained GitHub token with **Actions: Read and write** on this repo.
-2. On [cron-job.org](https://cron-job.org) (free) create a job every 15 minutes:
-   - URL: `https://api.github.com/repos/<owner>/<repo>/actions/workflows/scraper.yml/dispatches`
-   - Method: `POST`, body: `{"ref":"main"}`
-   - Headers: `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`
-3. Check Actions: runs should now show event `workflow_dispatch` every 15 minutes. The single concurrency group prevents overlaps with the GitHub cron.
+GitHub Actions runs the scraper every 30 minutes at **:07** and **:37** UTC, and skips midnight–6am Eastern. No external cron is required. GitHub's scheduler is best-effort: on this repo, gaps of a few hours are normal. `RECENT_POSTING_MAX_AGE_HOURS=24` means a late run still catches the posting; it just arrives later. A manual run is Actions → Job Scraper → Run workflow.
 
 ---
 
