@@ -58155,10 +58155,50 @@
     {
       "id": "url:https://careers.roblox.com/jobs/8171283",
       "seen_at": "2026-09-25T19:31:20.699809+00:00"
+    },
+    {
+      "id": "jobright-c7972256caad",
+      "seen_at": "2026-09-25T20:01:38.492184+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab5ad169d4843569fe4bbf2",
+      "seen_at": "2026-09-25T20:01:38.493287+00:00"
+    },
+    {
+      "id": "ashby-applied-ccee2574-f12a-4a0c-bc57-427a34d6d59b",
+      "seen_at": "2026-09-25T20:01:38.494143+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/ccee2574-f12a-4a0c-bc57-427a34d6d59b",
+      "seen_at": "2026-09-25T20:01:38.494912+00:00"
+    },
+    {
+      "id": "ashby-applied-6b7aacaa-32e3-4d58-93e6-7d7068f44617",
+      "seen_at": "2026-09-25T20:01:38.495709+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/6b7aacaa-32e3-4d58-93e6-7d7068f44617",
+      "seen_at": "2026-09-25T20:01:38.496452+00:00"
+    },
+    {
+      "id": "jobright-de51f7e3e351",
+      "seen_at": "2026-09-25T20:01:38.497212+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6b45e9d4843569fe4ef0a",
+      "seen_at": "2026-09-25T20:01:38.497977+00:00"
+    },
+    {
+      "id": "jobright-8e422f3d1719",
+      "seen_at": "2026-09-25T20:01:38.498752+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6b380634ec6aa7c0d40cb",
+      "seen_at": "2026-09-25T20:01:38.499502+00:00"
     }
   ],
-  "last_run": "2026-09-25T19:31:25.297547+00:00",
-  "total_notified": 7050,
+  "last_run": "2026-09-25T20:01:43.439341+00:00",
+  "total_notified": 7055,
   "channels": {
     "pm-jobs": [
       "greenhouse-anthropic-5406817008",
@@ -72258,7 +72298,17 @@
       "jobright-8bdbf80d9cf9",
       "url:https://jobright.ai/jobs/info/6ab69f2e4873fd3fd852e211",
       "greenhouse-roblox-8171283",
-      "url:https://careers.roblox.com/jobs/8171283"
+      "url:https://careers.roblox.com/jobs/8171283",
+      "jobright-c7972256caad",
+      "url:https://jobright.ai/jobs/info/6ab5ad169d4843569fe4bbf2",
+      "ashby-applied-ccee2574-f12a-4a0c-bc57-427a34d6d59b",
+      "url:https://jobs.ashbyhq.com/applied/ccee2574-f12a-4a0c-bc57-427a34d6d59b",
+      "ashby-applied-6b7aacaa-32e3-4d58-93e6-7d7068f44617",
+      "url:https://jobs.ashbyhq.com/applied/6b7aacaa-32e3-4d58-93e6-7d7068f44617",
+      "jobright-de51f7e3e351",
+      "url:https://jobright.ai/jobs/info/6ab6b45e9d4843569fe4ef0a",
+      "jobright-8e422f3d1719",
+      "url:https://jobright.ai/jobs/info/6ab6b380634ec6aa7c0d40cb"
     ]
   }
 }
