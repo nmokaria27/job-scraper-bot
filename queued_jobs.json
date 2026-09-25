@@ -2,356 +2,230 @@
   "channels": {
     "swe-ai-full-time": [
       {
-        "id": "zapply-67092163ed9d",
+        "id": "amazon-10560115",
         "seen_keys": [
-          "zapply-67092163ed9d",
-          "url:https://zapply.jobs/l/d/greenhouse-spacex-8842775002"
+          "amazon-10560115",
+          "url:https://www.amazon.jobs/en/jobs/10560115/software-development-engineer-amazon-leo"
         ],
-        "title": "Software Engineer (Components)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "url": "https://zapply.jobs/l/d/greenhouse-spacex-8842775002?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-24T18:04:03.896419+00:00",
-        "queued_at": "2026-09-24T19:05:24.849103+00:00"
+        "title": "Software Development Engineer, Amazon Leo",
+        "company": "Amazon",
+        "location": "Redmond, Washington, USA",
+        "url": "https://www.amazon.jobs/en/jobs/10560115/software-development-engineer-amazon-leo",
+        "platform": "amazon",
+        "posted_at": "2026-09-25",
+        "queued_at": "2026-09-25T15:12:29.725555+00:00"
       },
       {
-        "id": "zapply-a7686edab409",
+        "id": "zapply-3135f9b8a303",
         "seen_keys": [
-          "zapply-a7686edab409",
-          "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4715359006"
+          "zapply-3135f9b8a303",
+          "url:https://zapply.jobs/l/d/greenhouse-applovin-4716524006"
         ],
-        "title": "Full Stack Engineer",
-        "company": "Accenture Federal Services",
-        "location": "San Antonio, TX",
-        "url": "https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4715359006?s=gh-new-grad-jobs-2027",
+        "title": "ML Data Infrastructure Engineer",
+        "company": "AppLovin",
+        "location": "Palo Alto, CA",
+        "url": "https://zapply.jobs/l/d/greenhouse-applovin-4716524006?s=gh-new-grad-jobs-2027",
         "platform": "zapply",
-        "posted_at": "2026-09-24T17:04:03.896926+00:00",
-        "queued_at": "2026-09-24T19:05:24.849113+00:00"
+        "posted_at": "2026-09-24T23:10:56.562173+00:00",
+        "queued_at": "2026-09-25T15:12:29.725570+00:00"
       },
       {
-        "id": "jobright-d01873a1ef46",
+        "id": "simplify-b1f4aae2-b800-4b1c-9024-8c1f9ccc8d18",
         "seen_keys": [
-          "jobright-d01873a1ef46",
-          "url:https://jobright.ai/jobs/info/6ab409660e0ae54eeea462f9"
+          "simplify-b1f4aae2-b800-4b1c-9024-8c1f9ccc8d18",
+          "url:https://career-schwab.icims.com/jobs/125797/job"
         ],
-        "title": "Embedded Software Engineer",
-        "company": "Eaton",
-        "location": "Franksville, WI, United States",
-        "url": "https://jobright.ai/jobs/info/6ab409660e0ae54eeea462f9?utm_campaign=Software%20Engineering&utm_source=1103",
+        "title": "Java Software Engineer",
+        "company": "Charles Schwab",
+        "location": "Austin, TX / Southlake, TX / Jersey City, NJ",
+        "url": "https://career-schwab.icims.com/jobs/125797/job?mobile=true&needsRedirect=false",
+        "platform": "simplify",
+        "posted_at": "2026-09-24T22:09:50+00:00",
+        "queued_at": "2026-09-25T15:12:29.725580+00:00"
+      },
+      {
+        "id": "jobright-c304310d71cf",
+        "seen_keys": [
+          "jobright-c304310d71cf",
+          "url:https://jobright.ai/jobs/info/6ab600bdb3db59402d0ff9c9"
+        ],
+        "title": "Kearney Activate - Full Stack Developer",
+        "company": "Kearney",
+        "location": "Washington, DC, United States",
+        "url": "https://jobright.ai/jobs/info/6ab600bdb3db59402d0ff9c9?utm_campaign=Software%20Engineering&utm_source=1103",
         "platform": "jobright",
         "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T19:05:24.849128+00:00"
+        "queued_at": "2026-09-25T15:12:29.725593+00:00"
       },
       {
-        "id": "amazon-10559294",
+        "id": "jobright-8b0bf9c67a2d",
         "seen_keys": [
-          "amazon-10559294",
-          "url:https://www.amazon.jobs/en/jobs/10559294/software-dev-engineer-utr-delivery-operations"
+          "jobright-8b0bf9c67a2d",
+          "url:https://jobright.ai/jobs/info/6ab5e341d85922de20ce3a22"
         ],
-        "title": "Software Dev Engineer, UTR Delivery Operations",
-        "company": "Amazon",
-        "location": "Bellevue, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10559294/software-dev-engineer-utr-delivery-operations",
-        "platform": "amazon",
-        "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T19:05:24.849136+00:00"
-      },
-      {
-        "id": "amazon-10559220",
-        "seen_keys": [
-          "amazon-10559220",
-          "url:https://www.amazon.jobs/en/jobs/10559220/software-development-engineer-aws-industries-telecom-industry"
-        ],
-        "title": "Software Development Engineer, AWS Industries - Telecom Industry",
-        "company": "Amazon",
-        "location": "Santa Clara, California, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10559220/software-development-engineer-aws-industries-telecom-industry",
-        "platform": "amazon",
-        "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T19:05:24.849143+00:00"
-      },
-      {
-        "id": "greenhouse-vercel-6207796004",
-        "seen_keys": [
-          "greenhouse-vercel-6207796004",
-          "url:https://job-boards.greenhouse.io/vercel/jobs/6207796004"
-        ],
-        "title": "Software Engineer, Scheduled Tasks",
-        "company": "Vercel",
-        "location": "Hybrid - San Francisco",
-        "url": "https://job-boards.greenhouse.io/vercel/jobs/6207796004",
-        "platform": "greenhouse",
-        "posted_at": "2026-09-24T13:41:55-04:00",
-        "queued_at": "2026-09-24T19:05:24.849151+00:00"
-      },
-      {
-        "id": "zapply-a3a495944dc1",
-        "seen_keys": [
-          "zapply-a3a495944dc1",
-          "url:https://zapply.jobs/l/d/workday-nwis-nw-JR101635"
-        ],
-        "title": "Infrastructure Engineer",
-        "company": "Nightwing",
-        "location": "Annapolis Junction, MD",
-        "url": "https://zapply.jobs/l/d/workday-nwis-nw-JR101635?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-24T18:04:03.896388+00:00",
-        "queued_at": "2026-09-24T19:05:24.849157+00:00"
-      },
-      {
-        "id": "zapply-addca1044bd6",
-        "seen_keys": [
-          "zapply-addca1044bd6",
-          "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00348662"
-        ],
-        "title": "Principle Software Engineer \u2013 Systems software",
-        "company": "ASML",
-        "location": "San Jose, CA, USA",
-        "url": "https://zapply.jobs/l/d/workday-asml-asmlext1-J-00348662?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-24T18:50:03.895513+00:00",
-        "queued_at": "2026-09-24T19:05:24.849165+00:00"
-      },
-      {
-        "id": "jobright-d574955968fe",
-        "seen_keys": [
-          "jobright-d574955968fe",
-          "url:https://jobright.ai/jobs/info/6ab2c4a3326574570a002f98"
-        ],
-        "title": "Software Development Engineer \u2013 Amazon Leo (US)",
-        "company": "Amazon",
-        "location": "Sunnyvale, CA, United States",
-        "url": "https://jobright.ai/jobs/info/6ab2c4a3326574570a002f98?utm_campaign=Software%20Engineering&utm_source=1103",
+        "title": "Software Developer",
+        "company": "Hakk\u014dda, an IBM Company",
+        "location": "Bellevue, WA, United States",
+        "url": "https://jobright.ai/jobs/info/6ab5e341d85922de20ce3a22?utm_campaign=Software%20Engineering&utm_source=1103",
         "platform": "jobright",
         "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T22:20:45.570158+00:00"
+        "queued_at": "2026-09-25T15:12:29.725602+00:00"
       },
       {
-        "id": "amazon-10559739",
+        "id": "zapply-723f73091201",
         "seen_keys": [
-          "amazon-10559739",
-          "url:https://www.amazon.jobs/en/jobs/10559739/software-development-engineer-automated-reasoning-group"
+          "zapply-723f73091201",
+          "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229041"
         ],
-        "title": "Software Development Engineer, Automated Reasoning Group",
-        "company": "Amazon",
-        "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10559739/software-development-engineer-automated-reasoning-group",
-        "platform": "amazon",
-        "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T22:20:45.570171+00:00"
-      },
-      {
-        "id": "amazon-10559699",
-        "seen_keys": [
-          "amazon-10559699",
-          "url:https://www.amazon.jobs/en/jobs/10559699/software-development-engineer-general-shopping-intelligence"
-        ],
-        "title": "Software Development Engineer, General Shopping Intelligence",
-        "company": "Amazon",
-        "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10559699/software-development-engineer-general-shopping-intelligence",
-        "platform": "amazon",
-        "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T22:20:45.570180+00:00"
-      },
-      {
-        "id": "amazon-10559549",
-        "seen_keys": [
-          "amazon-10559549",
-          "url:https://www.amazon.jobs/en/jobs/10559549/software-development-engineer-sponsored-products-and-brands"
-        ],
-        "title": "Software Development Engineer, Sponsored Products and Brands",
-        "company": "Amazon",
-        "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10559549/software-development-engineer-sponsored-products-and-brands",
-        "platform": "amazon",
-        "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T22:20:45.570201+00:00"
-      },
-      {
-        "id": "workday-adobe-R171594",
-        "seen_keys": [
-          "workday-adobe-R171594",
-          "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R171594"
-        ],
-        "title": "Software Development Engineer",
-        "company": "Adobe",
-        "location": "3 Locations",
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R171594",
-        "platform": "workday",
-        "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T22:20:45.570211+00:00"
-      },
-      {
-        "id": "jobright-7b0374c259df",
-        "seen_keys": [
-          "jobright-7b0374c259df",
-          "url:https://jobright.ai/jobs/info/6ab571689d4843569fe49c19"
-        ],
-        "title": "Software Engineer",
-        "company": "Baxter International Inc.",
-        "location": "Skaneateles, NY, United States",
-        "url": "https://jobright.ai/jobs/info/6ab571689d4843569fe49c19?utm_campaign=Software%20Engineering&utm_source=1103",
-        "platform": "jobright",
-        "posted_at": "2026-09-23",
-        "queued_at": "2026-09-24T22:20:45.570225+00:00"
-      },
-      {
-        "id": "zapply-0923f04fffa8",
-        "seen_keys": [
-          "zapply-0923f04fffa8",
-          "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR206190"
-        ],
-        "title": "Full Stack Developer",
-        "company": "Elevance Health",
-        "location": "4 Locations",
-        "url": "https://zapply.jobs/l/d/workday-elevancehealth-ant-JR206190?s=gh-new-grad-jobs-2027",
+        "title": "Software Developer (DevOps)",
+        "company": "GDIT",
+        "location": "USA PA Philadelphia",
+        "url": "https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229041?s=gh-new-grad-jobs-2027",
         "platform": "zapply",
-        "posted_at": "2026-09-24T22:05:27.104285+00:00",
-        "queued_at": "2026-09-24T22:20:45.570233+00:00"
+        "posted_at": "2026-09-25T14:46:56.560883+00:00",
+        "queued_at": "2026-09-25T15:12:29.725611+00:00"
       },
       {
-        "id": "zapply-54adc138db0e",
+        "id": "ashby-openai-7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
         "seen_keys": [
-          "zapply-54adc138db0e",
-          "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22847"
+          "ashby-openai-7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
+          "url:https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025"
         ],
-        "title": "Software Engineer, Payments",
-        "company": "Wex",
-        "location": "New York, NY",
-        "url": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22847?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-24T21:35:27.121797+00:00",
-        "queued_at": "2026-09-24T22:20:45.570242+00:00"
+        "title": "Software Engineer, Search Infrastructure",
+        "company": "OpenAI",
+        "location": "San Francisco",
+        "url": "https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
+        "platform": "ashby",
+        "posted_at": "2026-09-25T01:05:08.971+00:00",
+        "queued_at": "2026-09-25T15:12:29.725620+00:00"
       },
       {
-        "id": "zapply-b75ebb38063c",
+        "id": "zapply-f7c6a4132ada",
         "seen_keys": [
-          "zapply-b75ebb38063c",
-          "url:https://zapply.jobs/l/d/workday-kla-search-2641468"
+          "zapply-f7c6a4132ada",
+          "url:https://zapply.jobs/l/d/ashby-oneapp-d76e6639-a175-4085-af02-f96a4c1c5093"
+        ],
+        "title": "Software Engineer, Product",
+        "company": "ONE Finance",
+        "location": "United States (Remote)",
+        "url": "https://zapply.jobs/l/d/ashby-oneapp-d76e6639-a175-4085-af02-f96a4c1c5093?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-25T00:10:56.562096+00:00",
+        "queued_at": "2026-09-25T15:12:29.725629+00:00"
+      },
+      {
+        "id": "jobright-cc7cfbfccf8e",
+        "seen_keys": [
+          "jobright-cc7cfbfccf8e",
+          "url:https://jobright.ai/jobs/info/6ab58ff29d4843569fe4abc9"
         ],
         "title": "Software Engineer (Metrology Systems)",
         "company": "KLA",
-        "location": "Milpitas, CA",
-        "url": "https://zapply.jobs/l/d/workday-kla-search-2641468?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-24T21:19:27.122428+00:00",
-        "queued_at": "2026-09-24T22:20:45.570251+00:00"
-      },
-      {
-        "id": "jobright-a4aac8e669e2",
-        "seen_keys": [
-          "jobright-a4aac8e669e2",
-          "url:https://jobright.ai/jobs/info/6a9932588a8b765bc55f202e"
-        ],
-        "title": "Software Dev Engineer, Publisher Ad Server",
-        "company": "Amazon",
-        "location": "Seattle, WA, United States",
-        "url": "https://jobright.ai/jobs/info/6a9932588a8b765bc55f202e?utm_campaign=Software%20Engineering&utm_source=1103",
+        "location": "Milpitas, CA, United States",
+        "url": "https://jobright.ai/jobs/info/6ab58ff29d4843569fe4abc9?utm_campaign=Software%20Engineering&utm_source=1103",
         "platform": "jobright",
         "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T22:20:45.570263+00:00"
+        "queued_at": "2026-09-25T15:12:29.725637+00:00"
       },
       {
-        "id": "amazon-10559511",
+        "id": "zapply-c3db9bfe8a39",
         "seen_keys": [
-          "amazon-10559511",
-          "url:https://www.amazon.jobs/en/jobs/10559511/software-developer-engineer-amazon-workspaces-core-managed-instances"
+          "zapply-c3db9bfe8a39",
+          "url:https://zapply.jobs/l/d/google-79664588374581958"
         ],
-        "title": "Software Developer Engineer, Amazon WorkSpaces Core Managed Instances",
-        "company": "Amazon",
-        "location": "Seattle, Washington, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10559511/software-developer-engineer-amazon-workspaces-core-managed-instances",
-        "platform": "amazon",
-        "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T22:20:45.570272+00:00"
-      },
-      {
-        "id": "amazon-10559720",
-        "seen_keys": [
-          "amazon-10559720",
-          "url:https://www.amazon.jobs/en/jobs/10559720/research-scientist-mobile-manipulation-robotics-i-o"
-        ],
-        "title": "Research Scientist, Mobile Manipulation Robotics (I/O)",
-        "company": "Amazon",
-        "location": "North Reading, Massachusetts, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10559720/research-scientist-mobile-manipulation-robotics-i-o",
-        "platform": "amazon",
-        "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T22:20:45.570280+00:00"
-      },
-      {
-        "id": "zapply-fbe995cf81b5",
-        "seen_keys": [
-          "zapply-fbe995cf81b5",
-          "url:https://zapply.jobs/l/d/workday-jll-jllcareers-REQ538344"
-        ],
-        "title": "Union Mobile Engineer",
-        "company": "JLL",
-        "location": "Mountain View, CA",
-        "url": "https://zapply.jobs/l/d/workday-jll-jllcareers-REQ538344?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-24T21:19:27.122728+00:00",
-        "queued_at": "2026-09-24T22:20:45.570288+00:00"
-      },
-      {
-        "id": "zapply-477f7ac40142",
-        "seen_keys": [
-          "zapply-477f7ac40142",
-          "url:https://zapply.jobs/l/d/apple-200685673"
-        ],
-        "title": "Systems Software Engineer, Platform Architecture",
-        "company": "Apple",
-        "location": "Austin",
-        "url": "https://zapply.jobs/l/d/apple-200685673?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-24T21:19:27.122690+00:00",
-        "queued_at": "2026-09-24T22:20:45.570295+00:00"
-      },
-      {
-        "id": "amazon-10559684",
-        "seen_keys": [
-          "amazon-10559684",
-          "url:https://www.amazon.jobs/en/jobs/10559684/site-reliability-engineer-software-ops-and-scaling-one-material-handling-system-software-controls-and-science"
-        ],
-        "title": "Site Reliability Engineer - Software Ops and Scaling , One Material Handling System - Software, Controls and Science",
-        "company": "Amazon",
-        "location": "Nashville, Tennessee, USA",
-        "url": "https://www.amazon.jobs/en/jobs/10559684/site-reliability-engineer-software-ops-and-scaling-one-material-handling-system-software-controls-and-science",
-        "platform": "amazon",
-        "posted_at": "2026-09-24",
-        "queued_at": "2026-09-24T22:20:45.570304+00:00"
-      },
-      {
-        "id": "zapply-31998b767e4b",
-        "seen_keys": [
-          "zapply-31998b767e4b",
-          "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30174"
-        ],
-        "title": "Infrastructure Engineer, TechOps CICD Image Management (Remote)",
-        "company": "CrowdStrike",
-        "location": "USA - Remote",
-        "url": "https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30174?s=gh-new-grad-jobs-2027",
-        "platform": "zapply",
-        "posted_at": "2026-09-24T21:35:27.121861+00:00",
-        "queued_at": "2026-09-24T22:20:45.570311+00:00"
-      },
-      {
-        "id": "zapply-fbf211c816a7",
-        "seen_keys": [
-          "zapply-fbf211c816a7",
-          "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30257"
-        ],
-        "title": "High Throughput Biology Research Scientist",
-        "company": "Vertex Pharmaceuticals",
-        "location": "Boston, MA",
-        "url": "https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30257?s=gh-new-grad-jobs-2027",
+        "title": "Power Systems Research Engineer, DeepMind",
+        "company": "Google",
+        "location": "United States",
+        "url": "https://zapply.jobs/l/d/google-79664588374581958?s=gh-new-grad-jobs-2027",
         "platform": "zapply",
         "posted_at": "Unknown",
-        "queued_at": "2026-09-24T22:20:45.570319+00:00"
+        "queued_at": "2026-09-25T15:12:29.725645+00:00"
+      },
+      {
+        "id": "zapply-b2f080a0fc2c",
+        "seen_keys": [
+          "zapply-b2f080a0fc2c",
+          "url:https://zapply.jobs/l/d/amd-92639"
+        ],
+        "title": "GPU Stack Unified Build & release platform Engineer",
+        "company": "AMD",
+        "location": "San Jose, CA, United States",
+        "url": "https://zapply.jobs/l/d/amd-92639?s=gh-new-grad-jobs-2027",
+        "platform": "zapply",
+        "posted_at": "2026-09-25T12:10:56.561502+00:00",
+        "queued_at": "2026-09-25T15:12:29.725653+00:00"
+      },
+      {
+        "id": "ashby-etched-37340964-10d7-4cfc-995d-f41f3819ccc2",
+        "seen_keys": [
+          "ashby-etched-37340964-10d7-4cfc-995d-f41f3819ccc2",
+          "url:https://jobs.ashbyhq.com/etched/37340964-10d7-4cfc-995d-f41f3819ccc2"
+        ],
+        "title": "MTS - Agent Research",
+        "company": "Etched",
+        "location": "San Jose",
+        "url": "https://jobs.ashbyhq.com/etched/37340964-10d7-4cfc-995d-f41f3819ccc2",
+        "platform": "ashby",
+        "posted_at": "2026-09-25T03:29:00.106+00:00",
+        "queued_at": "2026-09-25T15:12:29.725662+00:00"
+      },
+      {
+        "id": "simplify-37136fd4-099f-4274-9089-5506ab49a026",
+        "seen_keys": [
+          "simplify-37136fd4-099f-4274-9089-5506ab49a026",
+          "url:https://jobs.ashbyhq.com/sim/b26bbbec-f7cb-446a-8882-3f3d034c24d8/application"
+        ],
+        "title": "Forward Deployed Engineer",
+        "company": "Sim",
+        "location": "SF",
+        "url": "https://jobs.ashbyhq.com/sim/b26bbbec-f7cb-446a-8882-3f3d034c24d8/application?embed=true",
+        "platform": "simplify",
+        "posted_at": "2026-09-25T01:19:23+00:00",
+        "queued_at": "2026-09-25T15:12:29.725669+00:00"
+      },
+      {
+        "id": "jobright-93578d903cca",
+        "seen_keys": [
+          "jobright-93578d903cca",
+          "url:https://jobright.ai/jobs/info/6a8766b5e8b6601d12903682"
+        ],
+        "title": "Software Engineer - Oracle Integration",
+        "company": "Mayo Clinic",
+        "location": "Rochester, MN, United States",
+        "url": "https://jobright.ai/jobs/info/6a8766b5e8b6601d12903682?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-09-24",
+        "queued_at": "2026-09-25T15:12:29.725677+00:00"
+      },
+      {
+        "id": "simplify-a1ab4c1e-22e6-4b3b-9d18-6abf551fc952",
+        "seen_keys": [
+          "simplify-a1ab4c1e-22e6-4b3b-9d18-6abf551fc952",
+          "url:https://jobs.ashbyhq.com/trunk%20tools/414cdb32-9e5e-4679-8736-93cc28f7cf44/application"
+        ],
+        "title": "Forward Deployed Engineer",
+        "company": "Trunk Tools",
+        "location": "NYC",
+        "url": "https://jobs.ashbyhq.com/trunk%20tools/414cdb32-9e5e-4679-8736-93cc28f7cf44/application?embed=true",
+        "platform": "simplify",
+        "posted_at": "2026-09-24T22:24:39+00:00",
+        "queued_at": "2026-09-25T15:12:29.725684+00:00"
+      },
+      {
+        "id": "workday-salesforce-JR360493",
+        "seen_keys": [
+          "workday-salesforce-JR360493",
+          "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Value-Acceleration-Engineer-MTS_JR360493-1"
+        ],
+        "title": "Value Acceleration Engineer MTS",
+        "company": "Salesforce",
+        "location": "3 Locations",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Value-Acceleration-Engineer-MTS_JR360493-1",
+        "platform": "workday",
+        "posted_at": "2026-09-24",
+        "queued_at": "2026-09-25T15:12:29.725693+00:00"
       }
     ]
   },
-  "last_run": "2026-09-24T22:20:45.835348+00:00"
+  "last_run": "2026-09-25T15:12:30.010198+00:00"
 }
