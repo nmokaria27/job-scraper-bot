@@ -76,10 +76,10 @@ jobs:
           # Single-channel fallback
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           # Single-channel filtering (optional — falls back to defaults in config.py)
-          KEYWORDS: ${{ secrets.KEYWORDS }}
-          EXCLUDED_KEYWORDS: ${{ secrets.EXCLUDED_KEYWORDS }}
-          LOCATIONS: ${{ secrets.LOCATIONS }}
-          MAX_NOTIFICATIONS_PER_RUN: ${{ secrets.MAX_NOTIFICATIONS_PER_RUN }}
+          KEYWORDS: ${{ vars.KEYWORDS }}
+          EXCLUDED_KEYWORDS: ${{ vars.EXCLUDED_KEYWORDS }}
+          LOCATIONS: ${{ vars.LOCATIONS }}
+          MAX_NOTIFICATIONS_PER_RUN: ${{ vars.MAX_NOTIFICATIONS_PER_RUN }}
           RECENT_POSTING_MAX_AGE_HOURS: ${{ vars.RECENT_POSTING_MAX_AGE_HOURS }}
           ATS_CONCURRENCY: ${{ vars.ATS_CONCURRENCY }}
           SEND_NO_NEW_SUMMARY: ${{ vars.SEND_NO_NEW_SUMMARY }}
@@ -94,8 +94,7 @@ jobs:
           JSON_SOURCE_URLS: ${{ vars.JSON_SOURCE_URLS }}
           WORKDAY_TENANTS: ${{ vars.WORKDAY_TENANTS }}
           REQUEST_TIMEOUT: ${{ vars.REQUEST_TIMEOUT }}
-          # Jev second-pass judge (jev.py). Phase 1 ships ranking only:
-          # leave JEV_ENFORCE unset/false until shadow data says otherwise.
+          # Jev second-pass judge (jev.py). JEV_ENFORCE drops rejected jobs.
           JEV_API_KEY: ${{ secrets.JEV_API_KEY }}
           JEV_ENABLED: ${{ vars.JEV_ENABLED }}
           JEV_RANKING: ${{ vars.JEV_RANKING }}
@@ -105,6 +104,9 @@ jobs:
           JEV_MAX_CALLS_PER_RUN: ${{ vars.JEV_MAX_CALLS_PER_RUN }}
           JEV_RUN_DEADLINE_SECONDS: ${{ vars.JEV_RUN_DEADLINE_SECONDS }}
           JEV_FIT_FLOOR: ${{ vars.JEV_FIT_FLOOR }}
+          JEV_MIN_CONFIDENCE: ${{ vars.JEV_MIN_CONFIDENCE }}
+          JEV_CLEARANCE_THRESHOLD: ${{ vars.JEV_CLEARANCE_THRESHOLD }}
+          JEV_FIT_BUCKET: ${{ vars.JEV_FIT_BUCKET }}
           JEV_PROMOTE: ${{ vars.JEV_PROMOTE }}
           JEV_PROMOTE_MIN_FIT: ${{ vars.JEV_PROMOTE_MIN_FIT }}
           JEV_PROMOTE_MAX_CALLS: ${{ vars.JEV_PROMOTE_MAX_CALLS }}
@@ -116,10 +118,22 @@ jobs:
             python main.py --init
           else
             python main.py
+            code=$?
+            # Exit 139 is a native segfault (seen once under Jev load). One retry
+            # recovers the channel that had not started yet.
+            if [ "$code" -eq 139 ]; then
+              echo "::warning::Scraper segfaulted (exit 139); retrying once"
+              python main.py
+              code=$?
+            fi
+            exit "$code"
           fi
 
       - name: Commit updated seen_jobs.json
-        if: steps.quiet.outputs.skip != 'true'
+        # Only the default branch may write seen-state. A dispatch from another
+        # ref must not push that ref onto main. Checkout is detached, so the
+        # update is pushed as HEAD:main rather than a branch name.
+        if: steps.quiet.outputs.skip != 'true' && github.ref == 'refs/heads/main'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -128,6 +142,18 @@ jobs:
           git add discovered_companies.json || true
           git diff --staged --quiet && exit 0
           git commit -m "chore: update seen_jobs [skip ci]"
-          git fetch origin main
-          git rebase origin/main
-          git push origin HEAD:main
+          ok=0
+          for attempt in 1 2 3; do
+            git fetch origin main
+            if git rebase origin/main && git push origin HEAD:main; then
+              ok=1
+              break
+            fi
+            echo "::warning::seen_jobs push attempt ${attempt} failed; retrying"
+            git rebase --abort || true
+            sleep "$attempt"
+          done
+          if [ "$ok" -ne 1 ]; then
+            echo "::error::Failed to push seen_jobs.json after 3 attempts — expect duplicate Discord posts on the next run"
+            exit 1
+          fi

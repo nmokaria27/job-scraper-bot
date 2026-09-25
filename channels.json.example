@@ -107,7 +107,13 @@
       "nurse",
       "construction",
       "investor relations",
-      "tax"
+      "tax",
+      "clearance",
+      "cleared",
+      "ts/sci",
+      "top secret",
+      "secret",
+      "polygraph"
     ],
     "locations": [
       "us",

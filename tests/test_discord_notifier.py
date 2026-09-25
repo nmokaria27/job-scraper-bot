@@ -4,8 +4,10 @@ import sys
 from unittest.mock import MagicMock
 
 
+from unittest.mock import AsyncMock, patch
+
 from scrapers.base import Job
-from discord_notifier import _build_job_embed
+from discord_notifier import WebhookPostResult, _build_job_embed, notify_jobs_batch
 
 class TestDiscordNotifier(unittest.TestCase):
     def test_build_job_embed_happy_path(self):
@@ -85,6 +87,72 @@ class TestDiscordNotifier(unittest.TestCase):
         # Discord title limit is 256.
         self.assertTrue(len(embed["title"]) <= 256, f"Title length {len(embed['title'])} is too long")
         self.assertTrue(embed["title"].endswith("..."))
+
+    def test_build_job_embed_includes_jev_scores(self):
+        job = Job(
+            id="test-6",
+            title="Software Engineer",
+            company="Test Company",
+            location="NYC",
+            url="https://example.com/job",
+            platform="greenhouse",
+            posted_at="Unknown",
+        )
+        embed = _build_job_embed(job, fit=0.82, confidence=0.9)
+        jev_field = next(field for field in embed["fields"] if field["name"] == "Jev")
+        self.assertEqual(jev_field["value"], "82% fit · 90% confidence")
+
+    def test_build_job_embed_omits_jev_when_unjudged(self):
+        job = Job(
+            id="test-7",
+            title="Software Engineer",
+            company="Test Company",
+            location="NYC",
+            url="https://example.com/job",
+            platform="greenhouse",
+            posted_at="Unknown",
+        )
+        embed = _build_job_embed(job)
+        self.assertFalse(any(field["name"] == "Jev" for field in embed["fields"]))
+
+
+class NotifyBatchTests(unittest.IsolatedAsyncioTestCase):
+    async def test_posts_at_most_ten_embeds(self) -> None:
+        jobs = [
+            Job(
+                id=f"b{i}",
+                title=f"Software Engineer {i}",
+                company="Co",
+                location="Remote",
+                url=f"https://example.com/{i}",
+                platform="greenhouse",
+                posted_at="Unknown",
+            )
+            for i in range(12)
+        ]
+        payloads: list[dict] = []
+
+        async def fake_post(client, payload, webhook_url=None):
+            payloads.append(payload)
+            return WebhookPostResult(success=True)
+
+        with (
+            patch("discord_notifier._post_webhook", new=fake_post),
+            patch("discord_notifier.asyncio.sleep", new=AsyncMock()),
+        ):
+            notified = await notify_jobs_batch(
+                jobs,
+                "https://example.invalid/webhook",
+                scores={"b0": (0.8, 0.7)},
+            )
+
+        self.assertEqual(len(notified), 12)
+        self.assertEqual(len(payloads), 2)
+        self.assertEqual(len(payloads[0]["embeds"]), 10)
+        self.assertEqual(len(payloads[1]["embeds"]), 2)
+        jev_fields = [f for f in payloads[0]["embeds"][0]["fields"] if f["name"] == "Jev"]
+        self.assertEqual(jev_fields[0]["value"], "80% fit · 70% confidence")
+
 
 if __name__ == "__main__":
     unittest.main()

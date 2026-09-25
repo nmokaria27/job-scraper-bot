@@ -11,3 +11,6 @@ __pycache__/
 
 # Local-only working files, never committed
 *.local
+# Finder duplicate copies ("jev 2.py")
+* 2.py
+* 2.md

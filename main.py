@@ -506,6 +506,32 @@ def _newest_first(jobs: list[Job]) -> list[Job]:
     return sorted(jobs, key=sort_key)
 
 
+def _scores_by_id(jobs: list[Job], verdicts: list[jev.Verdict]) -> dict[str, tuple[float, float]]:
+    """job id → (fit, confidence) for judged jobs only."""
+    scores: dict[str, tuple[float, float]] = {}
+    for job, verdict in zip(jobs, verdicts):
+        if verdict.judged:
+            scores[job.id] = (verdict.fit, verdict.confidence)
+    return scores
+
+
+def _leave_overflow_unseen(verdicts: list[jev.Verdict]) -> bool:
+    """Re-rank overflow only when Jev actually scored this batch.
+
+    Ranking-on plus an outage (every verdict unjudged) is recency order. Those
+    leftovers must stay on the quiet-run queue, or a steady stream of newer
+    posts ages them out of the window.
+    """
+    return config.JEV_RANKING and any(verdict.judged for verdict in verdicts)
+
+
+def _channels_for_judging(channels: list[ChannelConfig]) -> list[ChannelConfig]:
+    """SWE profile first when Jev is on, so PM promotion cannot spend the budget."""
+    if not config.JEV_ENABLED:
+        return list(channels)
+    return sorted(channels, key=lambda ch: 0 if jev.profile_for(ch) == "swe" else 1)
+
+
 def _rank_for_notification(
     jobs: list[Job], verdicts: list[jev.Verdict]
 ) -> tuple[list[Job], list[Job]]:
@@ -743,7 +769,7 @@ async def main(init_mode: bool = False) -> None:
     # Shared across channels so two channels cannot each spend the full allowance.
     jev_budget = jev.new_budget()
 
-    for ch in channels:
+    for ch in _channels_for_judging(channels):
         print(f"\n{'='*60}")
         print(f"[CHANNEL] Processing: {ch.name}")
         print(f"{'='*60}")
@@ -760,6 +786,7 @@ async def main(init_mode: bool = False) -> None:
 
         verdicts = await jev.judge_for_channel(unseen, ch, jev_budget)
         jev.summarise(ch.name, unseen, verdicts)
+        scores = _scores_by_id(unseen, verdicts)
         new_for_channel, jev_dropped = _rank_for_notification(unseen, verdicts)
         if jev_dropped:
             print(f"[JEV] '{ch.name}': dropped {len(jev_dropped)} of {len(unseen)}")
@@ -777,6 +804,8 @@ async def main(init_mode: bool = False) -> None:
                 candidates, ch, jev_budget, free_slots
             ):
                 promoted_ids.add(job.id)
+                if verdict.judged:
+                    scores[job.id] = (verdict.fit, verdict.confidence)
                 new_for_channel.append(job)
 
         print(f"[INFO] Matching: {len(matching)} | New for channel: {len(new_for_channel)}")
@@ -815,7 +844,7 @@ async def main(init_mode: bool = False) -> None:
 
         # Send Discord notifications
         notified = await discord_notifier.notify_jobs_batch(
-            jobs_to_notify, ch.webhook_url, promoted_ids=promoted_ids
+            jobs_to_notify, ch.webhook_url, promoted_ids=promoted_ids, scores=scores
         )
         total_notified += len(notified)
 
@@ -824,10 +853,20 @@ async def main(init_mode: bool = False) -> None:
 
         if len(notified) == len(jobs_to_notify):
             jobs_to_queue = new_for_channel[config.MAX_NOTIFICATIONS_PER_RUN:]
-            if jobs_to_queue:
-                # Queue capped jobs so they can be flushed later when there are no new jobs.
+            if jobs_to_queue and _leave_overflow_unseen(verdicts):
+                # Leave overflow unseen. The next run re-ranks them against new
+                # arrivals, so a high-fit job that missed this cap can still post.
+                # Already-notified jobs stay marked seen, so the same top slice
+                # is not sent again.
+                print(
+                    f"[INFO] {len(jobs_to_queue)} job(s) over the cap left unseen "
+                    f"for '{ch.name}' so the next run can re-rank them"
+                )
+            elif jobs_to_queue:
+                # Recency mode: queue and mark seen, otherwise the same newest
+                # slice refills the cap on every run. Flush only when the
+                # channel later has zero new matches.
                 enqueue_capped_jobs(queue_data, ch.name, jobs_to_queue)
-                # Still mark as seen so they won't keep re-appearing as "new" on every run.
                 for job in jobs_to_queue:
                     mark_job_seen(seen_data, ch.name, job)
         elif jobs_to_notify:
@@ -839,6 +878,7 @@ async def main(init_mode: bool = False) -> None:
             new_count=len(notified),
             total_checked=total_checked,
             capped=capped,
+            overflow_rerank=_leave_overflow_unseen(verdicts),
             webhook_url=ch.webhook_url,
             channel_name=ch.name,
             force=config.SEND_NO_NEW_SUMMARY,

@@ -115,8 +115,10 @@ def _build_profiles() -> dict:
     clearance = Noul(
         instructions=(
             "The job title indicates the role requires a US government security clearance "
-            "or is restricted to cleared personnel. Markers include: Secret, Top Secret, "
-            "TS/SCI, Polygraph, Active Clearance, FedRAMP, Public Sector, Defense, Federal."
+            "or is restricted to US persons / cleared personnel. Markers include: Secret, "
+            "Top Secret, TS/SCI, Polygraph, Active Clearance, 'must be a US citizen', ITAR. "
+            "A commercial compliance mention (FedRAMP, SOC 2) or a public-sector customer "
+            "without a clearance or citizenship requirement is NOT a clearance role."
         )
     )
 

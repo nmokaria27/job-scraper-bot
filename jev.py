@@ -170,8 +170,10 @@ def _build_questions() -> dict:
     clearance = Noul(
         instructions=(
             "The job title indicates the role requires a US government security clearance "
-            "or is restricted to cleared personnel. Markers include: Secret, Top Secret, "
-            "TS/SCI, Polygraph, Active Clearance, FedRAMP, Public Sector, Defense, Federal."
+            "or is restricted to US persons / cleared personnel. Markers include: Secret, "
+            "Top Secret, TS/SCI, Polygraph, Active Clearance, 'must be a US citizen', ITAR. "
+            "A commercial compliance mention (FedRAMP, SOC 2) or a public-sector customer "
+            "without a clearance or citizenship requirement is NOT a clearance role."
         )
     )
 
@@ -561,13 +563,15 @@ def summarise(channel_name: str, jobs: list[Job], verdicts: list[Verdict]) -> No
     mean_fit = sum(v.fit for v in judged) / len(judged) if judged else 0.0
     print(
         f"[JEV] '{channel_name}': judged {len(judged)}/{len(verdicts)}, "
-        f"would reject {len(rejected)}, mean fit {mean_fit:.2f}"
+        f"{'dropped' if config.JEV_ENFORCE else 'would reject'} {len(rejected)}, "
+        f"mean fit {mean_fit:.2f}"
         + (f", {len(errors)} error(s)" if errors else "")
     )
-    if rejected and not config.JEV_ENFORCE:
+    if rejected:
+        verb = "dropped" if config.JEV_ENFORCE else "would drop"
         for job, verdict in zip(jobs, verdicts):
             if verdict.judged and not verdict.keep:
-                print(f"[JEV] would drop: {job.title} @ {job.company} "
+                print(f"[JEV] {verb}: {job.title} @ {job.company} "
                       f"({verdict.reason}, fit={verdict.fit:.2f})")
     if errors:
         print(f"[JEV] first error: {errors[0].error}")

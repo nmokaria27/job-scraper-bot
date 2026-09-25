@@ -75,7 +75,8 @@ async def _post_webhook(
         try:
             response = await client.post(url, json=payload)
         except httpx.RequestError as e:
-            print(f"[ERROR] Discord webhook connection error: {type(e).__name__}: {e}")
+            # Exception text often includes the webhook URL. Log the type only.
+            print(f"[ERROR] Discord webhook connection error: {type(e).__name__}")
             return WebhookPostResult(success=False)
 
         if response.status_code == 429 and attempt <= MAX_RATE_LIMIT_RETRIES:
@@ -87,7 +88,7 @@ async def _post_webhook(
         if response.is_success:
             return WebhookPostResult(success=True)
 
-        print(f"[ERROR] Discord webhook HTTP error {response.status_code}: {response.text[:200]}")
+        print(f"[ERROR] Discord webhook HTTP error {response.status_code}")
         return WebhookPostResult(
             success=False,
             fatal=response.status_code in FATAL_WEBHOOK_STATUS_CODES,
@@ -111,40 +112,60 @@ def _retry_after_seconds(response: httpx.Response) -> float:
         return 2.0
 
 
-def _build_job_embed(job: Job, promoted: bool = False) -> dict:
+def _build_job_embed(
+    job: Job,
+    promoted: bool = False,
+    fit: float | None = None,
+    confidence: float | None = None,
+) -> dict:
     """`promoted` marks a job Jev surfaced from OUTSIDE the keyword filters, so an
-    admission is always visible rather than silent."""
+    admission is always visible rather than silent.
+
+    `fit` and `confidence` are Jev's 0-1 scores. Omit both when the job was
+    not judged so an outage does not render a fake 0%.
+    """
     source_label = PLATFORM_LABELS.get(job.platform, job.platform.capitalize())
     color = PLATFORM_COLORS.get(job.platform, 5814783)
     icon = "✨" if promoted else "\U0001f680"
     full_title = f"{icon} {job.title}"
     title = (full_title[:253] + "...") if len(full_title) > 256 else full_title
+    fields = [
+        {
+            "name": "\U0001f4e1 Source",
+            "value": source_label,
+            "inline": True,
+        },
+        {
+            "name": "\U0001f4cd Location",
+            "value": job.location or "Remote / Not Specified",
+            "inline": True,
+        },
+        {
+            "name": "\U0001f550 Posted",
+            "value": job.posted_at,
+            "inline": True,
+        },
+    ]
+    if fit is not None and confidence is not None:
+        fields.append(
+            {
+                "name": "Jev",
+                "value": f"{fit:.0%} fit · {confidence:.0%} confidence",
+                "inline": True,
+            }
+        )
+    fields.append(
+        {
+            "name": "\U0001f517 Apply",
+            "value": f"[Click Here]({job.url})" if job.url else "No link available",
+            "inline": False,
+        }
+    )
     return {
         "title": title,
         "description": f"**{job.company}**",
         "color": color,
-        "fields": [
-            {
-                "name": "\U0001f4e1 Source",
-                "value": source_label,
-                "inline": True,
-            },
-            {
-                "name": "\U0001f4cd Location",
-                "value": job.location or "Remote / Not Specified",
-                "inline": True,
-            },
-            {
-                "name": "\U0001f550 Posted",
-                "value": job.posted_at,
-                "inline": True,
-            },
-            {
-                "name": "\U0001f517 Apply",
-                "value": f"[Click Here]({job.url})" if job.url else "No link available",
-                "inline": False,
-            },
-        ],
+        "fields": fields,
         "footer": {
             "text": "Job Scraper Bot"
             + (" · surfaced by Jev (outside keyword filters)" if promoted else "")
@@ -157,26 +178,44 @@ async def notify_jobs_batch(
     jobs: list[Job],
     webhook_url: str | None = None,
     promoted_ids: set[str] | None = None,
+    scores: dict[str, tuple[float, float]] | None = None,
 ) -> list[Job]:
     """
     Send Discord notifications for a list of jobs to a specific webhook.
     Returns the subset of jobs that were successfully notified.
-    Rate-limits between each POST.
+    Posts up to MAX_EMBEDS_PER_POST embeds per call, then sleeps.
 
     `promoted_ids` holds the ids of jobs Jev surfaced from outside the keyword
     filters; those embeds are visually marked.
+
+    `scores` maps job id → (fit, confidence), both 0-1. Missing ids are posted
+    without a Jev field.
     """
     notified: list[Job] = []
     promoted_ids = promoted_ids or set()
+    scores = scores or {}
 
     async with httpx.AsyncClient(timeout=10) as client:
-        for job in jobs:
-            payload = {"embeds": [_build_job_embed(job, promoted=job.id in promoted_ids)]}
-            result = await _post_webhook(client, payload, webhook_url)
+        for start in range(0, len(jobs), MAX_EMBEDS_PER_POST):
+            chunk = jobs[start : start + MAX_EMBEDS_PER_POST]
+            embeds = []
+            for job in chunk:
+                fit_conf = scores.get(job.id)
+                fit, confidence = fit_conf if fit_conf is not None else (None, None)
+                embeds.append(
+                    _build_job_embed(
+                        job,
+                        promoted=job.id in promoted_ids,
+                        fit=fit,
+                        confidence=confidence,
+                    )
+                )
+            result = await _post_webhook(client, {"embeds": embeds}, webhook_url)
             if result.success:
-                notified.append(job)
+                notified.extend(chunk)
             else:
-                print(f"[ERROR] Failed to notify: {job.title} @ {job.company}")
+                for job in chunk:
+                    print(f"[ERROR] Failed to notify: {job.title} @ {job.company}")
                 if result.fatal:
                     print("[ERROR] Stopping channel notifications because the webhook endpoint is invalid")
                     break
@@ -192,6 +231,7 @@ async def send_summary(
     webhook_url: str | None = None,
     channel_name: str = "",
     force: bool = False,
+    overflow_rerank: bool = False,
 ) -> None:
     """
     Send a summary embed at the end of a run.
@@ -202,12 +242,18 @@ async def send_summary(
 
     import config  # local import to avoid circular dependency at module level
 
-    cap_note = (
-        f"\n\u26a0\ufe0f Capped at {config.MAX_NOTIFICATIONS_PER_RUN} notifications. "
-        "Additional matches were marked as seen and will not re-notify."
-        if capped
-        else ""
-    )
+    if capped and overflow_rerank:
+        cap_note = (
+            f"\n\u26a0\ufe0f Capped at {config.MAX_NOTIFICATIONS_PER_RUN} notifications. "
+            "The rest stay eligible and will be re-ranked on the next run."
+        )
+    elif capped:
+        cap_note = (
+            f"\n\u26a0\ufe0f Capped at {config.MAX_NOTIFICATIONS_PER_RUN} notifications. "
+            "Additional matches were queued and will not re-notify until this channel is quiet."
+        )
+    else:
+        cap_note = ""
     description = (
         "No new matching jobs were found in this run."
         if new_count == 0

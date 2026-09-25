@@ -176,6 +176,10 @@ class PmChannelFilterTests(unittest.TestCase):
             "Technical Program Manager (Cyber), Public Sector",
             "Technical Program Manager - Enterprise Security",
             "Customer Technical Program Manager, Vehicle OS",
+            "Associate Product Manager (Active TS/SCI)",
+            "Product Manager, Secret Clearance",
+            "APM - Polygraph Required",
+            "Technical Program Manager, Top Secret",
         ):
             self.assertFalse(self._matches(title), f"should NOT match {title!r}")
 
@@ -276,6 +280,10 @@ class LocationFilterTests(unittest.TestCase):
 
 
 class ChannelLoadingTests(unittest.TestCase):
+    def test_invalid_numeric_env_falls_back(self) -> None:
+        with patch.dict(os.environ, {"NOT_A_REAL_CAP": "nope", "NOT_A_REAL_FLOOR": "abc"}):
+            self.assertEqual(config._parse_int("NOT_A_REAL_CAP", 25), 25)
+            self.assertEqual(config._parse_float("NOT_A_REAL_FLOOR", 0.17), 0.17)
     def test_pm_and_full_time_webhooks_load_built_in_channels(self) -> None:
         with patch.dict(
             os.environ,
@@ -291,6 +299,8 @@ class ChannelLoadingTests(unittest.TestCase):
 
         # The retired SWE_WEBHOOK_URL (internship channel) must be ignored.
         self.assertEqual([channel.name for channel in channels], ["pm-jobs", "swe-ai-full-time"])
+        self.assertEqual(channels[0].jev_profile, "pm")
+        self.assertEqual(channels[1].jev_profile, "swe")
         self.assertEqual(channels[1].webhook_url, "https://discord.com/api/webhooks/fulltime-env")
         self.assertEqual(channels[0].excluded_locations, config.DEFAULT_EXCLUDED_LOCATIONS)
         for channel in channels:
@@ -337,9 +347,16 @@ class ChannelLoadingTests(unittest.TestCase):
         self.assertEqual(channels[0].webhook_url, "https://discord.com/api/webhooks/override")
         self.assertEqual(channels[0].keywords, ["product manager"])
         self.assertEqual(channels[0].excluded_locations, ["canada"])
-        self.assertEqual(channels[0].excluded_companies, ["Uber"])
+        self.assertEqual(
+            channels[0].excluded_companies, config.effective_excluded_companies(["Uber"])
+        )
+        self.assertIn("lockheed", channels[0].excluded_companies)
+        self.assertEqual(channels[0].jev_profile, "")
         self.assertEqual(channels[1].excluded_locations, [])
-        self.assertEqual(channels[1].excluded_companies, [])
+        # Omitted excluded_companies gets the full built-in set, not [].
+        self.assertEqual(
+            channels[1].excluded_companies, config.effective_excluded_companies()
+        )
 
 
 class DedupeBehaviorTests(unittest.TestCase):

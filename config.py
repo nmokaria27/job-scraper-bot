@@ -13,19 +13,27 @@ def _strip_control_chars(raw: str) -> str:
 
 
 def _parse_int(env_var: str, default: int) -> int:
-    """Parse an int env var, treating missing/blank as default."""
+    """Parse an int env var, treating missing/blank/invalid as default."""
     raw = os.getenv(env_var, "").strip()
     if not raw:
         return default
-    return int(raw)
+    try:
+        return int(raw)
+    except ValueError:
+        print(f"[WARN] {env_var}={raw!r} is not an int — using {default}")
+        return default
 
 
 def _parse_float(env_var: str, default: float) -> float:
-    """Parse a float env var, treating missing/blank as default."""
+    """Parse a float env var, treating missing/blank/invalid as default."""
     raw = os.getenv(env_var, "").strip()
     if not raw:
         return default
-    return float(raw)
+    try:
+        return float(raw)
+    except ValueError:
+        print(f"[WARN] {env_var}={raw!r} is not a float — using {default}")
+        return default
 
 
 def _parse_bool(env_var: str, default: bool) -> bool:
@@ -233,6 +241,13 @@ DEFAULT_PM_EXCLUDED_KEYWORDS: list[str] = [
     "construction",
     "investor relations",
     "tax",
+    # Defense / clearance-gated roles (same tokens as the SWE channel)
+    "clearance",
+    "cleared",
+    "ts/sci",
+    "top secret",
+    "secret",
+    "polygraph",
 ]
 
 DEFAULT_SWE_FULL_TIME_KEYWORDS: list[str] = [
@@ -959,6 +974,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                     locations=list(DEFAULT_LOCATIONS),
                     excluded_locations=list(DEFAULT_EXCLUDED_LOCATIONS),
                     excluded_companies=effective_excluded_companies(),
+                    jev_profile="pm",
                 )
             )
         if full_time_webhook_url:
@@ -971,6 +987,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                     locations=list(DEFAULT_LOCATIONS),
                     excluded_locations=list(DEFAULT_EXCLUDED_LOCATIONS),
                     excluded_companies=effective_excluded_companies(),
+                    jev_profile="swe",
                 )
             )
         return default_channels
@@ -990,6 +1007,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
         for idx, entry in enumerate(data, 1):
             if not isinstance(entry, dict):
                 raise ValueError(f"{source} channel #{idx} must be an object")
+            explicit_companies = "excluded_companies" in entry
             try:
                 channel = ChannelConfig(**entry)
             except TypeError as e:
@@ -1008,8 +1026,15 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
             channel.excluded_locations = _clean_list(
                 channel.excluded_locations, channel.name, "excluded_locations", source
             )
-            channel.excluded_companies = _clean_list(
+            # An override that lists only "Uber" must not drop Lockheed/etc.
+            # Omitted excluded_companies gets the full built-in set (base +
+            # non-sponsoring). An explicit list is kept and still has the
+            # non-sponsoring employers appended unless the operator opted out.
+            listed = _clean_list(
                 channel.excluded_companies, channel.name, "excluded_companies", source
+            )
+            channel.excluded_companies = effective_excluded_companies(
+                listed if explicit_companies else None
             )
             if not channel.keywords:
                 raise ValueError(f"{source} channel '{channel.name}' must include at least one keyword")
@@ -1095,6 +1120,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                 locations=LOCATIONS,
                 excluded_locations=EXCLUDED_LOCATIONS,
                 excluded_companies=effective_excluded_companies(EXCLUDED_COMPANIES),
+                jev_profile="swe",
             )
         ]
         print("[INFO] Using single-channel mode (DISCORD_WEBHOOK_URL)")
