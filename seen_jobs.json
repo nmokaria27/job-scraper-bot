@@ -57883,10 +57883,82 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Value-Acceleration-Engineer-MTS_JR360493-1",
       "seen_at": "2026-09-25T15:12:29.753300+00:00"
+    },
+    {
+      "id": "jobright-c1e9b7fc0ea5",
+      "seen_at": "2026-09-25T15:54:45.417671+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab68351b3db59402d100a65",
+      "seen_at": "2026-09-25T15:54:45.418602+00:00"
+    },
+    {
+      "id": "jobright-cb434dd43679",
+      "seen_at": "2026-09-25T15:54:45.419549+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab5865ed85922de20ce19bd",
+      "seen_at": "2026-09-25T15:54:45.420397+00:00"
+    },
+    {
+      "id": "jobright-0c3dd932b23c",
+      "seen_at": "2026-09-25T15:54:45.421256+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab680ebc6fe0dec811a4f81",
+      "seen_at": "2026-09-25T15:54:45.422066+00:00"
+    },
+    {
+      "id": "jobright-a7a3520d496c",
+      "seen_at": "2026-09-25T15:54:45.422887+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab680e94873fd3fd852d7a9",
+      "seen_at": "2026-09-25T15:54:45.423703+00:00"
+    },
+    {
+      "id": "jobright-eb47544afa31",
+      "seen_at": "2026-09-25T15:54:45.424536+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a91bb129864261ccd29e7e2",
+      "seen_at": "2026-09-25T15:54:45.425348+00:00"
+    },
+    {
+      "id": "zapply-ea390fef4ad2",
+      "seen_at": "2026-09-25T15:54:54.752424+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-statestreet-global-R-798579",
+      "seen_at": "2026-09-25T15:54:54.753409+00:00"
+    },
+    {
+      "id": "jobright-cf067724ee4f",
+      "seen_at": "2026-09-25T15:54:54.754298+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa894d1a77a53f5a157a176",
+      "seen_at": "2026-09-25T15:54:54.755162+00:00"
+    },
+    {
+      "id": "greenhouse-coreweave-4703438006",
+      "seen_at": "2026-09-25T15:54:54.756049+00:00"
+    },
+    {
+      "id": "url:https://coreweave.com/careers/job",
+      "seen_at": "2026-09-25T15:54:54.756895+00:00"
+    },
+    {
+      "id": "jobright-3f9ec376bc3b",
+      "seen_at": "2026-09-25T15:54:54.757751+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab680f44873fd3fd852d7b6",
+      "seen_at": "2026-09-25T15:54:54.758600+00:00"
     }
   ],
-  "last_run": "2026-09-25T15:12:30.010187+00:00",
-  "total_notified": 7000,
+  "last_run": "2026-09-25T15:54:54.943284+00:00",
+  "total_notified": 7009,
   "channels": {
     "pm-jobs": [
       "jobright-c199548a811e",
@@ -59725,7 +59797,17 @@
       "jobright-cfaf18703e35",
       "url:https://jobright.ai/jobs/info/6ab58382c6fe0dec811a178e",
       "zapply-65de4aa08d25",
-      "url:https://zapply.jobs/l/d/google-75827911268934342"
+      "url:https://zapply.jobs/l/d/google-75827911268934342",
+      "jobright-c1e9b7fc0ea5",
+      "url:https://jobright.ai/jobs/info/6ab68351b3db59402d100a65",
+      "jobright-cb434dd43679",
+      "url:https://jobright.ai/jobs/info/6ab5865ed85922de20ce19bd",
+      "jobright-0c3dd932b23c",
+      "url:https://jobright.ai/jobs/info/6ab680ebc6fe0dec811a4f81",
+      "jobright-a7a3520d496c",
+      "url:https://jobright.ai/jobs/info/6ab680e94873fd3fd852d7a9",
+      "jobright-eb47544afa31",
+      "url:https://jobright.ai/jobs/info/6a91bb129864261ccd29e7e2"
     ],
     "swe-ai-full-time": [
       "simplify-e3c3148d-dbd6-4119-8953-00548ba0f6a0",
@@ -71916,7 +71998,15 @@
       "simplify-a1ab4c1e-22e6-4b3b-9d18-6abf551fc952",
       "url:https://jobs.ashbyhq.com/trunk%20tools/414cdb32-9e5e-4679-8736-93cc28f7cf44/application",
       "workday-salesforce-JR360493",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Value-Acceleration-Engineer-MTS_JR360493-1"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Value-Acceleration-Engineer-MTS_JR360493-1",
+      "zapply-ea390fef4ad2",
+      "url:https://zapply.jobs/l/d/workday-statestreet-global-R-798579",
+      "jobright-cf067724ee4f",
+      "url:https://jobright.ai/jobs/info/6aa894d1a77a53f5a157a176",
+      "greenhouse-coreweave-4703438006",
+      "url:https://coreweave.com/careers/job",
+      "jobright-3f9ec376bc3b",
+      "url:https://jobright.ai/jobs/info/6ab680f44873fd3fd852d7b6"
     ]
   }
 }
