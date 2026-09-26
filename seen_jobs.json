@@ -58251,10 +58251,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-vercel-6205772004",
       "seen_at": "2026-09-26T00:01:39.825525+00:00"
+    },
+    {
+      "id": "jobright-6ff9df5637c5",
+      "seen_at": "2026-09-26T01:01:22.321536+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab7004862bb1fbd451dce0e",
+      "seen_at": "2026-09-26T01:01:22.322499+00:00"
+    },
+    {
+      "id": "jobright-9585ddd1746b",
+      "seen_at": "2026-09-26T01:01:22.323416+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab70047d7fde2c08ec8a7a9",
+      "seen_at": "2026-09-26T01:01:22.324302+00:00"
+    },
+    {
+      "id": "jobright-003c28717bf4",
+      "seen_at": "2026-09-26T01:01:22.325219+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab7066262bb1fbd451dceed",
+      "seen_at": "2026-09-26T01:01:22.326102+00:00"
+    },
+    {
+      "id": "jobright-45e4710d42b5",
+      "seen_at": "2026-09-26T01:01:22.326997+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab7017b62bb1fbd451dce4b",
+      "seen_at": "2026-09-26T01:01:22.327864+00:00"
     }
   ],
-  "last_run": "2026-09-26T00:31:14.846271+00:00",
-  "total_notified": 7087,
+  "last_run": "2026-09-26T01:01:28.758330+00:00",
+  "total_notified": 7091,
   "channels": {
     "pm-jobs": [
       "greenhouse-anthropic-5406106008",
@@ -72406,7 +72438,15 @@
       "simplify-e8ab226f-8423-49f7-85c4-d60aa8cfa381",
       "url:https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
       "jobright-248a902c2ec7",
-      "url:https://jobright.ai/jobs/info/6aa50b2042411952ff9a6b12"
+      "url:https://jobright.ai/jobs/info/6aa50b2042411952ff9a6b12",
+      "jobright-6ff9df5637c5",
+      "url:https://jobright.ai/jobs/info/6ab7004862bb1fbd451dce0e",
+      "jobright-9585ddd1746b",
+      "url:https://jobright.ai/jobs/info/6ab70047d7fde2c08ec8a7a9",
+      "jobright-003c28717bf4",
+      "url:https://jobright.ai/jobs/info/6ab7066262bb1fbd451dceed",
+      "jobright-45e4710d42b5",
+      "url:https://jobright.ai/jobs/info/6ab7017b62bb1fbd451dce4b"
     ]
   }
 }
