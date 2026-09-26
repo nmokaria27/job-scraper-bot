@@ -58267,10 +58267,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/lever-palantir-a576c5ef-2a51-4522-9c98-bca5ac2abbb3",
       "seen_at": "2026-09-26T10:31:08.431488+00:00"
+    },
+    {
+      "id": "jobright-96d1d9f136e1",
+      "seen_at": "2026-09-26T11:01:21.681595+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab78c34d7fde2c08ec8bb3c",
+      "seen_at": "2026-09-26T11:01:21.682568+00:00"
+    },
+    {
+      "id": "jobright-fe3cdab36331",
+      "seen_at": "2026-09-26T11:01:21.683483+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab78bbad7fde2c08ec8bb36",
+      "seen_at": "2026-09-26T11:01:21.684353+00:00"
+    },
+    {
+      "id": "jobright-98bdf23eb409",
+      "seen_at": "2026-09-26T11:01:29.342223+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab0b718dd960b41564197ea",
+      "seen_at": "2026-09-26T11:01:29.343067+00:00"
     }
   ],
-  "last_run": "2026-09-26T10:31:14.497379+00:00",
-  "total_notified": 7105,
+  "last_run": "2026-09-26T11:01:29.522846+00:00",
+  "total_notified": 7108,
   "channels": {
     "pm-jobs": [
       "greenhouse-anthropic-5406106008",
@@ -60139,7 +60163,9 @@
       "jobright-38b23f404679",
       "url:https://jobright.ai/jobs/info/6a7dcbdbe2030208f2765ec2",
       "jobright-4ca1b1e0d649",
-      "url:https://jobright.ai/jobs/info/6a457397c2d11a6a4666939d"
+      "url:https://jobright.ai/jobs/info/6a457397c2d11a6a4666939d",
+      "jobright-98bdf23eb409",
+      "url:https://jobright.ai/jobs/info/6ab0b718dd960b41564197ea"
     ],
     "swe-ai-full-time": [
       "simplify-b53ff4e5-1364-4cac-bdf2-c7cb8845717f",
@@ -72438,7 +72464,11 @@
       "jobright-d5b589355d2a",
       "url:https://jobright.ai/jobs/info/6ab7457b62bb1fbd451ddc48",
       "zapply-ef6ab5633883",
-      "url:https://zapply.jobs/l/d/lever-palantir-a576c5ef-2a51-4522-9c98-bca5ac2abbb3"
+      "url:https://zapply.jobs/l/d/lever-palantir-a576c5ef-2a51-4522-9c98-bca5ac2abbb3",
+      "jobright-96d1d9f136e1",
+      "url:https://jobright.ai/jobs/info/6ab78c34d7fde2c08ec8bb3c",
+      "jobright-fe3cdab36331",
+      "url:https://jobright.ai/jobs/info/6ab78bbad7fde2c08ec8bb36"
     ]
   }
 }
