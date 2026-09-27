@@ -1,102 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-a6026254-bdf4-49e3-82e7-94a39fd78c7d",
-      "seen_at": "2026-08-28T07:07:23.895356+00:00"
-    },
-    {
-      "id": "url:https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008043",
-      "seen_at": "2026-08-28T07:07:23.895869+00:00"
-    },
-    {
-      "id": "simplify-445f9e1d-29ba-4695-b3b0-60111cfbd03b",
-      "seen_at": "2026-08-28T07:07:23.896344+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application",
-      "seen_at": "2026-08-28T07:07:23.896805+00:00"
-    },
-    {
-      "id": "simplify-07dba309-b9d0-493d-88e2-38957e2b4a65",
-      "seen_at": "2026-08-28T07:07:23.897264+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/blockhouse/2e9fbde8-709c-4c1f-b908-cd51a53c8529/application",
-      "seen_at": "2026-08-28T07:07:23.897708+00:00"
-    },
-    {
-      "id": "simplify-fe8d6250-c4c0-4fb3-b256-8ad1b487a711",
-      "seen_at": "2026-08-28T07:07:23.898166+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da/application",
-      "seen_at": "2026-08-28T07:07:23.898608+00:00"
-    },
-    {
-      "id": "simplify-dd9872ea-6a55-4724-9b58-908b225567fd",
-      "seen_at": "2026-08-28T07:07:23.899085+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765/application",
-      "seen_at": "2026-08-28T07:07:23.899556+00:00"
-    },
-    {
-      "id": "simplify-0859ff2b-28b7-4854-90bb-9147bf5be674",
-      "seen_at": "2026-08-28T07:07:23.900013+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904/application",
-      "seen_at": "2026-08-28T07:07:23.900452+00:00"
-    },
-    {
-      "id": "simplify-8b74bc73-21bb-499c-a67a-d34845246a91",
-      "seen_at": "2026-08-28T07:07:23.900906+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/281467",
-      "seen_at": "2026-08-28T07:07:23.901345+00:00"
-    },
-    {
-      "id": "simplify-30079eba-ff8a-4333-9c3c-42e52e72087e",
-      "seen_at": "2026-08-28T07:07:29.387228+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb/application",
-      "seen_at": "2026-08-28T07:07:29.387763+00:00"
-    },
-    {
-      "id": "simplify-a0df7554-1080-4cd7-b8ed-0e985846909f",
-      "seen_at": "2026-08-28T07:07:29.388279+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446720805954",
-      "seen_at": "2026-08-28T07:07:29.388756+00:00"
-    },
-    {
-      "id": "simplify-e7798c65-abfa-46f3-ada4-bcd7733434a3",
-      "seen_at": "2026-08-28T07:07:29.389248+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f/application",
-      "seen_at": "2026-08-28T07:07:29.389718+00:00"
-    },
-    {
-      "id": "simplify-aaaf6712-7668-4213-8ab7-1a1775b04c53",
-      "seen_at": "2026-08-28T07:07:29.390209+00:00"
-    },
-    {
-      "id": "url:https://www.yelp.careers/us/en/job/14025",
-      "seen_at": "2026-08-28T07:07:29.390677+00:00"
-    },
-    {
-      "id": "simplify-b2d99288-c86e-4027-95fd-d19f07bca4f5",
-      "seen_at": "2026-08-28T07:07:29.391204+00:00"
-    },
-    {
-      "id": "url:https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21161",
-      "seen_at": "2026-08-28T07:07:29.391672+00:00"
-    },
-    {
       "id": "simplify-302e7185-9863-49b6-a674-0842c67a4158",
       "seen_at": "2026-08-28T19:24:27.838234+00:00"
     },
@@ -57805,7 +57709,7 @@
       "seen_at": "2026-09-27T03:01:17.860078+00:00"
     }
   ],
-  "last_run": "2026-09-27T03:31:12.176609+00:00",
+  "last_run": "2026-09-27T10:01:16.810304+00:00",
   "total_notified": 7124,
   "channels": {
     "pm-jobs": [
@@ -59654,16 +59558,6 @@
       "url:https://jobright.ai/jobs/info/6ab7e90ed7fde2c08ec8c1ee"
     ],
     "swe-ai-full-time": [
-      "simplify-30079eba-ff8a-4333-9c3c-42e52e72087e",
-      "url:https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb/application",
-      "simplify-a0df7554-1080-4cd7-b8ed-0e985846909f",
-      "url:https://qualcomm.eightfold.ai/careers/job/446720805954",
-      "simplify-e7798c65-abfa-46f3-ada4-bcd7733434a3",
-      "url:https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f/application",
-      "simplify-aaaf6712-7668-4213-8ab7-1a1775b04c53",
-      "url:https://www.yelp.careers/us/en/job/14025",
-      "simplify-b2d99288-c86e-4027-95fd-d19f07bca4f5",
-      "url:https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21161",
       "simplify-42eef265-0f1e-458a-9c31-10bd91ae1021",
       "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Verification-Engineer---Space-Electronics---MTV_JR2026520435",
       "simplify-57e5f0a2-fec1-4e80-9d79-803c7984db1d",
