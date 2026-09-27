@@ -57675,10 +57675,90 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ab96a89d7fde2c08ec8e0a3",
       "seen_at": "2026-09-27T21:01:18.462630+00:00"
+    },
+    {
+      "id": "jobright-fa2147385c39",
+      "seen_at": "2026-09-27T23:01:11.113753+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab9863062bb1fbd451e077f",
+      "seen_at": "2026-09-27T23:01:11.114793+00:00"
+    },
+    {
+      "id": "jobright-e0d961cff9e4",
+      "seen_at": "2026-09-27T23:01:11.115704+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab9862fd7fde2c08ec8e1f3",
+      "seen_at": "2026-09-27T23:01:11.116579+00:00"
+    },
+    {
+      "id": "jobright-4cd97cd5a439",
+      "seen_at": "2026-09-27T23:01:11.117474+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab9862fd7fde2c08ec8e1f4",
+      "seen_at": "2026-09-27T23:01:11.118341+00:00"
+    },
+    {
+      "id": "zapply-76a31732e8a5",
+      "seen_at": "2026-09-27T23:01:11.119204+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req194426",
+      "seen_at": "2026-09-27T23:01:11.120063+00:00"
+    },
+    {
+      "id": "zapply-7ee3a24809c3",
+      "seen_at": "2026-09-27T23:01:11.120932+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-286cd4ef-f93b-46df-b0f4-3d2d5c0e11a1",
+      "seen_at": "2026-09-27T23:01:11.121792+00:00"
+    },
+    {
+      "id": "zapply-13d4b992974b",
+      "seen_at": "2026-09-27T23:01:11.122662+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-120898404719960774",
+      "seen_at": "2026-09-27T23:01:11.123523+00:00"
+    },
+    {
+      "id": "jobright-bf7ec44976a2",
+      "seen_at": "2026-09-27T23:01:11.124377+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a81da2f927c79391ad19899",
+      "seen_at": "2026-09-27T23:01:11.125213+00:00"
+    },
+    {
+      "id": "jobright-0bde13577c29",
+      "seen_at": "2026-09-27T23:01:11.126071+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9c915875edfa11b470e475",
+      "seen_at": "2026-09-27T23:01:11.126923+00:00"
+    },
+    {
+      "id": "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
+      "seen_at": "2026-09-27T23:01:17.161102+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/nousresearch/076245ac-6260-49e0-bc20-fac31b3469a0",
+      "seen_at": "2026-09-27T23:01:17.162022+00:00"
+    },
+    {
+      "id": "jobright-147c6ba5c67f",
+      "seen_at": "2026-09-27T23:01:17.162836+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a563fedf7517b519ad545dc",
+      "seen_at": "2026-09-27T23:01:17.163630+00:00"
     }
   ],
-  "last_run": "2026-09-27T22:34:00.673274+00:00",
-  "total_notified": 7131,
+  "last_run": "2026-09-27T23:01:17.428829+00:00",
+  "total_notified": 7141,
   "channels": {
     "pm-jobs": [
       "simplify-4376d807-2cde-46d3-be30-f77757fc9eed",
@@ -59517,7 +59597,11 @@
       "jobright-98bdf23eb409",
       "url:https://jobright.ai/jobs/info/6ab0b718dd960b41564197ea",
       "jobright-16afd7209168",
-      "url:https://jobright.ai/jobs/info/6ab7e90ed7fde2c08ec8c1ee"
+      "url:https://jobright.ai/jobs/info/6ab7e90ed7fde2c08ec8c1ee",
+      "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
+      "url:https://jobs.ashbyhq.com/nousresearch/076245ac-6260-49e0-bc20-fac31b3469a0",
+      "jobright-147c6ba5c67f",
+      "url:https://jobright.ai/jobs/info/6a563fedf7517b519ad545dc"
     ],
     "swe-ai-full-time": [
       "simplify-1ede9089-dee4-4fd0-9c72-50b3825fe866",
@@ -71774,7 +71858,23 @@
       "jobright-a0ec97a36bce",
       "url:https://jobright.ai/jobs/info/6a9975ecad752e2ad54ffa66",
       "jobright-d237a82519d2",
-      "url:https://jobright.ai/jobs/info/6ab96a89d7fde2c08ec8e0a3"
+      "url:https://jobright.ai/jobs/info/6ab96a89d7fde2c08ec8e0a3",
+      "jobright-fa2147385c39",
+      "url:https://jobright.ai/jobs/info/6ab9863062bb1fbd451e077f",
+      "jobright-e0d961cff9e4",
+      "url:https://jobright.ai/jobs/info/6ab9862fd7fde2c08ec8e1f3",
+      "jobright-4cd97cd5a439",
+      "url:https://jobright.ai/jobs/info/6ab9862fd7fde2c08ec8e1f4",
+      "zapply-76a31732e8a5",
+      "url:https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req194426",
+      "zapply-7ee3a24809c3",
+      "url:https://zapply.jobs/l/d/amazon-286cd4ef-f93b-46df-b0f4-3d2d5c0e11a1",
+      "zapply-13d4b992974b",
+      "url:https://zapply.jobs/l/d/google-120898404719960774",
+      "jobright-bf7ec44976a2",
+      "url:https://jobright.ai/jobs/info/6a81da2f927c79391ad19899",
+      "jobright-0bde13577c29",
+      "url:https://jobright.ai/jobs/info/6a9c915875edfa11b470e475"
     ]
   }
 }
