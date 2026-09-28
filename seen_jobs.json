@@ -57867,10 +57867,106 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10561978/software-development-engineer-amazon-quick",
       "seen_at": "2026-09-28T16:01:52.269804+00:00"
+    },
+    {
+      "id": "jobright-a88c0255eae6",
+      "seen_at": "2026-09-28T17:01:54.306936+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aba832c7220f52e62ae6a61",
+      "seen_at": "2026-09-28T17:01:54.307918+00:00"
+    },
+    {
+      "id": "jobright-87b4bdbc6aa4",
+      "seen_at": "2026-09-28T17:01:54.308823+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aba83297220f52e62ae6a60",
+      "seen_at": "2026-09-28T17:01:54.309716+00:00"
+    },
+    {
+      "id": "jobright-216b41bdb158",
+      "seen_at": "2026-09-28T17:01:54.310621+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aba8328ad8589219ef7da18",
+      "seen_at": "2026-09-28T17:01:54.311509+00:00"
+    },
+    {
+      "id": "zapply-c7c71b395b49",
+      "seen_at": "2026-09-28T17:01:54.312398+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-92803434498925254",
+      "seen_at": "2026-09-28T17:01:54.313264+00:00"
+    },
+    {
+      "id": "zapply-46647ad9c7c9",
+      "seen_at": "2026-09-28T17:01:54.314153+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-stripe-8224915",
+      "seen_at": "2026-09-28T17:01:54.315039+00:00"
+    },
+    {
+      "id": "zapply-6005fa9f774f",
+      "seen_at": "2026-09-28T17:01:54.315925+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-50b1296c-79dc-4cac-8e82-a1bfaf7c6d72",
+      "seen_at": "2026-09-28T17:01:54.316795+00:00"
+    },
+    {
+      "id": "jobright-efd0b3f2c7bb",
+      "seen_at": "2026-09-28T17:01:54.317681+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aba7840be5f1e9325115946",
+      "seen_at": "2026-09-28T17:01:54.318551+00:00"
+    },
+    {
+      "id": "zapply-b186a2b2fc27",
+      "seen_at": "2026-09-28T17:01:54.319432+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-Intuitive-744000152226699",
+      "seen_at": "2026-09-28T17:01:54.320285+00:00"
+    },
+    {
+      "id": "zapply-0ff243fa0a3c",
+      "seen_at": "2026-09-28T17:01:54.321159+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021605",
+      "seen_at": "2026-09-28T17:01:54.322029+00:00"
+    },
+    {
+      "id": "zapply-a474496e2302",
+      "seen_at": "2026-09-28T17:01:54.322895+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR357678",
+      "seen_at": "2026-09-28T17:01:54.323762+00:00"
+    },
+    {
+      "id": "jobright-09707a0c58c3",
+      "seen_at": "2026-09-28T17:01:59.526734+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aba8192ee0b348be7299db6",
+      "seen_at": "2026-09-28T17:01:59.527594+00:00"
+    },
+    {
+      "id": "zapply-7cee74e0ac38",
+      "seen_at": "2026-09-28T17:01:59.528428+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-pentair-pentair-careers-R23789",
+      "seen_at": "2026-09-28T17:01:59.529219+00:00"
     }
   ],
-  "last_run": "2026-09-28T16:31:30.306936+00:00",
-  "total_notified": 7175,
+  "last_run": "2026-09-28T17:01:59.989686+00:00",
+  "total_notified": 7187,
   "channels": {
     "pm-jobs": [
       "jobright-59ac911a4e12",
@@ -59723,7 +59819,11 @@
       "zapply-0d6ba91dbf30",
       "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090926",
       "zapply-2709a9d9c835",
-      "url:https://zapply.jobs/l/d/ashby-eliseai-f0c8d0af-8021-4a04-b0f9-de1baff48ee4"
+      "url:https://zapply.jobs/l/d/ashby-eliseai-f0c8d0af-8021-4a04-b0f9-de1baff48ee4",
+      "jobright-09707a0c58c3",
+      "url:https://jobright.ai/jobs/info/6aba8192ee0b348be7299db6",
+      "zapply-7cee74e0ac38",
+      "url:https://zapply.jobs/l/d/workday-pentair-pentair-careers-R23789"
     ],
     "swe-ai-full-time": [
       "jobright-f6b5f89b6ac0",
@@ -72032,7 +72132,27 @@
       "zapply-bc1e926de565",
       "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202618454",
       "amazon-10561978",
-      "url:https://www.amazon.jobs/en/jobs/10561978/software-development-engineer-amazon-quick"
+      "url:https://www.amazon.jobs/en/jobs/10561978/software-development-engineer-amazon-quick",
+      "jobright-a88c0255eae6",
+      "url:https://jobright.ai/jobs/info/6aba832c7220f52e62ae6a61",
+      "jobright-87b4bdbc6aa4",
+      "url:https://jobright.ai/jobs/info/6aba83297220f52e62ae6a60",
+      "jobright-216b41bdb158",
+      "url:https://jobright.ai/jobs/info/6aba8328ad8589219ef7da18",
+      "zapply-c7c71b395b49",
+      "url:https://zapply.jobs/l/d/google-92803434498925254",
+      "zapply-46647ad9c7c9",
+      "url:https://zapply.jobs/l/d/greenhouse-stripe-8224915",
+      "zapply-6005fa9f774f",
+      "url:https://zapply.jobs/l/d/amazon-50b1296c-79dc-4cac-8e82-a1bfaf7c6d72",
+      "jobright-efd0b3f2c7bb",
+      "url:https://jobright.ai/jobs/info/6aba7840be5f1e9325115946",
+      "zapply-b186a2b2fc27",
+      "url:https://zapply.jobs/l/d/sr-Intuitive-744000152226699",
+      "zapply-0ff243fa0a3c",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021605",
+      "zapply-a474496e2302",
+      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR357678"
     ]
   }
 }
