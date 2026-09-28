@@ -57771,10 +57771,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/amazon-14339f9f-2551-464a-8989-8731b7a4738b",
       "seen_at": "2026-09-28T14:31:31.869856+00:00"
+    },
+    {
+      "id": "zapply-682cf57ba487",
+      "seen_at": "2026-09-28T15:02:16.561871+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091062",
+      "seen_at": "2026-09-28T15:02:16.562781+00:00"
+    },
+    {
+      "id": "zapply-0d6ba91dbf30",
+      "seen_at": "2026-09-28T15:02:16.563611+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090926",
+      "seen_at": "2026-09-28T15:02:16.564412+00:00"
     }
   ],
-  "last_run": "2026-09-28T14:31:38.463966+00:00",
-  "total_notified": 7163,
+  "last_run": "2026-09-28T15:02:16.989598+00:00",
+  "total_notified": 7165,
   "channels": {
     "pm-jobs": [
       "jobright-59ac911a4e12",
@@ -59621,7 +59637,11 @@
       "jobright-7863b5051c1e",
       "url:https://jobright.ai/jobs/info/6a7e7e4cb56bea5779c063ab",
       "jobright-ded7e9533845",
-      "url:https://jobright.ai/jobs/info/6ab9f07162bb1fbd451e1565"
+      "url:https://jobright.ai/jobs/info/6ab9f07162bb1fbd451e1565",
+      "zapply-682cf57ba487",
+      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091062",
+      "zapply-0d6ba91dbf30",
+      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090926"
     ],
     "swe-ai-full-time": [
       "jobright-f6b5f89b6ac0",
