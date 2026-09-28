@@ -57835,10 +57835,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/ashby-eliseai-f0c8d0af-8021-4a04-b0f9-de1baff48ee4",
       "seen_at": "2026-09-28T15:32:11.855605+00:00"
+    },
+    {
+      "id": "zapply-1f2dd882424f",
+      "seen_at": "2026-09-28T16:01:52.263194+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604942",
+      "seen_at": "2026-09-28T16:01:52.264277+00:00"
+    },
+    {
+      "id": "zapply-86493e0bd542",
+      "seen_at": "2026-09-28T16:01:52.265285+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R264790",
+      "seen_at": "2026-09-28T16:01:52.266172+00:00"
+    },
+    {
+      "id": "zapply-bc1e926de565",
+      "seen_at": "2026-09-28T16:01:52.267088+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202618454",
+      "seen_at": "2026-09-28T16:01:52.267999+00:00"
+    },
+    {
+      "id": "amazon-10561978",
+      "seen_at": "2026-09-28T16:01:52.268929+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10561978/software-development-engineer-amazon-quick",
+      "seen_at": "2026-09-28T16:01:52.269804+00:00"
     }
   ],
-  "last_run": "2026-09-28T15:32:12.171708+00:00",
-  "total_notified": 7171,
+  "last_run": "2026-09-28T16:01:59.413818+00:00",
+  "total_notified": 7175,
   "channels": {
     "pm-jobs": [
       "jobright-59ac911a4e12",
@@ -71992,7 +72024,15 @@
       "ashby-handshake-08651bf1-c977-49d4-9a82-e8a770bb9970",
       "url:https://jobs.ashbyhq.com/handshake/08651bf1-c977-49d4-9a82-e8a770bb9970",
       "zapply-e035b68ae225",
-      "url:https://zapply.jobs/l/d/lever-kitware-8aede021-d15f-43e8-af2c-aa4ff198725e"
+      "url:https://zapply.jobs/l/d/lever-kitware-8aede021-d15f-43e8-af2c-aa4ff198725e",
+      "zapply-1f2dd882424f",
+      "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604942",
+      "zapply-86493e0bd542",
+      "url:https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R264790",
+      "zapply-bc1e926de565",
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202618454",
+      "amazon-10561978",
+      "url:https://www.amazon.jobs/en/jobs/10561978/software-development-engineer-amazon-quick"
     ]
   }
 }
