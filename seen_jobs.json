@@ -58019,10 +58019,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-comcast-comcast-careers-R443378",
       "seen_at": "2026-09-28T18:01:48.749604+00:00"
+    },
+    {
+      "id": "zapply-b97243a35f99",
+      "seen_at": "2026-09-28T18:08:25.302131+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-flir-flircareers-REQ36896",
+      "seen_at": "2026-09-28T18:08:25.303234+00:00"
+    },
+    {
+      "id": "zapply-40f6f851abc9",
+      "seen_at": "2026-09-28T18:08:25.304163+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-flir-flircareers-REQ36890",
+      "seen_at": "2026-09-28T18:08:25.305035+00:00"
+    },
+    {
+      "id": "zapply-9a593ed5bd85",
+      "seen_at": "2026-09-28T18:08:25.305944+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-doordashusa-8236946",
+      "seen_at": "2026-09-28T18:08:25.306749+00:00"
+    },
+    {
+      "id": "zapply-9587179789f2",
+      "seen_at": "2026-09-28T18:08:25.307623+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-2c255f73-51b9-48b3-b5cf-07d3dd522c30",
+      "seen_at": "2026-09-28T18:08:25.308455+00:00"
+    },
+    {
+      "id": "zapply-0e69121bb25e",
+      "seen_at": "2026-09-28T18:08:31.809137+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000152240579",
+      "seen_at": "2026-09-28T18:08:31.810158+00:00"
     }
   ],
-  "last_run": "2026-09-28T18:01:55.546666+00:00",
-  "total_notified": 7196,
+  "last_run": "2026-09-28T18:08:32.173662+00:00",
+  "total_notified": 7201,
   "channels": {
     "pm-jobs": [
       "jobright-59ac911a4e12",
@@ -59881,7 +59921,9 @@
       "zapply-7cee74e0ac38",
       "url:https://zapply.jobs/l/d/workday-pentair-pentair-careers-R23789",
       "amazon-10562281",
-      "url:https://www.amazon.jobs/en/jobs/10562281/product-manager-tech-amazon-optics"
+      "url:https://www.amazon.jobs/en/jobs/10562281/product-manager-tech-amazon-optics",
+      "zapply-0e69121bb25e",
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000152240579"
     ],
     "swe-ai-full-time": [
       "ashby-openai-1eb32675-b1a0-4c0a-9b57-19ceab07e9e0",
@@ -72222,7 +72264,15 @@
       "jobright-e0b5afc3c5dd",
       "url:https://jobright.ai/jobs/info/6a549bf7d007ee02d95ff4a1",
       "zapply-4f9bcad6d440",
-      "url:https://zapply.jobs/l/d/workday-comcast-comcast-careers-R443378"
+      "url:https://zapply.jobs/l/d/workday-comcast-comcast-careers-R443378",
+      "zapply-b97243a35f99",
+      "url:https://zapply.jobs/l/d/workday-flir-flircareers-REQ36896",
+      "zapply-40f6f851abc9",
+      "url:https://zapply.jobs/l/d/workday-flir-flircareers-REQ36890",
+      "zapply-9a593ed5bd85",
+      "url:https://zapply.jobs/l/d/greenhouse-doordashusa-8236946",
+      "zapply-9587179789f2",
+      "url:https://zapply.jobs/l/d/amazon-2c255f73-51b9-48b3-b5cf-07d3dd522c30"
     ]
   }
 }
