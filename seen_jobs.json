@@ -57627,10 +57627,98 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ab9be36d7fde2c08ec8e6df",
       "seen_at": "2026-09-28T03:01:13.881696+00:00"
+    },
+    {
+      "id": "jobright-364f8825ab91",
+      "seen_at": "2026-09-28T10:01:13.245819+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aae34fa2e757fcb5c8bb222",
+      "seen_at": "2026-09-28T10:01:13.246889+00:00"
+    },
+    {
+      "id": "zapply-6c70ce80144a",
+      "seen_at": "2026-09-28T10:01:13.247674+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026538",
+      "seen_at": "2026-09-28T10:01:13.248398+00:00"
+    },
+    {
+      "id": "zapply-fadfdcad1f29",
+      "seen_at": "2026-09-28T10:01:13.249131+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/deshaw-2646",
+      "seen_at": "2026-09-28T10:01:13.249876+00:00"
+    },
+    {
+      "id": "zapply-a28dfd478cd2",
+      "seen_at": "2026-09-28T10:01:13.250599+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/deshaw-5375",
+      "seen_at": "2026-09-28T10:01:13.251369+00:00"
+    },
+    {
+      "id": "zapply-cb5bcdfdc964",
+      "seen_at": "2026-09-28T10:01:13.252096+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/deshaw-4954",
+      "seen_at": "2026-09-28T10:01:13.252799+00:00"
+    },
+    {
+      "id": "zapply-7d9473417b6e",
+      "seen_at": "2026-09-28T10:01:13.253518+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-pdtpartners-1473516",
+      "seen_at": "2026-09-28T10:01:13.254237+00:00"
+    },
+    {
+      "id": "amazon-10561388",
+      "seen_at": "2026-09-28T10:01:13.254958+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10561388/software-development-engineer-dynamodb-index-search-and-storage",
+      "seen_at": "2026-09-28T10:01:13.255660+00:00"
+    },
+    {
+      "id": "zapply-6250981d55cf",
+      "seen_at": "2026-09-28T10:01:13.256374+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/deshaw-5866",
+      "seen_at": "2026-09-28T10:01:13.257086+00:00"
+    },
+    {
+      "id": "jobright-13abe3f3af93",
+      "seen_at": "2026-09-28T10:01:13.257781+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6c9e96ba7efe79c2f65983",
+      "seen_at": "2026-09-28T10:01:13.258521+00:00"
+    },
+    {
+      "id": "zapply-1bd41af42bb6",
+      "seen_at": "2026-09-28T10:01:19.509173+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/deshaw-5910",
+      "seen_at": "2026-09-28T10:01:19.510037+00:00"
+    },
+    {
+      "id": "zapply-4f590eb76c95",
+      "seen_at": "2026-09-28T10:01:19.510694+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-129561448245273286",
+      "seen_at": "2026-09-28T10:01:19.511355+00:00"
     }
   ],
-  "last_run": "2026-09-28T03:31:10.841944+00:00",
-  "total_notified": 7145,
+  "last_run": "2026-09-28T10:01:19.733057+00:00",
+  "total_notified": 7156,
   "channels": {
     "pm-jobs": [
       "jobright-59ac911a4e12",
@@ -59469,7 +59557,11 @@
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
       "url:https://jobs.ashbyhq.com/nousresearch/076245ac-6260-49e0-bc20-fac31b3469a0",
       "jobright-147c6ba5c67f",
-      "url:https://jobright.ai/jobs/info/6a563fedf7517b519ad545dc"
+      "url:https://jobright.ai/jobs/info/6a563fedf7517b519ad545dc",
+      "zapply-1bd41af42bb6",
+      "url:https://zapply.jobs/l/d/deshaw-5910",
+      "zapply-4f590eb76c95",
+      "url:https://zapply.jobs/l/d/google-129561448245273286"
     ],
     "swe-ai-full-time": [
       "jobright-f6b5f89b6ac0",
@@ -71732,7 +71824,25 @@
       "jobright-b227566a85c4",
       "url:https://jobright.ai/jobs/info/6ab9be37d7fde2c08ec8e6e0",
       "jobright-df9c6161b19b",
-      "url:https://jobright.ai/jobs/info/6ab9be36d7fde2c08ec8e6df"
+      "url:https://jobright.ai/jobs/info/6ab9be36d7fde2c08ec8e6df",
+      "jobright-364f8825ab91",
+      "url:https://jobright.ai/jobs/info/6aae34fa2e757fcb5c8bb222",
+      "zapply-6c70ce80144a",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026538",
+      "zapply-fadfdcad1f29",
+      "url:https://zapply.jobs/l/d/deshaw-2646",
+      "zapply-a28dfd478cd2",
+      "url:https://zapply.jobs/l/d/deshaw-5375",
+      "zapply-cb5bcdfdc964",
+      "url:https://zapply.jobs/l/d/deshaw-4954",
+      "zapply-7d9473417b6e",
+      "url:https://zapply.jobs/l/d/greenhouse-pdtpartners-1473516",
+      "amazon-10561388",
+      "url:https://www.amazon.jobs/en/jobs/10561388/software-development-engineer-dynamodb-index-search-and-storage",
+      "zapply-6250981d55cf",
+      "url:https://zapply.jobs/l/d/deshaw-5866",
+      "jobright-13abe3f3af93",
+      "url:https://jobright.ai/jobs/info/6a6c9e96ba7efe79c2f65983"
     ]
   }
 }
