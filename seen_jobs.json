@@ -58151,10 +58151,34 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10562411/software-development-engineer-amazon-shopping-videos-ads",
       "seen_at": "2026-09-28T19:31:19.864601+00:00"
+    },
+    {
+      "id": "zapply-1aad0f63fdec",
+      "seen_at": "2026-09-28T20:01:54.082364+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3166863",
+      "seen_at": "2026-09-28T20:01:54.083396+00:00"
+    },
+    {
+      "id": "amazon-10562446",
+      "seen_at": "2026-09-28T20:01:54.084313+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10562446/software-development-engineer-distributed-services",
+      "seen_at": "2026-09-28T20:01:54.085205+00:00"
+    },
+    {
+      "id": "zapply-66e72a10fd27",
+      "seen_at": "2026-09-28T20:01:59.243901+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000372737",
+      "seen_at": "2026-09-28T20:01:59.244799+00:00"
     }
   ],
-  "last_run": "2026-09-28T19:31:26.001520+00:00",
-  "total_notified": 7213,
+  "last_run": "2026-09-28T20:01:59.521535+00:00",
+  "total_notified": 7216,
   "channels": {
     "pm-jobs": [
       "jobright-59ac911a4e12",
@@ -60023,7 +60047,9 @@
       "zapply-41b9fbc9a17e",
       "url:https://zapply.jobs/l/d/oracle-vertiv-20282986",
       "zapply-3e36018ca65f",
-      "url:https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-022860"
+      "url:https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-022860",
+      "zapply-66e72a10fd27",
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000372737"
     ],
     "swe-ai-full-time": [
       "ashby-openai-1eb32675-b1a0-4c0a-9b57-19ceab07e9e0",
@@ -72388,7 +72414,11 @@
       "zapply-9eec60519179",
       "url:https://zapply.jobs/l/d/lever-AIFund-2b6bdd20-f29b-468d-8d07-41b59f2332b6",
       "amazon-10562411",
-      "url:https://www.amazon.jobs/en/jobs/10562411/software-development-engineer-amazon-shopping-videos-ads"
+      "url:https://www.amazon.jobs/en/jobs/10562411/software-development-engineer-amazon-shopping-videos-ads",
+      "zapply-1aad0f63fdec",
+      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3166863",
+      "amazon-10562446",
+      "url:https://www.amazon.jobs/en/jobs/10562446/software-development-engineer-distributed-services"
     ]
   }
 }
