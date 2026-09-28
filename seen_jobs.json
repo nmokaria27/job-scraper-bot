@@ -57963,10 +57963,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-pentair-pentair-careers-R23789",
       "seen_at": "2026-09-28T17:01:59.529219+00:00"
+    },
+    {
+      "id": "zapply-0c261fa9afe0",
+      "seen_at": "2026-09-28T17:31:37.171485+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-queracomputinginc-5436471008",
+      "seen_at": "2026-09-28T17:31:37.172692+00:00"
+    },
+    {
+      "id": "amazon-10562259",
+      "seen_at": "2026-09-28T17:31:37.173628+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10562259/software-development-engineer-aws-payments-fraud-prevention",
+      "seen_at": "2026-09-28T17:31:37.174518+00:00"
+    },
+    {
+      "id": "amazon-10562274",
+      "seen_at": "2026-09-28T17:31:37.175376+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10562274/software-development-engineer-items-and-offers-platform-identity-performance-and-defect-detection",
+      "seen_at": "2026-09-28T17:31:37.176209+00:00"
+    },
+    {
+      "id": "amazon-10562281",
+      "seen_at": "2026-09-28T17:31:53.530466+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10562281/product-manager-tech-amazon-optics",
+      "seen_at": "2026-09-28T17:31:53.531561+00:00"
     }
   ],
-  "last_run": "2026-09-28T17:01:59.989686+00:00",
-  "total_notified": 7187,
+  "last_run": "2026-09-28T17:31:53.707490+00:00",
+  "total_notified": 7191,
   "channels": {
     "pm-jobs": [
       "jobright-59ac911a4e12",
@@ -59823,7 +59855,9 @@
       "jobright-09707a0c58c3",
       "url:https://jobright.ai/jobs/info/6aba8192ee0b348be7299db6",
       "zapply-7cee74e0ac38",
-      "url:https://zapply.jobs/l/d/workday-pentair-pentair-careers-R23789"
+      "url:https://zapply.jobs/l/d/workday-pentair-pentair-careers-R23789",
+      "amazon-10562281",
+      "url:https://www.amazon.jobs/en/jobs/10562281/product-manager-tech-amazon-optics"
     ],
     "swe-ai-full-time": [
       "jobright-f6b5f89b6ac0",
@@ -72152,7 +72186,13 @@
       "zapply-0ff243fa0a3c",
       "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021605",
       "zapply-a474496e2302",
-      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR357678"
+      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR357678",
+      "zapply-0c261fa9afe0",
+      "url:https://zapply.jobs/l/d/greenhouse-queracomputinginc-5436471008",
+      "amazon-10562259",
+      "url:https://www.amazon.jobs/en/jobs/10562259/software-development-engineer-aws-payments-fraud-prevention",
+      "amazon-10562274",
+      "url:https://www.amazon.jobs/en/jobs/10562274/software-development-engineer-items-and-offers-platform-identity-performance-and-defect-detection"
     ]
   }
 }
