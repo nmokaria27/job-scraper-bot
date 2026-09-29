@@ -59735,10 +59735,42 @@
     {
       "id": "url:https://jobs.ashbyhq.com/plaid/60597a34-79d5-45ac-a0c8-b3340fa88b95",
       "seen_at": "2026-09-29T22:01:42.555281+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2026739",
+      "seen_at": "2026-09-29T22:31:18.747336+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
+      "seen_at": "2026-09-29T22:31:18.748333+00:00"
+    },
+    {
+      "id": "zapply-8feaf7925081",
+      "seen_at": "2026-09-29T22:31:18.749304+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-ServiceNow-744000152540769",
+      "seen_at": "2026-09-29T22:31:18.750188+00:00"
+    },
+    {
+      "id": "zapply-ea7218134fe1",
+      "seen_at": "2026-09-29T22:31:18.751063+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026588",
+      "seen_at": "2026-09-29T22:31:18.751975+00:00"
+    },
+    {
+      "id": "zapply-36702b41d72b",
+      "seen_at": "2026-09-29T22:31:18.752826+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026396",
+      "seen_at": "2026-09-29T22:31:18.753669+00:00"
     }
   ],
-  "last_run": "2026-09-29T22:01:42.743120+00:00",
-  "total_notified": 7416,
+  "last_run": "2026-09-29T22:31:24.230001+00:00",
+  "total_notified": 7420,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -74368,7 +74400,15 @@
       "workday-nvidia-JR2026588",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Tegra-System-Software-Engineer_JR2026588",
       "jobright-d505084668ae",
-      "url:https://jobright.ai/jobs/info/6abc1bb6b23c6fb2b81a52bb"
+      "url:https://jobright.ai/jobs/info/6abc1bb6b23c6fb2b81a52bb",
+      "workday-nvidia-JR2026739",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
+      "zapply-8feaf7925081",
+      "url:https://zapply.jobs/l/d/sr-ServiceNow-744000152540769",
+      "zapply-ea7218134fe1",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026588",
+      "zapply-36702b41d72b",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026396"
     ]
   }
 }
