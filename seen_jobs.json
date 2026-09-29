@@ -59439,10 +59439,50 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10564243/technical-program-manager-enterprise-data-catalog",
       "seen_at": "2026-09-29T19:31:17.645367+00:00"
+    },
+    {
+      "id": "jobright-b95cee90fd31",
+      "seen_at": "2026-09-29T20:01:27.598710+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abbbec67119e56191ce905a",
+      "seen_at": "2026-09-29T20:01:27.599770+00:00"
+    },
+    {
+      "id": "jobright-446eebda23b0",
+      "seen_at": "2026-09-29T20:01:27.600717+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abc00d4d6acfd3dd29fb6df",
+      "seen_at": "2026-09-29T20:01:27.601628+00:00"
+    },
+    {
+      "id": "gradtracker-ade4361e37a5",
+      "seen_at": "2026-09-29T20:01:27.602575+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10564106/data-engineer-studios-analytics",
+      "seen_at": "2026-09-29T20:01:27.603478+00:00"
+    },
+    {
+      "id": "zapply-62a4fb59c6b1",
+      "seen_at": "2026-09-29T20:01:27.604393+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2022831",
+      "seen_at": "2026-09-29T20:01:27.605300+00:00"
+    },
+    {
+      "id": "zapply-52a4e6077448",
+      "seen_at": "2026-09-29T20:01:27.606227+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nwis-nw-JR101395",
+      "seen_at": "2026-09-29T20:01:27.607141+00:00"
     }
   ],
-  "last_run": "2026-09-29T19:31:17.914922+00:00",
-  "total_notified": 7379,
+  "last_run": "2026-09-29T20:01:32.103248+00:00",
+  "total_notified": 7384,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -73998,7 +74038,17 @@
       "greenhouse-anthropic-5438030008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5438030008",
       "zapply-322292b8570d",
-      "url:https://zapply.jobs/l/d/greenhouse-drweng-8230509"
+      "url:https://zapply.jobs/l/d/greenhouse-drweng-8230509",
+      "jobright-b95cee90fd31",
+      "url:https://jobright.ai/jobs/info/6abbbec67119e56191ce905a",
+      "jobright-446eebda23b0",
+      "url:https://jobright.ai/jobs/info/6abc00d4d6acfd3dd29fb6df",
+      "gradtracker-ade4361e37a5",
+      "url:https://www.amazon.jobs/en/jobs/10564106/data-engineer-studios-analytics",
+      "zapply-62a4fb59c6b1",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2022831",
+      "zapply-52a4e6077448",
+      "url:https://zapply.jobs/l/d/workday-nwis-nw-JR101395"
     ]
   }
 }
