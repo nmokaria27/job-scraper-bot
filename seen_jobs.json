@@ -58919,10 +58919,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abb95f1a647d611012c3afd",
       "seen_at": "2026-09-29T13:31:22.827375+00:00"
+    },
+    {
+      "id": "jobright-d647b4790314",
+      "seen_at": "2026-09-29T14:01:33.289632+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a3b580f797099171917de74",
+      "seen_at": "2026-09-29T14:01:33.290679+00:00"
+    },
+    {
+      "id": "amazon-10563738",
+      "seen_at": "2026-09-29T14:01:33.291673+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10563738/software-development-engineer-advertising-services",
+      "seen_at": "2026-09-29T14:01:33.292595+00:00"
     }
   ],
-  "last_run": "2026-09-29T13:31:28.954261+00:00",
-  "total_notified": 7314,
+  "last_run": "2026-09-29T14:01:39.277610+00:00",
+  "total_notified": 7316,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -73348,7 +73364,11 @@
       "zapply-41427d2422b3",
       "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000375755",
       "jobright-d70898a62222",
-      "url:https://jobright.ai/jobs/info/6abb95f1a647d611012c3afd"
+      "url:https://jobright.ai/jobs/info/6abb95f1a647d611012c3afd",
+      "jobright-d647b4790314",
+      "url:https://jobright.ai/jobs/info/6a3b580f797099171917de74",
+      "amazon-10563738",
+      "url:https://www.amazon.jobs/en/jobs/10563738/software-development-engineer-advertising-services"
     ]
   }
 }
