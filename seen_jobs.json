@@ -58535,10 +58535,50 @@
     {
       "id": "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171612",
       "seen_at": "2026-09-29T00:01:19.172290+00:00"
+    },
+    {
+      "id": "applyguy-bf7f22f9-6a8e-4806-8c2f-f1b337b6bbfd",
+      "seen_at": "2026-09-29T00:31:12.173444+00:00"
+    },
+    {
+      "id": "url:https://ats.rippling.com/momentumcareers/jobs/4814716a-3d10-4dbf-9d13-b1d3e46b18de",
+      "seen_at": "2026-09-29T00:31:12.174426+00:00"
+    },
+    {
+      "id": "applyguy-36338c1a-01ee-4c02-aa12-0f8c3bb22c14",
+      "seen_at": "2026-09-29T00:31:12.175318+00:00"
+    },
+    {
+      "id": "url:https://wattswater.wd5.myworkdayjobs.com/external/job/Blauvelt-NY/Software-Engineer-I_10017656",
+      "seen_at": "2026-09-29T00:31:12.176204+00:00"
+    },
+    {
+      "id": "zapply-392d865525db",
+      "seen_at": "2026-09-29T00:31:12.177111+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26010880",
+      "seen_at": "2026-09-29T00:31:12.177994+00:00"
+    },
+    {
+      "id": "zapply-18899c406749",
+      "seen_at": "2026-09-29T00:31:12.178900+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-freddiemac-external-JR17645",
+      "seen_at": "2026-09-29T00:31:12.179783+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2022366",
+      "seen_at": "2026-09-29T00:31:18.710415+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Product-Manager_JR2022366",
+      "seen_at": "2026-09-29T00:31:18.711323+00:00"
     }
   ],
-  "last_run": "2026-09-29T00:01:25.652385+00:00",
-  "total_notified": 7266,
+  "last_run": "2026-09-29T00:31:18.866731+00:00",
+  "total_notified": 7271,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -60429,7 +60469,9 @@
       "zapply-06d922bb64ec",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025124",
       "zapply-6313a53a9802",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2022366"
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2022366",
+      "workday-nvidia-JR2022366",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Product-Manager_JR2022366"
     ],
     "swe-ai-full-time": [
       "ashby-openai-96de8acb-556e-451b-bc84-7124bb4b0a20",
@@ -72868,7 +72910,15 @@
       "workday-salesforce-JR358458",
       "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer--Infrastructure-Service-Mesh_JR358458",
       "applyguy-afe25188-427f-48a7-83c1-69c0120048e3",
-      "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171612"
+      "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171612",
+      "applyguy-bf7f22f9-6a8e-4806-8c2f-f1b337b6bbfd",
+      "url:https://ats.rippling.com/momentumcareers/jobs/4814716a-3d10-4dbf-9d13-b1d3e46b18de",
+      "applyguy-36338c1a-01ee-4c02-aa12-0f8c3bb22c14",
+      "url:https://wattswater.wd5.myworkdayjobs.com/external/job/Blauvelt-NY/Software-Engineer-I_10017656",
+      "zapply-392d865525db",
+      "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26010880",
+      "zapply-18899c406749",
+      "url:https://zapply.jobs/l/d/workday-freddiemac-external-JR17645"
     ]
   }
 }
