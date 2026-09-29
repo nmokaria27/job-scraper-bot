@@ -58903,10 +58903,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a7e7e470cd4a070325805df",
       "seen_at": "2026-09-29T12:01:31.033956+00:00"
+    },
+    {
+      "id": "zapply-41427d2422b3",
+      "seen_at": "2026-09-29T13:31:22.824274+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000375755",
+      "seen_at": "2026-09-29T13:31:22.825452+00:00"
+    },
+    {
+      "id": "jobright-d70898a62222",
+      "seen_at": "2026-09-29T13:31:22.826452+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abb95f1a647d611012c3afd",
+      "seen_at": "2026-09-29T13:31:22.827375+00:00"
     }
   ],
-  "last_run": "2026-09-29T13:01:33.788232+00:00",
-  "total_notified": 7312,
+  "last_run": "2026-09-29T13:31:28.954261+00:00",
+  "total_notified": 7314,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -73328,7 +73344,11 @@
       "jobright-929c4f333413",
       "url:https://jobright.ai/jobs/info/6abb8cdc7e39348a2648f00f",
       "jobright-33c1e2b3b575",
-      "url:https://jobright.ai/jobs/info/6abb912dde8f79e12427586d"
+      "url:https://jobright.ai/jobs/info/6abb912dde8f79e12427586d",
+      "zapply-41427d2422b3",
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000375755",
+      "jobright-d70898a62222",
+      "url:https://jobright.ai/jobs/info/6abb95f1a647d611012c3afd"
     ]
   }
 }
