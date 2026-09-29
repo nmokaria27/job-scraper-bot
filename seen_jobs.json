@@ -58935,10 +58935,34 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10563738/software-development-engineer-advertising-services",
       "seen_at": "2026-09-29T14:01:33.292595+00:00"
+    },
+    {
+      "id": "zapply-2a39ebcb19aa",
+      "seen_at": "2026-09-29T14:31:27.762423+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-spotify-65d6caca-6d7c-4049-8256-a128e0e7249e",
+      "seen_at": "2026-09-29T14:31:27.763458+00:00"
+    },
+    {
+      "id": "lever-spotify-65d6caca-6d7c-4049-8256-a128e0e7249e",
+      "seen_at": "2026-09-29T14:31:27.764412+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/spotify/65d6caca-6d7c-4049-8256-a128e0e7249e",
+      "seen_at": "2026-09-29T14:31:27.765287+00:00"
+    },
+    {
+      "id": "zapply-4e45be9a2eb5",
+      "seen_at": "2026-09-29T14:31:27.766188+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-55c3d050-7692-48f6-b97a-83bf5b32a950",
+      "seen_at": "2026-09-29T14:31:27.767059+00:00"
     }
   ],
-  "last_run": "2026-09-29T14:01:39.277610+00:00",
-  "total_notified": 7316,
+  "last_run": "2026-09-29T14:31:31.992543+00:00",
+  "total_notified": 7319,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -73368,7 +73392,13 @@
       "jobright-d647b4790314",
       "url:https://jobright.ai/jobs/info/6a3b580f797099171917de74",
       "amazon-10563738",
-      "url:https://www.amazon.jobs/en/jobs/10563738/software-development-engineer-advertising-services"
+      "url:https://www.amazon.jobs/en/jobs/10563738/software-development-engineer-advertising-services",
+      "zapply-2a39ebcb19aa",
+      "url:https://zapply.jobs/l/d/lever-spotify-65d6caca-6d7c-4049-8256-a128e0e7249e",
+      "lever-spotify-65d6caca-6d7c-4049-8256-a128e0e7249e",
+      "url:https://jobs.lever.co/spotify/65d6caca-6d7c-4049-8256-a128e0e7249e",
+      "zapply-4e45be9a2eb5",
+      "url:https://zapply.jobs/l/d/amazon-55c3d050-7692-48f6-b97a-83bf5b32a950"
     ]
   }
 }
