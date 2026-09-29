@@ -58703,10 +58703,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abb0a4a3db4ca81fc7c5a0b",
       "seen_at": "2026-09-29T03:01:28.783986+00:00"
+    },
+    {
+      "id": "zapply-6b6f768edd09",
+      "seen_at": "2026-09-29T03:31:17.464108+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202620897",
+      "seen_at": "2026-09-29T03:31:17.465287+00:00"
+    },
+    {
+      "id": "zapply-db91e14ba9c5",
+      "seen_at": "2026-09-29T03:31:17.466210+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-anthropic-5437172008",
+      "seen_at": "2026-09-29T03:31:17.467025+00:00"
     }
   ],
-  "last_run": "2026-09-29T03:01:29.082185+00:00",
-  "total_notified": 7287,
+  "last_run": "2026-09-29T03:31:23.126083+00:00",
+  "total_notified": 7289,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -73078,7 +73094,11 @@
       "zapply-f188052501e4",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025643",
       "greenhouse-anthropic-5437172008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5437172008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
+      "zapply-6b6f768edd09",
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202620897",
+      "zapply-db91e14ba9c5",
+      "url:https://zapply.jobs/l/d/greenhouse-anthropic-5437172008"
     ]
   }
 }
