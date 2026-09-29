@@ -58607,10 +58607,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abaed65be5f1e93251182de",
       "seen_at": "2026-09-29T01:01:27.685477+00:00"
+    },
+    {
+      "id": "zapply-f34dd0c691be",
+      "seen_at": "2026-09-29T01:31:17.458816+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8854394002",
+      "seen_at": "2026-09-29T01:31:17.459815+00:00"
+    },
+    {
+      "id": "zapply-c58835ec2eba",
+      "seen_at": "2026-09-29T01:31:17.460725+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-3fcc5efb-3a75-443f-b647-249ec239a6ff",
+      "seen_at": "2026-09-29T01:31:17.461611+00:00"
+    },
+    {
+      "id": "zapply-aa834a3b5faf",
+      "seen_at": "2026-09-29T01:31:17.462523+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-83c7da53-b1a5-4a8c-a339-fad0a0f57f51",
+      "seen_at": "2026-09-29T01:31:17.463412+00:00"
+    },
+    {
+      "id": "amazon-10563049",
+      "seen_at": "2026-09-29T01:31:17.464305+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10563049/software-development-engineer-aws-opensearch",
+      "seen_at": "2026-09-29T01:31:17.465189+00:00"
     }
   ],
-  "last_run": "2026-09-29T01:01:27.866336+00:00",
-  "total_notified": 7275,
+  "last_run": "2026-09-29T01:31:23.774842+00:00",
+  "total_notified": 7279,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -72958,7 +72990,15 @@
       "jobright-c3a3d1ffcaa9",
       "url:https://jobright.ai/jobs/info/6abaec361acb8fc6f09c24e0",
       "amazon-10563008",
-      "url:https://www.amazon.jobs/en/jobs/10563008/software-development-engineer-aws-ec2-nitro-team"
+      "url:https://www.amazon.jobs/en/jobs/10563008/software-development-engineer-aws-ec2-nitro-team",
+      "zapply-f34dd0c691be",
+      "url:https://zapply.jobs/l/d/greenhouse-spacex-8854394002",
+      "zapply-c58835ec2eba",
+      "url:https://zapply.jobs/l/d/amazon-3fcc5efb-3a75-443f-b647-249ec239a6ff",
+      "zapply-aa834a3b5faf",
+      "url:https://zapply.jobs/l/d/amazon-83c7da53-b1a5-4a8c-a339-fad0a0f57f51",
+      "amazon-10563049",
+      "url:https://www.amazon.jobs/en/jobs/10563049/software-development-engineer-aws-opensearch"
     ]
   }
 }
