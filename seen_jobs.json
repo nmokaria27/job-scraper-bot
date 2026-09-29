@@ -58719,10 +58719,170 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-anthropic-5437172008",
       "seen_at": "2026-09-29T03:31:17.467025+00:00"
+    },
+    {
+      "id": "ashby-perplexity-5a4cec8b-5688-497c-a5ec-884f75d09511",
+      "seen_at": "2026-09-29T10:01:25.058812+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511",
+      "seen_at": "2026-09-29T10:01:25.060192+00:00"
+    },
+    {
+      "id": "jobright-776ff92058e9",
+      "seen_at": "2026-09-29T10:01:25.061455+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abb294cee0b348be729dede",
+      "seen_at": "2026-09-29T10:01:25.062505+00:00"
+    },
+    {
+      "id": "jobright-4436921b3324",
+      "seen_at": "2026-09-29T10:01:25.063470+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a92670bc12c90443efc9de7",
+      "seen_at": "2026-09-29T10:01:25.064413+00:00"
+    },
+    {
+      "id": "jobright-cabf95400233",
+      "seen_at": "2026-09-29T10:01:25.065345+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9267b4d18f75674827bd5b",
+      "seen_at": "2026-09-29T10:01:25.066278+00:00"
+    },
+    {
+      "id": "jobright-1349c9b0b6dc",
+      "seen_at": "2026-09-29T10:01:25.067230+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9267069864261ccd2a0a9a",
+      "seen_at": "2026-09-29T10:01:25.068170+00:00"
+    },
+    {
+      "id": "jobright-ea7d47977fe0",
+      "seen_at": "2026-09-29T10:01:25.069116+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6a62a848355b3f12bf0a89",
+      "seen_at": "2026-09-29T10:01:25.070032+00:00"
+    },
+    {
+      "id": "jobright-be04cd938888",
+      "seen_at": "2026-09-29T10:01:25.070973+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9266fed18f75674827bd32",
+      "seen_at": "2026-09-29T10:01:25.071896+00:00"
+    },
+    {
+      "id": "zapply-db53fcb4dcfe",
+      "seen_at": "2026-09-29T10:01:25.072843+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-tmobile-external-REQ371910",
+      "seen_at": "2026-09-29T10:01:25.073784+00:00"
+    },
+    {
+      "id": "jobright-00166ebfdf27",
+      "seen_at": "2026-09-29T10:01:25.074724+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abb2285be5f1e9325119c02",
+      "seen_at": "2026-09-29T10:01:25.075659+00:00"
+    },
+    {
+      "id": "applyguy-eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
+      "seen_at": "2026-09-29T10:01:25.076605+00:00"
+    },
+    {
+      "id": "url:https://ats.rippling.com/momentumcareers/jobs/bca6bef8-620f-4d9f-bca8-a4503f8d5658",
+      "seen_at": "2026-09-29T10:01:25.077527+00:00"
+    },
+    {
+      "id": "zapply-e84640ae22da",
+      "seen_at": "2026-09-29T10:01:25.078466+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000152324259",
+      "seen_at": "2026-09-29T10:01:25.079553+00:00"
+    },
+    {
+      "id": "zapply-d6b9ebe9b415",
+      "seen_at": "2026-09-29T10:01:25.080522+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-BoschGroup-744000152321949",
+      "seen_at": "2026-09-29T10:01:25.081488+00:00"
+    },
+    {
+      "id": "zapply-0ea5b3ca4d64",
+      "seen_at": "2026-09-29T10:01:25.082450+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-BoschGroup-744000152321339",
+      "seen_at": "2026-09-29T10:01:25.083365+00:00"
+    },
+    {
+      "id": "zapply-31a3f3e92d3e",
+      "seen_at": "2026-09-29T10:01:25.084298+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-field-ai-09def7d8-26bf-451f-a4f2-bd8fd4c5f5cf",
+      "seen_at": "2026-09-29T10:01:25.085229+00:00"
+    },
+    {
+      "id": "jobright-3e5293cff3e9",
+      "seen_at": "2026-09-29T10:01:25.086167+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5fb552b0f20036bc632892",
+      "seen_at": "2026-09-29T10:01:25.087094+00:00"
+    },
+    {
+      "id": "zapply-be6683bb9fd6",
+      "seen_at": "2026-09-29T10:01:25.088046+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-81035962842260166",
+      "seen_at": "2026-09-29T10:01:25.088979+00:00"
+    },
+    {
+      "id": "amazon-10563004",
+      "seen_at": "2026-09-29T10:01:25.089917+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10563004/software-development-engineer-aws-ec2-nitro-team",
+      "seen_at": "2026-09-29T10:01:25.090836+00:00"
+    },
+    {
+      "id": "amazon-10563000",
+      "seen_at": "2026-09-29T10:01:25.091765+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10563000/software-development-engineer-aws-ec2-nitro-team",
+      "seen_at": "2026-09-29T10:01:25.092693+00:00"
+    },
+    {
+      "id": "jobright-8845fb43f179",
+      "seen_at": "2026-09-29T10:01:25.093627+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abb3a387220f52e62aeae75",
+      "seen_at": "2026-09-29T10:01:25.094553+00:00"
+    },
+    {
+      "id": "zapply-354a969d2f71",
+      "seen_at": "2026-09-29T10:01:25.095497+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-134016342943507142",
+      "seen_at": "2026-09-29T10:01:25.096433+00:00"
     }
   ],
-  "last_run": "2026-09-29T03:31:23.126083+00:00",
-  "total_notified": 7289,
+  "last_run": "2026-09-29T10:01:30.753317+00:00",
+  "total_notified": 7309,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -73098,7 +73258,47 @@
       "zapply-6b6f768edd09",
       "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202620897",
       "zapply-db91e14ba9c5",
-      "url:https://zapply.jobs/l/d/greenhouse-anthropic-5437172008"
+      "url:https://zapply.jobs/l/d/greenhouse-anthropic-5437172008",
+      "ashby-perplexity-5a4cec8b-5688-497c-a5ec-884f75d09511",
+      "url:https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511",
+      "jobright-776ff92058e9",
+      "url:https://jobright.ai/jobs/info/6abb294cee0b348be729dede",
+      "jobright-4436921b3324",
+      "url:https://jobright.ai/jobs/info/6a92670bc12c90443efc9de7",
+      "jobright-cabf95400233",
+      "url:https://jobright.ai/jobs/info/6a9267b4d18f75674827bd5b",
+      "jobright-1349c9b0b6dc",
+      "url:https://jobright.ai/jobs/info/6a9267069864261ccd2a0a9a",
+      "jobright-ea7d47977fe0",
+      "url:https://jobright.ai/jobs/info/6a6a62a848355b3f12bf0a89",
+      "jobright-be04cd938888",
+      "url:https://jobright.ai/jobs/info/6a9266fed18f75674827bd32",
+      "zapply-db53fcb4dcfe",
+      "url:https://zapply.jobs/l/d/workday-tmobile-external-REQ371910",
+      "jobright-00166ebfdf27",
+      "url:https://jobright.ai/jobs/info/6abb2285be5f1e9325119c02",
+      "applyguy-eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
+      "url:https://ats.rippling.com/momentumcareers/jobs/bca6bef8-620f-4d9f-bca8-a4503f8d5658",
+      "zapply-e84640ae22da",
+      "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000152324259",
+      "zapply-d6b9ebe9b415",
+      "url:https://zapply.jobs/l/d/sr-BoschGroup-744000152321949",
+      "zapply-0ea5b3ca4d64",
+      "url:https://zapply.jobs/l/d/sr-BoschGroup-744000152321339",
+      "zapply-31a3f3e92d3e",
+      "url:https://zapply.jobs/l/d/lever-field-ai-09def7d8-26bf-451f-a4f2-bd8fd4c5f5cf",
+      "jobright-3e5293cff3e9",
+      "url:https://jobright.ai/jobs/info/6a5fb552b0f20036bc632892",
+      "zapply-be6683bb9fd6",
+      "url:https://zapply.jobs/l/d/google-81035962842260166",
+      "amazon-10563004",
+      "url:https://www.amazon.jobs/en/jobs/10563004/software-development-engineer-aws-ec2-nitro-team",
+      "amazon-10563000",
+      "url:https://www.amazon.jobs/en/jobs/10563000/software-development-engineer-aws-ec2-nitro-team",
+      "jobright-8845fb43f179",
+      "url:https://jobright.ai/jobs/info/6abb3a387220f52e62aeae75",
+      "zapply-354a969d2f71",
+      "url:https://zapply.jobs/l/d/google-134016342943507142"
     ]
   }
 }
