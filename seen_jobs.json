@@ -59839,10 +59839,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abc3091d6acfd3dd29fcae2",
       "seen_at": "2026-09-29T23:01:30.481287+00:00"
+    },
+    {
+      "id": "zapply-1fa67bc71644",
+      "seen_at": "2026-09-29T23:31:25.882959+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026739",
+      "seen_at": "2026-09-29T23:31:25.884003+00:00"
+    },
+    {
+      "id": "ashby-openai-c7bcdaec-9714-44b0-8ba8-adc824594b54",
+      "seen_at": "2026-09-29T23:31:25.885018+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/c7bcdaec-9714-44b0-8ba8-adc824594b54",
+      "seen_at": "2026-09-29T23:31:25.885920+00:00"
+    },
+    {
+      "id": "simplify-9868e2ad-7703-44a2-9e77-0c36692e4ba3",
+      "seen_at": "2026-09-29T23:31:25.886863+00:00"
+    },
+    {
+      "id": "url:https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs",
+      "seen_at": "2026-09-29T23:31:25.887849+00:00"
+    },
+    {
+      "id": "lever-zoox-63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
+      "seen_at": "2026-09-29T23:31:25.888770+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/zoox/63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
+      "seen_at": "2026-09-29T23:31:25.889673+00:00"
+    },
+    {
+      "id": "simplify-4b8da7bf-da9e-457a-9c7f-e77628d1066e",
+      "seen_at": "2026-09-29T23:31:25.890578+00:00"
+    },
+    {
+      "id": "url:https://careers.na.panasonic.com/jobs/50895",
+      "seen_at": "2026-09-29T23:31:25.891515+00:00"
     }
   ],
-  "last_run": "2026-09-29T23:01:30.734525+00:00",
-  "total_notified": 7429,
+  "last_run": "2026-09-29T23:31:32.080923+00:00",
+  "total_notified": 7434,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -74498,7 +74538,17 @@
       "simplify-b81ad8d8-409c-4563-b87b-1aa4661b4937",
       "url:https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933",
       "zapply-d4de536e38be",
-      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3167069"
+      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3167069",
+      "zapply-1fa67bc71644",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026739",
+      "ashby-openai-c7bcdaec-9714-44b0-8ba8-adc824594b54",
+      "url:https://jobs.ashbyhq.com/openai/c7bcdaec-9714-44b0-8ba8-adc824594b54",
+      "simplify-9868e2ad-7703-44a2-9e77-0c36692e4ba3",
+      "url:https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs",
+      "lever-zoox-63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
+      "url:https://jobs.lever.co/zoox/63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
+      "simplify-4b8da7bf-da9e-457a-9c7f-e77628d1066e",
+      "url:https://careers.na.panasonic.com/jobs/50895"
     ]
   }
 }
