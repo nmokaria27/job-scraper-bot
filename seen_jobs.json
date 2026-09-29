@@ -59015,10 +59015,114 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-nwis-nw-JR100496",
       "seen_at": "2026-09-29T15:31:20.283939+00:00"
+    },
+    {
+      "id": "jobright-4dc65b31c82d",
+      "seen_at": "2026-09-29T16:01:39.372321+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abbce3792b2612ef0f8adf1",
+      "seen_at": "2026-09-29T16:01:39.373390+00:00"
+    },
+    {
+      "id": "jobright-86f777934f50",
+      "seen_at": "2026-09-29T16:01:39.374361+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abbbe563217d1d13329acac",
+      "seen_at": "2026-09-29T16:01:39.375271+00:00"
+    },
+    {
+      "id": "zapply-6bfdcebed4bb",
+      "seen_at": "2026-09-29T16:01:39.376249+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202609-124353",
+      "seen_at": "2026-09-29T16:01:39.377147+00:00"
+    },
+    {
+      "id": "zapply-327abdb011fb",
+      "seen_at": "2026-09-29T16:01:39.378049+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-defenseunicorns-5251905007",
+      "seen_at": "2026-09-29T16:01:39.378923+00:00"
+    },
+    {
+      "id": "zapply-425efe14e731",
+      "seen_at": "2026-09-29T16:01:39.379815+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amd-92626",
+      "seen_at": "2026-09-29T16:01:39.380722+00:00"
+    },
+    {
+      "id": "zapply-0a88d4c6d934",
+      "seen_at": "2026-09-29T16:01:39.381638+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-b3fab313-f31f-44b6-8c32-222084f93259",
+      "seen_at": "2026-09-29T16:01:39.382552+00:00"
+    },
+    {
+      "id": "zapply-ac3ca56ab86f",
+      "seen_at": "2026-09-29T16:01:39.383461+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-Intuitive-744000152472854",
+      "seen_at": "2026-09-29T16:01:39.384363+00:00"
+    },
+    {
+      "id": "zapply-dbdc3174510f",
+      "seen_at": "2026-09-29T16:01:39.385270+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-4064c379-c441-409d-8cfe-9dcde7f2e88d",
+      "seen_at": "2026-09-29T16:01:39.386167+00:00"
+    },
+    {
+      "id": "jobright-8b4ec59fdf70",
+      "seen_at": "2026-09-29T16:01:39.387074+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abbccd0d6acfd3dd29f9f08",
+      "seen_at": "2026-09-29T16:01:39.388010+00:00"
+    },
+    {
+      "id": "zapply-9c9123cb4762",
+      "seen_at": "2026-09-29T16:01:39.388934+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-101527080012784326",
+      "seen_at": "2026-09-29T16:01:39.389825+00:00"
+    },
+    {
+      "id": "zapply-fbaf2064eb66",
+      "seen_at": "2026-09-29T16:01:39.390733+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4717279006",
+      "seen_at": "2026-09-29T16:01:39.391638+00:00"
+    },
+    {
+      "id": "zapply-cc6d7e8a33ff",
+      "seen_at": "2026-09-29T16:01:46.791173+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210790203",
+      "seen_at": "2026-09-29T16:01:46.792093+00:00"
+    },
+    {
+      "id": "zapply-f94e4bce9cfb",
+      "seen_at": "2026-09-29T16:01:46.792942+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2022989",
+      "seen_at": "2026-09-29T16:01:46.793746+00:00"
     }
   ],
-  "last_run": "2026-09-29T15:31:26.966658+00:00",
-  "total_notified": 7326,
+  "last_run": "2026-09-29T16:01:46.941195+00:00",
+  "total_notified": 7339,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -60919,7 +61023,11 @@
       "jobright-e9ff53249b9c",
       "url:https://jobright.ai/jobs/info/6abb0a4a3db4ca81fc7c5a0b",
       "jobright-8faf3bec5d90",
-      "url:https://jobright.ai/jobs/info/6a7e7e470cd4a070325805df"
+      "url:https://jobright.ai/jobs/info/6a7e7e470cd4a070325805df",
+      "zapply-cc6d7e8a33ff",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210790203",
+      "zapply-f94e4bce9cfb",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2022989"
     ],
     "swe-ai-full-time": [
       "ashby-openai-96de8acb-556e-451b-bc84-7124bb4b0a20",
@@ -73468,7 +73576,29 @@
       "zapply-c91013db5f50",
       "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4717477006",
       "zapply-d99093f4a6bf",
-      "url:https://zapply.jobs/l/d/workday-nwis-nw-JR100496"
+      "url:https://zapply.jobs/l/d/workday-nwis-nw-JR100496",
+      "jobright-4dc65b31c82d",
+      "url:https://jobright.ai/jobs/info/6abbce3792b2612ef0f8adf1",
+      "jobright-86f777934f50",
+      "url:https://jobright.ai/jobs/info/6abbbe563217d1d13329acac",
+      "zapply-6bfdcebed4bb",
+      "url:https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202609-124353",
+      "zapply-327abdb011fb",
+      "url:https://zapply.jobs/l/d/greenhouse-defenseunicorns-5251905007",
+      "zapply-425efe14e731",
+      "url:https://zapply.jobs/l/d/amd-92626",
+      "zapply-0a88d4c6d934",
+      "url:https://zapply.jobs/l/d/ashby-snowflake-b3fab313-f31f-44b6-8c32-222084f93259",
+      "zapply-ac3ca56ab86f",
+      "url:https://zapply.jobs/l/d/sr-Intuitive-744000152472854",
+      "zapply-dbdc3174510f",
+      "url:https://zapply.jobs/l/d/amazon-4064c379-c441-409d-8cfe-9dcde7f2e88d",
+      "jobright-8b4ec59fdf70",
+      "url:https://jobright.ai/jobs/info/6abbccd0d6acfd3dd29f9f08",
+      "zapply-9c9123cb4762",
+      "url:https://zapply.jobs/l/d/google-101527080012784326",
+      "zapply-fbaf2064eb66",
+      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4717279006"
     ]
   }
 }
