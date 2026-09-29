@@ -58959,10 +58959,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/amazon-55c3d050-7692-48f6-b97a-83bf5b32a950",
       "seen_at": "2026-09-29T14:31:27.767059+00:00"
+    },
+    {
+      "id": "zapply-1b0b77f39095",
+      "seen_at": "2026-09-29T15:01:29.808388+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4716667006",
+      "seen_at": "2026-09-29T15:01:29.809443+00:00"
+    },
+    {
+      "id": "zapply-fd5d545a113a",
+      "seen_at": "2026-09-29T15:01:29.810402+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-106471308924986054",
+      "seen_at": "2026-09-29T15:01:29.811306+00:00"
+    },
+    {
+      "id": "amazon-10563839",
+      "seen_at": "2026-09-29T15:01:29.812227+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10563839/sde-aws-opensearch-service-opensearch",
+      "seen_at": "2026-09-29T15:01:29.813131+00:00"
     }
   ],
-  "last_run": "2026-09-29T14:31:31.992543+00:00",
-  "total_notified": 7319,
+  "last_run": "2026-09-29T15:01:36.483093+00:00",
+  "total_notified": 7322,
   "channels": {
     "pm-jobs": [
       "jobright-b7e6fe9c21f1",
@@ -73398,7 +73422,13 @@
       "lever-spotify-65d6caca-6d7c-4049-8256-a128e0e7249e",
       "url:https://jobs.lever.co/spotify/65d6caca-6d7c-4049-8256-a128e0e7249e",
       "zapply-4e45be9a2eb5",
-      "url:https://zapply.jobs/l/d/amazon-55c3d050-7692-48f6-b97a-83bf5b32a950"
+      "url:https://zapply.jobs/l/d/amazon-55c3d050-7692-48f6-b97a-83bf5b32a950",
+      "zapply-1b0b77f39095",
+      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4716667006",
+      "zapply-fd5d545a113a",
+      "url:https://zapply.jobs/l/d/google-106471308924986054",
+      "amazon-10563839",
+      "url:https://www.amazon.jobs/en/jobs/10563839/sde-aws-opensearch-service-opensearch"
     ]
   }
 }
