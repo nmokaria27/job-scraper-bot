@@ -60631,10 +60631,74 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42455",
       "seen_at": "2026-09-30T21:31:46.772592+00:00"
+    },
+    {
+      "id": "zapply-50be1c17db31",
+      "seen_at": "2026-09-30T22:01:25.633173+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-92258849825661638",
+      "seen_at": "2026-09-30T22:01:25.634273+00:00"
+    },
+    {
+      "id": "ashby-snowflake-16d130a1-4014-4458-829f-ea2ba48d366d",
+      "seen_at": "2026-09-30T22:01:25.635131+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/snowflake/16d130a1-4014-4458-829f-ea2ba48d366d",
+      "seen_at": "2026-09-30T22:01:25.635940+00:00"
+    },
+    {
+      "id": "zapply-0943d68abdee",
+      "seen_at": "2026-09-30T22:01:25.636787+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-block-5427880008",
+      "seen_at": "2026-09-30T22:01:25.637589+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2026351",
+      "seen_at": "2026-09-30T22:01:25.638402+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Graphics-System-Software-Engineer_JR2026351",
+      "seen_at": "2026-09-30T22:01:25.639205+00:00"
+    },
+    {
+      "id": "ashby-substack-c03094d4-9164-4cec-98d2-04d3e22da07d",
+      "seen_at": "2026-09-30T22:01:25.640003+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/substack/c03094d4-9164-4cec-98d2-04d3e22da07d",
+      "seen_at": "2026-09-30T22:01:25.640831+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR352223",
+      "seen_at": "2026-09-30T22:01:25.641642+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Forward-Deployed-Engineer--FDE----Public-Sector--Nonprofit---Education_JR352223",
+      "seen_at": "2026-09-30T22:01:25.642431+00:00"
+    },
+    {
+      "id": "jobright-6bcdf7ccf2e7",
+      "seen_at": "2026-09-30T22:01:32.518240+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5339148576ec69c014f165",
+      "seen_at": "2026-09-30T22:01:32.519242+00:00"
+    },
+    {
+      "id": "zapply-0392ffb40b5f",
+      "seen_at": "2026-09-30T22:01:32.520064+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000390752",
+      "seen_at": "2026-09-30T22:01:32.520868+00:00"
     }
   ],
-  "last_run": "2026-09-30T21:31:47.087317+00:00",
-  "total_notified": 7563,
+  "last_run": "2026-09-30T22:01:33.218972+00:00",
+  "total_notified": 7571,
   "channels": {
     "pm-jobs": [
       "simplify-d3e9acbe-429c-41ea-ad4b-0536beab6782",
@@ -62591,7 +62655,11 @@
       "jobright-bc5631511c43",
       "url:https://jobright.ai/jobs/info/6abd4aead9621c5b2838b610",
       "zapply-933ef44d2322",
-      "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42455"
+      "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42455",
+      "jobright-6bcdf7ccf2e7",
+      "url:https://jobright.ai/jobs/info/6a5339148576ec69c014f165",
+      "zapply-0392ffb40b5f",
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000390752"
     ],
     "swe-ai-full-time": [
       "simplify-58a0dcba-5ea2-494a-a22d-9fdb8d98d4a6",
@@ -75526,7 +75594,19 @@
       "zapply-b268c82169cd",
       "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1044328",
       "greenhouse-block-5427880008",
-      "url:http://block.xyz/careers/jobs/5427880008"
+      "url:http://block.xyz/careers/jobs/5427880008",
+      "zapply-50be1c17db31",
+      "url:https://zapply.jobs/l/d/google-92258849825661638",
+      "ashby-snowflake-16d130a1-4014-4458-829f-ea2ba48d366d",
+      "url:https://jobs.ashbyhq.com/snowflake/16d130a1-4014-4458-829f-ea2ba48d366d",
+      "zapply-0943d68abdee",
+      "url:https://zapply.jobs/l/d/greenhouse-block-5427880008",
+      "workday-nvidia-JR2026351",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Graphics-System-Software-Engineer_JR2026351",
+      "ashby-substack-c03094d4-9164-4cec-98d2-04d3e22da07d",
+      "url:https://jobs.ashbyhq.com/substack/c03094d4-9164-4cec-98d2-04d3e22da07d",
+      "workday-salesforce-JR352223",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Forward-Deployed-Engineer--FDE----Public-Sector--Nonprofit---Education_JR352223"
     ]
   }
 }
