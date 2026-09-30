@@ -60543,10 +60543,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abd4aead9621c5b2838b610",
       "seen_at": "2026-09-30T20:01:42.219610+00:00"
+    },
+    {
+      "id": "zapply-5dce58e80924",
+      "seen_at": "2026-09-30T20:31:21.425100+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157015",
+      "seen_at": "2026-09-30T20:31:21.426137+00:00"
+    },
+    {
+      "id": "zapply-c0e7f819ff26",
+      "seen_at": "2026-09-30T20:31:21.427095+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-eulerity-4718113006",
+      "seen_at": "2026-09-30T20:31:21.428018+00:00"
+    },
+    {
+      "id": "greenhouse-xai-5252714007",
+      "seen_at": "2026-09-30T20:31:21.428958+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/xai/jobs/5252714007",
+      "seen_at": "2026-09-30T20:31:21.429870+00:00"
     }
   ],
-  "last_run": "2026-09-30T20:01:42.412863+00:00",
-  "total_notified": 7552,
+  "last_run": "2026-09-30T20:31:27.932903+00:00",
+  "total_notified": 7555,
   "channels": {
     "pm-jobs": [
       "simplify-d3e9acbe-429c-41ea-ad4b-0536beab6782",
@@ -75416,7 +75440,13 @@
       "zapply-c69a8a96dd9d",
       "url:https://zapply.jobs/l/d/greenhouse-axon-7750157003",
       "amazon-10565955",
-      "url:https://www.amazon.jobs/en/jobs/10565955/software-development-engineer-aws-elastic-disaster-recovery"
+      "url:https://www.amazon.jobs/en/jobs/10565955/software-development-engineer-aws-elastic-disaster-recovery",
+      "zapply-5dce58e80924",
+      "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157015",
+      "zapply-c0e7f819ff26",
+      "url:https://zapply.jobs/l/d/greenhouse-eulerity-4718113006",
+      "greenhouse-xai-5252714007",
+      "url:https://job-boards.greenhouse.io/xai/jobs/5252714007"
     ]
   }
 }
