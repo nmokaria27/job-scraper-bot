@@ -60071,10 +60071,66 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abd25414ac55253f5d5b652",
       "seen_at": "2026-09-30T17:01:24.036469+00:00"
+    },
+    {
+      "id": "applyguy-63a2ef1f-4127-4197-944e-e895fce6158f",
+      "seen_at": "2026-09-30T17:31:51.386034+00:00"
+    },
+    {
+      "id": "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
+      "seen_at": "2026-09-30T17:31:51.387127+00:00"
+    },
+    {
+      "id": "amazon-10565690",
+      "seen_at": "2026-09-30T17:31:51.388108+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10565690/machine-learning-engineer-sequence-models-project-sequoia",
+      "seen_at": "2026-09-30T17:31:51.389004+00:00"
+    },
+    {
+      "id": "zapply-979804a2ec7f",
+      "seen_at": "2026-09-30T17:31:51.389900+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-openai-3254f6a7-6353-4a77-beec-f37b832c99ae",
+      "seen_at": "2026-09-30T17:31:51.390766+00:00"
+    },
+    {
+      "id": "amazon-10565705",
+      "seen_at": "2026-09-30T17:31:51.391624+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10565705/software-development-engineer-amazon-quick",
+      "seen_at": "2026-09-30T17:31:51.392456+00:00"
+    },
+    {
+      "id": "amazon-10565686",
+      "seen_at": "2026-09-30T17:31:51.393291+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10565686/software-development-engineer-prime-offers-tech",
+      "seen_at": "2026-09-30T17:31:51.394140+00:00"
+    },
+    {
+      "id": "amazon-10565727",
+      "seen_at": "2026-09-30T17:31:51.394990+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10565727/software-development-engineer-embedded-umac",
+      "seen_at": "2026-09-30T17:31:51.395815+00:00"
+    },
+    {
+      "id": "ashby-handshake-ca392442-69eb-46f5-b367-37e43c832094",
+      "seen_at": "2026-09-30T17:31:51.396662+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/handshake/ca392442-69eb-46f5-b367-37e43c832094",
+      "seen_at": "2026-09-30T17:31:51.397481+00:00"
     }
   ],
-  "last_run": "2026-09-30T17:01:28.124389+00:00",
-  "total_notified": 7483,
+  "last_run": "2026-09-30T17:31:57.736778+00:00",
+  "total_notified": 7490,
   "channels": {
     "pm-jobs": [
       "jobright-c5350711927a",
@@ -74820,7 +74876,21 @@
       "jobright-fc46a681796d",
       "url:https://jobright.ai/jobs/info/6abd21c58ff3fb9b3bc6e798",
       "jobright-bf0343da4b86",
-      "url:https://jobright.ai/jobs/info/6abd25414ac55253f5d5b652"
+      "url:https://jobright.ai/jobs/info/6abd25414ac55253f5d5b652",
+      "applyguy-63a2ef1f-4127-4197-944e-e895fce6158f",
+      "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
+      "amazon-10565690",
+      "url:https://www.amazon.jobs/en/jobs/10565690/machine-learning-engineer-sequence-models-project-sequoia",
+      "zapply-979804a2ec7f",
+      "url:https://zapply.jobs/l/d/ashby-openai-3254f6a7-6353-4a77-beec-f37b832c99ae",
+      "amazon-10565705",
+      "url:https://www.amazon.jobs/en/jobs/10565705/software-development-engineer-amazon-quick",
+      "amazon-10565686",
+      "url:https://www.amazon.jobs/en/jobs/10565686/software-development-engineer-prime-offers-tech",
+      "amazon-10565727",
+      "url:https://www.amazon.jobs/en/jobs/10565727/software-development-engineer-embedded-umac",
+      "ashby-handshake-ca392442-69eb-46f5-b367-37e43c832094",
+      "url:https://jobs.ashbyhq.com/handshake/ca392442-69eb-46f5-b367-37e43c832094"
     ]
   }
 }
