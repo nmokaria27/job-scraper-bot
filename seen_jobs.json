@@ -1,174 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-edd62627-b4d9-42d7-b46f-9541c9bd151f",
-      "seen_at": "2026-08-31T11:40:45.082187+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Engineer-Intern-MA-1824/1424704500",
-      "seen_at": "2026-08-31T11:40:45.082850+00:00"
-    },
-    {
-      "id": "simplify-e50cfb4e-c4b2-47dc-b594-f28655f5499c",
-      "seen_at": "2026-08-31T11:40:45.083358+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421453600",
-      "seen_at": "2026-08-31T11:40:45.083804+00:00"
-    },
-    {
-      "id": "simplify-e014595b-9375-4e86-8f94-c609938a1557",
-      "seen_at": "2026-08-31T11:40:45.084295+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Software-Engineering-Intern-TX-75080/1424729800",
-      "seen_at": "2026-08-31T11:40:45.084770+00:00"
-    },
-    {
-      "id": "simplify-c79182b9-3069-4d62-a2f6-44aa377f3167",
-      "seen_at": "2026-08-31T11:40:45.085230+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75081/1424731100",
-      "seen_at": "2026-08-31T11:40:45.085669+00:00"
-    },
-    {
-      "id": "simplify-b4076972-d2bd-46b3-9238-b44ff84af6b4",
-      "seen_at": "2026-08-31T11:40:45.086112+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Research-Engineering-Intern-TX-75080/1424726900",
-      "seen_at": "2026-08-31T11:40:45.086580+00:00"
-    },
-    {
-      "id": "simplify-a3feb75e-fb0d-401b-abfb-16279ee9d49b",
-      "seen_at": "2026-08-31T11:40:45.087022+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Analog-Design-Engineering-Intern-TX-75081/1424728600",
-      "seen_at": "2026-08-31T11:40:45.087473+00:00"
-    },
-    {
-      "id": "simplify-a23842cc-13e8-4c72-a5e2-972b101f7ad8",
-      "seen_at": "2026-08-31T11:40:45.087911+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/San-Jose-Analog-Design-Engineering-Intern-CA-95134/1424725600",
-      "seen_at": "2026-08-31T11:40:45.088367+00:00"
-    },
-    {
-      "id": "simplify-8decbc9f-51db-465d-82d6-b6dfca4baf0f",
-      "seen_at": "2026-08-31T11:40:45.088809+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421457600",
-      "seen_at": "2026-08-31T11:40:45.089261+00:00"
-    },
-    {
-      "id": "simplify-8d00a74a-5695-4f6f-885a-d9fc22a0d336",
-      "seen_at": "2026-08-31T11:40:45.089776+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Device-Engineering-Intern-TX-75080/1424700000",
-      "seen_at": "2026-08-31T11:40:45.090269+00:00"
-    },
-    {
-      "id": "simplify-494e793d-3f7c-4255-a337-58dcd284382e",
-      "seen_at": "2026-08-31T11:40:45.090718+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Engineering-Intern-TX-75081/1424705500",
-      "seen_at": "2026-08-31T11:40:45.091173+00:00"
-    },
-    {
-      "id": "simplify-21878633-4f34-4274-81f7-68ceb6d1ace9",
-      "seen_at": "2026-08-31T11:40:45.091655+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Product-Management-Engineering-Intern-TX-75081/1424705200",
-      "seen_at": "2026-08-31T11:40:45.092094+00:00"
-    },
-    {
-      "id": "simplify-0dc73f06-ff58-4c88-a5ba-6e29d70a5dfe",
-      "seen_at": "2026-08-31T11:40:45.092546+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Software-Firmware-Engineering-Intern-TX-75081/1424727700",
-      "seen_at": "2026-08-31T11:40:45.093009+00:00"
-    },
-    {
-      "id": "simplify-056e0096-9f6b-4c3a-844f-cd627807e7f6",
-      "seen_at": "2026-08-31T11:40:45.093478+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200",
-      "seen_at": "2026-08-31T11:40:45.093914+00:00"
-    },
-    {
-      "id": "simplify-4b81bd00-4b97-4ec4-954b-892368c48de0",
-      "seen_at": "2026-08-31T11:40:45.094362+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7676652813409552645",
-      "seen_at": "2026-08-31T11:40:45.094806+00:00"
-    },
-    {
-      "id": "simplify-30c6e50a-a52b-4624-ad9a-bff649958700",
-      "seen_at": "2026-08-31T11:40:45.095253+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7676650607912601861",
-      "seen_at": "2026-08-31T11:40:45.095762+00:00"
-    },
-    {
-      "id": "simplify-ac16b37b-d5ee-4a02-8d77-305bc1ab5168",
-      "seen_at": "2026-08-31T11:40:45.096232+00:00"
-    },
-    {
-      "id": "url:https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624",
-      "seen_at": "2026-08-31T11:40:45.096710+00:00"
-    },
-    {
-      "id": "jobright-f97c3f65aa30",
-      "seen_at": "2026-08-31T11:40:45.097160+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9503661e67aa542830d7b3",
-      "seen_at": "2026-08-31T11:40:45.097610+00:00"
-    },
-    {
-      "id": "simplify-dc5059f5-acc3-4aa6-bb67-ecd5a9e42cbe",
-      "seen_at": "2026-08-31T11:40:49.306794+00:00"
-    },
-    {
-      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558",
-      "seen_at": "2026-08-31T11:40:49.307307+00:00"
-    },
-    {
-      "id": "simplify-3d06b58f-7fe9-4b56-b0f7-3b20ea1411a5",
-      "seen_at": "2026-08-31T11:40:49.308762+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7679147369590737205",
-      "seen_at": "2026-08-31T11:40:49.309195+00:00"
-    },
-    {
-      "id": "jobright-9242daf07ecf",
-      "seen_at": "2026-08-31T11:40:49.309643+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a950365c12c90443efce193",
-      "seen_at": "2026-08-31T11:40:49.310080+00:00"
-    },
-    {
-      "id": "ashby-openai-a6ab3111-7092-4da2-a7a6-71e01351bfda",
-      "seen_at": "2026-08-31T11:40:50.482454+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda",
-      "seen_at": "2026-08-31T11:40:50.483014+00:00"
-    },
-    {
       "id": "simplify-ffbfdb0a-160a-44a5-90b1-76d8bdfccee7",
       "seen_at": "2026-08-31T18:10:15.706515+00:00"
     },
@@ -60025,20 +59857,10 @@
       "seen_at": "2026-09-30T10:01:34.799219+00:00"
     }
   ],
-  "last_run": "2026-09-30T11:31:18.298633+00:00",
+  "last_run": "2026-09-30T12:01:42.580001+00:00",
   "total_notified": 7456,
   "channels": {
     "pm-jobs": [
-      "simplify-dc5059f5-acc3-4aa6-bb67-ecd5a9e42cbe",
-      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558",
-      "simplify-21878633-4f34-4274-81f7-68ceb6d1ace9",
-      "url:https://careers.qorvo.com/job/Richardson-Product-Management-Engineering-Intern-TX-75081/1424705200",
-      "simplify-3d06b58f-7fe9-4b56-b0f7-3b20ea1411a5",
-      "url:https://lifeattiktok.com/search/7679147369590737205",
-      "jobright-9242daf07ecf",
-      "url:https://jobright.ai/jobs/info/6a950365c12c90443efce193",
-      "jobright-f97c3f65aa30",
-      "url:https://jobright.ai/jobs/info/6a9503661e67aa542830d7b3",
       "jobright-c5350711927a",
       "url:https://jobright.ai/jobs/info/6a95a8b84c22023a07934e43",
       "jobright-e02d25ee785d",
@@ -61980,8 +61802,6 @@
       "url:https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003012"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-a6ab3111-7092-4da2-a7a6-71e01351bfda",
-      "url:https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda",
       "greenhouse-lyft-8761609002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8761609002",
       "ashby-openai-cadb7c24-2aea-4b98-a793-65ae9388b5d6",
