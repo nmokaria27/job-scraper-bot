@@ -59855,10 +59855,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003012",
       "seen_at": "2026-09-30T10:01:34.799219+00:00"
+    },
+    {
+      "id": "jobright-69818a606b30",
+      "seen_at": "2026-09-30T13:01:23.123579+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abce7668ff3fb9b3bc6dd32",
+      "seen_at": "2026-09-30T13:01:23.124658+00:00"
+    },
+    {
+      "id": "jobright-3a61ea53d88e",
+      "seen_at": "2026-09-30T13:01:23.125631+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abce5934ac55253f5d5a9c3",
+      "seen_at": "2026-09-30T13:01:23.126560+00:00"
     }
   ],
-  "last_run": "2026-09-30T12:31:22.248724+00:00",
-  "total_notified": 7456,
+  "last_run": "2026-09-30T13:01:28.580380+00:00",
+  "total_notified": 7458,
   "channels": {
     "pm-jobs": [
       "jobright-c5350711927a",
@@ -74550,7 +74566,11 @@
       "applyguy-dacc5288-ad54-40f2-b112-5294c61aa4c9",
       "url:https://ats.rippling.com/momentumcareers/jobs/dd4281b8-fa2a-4833-8370-b1859933b612",
       "jobright-09aac3e0153a",
-      "url:https://jobright.ai/jobs/info/6aa9eb13eff87f571fc9c828"
+      "url:https://jobright.ai/jobs/info/6aa9eb13eff87f571fc9c828",
+      "jobright-69818a606b30",
+      "url:https://jobright.ai/jobs/info/6abce7668ff3fb9b3bc6dd32",
+      "jobright-3a61ea53d88e",
+      "url:https://jobright.ai/jobs/info/6abce5934ac55253f5d5a9c3"
     ]
   }
 }
