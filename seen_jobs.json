@@ -59951,10 +59951,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abc3d7a92b2612ef0f8dca2",
       "seen_at": "2026-09-30T02:01:19.686193+00:00"
+    },
+    {
+      "id": "jobright-52a393b286c6",
+      "seen_at": "2026-09-30T03:01:25.218761+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abc5b8b187b1378d873db8e",
+      "seen_at": "2026-09-30T03:01:25.219917+00:00"
+    },
+    {
+      "id": "jobright-9b03cb7327c2",
+      "seen_at": "2026-09-30T03:01:25.220913+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abc3d62b23c6fb2b81a5f68",
+      "seen_at": "2026-09-30T03:01:25.221832+00:00"
+    },
+    {
+      "id": "zapply-55ebc54ceadd",
+      "seen_at": "2026-09-30T03:01:31.930868+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-base-power-1bca5a4f-47a9-49d9-a06d-09f78a2d7469",
+      "seen_at": "2026-09-30T03:01:31.931784+00:00"
     }
   ],
-  "last_run": "2026-09-30T02:31:25.051725+00:00",
-  "total_notified": 7446,
+  "last_run": "2026-09-30T03:01:32.142825+00:00",
+  "total_notified": 7449,
   "channels": {
     "pm-jobs": [
       "simplify-dc5059f5-acc3-4aa6-bb67-ecd5a9e42cbe",
@@ -61897,7 +61921,9 @@
       "jobright-a2973dc1d86d",
       "url:https://jobright.ai/jobs/info/6abc321892b2612ef0f8d9c5",
       "ashby-nousresearch-c5563fb9-303b-40b4-98ad-8ddea722c49b",
-      "url:https://jobs.ashbyhq.com/nousresearch/c5563fb9-303b-40b4-98ad-8ddea722c49b"
+      "url:https://jobs.ashbyhq.com/nousresearch/c5563fb9-303b-40b4-98ad-8ddea722c49b",
+      "zapply-55ebc54ceadd",
+      "url:https://zapply.jobs/l/d/ashby-base-power-1bca5a4f-47a9-49d9-a06d-09f78a2d7469"
     ],
     "swe-ai-full-time": [
       "ashby-openai-a6ab3111-7092-4da2-a7a6-71e01351bfda",
@@ -74638,7 +74664,11 @@
       "zapply-010057ce6c6c",
       "url:https://zapply.jobs/l/d/amazon-68178022-3330-4cf3-9fa5-5eb2af6ad7da",
       "jobright-51e23c512e37",
-      "url:https://jobright.ai/jobs/info/6abc3d7a92b2612ef0f8dca2"
+      "url:https://jobright.ai/jobs/info/6abc3d7a92b2612ef0f8dca2",
+      "jobright-52a393b286c6",
+      "url:https://jobright.ai/jobs/info/6abc5b8b187b1378d873db8e",
+      "jobright-9b03cb7327c2",
+      "url:https://jobright.ai/jobs/info/6abc3d62b23c6fb2b81a5f68"
     ]
   }
 }
