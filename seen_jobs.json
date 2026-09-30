@@ -59919,10 +59919,34 @@
     {
       "id": "url:https://jobs.ashbyhq.com/nousresearch/c5563fb9-303b-40b4-98ad-8ddea722c49b",
       "seen_at": "2026-09-30T00:22:26.412088+00:00"
+    },
+    {
+      "id": "zapply-c212677df3e5",
+      "seen_at": "2026-09-30T01:01:18.768753+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026477",
+      "seen_at": "2026-09-30T01:01:18.769778+00:00"
+    },
+    {
+      "id": "jobright-45669dac710b",
+      "seen_at": "2026-09-30T01:01:18.770701+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abc3e957119e56191cec42c",
+      "seen_at": "2026-09-30T01:01:18.771600+00:00"
+    },
+    {
+      "id": "zapply-010057ce6c6c",
+      "seen_at": "2026-09-30T01:01:18.772553+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-68178022-3330-4cf3-9fa5-5eb2af6ad7da",
+      "seen_at": "2026-09-30T01:01:18.773456+00:00"
     }
   ],
-  "last_run": "2026-09-30T00:31:30.643007+00:00",
-  "total_notified": 7442,
+  "last_run": "2026-09-30T01:01:24.034201+00:00",
+  "total_notified": 7445,
   "channels": {
     "pm-jobs": [
       "simplify-dc5059f5-acc3-4aa6-bb67-ecd5a9e42cbe",
@@ -74598,7 +74622,13 @@
       "workday-nvidia-JR2026477",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
       "amazon-10564562",
-      "url:https://www.amazon.jobs/en/jobs/10564562/software-development-engineer-s3-storage-cells"
+      "url:https://www.amazon.jobs/en/jobs/10564562/software-development-engineer-s3-storage-cells",
+      "zapply-c212677df3e5",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026477",
+      "jobright-45669dac710b",
+      "url:https://jobright.ai/jobs/info/6abc3e957119e56191cec42c",
+      "zapply-010057ce6c6c",
+      "url:https://zapply.jobs/l/d/amazon-68178022-3330-4cf3-9fa5-5eb2af6ad7da"
     ]
   }
 }
