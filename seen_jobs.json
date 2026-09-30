@@ -59943,10 +59943,66 @@
     {
       "id": "url:https://job-boards.greenhouse.io/doordashusa/jobs/5635021",
       "seen_at": "2026-09-30T15:01:33.231482+00:00"
+    },
+    {
+      "id": "gradtracker-64bb94f3bce4",
+      "seen_at": "2026-09-30T15:31:37.215983+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446721342586",
+      "seen_at": "2026-09-30T15:31:37.217024+00:00"
+    },
+    {
+      "id": "zapply-656ced0044f5",
+      "seen_at": "2026-09-30T15:31:37.218006+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-109558222179705542",
+      "seen_at": "2026-09-30T15:31:37.218977+00:00"
+    },
+    {
+      "id": "zapply-917a6094b096",
+      "seen_at": "2026-09-30T15:31:37.219962+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR208846",
+      "seen_at": "2026-09-30T15:31:37.220897+00:00"
+    },
+    {
+      "id": "zapply-f414585ba2b6",
+      "seen_at": "2026-09-30T15:31:37.221854+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-stripe-8240322",
+      "seen_at": "2026-09-30T15:31:37.222761+00:00"
+    },
+    {
+      "id": "zapply-723cd4614e7c",
+      "seen_at": "2026-09-30T15:31:37.223706+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-doordashusa-5635021",
+      "seen_at": "2026-09-30T15:31:37.224638+00:00"
+    },
+    {
+      "id": "zapply-3c09c4a62406",
+      "seen_at": "2026-09-30T15:31:43.648002+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-ptc-ptc-JR112791",
+      "seen_at": "2026-09-30T15:31:43.648934+00:00"
+    },
+    {
+      "id": "zapply-9d897435252e",
+      "seen_at": "2026-09-30T15:31:43.649869+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-555645",
+      "seen_at": "2026-09-30T15:31:43.650715+00:00"
     }
   ],
-  "last_run": "2026-09-30T15:01:39.452394+00:00",
-  "total_notified": 7467,
+  "last_run": "2026-09-30T15:31:43.925713+00:00",
+  "total_notified": 7474,
   "channels": {
     "pm-jobs": [
       "jobright-c5350711927a",
@@ -61891,7 +61947,11 @@
       "zapply-de08be6aa400",
       "url:https://zapply.jobs/l/d/workday-citi-2-26977257",
       "lever-spotify-a343f789-bb7f-41eb-bd85-d7c6b45bda67",
-      "url:https://jobs.lever.co/spotify/a343f789-bb7f-41eb-bd85-d7c6b45bda67"
+      "url:https://jobs.lever.co/spotify/a343f789-bb7f-41eb-bd85-d7c6b45bda67",
+      "zapply-3c09c4a62406",
+      "url:https://zapply.jobs/l/d/workday-ptc-ptc-JR112791",
+      "zapply-9d897435252e",
+      "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-555645"
     ],
     "swe-ai-full-time": [
       "greenhouse-lyft-8761609002",
@@ -74660,7 +74720,17 @@
       "simplify-822b37cc-a0a6-437f-94cb-e1d7221ab0e9",
       "url:https://jobs.ashbyhq.com/lucidcomputing/a19cd7c3-6ed2-4659-bf9a-1c27200319d7/application",
       "greenhouse-doordashusa-5635021",
-      "url:https://job-boards.greenhouse.io/doordashusa/jobs/5635021"
+      "url:https://job-boards.greenhouse.io/doordashusa/jobs/5635021",
+      "gradtracker-64bb94f3bce4",
+      "url:https://careers.qualcomm.com/careers/job/446721342586",
+      "zapply-656ced0044f5",
+      "url:https://zapply.jobs/l/d/google-109558222179705542",
+      "zapply-917a6094b096",
+      "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR208846",
+      "zapply-f414585ba2b6",
+      "url:https://zapply.jobs/l/d/greenhouse-stripe-8240322",
+      "zapply-723cd4614e7c",
+      "url:https://zapply.jobs/l/d/greenhouse-doordashusa-5635021"
     ]
   }
 }
