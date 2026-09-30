@@ -60607,10 +60607,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abd57f8d9621c5b2838bb0e",
       "seen_at": "2026-09-30T20:59:24.038322+00:00"
+    },
+    {
+      "id": "zapply-b268c82169cd",
+      "seen_at": "2026-09-30T21:31:40.442042+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1044328",
+      "seen_at": "2026-09-30T21:31:40.442940+00:00"
+    },
+    {
+      "id": "greenhouse-block-5427880008",
+      "seen_at": "2026-09-30T21:31:40.443712+00:00"
+    },
+    {
+      "id": "url:http://block.xyz/careers/jobs/5427880008",
+      "seen_at": "2026-09-30T21:31:40.444430+00:00"
+    },
+    {
+      "id": "zapply-933ef44d2322",
+      "seen_at": "2026-09-30T21:31:46.771826+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42455",
+      "seen_at": "2026-09-30T21:31:46.772592+00:00"
     }
   ],
-  "last_run": "2026-09-30T21:01:24.495614+00:00",
-  "total_notified": 7560,
+  "last_run": "2026-09-30T21:31:47.087317+00:00",
+  "total_notified": 7563,
   "channels": {
     "pm-jobs": [
       "simplify-d3e9acbe-429c-41ea-ad4b-0536beab6782",
@@ -62565,7 +62589,9 @@
       "zapply-427a654a75d3",
       "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001787",
       "jobright-bc5631511c43",
-      "url:https://jobright.ai/jobs/info/6abd4aead9621c5b2838b610"
+      "url:https://jobright.ai/jobs/info/6abd4aead9621c5b2838b610",
+      "zapply-933ef44d2322",
+      "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42455"
     ],
     "swe-ai-full-time": [
       "simplify-58a0dcba-5ea2-494a-a22d-9fdb8d98d4a6",
@@ -75496,7 +75522,11 @@
       "jobright-5ce459b4a153",
       "url:https://jobright.ai/jobs/info/6abd615f064da25272dfd456",
       "jobright-93534783de92",
-      "url:https://jobright.ai/jobs/info/6abd57f8d9621c5b2838bb0e"
+      "url:https://jobright.ai/jobs/info/6abd57f8d9621c5b2838bb0e",
+      "zapply-b268c82169cd",
+      "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1044328",
+      "greenhouse-block-5427880008",
+      "url:http://block.xyz/careers/jobs/5427880008"
     ]
   }
 }
