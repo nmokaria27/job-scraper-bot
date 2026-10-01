@@ -60555,10 +60555,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a6968612a5c103624db4903",
       "seen_at": "2026-10-01T00:01:29.869585+00:00"
+    },
+    {
+      "id": "gradtracker-b5f0b7239447",
+      "seen_at": "2026-10-01T00:31:26.282186+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446721346942",
+      "seen_at": "2026-10-01T00:31:26.282810+00:00"
+    },
+    {
+      "id": "gradtracker-130ff3ac305d",
+      "seen_at": "2026-10-01T00:31:26.283349+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10565950/software-development-engineer-amazon-leo",
+      "seen_at": "2026-10-01T00:31:26.283856+00:00"
+    },
+    {
+      "id": "zapply-46aaae2dc9c1",
+      "seen_at": "2026-10-01T00:31:31.519771+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524276",
+      "seen_at": "2026-10-01T00:31:31.520317+00:00"
     }
   ],
-  "last_run": "2026-10-01T00:01:30.017327+00:00",
-  "total_notified": 7596,
+  "last_run": "2026-10-01T00:31:31.811211+00:00",
+  "total_notified": 7599,
   "channels": {
     "pm-jobs": [
       "simplify-373a5deb-bbf5-4b5d-96cc-270362d6fba5",
@@ -62497,7 +62521,9 @@
       "zapply-9b576f83875f",
       "url:https://zapply.jobs/l/d/apple-200636743",
       "jobright-5e102a32bce3",
-      "url:https://jobright.ai/jobs/info/6a6968612a5c103624db4903"
+      "url:https://jobright.ai/jobs/info/6a6968612a5c103624db4903",
+      "zapply-46aaae2dc9c1",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524276"
     ],
     "swe-ai-full-time": [
       "simplify-5730df80-e891-4f36-8479-e9efac72548f",
@@ -75458,7 +75484,11 @@
       "greenhouse-roblox-8226958",
       "url:https://careers.roblox.com/jobs/8226958",
       "applyguy-97cca630-5598-4d96-9eba-b8890bacafbb",
-      "url:https://www.jamf.com/about/careers/jobs"
+      "url:https://www.jamf.com/about/careers/jobs",
+      "gradtracker-b5f0b7239447",
+      "url:https://careers.qualcomm.com/careers/job/446721346942",
+      "gradtracker-130ff3ac305d",
+      "url:https://www.amazon.jobs/en/jobs/10565950/software-development-engineer-amazon-leo"
     ]
   }
 }
