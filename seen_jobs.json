@@ -60583,10 +60583,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/amazon-cc607ab4-da53-4e4a-bfcc-ef8501fdee30",
       "seen_at": "2026-10-01T10:01:27.669078+00:00"
+    },
+    {
+      "id": "ashby-reflectionai-8b05b1e6-0286-464b-9fff-c6ac44c35b8c",
+      "seen_at": "2026-10-01T10:31:20.364349+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/reflectionai/8b05b1e6-0286-464b-9fff-c6ac44c35b8c",
+      "seen_at": "2026-10-01T10:31:20.365465+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR334858",
+      "seen_at": "2026-10-01T10:31:20.366419+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-AMTS_JR334858",
+      "seen_at": "2026-10-01T10:31:20.367366+00:00"
     }
   ],
-  "last_run": "2026-10-01T10:01:33.341243+00:00",
-  "total_notified": 7627,
+  "last_run": "2026-10-01T10:31:28.013584+00:00",
+  "total_notified": 7629,
   "channels": {
     "pm-jobs": [
       "jobright-a5d69732175a",
@@ -75512,7 +75528,11 @@
       "zapply-f9d85b0ab70d",
       "url:https://zapply.jobs/l/d/greenhouse-spacex-8859566002",
       "zapply-aad41b3dc359",
-      "url:https://zapply.jobs/l/d/amazon-cc607ab4-da53-4e4a-bfcc-ef8501fdee30"
+      "url:https://zapply.jobs/l/d/amazon-cc607ab4-da53-4e4a-bfcc-ef8501fdee30",
+      "ashby-reflectionai-8b05b1e6-0286-464b-9fff-c6ac44c35b8c",
+      "url:https://jobs.ashbyhq.com/reflectionai/8b05b1e6-0286-464b-9fff-c6ac44c35b8c",
+      "workday-salesforce-JR334858",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-AMTS_JR334858"
     ]
   }
 }
