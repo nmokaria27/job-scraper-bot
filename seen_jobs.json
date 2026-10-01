@@ -60563,10 +60563,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abe3721d9621c5b2838e99d",
       "seen_at": "2026-10-01T13:01:30.750194+00:00"
+    },
+    {
+      "id": "zapply-aafe354a15ba",
+      "seen_at": "2026-10-01T14:01:50.289763+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025387",
+      "seen_at": "2026-10-01T14:01:50.290818+00:00"
+    },
+    {
+      "id": "ashby-notion-95800771-37a4-4226-b03f-d4fc6ea88f65",
+      "seen_at": "2026-10-01T14:01:50.291767+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/notion/95800771-37a4-4226-b03f-d4fc6ea88f65",
+      "seen_at": "2026-10-01T14:01:50.292686+00:00"
     }
   ],
-  "last_run": "2026-10-01T13:31:30.705310+00:00",
-  "total_notified": 7632,
+  "last_run": "2026-10-01T14:01:56.982368+00:00",
+  "total_notified": 7634,
   "channels": {
     "pm-jobs": [
       "jobright-c7e6ddc9e0ae",
@@ -75496,7 +75512,11 @@
       "workday-intel-JR0287686",
       "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0287686",
       "jobright-8f279eb57beb",
-      "url:https://jobright.ai/jobs/info/6abe3721d9621c5b2838e99d"
+      "url:https://jobright.ai/jobs/info/6abe3721d9621c5b2838e99d",
+      "zapply-aafe354a15ba",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025387",
+      "ashby-notion-95800771-37a4-4226-b03f-d4fc6ea88f65",
+      "url:https://jobs.ashbyhq.com/notion/95800771-37a4-4226-b03f-d4fc6ea88f65"
     ]
   }
 }
