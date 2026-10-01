@@ -60731,10 +60731,66 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-jj-jj-R-096203",
       "seen_at": "2026-10-01T17:31:39.715756+00:00"
+    },
+    {
+      "id": "jobright-8d35aeef6c40",
+      "seen_at": "2026-10-01T18:01:38.867631+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abe7f17d9621c5b2838f93b",
+      "seen_at": "2026-10-01T18:01:38.868829+00:00"
+    },
+    {
+      "id": "greenhouse-reddit-8244082",
+      "seen_at": "2026-10-01T18:01:38.869873+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8244082",
+      "seen_at": "2026-10-01T18:01:38.870856+00:00"
+    },
+    {
+      "id": "jobright-b80b1e7a7957",
+      "seen_at": "2026-10-01T18:01:38.871833+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abe84f8064da25272e01440",
+      "seen_at": "2026-10-01T18:01:38.872853+00:00"
+    },
+    {
+      "id": "greenhouse-reddit-8243443",
+      "seen_at": "2026-10-01T18:01:38.873890+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8243443",
+      "seen_at": "2026-10-01T18:01:38.874898+00:00"
+    },
+    {
+      "id": "jobright-794b23c8a554",
+      "seen_at": "2026-10-01T18:01:38.875898+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abe892b0e027c0f3b3996a4",
+      "seen_at": "2026-10-01T18:01:38.876842+00:00"
+    },
+    {
+      "id": "amazon-10566972",
+      "seen_at": "2026-10-01T18:01:38.877801+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10566972/applied-scientist-agentcore-science",
+      "seen_at": "2026-10-01T18:01:38.878750+00:00"
+    },
+    {
+      "id": "jobright-37f9c21cded5",
+      "seen_at": "2026-10-01T18:01:38.879690+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abe8c3e0e027c0f3b399779",
+      "seen_at": "2026-10-01T18:01:38.880617+00:00"
     }
   ],
-  "last_run": "2026-10-01T17:31:39.914279+00:00",
-  "total_notified": 7671,
+  "last_run": "2026-10-01T18:01:43.574205+00:00",
+  "total_notified": 7678,
   "channels": {
     "pm-jobs": [
       "simplify-8bfe3ea5-d1ef-41a1-ae40-253d70479829",
@@ -75722,7 +75778,21 @@
       "amazon-10566951",
       "url:https://www.amazon.jobs/en/jobs/10566951/software-development-engineer-aws-global-accelerator-aws-global-accelerator",
       "zapply-8f466952cbcf",
-      "url:https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2452498"
+      "url:https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2452498",
+      "jobright-8d35aeef6c40",
+      "url:https://jobright.ai/jobs/info/6abe7f17d9621c5b2838f93b",
+      "greenhouse-reddit-8244082",
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8244082",
+      "jobright-b80b1e7a7957",
+      "url:https://jobright.ai/jobs/info/6abe84f8064da25272e01440",
+      "greenhouse-reddit-8243443",
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8243443",
+      "jobright-794b23c8a554",
+      "url:https://jobright.ai/jobs/info/6abe892b0e027c0f3b3996a4",
+      "amazon-10566972",
+      "url:https://www.amazon.jobs/en/jobs/10566972/applied-scientist-agentcore-science",
+      "jobright-37f9c21cded5",
+      "url:https://jobright.ai/jobs/info/6abe8c3e0e027c0f3b399779"
     ]
   }
 }
