@@ -1,66 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-12b17910-1400-4c7f-8d78-7adcf8b6ad4a",
-      "seen_at": "2026-09-01T12:05:27.631921+00:00"
-    },
-    {
-      "id": "url:https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Spring-2027-Software-Engineering-Internships_R-2026-71386",
-      "seen_at": "2026-09-01T12:05:27.632504+00:00"
-    },
-    {
-      "id": "simplify-23a5a6a6-47fc-41cf-8936-946b702be2cd",
-      "seen_at": "2026-09-01T12:05:27.633057+00:00"
-    },
-    {
-      "id": "url:https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800",
-      "seen_at": "2026-09-01T12:05:27.633541+00:00"
-    },
-    {
-      "id": "simplify-974d081a-6d17-4aab-a42a-e9b35cafde7d",
-      "seen_at": "2026-09-01T12:05:27.634020+00:00"
-    },
-    {
-      "id": "simplify-9482cef9-a466-4071-a482-6b9206236e32",
-      "seen_at": "2026-09-01T12:05:27.634937+00:00"
-    },
-    {
-      "id": "url:https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Office-TC-Energy-Cente/Student-Intern--Engineering_JR-10742",
-      "seen_at": "2026-09-01T12:05:27.635387+00:00"
-    },
-    {
-      "id": "simplify-d6e09034-f1b8-496a-9b1c-ad916001fc4c",
-      "seen_at": "2026-09-01T12:05:27.635910+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/281462",
-      "seen_at": "2026-09-01T12:05:27.636365+00:00"
-    },
-    {
-      "id": "jobright-a5d69732175a",
-      "seen_at": "2026-09-01T12:05:28.903089+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a96802cd13b4819f39dc2d0",
-      "seen_at": "2026-09-01T12:05:28.903636+00:00"
-    },
-    {
-      "id": "simplify-9f295fbb-d491-4d86-abc7-f5cc60b4c53e",
-      "seen_at": "2026-09-01T12:05:30.758145+00:00"
-    },
-    {
-      "id": "url:https://siemens.avature.net/en_US/externaljobs/JobDetail/520535",
-      "seen_at": "2026-09-01T12:05:30.758711+00:00"
-    },
-    {
-      "id": "simplify-36615370-087d-477b-bcff-68e7da691d32",
-      "seen_at": "2026-09-01T12:05:30.759254+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446720710098",
-      "seen_at": "2026-09-01T12:05:30.759781+00:00"
-    },
-    {
       "id": "simplify-b281f70c-b819-47ce-8df8-cdbc3d567e98",
       "seen_at": "2026-09-01T16:33:04.345403+00:00"
     },
@@ -60599,14 +60539,28 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-AMTS_JR334858",
       "seen_at": "2026-10-01T10:31:20.367366+00:00"
+    },
+    {
+      "id": "zapply-cc33f8e1a8e4",
+      "seen_at": "2026-10-01T12:31:41.570472+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-openai-2d1785b0-8bfa-485e-97d2-a19ff3e15570",
+      "seen_at": "2026-10-01T12:31:41.571778+00:00"
+    },
+    {
+      "id": "workday-intel-JR0287686",
+      "seen_at": "2026-10-01T12:31:41.572751+00:00"
+    },
+    {
+      "id": "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0287686",
+      "seen_at": "2026-10-01T12:31:41.573578+00:00"
     }
   ],
-  "last_run": "2026-10-01T12:02:07.854235+00:00",
-  "total_notified": 7629,
+  "last_run": "2026-10-01T12:31:47.040536+00:00",
+  "total_notified": 7631,
   "channels": {
     "pm-jobs": [
-      "jobright-a5d69732175a",
-      "url:https://jobright.ai/jobs/info/6a96802cd13b4819f39dc2d0",
       "jobright-c7e6ddc9e0ae",
       "url:https://jobright.ai/jobs/info/6a96d65fd13b4819f39dd2b4",
       "jobright-2f47ba8eeeff",
@@ -62538,10 +62492,6 @@
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524276"
     ],
     "swe-ai-full-time": [
-      "simplify-9f295fbb-d491-4d86-abc7-f5cc60b4c53e",
-      "url:https://siemens.avature.net/en_US/externaljobs/JobDetail/520535",
-      "simplify-36615370-087d-477b-bcff-68e7da691d32",
-      "url:https://qualcomm.eightfold.ai/careers/job/446720710098",
       "simplify-3fc4727f-2d70-46d1-bcff-ca511ef255d0",
       "url:https://job-boards.greenhouse.io/dataiku/jobs/5420293004",
       "simplify-28e8176f-cd82-4341-9b49-ec626abe7864",
@@ -75532,7 +75482,11 @@
       "ashby-reflectionai-8b05b1e6-0286-464b-9fff-c6ac44c35b8c",
       "url:https://jobs.ashbyhq.com/reflectionai/8b05b1e6-0286-464b-9fff-c6ac44c35b8c",
       "workday-salesforce-JR334858",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-AMTS_JR334858"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-AMTS_JR334858",
+      "zapply-cc33f8e1a8e4",
+      "url:https://zapply.jobs/l/d/ashby-openai-2d1785b0-8bfa-485e-97d2-a19ff3e15570",
+      "workday-intel-JR0287686",
+      "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0287686"
     ]
   }
 }
