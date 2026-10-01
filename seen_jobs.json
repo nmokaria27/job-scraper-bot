@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-956086a7-d67a-4072-93ae-47bf3687b548",
-      "seen_at": "2026-09-01T01:46:38.926468+00:00"
-    },
-    {
-      "id": "url:https://www.google.com/about/careers/applications/jobs/results/94172495052972742",
-      "seen_at": "2026-09-01T01:46:38.926871+00:00"
-    },
-    {
-      "id": "simplify-c9bf8e11-07ee-42db-b773-dd7f4ce360fc",
-      "seen_at": "2026-09-01T01:46:38.927236+00:00"
-    },
-    {
-      "id": "url:https://www.google.com/about/careers/applications/jobs/results/100648618540573382",
-      "seen_at": "2026-09-01T01:46:38.927560+00:00"
-    },
-    {
-      "id": "simplify-58e64075-6609-418d-a437-22d5c25dd225",
-      "seen_at": "2026-09-01T01:46:38.927866+00:00"
-    },
-    {
-      "id": "url:https://careers.cvent.com/jobs/10806",
-      "seen_at": "2026-09-01T01:46:38.928183+00:00"
-    },
-    {
-      "id": "simplify-5730df80-e891-4f36-8479-e9efac72548f",
-      "seen_at": "2026-09-01T01:46:44.745263+00:00"
-    },
-    {
-      "id": "url:https://jobs.keysight.com/jobs/54093",
-      "seen_at": "2026-09-01T01:46:44.745680+00:00"
-    },
-    {
-      "id": "simplify-f03ec8db-251a-4cfe-9232-9fbf2f86782c",
-      "seen_at": "2026-09-01T01:46:44.746060+00:00"
-    },
-    {
-      "id": "url:https://apply.workable.com/avalore/j/D80A182DA1/apply",
-      "seen_at": "2026-09-01T01:46:44.746434+00:00"
-    },
-    {
-      "id": "simplify-e950fd58-36dd-4bbd-8aa3-314216e6e315",
-      "seen_at": "2026-09-01T01:46:44.746816+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application",
-      "seen_at": "2026-09-01T01:46:44.747196+00:00"
-    },
-    {
-      "id": "simplify-8adee4fc-765b-4e1a-8de9-ec518bf68f19",
-      "seen_at": "2026-09-01T01:46:44.747543+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/everlaw/jobs/4705236006",
-      "seen_at": "2026-09-01T01:46:44.747989+00:00"
-    },
-    {
-      "id": "simplify-2afa2874-247c-4f79-be21-5351afd7be1c",
-      "seen_at": "2026-09-01T01:46:44.748352+00:00"
-    },
-    {
-      "id": "url:https://qualcomm.eightfold.ai/careers/job/446720354978",
-      "seen_at": "2026-09-01T01:46:44.748667+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-7708224",
-      "seen_at": "2026-09-01T01:46:44.749036+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/7708224",
-      "seen_at": "2026-09-01T01:46:44.749367+00:00"
-    },
-    {
       "id": "simplify-c6dd05de-594d-4fa3-8da1-c646ae0eca31",
       "seen_at": "2026-09-01T06:48:01.140374+00:00"
     },
@@ -60579,10 +60507,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524276",
       "seen_at": "2026-10-01T00:31:31.520317+00:00"
+    },
+    {
+      "id": "simplify-986968af-4a3a-4038-96dc-9caaa8a58066",
+      "seen_at": "2026-10-01T02:01:23.334014+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply",
+      "seen_at": "2026-10-01T02:01:23.335055+00:00"
+    },
+    {
+      "id": "simplify-42079b38-2a81-4395-8380-8127f696afaf",
+      "seen_at": "2026-10-01T02:01:23.335989+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7689561253011097909/detail",
+      "seen_at": "2026-10-01T02:01:23.336896+00:00"
+    },
+    {
+      "id": "amazon-10566212",
+      "seen_at": "2026-10-01T02:01:23.337817+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10566212/software-development-engineer-agentic-ai",
+      "seen_at": "2026-10-01T02:01:23.338714+00:00"
     }
   ],
-  "last_run": "2026-10-01T01:31:37.487886+00:00",
-  "total_notified": 7599,
+  "last_run": "2026-10-01T02:01:29.412700+00:00",
+  "total_notified": 7602,
   "channels": {
     "pm-jobs": [
       "simplify-373a5deb-bbf5-4b5d-96cc-270362d6fba5",
@@ -62526,18 +62478,6 @@
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524276"
     ],
     "swe-ai-full-time": [
-      "simplify-5730df80-e891-4f36-8479-e9efac72548f",
-      "url:https://jobs.keysight.com/jobs/54093",
-      "simplify-f03ec8db-251a-4cfe-9232-9fbf2f86782c",
-      "url:https://apply.workable.com/avalore/j/D80A182DA1/apply",
-      "simplify-e950fd58-36dd-4bbd-8aa3-314216e6e315",
-      "url:https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application",
-      "simplify-8adee4fc-765b-4e1a-8de9-ec518bf68f19",
-      "url:https://job-boards.greenhouse.io/everlaw/jobs/4705236006",
-      "simplify-2afa2874-247c-4f79-be21-5351afd7be1c",
-      "url:https://qualcomm.eightfold.ai/careers/job/446720354978",
-      "greenhouse-airbnb-7708224",
-      "url:https://careers.airbnb.com/positions/7708224",
       "simplify-a8b2860c-2d70-43bb-8aa6-8c5efdc04235",
       "url:https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-52272",
       "simplify-93505886-d1f4-46f8-aa58-3ace29aebbe1",
@@ -75488,7 +75428,13 @@
       "gradtracker-b5f0b7239447",
       "url:https://careers.qualcomm.com/careers/job/446721346942",
       "gradtracker-130ff3ac305d",
-      "url:https://www.amazon.jobs/en/jobs/10565950/software-development-engineer-amazon-leo"
+      "url:https://www.amazon.jobs/en/jobs/10565950/software-development-engineer-amazon-leo",
+      "simplify-986968af-4a3a-4038-96dc-9caaa8a58066",
+      "url:https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply",
+      "simplify-42079b38-2a81-4395-8380-8127f696afaf",
+      "url:https://jobs.bytedance.com/en/position/7689561253011097909/detail",
+      "amazon-10566212",
+      "url:https://www.amazon.jobs/en/jobs/10566212/software-development-engineer-agentic-ai"
     ]
   }
 }
