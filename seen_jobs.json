@@ -60611,10 +60611,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aa1a9e00ffb3d4fea6b662a",
       "seen_at": "2026-10-01T15:01:43.648880+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5440427008",
+      "seen_at": "2026-10-01T15:31:32.101350+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5440427008",
+      "seen_at": "2026-10-01T15:31:32.102174+00:00"
+    },
+    {
+      "id": "amazon-10566655",
+      "seen_at": "2026-10-01T15:31:32.102898+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10566655/robotics-software-engineer-fauna",
+      "seen_at": "2026-10-01T15:31:32.103599+00:00"
+    },
+    {
+      "id": "workday-adobe-R172017",
+      "seen_at": "2026-10-01T15:31:38.871011+00:00"
+    },
+    {
+      "id": "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Product-Manager_R172017",
+      "seen_at": "2026-10-01T15:31:38.871708+00:00"
     }
   ],
-  "last_run": "2026-10-01T15:01:48.738393+00:00",
-  "total_notified": 7638,
+  "last_run": "2026-10-01T15:31:39.154497+00:00",
+  "total_notified": 7641,
   "channels": {
     "pm-jobs": [
       "jobright-c7e6ddc9e0ae",
@@ -62545,7 +62569,9 @@
       "jobright-5e102a32bce3",
       "url:https://jobright.ai/jobs/info/6a6968612a5c103624db4903",
       "zapply-46aaae2dc9c1",
-      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524276"
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524276",
+      "workday-adobe-R172017",
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Product-Manager_R172017"
     ],
     "swe-ai-full-time": [
       "simplify-3fc4727f-2d70-46d1-bcff-ca511ef255d0",
@@ -75556,7 +75582,11 @@
       "zapply-6d053e0946f0",
       "url:https://zapply.jobs/l/d/ashby-notion-95800771-37a4-4226-b03f-d4fc6ea88f65",
       "jobright-0fc42ec2d029",
-      "url:https://jobright.ai/jobs/info/6aa1a9e00ffb3d4fea6b662a"
+      "url:https://jobright.ai/jobs/info/6aa1a9e00ffb3d4fea6b662a",
+      "greenhouse-anthropic-5440427008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5440427008",
+      "amazon-10566655",
+      "url:https://www.amazon.jobs/en/jobs/10566655/robotics-software-engineer-fauna"
     ]
   }
 }
