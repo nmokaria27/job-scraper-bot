@@ -60747,10 +60747,26 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10567408/applied-scientist-pxt-central-science",
       "seen_at": "2026-10-01T22:01:50.467429+00:00"
+    },
+    {
+      "id": "amazon-10567501",
+      "seen_at": "2026-10-01T22:31:19.698784+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10567501/applied-scientist-fauna",
+      "seen_at": "2026-10-01T22:31:19.699883+00:00"
+    },
+    {
+      "id": "zapply-f6dea7827eec",
+      "seen_at": "2026-10-01T22:31:19.700854+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-coinbase-8247397",
+      "seen_at": "2026-10-01T22:31:19.701771+00:00"
     }
   ],
-  "last_run": "2026-10-01T22:01:56.726189+00:00",
-  "total_notified": 7741,
+  "last_run": "2026-10-01T22:31:25.906840+00:00",
+  "total_notified": 7743,
   "channels": {
     "pm-jobs": [
       "simplify-7e3901fd-05cd-4661-ae40-da887b489ca8",
@@ -75800,7 +75816,11 @@
       "amazon-10567489",
       "url:https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027",
       "amazon-10567408",
-      "url:https://www.amazon.jobs/en/jobs/10567408/applied-scientist-pxt-central-science"
+      "url:https://www.amazon.jobs/en/jobs/10567408/applied-scientist-pxt-central-science",
+      "amazon-10567501",
+      "url:https://www.amazon.jobs/en/jobs/10567501/applied-scientist-fauna",
+      "zapply-f6dea7827eec",
+      "url:https://zapply.jobs/l/d/greenhouse-coinbase-8247397"
     ]
   }
 }
