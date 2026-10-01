@@ -60635,10 +60635,90 @@
     {
       "id": "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Product-Manager_R172017",
       "seen_at": "2026-10-01T15:31:38.871708+00:00"
+    },
+    {
+      "id": "zapply-432f35f0a8d0",
+      "seen_at": "2026-10-01T16:01:42.965461+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_053889",
+      "seen_at": "2026-10-01T16:01:42.966565+00:00"
+    },
+    {
+      "id": "gradtracker-bb3631e2230a",
+      "seen_at": "2026-10-01T16:01:42.967535+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446721360419",
+      "seen_at": "2026-10-01T16:01:42.968488+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR361988",
+      "seen_at": "2026-10-01T16:01:42.969436+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Applied-Scientist--College-Grad-_JR361988",
+      "seen_at": "2026-10-01T16:01:42.970369+00:00"
+    },
+    {
+      "id": "zapply-67a94e9b63e1",
+      "seen_at": "2026-10-01T16:01:42.971313+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200685128",
+      "seen_at": "2026-10-01T16:01:42.972225+00:00"
+    },
+    {
+      "id": "zapply-109772079b28",
+      "seen_at": "2026-10-01T16:01:42.973204+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/qualcomm-3097402",
+      "seen_at": "2026-10-01T16:01:42.974132+00:00"
+    },
+    {
+      "id": "zapply-16b69f4ca624",
+      "seen_at": "2026-10-01T16:01:42.975066+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000152957144",
+      "seen_at": "2026-10-01T16:01:42.976022+00:00"
+    },
+    {
+      "id": "zapply-ea75b16fc63e",
+      "seen_at": "2026-10-01T16:01:42.976958+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-citi-2-26992907",
+      "seen_at": "2026-10-01T16:01:42.977880+00:00"
+    },
+    {
+      "id": "zapply-1de18b7d60da",
+      "seen_at": "2026-10-01T16:01:50.390357+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-ptc-ptc-JR112814",
+      "seen_at": "2026-10-01T16:01:50.391227+00:00"
+    },
+    {
+      "id": "ashby-langchain-27af5f96-b287-4bcc-8679-f96686dc7c8d",
+      "seen_at": "2026-10-01T16:01:50.392092+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/langchain/27af5f96-b287-4bcc-8679-f96686dc7c8d",
+      "seen_at": "2026-10-01T16:01:50.392929+00:00"
+    },
+    {
+      "id": "ashby-plaid-058c0896-18fb-47a5-8b34-2f1a78623312",
+      "seen_at": "2026-10-01T16:01:50.393782+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/plaid/058c0896-18fb-47a5-8b34-2f1a78623312",
+      "seen_at": "2026-10-01T16:01:50.394611+00:00"
     }
   ],
-  "last_run": "2026-10-01T15:31:39.154497+00:00",
-  "total_notified": 7641,
+  "last_run": "2026-10-01T16:01:50.583599+00:00",
+  "total_notified": 7651,
   "channels": {
     "pm-jobs": [
       "jobright-c7e6ddc9e0ae",
@@ -62571,7 +62651,13 @@
       "zapply-46aaae2dc9c1",
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524276",
       "workday-adobe-R172017",
-      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Product-Manager_R172017"
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Product-Manager_R172017",
+      "zapply-1de18b7d60da",
+      "url:https://zapply.jobs/l/d/workday-ptc-ptc-JR112814",
+      "ashby-langchain-27af5f96-b287-4bcc-8679-f96686dc7c8d",
+      "url:https://jobs.ashbyhq.com/langchain/27af5f96-b287-4bcc-8679-f96686dc7c8d",
+      "ashby-plaid-058c0896-18fb-47a5-8b34-2f1a78623312",
+      "url:https://jobs.ashbyhq.com/plaid/058c0896-18fb-47a5-8b34-2f1a78623312"
     ],
     "swe-ai-full-time": [
       "simplify-3fc4727f-2d70-46d1-bcff-ca511ef255d0",
@@ -75586,7 +75672,21 @@
       "greenhouse-anthropic-5440427008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5440427008",
       "amazon-10566655",
-      "url:https://www.amazon.jobs/en/jobs/10566655/robotics-software-engineer-fauna"
+      "url:https://www.amazon.jobs/en/jobs/10566655/robotics-software-engineer-fauna",
+      "zapply-432f35f0a8d0",
+      "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_053889",
+      "gradtracker-bb3631e2230a",
+      "url:https://careers.qualcomm.com/careers/job/446721360419",
+      "workday-salesforce-JR361988",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Data-Applied-Scientist--College-Grad-_JR361988",
+      "zapply-67a94e9b63e1",
+      "url:https://zapply.jobs/l/d/apple-200685128",
+      "zapply-109772079b28",
+      "url:https://zapply.jobs/l/d/qualcomm-3097402",
+      "zapply-16b69f4ca624",
+      "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000152957144",
+      "zapply-ea75b16fc63e",
+      "url:https://zapply.jobs/l/d/workday-citi-2-26992907"
     ]
   }
 }
