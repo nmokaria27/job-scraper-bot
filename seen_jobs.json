@@ -60787,10 +60787,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abe8c3e0e027c0f3b399779",
       "seen_at": "2026-10-01T18:01:38.880617+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2017083",
+      "seen_at": "2026-10-01T18:31:19.594583+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+      "seen_at": "2026-10-01T18:31:19.595899+00:00"
+    },
+    {
+      "id": "applyguy-e61b4959-8052-489d-80b4-96a8693ab001",
+      "seen_at": "2026-10-01T18:31:19.596962+00:00"
+    },
+    {
+      "id": "url:https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053889-1",
+      "seen_at": "2026-10-01T18:31:19.597925+00:00"
+    },
+    {
+      "id": "greenhouse-lyft-8856443002",
+      "seen_at": "2026-10-01T18:31:19.598866+00:00"
+    },
+    {
+      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8856443002",
+      "seen_at": "2026-10-01T18:31:19.599773+00:00"
     }
   ],
-  "last_run": "2026-10-01T18:01:43.574205+00:00",
-  "total_notified": 7678,
+  "last_run": "2026-10-01T18:31:25.165029+00:00",
+  "total_notified": 7681,
   "channels": {
     "pm-jobs": [
       "simplify-8bfe3ea5-d1ef-41a1-ae40-253d70479829",
@@ -75792,7 +75816,13 @@
       "amazon-10566972",
       "url:https://www.amazon.jobs/en/jobs/10566972/applied-scientist-agentcore-science",
       "jobright-37f9c21cded5",
-      "url:https://jobright.ai/jobs/info/6abe8c3e0e027c0f3b399779"
+      "url:https://jobright.ai/jobs/info/6abe8c3e0e027c0f3b399779",
+      "workday-nvidia-JR2017083",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+      "applyguy-e61b4959-8052-489d-80b4-96a8693ab001",
+      "url:https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053889-1",
+      "greenhouse-lyft-8856443002",
+      "url:https://app.careerpuck.com/job-board/lyft/job/8856443002"
     ]
   }
 }
