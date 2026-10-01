@@ -60731,10 +60731,82 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-mavenclinic-8860743002",
       "seen_at": "2026-10-01T20:31:37.977362+00:00"
+    },
+    {
+      "id": "amazon-10567368",
+      "seen_at": "2026-10-01T21:01:21.658307+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10567368/software-development-engineer-adc2s",
+      "seen_at": "2026-10-01T21:01:21.659349+00:00"
+    },
+    {
+      "id": "jobright-e20f8d81dc9c",
+      "seen_at": "2026-10-01T21:01:21.660317+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abea5fd8ff3fb9b3bc74df1",
+      "seen_at": "2026-10-01T21:01:21.661248+00:00"
+    },
+    {
+      "id": "jobright-2a2c542ce261",
+      "seen_at": "2026-10-01T21:01:21.662209+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6d404257120971bf3afa52",
+      "seen_at": "2026-10-01T21:01:21.663128+00:00"
+    },
+    {
+      "id": "amazon-10567367",
+      "seen_at": "2026-10-01T21:01:21.664058+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10567367/software-dev-engineer-aws-identity-access-management-aws-iam-propagation",
+      "seen_at": "2026-10-01T21:01:21.664966+00:00"
+    },
+    {
+      "id": "greenhouse-coinbase-8234278",
+      "seen_at": "2026-10-01T21:01:21.665900+00:00"
+    },
+    {
+      "id": "url:https://www.coinbase.com/careers/positions/8234278",
+      "seen_at": "2026-10-01T21:01:21.666806+00:00"
+    },
+    {
+      "id": "jobright-fd56b9c134f8",
+      "seen_at": "2026-10-01T21:01:21.667723+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abeb1c08ff3fb9b3bc751eb",
+      "seen_at": "2026-10-01T21:01:21.668644+00:00"
+    },
+    {
+      "id": "jobright-9919dc20816c",
+      "seen_at": "2026-10-01T21:01:27.186168+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abeacbcd9621c5b28390a2f",
+      "seen_at": "2026-10-01T21:01:27.187062+00:00"
+    },
+    {
+      "id": "ashby-substack-3654de54-7a95-4f6a-8d70-75a5d2d54bbf",
+      "seen_at": "2026-10-01T21:01:27.187925+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/substack/3654de54-7a95-4f6a-8d70-75a5d2d54bbf",
+      "seen_at": "2026-10-01T21:01:27.188747+00:00"
+    },
+    {
+      "id": "jobright-ce33a2bc340b",
+      "seen_at": "2026-10-01T21:01:27.189593+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abeac3b064da25272e0211a",
+      "seen_at": "2026-10-01T21:01:27.190407+00:00"
     }
   ],
-  "last_run": "2026-10-01T20:31:38.137887+00:00",
-  "total_notified": 7716,
+  "last_run": "2026-10-01T21:01:27.526649+00:00",
+  "total_notified": 7725,
   "channels": {
     "pm-jobs": [
       "simplify-d461ab1f-9694-48b1-ac26-5f67da3841a1",
@@ -62667,7 +62739,13 @@
       "zapply-c2fdadbbd8c5",
       "url:https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261005",
       "zapply-c405ae9052b8",
-      "url:https://zapply.jobs/l/d/greenhouse-mavenclinic-8860743002"
+      "url:https://zapply.jobs/l/d/greenhouse-mavenclinic-8860743002",
+      "jobright-9919dc20816c",
+      "url:https://jobright.ai/jobs/info/6abeacbcd9621c5b28390a2f",
+      "ashby-substack-3654de54-7a95-4f6a-8d70-75a5d2d54bbf",
+      "url:https://jobs.ashbyhq.com/substack/3654de54-7a95-4f6a-8d70-75a5d2d54bbf",
+      "jobright-ce33a2bc340b",
+      "url:https://jobright.ai/jobs/info/6abeac3b064da25272e0211a"
     ],
     "swe-ai-full-time": [
       "simplify-42a9da57-990c-4082-acb6-d95159291df5",
@@ -75766,7 +75844,19 @@
       "zapply-c4954f3f2fd2",
       "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4718493006",
       "ashby-lumaai-3fd52f19-c2b8-4cd4-8cb2-3db7aaee0483",
-      "url:https://jobs.ashbyhq.com/lumaai/3fd52f19-c2b8-4cd4-8cb2-3db7aaee0483"
+      "url:https://jobs.ashbyhq.com/lumaai/3fd52f19-c2b8-4cd4-8cb2-3db7aaee0483",
+      "amazon-10567368",
+      "url:https://www.amazon.jobs/en/jobs/10567368/software-development-engineer-adc2s",
+      "jobright-e20f8d81dc9c",
+      "url:https://jobright.ai/jobs/info/6abea5fd8ff3fb9b3bc74df1",
+      "jobright-2a2c542ce261",
+      "url:https://jobright.ai/jobs/info/6a6d404257120971bf3afa52",
+      "amazon-10567367",
+      "url:https://www.amazon.jobs/en/jobs/10567367/software-dev-engineer-aws-identity-access-management-aws-iam-propagation",
+      "greenhouse-coinbase-8234278",
+      "url:https://www.coinbase.com/careers/positions/8234278",
+      "jobright-fd56b9c134f8",
+      "url:https://jobright.ai/jobs/info/6abeb1c08ff3fb9b3bc751eb"
     ]
   }
 }
