@@ -60803,10 +60803,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abeac3b064da25272e0211a",
       "seen_at": "2026-10-01T21:01:27.190407+00:00"
+    },
+    {
+      "id": "applyguy-6ad5ceb6-24dd-4748-826f-3dc52c15c484",
+      "seen_at": "2026-10-01T21:31:17.847421+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c",
+      "seen_at": "2026-10-01T21:31:17.848521+00:00"
+    },
+    {
+      "id": "zapply-d5a09aed8d55",
+      "seen_at": "2026-10-01T21:31:17.849466+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-intel-external-JR0287686",
+      "seen_at": "2026-10-01T21:31:17.850460+00:00"
+    },
+    {
+      "id": "amazon-10567389",
+      "seen_at": "2026-10-01T21:31:17.851417+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10567389/software-development-engineer-ads-console-frameworks",
+      "seen_at": "2026-10-01T21:31:17.852318+00:00"
+    },
+    {
+      "id": "amazon-10567393",
+      "seen_at": "2026-10-01T21:31:17.853227+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10567393/software-development-engineer-aws-service-quotas",
+      "seen_at": "2026-10-01T21:31:17.854112+00:00"
+    },
+    {
+      "id": "amazon-10567385",
+      "seen_at": "2026-10-01T21:31:17.855023+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10567385/software-development-engineer-aws-access-analyzer",
+      "seen_at": "2026-10-01T21:31:17.855937+00:00"
     }
   ],
-  "last_run": "2026-10-01T21:01:27.526649+00:00",
-  "total_notified": 7725,
+  "last_run": "2026-10-01T21:31:24.005848+00:00",
+  "total_notified": 7730,
   "channels": {
     "pm-jobs": [
       "simplify-d461ab1f-9694-48b1-ac26-5f67da3841a1",
@@ -75856,7 +75896,17 @@
       "greenhouse-coinbase-8234278",
       "url:https://www.coinbase.com/careers/positions/8234278",
       "jobright-fd56b9c134f8",
-      "url:https://jobright.ai/jobs/info/6abeb1c08ff3fb9b3bc751eb"
+      "url:https://jobright.ai/jobs/info/6abeb1c08ff3fb9b3bc751eb",
+      "applyguy-6ad5ceb6-24dd-4748-826f-3dc52c15c484",
+      "url:https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c",
+      "zapply-d5a09aed8d55",
+      "url:https://zapply.jobs/l/d/workday-intel-external-JR0287686",
+      "amazon-10567389",
+      "url:https://www.amazon.jobs/en/jobs/10567389/software-development-engineer-ads-console-frameworks",
+      "amazon-10567393",
+      "url:https://www.amazon.jobs/en/jobs/10567393/software-development-engineer-aws-service-quotas",
+      "amazon-10567385",
+      "url:https://www.amazon.jobs/en/jobs/10567385/software-development-engineer-aws-access-analyzer"
     ]
   }
 }
