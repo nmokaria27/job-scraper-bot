@@ -60843,10 +60843,82 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10567385/software-development-engineer-aws-access-analyzer",
       "seen_at": "2026-10-01T21:31:17.855937+00:00"
+    },
+    {
+      "id": "zapply-5555bf8ec746",
+      "seen_at": "2026-10-01T21:47:38.498564+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523687",
+      "seen_at": "2026-10-01T21:47:38.499686+00:00"
+    },
+    {
+      "id": "zapply-b0d895e9ca7e",
+      "seen_at": "2026-10-01T21:47:38.500593+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-polaris-polarisjobs-R30967",
+      "seen_at": "2026-10-01T21:47:38.501454+00:00"
+    },
+    {
+      "id": "zapply-79033fd1b0d2",
+      "seen_at": "2026-10-01T21:47:38.502318+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-JREQ204116",
+      "seen_at": "2026-10-01T21:47:38.503216+00:00"
+    },
+    {
+      "id": "zapply-2d18a93e9193",
+      "seen_at": "2026-10-01T21:47:38.504063+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215628",
+      "seen_at": "2026-10-01T21:47:38.504887+00:00"
+    },
+    {
+      "id": "zapply-51238ac0178e",
+      "seen_at": "2026-10-01T21:47:38.505722+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-costar-costar-campus-R39949",
+      "seen_at": "2026-10-01T21:47:38.506580+00:00"
+    },
+    {
+      "id": "zapply-45ed24fdffda",
+      "seen_at": "2026-10-01T21:47:38.507482+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200674218",
+      "seen_at": "2026-10-01T21:47:38.508396+00:00"
+    },
+    {
+      "id": "zapply-4b3adf344649",
+      "seen_at": "2026-10-01T21:47:38.509294+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1215628",
+      "seen_at": "2026-10-01T21:47:38.510185+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-8247303",
+      "seen_at": "2026-10-01T21:47:38.511050+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/8247303",
+      "seen_at": "2026-10-01T21:47:38.511920+00:00"
+    },
+    {
+      "id": "zapply-a715896cfb3b",
+      "seen_at": "2026-10-01T21:47:44.927123+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-costar-costar-campus-R39946",
+      "seen_at": "2026-10-01T21:47:44.928065+00:00"
     }
   ],
-  "last_run": "2026-10-01T21:31:24.005848+00:00",
-  "total_notified": 7730,
+  "last_run": "2026-10-01T21:47:45.196328+00:00",
+  "total_notified": 7739,
   "channels": {
     "pm-jobs": [
       "simplify-d461ab1f-9694-48b1-ac26-5f67da3841a1",
@@ -62785,7 +62857,9 @@
       "ashby-substack-3654de54-7a95-4f6a-8d70-75a5d2d54bbf",
       "url:https://jobs.ashbyhq.com/substack/3654de54-7a95-4f6a-8d70-75a5d2d54bbf",
       "jobright-ce33a2bc340b",
-      "url:https://jobright.ai/jobs/info/6abeac3b064da25272e0211a"
+      "url:https://jobright.ai/jobs/info/6abeac3b064da25272e0211a",
+      "zapply-a715896cfb3b",
+      "url:https://zapply.jobs/l/d/workday-costar-costar-campus-R39946"
     ],
     "swe-ai-full-time": [
       "simplify-42a9da57-990c-4082-acb6-d95159291df5",
@@ -75906,7 +75980,23 @@
       "amazon-10567393",
       "url:https://www.amazon.jobs/en/jobs/10567393/software-development-engineer-aws-service-quotas",
       "amazon-10567385",
-      "url:https://www.amazon.jobs/en/jobs/10567385/software-development-engineer-aws-access-analyzer"
+      "url:https://www.amazon.jobs/en/jobs/10567385/software-development-engineer-aws-access-analyzer",
+      "zapply-5555bf8ec746",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523687",
+      "zapply-b0d895e9ca7e",
+      "url:https://zapply.jobs/l/d/workday-polaris-polarisjobs-R30967",
+      "zapply-79033fd1b0d2",
+      "url:https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-JREQ204116",
+      "zapply-2d18a93e9193",
+      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215628",
+      "zapply-51238ac0178e",
+      "url:https://zapply.jobs/l/d/workday-costar-costar-campus-R39949",
+      "zapply-45ed24fdffda",
+      "url:https://zapply.jobs/l/d/apple-200674218",
+      "zapply-4b3adf344649",
+      "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1215628",
+      "greenhouse-airbnb-8247303",
+      "url:https://careers.airbnb.com/positions/8247303"
     ]
   }
 }
