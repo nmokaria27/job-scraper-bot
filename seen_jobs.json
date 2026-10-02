@@ -60963,10 +60963,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-archer56-7652666003",
       "seen_at": "2026-10-02T01:31:11.856107+00:00"
+    },
+    {
+      "id": "jobright-1ca18cc15838",
+      "seen_at": "2026-10-02T02:01:20.992122+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a548e1be726ec56126aaa69",
+      "seen_at": "2026-10-02T02:01:20.993222+00:00"
+    },
+    {
+      "id": "zapply-7ea844b91465",
+      "seen_at": "2026-10-02T02:01:20.994271+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215473",
+      "seen_at": "2026-10-02T02:01:20.995227+00:00"
+    },
+    {
+      "id": "zapply-e790f23cbc1c",
+      "seen_at": "2026-10-02T02:01:20.996194+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1215476",
+      "seen_at": "2026-10-02T02:01:20.997141+00:00"
+    },
+    {
+      "id": "zapply-bccadf12e709",
+      "seen_at": "2026-10-02T02:01:20.998077+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-towerresearchcapital-8095925",
+      "seen_at": "2026-10-02T02:01:20.999025+00:00"
+    },
+    {
+      "id": "jobright-0cc4fe0e4cfc",
+      "seen_at": "2026-10-02T02:01:20.999966+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abee88bd9621c5b283924b1",
+      "seen_at": "2026-10-02T02:01:21.000889+00:00"
+    },
+    {
+      "id": "zapply-d0d6d56b7fa7",
+      "seen_at": "2026-10-02T02:01:21.001819+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200686880",
+      "seen_at": "2026-10-02T02:01:21.002742+00:00"
     }
   ],
-  "last_run": "2026-10-02T01:39:32.524147+00:00",
-  "total_notified": 7801,
+  "last_run": "2026-10-02T02:01:26.298996+00:00",
+  "total_notified": 7807,
   "channels": {
     "pm-jobs": [
       "simplify-ca0f0f67-5fd4-4b63-8b73-b7415915a10e",
@@ -76092,7 +76140,19 @@
       "jobright-b20974acb80e",
       "url:https://jobright.ai/jobs/info/6abee0e6372c01f6cd726581",
       "zapply-45d83640e8fd",
-      "url:https://zapply.jobs/l/d/greenhouse-archer56-7652666003"
+      "url:https://zapply.jobs/l/d/greenhouse-archer56-7652666003",
+      "jobright-1ca18cc15838",
+      "url:https://jobright.ai/jobs/info/6a548e1be726ec56126aaa69",
+      "zapply-7ea844b91465",
+      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215473",
+      "zapply-e790f23cbc1c",
+      "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1215476",
+      "zapply-bccadf12e709",
+      "url:https://zapply.jobs/l/d/greenhouse-towerresearchcapital-8095925",
+      "jobright-0cc4fe0e4cfc",
+      "url:https://jobright.ai/jobs/info/6abee88bd9621c5b283924b1",
+      "zapply-d0d6d56b7fa7",
+      "url:https://zapply.jobs/l/d/apple-200686880"
     ]
   }
 }
