@@ -61067,10 +61067,42 @@
     {
       "id": "url:https://boards.greenhouse.io/figma/jobs/6211910004",
       "seen_at": "2026-10-02T15:01:52.790477+00:00"
+    },
+    {
+      "id": "zapply-927a36be5e8d",
+      "seen_at": "2026-10-02T15:31:12.010448+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101077",
+      "seen_at": "2026-10-02T15:31:12.011549+00:00"
+    },
+    {
+      "id": "zapply-2fd35d527a87",
+      "seen_at": "2026-10-02T15:31:12.012494+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-statestreet-global-R-794331",
+      "seen_at": "2026-10-02T15:31:12.013414+00:00"
+    },
+    {
+      "id": "zapply-149e3175e780",
+      "seen_at": "2026-10-02T15:31:12.014360+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4702238006",
+      "seen_at": "2026-10-02T15:31:12.015271+00:00"
+    },
+    {
+      "id": "amazon-10567881",
+      "seen_at": "2026-10-02T15:31:12.016173+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10567881/sde-aws-opensearch-service-opensearch",
+      "seen_at": "2026-10-02T15:31:12.017067+00:00"
     }
   ],
-  "last_run": "2026-10-02T15:01:53.017537+00:00",
-  "total_notified": 7839,
+  "last_run": "2026-10-02T15:31:13.461114+00:00",
+  "total_notified": 7843,
   "channels": {
     "pm-jobs": [
       "hn-49528405",
@@ -76238,7 +76270,15 @@
       "zapply-37419de7c1a1",
       "url:https://zapply.jobs/l/d/ashby-clickhouse-962f45f3-d8d3-4073-add2-af763f7c3ffb",
       "zapply-14157c75905b",
-      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4717958006"
+      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4717958006",
+      "zapply-927a36be5e8d",
+      "url:https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101077",
+      "zapply-2fd35d527a87",
+      "url:https://zapply.jobs/l/d/workday-statestreet-global-R-794331",
+      "zapply-149e3175e780",
+      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4702238006",
+      "amazon-10567881",
+      "url:https://www.amazon.jobs/en/jobs/10567881/sde-aws-opensearch-service-opensearch"
     ]
   }
 }
