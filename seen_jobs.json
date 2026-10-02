@@ -61647,10 +61647,34 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10568327/technical-program-manager-tech-deployment-systems-integration",
       "seen_at": "2026-10-02T21:31:18.625959+00:00"
+    },
+    {
+      "id": "zapply-66a41904f91b",
+      "seen_at": "2026-10-02T22:01:16.204976+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397517",
+      "seen_at": "2026-10-02T22:01:16.205666+00:00"
+    },
+    {
+      "id": "jobright-896eb546eb3e",
+      "seen_at": "2026-10-02T22:01:16.206222+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac01462d9621c5b283962ac",
+      "seen_at": "2026-10-02T22:01:16.206769+00:00"
+    },
+    {
+      "id": "jobright-0553bb36ee77",
+      "seen_at": "2026-10-02T22:01:17.967981+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac00da2064da25272e07786",
+      "seen_at": "2026-10-02T22:01:17.968549+00:00"
     }
   ],
-  "last_run": "2026-10-02T21:31:19.047737+00:00",
-  "total_notified": 7926,
+  "last_run": "2026-10-02T22:01:18.235893+00:00",
+  "total_notified": 7929,
   "channels": {
     "pm-jobs": [
       "jobright-3705813db3ec",
@@ -63593,7 +63617,9 @@
       "zapply-87ad5d91a9e7",
       "url:https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266683",
       "amazon-10568327",
-      "url:https://www.amazon.jobs/en/jobs/10568327/technical-program-manager-tech-deployment-systems-integration"
+      "url:https://www.amazon.jobs/en/jobs/10568327/technical-program-manager-tech-deployment-systems-integration",
+      "jobright-0553bb36ee77",
+      "url:https://jobright.ai/jobs/info/6ac00da2064da25272e07786"
     ],
     "swe-ai-full-time": [
       "ashby-openai-29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
@@ -76964,7 +76990,11 @@
       "zapply-0543d8ae98bd",
       "url:https://zapply.jobs/l/d/amazon-56258d77-a4fd-4067-9295-efc6a7454227",
       "zapply-3b3ba1f7fd8b",
-      "url:https://zapply.jobs/l/d/bytedance-7623552015124154629"
+      "url:https://zapply.jobs/l/d/bytedance-7623552015124154629",
+      "zapply-66a41904f91b",
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397517",
+      "jobright-896eb546eb3e",
+      "url:https://jobright.ai/jobs/info/6ac01462d9621c5b283962ac"
     ]
   }
 }
