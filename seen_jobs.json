@@ -61019,10 +61019,90 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abeac37064da25272e02119",
       "seen_at": "2026-10-02T03:01:28.769488+00:00"
+    },
+    {
+      "id": "zapply-5ae3035e6f88",
+      "seen_at": "2026-10-02T03:31:09.910432+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01369988",
+      "seen_at": "2026-10-02T03:31:09.911455+00:00"
+    },
+    {
+      "id": "zapply-46da5d450700",
+      "seen_at": "2026-10-02T03:31:09.912393+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229691",
+      "seen_at": "2026-10-02T03:31:09.913307+00:00"
+    },
+    {
+      "id": "ashby-openai-a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
+      "seen_at": "2026-10-02T03:31:09.914242+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
+      "seen_at": "2026-10-02T03:31:09.915117+00:00"
+    },
+    {
+      "id": "jobright-86daefa02c31",
+      "seen_at": "2026-10-02T03:31:09.916054+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abd788b372c01f6cd720a97",
+      "seen_at": "2026-10-02T03:31:09.916950+00:00"
+    },
+    {
+      "id": "jobright-6e4a17e87289",
+      "seen_at": "2026-10-02T03:31:09.917842+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab5eda2d85922de20ce3c40",
+      "seen_at": "2026-10-02T03:31:09.918732+00:00"
+    },
+    {
+      "id": "jobright-67d5db9c2dc4",
+      "seen_at": "2026-10-02T03:31:09.919621+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abd57b84ac55253f5d5ce41",
+      "seen_at": "2026-10-02T03:31:09.920498+00:00"
+    },
+    {
+      "id": "zapply-1ce4c8a1aba1",
+      "seen_at": "2026-10-02T03:31:09.921371+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30307",
+      "seen_at": "2026-10-02T03:31:09.922228+00:00"
+    },
+    {
+      "id": "zapply-01e3f9e92f91",
+      "seen_at": "2026-10-02T03:31:09.923098+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30291",
+      "seen_at": "2026-10-02T03:31:09.923973+00:00"
+    },
+    {
+      "id": "zapply-bfc350d81e80",
+      "seen_at": "2026-10-02T03:31:09.924816+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-selinc-sel-2026-21862",
+      "seen_at": "2026-10-02T03:31:09.925703+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5439391008",
+      "seen_at": "2026-10-02T03:31:11.856963+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5439391008",
+      "seen_at": "2026-10-02T03:31:11.857862+00:00"
     }
   ],
-  "last_run": "2026-10-02T03:01:28.912861+00:00",
-  "total_notified": 7808,
+  "last_run": "2026-10-02T03:31:12.041625+00:00",
+  "total_notified": 7818,
   "channels": {
     "pm-jobs": [
       "simplify-ca0f0f67-5fd4-4b63-8b73-b7415915a10e",
@@ -62943,7 +63023,9 @@
       "zapply-499935b74c7d",
       "url:https://zapply.jobs/l/d/workday-blackstone-bx-external-site-29129",
       "jobright-cc0d2f30b9f0",
-      "url:https://jobright.ai/jobs/info/6abeac37064da25272e02119"
+      "url:https://jobright.ai/jobs/info/6abeac37064da25272e02119",
+      "greenhouse-anthropic-5439391008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5439391008"
     ],
     "swe-ai-full-time": [
       "simplify-8e485f76-0130-4ad8-a850-a6489868c676",
@@ -76162,7 +76244,25 @@
       "jobright-0cc4fe0e4cfc",
       "url:https://jobright.ai/jobs/info/6abee88bd9621c5b283924b1",
       "zapply-d0d6d56b7fa7",
-      "url:https://zapply.jobs/l/d/apple-200686880"
+      "url:https://zapply.jobs/l/d/apple-200686880",
+      "zapply-5ae3035e6f88",
+      "url:https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01369988",
+      "zapply-46da5d450700",
+      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229691",
+      "ashby-openai-a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
+      "url:https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
+      "jobright-86daefa02c31",
+      "url:https://jobright.ai/jobs/info/6abd788b372c01f6cd720a97",
+      "jobright-6e4a17e87289",
+      "url:https://jobright.ai/jobs/info/6ab5eda2d85922de20ce3c40",
+      "jobright-67d5db9c2dc4",
+      "url:https://jobright.ai/jobs/info/6abd57b84ac55253f5d5ce41",
+      "zapply-1ce4c8a1aba1",
+      "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30307",
+      "zapply-01e3f9e92f91",
+      "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30291",
+      "zapply-bfc350d81e80",
+      "url:https://zapply.jobs/l/d/workday-selinc-sel-2026-21862"
     ]
   }
 }
