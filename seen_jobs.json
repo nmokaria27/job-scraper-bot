@@ -61647,10 +61647,98 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
       "seen_at": "2026-10-02T22:31:11.135681+00:00"
+    },
+    {
+      "id": "zapply-278effa79fc0",
+      "seen_at": "2026-10-02T23:01:11.674147+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397520",
+      "seen_at": "2026-10-02T23:01:11.674858+00:00"
+    },
+    {
+      "id": "zapply-46fdcc30965e",
+      "seen_at": "2026-10-02T23:01:11.675443+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-ServiceNow-744000153279380",
+      "seen_at": "2026-10-02T23:01:11.675994+00:00"
+    },
+    {
+      "id": "ashby-langchain-e10513d4-1b8d-492f-a6af-94bdae366a1a",
+      "seen_at": "2026-10-02T23:01:11.676574+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/langchain/e10513d4-1b8d-492f-a6af-94bdae366a1a",
+      "seen_at": "2026-10-02T23:01:11.677116+00:00"
+    },
+    {
+      "id": "jobright-66cb8718dd52",
+      "seen_at": "2026-10-02T23:01:11.677652+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac020c6d9621c5b28396872",
+      "seen_at": "2026-10-02T23:01:11.678195+00:00"
+    },
+    {
+      "id": "jobright-fd33f5b9d5df",
+      "seen_at": "2026-10-02T23:01:11.678733+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac0168a0e027c0f3b39fb58",
+      "seen_at": "2026-10-02T23:01:11.679280+00:00"
+    },
+    {
+      "id": "amazon-10568404",
+      "seen_at": "2026-10-02T23:01:11.679814+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10568404/software-development-engineer-aws-lambda",
+      "seen_at": "2026-10-02T23:01:11.680348+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR357830",
+      "seen_at": "2026-10-02T23:01:11.680867+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colorado---Denver/Site-Reliability-Engineer--GovCloud-24x7_JR357830-1",
+      "seen_at": "2026-10-02T23:01:11.681385+00:00"
+    },
+    {
+      "id": "jobright-296f8f04a5c8",
+      "seen_at": "2026-10-02T23:01:11.681899+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac0178a8ff3fb9b3bc7aa0d",
+      "seen_at": "2026-10-02T23:01:11.682421+00:00"
+    },
+    {
+      "id": "zapply-34cf94b70072",
+      "seen_at": "2026-10-02T23:01:13.908430+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090565",
+      "seen_at": "2026-10-02T23:01:13.909024+00:00"
+    },
+    {
+      "id": "zapply-e090f0f1f062",
+      "seen_at": "2026-10-02T23:01:13.909548+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027085",
+      "seen_at": "2026-10-02T23:01:13.910041+00:00"
+    },
+    {
+      "id": "zapply-03e1f0ace7ef",
+      "seen_at": "2026-10-02T23:01:13.910539+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097",
+      "seen_at": "2026-10-02T23:01:13.911020+00:00"
     }
   ],
-  "last_run": "2026-10-02T22:31:11.320833+00:00",
-  "total_notified": 7931,
+  "last_run": "2026-10-02T23:01:14.123991+00:00",
+  "total_notified": 7942,
   "channels": {
     "pm-jobs": [
       "ashby-openai-58c28108-5bc6-449d-8461-9274f5abd7e6",
@@ -63593,7 +63681,13 @@
       "ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097",
       "url:https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097",
       "workday-salesforce-JR351508",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
+      "zapply-34cf94b70072",
+      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090565",
+      "zapply-e090f0f1f062",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027085",
+      "zapply-03e1f0ace7ef",
+      "url:https://zapply.jobs/l/d/ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097"
     ],
     "swe-ai-full-time": [
       "ashby-openai-c442eab0-b8b4-40f6-b0f2-0fc91aea294a",
@@ -76964,7 +77058,23 @@
       "zapply-66a41904f91b",
       "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397517",
       "jobright-896eb546eb3e",
-      "url:https://jobright.ai/jobs/info/6ac01462d9621c5b283962ac"
+      "url:https://jobright.ai/jobs/info/6ac01462d9621c5b283962ac",
+      "zapply-278effa79fc0",
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397520",
+      "zapply-46fdcc30965e",
+      "url:https://zapply.jobs/l/d/sr-ServiceNow-744000153279380",
+      "ashby-langchain-e10513d4-1b8d-492f-a6af-94bdae366a1a",
+      "url:https://jobs.ashbyhq.com/langchain/e10513d4-1b8d-492f-a6af-94bdae366a1a",
+      "jobright-66cb8718dd52",
+      "url:https://jobright.ai/jobs/info/6ac020c6d9621c5b28396872",
+      "jobright-fd33f5b9d5df",
+      "url:https://jobright.ai/jobs/info/6ac0168a0e027c0f3b39fb58",
+      "amazon-10568404",
+      "url:https://www.amazon.jobs/en/jobs/10568404/software-development-engineer-aws-lambda",
+      "workday-salesforce-JR357830",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colorado---Denver/Site-Reliability-Engineer--GovCloud-24x7_JR357830-1",
+      "jobright-296f8f04a5c8",
+      "url:https://jobright.ai/jobs/info/6ac0178a8ff3fb9b3bc7aa0d"
     ]
   }
 }
