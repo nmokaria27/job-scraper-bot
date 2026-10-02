@@ -61735,10 +61735,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097",
       "seen_at": "2026-10-02T23:01:13.911020+00:00"
+    },
+    {
+      "id": "simplify-867c063f-636d-4f77-bf08-decee4955762",
+      "seen_at": "2026-10-02T23:31:24.544607+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application",
+      "seen_at": "2026-10-02T23:31:24.545666+00:00"
+    },
+    {
+      "id": "simplify-5993eb6e-3414-429f-86b9-dd467b9ddd1d",
+      "seen_at": "2026-10-02T23:31:24.546616+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application",
+      "seen_at": "2026-10-02T23:31:24.547533+00:00"
+    },
+    {
+      "id": "amazon-10568411",
+      "seen_at": "2026-10-02T23:31:24.548495+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10568411/software-development-engineer-amazon-robotics",
+      "seen_at": "2026-10-02T23:31:24.549403+00:00"
+    },
+    {
+      "id": "zapply-30cd5ea0ad31",
+      "seen_at": "2026-10-02T23:31:26.873889+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002771",
+      "seen_at": "2026-10-02T23:31:26.874812+00:00"
     }
   ],
-  "last_run": "2026-10-02T23:01:14.123991+00:00",
-  "total_notified": 7942,
+  "last_run": "2026-10-02T23:31:27.115290+00:00",
+  "total_notified": 7946,
   "channels": {
     "pm-jobs": [
       "ashby-openai-58c28108-5bc6-449d-8461-9274f5abd7e6",
@@ -63687,7 +63719,9 @@
       "zapply-e090f0f1f062",
       "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027085",
       "zapply-03e1f0ace7ef",
-      "url:https://zapply.jobs/l/d/ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097"
+      "url:https://zapply.jobs/l/d/ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097",
+      "zapply-30cd5ea0ad31",
+      "url:https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002771"
     ],
     "swe-ai-full-time": [
       "ashby-openai-c442eab0-b8b4-40f6-b0f2-0fc91aea294a",
@@ -77074,7 +77108,13 @@
       "workday-salesforce-JR357830",
       "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colorado---Denver/Site-Reliability-Engineer--GovCloud-24x7_JR357830-1",
       "jobright-296f8f04a5c8",
-      "url:https://jobright.ai/jobs/info/6ac0178a8ff3fb9b3bc7aa0d"
+      "url:https://jobright.ai/jobs/info/6ac0178a8ff3fb9b3bc7aa0d",
+      "simplify-867c063f-636d-4f77-bf08-decee4955762",
+      "url:https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application",
+      "simplify-5993eb6e-3414-429f-86b9-dd467b9ddd1d",
+      "url:https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application",
+      "amazon-10568411",
+      "url:https://www.amazon.jobs/en/jobs/10568411/software-development-engineer-amazon-robotics"
     ]
   }
 }
