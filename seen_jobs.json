@@ -61043,10 +61043,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210795572",
       "seen_at": "2026-10-02T14:01:20.764895+00:00"
+    },
+    {
+      "id": "zapply-b668e880a27f",
+      "seen_at": "2026-10-02T14:31:13.586539+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-remitly-remitly-careers-R_106531",
+      "seen_at": "2026-10-02T14:31:13.587297+00:00"
+    },
+    {
+      "id": "zapply-26d35c7f1c81",
+      "seen_at": "2026-10-02T14:31:13.587986+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-rover-09916cb0-3e1b-47c4-9a7a-eaa4e554c3c2",
+      "seen_at": "2026-10-02T14:31:13.588641+00:00"
     }
   ],
-  "last_run": "2026-10-02T14:01:20.999462+00:00",
-  "total_notified": 7836,
+  "last_run": "2026-10-02T14:31:13.751086+00:00",
+  "total_notified": 7838,
   "channels": {
     "pm-jobs": [
       "hn-49528405",
@@ -62977,7 +62993,11 @@
       "zapply-cc6bf986b41d",
       "url:https://zapply.jobs/l/d/greenhouse-formlabs-8249069",
       "zapply-5e21cd58df71",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210795572"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210795572",
+      "zapply-b668e880a27f",
+      "url:https://zapply.jobs/l/d/workday-remitly-remitly-careers-R_106531",
+      "zapply-26d35c7f1c81",
+      "url:https://zapply.jobs/l/d/lever-rover-09916cb0-3e1b-47c4-9a7a-eaa4e554c3c2"
     ],
     "swe-ai-full-time": [
       "hn-49539168",
