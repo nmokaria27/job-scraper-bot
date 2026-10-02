@@ -61359,10 +61359,106 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10568153/research-engineer-quick-science",
       "seen_at": "2026-10-02T19:01:19.637262+00:00"
+    },
+    {
+      "id": "zapply-5edae0fb5ed6",
+      "seen_at": "2026-10-02T19:31:12.794141+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2012698",
+      "seen_at": "2026-10-02T19:31:12.795247+00:00"
+    },
+    {
+      "id": "zapply-6e1ce8207771",
+      "seen_at": "2026-10-02T19:31:12.796244+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025041",
+      "seen_at": "2026-10-02T19:31:12.797187+00:00"
+    },
+    {
+      "id": "ashby-harvey-4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+      "seen_at": "2026-10-02T19:31:12.798161+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+      "seen_at": "2026-10-02T19:31:12.799063+00:00"
+    },
+    {
+      "id": "ashby-harvey-b0996df6-6b6e-42be-a4f9-0084536068f5",
+      "seen_at": "2026-10-02T19:31:12.799989+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
+      "seen_at": "2026-10-02T19:31:12.800903+00:00"
+    },
+    {
+      "id": "zapply-8e380a4b42d7",
+      "seen_at": "2026-10-02T19:31:12.801877+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-stripe-8249901",
+      "seen_at": "2026-10-02T19:31:12.802805+00:00"
+    },
+    {
+      "id": "zapply-0f9d3af60f82",
+      "seen_at": "2026-10-02T19:31:12.803739+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-chime-8859182002",
+      "seen_at": "2026-10-02T19:31:12.804669+00:00"
+    },
+    {
+      "id": "zapply-dff33a534117",
+      "seen_at": "2026-10-02T19:31:12.805603+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-bec2fe82-fff8-4ad4-b4f3-3e7deac7280a",
+      "seen_at": "2026-10-02T19:31:12.806521+00:00"
+    },
+    {
+      "id": "gradtracker-d9f6fa3a3250",
+      "seen_at": "2026-10-02T19:31:12.807441+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446721365382",
+      "seen_at": "2026-10-02T19:31:12.808356+00:00"
+    },
+    {
+      "id": "gradtracker-52a4c2f675be",
+      "seen_at": "2026-10-02T19:31:12.809272+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446721372798",
+      "seen_at": "2026-10-02T19:31:12.810180+00:00"
+    },
+    {
+      "id": "amazon-10568209",
+      "seen_at": "2026-10-02T19:31:12.811096+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10568209/software-development-engineer-embedded-flight-computer-software",
+      "seen_at": "2026-10-02T19:31:12.811990+00:00"
+    },
+    {
+      "id": "gradtracker-444dd913fe7c",
+      "seen_at": "2026-10-02T19:31:12.812905+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10567391/software-development-engineer-aws-service-quotas",
+      "seen_at": "2026-10-02T19:31:12.813822+00:00"
+    },
+    {
+      "id": "zapply-a33594cf48aa",
+      "seen_at": "2026-10-02T19:31:14.880527+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142848",
+      "seen_at": "2026-10-02T19:31:14.881475+00:00"
     }
   ],
-  "last_run": "2026-10-02T19:01:23.338245+00:00",
-  "total_notified": 7885,
+  "last_run": "2026-10-02T19:31:15.214428+00:00",
+  "total_notified": 7897,
   "channels": {
     "pm-jobs": [
       "jobright-2034bcc2527a",
@@ -63305,7 +63401,9 @@
       "jobright-68166b54785a",
       "url:https://jobright.ai/jobs/info/6abfc987d9621c5b2839468d",
       "jobright-9aca989c06b2",
-      "url:https://jobright.ai/jobs/info/6abfd1dbd9621c5b2839493e"
+      "url:https://jobright.ai/jobs/info/6abfd1dbd9621c5b2839493e",
+      "zapply-a33594cf48aa",
+      "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142848"
     ],
     "swe-ai-full-time": [
       "ashby-openai-29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
@@ -76602,7 +76700,29 @@
       "amazon-10568162",
       "url:https://www.amazon.jobs/en/jobs/10568162/software-development-engineer-amazon-catalog-services-team",
       "amazon-10568153",
-      "url:https://www.amazon.jobs/en/jobs/10568153/research-engineer-quick-science"
+      "url:https://www.amazon.jobs/en/jobs/10568153/research-engineer-quick-science",
+      "zapply-5edae0fb5ed6",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2012698",
+      "zapply-6e1ce8207771",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025041",
+      "ashby-harvey-4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+      "url:https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+      "ashby-harvey-b0996df6-6b6e-42be-a4f9-0084536068f5",
+      "url:https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
+      "zapply-8e380a4b42d7",
+      "url:https://zapply.jobs/l/d/greenhouse-stripe-8249901",
+      "zapply-0f9d3af60f82",
+      "url:https://zapply.jobs/l/d/greenhouse-chime-8859182002",
+      "zapply-dff33a534117",
+      "url:https://zapply.jobs/l/d/amazon-bec2fe82-fff8-4ad4-b4f3-3e7deac7280a",
+      "gradtracker-d9f6fa3a3250",
+      "url:https://careers.qualcomm.com/careers/job/446721365382",
+      "gradtracker-52a4c2f675be",
+      "url:https://careers.qualcomm.com/careers/job/446721372798",
+      "amazon-10568209",
+      "url:https://www.amazon.jobs/en/jobs/10568209/software-development-engineer-embedded-flight-computer-software",
+      "gradtracker-444dd913fe7c",
+      "url:https://www.amazon.jobs/en/jobs/10567391/software-development-engineer-aws-service-quotas"
     ]
   }
 }
