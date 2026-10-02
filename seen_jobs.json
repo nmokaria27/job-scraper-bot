@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-98621c93-f516-46e0-8eda-22230c879010",
-      "seen_at": "2026-09-02T19:44:42.542497+00:00"
-    },
-    {
-      "id": "url:https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400",
-      "seen_at": "2026-09-02T19:44:42.543121+00:00"
-    },
-    {
-      "id": "jobright-2034bcc2527a",
-      "seen_at": "2026-09-02T19:44:46.701163+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9767dfd13b4819f39e0e21",
-      "seen_at": "2026-09-02T19:44:46.701698+00:00"
-    },
-    {
-      "id": "jobright-23f2456dbe88",
-      "seen_at": "2026-09-02T19:44:46.702155+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a986ac883fc633357631628",
-      "seen_at": "2026-09-02T19:44:46.702591+00:00"
-    },
-    {
-      "id": "jobright-d1b051534ccc",
-      "seen_at": "2026-09-02T19:44:46.703009+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a3c2997982bb239f812e9cd",
-      "seen_at": "2026-09-02T19:44:46.703428+00:00"
-    },
-    {
-      "id": "jobright-9524b418381a",
-      "seen_at": "2026-09-02T19:44:46.703817+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a54e5da81744f383a313c0a",
-      "seen_at": "2026-09-02T19:44:46.704187+00:00"
-    },
-    {
       "id": "jobright-3705813db3ec",
       "seen_at": "2026-09-02T22:00:41.322151+00:00"
     },
@@ -61455,20 +61415,76 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142848",
       "seen_at": "2026-10-02T19:31:14.881475+00:00"
+    },
+    {
+      "id": "greenhouse-cloudflare-8248635",
+      "seen_at": "2026-10-02T20:01:21.427123+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/cloudflare/jobs/8248635",
+      "seen_at": "2026-10-02T20:01:21.428230+00:00"
+    },
+    {
+      "id": "ashby-harvey-43c6e218-ea85-4519-b2fe-dd188ff3234f",
+      "seen_at": "2026-10-02T20:01:21.429103+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/harvey/43c6e218-ea85-4519-b2fe-dd188ff3234f",
+      "seen_at": "2026-10-02T20:01:21.429927+00:00"
+    },
+    {
+      "id": "ashby-harvey-fb3ecf9e-9379-4839-817c-f620a3e6034d",
+      "seen_at": "2026-10-02T20:01:21.430756+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/harvey/fb3ecf9e-9379-4839-817c-f620a3e6034d",
+      "seen_at": "2026-10-02T20:01:21.431546+00:00"
+    },
+    {
+      "id": "ashby-harvey-576271e5-a578-40de-8706-b8d932b5788c",
+      "seen_at": "2026-10-02T20:01:21.432355+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/harvey/576271e5-a578-40de-8706-b8d932b5788c",
+      "seen_at": "2026-10-02T20:01:21.433142+00:00"
+    },
+    {
+      "id": "jobright-dd65fd595764",
+      "seen_at": "2026-10-02T20:01:21.433962+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa3a4ff4238ea18d430d228",
+      "seen_at": "2026-10-02T20:01:21.434780+00:00"
+    },
+    {
+      "id": "amazon-10568249",
+      "seen_at": "2026-10-02T20:01:21.435646+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10568249/data-scientist-amazon-ads-marketing-decision-science",
+      "seen_at": "2026-10-02T20:01:21.436449+00:00"
+    },
+    {
+      "id": "amazon-10568253",
+      "seen_at": "2026-10-02T20:01:21.437264+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10568253/software-dev-mgr-ml-infrastructure-edge-ai-platform",
+      "seen_at": "2026-10-02T20:01:21.438049+00:00"
+    },
+    {
+      "id": "ashby-openai-fe7039ce-51e2-4cfa-9ea5-507eb7a0eee1",
+      "seen_at": "2026-10-02T20:01:23.467599+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/fe7039ce-51e2-4cfa-9ea5-507eb7a0eee1",
+      "seen_at": "2026-10-02T20:01:23.468617+00:00"
     }
   ],
-  "last_run": "2026-10-02T19:31:15.214428+00:00",
-  "total_notified": 7897,
+  "last_run": "2026-10-02T20:01:23.678292+00:00",
+  "total_notified": 7905,
   "channels": {
     "pm-jobs": [
-      "jobright-2034bcc2527a",
-      "url:https://jobright.ai/jobs/info/6a9767dfd13b4819f39e0e21",
-      "jobright-23f2456dbe88",
-      "url:https://jobright.ai/jobs/info/6a986ac883fc633357631628",
-      "jobright-d1b051534ccc",
-      "url:https://jobright.ai/jobs/info/6a3c2997982bb239f812e9cd",
-      "jobright-9524b418381a",
-      "url:https://jobright.ai/jobs/info/6a54e5da81744f383a313c0a",
       "jobright-3705813db3ec",
       "url:https://jobright.ai/jobs/info/6a98727683fc6333576319e5",
       "jobright-f20d582d802e",
@@ -63403,7 +63419,9 @@
       "jobright-9aca989c06b2",
       "url:https://jobright.ai/jobs/info/6abfd1dbd9621c5b2839493e",
       "zapply-a33594cf48aa",
-      "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142848"
+      "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142848",
+      "ashby-openai-fe7039ce-51e2-4cfa-9ea5-507eb7a0eee1",
+      "url:https://jobs.ashbyhq.com/openai/fe7039ce-51e2-4cfa-9ea5-507eb7a0eee1"
     ],
     "swe-ai-full-time": [
       "ashby-openai-29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
@@ -76722,7 +76740,21 @@
       "amazon-10568209",
       "url:https://www.amazon.jobs/en/jobs/10568209/software-development-engineer-embedded-flight-computer-software",
       "gradtracker-444dd913fe7c",
-      "url:https://www.amazon.jobs/en/jobs/10567391/software-development-engineer-aws-service-quotas"
+      "url:https://www.amazon.jobs/en/jobs/10567391/software-development-engineer-aws-service-quotas",
+      "greenhouse-cloudflare-8248635",
+      "url:https://boards.greenhouse.io/cloudflare/jobs/8248635",
+      "ashby-harvey-43c6e218-ea85-4519-b2fe-dd188ff3234f",
+      "url:https://jobs.ashbyhq.com/harvey/43c6e218-ea85-4519-b2fe-dd188ff3234f",
+      "ashby-harvey-fb3ecf9e-9379-4839-817c-f620a3e6034d",
+      "url:https://jobs.ashbyhq.com/harvey/fb3ecf9e-9379-4839-817c-f620a3e6034d",
+      "ashby-harvey-576271e5-a578-40de-8706-b8d932b5788c",
+      "url:https://jobs.ashbyhq.com/harvey/576271e5-a578-40de-8706-b8d932b5788c",
+      "jobright-dd65fd595764",
+      "url:https://jobright.ai/jobs/info/6aa3a4ff4238ea18d430d228",
+      "amazon-10568249",
+      "url:https://www.amazon.jobs/en/jobs/10568249/data-scientist-amazon-ads-marketing-decision-science",
+      "amazon-10568253",
+      "url:https://www.amazon.jobs/en/jobs/10568253/software-dev-mgr-ml-infrastructure-edge-ai-platform"
     ]
   }
 }
