@@ -61099,10 +61099,82 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10567881/sde-aws-opensearch-service-opensearch",
       "seen_at": "2026-10-02T15:31:12.017067+00:00"
+    },
+    {
+      "id": "zapply-caf1842b5a74",
+      "seen_at": "2026-10-02T16:01:44.515719+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024992",
+      "seen_at": "2026-10-02T16:01:44.516865+00:00"
+    },
+    {
+      "id": "zapply-b5225dcd2290",
+      "seen_at": "2026-10-02T16:01:44.517892+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024295",
+      "seen_at": "2026-10-02T16:01:44.518935+00:00"
+    },
+    {
+      "id": "zapply-61ea6b97e7ce",
+      "seen_at": "2026-10-02T16:01:44.519918+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-jll-jllcareers-REQ540083",
+      "seen_at": "2026-10-02T16:01:44.520881+00:00"
+    },
+    {
+      "id": "jobright-81e03d14b613",
+      "seen_at": "2026-10-02T16:01:44.521896+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abfbf87064da25272e05a7d",
+      "seen_at": "2026-10-02T16:01:44.522821+00:00"
+    },
+    {
+      "id": "jobright-70daead66449",
+      "seen_at": "2026-10-02T16:01:44.523766+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abfb770d9621c5b283941d5",
+      "seen_at": "2026-10-02T16:01:44.524689+00:00"
+    },
+    {
+      "id": "jobright-d0d32adaedbe",
+      "seen_at": "2026-10-02T16:01:46.675451+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abfbba60e027c0f3b39daba",
+      "seen_at": "2026-10-02T16:01:46.676416+00:00"
+    },
+    {
+      "id": "jobright-da36f935fa4a",
+      "seen_at": "2026-10-02T16:01:46.677412+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abfba7e0e027c0f3b39da70",
+      "seen_at": "2026-10-02T16:01:46.678268+00:00"
+    },
+    {
+      "id": "jobright-1707b2a4b3cc",
+      "seen_at": "2026-10-02T16:01:46.679125+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abfb35b0e027c0f3b39d915",
+      "seen_at": "2026-10-02T16:01:46.679942+00:00"
+    },
+    {
+      "id": "jobright-586fabe5ead1",
+      "seen_at": "2026-10-02T16:01:46.680756+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abfb35ad9621c5b283940fa",
+      "seen_at": "2026-10-02T16:01:46.681542+00:00"
     }
   ],
-  "last_run": "2026-10-02T15:31:13.461114+00:00",
-  "total_notified": 7843,
+  "last_run": "2026-10-02T16:01:46.921652+00:00",
+  "total_notified": 7852,
   "channels": {
     "pm-jobs": [
       "hn-49528405",
@@ -63039,7 +63111,15 @@
       "zapply-26d35c7f1c81",
       "url:https://zapply.jobs/l/d/lever-rover-09916cb0-3e1b-47c4-9a7a-eaa4e554c3c2",
       "greenhouse-figma-6211910004",
-      "url:https://boards.greenhouse.io/figma/jobs/6211910004"
+      "url:https://boards.greenhouse.io/figma/jobs/6211910004",
+      "jobright-d0d32adaedbe",
+      "url:https://jobright.ai/jobs/info/6abfbba60e027c0f3b39daba",
+      "jobright-da36f935fa4a",
+      "url:https://jobright.ai/jobs/info/6abfba7e0e027c0f3b39da70",
+      "jobright-1707b2a4b3cc",
+      "url:https://jobright.ai/jobs/info/6abfb35b0e027c0f3b39d915",
+      "jobright-586fabe5ead1",
+      "url:https://jobright.ai/jobs/info/6abfb35ad9621c5b283940fa"
     ],
     "swe-ai-full-time": [
       "hn-49539168",
@@ -76278,7 +76358,17 @@
       "zapply-149e3175e780",
       "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4702238006",
       "amazon-10567881",
-      "url:https://www.amazon.jobs/en/jobs/10567881/sde-aws-opensearch-service-opensearch"
+      "url:https://www.amazon.jobs/en/jobs/10567881/sde-aws-opensearch-service-opensearch",
+      "zapply-caf1842b5a74",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024992",
+      "zapply-b5225dcd2290",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024295",
+      "zapply-61ea6b97e7ce",
+      "url:https://zapply.jobs/l/d/workday-jll-jllcareers-REQ540083",
+      "jobright-81e03d14b613",
+      "url:https://jobright.ai/jobs/info/6abfbf87064da25272e05a7d",
+      "jobright-70daead66449",
+      "url:https://jobright.ai/jobs/info/6abfb770d9621c5b283941d5"
     ]
   }
 }
