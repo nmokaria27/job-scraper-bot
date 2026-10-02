@@ -61535,10 +61535,122 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abffaef0e027c0f3b39f1d2",
       "seen_at": "2026-10-02T20:57:33.127999+00:00"
+    },
+    {
+      "id": "zapply-51001f11aee8",
+      "seen_at": "2026-10-02T21:31:16.552391+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2131558",
+      "seen_at": "2026-10-02T21:31:16.553655+00:00"
+    },
+    {
+      "id": "zapply-eef4cc212901",
+      "seen_at": "2026-10-02T21:31:16.554704+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35408",
+      "seen_at": "2026-10-02T21:31:16.555689+00:00"
+    },
+    {
+      "id": "zapply-f847ab1108bc",
+      "seen_at": "2026-10-02T21:31:16.556672+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35409",
+      "seen_at": "2026-10-02T21:31:16.557635+00:00"
+    },
+    {
+      "id": "zapply-9d8d362b4996",
+      "seen_at": "2026-10-02T21:31:16.558604+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-avav-avav-8956",
+      "seen_at": "2026-10-02T21:31:16.559557+00:00"
+    },
+    {
+      "id": "zapply-29eb57ee51ca",
+      "seen_at": "2026-10-02T21:31:16.560507+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amd-93135",
+      "seen_at": "2026-10-02T21:31:16.561457+00:00"
+    },
+    {
+      "id": "zapply-74d0ca4ee950",
+      "seen_at": "2026-10-02T21:31:16.562404+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4717113006",
+      "seen_at": "2026-10-02T21:31:16.563354+00:00"
+    },
+    {
+      "id": "zapply-5145ed3df135",
+      "seen_at": "2026-10-02T21:31:16.564300+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200687064",
+      "seen_at": "2026-10-02T21:31:16.565253+00:00"
+    },
+    {
+      "id": "zapply-5cc49101d36c",
+      "seen_at": "2026-10-02T21:31:16.566212+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-cloudflare-8248635",
+      "seen_at": "2026-10-02T21:31:16.567216+00:00"
+    },
+    {
+      "id": "zapply-f879287b7b0c",
+      "seen_at": "2026-10-02T21:31:16.568163+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-applied-8e420371-fb1f-4d5e-b2e2-26bd10b6389c",
+      "seen_at": "2026-10-02T21:31:16.569105+00:00"
+    },
+    {
+      "id": "zapply-a326a493b6ca",
+      "seen_at": "2026-10-02T21:31:16.570037+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-matchgroup-32b18f00-af1a-4067-ad7d-9cba43711d2e",
+      "seen_at": "2026-10-02T21:31:16.571058+00:00"
+    },
+    {
+      "id": "zapply-0543d8ae98bd",
+      "seen_at": "2026-10-02T21:31:16.571997+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-56258d77-a4fd-4067-9295-efc6a7454227",
+      "seen_at": "2026-10-02T21:31:16.572943+00:00"
+    },
+    {
+      "id": "zapply-3b3ba1f7fd8b",
+      "seen_at": "2026-10-02T21:31:16.573892+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/bytedance-7623552015124154629",
+      "seen_at": "2026-10-02T21:31:16.574847+00:00"
+    },
+    {
+      "id": "zapply-87ad5d91a9e7",
+      "seen_at": "2026-10-02T21:31:18.623042+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266683",
+      "seen_at": "2026-10-02T21:31:18.624150+00:00"
+    },
+    {
+      "id": "amazon-10568327",
+      "seen_at": "2026-10-02T21:31:18.625075+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10568327/technical-program-manager-tech-deployment-systems-integration",
+      "seen_at": "2026-10-02T21:31:18.625959+00:00"
     }
   ],
-  "last_run": "2026-10-02T21:01:17.514594+00:00",
-  "total_notified": 7912,
+  "last_run": "2026-10-02T21:31:19.047737+00:00",
+  "total_notified": 7926,
   "channels": {
     "pm-jobs": [
       "jobright-3705813db3ec",
@@ -63477,7 +63589,11 @@
       "zapply-a33594cf48aa",
       "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142848",
       "ashby-openai-fe7039ce-51e2-4cfa-9ea5-507eb7a0eee1",
-      "url:https://jobs.ashbyhq.com/openai/fe7039ce-51e2-4cfa-9ea5-507eb7a0eee1"
+      "url:https://jobs.ashbyhq.com/openai/fe7039ce-51e2-4cfa-9ea5-507eb7a0eee1",
+      "zapply-87ad5d91a9e7",
+      "url:https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266683",
+      "amazon-10568327",
+      "url:https://www.amazon.jobs/en/jobs/10568327/technical-program-manager-tech-deployment-systems-integration"
     ],
     "swe-ai-full-time": [
       "ashby-openai-29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
@@ -76824,7 +76940,31 @@
       "jobright-6956d9ecdaba",
       "url:https://jobright.ai/jobs/info/6abffaf18ff3fb9b3bc79fad",
       "jobright-38b11cc474fe",
-      "url:https://jobright.ai/jobs/info/6abffaef0e027c0f3b39f1d2"
+      "url:https://jobright.ai/jobs/info/6abffaef0e027c0f3b39f1d2",
+      "zapply-51001f11aee8",
+      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2131558",
+      "zapply-eef4cc212901",
+      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35408",
+      "zapply-f847ab1108bc",
+      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35409",
+      "zapply-9d8d362b4996",
+      "url:https://zapply.jobs/l/d/workday-avav-avav-8956",
+      "zapply-29eb57ee51ca",
+      "url:https://zapply.jobs/l/d/amd-93135",
+      "zapply-74d0ca4ee950",
+      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4717113006",
+      "zapply-5145ed3df135",
+      "url:https://zapply.jobs/l/d/apple-200687064",
+      "zapply-5cc49101d36c",
+      "url:https://zapply.jobs/l/d/greenhouse-cloudflare-8248635",
+      "zapply-f879287b7b0c",
+      "url:https://zapply.jobs/l/d/ashby-applied-8e420371-fb1f-4d5e-b2e2-26bd10b6389c",
+      "zapply-a326a493b6ca",
+      "url:https://zapply.jobs/l/d/lever-matchgroup-32b18f00-af1a-4067-ad7d-9cba43711d2e",
+      "zapply-0543d8ae98bd",
+      "url:https://zapply.jobs/l/d/amazon-56258d77-a4fd-4067-9295-efc6a7454227",
+      "zapply-3b3ba1f7fd8b",
+      "url:https://zapply.jobs/l/d/bytedance-7623552015124154629"
     ]
   }
 }
