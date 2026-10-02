@@ -61171,10 +61171,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abfb35ad9621c5b283940fa",
       "seen_at": "2026-10-02T16:01:46.681542+00:00"
+    },
+    {
+      "id": "ashby-cerebras-89ed36d3-d7e4-4c41-b466-2e39a30a84f4",
+      "seen_at": "2026-10-02T16:15:15.917439+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cerebras/89ed36d3-d7e4-4c41-b466-2e39a30a84f4",
+      "seen_at": "2026-10-02T16:15:15.918674+00:00"
+    },
+    {
+      "id": "amazon-10567978",
+      "seen_at": "2026-10-02T16:15:15.919670+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10567978/applied-scientist-north-america-sort-centers-amazon-transportation-services",
+      "seen_at": "2026-10-02T16:15:15.920589+00:00"
     }
   ],
-  "last_run": "2026-10-02T16:01:46.921652+00:00",
-  "total_notified": 7852,
+  "last_run": "2026-10-02T16:15:17.239956+00:00",
+  "total_notified": 7854,
   "channels": {
     "pm-jobs": [
       "hn-49528405",
@@ -76368,7 +76384,11 @@
       "jobright-81e03d14b613",
       "url:https://jobright.ai/jobs/info/6abfbf87064da25272e05a7d",
       "jobright-70daead66449",
-      "url:https://jobright.ai/jobs/info/6abfb770d9621c5b283941d5"
+      "url:https://jobright.ai/jobs/info/6abfb770d9621c5b283941d5",
+      "ashby-cerebras-89ed36d3-d7e4-4c41-b466-2e39a30a84f4",
+      "url:https://jobs.ashbyhq.com/cerebras/89ed36d3-d7e4-4c41-b466-2e39a30a84f4",
+      "amazon-10567978",
+      "url:https://www.amazon.jobs/en/jobs/10567978/applied-scientist-north-america-sort-centers-amazon-transportation-services"
     ]
   }
 }
