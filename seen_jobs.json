@@ -61003,10 +61003,50 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10567759/applied-scientist-fauna",
       "seen_at": "2026-10-02T13:31:32.193372+00:00"
+    },
+    {
+      "id": "zapply-37419de7c1a1",
+      "seen_at": "2026-10-02T14:01:18.958102+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-clickhouse-962f45f3-d8d3-4073-add2-af763f7c3ffb",
+      "seen_at": "2026-10-02T14:01:18.958932+00:00"
+    },
+    {
+      "id": "zapply-14157c75905b",
+      "seen_at": "2026-10-02T14:01:18.959684+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4717958006",
+      "seen_at": "2026-10-02T14:01:18.960415+00:00"
+    },
+    {
+      "id": "zapply-8da69213a645",
+      "seen_at": "2026-10-02T14:01:20.761755+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-broadridge-careers-JR1084119",
+      "seen_at": "2026-10-02T14:01:20.762425+00:00"
+    },
+    {
+      "id": "zapply-cc6bf986b41d",
+      "seen_at": "2026-10-02T14:01:20.763060+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-formlabs-8249069",
+      "seen_at": "2026-10-02T14:01:20.763680+00:00"
+    },
+    {
+      "id": "zapply-5e21cd58df71",
+      "seen_at": "2026-10-02T14:01:20.764292+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210795572",
+      "seen_at": "2026-10-02T14:01:20.764895+00:00"
     }
   ],
-  "last_run": "2026-10-02T13:31:33.079624+00:00",
-  "total_notified": 7831,
+  "last_run": "2026-10-02T14:01:20.999462+00:00",
+  "total_notified": 7836,
   "channels": {
     "pm-jobs": [
       "hn-49528405",
@@ -62931,7 +62971,13 @@
       "zapply-9804b221902d",
       "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR30900",
       "jobright-891886524374",
-      "url:https://jobright.ai/jobs/info/6aa3abf84233a2201a2b2cb2"
+      "url:https://jobright.ai/jobs/info/6aa3abf84233a2201a2b2cb2",
+      "zapply-8da69213a645",
+      "url:https://zapply.jobs/l/d/workday-broadridge-careers-JR1084119",
+      "zapply-cc6bf986b41d",
+      "url:https://zapply.jobs/l/d/greenhouse-formlabs-8249069",
+      "zapply-5e21cd58df71",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210795572"
     ],
     "swe-ai-full-time": [
       "hn-49539168",
@@ -76158,7 +76204,11 @@
       "zapply-1aade05bb686",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024550",
       "amazon-10567759",
-      "url:https://www.amazon.jobs/en/jobs/10567759/applied-scientist-fauna"
+      "url:https://www.amazon.jobs/en/jobs/10567759/applied-scientist-fauna",
+      "zapply-37419de7c1a1",
+      "url:https://zapply.jobs/l/d/ashby-clickhouse-962f45f3-d8d3-4073-add2-af763f7c3ffb",
+      "zapply-14157c75905b",
+      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4717958006"
     ]
   }
 }
