@@ -1,174 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-cbbf5921-5565-4f8b-9599-adde9125fde0",
-      "seen_at": "2026-09-02T04:17:03.493367+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/281921",
-      "seen_at": "2026-09-02T04:17:03.493892+00:00"
-    },
-    {
-      "id": "simplify-c0acbe3a-c2ed-42ea-a71d-eb9df423a1c4",
-      "seen_at": "2026-09-02T04:17:03.494371+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/281936",
-      "seen_at": "2026-09-02T04:17:03.494848+00:00"
-    },
-    {
-      "id": "simplify-84d2832d-f2be-4040-a7c8-6624a43f50fc",
-      "seen_at": "2026-09-02T04:17:03.495312+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/281940",
-      "seen_at": "2026-09-02T04:17:03.495818+00:00"
-    },
-    {
-      "id": "simplify-8b46d013-f73a-4d7b-bd75-7775fa71d342",
-      "seen_at": "2026-09-02T04:17:03.496289+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/282147",
-      "seen_at": "2026-09-02T04:17:03.496778+00:00"
-    },
-    {
-      "id": "simplify-ca0f0f67-5fd4-4b63-8b73-b7415915a10e",
-      "seen_at": "2026-09-02T04:17:05.030361+00:00"
-    },
-    {
-      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012956",
-      "seen_at": "2026-09-02T04:17:05.030868+00:00"
-    },
-    {
-      "id": "simplify-8e485f76-0130-4ad8-a850-a6489868c676",
-      "seen_at": "2026-09-02T04:17:12.138955+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/tebra/jobs/4726985005",
-      "seen_at": "2026-09-02T04:17:12.139536+00:00"
-    },
-    {
-      "id": "simplify-a6080c21-a844-48d7-bcc9-8a240ddd19e1",
-      "seen_at": "2026-09-02T04:17:12.140067+00:00"
-    },
-    {
-      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
-      "seen_at": "2026-09-02T04:17:12.140554+00:00"
-    },
-    {
-      "id": "simplify-3ac23f64-3bc0-4c25-b393-ae5479c685a1",
-      "seen_at": "2026-09-02T04:17:12.141061+00:00"
-    },
-    {
-      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012987",
-      "seen_at": "2026-09-02T04:17:12.141552+00:00"
-    },
-    {
-      "id": "simplify-a05f7ff0-b31a-4040-8bf7-7524f288eb14",
-      "seen_at": "2026-09-02T04:17:12.142051+00:00"
-    },
-    {
-      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012982",
-      "seen_at": "2026-09-02T04:17:12.142533+00:00"
-    },
-    {
-      "id": "simplify-6ae22f82-27b2-4c0b-8bb6-c2aba3e8af44",
-      "seen_at": "2026-09-02T04:17:12.143049+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/59902",
-      "seen_at": "2026-09-02T04:17:12.143526+00:00"
-    },
-    {
-      "id": "simplify-17f07991-3767-45b5-b4c0-6b1d4822464a",
-      "seen_at": "2026-09-02T04:17:12.144020+00:00"
-    },
-    {
-      "id": "url:https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Winter-2027/365230",
-      "seen_at": "2026-09-02T04:17:12.144499+00:00"
-    },
-    {
-      "id": "simplify-c817be26-7e13-4448-83f3-ca97e9b7a358",
-      "seen_at": "2026-09-02T04:17:12.144990+00:00"
-    },
-    {
-      "id": "url:https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Winter-2027/365228",
-      "seen_at": "2026-09-02T04:17:12.145464+00:00"
-    },
-    {
-      "id": "greenhouse-robinhood-7543003",
-      "seen_at": "2026-09-02T04:17:12.145954+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/robinhood/jobs/7543003",
-      "seen_at": "2026-09-02T04:17:12.146423+00:00"
-    },
-    {
-      "id": "simplify-2a48e05f-f557-488e-876c-eafef0801099",
-      "seen_at": "2026-09-02T08:49:43.032803+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/59883",
-      "seen_at": "2026-09-02T08:49:43.033449+00:00"
-    },
-    {
-      "id": "simplify-4c33b0d7-ab72-41f6-a429-46ce9f78dc99",
-      "seen_at": "2026-09-02T08:49:43.034027+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/cheiron/36763c16-8996-4c66-b693-d48329413678/application",
-      "seen_at": "2026-09-02T08:49:43.034579+00:00"
-    },
-    {
-      "id": "simplify-7aaac49e-1f3e-4bf1-bc5d-ab96593a7294",
-      "seen_at": "2026-09-02T08:49:49.065965+00:00"
-    },
-    {
-      "id": "url:https://careers-bluehawk.icims.com/jobs/2898/job",
-      "seen_at": "2026-09-02T08:49:49.066738+00:00"
-    },
-    {
-      "id": "simplify-bf8672d0-4cec-4ff8-bdf7-f2d1b7c62d18",
-      "seen_at": "2026-09-02T08:49:49.067273+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/59877",
-      "seen_at": "2026-09-02T08:49:49.067766+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8772602002",
-      "seen_at": "2026-09-02T08:49:49.068271+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8772602002",
-      "seen_at": "2026-09-02T08:49:49.068738+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8772592002",
-      "seen_at": "2026-09-02T08:49:49.069242+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8772592002",
-      "seen_at": "2026-09-02T08:49:49.069719+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8772594002",
-      "seen_at": "2026-09-02T08:49:49.070216+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8772594002",
-      "seen_at": "2026-09-02T08:49:49.070682+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8772571002",
-      "seen_at": "2026-09-02T08:49:49.071163+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8772571002",
-      "seen_at": "2026-09-02T08:49:49.071643+00:00"
-    },
-    {
       "id": "simplify-a3985ea3-6b46-4283-ad5c-a7701cb38169",
       "seen_at": "2026-09-02T12:59:49.527770+00:00"
     },
@@ -61099,14 +60931,68 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5439391008",
       "seen_at": "2026-10-02T03:31:11.857862+00:00"
+    },
+    {
+      "id": "simplify-169846aa-cf8c-463a-9721-b9826b79a129",
+      "seen_at": "2026-10-02T10:01:18.333554+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
+      "seen_at": "2026-10-02T10:01:18.334660+00:00"
+    },
+    {
+      "id": "zapply-594f3bdbfa70",
+      "seen_at": "2026-10-02T10:01:18.335682+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-botauto-5441690008",
+      "seen_at": "2026-10-02T10:01:18.336637+00:00"
+    },
+    {
+      "id": "jobright-c341d15c17e9",
+      "seen_at": "2026-10-02T10:01:18.337564+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abee648d9621c5b2839245d",
+      "seen_at": "2026-10-02T10:01:18.338603+00:00"
+    },
+    {
+      "id": "applyguy-3a280089-2bd8-494a-b78e-0de5ad399e1d",
+      "seen_at": "2026-10-02T10:01:18.339559+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
+      "seen_at": "2026-10-02T10:01:18.340488+00:00"
+    },
+    {
+      "id": "zapply-f2ed722b55c2",
+      "seen_at": "2026-10-02T10:01:20.392640+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-anthropic-5439391008",
+      "seen_at": "2026-10-02T10:01:20.393516+00:00"
+    },
+    {
+      "id": "zapply-cac95a64fdc4",
+      "seen_at": "2026-10-02T10:01:20.394372+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31389",
+      "seen_at": "2026-10-02T10:01:20.395194+00:00"
+    },
+    {
+      "id": "zapply-9804b221902d",
+      "seen_at": "2026-10-02T10:01:20.396035+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR30900",
+      "seen_at": "2026-10-02T10:01:20.396845+00:00"
     }
   ],
-  "last_run": "2026-10-02T03:31:12.041625+00:00",
-  "total_notified": 7818,
+  "last_run": "2026-10-02T10:01:20.670140+00:00",
+  "total_notified": 7825,
   "channels": {
     "pm-jobs": [
-      "simplify-ca0f0f67-5fd4-4b63-8b73-b7415915a10e",
-      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012956",
       "jobright-f20271430646",
       "url:https://jobright.ai/jobs/info/6a97aca5408304609c16deea",
       "jobright-8e1ce71a6d9c",
@@ -63025,37 +62911,15 @@
       "jobright-cc0d2f30b9f0",
       "url:https://jobright.ai/jobs/info/6abeac37064da25272e02119",
       "greenhouse-anthropic-5439391008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5439391008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5439391008",
+      "zapply-f2ed722b55c2",
+      "url:https://zapply.jobs/l/d/greenhouse-anthropic-5439391008",
+      "zapply-cac95a64fdc4",
+      "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31389",
+      "zapply-9804b221902d",
+      "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR30900"
     ],
     "swe-ai-full-time": [
-      "simplify-8e485f76-0130-4ad8-a850-a6489868c676",
-      "url:https://job-boards.greenhouse.io/tebra/jobs/4726985005",
-      "simplify-a6080c21-a844-48d7-bcc9-8a240ddd19e1",
-      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
-      "simplify-3ac23f64-3bc0-4c25-b393-ae5479c685a1",
-      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012987",
-      "simplify-a05f7ff0-b31a-4040-8bf7-7524f288eb14",
-      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012982",
-      "simplify-6ae22f82-27b2-4c0b-8bb6-c2aba3e8af44",
-      "url:https://careers.jhuapl.edu/jobs/59902",
-      "simplify-17f07991-3767-45b5-b4c0-6b1d4822464a",
-      "url:https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Winter-2027/365230",
-      "simplify-c817be26-7e13-4448-83f3-ca97e9b7a358",
-      "url:https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Winter-2027/365228",
-      "greenhouse-robinhood-7543003",
-      "url:https://boards.greenhouse.io/robinhood/jobs/7543003",
-      "simplify-7aaac49e-1f3e-4bf1-bc5d-ab96593a7294",
-      "url:https://careers-bluehawk.icims.com/jobs/2898/job",
-      "simplify-bf8672d0-4cec-4ff8-bdf7-f2d1b7c62d18",
-      "url:https://careers.jhuapl.edu/jobs/59877",
-      "greenhouse-lyft-8772602002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8772602002",
-      "greenhouse-lyft-8772592002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8772592002",
-      "greenhouse-lyft-8772594002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8772594002",
-      "greenhouse-lyft-8772571002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8772571002",
       "hn-49539168",
       "url:https://news.ycombinator.com/item",
       "greenhouse-discord-8396927002",
@@ -76262,7 +76126,15 @@
       "zapply-01e3f9e92f91",
       "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30291",
       "zapply-bfc350d81e80",
-      "url:https://zapply.jobs/l/d/workday-selinc-sel-2026-21862"
+      "url:https://zapply.jobs/l/d/workday-selinc-sel-2026-21862",
+      "simplify-169846aa-cf8c-463a-9721-b9826b79a129",
+      "url:https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
+      "zapply-594f3bdbfa70",
+      "url:https://zapply.jobs/l/d/greenhouse-botauto-5441690008",
+      "jobright-c341d15c17e9",
+      "url:https://jobright.ai/jobs/info/6abee648d9621c5b2839245d",
+      "applyguy-3a280089-2bd8-494a-b78e-0de5ad399e1d",
+      "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083"
     ]
   }
 }
