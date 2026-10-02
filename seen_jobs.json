@@ -61487,10 +61487,58 @@
     {
       "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8250125",
       "seen_at": "2026-10-02T20:31:15.457361+00:00"
+    },
+    {
+      "id": "jobright-d7c9af688d54",
+      "seen_at": "2026-10-02T20:57:33.117314+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac00683d9621c5b28395e7f",
+      "seen_at": "2026-10-02T20:57:33.118368+00:00"
+    },
+    {
+      "id": "jobright-e584a6b1533b",
+      "seen_at": "2026-10-02T20:57:33.119413+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abffb1ad9621c5b28395a24",
+      "seen_at": "2026-10-02T20:57:33.120352+00:00"
+    },
+    {
+      "id": "jobright-3a3314e88953",
+      "seen_at": "2026-10-02T20:57:33.121377+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abffb0dd9621c5b28395a1a",
+      "seen_at": "2026-10-02T20:57:33.122317+00:00"
+    },
+    {
+      "id": "jobright-8c85b634175f",
+      "seen_at": "2026-10-02T20:57:33.123281+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abffb0ad9621c5b28395a15",
+      "seen_at": "2026-10-02T20:57:33.124233+00:00"
+    },
+    {
+      "id": "jobright-6956d9ecdaba",
+      "seen_at": "2026-10-02T20:57:33.125196+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abffaf18ff3fb9b3bc79fad",
+      "seen_at": "2026-10-02T20:57:33.126132+00:00"
+    },
+    {
+      "id": "jobright-38b11cc474fe",
+      "seen_at": "2026-10-02T20:57:33.127074+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abffaef0e027c0f3b39f1d2",
+      "seen_at": "2026-10-02T20:57:33.127999+00:00"
     }
   ],
-  "last_run": "2026-10-02T20:31:16.829299+00:00",
-  "total_notified": 7906,
+  "last_run": "2026-10-02T20:57:34.457987+00:00",
+  "total_notified": 7912,
   "channels": {
     "pm-jobs": [
       "jobright-3705813db3ec",
@@ -76764,7 +76812,19 @@
       "amazon-10568253",
       "url:https://www.amazon.jobs/en/jobs/10568253/software-dev-mgr-ml-infrastructure-edge-ai-platform",
       "greenhouse-reddit-8250125",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8250125"
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8250125",
+      "jobright-d7c9af688d54",
+      "url:https://jobright.ai/jobs/info/6ac00683d9621c5b28395e7f",
+      "jobright-e584a6b1533b",
+      "url:https://jobright.ai/jobs/info/6abffb1ad9621c5b28395a24",
+      "jobright-3a3314e88953",
+      "url:https://jobright.ai/jobs/info/6abffb0dd9621c5b28395a1a",
+      "jobright-8c85b634175f",
+      "url:https://jobright.ai/jobs/info/6abffb0ad9621c5b28395a15",
+      "jobright-6956d9ecdaba",
+      "url:https://jobright.ai/jobs/info/6abffaf18ff3fb9b3bc79fad",
+      "jobright-38b11cc474fe",
+      "url:https://jobright.ai/jobs/info/6abffaef0e027c0f3b39f1d2"
     ]
   }
 }
