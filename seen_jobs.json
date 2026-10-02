@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-3705813db3ec",
-      "seen_at": "2026-09-02T22:00:41.322151+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a98727683fc6333576319e5",
-      "seen_at": "2026-09-02T22:00:41.322672+00:00"
-    },
-    {
-      "id": "jobright-f20d582d802e",
-      "seen_at": "2026-09-02T22:00:41.323134+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a85dc0074e02153f1458d9d",
-      "seen_at": "2026-09-02T22:00:41.323592+00:00"
-    },
-    {
-      "id": "jobright-4aff3c45f4b1",
-      "seen_at": "2026-09-02T22:00:41.324034+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9834bbdd171c7285790bac",
-      "seen_at": "2026-09-02T22:00:41.324487+00:00"
-    },
-    {
-      "id": "ashby-openai-29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
-      "seen_at": "2026-09-02T22:00:44.392763+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
-      "seen_at": "2026-09-02T22:00:44.393308+00:00"
-    },
-    {
-      "id": "ashby-openai-1bf678c5-1058-45ca-b9bd-b0029fccd60e",
-      "seen_at": "2026-09-02T22:00:44.393832+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e",
-      "seen_at": "2026-09-02T22:00:44.394311+00:00"
-    },
-    {
       "id": "ashby-openai-58c28108-5bc6-449d-8461-9274f5abd7e6",
       "seen_at": "2026-09-03T00:03:00.583366+00:00"
     },
@@ -61671,18 +61631,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac00da2064da25272e07786",
       "seen_at": "2026-10-02T22:01:17.968549+00:00"
+    },
+    {
+      "id": "ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097",
+      "seen_at": "2026-10-02T22:31:11.133003+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097",
+      "seen_at": "2026-10-02T22:31:11.133924+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR351508",
+      "seen_at": "2026-10-02T22:31:11.134842+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
+      "seen_at": "2026-10-02T22:31:11.135681+00:00"
     }
   ],
-  "last_run": "2026-10-02T22:01:18.235893+00:00",
-  "total_notified": 7929,
+  "last_run": "2026-10-02T22:31:11.320833+00:00",
+  "total_notified": 7931,
   "channels": {
     "pm-jobs": [
-      "jobright-3705813db3ec",
-      "url:https://jobright.ai/jobs/info/6a98727683fc6333576319e5",
-      "jobright-f20d582d802e",
-      "url:https://jobright.ai/jobs/info/6a85dc0074e02153f1458d9d",
-      "jobright-4aff3c45f4b1",
-      "url:https://jobright.ai/jobs/info/6a9834bbdd171c7285790bac",
       "ashby-openai-58c28108-5bc6-449d-8461-9274f5abd7e6",
       "url:https://jobs.ashbyhq.com/openai/58c28108-5bc6-449d-8461-9274f5abd7e6",
       "ashby-openai-ad958934-fd89-4033-8b13-1a4871d8073c",
@@ -63619,13 +63589,13 @@
       "amazon-10568327",
       "url:https://www.amazon.jobs/en/jobs/10568327/technical-program-manager-tech-deployment-systems-integration",
       "jobright-0553bb36ee77",
-      "url:https://jobright.ai/jobs/info/6ac00da2064da25272e07786"
+      "url:https://jobright.ai/jobs/info/6ac00da2064da25272e07786",
+      "ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097",
+      "url:https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097",
+      "workday-salesforce-JR351508",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
-      "url:https://jobs.ashbyhq.com/openai/29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
-      "ashby-openai-1bf678c5-1058-45ca-b9bd-b0029fccd60e",
-      "url:https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e",
       "ashby-openai-c442eab0-b8b4-40f6-b0f2-0fc91aea294a",
       "url:https://jobs.ashbyhq.com/openai/c442eab0-b8b4-40f6-b0f2-0fc91aea294a",
       "simplify-d7ff0340-92fe-4508-b930-cd88bf08f010",
