@@ -60939,10 +60939,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-blackstone-bx-external-site-29129",
       "seen_at": "2026-10-02T00:31:17.681354+00:00"
+    },
+    {
+      "id": "applyguy-31e9b1d3-c472-49ba-9086-a4fac7caabd0",
+      "seen_at": "2026-10-02T01:01:26.041043+00:00"
+    },
+    {
+      "id": "url:https://truist.wd1.myworkdayjobs.com/careers/job/Richmond-VA/Associate-Software-Engineer--Python---Data-Analytics_R0119972",
+      "seen_at": "2026-10-02T01:01:26.041850+00:00"
+    },
+    {
+      "id": "jobright-b20974acb80e",
+      "seen_at": "2026-10-02T01:01:26.042587+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abee0e6372c01f6cd726581",
+      "seen_at": "2026-10-02T01:01:26.043283+00:00"
     }
   ],
-  "last_run": "2026-10-02T00:31:19.233303+00:00",
-  "total_notified": 7798,
+  "last_run": "2026-10-02T01:01:32.398155+00:00",
+  "total_notified": 7800,
   "channels": {
     "pm-jobs": [
       "simplify-ca0f0f67-5fd4-4b63-8b73-b7415915a10e",
@@ -76062,7 +76078,11 @@
       "zapply-720398a11da4",
       "url:https://zapply.jobs/l/d/greenhouse-earnin-8243705",
       "amazon-10567394",
-      "url:https://www.amazon.jobs/en/jobs/10567394/software-development-engineer-aws-service-quotas"
+      "url:https://www.amazon.jobs/en/jobs/10567394/software-development-engineer-aws-service-quotas",
+      "applyguy-31e9b1d3-c472-49ba-9086-a4fac7caabd0",
+      "url:https://truist.wd1.myworkdayjobs.com/careers/job/Richmond-VA/Associate-Software-Engineer--Python---Data-Analytics_R0119972",
+      "jobright-b20974acb80e",
+      "url:https://jobright.ai/jobs/info/6abee0e6372c01f6cd726581"
     ]
   }
 }
