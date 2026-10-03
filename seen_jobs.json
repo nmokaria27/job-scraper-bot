@@ -1,470 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-d7ff0340-92fe-4508-b930-cd88bf08f010",
-      "seen_at": "2026-09-03T04:12:51.452863+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/59882",
-      "seen_at": "2026-09-03T04:12:51.453445+00:00"
-    },
-    {
-      "id": "simplify-5c9bd73e-6b9a-47ce-ac2f-8fc9d5d38bf7",
-      "seen_at": "2026-09-03T04:12:51.453982+00:00"
-    },
-    {
-      "id": "url:https://careers.rivian.com/jobs/30795",
-      "seen_at": "2026-09-03T04:12:51.454486+00:00"
-    },
-    {
-      "id": "simplify-f4b5ad30-b50a-410a-bf80-36fad0275497",
-      "seen_at": "2026-09-03T08:59:13.008896+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2/application",
-      "seen_at": "2026-09-03T08:59:13.009434+00:00"
-    },
-    {
-      "id": "simplify-6f3a77be-dd63-4de2-a8dd-80babbfaecac",
-      "seen_at": "2026-09-03T08:59:13.009910+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b/application",
-      "seen_at": "2026-09-03T08:59:13.010361+00:00"
-    },
-    {
-      "id": "simplify-eb02dd97-b6c6-4dbc-94d3-d7db278bf381",
-      "seen_at": "2026-09-03T08:59:13.010827+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/4966/job",
-      "seen_at": "2026-09-03T08:59:13.011277+00:00"
-    },
-    {
-      "id": "simplify-de7763b4-1647-4cc9-8b46-9c559a58c510",
-      "seen_at": "2026-09-03T08:59:13.011738+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/4960/job",
-      "seen_at": "2026-09-03T08:59:13.012325+00:00"
-    },
-    {
-      "id": "simplify-fa0384db-18b6-4394-a8d1-afd89c2d9fc4",
-      "seen_at": "2026-09-03T08:59:13.012918+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/4955/job",
-      "seen_at": "2026-09-03T08:59:13.013381+00:00"
-    },
-    {
-      "id": "simplify-aad50edd-1a3f-41b5-b3c1-d444e1c77fa0",
-      "seen_at": "2026-09-03T08:59:13.013863+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/4971/job",
-      "seen_at": "2026-09-03T08:59:13.014304+00:00"
-    },
-    {
-      "id": "simplify-62b070f3-36f8-45af-8694-3c1417f363aa",
-      "seen_at": "2026-09-03T08:59:13.014764+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/4982/job",
-      "seen_at": "2026-09-03T08:59:13.015210+00:00"
-    },
-    {
-      "id": "simplify-1d106df7-acfd-4514-9ccd-c00e9d70d3d9",
-      "seen_at": "2026-09-03T08:59:13.015668+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/4995/job",
-      "seen_at": "2026-09-03T08:59:13.016113+00:00"
-    },
-    {
-      "id": "simplify-d9dfbdc8-c094-4676-99ce-4f1cb9346b62",
-      "seen_at": "2026-09-03T08:59:13.016640+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/4976/job",
-      "seen_at": "2026-09-03T08:59:13.017087+00:00"
-    },
-    {
-      "id": "simplify-9a6bfc62-3b30-4eb9-ae60-710c5f62d722",
-      "seen_at": "2026-09-03T08:59:13.017549+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/5020/job",
-      "seen_at": "2026-09-03T08:59:13.017992+00:00"
-    },
-    {
-      "id": "simplify-80bc2f39-e660-4691-aa38-68acbd7b9e84",
-      "seen_at": "2026-09-03T08:59:13.018453+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/4996/job",
-      "seen_at": "2026-09-03T08:59:13.018896+00:00"
-    },
-    {
-      "id": "simplify-10891019-b6b2-42dd-acd2-980b3b6cd2dc",
-      "seen_at": "2026-09-03T08:59:13.019338+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/4973/job",
-      "seen_at": "2026-09-03T08:59:13.019790+00:00"
-    },
-    {
-      "id": "simplify-052aae75-1cb8-41e7-9062-f49eac2a2fd6",
-      "seen_at": "2026-09-03T08:59:13.020231+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/4964/job",
-      "seen_at": "2026-09-03T08:59:13.020683+00:00"
-    },
-    {
-      "id": "simplify-27e893cb-896a-4fd1-805b-a43fbb5f89f9",
-      "seen_at": "2026-09-03T08:59:13.021123+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/5017/job",
-      "seen_at": "2026-09-03T08:59:13.021575+00:00"
-    },
-    {
-      "id": "simplify-acb5e18d-829f-4144-8ea5-fca50848a80b",
-      "seen_at": "2026-09-03T08:59:13.022031+00:00"
-    },
-    {
-      "id": "url:https://careers.amd.com/jobs/90743",
-      "seen_at": "2026-09-03T08:59:13.022485+00:00"
-    },
-    {
-      "id": "simplify-003db965-cd46-4168-86e9-a83f8b4fa825",
-      "seen_at": "2026-09-03T08:59:13.022925+00:00"
-    },
-    {
-      "id": "url:https://careers.amd.com/jobs/90745",
-      "seen_at": "2026-09-03T08:59:13.023364+00:00"
-    },
-    {
-      "id": "simplify-6e3c0adb-d5a0-4338-84f4-8952eff0c717",
-      "seen_at": "2026-09-03T08:59:13.023818+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/282227",
-      "seen_at": "2026-09-03T08:59:13.024257+00:00"
-    },
-    {
-      "id": "simplify-426b172d-0484-4838-80d6-08e3d84a357e",
-      "seen_at": "2026-09-03T08:59:13.024715+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/282241",
-      "seen_at": "2026-09-03T08:59:13.025176+00:00"
-    },
-    {
-      "id": "simplify-e4814955-4e90-400b-9335-a3ab04843a7b",
-      "seen_at": "2026-09-03T08:59:13.025631+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/282242",
-      "seen_at": "2026-09-03T08:59:13.026072+00:00"
-    },
-    {
-      "id": "simplify-4866cbcf-d67b-4afa-b4df-3d028fbae980",
-      "seen_at": "2026-09-03T08:59:13.026525+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/282248",
-      "seen_at": "2026-09-03T08:59:13.026964+00:00"
-    },
-    {
-      "id": "simplify-e6cdaee5-3eef-435f-bda6-5a0850011909",
-      "seen_at": "2026-09-03T08:59:13.027420+00:00"
-    },
-    {
-      "id": "url:https://jobs.apple.com/en-us/details/200681368",
-      "seen_at": "2026-09-03T08:59:13.027859+00:00"
-    },
-    {
-      "id": "simplify-43841eec-e864-4974-9040-b082631ecd4c",
-      "seen_at": "2026-09-03T08:59:13.028301+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/282291",
-      "seen_at": "2026-09-03T08:59:13.028757+00:00"
-    },
-    {
-      "id": "simplify-de8cb307-6829-4afa-8e31-0fefe60818e7",
-      "seen_at": "2026-09-03T08:59:13.029224+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/282303",
-      "seen_at": "2026-09-03T08:59:13.029696+00:00"
-    },
-    {
-      "id": "simplify-d9696ea6-f208-467f-a8df-f2c2afb5b120",
-      "seen_at": "2026-09-03T08:59:13.030149+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584/application",
-      "seen_at": "2026-09-03T08:59:13.030629+00:00"
-    },
-    {
-      "id": "simplify-ad9376a4-7196-4ce6-a3b4-e88763b96811",
-      "seen_at": "2026-09-03T08:59:13.031081+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application",
-      "seen_at": "2026-09-03T08:59:13.031554+00:00"
-    },
-    {
-      "id": "simplify-8028ea71-392c-4173-9d2a-1dc31c5a4571",
-      "seen_at": "2026-09-03T08:59:13.032153+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application",
-      "seen_at": "2026-09-03T08:59:13.032633+00:00"
-    },
-    {
-      "id": "simplify-3fe64406-339f-454d-9e28-25a6d610d285",
-      "seen_at": "2026-09-03T08:59:13.033094+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/lunarenergy/jobs/6179736004",
-      "seen_at": "2026-09-03T08:59:13.033558+00:00"
-    },
-    {
-      "id": "simplify-7a74c2ea-0373-4933-9cde-8b4f1a84218e",
-      "seen_at": "2026-09-03T08:59:13.034007+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017546",
-      "seen_at": "2026-09-03T08:59:13.034465+00:00"
-    },
-    {
-      "id": "simplify-a8c72548-3b4a-47dd-aafb-2bd8ec5524d5",
-      "seen_at": "2026-09-03T08:59:13.034911+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017545",
-      "seen_at": "2026-09-03T08:59:13.035358+00:00"
-    },
-    {
-      "id": "simplify-a4885be4-c0d8-4714-bec6-11f1d0d763de",
-      "seen_at": "2026-09-03T08:59:13.035818+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017544",
-      "seen_at": "2026-09-03T08:59:13.036265+00:00"
-    },
-    {
-      "id": "simplify-9b863925-a24a-403b-982f-18403d027333",
-      "seen_at": "2026-09-03T08:59:13.036756+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017543",
-      "seen_at": "2026-09-03T08:59:13.037236+00:00"
-    },
-    {
-      "id": "simplify-599825f7-b453-45b1-870a-8ab037aefcb2",
-      "seen_at": "2026-09-03T08:59:13.037715+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017571",
-      "seen_at": "2026-09-03T08:59:13.038164+00:00"
-    },
-    {
-      "id": "simplify-25a04e72-1703-4ff5-ace6-4fe2129f5b27",
-      "seen_at": "2026-09-03T08:59:13.038625+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017547",
-      "seen_at": "2026-09-03T08:59:13.039071+00:00"
-    },
-    {
-      "id": "simplify-00a52ad4-067c-472b-a535-cacfc706483d",
-      "seen_at": "2026-09-03T08:59:13.039530+00:00"
-    },
-    {
-      "id": "url:https://careers.jhuapl.edu/jobs/59784",
-      "seen_at": "2026-09-03T08:59:13.039974+00:00"
-    },
-    {
-      "id": "simplify-031c6b44-ce56-408c-81b2-2f6074c1d1dd",
-      "seen_at": "2026-09-03T08:59:13.040445+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017548",
-      "seen_at": "2026-09-03T08:59:13.040892+00:00"
-    },
-    {
-      "id": "simplify-0eb42ce5-1545-42e1-b143-30809529deb0",
-      "seen_at": "2026-09-03T08:59:13.041342+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017568",
-      "seen_at": "2026-09-03T08:59:13.041804+00:00"
-    },
-    {
-      "id": "simplify-757e2c6b-9fbc-4427-862d-f87a0382bea0",
-      "seen_at": "2026-09-03T08:59:13.042264+00:00"
-    },
-    {
-      "id": "url:https://www.tesla.com/careers/search/job/281100",
-      "seen_at": "2026-09-03T08:59:13.042720+00:00"
-    },
-    {
-      "id": "simplify-7c176f66-e486-46f0-b9c9-5b651e4cf7cc",
-      "seen_at": "2026-09-03T08:59:13.043164+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application",
-      "seen_at": "2026-09-03T08:59:13.043633+00:00"
-    },
-    {
-      "id": "simplify-30c22ab2-c292-4f03-b2d9-800af01e875b",
-      "seen_at": "2026-09-03T08:59:17.642513+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/4990/job",
-      "seen_at": "2026-09-03T08:59:17.643027+00:00"
-    },
-    {
-      "id": "simplify-645b61ea-3bc4-432f-86af-7f6909ed5656",
-      "seen_at": "2026-09-03T08:59:17.643505+00:00"
-    },
-    {
-      "id": "url:https://careersus-shure.icims.com/jobs/5024/job",
-      "seen_at": "2026-09-03T08:59:17.643953+00:00"
-    },
-    {
-      "id": "simplify-82b82765-ac44-4015-94fc-97d512495e37",
-      "seen_at": "2026-09-03T08:59:17.644409+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7677493272788683013",
-      "seen_at": "2026-09-03T08:59:17.644849+00:00"
-    },
-    {
-      "id": "simplify-45f530d7-4c78-4402-8da1-8e54f5c4a245",
-      "seen_at": "2026-09-03T08:59:17.645288+00:00"
-    },
-    {
-      "id": "url:https://careers.roblox.com/jobs/8143981",
-      "seen_at": "2026-09-03T08:59:17.645742+00:00"
-    },
-    {
-      "id": "simplify-face01f2-48c1-40a1-a54e-8cff911ad58d",
-      "seen_at": "2026-09-03T08:59:17.646179+00:00"
-    },
-    {
-      "id": "url:https://careers.roblox.com/jobs/8143976",
-      "seen_at": "2026-09-03T08:59:17.646645+00:00"
-    },
-    {
-      "id": "simplify-4e7aba31-7df3-4efb-88c6-0121f6b68e6b",
-      "seen_at": "2026-09-03T08:59:29.280650+00:00"
-    },
-    {
-      "id": "url:https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10730",
-      "seen_at": "2026-09-03T08:59:29.281217+00:00"
-    },
-    {
-      "id": "simplify-f65480d4-ea80-40b5-8df9-f91ba3d8d535",
-      "seen_at": "2026-09-03T08:59:29.281766+00:00"
-    },
-    {
-      "id": "url:https://careers.viasat.com/jobs/6330",
-      "seen_at": "2026-09-03T08:59:29.282252+00:00"
-    },
-    {
-      "id": "simplify-551ab6e9-715d-4111-9de9-e888a5dd2718",
-      "seen_at": "2026-09-03T08:59:29.282747+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/andurilindustries/jobs/5228868007",
-      "seen_at": "2026-09-03T08:59:29.283219+00:00"
-    },
-    {
-      "id": "simplify-f4f63dfa-3cc3-4d63-bbe5-da2f63af5c94",
-      "seen_at": "2026-09-03T08:59:29.283708+00:00"
-    },
-    {
-      "id": "url:https://ats.rippling.com/lyte/jobs/6136b8d2-90a9-449e-94b2-716f30cf8e3a",
-      "seen_at": "2026-09-03T08:59:29.284179+00:00"
-    },
-    {
-      "id": "simplify-b70dd956-6085-4758-b5b8-1a3509421369",
-      "seen_at": "2026-09-03T08:59:29.284694+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application",
-      "seen_at": "2026-09-03T08:59:29.285168+00:00"
-    },
-    {
-      "id": "simplify-dd719782-2aa3-4a4b-831e-f3da699bf6a4",
-      "seen_at": "2026-09-03T08:59:29.285663+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847/application",
-      "seen_at": "2026-09-03T08:59:29.286135+00:00"
-    },
-    {
-      "id": "simplify-d9ab191f-a642-4db2-9b5d-d6e566d0a2b8",
-      "seen_at": "2026-09-03T08:59:29.286623+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application",
-      "seen_at": "2026-09-03T08:59:29.287094+00:00"
-    },
-    {
-      "id": "simplify-aaa3bc85-9d65-4c72-a3c0-656079d3aa4a",
-      "seen_at": "2026-09-03T08:59:29.287578+00:00"
-    },
-    {
-      "id": "url:https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000",
-      "seen_at": "2026-09-03T08:59:29.288050+00:00"
-    },
-    {
-      "id": "simplify-a929f668-d453-4ef2-9df1-9e972f0cfaa0",
-      "seen_at": "2026-09-03T08:59:29.288553+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017549",
-      "seen_at": "2026-09-03T08:59:29.289052+00:00"
-    },
-    {
-      "id": "simplify-47d45e6e-d2b7-40ad-a60d-8da2b1effc44",
-      "seen_at": "2026-09-03T08:59:29.289558+00:00"
-    },
-    {
-      "id": "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017551",
-      "seen_at": "2026-09-03T08:59:29.290037+00:00"
-    },
-    {
-      "id": "simplify-988e5175-a56f-4c3a-b1d9-3a643a63a503",
-      "seen_at": "2026-09-03T08:59:29.290530+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application",
-      "seen_at": "2026-09-03T08:59:29.291001+00:00"
-    },
-    {
-      "id": "simplify-894eb687-31ed-49f7-86c8-228331a4c092",
-      "seen_at": "2026-09-03T08:59:29.291490+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application",
-      "seen_at": "2026-09-03T08:59:29.291965+00:00"
-    },
-    {
-      "id": "ashby-openai-d2aad13c-6ed0-4905-ae12-8ea2397b190c",
-      "seen_at": "2026-09-03T08:59:29.292453+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c",
-      "seen_at": "2026-09-03T08:59:29.292925+00:00"
-    },
-    {
       "id": "simplify-0299ccd7-7dac-48cc-80eb-9e224cc78f08",
       "seen_at": "2026-09-03T17:09:14.192855+00:00"
     },
@@ -61951,22 +61487,92 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac036868ff3fb9b3bc7b637",
       "seen_at": "2026-10-03T03:01:13.459856+00:00"
+    },
+    {
+      "id": "ashby-openai-88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
+      "seen_at": "2026-10-03T10:01:12.553589+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
+      "seen_at": "2026-10-03T10:01:12.554693+00:00"
+    },
+    {
+      "id": "ashby-openai-b94099f6-8418-48b0-82b5-5953a27d636f",
+      "seen_at": "2026-10-03T10:01:12.555665+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/b94099f6-8418-48b0-82b5-5953a27d636f",
+      "seen_at": "2026-10-03T10:01:12.556616+00:00"
+    },
+    {
+      "id": "zapply-e8be6a6fad50",
+      "seen_at": "2026-10-03T10:01:12.557584+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025379",
+      "seen_at": "2026-10-03T10:01:12.558520+00:00"
+    },
+    {
+      "id": "zapply-02288529ad49",
+      "seen_at": "2026-10-03T10:01:12.559486+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-63a6c40e-317d-419a-8e8a-4ca9bcbe5a22",
+      "seen_at": "2026-10-03T10:01:12.560432+00:00"
+    },
+    {
+      "id": "jobright-0a6a8e3f0e2f",
+      "seen_at": "2026-10-03T10:01:12.561397+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac08e25372c01f6cd72c49c",
+      "seen_at": "2026-10-03T10:01:12.562348+00:00"
+    },
+    {
+      "id": "jobright-e43d27b386ec",
+      "seen_at": "2026-10-03T10:01:12.563308+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa3de63f3aa936e2cdae52c",
+      "seen_at": "2026-10-03T10:01:12.564253+00:00"
+    },
+    {
+      "id": "jobright-4406be35e715",
+      "seen_at": "2026-10-03T10:01:12.565211+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac05ef1064da25272e09147",
+      "seen_at": "2026-10-03T10:01:12.566157+00:00"
+    },
+    {
+      "id": "gradtracker-49030b66708f",
+      "seen_at": "2026-10-03T10:01:12.567121+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446718593091",
+      "seen_at": "2026-10-03T10:01:12.568060+00:00"
+    },
+    {
+      "id": "jobright-3091a3aef0df",
+      "seen_at": "2026-10-03T10:01:14.285161+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa3d08a626f9945308b3747",
+      "seen_at": "2026-10-03T10:01:14.286085+00:00"
+    },
+    {
+      "id": "jobright-e0800538aef3",
+      "seen_at": "2026-10-03T10:01:14.287021+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abfba7e0e027c0f3b39da6f",
+      "seen_at": "2026-10-03T10:01:14.287896+00:00"
     }
   ],
-  "last_run": "2026-10-03T03:31:10.351133+00:00",
-  "total_notified": 7972,
+  "last_run": "2026-10-03T10:01:14.468982+00:00",
+  "total_notified": 7982,
   "channels": {
     "pm-jobs": [
-      "simplify-30c22ab2-c292-4f03-b2d9-800af01e875b",
-      "url:https://careersus-shure.icims.com/jobs/4990/job",
-      "simplify-645b61ea-3bc4-432f-86af-7f6909ed5656",
-      "url:https://careersus-shure.icims.com/jobs/5024/job",
-      "simplify-82b82765-ac44-4015-94fc-97d512495e37",
-      "url:https://lifeattiktok.com/search/7677493272788683013",
-      "simplify-45f530d7-4c78-4402-8da1-8e54f5c4a245",
-      "url:https://careers.roblox.com/jobs/8143981",
-      "simplify-face01f2-48c1-40a1-a54e-8cff911ad58d",
-      "url:https://careers.roblox.com/jobs/8143976",
       "jobright-7fad3b457111",
       "url:https://jobright.ai/jobs/info/6a9608db3843db0159909201",
       "jobright-d542d12cbc83",
@@ -63915,39 +63521,13 @@
       "zapply-d57996a7956c",
       "url:https://zapply.jobs/l/d/greenhouse-spacex-8864991002",
       "jobright-5f25831b5d84",
-      "url:https://jobright.ai/jobs/info/6ac036868ff3fb9b3bc7b637"
+      "url:https://jobright.ai/jobs/info/6ac036868ff3fb9b3bc7b637",
+      "jobright-3091a3aef0df",
+      "url:https://jobright.ai/jobs/info/6aa3d08a626f9945308b3747",
+      "jobright-e0800538aef3",
+      "url:https://jobright.ai/jobs/info/6abfba7e0e027c0f3b39da6f"
     ],
     "swe-ai-full-time": [
-      "simplify-d7ff0340-92fe-4508-b930-cd88bf08f010",
-      "url:https://careers.jhuapl.edu/jobs/59882",
-      "simplify-5c9bd73e-6b9a-47ce-ac2f-8fc9d5d38bf7",
-      "url:https://careers.rivian.com/jobs/30795",
-      "simplify-4e7aba31-7df3-4efb-88c6-0121f6b68e6b",
-      "url:https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10730",
-      "simplify-f65480d4-ea80-40b5-8df9-f91ba3d8d535",
-      "url:https://careers.viasat.com/jobs/6330",
-      "simplify-551ab6e9-715d-4111-9de9-e888a5dd2718",
-      "url:https://boards.greenhouse.io/andurilindustries/jobs/5228868007",
-      "simplify-f4f63dfa-3cc3-4d63-bbe5-da2f63af5c94",
-      "url:https://ats.rippling.com/lyte/jobs/6136b8d2-90a9-449e-94b2-716f30cf8e3a",
-      "simplify-b70dd956-6085-4758-b5b8-1a3509421369",
-      "url:https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application",
-      "simplify-dd719782-2aa3-4a4b-831e-f3da699bf6a4",
-      "url:https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847/application",
-      "simplify-d9ab191f-a642-4db2-9b5d-d6e566d0a2b8",
-      "url:https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application",
-      "simplify-aaa3bc85-9d65-4c72-a3c0-656079d3aa4a",
-      "url:https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000",
-      "simplify-a929f668-d453-4ef2-9df1-9e972f0cfaa0",
-      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017549",
-      "simplify-47d45e6e-d2b7-40ad-a60d-8da2b1effc44",
-      "url:https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017551",
-      "simplify-988e5175-a56f-4c3a-b1d9-3a643a63a503",
-      "url:https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application",
-      "simplify-894eb687-31ed-49f7-86c8-228331a4c092",
-      "url:https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application",
-      "ashby-openai-d2aad13c-6ed0-4905-ae12-8ea2397b190c",
-      "url:https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c",
       "simplify-088f2658-1b13-4453-b678-b6c87fc55fd9",
       "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Software-Engineer-I_JR103056",
       "simplify-647ffde5-0f3f-4a08-ae80-08cd94a55d86",
@@ -77344,7 +76924,23 @@
       "jobright-5b31286b7c31",
       "url:https://jobright.ai/jobs/info/6ac045b6372c01f6cd72b6f0",
       "zapply-dc58596e4eea",
-      "url:https://zapply.jobs/l/d/amazon-3b1644e4-b350-47f0-a84f-d966a037de6f"
+      "url:https://zapply.jobs/l/d/amazon-3b1644e4-b350-47f0-a84f-d966a037de6f",
+      "ashby-openai-88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
+      "url:https://jobs.ashbyhq.com/openai/88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
+      "ashby-openai-b94099f6-8418-48b0-82b5-5953a27d636f",
+      "url:https://jobs.ashbyhq.com/openai/b94099f6-8418-48b0-82b5-5953a27d636f",
+      "zapply-e8be6a6fad50",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025379",
+      "zapply-02288529ad49",
+      "url:https://zapply.jobs/l/d/amazon-63a6c40e-317d-419a-8e8a-4ca9bcbe5a22",
+      "jobright-0a6a8e3f0e2f",
+      "url:https://jobright.ai/jobs/info/6ac08e25372c01f6cd72c49c",
+      "jobright-e43d27b386ec",
+      "url:https://jobright.ai/jobs/info/6aa3de63f3aa936e2cdae52c",
+      "jobright-4406be35e715",
+      "url:https://jobright.ai/jobs/info/6ac05ef1064da25272e09147",
+      "gradtracker-49030b66708f",
+      "url:https://careers.qualcomm.com/careers/job/446718593091"
     ]
   }
 }
