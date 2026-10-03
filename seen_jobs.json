@@ -61767,10 +61767,90 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002771",
       "seen_at": "2026-10-02T23:31:26.874812+00:00"
+    },
+    {
+      "id": "zapply-3595ac850633",
+      "seen_at": "2026-10-03T00:01:13.533264+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023735",
+      "seen_at": "2026-10-03T00:01:13.533949+00:00"
+    },
+    {
+      "id": "zapply-993c126a55b6",
+      "seen_at": "2026-10-03T00:01:13.534511+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027345",
+      "seen_at": "2026-10-03T00:01:13.535061+00:00"
+    },
+    {
+      "id": "zapply-e1a5976a216a",
+      "seen_at": "2026-10-03T00:01:13.535595+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-micron-external-JR113846",
+      "seen_at": "2026-10-03T00:01:13.536141+00:00"
+    },
+    {
+      "id": "zapply-0dbe0a85755b",
+      "seen_at": "2026-10-03T00:01:13.536670+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-mach9-00cdc4ed-eea2-4a95-bbd6-a885d5429e38",
+      "seen_at": "2026-10-03T00:01:13.537210+00:00"
+    },
+    {
+      "id": "jobright-11d435bda60f",
+      "seen_at": "2026-10-03T00:01:13.537745+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac03127064da25272e0844b",
+      "seen_at": "2026-10-03T00:01:13.538258+00:00"
+    },
+    {
+      "id": "gradtracker-13b5464b2c91",
+      "seen_at": "2026-10-03T00:01:13.538785+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10568350/software-development-engineer-workplace-health-safety",
+      "seen_at": "2026-10-03T00:01:13.539284+00:00"
+    },
+    {
+      "id": "gradtracker-935d5b9030b0",
+      "seen_at": "2026-10-03T00:01:13.539802+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10568364/software-development-engineer-ad-performance-delivery",
+      "seen_at": "2026-10-03T00:01:13.540301+00:00"
+    },
+    {
+      "id": "gradtracker-b0b03012313b",
+      "seen_at": "2026-10-03T00:01:13.540820+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000153279380",
+      "seen_at": "2026-10-03T00:01:13.541316+00:00"
+    },
+    {
+      "id": "zapply-0147ad911a90",
+      "seen_at": "2026-10-03T00:01:15.073569+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10401127",
+      "seen_at": "2026-10-03T00:01:15.074178+00:00"
+    },
+    {
+      "id": "jobright-44a7c683d80b",
+      "seen_at": "2026-10-03T00:01:15.074705+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac02abd8ff3fb9b3bc7b148",
+      "seen_at": "2026-10-03T00:01:15.075217+00:00"
     }
   ],
-  "last_run": "2026-10-02T23:31:27.115290+00:00",
-  "total_notified": 7946,
+  "last_run": "2026-10-03T00:01:15.701627+00:00",
+  "total_notified": 7956,
   "channels": {
     "pm-jobs": [
       "ashby-openai-58c28108-5bc6-449d-8461-9274f5abd7e6",
@@ -63721,7 +63801,11 @@
       "zapply-03e1f0ace7ef",
       "url:https://zapply.jobs/l/d/ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097",
       "zapply-30cd5ea0ad31",
-      "url:https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002771"
+      "url:https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002771",
+      "zapply-0147ad911a90",
+      "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10401127",
+      "jobright-44a7c683d80b",
+      "url:https://jobright.ai/jobs/info/6ac02abd8ff3fb9b3bc7b148"
     ],
     "swe-ai-full-time": [
       "ashby-openai-c442eab0-b8b4-40f6-b0f2-0fc91aea294a",
@@ -77114,7 +77198,23 @@
       "simplify-5993eb6e-3414-429f-86b9-dd467b9ddd1d",
       "url:https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application",
       "amazon-10568411",
-      "url:https://www.amazon.jobs/en/jobs/10568411/software-development-engineer-amazon-robotics"
+      "url:https://www.amazon.jobs/en/jobs/10568411/software-development-engineer-amazon-robotics",
+      "zapply-3595ac850633",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023735",
+      "zapply-993c126a55b6",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027345",
+      "zapply-e1a5976a216a",
+      "url:https://zapply.jobs/l/d/workday-micron-external-JR113846",
+      "zapply-0dbe0a85755b",
+      "url:https://zapply.jobs/l/d/ashby-mach9-00cdc4ed-eea2-4a95-bbd6-a885d5429e38",
+      "jobright-11d435bda60f",
+      "url:https://jobright.ai/jobs/info/6ac03127064da25272e0844b",
+      "gradtracker-13b5464b2c91",
+      "url:https://www.amazon.jobs/en/jobs/10568350/software-development-engineer-workplace-health-safety",
+      "gradtracker-935d5b9030b0",
+      "url:https://www.amazon.jobs/en/jobs/10568364/software-development-engineer-ad-performance-delivery",
+      "gradtracker-b0b03012313b",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000153279380"
     ]
   }
 }
