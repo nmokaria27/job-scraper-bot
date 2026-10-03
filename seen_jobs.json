@@ -61471,10 +61471,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac124640e027c0f3b3a24bf",
       "seen_at": "2026-10-03T21:01:10.549293+00:00"
+    },
+    {
+      "id": "simplify-1b0ed45f-daff-44e4-96e2-551ed31d329e",
+      "seen_at": "2026-10-03T23:31:08.877889+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/spacex/jobs/8864991002",
+      "seen_at": "2026-10-03T23:31:08.878807+00:00"
     }
   ],
-  "last_run": "2026-10-03T23:01:11.238475+00:00",
-  "total_notified": 7995,
+  "last_run": "2026-10-03T23:31:09.151069+00:00",
+  "total_notified": 7996,
   "channels": {
     "pm-jobs": [
       "simplify-208ea4f5-0b19-40e2-bf82-27ba53a2e51c",
@@ -63411,7 +63419,9 @@
       "jobright-2a8b6d4c8f2c",
       "url:https://jobright.ai/jobs/info/6ac127df4ac55253f5d6a0c2",
       "jobright-5f1eb957606d",
-      "url:https://jobright.ai/jobs/info/6ac124640e027c0f3b3a24bf"
+      "url:https://jobright.ai/jobs/info/6ac124640e027c0f3b3a24bf",
+      "simplify-1b0ed45f-daff-44e4-96e2-551ed31d329e",
+      "url:https://boards.greenhouse.io/spacex/jobs/8864991002"
     ],
     "swe-ai-full-time": [
       "simplify-7f24593d-1433-4515-9bd7-2e99e1078d7d",
