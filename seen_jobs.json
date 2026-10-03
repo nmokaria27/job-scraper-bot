@@ -61503,10 +61503,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac1138f8ff3fb9b3bc7d0ef",
       "seen_at": "2026-10-03T17:01:11.353888+00:00"
+    },
+    {
+      "id": "zapply-29faded877b7",
+      "seen_at": "2026-10-03T18:01:13.041875+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-spgi-spgi-careers-330591",
+      "seen_at": "2026-10-03T18:01:13.043008+00:00"
+    },
+    {
+      "id": "jobright-2a8b6d4c8f2c",
+      "seen_at": "2026-10-03T18:01:13.043977+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac127df4ac55253f5d6a0c2",
+      "seen_at": "2026-10-03T18:01:13.044864+00:00"
     }
   ],
-  "last_run": "2026-10-03T17:31:04.815569+00:00",
-  "total_notified": 7986,
+  "last_run": "2026-10-03T18:01:13.278135+00:00",
+  "total_notified": 7988,
   "channels": {
     "pm-jobs": [
       "jobright-9e2962493ecd",
@@ -63453,7 +63469,11 @@
       "jobright-e0800538aef3",
       "url:https://jobright.ai/jobs/info/6abfba7e0e027c0f3b39da6f",
       "jobright-bf65f6b2cd4d",
-      "url:https://jobright.ai/jobs/info/6ac1138f8ff3fb9b3bc7d0ef"
+      "url:https://jobright.ai/jobs/info/6ac1138f8ff3fb9b3bc7d0ef",
+      "zapply-29faded877b7",
+      "url:https://zapply.jobs/l/d/workday-spgi-spgi-careers-330591",
+      "jobright-2a8b6d4c8f2c",
+      "url:https://jobright.ai/jobs/info/6ac127df4ac55253f5d6a0c2"
     ],
     "swe-ai-full-time": [
       "ashby-openai-d8ebcb30-c789-4e75-bf9b-a1e3fb09dd2f",
