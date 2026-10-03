@@ -61831,10 +61831,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023411",
       "seen_at": "2026-10-03T00:26:05.467186+00:00"
+    },
+    {
+      "id": "zapply-2b000dcc9477",
+      "seen_at": "2026-10-03T01:01:13.453090+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-citi-2-26962476",
+      "seen_at": "2026-10-03T01:01:13.454145+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR355941",
+      "seen_at": "2026-10-03T01:01:13.455091+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR355941",
+      "seen_at": "2026-10-03T01:01:13.456009+00:00"
+    },
+    {
+      "id": "jobright-dea3fae75756",
+      "seen_at": "2026-10-03T01:01:13.456968+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aadc5560ebc8fb2313eb747",
+      "seen_at": "2026-10-03T01:01:13.457901+00:00"
+    },
+    {
+      "id": "jobright-f6761f0f7a55",
+      "seen_at": "2026-10-03T01:01:13.458871+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac034708ff3fb9b3bc7b579",
+      "seen_at": "2026-10-03T01:01:13.459836+00:00"
+    },
+    {
+      "id": "jobright-11b41ca87ac1",
+      "seen_at": "2026-10-03T01:01:15.347050+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac039f18ff3fb9b3bc7b696",
+      "seen_at": "2026-10-03T01:01:15.347944+00:00"
     }
   ],
-  "last_run": "2026-10-03T00:31:11.530600+00:00",
-  "total_notified": 7957,
+  "last_run": "2026-10-03T01:01:15.538650+00:00",
+  "total_notified": 7962,
   "channels": {
     "pm-jobs": [
       "simplify-30c22ab2-c292-4f03-b2d9-800af01e875b",
@@ -63787,7 +63827,9 @@
       "jobright-44a7c683d80b",
       "url:https://jobright.ai/jobs/info/6ac02abd8ff3fb9b3bc7b148",
       "zapply-e03a76e814c0",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023411"
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023411",
+      "jobright-11b41ca87ac1",
+      "url:https://jobright.ai/jobs/info/6ac039f18ff3fb9b3bc7b696"
     ],
     "swe-ai-full-time": [
       "simplify-d7ff0340-92fe-4508-b930-cd88bf08f010",
@@ -77194,7 +77236,15 @@
       "gradtracker-935d5b9030b0",
       "url:https://www.amazon.jobs/en/jobs/10568364/software-development-engineer-ad-performance-delivery",
       "gradtracker-b0b03012313b",
-      "url:https://jobs.smartrecruiters.com/servicenow/744000153279380"
+      "url:https://jobs.smartrecruiters.com/servicenow/744000153279380",
+      "zapply-2b000dcc9477",
+      "url:https://zapply.jobs/l/d/workday-citi-2-26962476",
+      "workday-salesforce-JR355941",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR355941",
+      "jobright-dea3fae75756",
+      "url:https://jobright.ai/jobs/info/6aadc5560ebc8fb2313eb747",
+      "jobright-f6761f0f7a55",
+      "url:https://jobright.ai/jobs/info/6ac034708ff3fb9b3bc7b579"
     ]
   }
 }
