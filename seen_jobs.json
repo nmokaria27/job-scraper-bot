@@ -61239,10 +61239,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a1d59496b135014dbc95dc8",
       "seen_at": "2026-10-04T16:01:10.243482+00:00"
+    },
+    {
+      "id": "jobright-52e5fdee0be6",
+      "seen_at": "2026-10-04T18:01:13.370765+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac281b9d9621c5b2839acfa",
+      "seen_at": "2026-10-04T18:01:13.371580+00:00"
+    },
+    {
+      "id": "jobright-b8bd7f65ddc1",
+      "seen_at": "2026-10-04T18:01:14.596496+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0ad6e9ef3b13362e7d6d19",
+      "seen_at": "2026-10-04T18:01:14.597173+00:00"
     }
   ],
-  "last_run": "2026-10-04T17:31:04.055852+00:00",
-  "total_notified": 8002,
+  "last_run": "2026-10-04T18:01:14.825872+00:00",
+  "total_notified": 8004,
   "channels": {
     "pm-jobs": [
       "ashby-openai-4a4a2604-b4b3-4944-a2a2-4ec4c5261d7d",
@@ -63177,7 +63193,9 @@
       "jobright-045f4fe208cd",
       "url:https://jobright.ai/jobs/info/6a62e4de32abf9182432c142",
       "jobright-047f0f797384",
-      "url:https://jobright.ai/jobs/info/6a1d59496b135014dbc95dc8"
+      "url:https://jobright.ai/jobs/info/6a1d59496b135014dbc95dc8",
+      "jobright-b8bd7f65ddc1",
+      "url:https://jobright.ai/jobs/info/6a0ad6e9ef3b13362e7d6d19"
     ],
     "swe-ai-full-time": [
       "zapply-4902263ef5b1",
@@ -76566,7 +76584,9 @@
       "jobright-5be4dab75671",
       "url:https://jobright.ai/jobs/info/6a987e4adef18223c854fb87",
       "workday-nvidia-JR2025935",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineer--NVLink_JR2025935"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineer--NVLink_JR2025935",
+      "jobright-52e5fdee0be6",
+      "url:https://jobright.ai/jobs/info/6ac281b9d9621c5b2839acfa"
     ]
   }
 }
