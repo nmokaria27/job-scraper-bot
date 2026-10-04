@@ -39027,10 +39027,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a0ad6e26186f46859892bff",
       "seen_at": "2026-10-04T22:01:13.124537+00:00"
+    },
+    {
+      "id": "jobright-44f67eb88318",
+      "seen_at": "2026-10-04T23:01:12.531085+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8d82d125fc4e7ae3dbc21a",
+      "seen_at": "2026-10-04T23:01:12.531815+00:00"
     }
   ],
-  "last_run": "2026-10-04T22:31:38.535186+00:00",
-  "total_notified": 8021,
+  "last_run": "2026-10-04T23:01:13.110718+00:00",
+  "total_notified": 8022,
   "channels": {
     "pm-jobs": [
       "zapply-c13a8c6d6bf5",
@@ -48796,7 +48804,9 @@
       "jobright-b9590ade48c2",
       "url:https://jobright.ai/jobs/info/6ac2b9ff372c01f6cd7300e1",
       "jobright-7c512a7495f7",
-      "url:https://jobright.ai/jobs/info/6a88a4c3d34f700f87fc9ab0"
+      "url:https://jobright.ai/jobs/info/6a88a4c3d34f700f87fc9ab0",
+      "jobright-44f67eb88318",
+      "url:https://jobright.ai/jobs/info/6a8d82d125fc4e7ae3dbc21a"
     ]
   }
 }
