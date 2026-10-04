@@ -61479,10 +61479,18 @@
     {
       "id": "url:https://boards.greenhouse.io/spacex/jobs/8864991002",
       "seen_at": "2026-10-03T23:31:08.878807+00:00"
+    },
+    {
+      "id": "jobright-c57fb374c059",
+      "seen_at": "2026-10-04T02:01:12.547424+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab8fd5662bb1fbd451e0041",
+      "seen_at": "2026-10-04T02:01:12.548727+00:00"
     }
   ],
-  "last_run": "2026-10-04T01:31:01.213961+00:00",
-  "total_notified": 7996,
+  "last_run": "2026-10-04T02:01:13.875199+00:00",
+  "total_notified": 7997,
   "channels": {
     "pm-jobs": [
       "simplify-208ea4f5-0b19-40e2-bf82-27ba53a2e51c",
@@ -76836,7 +76844,9 @@
       "jobright-372238ca12cb",
       "url:https://jobright.ai/jobs/info/6ac14c6c372c01f6cd72d3a8",
       "jobright-a1f09d4ed2a1",
-      "url:https://jobright.ai/jobs/info/6ac1483f064da25272e0a660"
+      "url:https://jobright.ai/jobs/info/6ac1483f064da25272e0a660",
+      "jobright-c57fb374c059",
+      "url:https://jobright.ai/jobs/info/6ab8fd5662bb1fbd451e0041"
     ]
   }
 }
