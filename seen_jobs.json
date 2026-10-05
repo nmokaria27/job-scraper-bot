@@ -38327,10 +38327,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/ashby-applied-a2ddad24-2147-406f-81c9-a88f8acc77c2",
       "seen_at": "2026-10-05T14:01:24.899776+00:00"
+    },
+    {
+      "id": "zapply-fa9f1be86836",
+      "seen_at": "2026-10-05T14:31:18.683915+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-ffive-f5jobs-RP1038962",
+      "seen_at": "2026-10-05T14:31:18.684904+00:00"
+    },
+    {
+      "id": "zapply-b9560507e163",
+      "seen_at": "2026-10-05T14:31:18.685572+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-waymo-8249801",
+      "seen_at": "2026-10-05T14:31:18.686156+00:00"
+    },
+    {
+      "id": "zapply-ef2d73edd568",
+      "seen_at": "2026-10-05T14:31:18.686716+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-sherwin-williams-2622657",
+      "seen_at": "2026-10-05T14:31:18.687290+00:00"
     }
   ],
-  "last_run": "2026-10-05T14:01:25.373802+00:00",
-  "total_notified": 8034,
+  "last_run": "2026-10-05T14:31:19.280326+00:00",
+  "total_notified": 8037,
   "channels": {
     "pm-jobs": [
       "jobright-64b4b986952f",
@@ -47922,7 +47946,13 @@
       "greenhouse-waymo-8249801",
       "url:https://careers.withwaymo.com/jobs",
       "zapply-c2d47c482ad7",
-      "url:https://zapply.jobs/l/d/ashby-applied-a2ddad24-2147-406f-81c9-a88f8acc77c2"
+      "url:https://zapply.jobs/l/d/ashby-applied-a2ddad24-2147-406f-81c9-a88f8acc77c2",
+      "zapply-fa9f1be86836",
+      "url:https://zapply.jobs/l/d/workday-ffive-f5jobs-RP1038962",
+      "zapply-b9560507e163",
+      "url:https://zapply.jobs/l/d/greenhouse-waymo-8249801",
+      "zapply-ef2d73edd568",
+      "url:https://zapply.jobs/l/d/oracle-sherwin-williams-2622657"
     ]
   }
 }
