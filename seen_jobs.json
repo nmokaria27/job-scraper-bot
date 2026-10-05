@@ -38295,10 +38295,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/substack/fb45e47d-34ef-43c3-a49f-f0223d943161",
       "seen_at": "2026-10-05T17:01:48.094000+00:00"
+    },
+    {
+      "id": "zapply-1d553488a99f",
+      "seen_at": "2026-10-05T17:31:15.682874+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603342",
+      "seen_at": "2026-10-05T17:31:15.683562+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR349609",
+      "seen_at": "2026-10-05T17:31:15.684183+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR349609",
+      "seen_at": "2026-10-05T17:31:15.684760+00:00"
     }
   ],
-  "last_run": "2026-10-05T17:01:49.424702+00:00",
-  "total_notified": 8055,
+  "last_run": "2026-10-05T17:31:16.506342+00:00",
+  "total_notified": 8057,
   "channels": {
     "pm-jobs": [
       "zapply-bc4077cd7e04",
@@ -47882,7 +47898,11 @@
       "greenhouse-samsara-8141959",
       "url:https://www.samsara.com/company/careers/roles/8141959",
       "jobright-d4a4653d881a",
-      "url:https://jobright.ai/jobs/info/6ac3b628064da25272e0eea0"
+      "url:https://jobright.ai/jobs/info/6ac3b628064da25272e0eea0",
+      "zapply-1d553488a99f",
+      "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603342",
+      "workday-salesforce-JR349609",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR349609"
     ]
   }
 }
