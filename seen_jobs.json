@@ -1,142 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-bc4077cd7e04",
-      "seen_at": "2026-09-05T20:41:44.017242+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544",
-      "seen_at": "2026-09-05T20:41:44.017747+00:00"
-    },
-    {
-      "id": "zapply-c53ae858d117",
-      "seen_at": "2026-09-05T20:41:44.018180+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/talos-trading/6bfa5c2e-dbd1-4b6a-93b5-3592c264ff40",
-      "seen_at": "2026-09-05T20:41:44.018595+00:00"
-    },
-    {
-      "id": "jobright-469ed6b929cd",
-      "seen_at": "2026-09-05T20:41:44.019016+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9c5863a7ba386c5d66e424",
-      "seen_at": "2026-09-05T20:41:44.019430+00:00"
-    },
-    {
-      "id": "zapply-7aba2dde1968",
-      "seen_at": "2026-09-05T20:41:55.830984+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/llnl/3743990012172516",
-      "seen_at": "2026-09-05T20:41:55.831562+00:00"
-    },
-    {
-      "id": "zapply-0c05c4059ded",
-      "seen_at": "2026-09-05T20:41:55.832038+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/voltus/58a0d4db-bae6-4649-9628-aa5d44072ceb",
-      "seen_at": "2026-09-05T20:41:55.832486+00:00"
-    },
-    {
-      "id": "zapply-cdc5198cceef",
-      "seen_at": "2026-09-05T20:41:55.832943+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/whatnot/2b5b4bc2-6d47-4afd-afcb-72b4879bea1f",
-      "seen_at": "2026-09-05T20:41:55.833382+00:00"
-    },
-    {
-      "id": "zapply-b330eb894643",
-      "seen_at": "2026-09-05T20:41:55.833839+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/tessera-labs/92a6668b-97d5-47e9-8c9c-106f3f0c8851",
-      "seen_at": "2026-09-05T20:41:55.834279+00:00"
-    },
-    {
-      "id": "zapply-c95968fba575",
-      "seen_at": "2026-09-05T20:41:55.834726+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/talos-trading/3ec93f41-3231-4170-bb25-aa33a0f406b0",
-      "seen_at": "2026-09-05T20:41:55.835209+00:00"
-    },
-    {
-      "id": "zapply-5ae59fa461f6",
-      "seen_at": "2026-09-05T20:41:55.835650+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/talos-trading/885d627f-9bf2-4310-81ae-fda27121fd7b",
-      "seen_at": "2026-09-05T20:41:55.836090+00:00"
-    },
-    {
-      "id": "zapply-027c41edccb1",
-      "seen_at": "2026-09-05T20:41:55.836523+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/whatnot/6a8f2ecd-ec33-47d5-a8e3-73f0f0b037e6",
-      "seen_at": "2026-09-05T20:41:55.836958+00:00"
-    },
-    {
-      "id": "zapply-35e6c17d5e86",
-      "seen_at": "2026-09-05T20:41:55.837376+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/whatnot/abd1dc38-901a-49aa-8cdb-18de379c59c3",
-      "seen_at": "2026-09-05T20:41:55.837799+00:00"
-    },
-    {
-      "id": "jobright-0c99bdcf113e",
-      "seen_at": "2026-09-05T20:41:55.838237+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5b71fc856af468ab00cd9d",
-      "seen_at": "2026-09-05T20:41:55.838650+00:00"
-    },
-    {
-      "id": "jobright-ea7a88978aef",
-      "seen_at": "2026-09-05T20:41:55.839085+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5679dae9b77f668bd638d1",
-      "seen_at": "2026-09-05T20:41:55.839497+00:00"
-    },
-    {
-      "id": "jobright-10ce0c2e3c5a",
-      "seen_at": "2026-09-05T20:41:55.839930+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9ba47d68f82b40367352ea",
-      "seen_at": "2026-09-05T20:41:55.840364+00:00"
-    },
-    {
-      "id": "jobright-142114775d53",
-      "seen_at": "2026-09-05T20:41:55.840793+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a848f9ee459fa3baa85f34d",
-      "seen_at": "2026-09-05T20:41:55.841205+00:00"
-    },
-    {
-      "id": "jobright-af4928430d5e",
-      "seen_at": "2026-09-05T20:41:55.841625+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a84902ce459fa3baa85f399",
-      "seen_at": "2026-09-05T20:41:55.842044+00:00"
-    },
-    {
-      "id": "jobright-c5fce67081f4",
-      "seen_at": "2026-09-05T20:41:55.842463+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a2a24310c4972328e7e70ef",
-      "seen_at": "2026-09-05T20:41:55.842883+00:00"
-    },
-    {
       "id": "zapply-67588d4a7f58",
       "seen_at": "2026-09-05T22:23:06.513851+00:00"
     },
@@ -38511,18 +38375,172 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10569595/software-development-engineer-woot",
       "seen_at": "2026-10-05T19:16:18.868580+00:00"
+    },
+    {
+      "id": "zapply-a241ace5a963",
+      "seen_at": "2026-10-05T21:31:38.852098+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026547",
+      "seen_at": "2026-10-05T21:31:38.852949+00:00"
+    },
+    {
+      "id": "zapply-ae91db349bfc",
+      "seen_at": "2026-10-05T21:31:38.853641+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619438",
+      "seen_at": "2026-10-05T21:31:38.854301+00:00"
+    },
+    {
+      "id": "ashby-elevenlabs-69694001-b760-4939-9a02-e75c046b89d3",
+      "seen_at": "2026-10-05T21:31:38.854948+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/elevenlabs/69694001-b760-4939-9a02-e75c046b89d3",
+      "seen_at": "2026-10-05T21:31:38.855562+00:00"
+    },
+    {
+      "id": "zapply-3ae29d29a84a",
+      "seen_at": "2026-10-05T21:31:38.856210+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-physicalintelligence-14586c10-d913-43c5-8f7c-c77b5c438e4c",
+      "seen_at": "2026-10-05T21:31:38.856858+00:00"
+    },
+    {
+      "id": "zapply-4f812b38f0e4",
+      "seen_at": "2026-10-05T21:31:38.857481+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000153600155",
+      "seen_at": "2026-10-05T21:31:38.858100+00:00"
+    },
+    {
+      "id": "zapply-fe712ccf93ca",
+      "seen_at": "2026-10-05T21:31:38.858714+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229887",
+      "seen_at": "2026-10-05T21:31:38.859325+00:00"
+    },
+    {
+      "id": "ashby-physicalintelligence-6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe",
+      "seen_at": "2026-10-05T21:31:38.859966+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/physicalintelligence/6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe",
+      "seen_at": "2026-10-05T21:31:38.860569+00:00"
+    },
+    {
+      "id": "zapply-de06f4d04db0",
+      "seen_at": "2026-10-05T21:31:38.861199+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-nuro-8248317",
+      "seen_at": "2026-10-05T21:31:38.861827+00:00"
+    },
+    {
+      "id": "ashby-modal-6195f552-ca6f-4540-b7f6-e7e6054e47ad",
+      "seen_at": "2026-10-05T21:31:38.862468+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/modal/6195f552-ca6f-4540-b7f6-e7e6054e47ad",
+      "seen_at": "2026-10-05T21:31:38.863073+00:00"
+    },
+    {
+      "id": "zapply-f367ed8f3cd6",
+      "seen_at": "2026-10-05T21:31:38.863691+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-c6095d3c-d207-40a3-b90a-1fe233428a7e",
+      "seen_at": "2026-10-05T21:31:38.864300+00:00"
+    },
+    {
+      "id": "jobright-1eb58961b395",
+      "seen_at": "2026-10-05T21:31:38.864915+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3f7818ff3fb9b3bc83365",
+      "seen_at": "2026-10-05T21:31:38.865522+00:00"
+    },
+    {
+      "id": "jobright-916a30b6766f",
+      "seen_at": "2026-10-05T21:31:38.866153+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3f5b4d9621c5b2839ed1a",
+      "seen_at": "2026-10-05T21:31:38.866773+00:00"
+    },
+    {
+      "id": "jobright-911040b7f7e6",
+      "seen_at": "2026-10-05T21:31:38.867395+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3f0a98ff3fb9b3bc83186",
+      "seen_at": "2026-10-05T21:31:38.868063+00:00"
+    },
+    {
+      "id": "jobright-28c924f01cb2",
+      "seen_at": "2026-10-05T21:31:38.868704+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3e571372c01f6cd732bbd",
+      "seen_at": "2026-10-05T21:31:38.869311+00:00"
+    },
+    {
+      "id": "amazon-10569612",
+      "seen_at": "2026-10-05T21:31:38.869934+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10569612/software-development-engineer-consumer-domains",
+      "seen_at": "2026-10-05T21:31:38.870534+00:00"
+    },
+    {
+      "id": "amazon-10569781",
+      "seen_at": "2026-10-05T21:31:38.871145+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10569781/software-development-engineer",
+      "seen_at": "2026-10-05T21:31:38.871757+00:00"
+    },
+    {
+      "id": "amazon-10569713",
+      "seen_at": "2026-10-05T21:31:38.872401+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10569713/applied-scientist-fauna",
+      "seen_at": "2026-10-05T21:31:38.873005+00:00"
+    },
+    {
+      "id": "amazon-10569772",
+      "seen_at": "2026-10-05T21:31:38.873616+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10569772/electric-propulsion-system-research-scientist-amazon-prime-air",
+      "seen_at": "2026-10-05T21:31:38.874218+00:00"
+    },
+    {
+      "id": "zapply-d6f4f88c7f66",
+      "seen_at": "2026-10-05T21:31:40.534499+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-athenahealth-external-R15555",
+      "seen_at": "2026-10-05T21:31:40.535285+00:00"
+    },
+    {
+      "id": "jobright-6f1d84d3a0ba",
+      "seen_at": "2026-10-05T21:31:40.536105+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3f10e8ff3fb9b3bc831ad",
+      "seen_at": "2026-10-05T21:31:40.536704+00:00"
     }
   ],
-  "last_run": "2026-10-05T19:16:19.720533+00:00",
-  "total_notified": 8086,
+  "last_run": "2026-10-05T21:31:40.840406+00:00",
+  "total_notified": 8106,
   "channels": {
     "pm-jobs": [
-      "zapply-bc4077cd7e04",
-      "url:https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544",
-      "zapply-c53ae858d117",
-      "url:https://jobs.ashbyhq.com/talos-trading/6bfa5c2e-dbd1-4b6a-93b5-3592c264ff40",
-      "jobright-469ed6b929cd",
-      "url:https://jobright.ai/jobs/info/6a9c5863a7ba386c5d66e424",
       "zapply-67588d4a7f58",
       "url:https://jobs.smartrecruiters.com/EVERSANA1/744000133638950",
       "zapply-7a3459d8f951",
@@ -39929,37 +39947,13 @@
       "zapply-108fddf60e82",
       "url:https://zapply.jobs/l/d/greenhouse-guidepoint-8845160002",
       "zapply-00d863ba871b",
-      "url:https://zapply.jobs/l/d/sr-Experian-744000153590289"
+      "url:https://zapply.jobs/l/d/sr-Experian-744000153590289",
+      "zapply-d6f4f88c7f66",
+      "url:https://zapply.jobs/l/d/workday-athenahealth-external-R15555",
+      "jobright-6f1d84d3a0ba",
+      "url:https://jobright.ai/jobs/info/6ac3f10e8ff3fb9b3bc831ad"
     ],
     "swe-ai-full-time": [
-      "zapply-7aba2dde1968",
-      "url:https://jobs.smartrecruiters.com/llnl/3743990012172516",
-      "zapply-0c05c4059ded",
-      "url:https://jobs.lever.co/voltus/58a0d4db-bae6-4649-9628-aa5d44072ceb",
-      "zapply-cdc5198cceef",
-      "url:https://jobs.ashbyhq.com/whatnot/2b5b4bc2-6d47-4afd-afcb-72b4879bea1f",
-      "zapply-b330eb894643",
-      "url:https://jobs.ashbyhq.com/tessera-labs/92a6668b-97d5-47e9-8c9c-106f3f0c8851",
-      "zapply-c95968fba575",
-      "url:https://jobs.ashbyhq.com/talos-trading/3ec93f41-3231-4170-bb25-aa33a0f406b0",
-      "zapply-5ae59fa461f6",
-      "url:https://jobs.ashbyhq.com/talos-trading/885d627f-9bf2-4310-81ae-fda27121fd7b",
-      "zapply-027c41edccb1",
-      "url:https://jobs.ashbyhq.com/whatnot/6a8f2ecd-ec33-47d5-a8e3-73f0f0b037e6",
-      "zapply-35e6c17d5e86",
-      "url:https://jobs.ashbyhq.com/whatnot/abd1dc38-901a-49aa-8cdb-18de379c59c3",
-      "jobright-0c99bdcf113e",
-      "url:https://jobright.ai/jobs/info/6a5b71fc856af468ab00cd9d",
-      "jobright-ea7a88978aef",
-      "url:https://jobright.ai/jobs/info/6a5679dae9b77f668bd638d1",
-      "jobright-10ce0c2e3c5a",
-      "url:https://jobright.ai/jobs/info/6a9ba47d68f82b40367352ea",
-      "jobright-142114775d53",
-      "url:https://jobright.ai/jobs/info/6a848f9ee459fa3baa85f34d",
-      "jobright-af4928430d5e",
-      "url:https://jobright.ai/jobs/info/6a84902ce459fa3baa85f399",
-      "jobright-c5fce67081f4",
-      "url:https://jobright.ai/jobs/info/6a2a24310c4972328e7e70ef",
       "zapply-9c76fe5727a7",
       "url:https://jobs.smartrecruiters.com/solidigm/744000138365194",
       "zapply-87946b470166",
@@ -48152,7 +48146,43 @@
       "zapply-aa00f93ef6e0",
       "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2136288",
       "amazon-10569595",
-      "url:https://www.amazon.jobs/en/jobs/10569595/software-development-engineer-woot"
+      "url:https://www.amazon.jobs/en/jobs/10569595/software-development-engineer-woot",
+      "zapply-a241ace5a963",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026547",
+      "zapply-ae91db349bfc",
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619438",
+      "ashby-elevenlabs-69694001-b760-4939-9a02-e75c046b89d3",
+      "url:https://jobs.ashbyhq.com/elevenlabs/69694001-b760-4939-9a02-e75c046b89d3",
+      "zapply-3ae29d29a84a",
+      "url:https://zapply.jobs/l/d/ashby-physicalintelligence-14586c10-d913-43c5-8f7c-c77b5c438e4c",
+      "zapply-4f812b38f0e4",
+      "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000153600155",
+      "zapply-fe712ccf93ca",
+      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229887",
+      "ashby-physicalintelligence-6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe",
+      "url:https://jobs.ashbyhq.com/physicalintelligence/6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe",
+      "zapply-de06f4d04db0",
+      "url:https://zapply.jobs/l/d/greenhouse-nuro-8248317",
+      "ashby-modal-6195f552-ca6f-4540-b7f6-e7e6054e47ad",
+      "url:https://jobs.ashbyhq.com/modal/6195f552-ca6f-4540-b7f6-e7e6054e47ad",
+      "zapply-f367ed8f3cd6",
+      "url:https://zapply.jobs/l/d/amazon-c6095d3c-d207-40a3-b90a-1fe233428a7e",
+      "jobright-1eb58961b395",
+      "url:https://jobright.ai/jobs/info/6ac3f7818ff3fb9b3bc83365",
+      "jobright-916a30b6766f",
+      "url:https://jobright.ai/jobs/info/6ac3f5b4d9621c5b2839ed1a",
+      "jobright-911040b7f7e6",
+      "url:https://jobright.ai/jobs/info/6ac3f0a98ff3fb9b3bc83186",
+      "jobright-28c924f01cb2",
+      "url:https://jobright.ai/jobs/info/6ac3e571372c01f6cd732bbd",
+      "amazon-10569612",
+      "url:https://www.amazon.jobs/en/jobs/10569612/software-development-engineer-consumer-domains",
+      "amazon-10569781",
+      "url:https://www.amazon.jobs/en/jobs/10569781/software-development-engineer",
+      "amazon-10569713",
+      "url:https://www.amazon.jobs/en/jobs/10569713/applied-scientist-fauna",
+      "amazon-10569772",
+      "url:https://www.amazon.jobs/en/jobs/10569772/electric-propulsion-system-research-scientist-amazon-prime-air"
     ]
   }
 }
