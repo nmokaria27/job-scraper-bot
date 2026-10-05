@@ -38271,10 +38271,34 @@
     {
       "id": "url:https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a",
       "seen_at": "2026-10-05T16:31:23.168749+00:00"
+    },
+    {
+      "id": "greenhouse-samsara-8141959",
+      "seen_at": "2026-10-05T17:01:46.649443+00:00"
+    },
+    {
+      "id": "url:https://www.samsara.com/company/careers/roles/8141959",
+      "seen_at": "2026-10-05T17:01:46.650171+00:00"
+    },
+    {
+      "id": "jobright-d4a4653d881a",
+      "seen_at": "2026-10-05T17:01:46.650892+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3b628064da25272e0eea0",
+      "seen_at": "2026-10-05T17:01:46.651576+00:00"
+    },
+    {
+      "id": "ashby-substack-fb45e47d-34ef-43c3-a49f-f0223d943161",
+      "seen_at": "2026-10-05T17:01:48.093375+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/substack/fb45e47d-34ef-43c3-a49f-f0223d943161",
+      "seen_at": "2026-10-05T17:01:48.094000+00:00"
     }
   ],
-  "last_run": "2026-10-05T16:31:23.407748+00:00",
-  "total_notified": 8052,
+  "last_run": "2026-10-05T17:01:49.424702+00:00",
+  "total_notified": 8055,
   "channels": {
     "pm-jobs": [
       "zapply-bc4077cd7e04",
@@ -39675,7 +39699,9 @@
       "zapply-6fa20908f5ae",
       "url:https://zapply.jobs/l/d/ashby-ramp-3f4509ad-1858-478b-a7fb-bcd792d9575a",
       "ashby-ramp-3f4509ad-1858-478b-a7fb-bcd792d9575a",
-      "url:https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a"
+      "url:https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a",
+      "ashby-substack-fb45e47d-34ef-43c3-a49f-f0223d943161",
+      "url:https://jobs.ashbyhq.com/substack/fb45e47d-34ef-43c3-a49f-f0223d943161"
     ],
     "swe-ai-full-time": [
       "zapply-fdf937e2cedb",
@@ -47852,7 +47878,11 @@
       "zapply-f6a11b3cf179",
       "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R172095",
       "jobright-f5ddc2fc28ac",
-      "url:https://jobright.ai/jobs/info/6a52e53a8ef95364ead904ac"
+      "url:https://jobright.ai/jobs/info/6a52e53a8ef95364ead904ac",
+      "greenhouse-samsara-8141959",
+      "url:https://www.samsara.com/company/careers/roles/8141959",
+      "jobright-d4a4653d881a",
+      "url:https://jobright.ai/jobs/info/6ac3b628064da25272e0eea0"
     ]
   }
 }
