@@ -38615,10 +38615,74 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261186",
       "seen_at": "2026-10-05T22:31:16.665394+00:00"
+    },
+    {
+      "id": "ashby-openai-e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
+      "seen_at": "2026-10-05T23:01:15.259772+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
+      "seen_at": "2026-10-05T23:01:15.260697+00:00"
+    },
+    {
+      "id": "simplify-22376e19-d7d9-4048-b3ee-200ec514ad4f",
+      "seen_at": "2026-10-05T23:01:15.261552+00:00"
+    },
+    {
+      "id": "url:https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900",
+      "seen_at": "2026-10-05T23:01:15.262350+00:00"
+    },
+    {
+      "id": "simplify-eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
+      "seen_at": "2026-10-05T23:01:15.263154+00:00"
+    },
+    {
+      "id": "url:https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
+      "seen_at": "2026-10-05T23:01:15.263949+00:00"
+    },
+    {
+      "id": "simplify-6c4161c2-957e-42b2-b760-2d2ad98ab8b2",
+      "seen_at": "2026-10-05T23:01:15.264594+00:00"
+    },
+    {
+      "id": "url:https://careers-barrios.icims.com/jobs/2903/job",
+      "seen_at": "2026-10-05T23:01:15.265235+00:00"
+    },
+    {
+      "id": "simplify-1da991c6-5a00-44e6-a94b-7c66094b1b6e",
+      "seen_at": "2026-10-05T23:01:15.265895+00:00"
+    },
+    {
+      "id": "url:https://careers-barrios.icims.com/jobs/2904/job",
+      "seen_at": "2026-10-05T23:01:15.266530+00:00"
+    },
+    {
+      "id": "jobright-7541ca218cc0",
+      "seen_at": "2026-10-05T23:01:15.267183+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac410ed064da25272e11081",
+      "seen_at": "2026-10-05T23:01:15.270079+00:00"
+    },
+    {
+      "id": "jobright-9c5b88fa9dc2",
+      "seen_at": "2026-10-05T23:01:15.270911+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac413e9d9621c5b2839f91d",
+      "seen_at": "2026-10-05T23:01:15.271578+00:00"
+    },
+    {
+      "id": "jobright-8828dda1d39a",
+      "seen_at": "2026-10-05T23:01:17.507124+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac40be1064da25272e10e4e",
+      "seen_at": "2026-10-05T23:01:17.508001+00:00"
     }
   ],
-  "last_run": "2026-10-05T22:31:16.986694+00:00",
-  "total_notified": 8127,
+  "last_run": "2026-10-05T23:01:17.718447+00:00",
+  "total_notified": 8135,
   "channels": {
     "pm-jobs": [
       "zapply-7a3459d8f951",
@@ -40035,7 +40099,9 @@
       "jobright-06cc7e94e54a",
       "url:https://jobright.ai/jobs/info/6ac406ca064da25272e10ae0",
       "zapply-6e9b72ddb9ae",
-      "url:https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261186"
+      "url:https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261186",
+      "jobright-8828dda1d39a",
+      "url:https://jobright.ai/jobs/info/6ac40be1064da25272e10e4e"
     ],
     "swe-ai-full-time": [
       "zapply-9806e73f1177",
@@ -48282,7 +48348,21 @@
       "zapply-83b82fc95665",
       "url:https://zapply.jobs/l/d/ashby-physicalintelligence-6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe",
       "zapply-a00ab4226359",
-      "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19731"
+      "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19731",
+      "ashby-openai-e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
+      "url:https://jobs.ashbyhq.com/openai/e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
+      "simplify-22376e19-d7d9-4048-b3ee-200ec514ad4f",
+      "url:https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900",
+      "simplify-eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
+      "url:https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
+      "simplify-6c4161c2-957e-42b2-b760-2d2ad98ab8b2",
+      "url:https://careers-barrios.icims.com/jobs/2903/job",
+      "simplify-1da991c6-5a00-44e6-a94b-7c66094b1b6e",
+      "url:https://careers-barrios.icims.com/jobs/2904/job",
+      "jobright-7541ca218cc0",
+      "url:https://jobright.ai/jobs/info/6ac410ed064da25272e11081",
+      "jobright-9c5b88fa9dc2",
+      "url:https://jobright.ai/jobs/info/6ac413e9d9621c5b2839f91d"
     ]
   }
 }
