@@ -38383,10 +38383,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac39e328ff3fb9b3bc8158a",
       "seen_at": "2026-10-05T15:01:24.360234+00:00"
+    },
+    {
+      "id": "zapply-4f2c0d142852",
+      "seen_at": "2026-10-05T15:31:18.204103+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229857",
+      "seen_at": "2026-10-05T15:31:18.205044+00:00"
+    },
+    {
+      "id": "zapply-81edb1907acc",
+      "seen_at": "2026-10-05T15:31:18.205901+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-82369041234043590",
+      "seen_at": "2026-10-05T15:31:18.206700+00:00"
     }
   ],
-  "last_run": "2026-10-05T15:01:24.799584+00:00",
-  "total_notified": 8041,
+  "last_run": "2026-10-05T15:31:18.977112+00:00",
+  "total_notified": 8043,
   "channels": {
     "pm-jobs": [
       "jobright-64b4b986952f",
@@ -47992,7 +48008,11 @@
       "jobright-457e03c9e1eb",
       "url:https://jobright.ai/jobs/info/6ac3a0a6372c01f6cd731501",
       "jobright-9e5877df6086",
-      "url:https://jobright.ai/jobs/info/6ac39e328ff3fb9b3bc8158a"
+      "url:https://jobright.ai/jobs/info/6ac39e328ff3fb9b3bc8158a",
+      "zapply-4f2c0d142852",
+      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229857",
+      "zapply-81edb1907acc",
+      "url:https://zapply.jobs/l/d/google-82369041234043590"
     ]
   }
 }
