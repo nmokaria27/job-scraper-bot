@@ -38399,10 +38399,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/google-82369041234043590",
       "seen_at": "2026-10-05T15:31:18.206700+00:00"
+    },
+    {
+      "id": "zapply-d32f03b1b5a0",
+      "seen_at": "2026-10-05T16:02:21.836843+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35479",
+      "seen_at": "2026-10-05T16:02:21.837601+00:00"
+    },
+    {
+      "id": "jobright-17652b69071a",
+      "seen_at": "2026-10-05T16:02:21.838244+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3ac00372c01f6cd73176d",
+      "seen_at": "2026-10-05T16:02:21.838819+00:00"
+    },
+    {
+      "id": "zapply-c941cc309b33",
+      "seen_at": "2026-10-05T16:02:21.839414+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-137322632390288070",
+      "seen_at": "2026-10-05T16:02:21.840041+00:00"
+    },
+    {
+      "id": "jobright-b382eef3fc0a",
+      "seen_at": "2026-10-05T16:02:23.261041+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac01eaf8ff3fb9b3bc7ad59",
+      "seen_at": "2026-10-05T16:02:23.261897+00:00"
     }
   ],
-  "last_run": "2026-10-05T15:31:18.977112+00:00",
-  "total_notified": 8043,
+  "last_run": "2026-10-05T16:02:23.459632+00:00",
+  "total_notified": 8047,
   "channels": {
     "pm-jobs": [
       "jobright-64b4b986952f",
@@ -39797,7 +39829,9 @@
       "zapply-5530a658765e",
       "url:https://zapply.jobs/l/d/greenhouse-intrinsicrobotics-6216181004",
       "greenhouse-coreweave-4718789006",
-      "url:https://coreweave.com/careers/job"
+      "url:https://coreweave.com/careers/job",
+      "jobright-b382eef3fc0a",
+      "url:https://jobright.ai/jobs/info/6ac01eaf8ff3fb9b3bc7ad59"
     ],
     "swe-ai-full-time": [
       "zapply-1f09c41e3249",
@@ -48012,7 +48046,13 @@
       "zapply-4f2c0d142852",
       "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229857",
       "zapply-81edb1907acc",
-      "url:https://zapply.jobs/l/d/google-82369041234043590"
+      "url:https://zapply.jobs/l/d/google-82369041234043590",
+      "zapply-d32f03b1b5a0",
+      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35479",
+      "jobright-17652b69071a",
+      "url:https://jobright.ai/jobs/info/6ac3ac00372c01f6cd73176d",
+      "zapply-c941cc309b33",
+      "url:https://zapply.jobs/l/d/google-137322632390288070"
     ]
   }
 }
