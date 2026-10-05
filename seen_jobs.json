@@ -38351,10 +38351,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-sherwin-williams-2622657",
       "seen_at": "2026-10-05T14:31:18.687290+00:00"
+    },
+    {
+      "id": "ashby-elevenlabs-41b892ba-b530-44cb-9ae1-178908fc324c",
+      "seen_at": "2026-10-05T15:01:24.357136+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/elevenlabs/41b892ba-b530-44cb-9ae1-178908fc324c",
+      "seen_at": "2026-10-05T15:01:24.357655+00:00"
+    },
+    {
+      "id": "jobright-8f8b6e07ba2d",
+      "seen_at": "2026-10-05T15:01:24.358123+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac37c5bd9621c5b2839cb5b",
+      "seen_at": "2026-10-05T15:01:24.358568+00:00"
+    },
+    {
+      "id": "jobright-457e03c9e1eb",
+      "seen_at": "2026-10-05T15:01:24.358998+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3a0a6372c01f6cd731501",
+      "seen_at": "2026-10-05T15:01:24.359397+00:00"
+    },
+    {
+      "id": "jobright-9e5877df6086",
+      "seen_at": "2026-10-05T15:01:24.359809+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac39e328ff3fb9b3bc8158a",
+      "seen_at": "2026-10-05T15:01:24.360234+00:00"
     }
   ],
-  "last_run": "2026-10-05T14:31:19.280326+00:00",
-  "total_notified": 8037,
+  "last_run": "2026-10-05T15:01:24.799584+00:00",
+  "total_notified": 8041,
   "channels": {
     "pm-jobs": [
       "jobright-64b4b986952f",
@@ -47952,7 +47984,15 @@
       "zapply-b9560507e163",
       "url:https://zapply.jobs/l/d/greenhouse-waymo-8249801",
       "zapply-ef2d73edd568",
-      "url:https://zapply.jobs/l/d/oracle-sherwin-williams-2622657"
+      "url:https://zapply.jobs/l/d/oracle-sherwin-williams-2622657",
+      "ashby-elevenlabs-41b892ba-b530-44cb-9ae1-178908fc324c",
+      "url:https://jobs.ashbyhq.com/elevenlabs/41b892ba-b530-44cb-9ae1-178908fc324c",
+      "jobright-8f8b6e07ba2d",
+      "url:https://jobright.ai/jobs/info/6ac37c5bd9621c5b2839cb5b",
+      "jobright-457e03c9e1eb",
+      "url:https://jobright.ai/jobs/info/6ac3a0a6372c01f6cd731501",
+      "jobright-9e5877df6086",
+      "url:https://jobright.ai/jobs/info/6ac39e328ff3fb9b3bc8158a"
     ]
   }
 }
