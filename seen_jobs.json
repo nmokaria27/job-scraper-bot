@@ -38635,10 +38635,14 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-intrinsicrobotics-6216181004",
       "seen_at": "2026-10-04T23:31:42.041693+00:00"
+    },
+    {
+      "id": "greenhouse-coreweave-4718789006",
+      "seen_at": "2026-10-05T02:31:06.645228+00:00"
     }
   ],
-  "last_run": "2026-10-05T02:01:11.959263+00:00",
-  "total_notified": 8023,
+  "last_run": "2026-10-05T02:31:06.917162+00:00",
+  "total_notified": 8024,
   "channels": {
     "pm-jobs": [
       "ashby-openai-1db8dc12-c4b8-4fb7-8451-0d48df402bda",
@@ -40041,7 +40045,9 @@
       "jobright-389f74dec683",
       "url:https://jobright.ai/jobs/info/6a0ad6e26186f46859892bff",
       "zapply-5530a658765e",
-      "url:https://zapply.jobs/l/d/greenhouse-intrinsicrobotics-6216181004"
+      "url:https://zapply.jobs/l/d/greenhouse-intrinsicrobotics-6216181004",
+      "greenhouse-coreweave-4718789006",
+      "url:https://coreweave.com/careers/job"
     ],
     "swe-ai-full-time": [
       "zapply-ea90b7174c54",
