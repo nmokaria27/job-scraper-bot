@@ -38311,10 +38311,26 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/D360-Forward-Deployed-Engineer_JR361113",
       "seen_at": "2026-10-05T13:31:20.586916+00:00"
+    },
+    {
+      "id": "greenhouse-waymo-8249801",
+      "seen_at": "2026-10-05T14:01:24.898507+00:00"
+    },
+    {
+      "id": "url:https://careers.withwaymo.com/jobs",
+      "seen_at": "2026-10-05T14:01:24.899000+00:00"
+    },
+    {
+      "id": "zapply-c2d47c482ad7",
+      "seen_at": "2026-10-05T14:01:24.899395+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-applied-a2ddad24-2147-406f-81c9-a88f8acc77c2",
+      "seen_at": "2026-10-05T14:01:24.899776+00:00"
     }
   ],
-  "last_run": "2026-10-05T13:31:21.075235+00:00",
-  "total_notified": 8032,
+  "last_run": "2026-10-05T14:01:25.373802+00:00",
+  "total_notified": 8034,
   "channels": {
     "pm-jobs": [
       "jobright-64b4b986952f",
@@ -47902,7 +47918,11 @@
       "zapply-e81e49821940",
       "url:https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-92601542",
       "workday-salesforce-JR361113",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/D360-Forward-Deployed-Engineer_JR361113"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/D360-Forward-Deployed-Engineer_JR361113",
+      "greenhouse-waymo-8249801",
+      "url:https://careers.withwaymo.com/jobs",
+      "zapply-c2d47c482ad7",
+      "url:https://zapply.jobs/l/d/ashby-applied-a2ddad24-2147-406f-81c9-a88f8acc77c2"
     ]
   }
 }
