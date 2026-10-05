@@ -38311,10 +38311,114 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR349609",
       "seen_at": "2026-10-05T17:31:15.684760+00:00"
+    },
+    {
+      "id": "zapply-ffa7c5c4311f",
+      "seen_at": "2026-10-05T18:01:48.391518+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR349609",
+      "seen_at": "2026-10-05T18:01:48.392212+00:00"
+    },
+    {
+      "id": "zapply-bf17ef22432e",
+      "seen_at": "2026-10-05T18:01:48.392828+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-lseg-careers-R0124057",
+      "seen_at": "2026-10-05T18:01:48.393428+00:00"
+    },
+    {
+      "id": "zapply-0aa33a603076",
+      "seen_at": "2026-10-05T18:01:48.394017+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200687240",
+      "seen_at": "2026-10-05T18:01:48.394569+00:00"
+    },
+    {
+      "id": "zapply-7bf8e902f618",
+      "seen_at": "2026-10-05T18:01:48.395098+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-f803c402-fe4e-4e42-8e22-9d5d95fa0f7c",
+      "seen_at": "2026-10-05T18:01:48.395631+00:00"
+    },
+    {
+      "id": "zapply-726a61254159",
+      "seen_at": "2026-10-05T18:01:48.396164+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-8eddfce6-260e-4d55-b6d2-36690dfe3ec5",
+      "seen_at": "2026-10-05T18:01:48.396693+00:00"
+    },
+    {
+      "id": "jobright-8975bd152db6",
+      "seen_at": "2026-10-05T18:01:48.397223+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8c1d6dd34f700f87fcf0f9",
+      "seen_at": "2026-10-05T18:01:48.397751+00:00"
+    },
+    {
+      "id": "jobright-ba1b8213ffe7",
+      "seen_at": "2026-10-05T18:01:48.398320+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3c4a98ff3fb9b3bc82078",
+      "seen_at": "2026-10-05T18:01:48.398838+00:00"
+    },
+    {
+      "id": "jobright-ed8b73a783b5",
+      "seen_at": "2026-10-05T18:01:48.399369+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3cc32372c01f6cd7321ce",
+      "seen_at": "2026-10-05T18:01:48.399886+00:00"
+    },
+    {
+      "id": "jobright-8a93219981c2",
+      "seen_at": "2026-10-05T18:01:48.400410+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3c336372c01f6cd731f04",
+      "seen_at": "2026-10-05T18:01:48.400928+00:00"
+    },
+    {
+      "id": "amazon-10569394",
+      "seen_at": "2026-10-05T18:01:48.401463+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10569394/applied-scientist-advertiser-growth-engine",
+      "seen_at": "2026-10-05T18:01:48.401971+00:00"
+    },
+    {
+      "id": "jobright-8bc95ba93a15",
+      "seen_at": "2026-10-05T18:01:48.402503+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3cd4e0e027c0f3b3a774d",
+      "seen_at": "2026-10-05T18:01:48.403012+00:00"
+    },
+    {
+      "id": "zapply-d69539c35aff",
+      "seen_at": "2026-10-05T18:01:49.813916+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210788470",
+      "seen_at": "2026-10-05T18:01:49.814580+00:00"
+    },
+    {
+      "id": "jobright-636a65e547c0",
+      "seen_at": "2026-10-05T18:01:49.815118+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3c9de372c01f6cd732095",
+      "seen_at": "2026-10-05T18:01:49.815622+00:00"
     }
   ],
-  "last_run": "2026-10-05T17:31:16.506342+00:00",
-  "total_notified": 8057,
+  "last_run": "2026-10-05T18:01:50.165722+00:00",
+  "total_notified": 8070,
   "channels": {
     "pm-jobs": [
       "zapply-bc4077cd7e04",
@@ -39717,7 +39821,11 @@
       "ashby-ramp-3f4509ad-1858-478b-a7fb-bcd792d9575a",
       "url:https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a",
       "ashby-substack-fb45e47d-34ef-43c3-a49f-f0223d943161",
-      "url:https://jobs.ashbyhq.com/substack/fb45e47d-34ef-43c3-a49f-f0223d943161"
+      "url:https://jobs.ashbyhq.com/substack/fb45e47d-34ef-43c3-a49f-f0223d943161",
+      "zapply-d69539c35aff",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210788470",
+      "jobright-636a65e547c0",
+      "url:https://jobright.ai/jobs/info/6ac3c9de372c01f6cd732095"
     ],
     "swe-ai-full-time": [
       "zapply-fdf937e2cedb",
@@ -47902,7 +48010,29 @@
       "zapply-1d553488a99f",
       "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603342",
       "workday-salesforce-JR349609",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR349609"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR349609",
+      "zapply-ffa7c5c4311f",
+      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR349609",
+      "zapply-bf17ef22432e",
+      "url:https://zapply.jobs/l/d/workday-lseg-careers-R0124057",
+      "zapply-0aa33a603076",
+      "url:https://zapply.jobs/l/d/apple-200687240",
+      "zapply-7bf8e902f618",
+      "url:https://zapply.jobs/l/d/amazon-f803c402-fe4e-4e42-8e22-9d5d95fa0f7c",
+      "zapply-726a61254159",
+      "url:https://zapply.jobs/l/d/amazon-8eddfce6-260e-4d55-b6d2-36690dfe3ec5",
+      "jobright-8975bd152db6",
+      "url:https://jobright.ai/jobs/info/6a8c1d6dd34f700f87fcf0f9",
+      "jobright-ba1b8213ffe7",
+      "url:https://jobright.ai/jobs/info/6ac3c4a98ff3fb9b3bc82078",
+      "jobright-ed8b73a783b5",
+      "url:https://jobright.ai/jobs/info/6ac3cc32372c01f6cd7321ce",
+      "jobright-8a93219981c2",
+      "url:https://jobright.ai/jobs/info/6ac3c336372c01f6cd731f04",
+      "amazon-10569394",
+      "url:https://www.amazon.jobs/en/jobs/10569394/applied-scientist-advertiser-growth-engine",
+      "jobright-8bc95ba93a15",
+      "url:https://jobright.ai/jobs/info/6ac3cd4e0e027c0f3b3a774d"
     ]
   }
 }
