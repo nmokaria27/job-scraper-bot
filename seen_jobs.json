@@ -38487,10 +38487,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/sr-Experian-744000153590289",
       "seen_at": "2026-10-05T19:06:37.635747+00:00"
+    },
+    {
+      "id": "greenhouse-nuro-8248317",
+      "seen_at": "2026-10-05T19:16:18.865463+00:00"
+    },
+    {
+      "id": "url:https://nuro.ai/careersitem",
+      "seen_at": "2026-10-05T19:16:18.866170+00:00"
+    },
+    {
+      "id": "zapply-aa00f93ef6e0",
+      "seen_at": "2026-10-05T19:16:18.866794+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2136288",
+      "seen_at": "2026-10-05T19:16:18.867389+00:00"
+    },
+    {
+      "id": "amazon-10569595",
+      "seen_at": "2026-10-05T19:16:18.867999+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10569595/software-development-engineer-woot",
+      "seen_at": "2026-10-05T19:16:18.868580+00:00"
     }
   ],
-  "last_run": "2026-10-05T19:06:37.851147+00:00",
-  "total_notified": 8083,
+  "last_run": "2026-10-05T19:16:19.720533+00:00",
+  "total_notified": 8086,
   "channels": {
     "pm-jobs": [
       "zapply-bc4077cd7e04",
@@ -48122,7 +48146,13 @@
       "workday-nvidia-JR2027095",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2027095",
       "zapply-c73db739a165",
-      "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19444"
+      "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19444",
+      "greenhouse-nuro-8248317",
+      "url:https://nuro.ai/careersitem",
+      "zapply-aa00f93ef6e0",
+      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2136288",
+      "amazon-10569595",
+      "url:https://www.amazon.jobs/en/jobs/10569595/software-development-engineer-woot"
     ]
   }
 }
