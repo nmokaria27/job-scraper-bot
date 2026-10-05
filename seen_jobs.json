@@ -38439,10 +38439,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-guidepoint-8845160002",
       "seen_at": "2026-10-05T18:31:16.012809+00:00"
+    },
+    {
+      "id": "jobright-2d9943a5bef1",
+      "seen_at": "2026-10-05T19:06:36.204839+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a54f4d4f2c46727285eee28",
+      "seen_at": "2026-10-05T19:06:36.205663+00:00"
+    },
+    {
+      "id": "jobright-8d7da87babb5",
+      "seen_at": "2026-10-05T19:06:36.206246+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3d7284ac55253f5d6f648",
+      "seen_at": "2026-10-05T19:06:36.206744+00:00"
+    },
+    {
+      "id": "jobright-9c0cf486b90a",
+      "seen_at": "2026-10-05T19:06:36.207248+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3d3ccd9621c5b2839e0c7",
+      "seen_at": "2026-10-05T19:06:36.207752+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2027095",
+      "seen_at": "2026-10-05T19:06:36.208256+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2027095",
+      "seen_at": "2026-10-05T19:06:36.208754+00:00"
+    },
+    {
+      "id": "zapply-c73db739a165",
+      "seen_at": "2026-10-05T19:06:36.209265+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19444",
+      "seen_at": "2026-10-05T19:06:36.209786+00:00"
+    },
+    {
+      "id": "zapply-00d863ba871b",
+      "seen_at": "2026-10-05T19:06:37.635023+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-Experian-744000153590289",
+      "seen_at": "2026-10-05T19:06:37.635747+00:00"
     }
   ],
-  "last_run": "2026-10-05T18:31:16.197530+00:00",
-  "total_notified": 8077,
+  "last_run": "2026-10-05T19:06:37.851147+00:00",
+  "total_notified": 8083,
   "channels": {
     "pm-jobs": [
       "zapply-bc4077cd7e04",
@@ -39855,7 +39903,9 @@
       "zapply-8a3b7c266f0e",
       "url:https://zapply.jobs/l/d/workday-peak6group-apexfintechsolutions-JR105255",
       "zapply-108fddf60e82",
-      "url:https://zapply.jobs/l/d/greenhouse-guidepoint-8845160002"
+      "url:https://zapply.jobs/l/d/greenhouse-guidepoint-8845160002",
+      "zapply-00d863ba871b",
+      "url:https://zapply.jobs/l/d/sr-Experian-744000153590289"
     ],
     "swe-ai-full-time": [
       "zapply-7aba2dde1968",
@@ -48062,7 +48112,17 @@
       "zapply-b565cbb101bf",
       "url:https://zapply.jobs/l/d/apple-200679684",
       "amazon-10569486",
-      "url:https://www.amazon.jobs/en/jobs/10569486/software-development-engineer-aws"
+      "url:https://www.amazon.jobs/en/jobs/10569486/software-development-engineer-aws",
+      "jobright-2d9943a5bef1",
+      "url:https://jobright.ai/jobs/info/6a54f4d4f2c46727285eee28",
+      "jobright-8d7da87babb5",
+      "url:https://jobright.ai/jobs/info/6ac3d7284ac55253f5d6f648",
+      "jobright-9c0cf486b90a",
+      "url:https://jobright.ai/jobs/info/6ac3d3ccd9621c5b2839e0c7",
+      "workday-nvidia-JR2027095",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2027095",
+      "zapply-c73db739a165",
+      "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19444"
     ]
   }
 }
