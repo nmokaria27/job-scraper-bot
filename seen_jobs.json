@@ -39023,10 +39023,66 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026726",
       "seen_at": "2026-10-06T15:31:12.391124+00:00"
+    },
+    {
+      "id": "zapply-c20d654a3e8b",
+      "seen_at": "2026-10-06T16:01:29.998586+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-avav-avav-8111",
+      "seen_at": "2026-10-06T16:01:29.999355+00:00"
+    },
+    {
+      "id": "greenhouse-tenstorrent-5257595007",
+      "seen_at": "2026-10-06T16:01:29.999988+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5257595007",
+      "seen_at": "2026-10-06T16:01:30.000580+00:00"
+    },
+    {
+      "id": "ashby-applied-364578da-efcd-4f29-9f9d-8f647502b6ba",
+      "seen_at": "2026-10-06T16:01:30.001224+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/364578da-efcd-4f29-9f9d-8f647502b6ba",
+      "seen_at": "2026-10-06T16:01:30.001837+00:00"
+    },
+    {
+      "id": "zapply-d4c8b336b1a9",
+      "seen_at": "2026-10-06T16:01:30.002449+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000398309",
+      "seen_at": "2026-10-06T16:01:30.003096+00:00"
+    },
+    {
+      "id": "amazon-10570504",
+      "seen_at": "2026-10-06T16:01:30.003729+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10570504/software-development-engineer-ads-ai-core-infrastructure-aci-ads-ai-core-infrastructure",
+      "seen_at": "2026-10-06T16:01:30.004325+00:00"
+    },
+    {
+      "id": "zapply-edde7fee42e7",
+      "seen_at": "2026-10-06T16:01:30.004945+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4718748006",
+      "seen_at": "2026-10-06T16:01:30.005547+00:00"
+    },
+    {
+      "id": "jobright-92187fd04c9a",
+      "seen_at": "2026-10-06T16:01:30.006168+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac506cf0e027c0f3b3ac5d0",
+      "seen_at": "2026-10-06T16:01:30.006795+00:00"
     }
   ],
-  "last_run": "2026-10-06T15:31:13.325433+00:00",
-  "total_notified": 8206,
+  "last_run": "2026-10-06T16:01:31.175802+00:00",
+  "total_notified": 8213,
   "channels": {
     "pm-jobs": [
       "jobright-54f18fd5b6fa",
@@ -48792,7 +48848,21 @@
       "jobright-84150a01e67c",
       "url:https://jobright.ai/jobs/info/6ac4f93fd9621c5b283a2769",
       "zapply-18ae359aa492",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026726"
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026726",
+      "zapply-c20d654a3e8b",
+      "url:https://zapply.jobs/l/d/workday-avav-avav-8111",
+      "greenhouse-tenstorrent-5257595007",
+      "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5257595007",
+      "ashby-applied-364578da-efcd-4f29-9f9d-8f647502b6ba",
+      "url:https://jobs.ashbyhq.com/applied/364578da-efcd-4f29-9f9d-8f647502b6ba",
+      "zapply-d4c8b336b1a9",
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000398309",
+      "amazon-10570504",
+      "url:https://www.amazon.jobs/en/jobs/10570504/software-development-engineer-ads-ai-core-infrastructure-aci-ads-ai-core-infrastructure",
+      "zapply-edde7fee42e7",
+      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4718748006",
+      "jobright-92187fd04c9a",
+      "url:https://jobright.ai/jobs/info/6ac506cf0e027c0f3b3ac5d0"
     ]
   }
 }
