@@ -38759,10 +38759,58 @@
     {
       "id": "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148",
       "seen_at": "2026-10-06T00:56:56.344307+00:00"
+    },
+    {
+      "id": "greenhouse-roku-8188704",
+      "seen_at": "2026-10-06T01:31:08.594982+00:00"
+    },
+    {
+      "id": "url:https://www.weareroku.com/jobs/8188704",
+      "seen_at": "2026-10-06T01:31:08.595717+00:00"
+    },
+    {
+      "id": "zapply-eabeb30d6070",
+      "seen_at": "2026-10-06T01:31:08.596377+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-74148ec2-1021-49e4-a387-a5f17d6c4733",
+      "seen_at": "2026-10-06T01:31:08.596978+00:00"
+    },
+    {
+      "id": "amazon-10569960",
+      "seen_at": "2026-10-06T01:31:08.597562+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10569960/software-development-engineer-iam-identity-center-unified-signin-and-sessions",
+      "seen_at": "2026-10-06T01:31:08.598156+00:00"
+    },
+    {
+      "id": "ashby-sierra-b8666a78-fcb1-47bb-ad07-5edb6cd3ad71",
+      "seen_at": "2026-10-06T01:31:08.598740+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/b8666a78-fcb1-47bb-ad07-5edb6cd3ad71",
+      "seen_at": "2026-10-06T01:31:08.599342+00:00"
+    },
+    {
+      "id": "gradtracker-33624d4f0253",
+      "seen_at": "2026-10-06T01:31:08.599942+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10569923/embedded-software-development-engineer-flight-computer-software",
+      "seen_at": "2026-10-06T01:31:08.600524+00:00"
+    },
+    {
+      "id": "zapply-c9355d2b96e7",
+      "seen_at": "2026-10-06T01:31:10.323425+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22984",
+      "seen_at": "2026-10-06T01:31:10.324093+00:00"
     }
   ],
-  "last_run": "2026-10-06T01:01:13.599695+00:00",
-  "total_notified": 8149,
+  "last_run": "2026-10-06T01:31:11.219351+00:00",
+  "total_notified": 8155,
   "channels": {
     "pm-jobs": [
       "zapply-e4855ca37724",
@@ -40179,7 +40227,9 @@
       "jobright-8828dda1d39a",
       "url:https://jobright.ai/jobs/info/6ac40be1064da25272e10e4e",
       "jobright-5b57e2e69558",
-      "url:https://jobright.ai/jobs/info/6a8cabbacde3717f9e9be8d9"
+      "url:https://jobright.ai/jobs/info/6a8cabbacde3717f9e9be8d9",
+      "zapply-c9355d2b96e7",
+      "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22984"
     ],
     "swe-ai-full-time": [
       "zapply-93880035a2a2",
@@ -48462,7 +48512,17 @@
       "jobright-5e27c54b2959",
       "url:https://jobright.ai/jobs/info/6ac42dc0d9621c5b283a0134",
       "applyguy-9eb37e41-6390-443b-9379-1e34bad05eab",
-      "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148"
+      "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148",
+      "greenhouse-roku-8188704",
+      "url:https://www.weareroku.com/jobs/8188704",
+      "zapply-eabeb30d6070",
+      "url:https://zapply.jobs/l/d/amazon-74148ec2-1021-49e4-a387-a5f17d6c4733",
+      "amazon-10569960",
+      "url:https://www.amazon.jobs/en/jobs/10569960/software-development-engineer-iam-identity-center-unified-signin-and-sessions",
+      "ashby-sierra-b8666a78-fcb1-47bb-ad07-5edb6cd3ad71",
+      "url:https://jobs.ashbyhq.com/sierra/b8666a78-fcb1-47bb-ad07-5edb6cd3ad71",
+      "gradtracker-33624d4f0253",
+      "url:https://www.amazon.jobs/en/jobs/10569923/embedded-software-development-engineer-flight-computer-software"
     ]
   }
 }
