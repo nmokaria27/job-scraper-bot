@@ -39343,10 +39343,42 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10570958/product-manager-tech-ring-blink-accessories",
       "seen_at": "2026-10-06T19:01:21.746826+00:00"
+    },
+    {
+      "id": "zapply-ef27cce6d410",
+      "seen_at": "2026-10-06T19:31:12.591461+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nwis-nw-JR102085",
+      "seen_at": "2026-10-06T19:31:12.591937+00:00"
+    },
+    {
+      "id": "greenhouse-affirm-8008649003",
+      "seen_at": "2026-10-06T19:31:12.592321+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+      "seen_at": "2026-10-06T19:31:12.592689+00:00"
+    },
+    {
+      "id": "zapply-35592b9ed2f8",
+      "seen_at": "2026-10-06T19:31:12.593054+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-c348647e-a7c7-45de-a142-76f8abb6596c",
+      "seen_at": "2026-10-06T19:31:12.593412+00:00"
+    },
+    {
+      "id": "amazon-10571021",
+      "seen_at": "2026-10-06T19:31:12.593774+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10571021/software-development-engineer-advanced-analytics-lld",
+      "seen_at": "2026-10-06T19:31:12.594117+00:00"
     }
   ],
-  "last_run": "2026-10-06T19:01:22.043034+00:00",
-  "total_notified": 8264,
+  "last_run": "2026-10-06T19:31:13.527076+00:00",
+  "total_notified": 8268,
   "channels": {
     "pm-jobs": [
       "jobright-5346a355d779",
@@ -49192,7 +49224,15 @@
       "amazon-10570972",
       "url:https://www.amazon.jobs/en/jobs/10570972/applied-scientist-brp-payment-risk-ml-brp-payment-risk-ml",
       "amazon-10570976",
-      "url:https://www.amazon.jobs/en/jobs/10570976/applied-scientist-brp-payment-risk-ml-brp-payment-risk-ml"
+      "url:https://www.amazon.jobs/en/jobs/10570976/applied-scientist-brp-payment-risk-ml-brp-payment-risk-ml",
+      "zapply-ef27cce6d410",
+      "url:https://zapply.jobs/l/d/workday-nwis-nw-JR102085",
+      "greenhouse-affirm-8008649003",
+      "url:https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+      "zapply-35592b9ed2f8",
+      "url:https://zapply.jobs/l/d/amazon-c348647e-a7c7-45de-a142-76f8abb6596c",
+      "amazon-10571021",
+      "url:https://www.amazon.jobs/en/jobs/10571021/software-development-engineer-advanced-analytics-lld"
     ]
   }
 }
