@@ -39087,10 +39087,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-muonspace-5257621007",
       "seen_at": "2026-10-06T11:01:45.991358+00:00"
+    },
+    {
+      "id": "zapply-ed1feadcb309",
+      "seen_at": "2026-10-06T12:31:14.345264+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397754",
+      "seen_at": "2026-10-06T12:31:14.345758+00:00"
+    },
+    {
+      "id": "ashby-posthog-3c592b84-8b34-4ae4-ae23-cadce8f2212d",
+      "seen_at": "2026-10-06T12:31:15.893129+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/posthog/3c592b84-8b34-4ae4-ae23-cadce8f2212d",
+      "seen_at": "2026-10-06T12:31:15.893583+00:00"
     }
   ],
-  "last_run": "2026-10-06T12:01:30.678747+00:00",
-  "total_notified": 8190,
+  "last_run": "2026-10-06T12:31:17.049961+00:00",
+  "total_notified": 8192,
   "channels": {
     "pm-jobs": [
       "zapply-e4855ca37724",
@@ -40523,7 +40539,9 @@
       "jobright-f1c69eef6f92",
       "url:https://jobright.ai/jobs/info/6ac47007064da25272e12dd6",
       "zapply-201cb132a298",
-      "url:https://zapply.jobs/l/d/greenhouse-muonspace-5257621007"
+      "url:https://zapply.jobs/l/d/greenhouse-muonspace-5257621007",
+      "ashby-posthog-3c592b84-8b34-4ae4-ae23-cadce8f2212d",
+      "url:https://jobs.ashbyhq.com/posthog/3c592b84-8b34-4ae4-ae23-cadce8f2212d"
     ],
     "swe-ai-full-time": [
       "zapply-93880035a2a2",
@@ -48872,7 +48890,9 @@
       "workday-intel-JR0287848",
       "url:https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Cloud-Software-Development-Engineer_JR0287848",
       "workday-intel-JR0287849",
-      "url:https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Cloud-Software-Development-Engineer_JR0287849"
+      "url:https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Cloud-Software-Development-Engineer_JR0287849",
+      "zapply-ed1feadcb309",
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397754"
     ]
   }
 }
