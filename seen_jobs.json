@@ -39135,10 +39135,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/ramp/e0b64893-0459-4d84-ac4f-7b50966ef024",
       "seen_at": "2026-10-06T16:31:19.237754+00:00"
+    },
+    {
+      "id": "amazon-10570607",
+      "seen_at": "2026-10-06T16:44:22.753156+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10570607/software-development-engineer-piezo",
+      "seen_at": "2026-10-06T16:44:22.753991+00:00"
+    },
+    {
+      "id": "zapply-0f030e44e6bb",
+      "seen_at": "2026-10-06T16:44:22.754689+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-langchain-e10513d4-1b8d-492f-a6af-94bdae366a1a",
+      "seen_at": "2026-10-06T16:44:22.755341+00:00"
     }
   ],
-  "last_run": "2026-10-06T16:31:19.477582+00:00",
-  "total_notified": 8226,
+  "last_run": "2026-10-06T16:44:23.878056+00:00",
+  "total_notified": 8228,
   "channels": {
     "pm-jobs": [
       "jobright-a9e7bd7433b0",
@@ -48932,7 +48948,11 @@
       "amazon-10570566",
       "url:https://www.amazon.jobs/en/jobs/10570566/applied-scientist-neuron-automated-reasoning-group",
       "jobright-75234275ec04",
-      "url:https://jobright.ai/jobs/info/6a8878be25fc4e7ae3db087d"
+      "url:https://jobright.ai/jobs/info/6a8878be25fc4e7ae3db087d",
+      "amazon-10570607",
+      "url:https://www.amazon.jobs/en/jobs/10570607/software-development-engineer-piezo",
+      "zapply-0f030e44e6bb",
+      "url:https://zapply.jobs/l/d/ashby-langchain-e10513d4-1b8d-492f-a6af-94bdae366a1a"
     ]
   }
 }
