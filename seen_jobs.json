@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-e7c6a2069c2d",
-      "seen_at": "2026-09-06T22:28:55.210776+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/Eurofins/744000124177229",
-      "seen_at": "2026-09-06T22:28:55.211476+00:00"
-    },
-    {
-      "id": "zapply-78b11c2eae9e",
-      "seen_at": "2026-09-06T22:28:55.212098+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/perk/f6929dc9-047e-4694-b686-5da6f97a323b",
-      "seen_at": "2026-09-06T22:28:55.212702+00:00"
-    },
-    {
-      "id": "zapply-405d40c6a070",
-      "seen_at": "2026-09-06T22:28:55.213298+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6",
-      "seen_at": "2026-09-06T22:28:55.213871+00:00"
-    },
-    {
-      "id": "zapply-6f4572bb8a35",
-      "seen_at": "2026-09-06T22:28:55.214458+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
-      "seen_at": "2026-09-06T22:28:55.215015+00:00"
-    },
-    {
-      "id": "jobright-0872f8229d4d",
-      "seen_at": "2026-09-06T22:28:55.215602+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7cf4c0d77e8156a8e35419",
-      "seen_at": "2026-09-06T22:28:55.216155+00:00"
-    },
-    {
-      "id": "jobright-d16da9f98244",
-      "seen_at": "2026-09-06T22:28:55.216733+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7f6fb1927c79391ad08f51",
-      "seen_at": "2026-09-06T22:28:55.217298+00:00"
-    },
-    {
-      "id": "jobright-616b4caaf26d",
-      "seen_at": "2026-09-06T22:28:55.217862+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a74a2f47b3417772ade0a5e",
-      "seen_at": "2026-09-06T22:28:55.218426+00:00"
-    },
-    {
       "id": "zapply-5ac29c4bf8ba",
       "seen_at": "2026-09-07T00:19:32.357561+00:00"
     },
@@ -39639,10 +39583,50 @@
     {
       "id": "url:https://www.asana.com/jobs/apply/8194540",
       "seen_at": "2026-10-06T22:01:23.066607+00:00"
+    },
+    {
+      "id": "zapply-e4dbbdc03755",
+      "seen_at": "2026-10-06T22:31:13.371376+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-transunion-transunion-19042717",
+      "seen_at": "2026-10-06T22:31:13.372103+00:00"
+    },
+    {
+      "id": "zapply-6b87e7bbc830",
+      "seen_at": "2026-10-06T22:31:13.372756+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-avav-avav-8062",
+      "seen_at": "2026-10-06T22:31:13.373375+00:00"
+    },
+    {
+      "id": "zapply-a0979aafb6f9",
+      "seen_at": "2026-10-06T22:31:13.373973+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-nokia-40656",
+      "seen_at": "2026-10-06T22:31:13.374577+00:00"
+    },
+    {
+      "id": "zapply-43ed633f0efb",
+      "seen_at": "2026-10-06T22:31:13.375185+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-9f62816c-5855-4c85-a9fc-d4f966636a20",
+      "seen_at": "2026-10-06T22:31:13.375787+00:00"
+    },
+    {
+      "id": "amazon-10571309",
+      "seen_at": "2026-10-06T22:31:13.376396+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10571309/applied-scientist-fault-tolerant-quantum-computing-amazon-braket",
+      "seen_at": "2026-10-06T22:31:13.376976+00:00"
     }
   ],
-  "last_run": "2026-10-06T22:01:23.389918+00:00",
-  "total_notified": 8310,
+  "last_run": "2026-10-06T22:31:14.742311+00:00",
+  "total_notified": 8315,
   "channels": {
     "pm-jobs": [
       "jobright-a0c53363b4d8",
@@ -41104,20 +41088,6 @@
       "url:https://www.asana.com/jobs/apply/8194540"
     ],
     "swe-ai-full-time": [
-      "zapply-e7c6a2069c2d",
-      "url:https://jobs.smartrecruiters.com/Eurofins/744000124177229",
-      "zapply-78b11c2eae9e",
-      "url:https://jobs.ashbyhq.com/perk/f6929dc9-047e-4694-b686-5da6f97a323b",
-      "zapply-405d40c6a070",
-      "url:https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6",
-      "zapply-6f4572bb8a35",
-      "url:https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
-      "jobright-0872f8229d4d",
-      "url:https://jobright.ai/jobs/info/6a7cf4c0d77e8156a8e35419",
-      "jobright-d16da9f98244",
-      "url:https://jobright.ai/jobs/info/6a7f6fb1927c79391ad08f51",
-      "jobright-616b4caaf26d",
-      "url:https://jobright.ai/jobs/info/6a74a2f47b3417772ade0a5e",
       "zapply-5ac29c4bf8ba",
       "url:https://jobs.lever.co/cfsenergy/27e3a498-9ab0-43a7-896f-75f791aee6bb",
       "zapply-822eb94c2dfb",
@@ -49562,7 +49532,17 @@
       "amazon-10571270",
       "url:https://www.amazon.jobs/en/jobs/10571270/software-engineer-fauna",
       "jobright-ddd5096510e9",
-      "url:https://jobright.ai/jobs/info/6ac55154372c01f6cd73908f"
+      "url:https://jobright.ai/jobs/info/6ac55154372c01f6cd73908f",
+      "zapply-e4dbbdc03755",
+      "url:https://zapply.jobs/l/d/workday-transunion-transunion-19042717",
+      "zapply-6b87e7bbc830",
+      "url:https://zapply.jobs/l/d/workday-avav-avav-8062",
+      "zapply-a0979aafb6f9",
+      "url:https://zapply.jobs/l/d/oracle-nokia-40656",
+      "zapply-43ed633f0efb",
+      "url:https://zapply.jobs/l/d/amazon-9f62816c-5855-4c85-a9fc-d4f966636a20",
+      "amazon-10571309",
+      "url:https://www.amazon.jobs/en/jobs/10571309/applied-scientist-fault-tolerant-quantum-computing-amazon-braket"
     ]
   }
 }
