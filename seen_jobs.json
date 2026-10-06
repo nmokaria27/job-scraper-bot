@@ -1,198 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-e4855ca37724",
-      "seen_at": "2026-09-06T13:38:17.263127+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/matchgroup/af478895-db01-4dbe-b394-54d58201b082",
-      "seen_at": "2026-09-06T13:38:17.264052+00:00"
-    },
-    {
-      "id": "zapply-93880035a2a2",
-      "seen_at": "2026-09-06T13:38:37.658140+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/tri/f1f3a5a2-8aaa-41e1-914c-0453489bea1e",
-      "seen_at": "2026-09-06T13:38:37.659195+00:00"
-    },
-    {
-      "id": "zapply-e6f44463b8a4",
-      "seen_at": "2026-09-06T13:38:37.659939+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/BryceTech/744000138671027",
-      "seen_at": "2026-09-06T13:38:37.660611+00:00"
-    },
-    {
-      "id": "zapply-8dc2c7fa6619",
-      "seen_at": "2026-09-06T13:38:37.661256+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/field-ai/95ff2df3-4408-47f3-a2c5-295d8067bb30",
-      "seen_at": "2026-09-06T13:38:37.661917+00:00"
-    },
-    {
-      "id": "zapply-460807cc2ca0",
-      "seen_at": "2026-09-06T13:38:37.662580+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/ifm-us/5edf0fd9-2f47-4f1f-bf12-a787ebf9934e",
-      "seen_at": "2026-09-06T13:38:37.663215+00:00"
-    },
-    {
-      "id": "zapply-45e5b6df044b",
-      "seen_at": "2026-09-06T13:38:37.663919+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/ifm-us/1454349c-eb2b-480b-9a57-edfbb2aeeffe",
-      "seen_at": "2026-09-06T13:38:37.664609+00:00"
-    },
-    {
-      "id": "zapply-e461a5230b8f",
-      "seen_at": "2026-09-06T13:38:37.665255+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/b08126cc-8134-45f0-aeb3-4b00e96547de",
-      "seen_at": "2026-09-06T13:38:37.665934+00:00"
-    },
-    {
-      "id": "zapply-7783312543fb",
-      "seen_at": "2026-09-06T13:38:37.666587+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/saronic/2331c410-d2f9-4320-967b-40e17c89b239",
-      "seen_at": "2026-09-06T13:38:37.667219+00:00"
-    },
-    {
-      "id": "jobright-4071c625f982",
-      "seen_at": "2026-09-06T13:38:37.667887+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9d491ddacf777321a8f6be",
-      "seen_at": "2026-09-06T13:38:37.668518+00:00"
-    },
-    {
-      "id": "jobright-bfc4bcb88006",
-      "seen_at": "2026-09-06T13:38:37.669176+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9d49172c964816f65ea96f",
-      "seen_at": "2026-09-06T13:38:37.669810+00:00"
-    },
-    {
-      "id": "jobright-0d9c41772b2b",
-      "seen_at": "2026-09-06T13:38:37.670461+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9d4914a7ba386c5d66faba",
-      "seen_at": "2026-09-06T13:38:37.671084+00:00"
-    },
-    {
-      "id": "jobright-2c009815493d",
-      "seen_at": "2026-09-06T13:38:37.671730+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9d4914a7ba386c5d66fab9",
-      "seen_at": "2026-09-06T13:38:37.672379+00:00"
-    },
-    {
-      "id": "jobright-ee54b3c3d0de",
-      "seen_at": "2026-09-06T13:38:37.673015+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a0ff2599f654b3359ce8f33",
-      "seen_at": "2026-09-06T13:38:37.673647+00:00"
-    },
-    {
-      "id": "jobright-b260aac6930e",
-      "seen_at": "2026-09-06T13:38:37.674297+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9d447575edfa11b470f316",
-      "seen_at": "2026-09-06T13:38:37.674974+00:00"
-    },
-    {
-      "id": "jobright-f4e4c3b7bb4d",
-      "seen_at": "2026-09-06T13:38:37.675628+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a37a113ce501060b5cf8a08",
-      "seen_at": "2026-09-06T13:38:37.676264+00:00"
-    },
-    {
-      "id": "jobright-a937d569fb07",
-      "seen_at": "2026-09-06T13:38:37.676930+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a2169924bdf8a5a96bd5a55",
-      "seen_at": "2026-09-06T13:38:37.677583+00:00"
-    },
-    {
-      "id": "jobright-abe5a9ea3629",
-      "seen_at": "2026-09-06T13:38:37.678203+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a6765f5d0fb4c3df393c993",
-      "seen_at": "2026-09-06T13:38:37.678844+00:00"
-    },
-    {
-      "id": "jobright-0c4d27e4e90c",
-      "seen_at": "2026-09-06T13:38:37.679513+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a16c1c4128680351d96caf0",
-      "seen_at": "2026-09-06T13:38:37.680149+00:00"
-    },
-    {
-      "id": "jobright-eb3620bfbb9a",
-      "seen_at": "2026-09-06T13:38:37.680818+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a85c1a7e459fa3baa8639cf",
-      "seen_at": "2026-09-06T13:38:37.681468+00:00"
-    },
-    {
-      "id": "jobright-e68382b317e1",
-      "seen_at": "2026-09-06T13:38:37.682116+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a3ea3d6ce7cce40b342107c",
-      "seen_at": "2026-09-06T13:38:37.682762+00:00"
-    },
-    {
-      "id": "jobright-fd5ae5a19bca",
-      "seen_at": "2026-09-06T13:38:37.683427+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a71a42bee751e0c7934463e",
-      "seen_at": "2026-09-06T13:38:37.684046+00:00"
-    },
-    {
-      "id": "jobright-c77c7b629128",
-      "seen_at": "2026-09-06T13:38:37.684697+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a351a831232144fb1561fe9",
-      "seen_at": "2026-09-06T13:38:37.685339+00:00"
-    },
-    {
-      "id": "jobright-929c49c115f3",
-      "seen_at": "2026-09-06T13:38:37.685984+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a83c45f3eeac101cfaa19d7",
-      "seen_at": "2026-09-06T13:38:37.686611+00:00"
-    },
-    {
-      "id": "jobright-7ce72bb79f7e",
-      "seen_at": "2026-09-06T13:38:37.687267+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7f77ac927c79391ad0958a",
-      "seen_at": "2026-09-06T13:38:37.687898+00:00"
-    },
-    {
       "id": "jobright-54f18fd5b6fa",
       "seen_at": "2026-09-06T16:29:31.753523+00:00"
     },
@@ -39127,14 +38935,44 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10570289/embedded-software-dev-engineer-ring",
       "seen_at": "2026-10-06T13:31:38.762320+00:00"
+    },
+    {
+      "id": "zapply-686bc5d77f47",
+      "seen_at": "2026-10-06T14:01:23.380820+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-0d30afdc-c528-4848-8dca-299b3d4fc0b6",
+      "seen_at": "2026-10-06T14:01:23.381559+00:00"
+    },
+    {
+      "id": "jobright-bdd4f35e40fc",
+      "seen_at": "2026-10-06T14:01:23.382209+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa89ece2ed333b4ea5d0392",
+      "seen_at": "2026-10-06T14:01:23.382846+00:00"
+    },
+    {
+      "id": "ashby-substack-e2d93603-449b-4d1d-9545-4c2c1d64ad1a",
+      "seen_at": "2026-10-06T14:01:25.266512+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/substack/e2d93603-449b-4d1d-9545-4c2c1d64ad1a",
+      "seen_at": "2026-10-06T14:01:25.267249+00:00"
+    },
+    {
+      "id": "jobright-3a45e0c92af0",
+      "seen_at": "2026-10-06T14:01:25.267847+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aba990bd2914e9273eec28b",
+      "seen_at": "2026-10-06T14:01:25.268394+00:00"
     }
   ],
-  "last_run": "2026-10-06T13:31:40.727142+00:00",
-  "total_notified": 8195,
+  "last_run": "2026-10-06T14:01:25.558013+00:00",
+  "total_notified": 8199,
   "channels": {
     "pm-jobs": [
-      "zapply-e4855ca37724",
-      "url:https://jobs.lever.co/matchgroup/af478895-db01-4dbe-b394-54d58201b082",
       "jobright-54f18fd5b6fa",
       "url:https://jobright.ai/jobs/info/6a9d5d7568f82b40367379af",
       "jobright-a9e7bd7433b0",
@@ -40565,55 +40403,13 @@
       "zapply-201cb132a298",
       "url:https://zapply.jobs/l/d/greenhouse-muonspace-5257621007",
       "ashby-posthog-3c592b84-8b34-4ae4-ae23-cadce8f2212d",
-      "url:https://jobs.ashbyhq.com/posthog/3c592b84-8b34-4ae4-ae23-cadce8f2212d"
+      "url:https://jobs.ashbyhq.com/posthog/3c592b84-8b34-4ae4-ae23-cadce8f2212d",
+      "ashby-substack-e2d93603-449b-4d1d-9545-4c2c1d64ad1a",
+      "url:https://jobs.ashbyhq.com/substack/e2d93603-449b-4d1d-9545-4c2c1d64ad1a",
+      "jobright-3a45e0c92af0",
+      "url:https://jobright.ai/jobs/info/6aba990bd2914e9273eec28b"
     ],
     "swe-ai-full-time": [
-      "zapply-93880035a2a2",
-      "url:https://jobs.lever.co/tri/f1f3a5a2-8aaa-41e1-914c-0453489bea1e",
-      "zapply-e6f44463b8a4",
-      "url:https://jobs.smartrecruiters.com/BryceTech/744000138671027",
-      "zapply-8dc2c7fa6619",
-      "url:https://jobs.lever.co/field-ai/95ff2df3-4408-47f3-a2c5-295d8067bb30",
-      "zapply-460807cc2ca0",
-      "url:https://jobs.lever.co/ifm-us/5edf0fd9-2f47-4f1f-bf12-a787ebf9934e",
-      "zapply-45e5b6df044b",
-      "url:https://jobs.lever.co/ifm-us/1454349c-eb2b-480b-9a57-edfbb2aeeffe",
-      "zapply-e461a5230b8f",
-      "url:https://jobs.ashbyhq.com/openai/b08126cc-8134-45f0-aeb3-4b00e96547de",
-      "zapply-7783312543fb",
-      "url:https://jobs.ashbyhq.com/saronic/2331c410-d2f9-4320-967b-40e17c89b239",
-      "jobright-4071c625f982",
-      "url:https://jobright.ai/jobs/info/6a9d491ddacf777321a8f6be",
-      "jobright-bfc4bcb88006",
-      "url:https://jobright.ai/jobs/info/6a9d49172c964816f65ea96f",
-      "jobright-0d9c41772b2b",
-      "url:https://jobright.ai/jobs/info/6a9d4914a7ba386c5d66faba",
-      "jobright-2c009815493d",
-      "url:https://jobright.ai/jobs/info/6a9d4914a7ba386c5d66fab9",
-      "jobright-ee54b3c3d0de",
-      "url:https://jobright.ai/jobs/info/6a0ff2599f654b3359ce8f33",
-      "jobright-b260aac6930e",
-      "url:https://jobright.ai/jobs/info/6a9d447575edfa11b470f316",
-      "jobright-f4e4c3b7bb4d",
-      "url:https://jobright.ai/jobs/info/6a37a113ce501060b5cf8a08",
-      "jobright-a937d569fb07",
-      "url:https://jobright.ai/jobs/info/6a2169924bdf8a5a96bd5a55",
-      "jobright-abe5a9ea3629",
-      "url:https://jobright.ai/jobs/info/6a6765f5d0fb4c3df393c993",
-      "jobright-0c4d27e4e90c",
-      "url:https://jobright.ai/jobs/info/6a16c1c4128680351d96caf0",
-      "jobright-eb3620bfbb9a",
-      "url:https://jobright.ai/jobs/info/6a85c1a7e459fa3baa8639cf",
-      "jobright-e68382b317e1",
-      "url:https://jobright.ai/jobs/info/6a3ea3d6ce7cce40b342107c",
-      "jobright-fd5ae5a19bca",
-      "url:https://jobright.ai/jobs/info/6a71a42bee751e0c7934463e",
-      "jobright-c77c7b629128",
-      "url:https://jobright.ai/jobs/info/6a351a831232144fb1561fe9",
-      "jobright-929c49c115f3",
-      "url:https://jobright.ai/jobs/info/6a83c45f3eeac101cfaa19d7",
-      "jobright-7ce72bb79f7e",
-      "url:https://jobright.ai/jobs/info/6a7f77ac927c79391ad0958a",
       "jobright-633c94760634",
       "url:https://jobright.ai/jobs/info/6a788a99b17cba5690361a95",
       "jobright-75234275ec04",
@@ -48922,7 +48718,11 @@
       "jobright-2d634cb2c503",
       "url:https://jobright.ai/jobs/info/6a5a03724da96a42cfd939a1",
       "amazon-10570289",
-      "url:https://www.amazon.jobs/en/jobs/10570289/embedded-software-dev-engineer-ring"
+      "url:https://www.amazon.jobs/en/jobs/10570289/embedded-software-dev-engineer-ring",
+      "zapply-686bc5d77f47",
+      "url:https://zapply.jobs/l/d/amazon-0d30afdc-c528-4848-8dca-299b3d4fc0b6",
+      "jobright-bdd4f35e40fc",
+      "url:https://jobright.ai/jobs/info/6aa89ece2ed333b4ea5d0392"
     ]
   }
 }
