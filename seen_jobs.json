@@ -38967,10 +38967,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aba990bd2914e9273eec28b",
       "seen_at": "2026-10-06T14:01:25.268394+00:00"
+    },
+    {
+      "id": "zapply-c165147b1c4a",
+      "seen_at": "2026-10-06T14:31:21.768558+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-icapitalnetwork-8802717002",
+      "seen_at": "2026-10-06T14:31:21.769242+00:00"
+    },
+    {
+      "id": "zapply-aaf43e1dc2db",
+      "seen_at": "2026-10-06T14:31:21.769847+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-102986499162546886",
+      "seen_at": "2026-10-06T14:31:21.770461+00:00"
     }
   ],
-  "last_run": "2026-10-06T14:01:25.558013+00:00",
-  "total_notified": 8199,
+  "last_run": "2026-10-06T14:31:23.161236+00:00",
+  "total_notified": 8201,
   "channels": {
     "pm-jobs": [
       "jobright-54f18fd5b6fa",
@@ -48722,7 +48738,11 @@
       "zapply-686bc5d77f47",
       "url:https://zapply.jobs/l/d/amazon-0d30afdc-c528-4848-8dca-299b3d4fc0b6",
       "jobright-bdd4f35e40fc",
-      "url:https://jobright.ai/jobs/info/6aa89ece2ed333b4ea5d0392"
+      "url:https://jobright.ai/jobs/info/6aa89ece2ed333b4ea5d0392",
+      "zapply-c165147b1c4a",
+      "url:https://zapply.jobs/l/d/greenhouse-icapitalnetwork-8802717002",
+      "zapply-aaf43e1dc2db",
+      "url:https://zapply.jobs/l/d/google-102986499162546886"
     ]
   }
 }
