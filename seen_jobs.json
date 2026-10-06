@@ -39343,10 +39343,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac51841d9621c5b283a31f6",
       "seen_at": "2026-10-06T18:01:34.533283+00:00"
+    },
+    {
+      "id": "ashby-supabase-48950725-e0d9-4025-92d9-f75e1b60ce45",
+      "seen_at": "2026-10-06T18:31:15.509795+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45",
+      "seen_at": "2026-10-06T18:31:15.510253+00:00"
+    },
+    {
+      "id": "zapply-411496241ead",
+      "seen_at": "2026-10-06T18:31:15.510614+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-visa-visa-REF081637W",
+      "seen_at": "2026-10-06T18:31:15.510960+00:00"
+    },
+    {
+      "id": "zapply-a3cf6fb6f279",
+      "seen_at": "2026-10-06T18:31:15.511313+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-citi-2-26972927",
+      "seen_at": "2026-10-06T18:31:15.511647+00:00"
+    },
+    {
+      "id": "zapply-1e5156f607e4",
+      "seen_at": "2026-10-06T18:31:15.511976+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200687461",
+      "seen_at": "2026-10-06T18:31:15.512309+00:00"
+    },
+    {
+      "id": "zapply-623ba17ad6b3",
+      "seen_at": "2026-10-06T18:31:15.512630+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-d5857279-ce51-4513-9e07-9e0d9f71e974",
+      "seen_at": "2026-10-06T18:31:15.512950+00:00"
+    },
+    {
+      "id": "zapply-3f0fe346215e",
+      "seen_at": "2026-10-06T18:31:15.513272+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workable-amax-1-97D4EB5E32",
+      "seen_at": "2026-10-06T18:31:15.513586+00:00"
     }
   ],
-  "last_run": "2026-10-06T18:01:34.785284+00:00",
-  "total_notified": 8252,
+  "last_run": "2026-10-06T18:31:16.409593+00:00",
+  "total_notified": 8258,
   "channels": {
     "pm-jobs": [
       "jobright-a9e7bd7433b0",
@@ -49192,7 +49240,19 @@
       "amazon-10570863",
       "url:https://www.amazon.jobs/en/jobs/10570863/data-scientist-reactive-transfers",
       "jobright-819feb7cfcaf",
-      "url:https://jobright.ai/jobs/info/6ac5149a4ac55253f5d745c7"
+      "url:https://jobright.ai/jobs/info/6ac5149a4ac55253f5d745c7",
+      "ashby-supabase-48950725-e0d9-4025-92d9-f75e1b60ce45",
+      "url:https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45",
+      "zapply-411496241ead",
+      "url:https://zapply.jobs/l/d/workday-visa-visa-REF081637W",
+      "zapply-a3cf6fb6f279",
+      "url:https://zapply.jobs/l/d/workday-citi-2-26972927",
+      "zapply-1e5156f607e4",
+      "url:https://zapply.jobs/l/d/apple-200687461",
+      "zapply-623ba17ad6b3",
+      "url:https://zapply.jobs/l/d/amazon-d5857279-ce51-4513-9e07-9e0d9f71e974",
+      "zapply-3f0fe346215e",
+      "url:https://zapply.jobs/l/d/workable-amax-1-97D4EB5E32"
     ]
   }
 }
