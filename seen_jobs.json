@@ -38839,10 +38839,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210795475",
       "seen_at": "2026-10-06T02:31:09.061038+00:00"
+    },
+    {
+      "id": "zapply-e4311bd9b295",
+      "seen_at": "2026-10-06T03:01:26.037790+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2017493",
+      "seen_at": "2026-10-06T03:01:26.038505+00:00"
+    },
+    {
+      "id": "simplify-69c7639c-c15d-4df3-8d5b-a8df024bd29e",
+      "seen_at": "2026-10-06T03:01:26.039152+00:00"
+    },
+    {
+      "id": "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794232",
+      "seen_at": "2026-10-06T03:01:26.039775+00:00"
     }
   ],
-  "last_run": "2026-10-06T02:31:10.165869+00:00",
-  "total_notified": 8159,
+  "last_run": "2026-10-06T03:01:27.065087+00:00",
+  "total_notified": 8161,
   "channels": {
     "pm-jobs": [
       "zapply-e4855ca37724",
@@ -48562,7 +48578,11 @@
       "zapply-9e543da53d8e",
       "url:https://zapply.jobs/l/d/amazon-816f41b3-a042-4320-a9ed-236e34976981",
       "zapply-555d445fc16f",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210795475"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210795475",
+      "zapply-e4311bd9b295",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2017493",
+      "simplify-69c7639c-c15d-4df3-8d5b-a8df024bd29e",
+      "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794232"
     ]
   }
 }
