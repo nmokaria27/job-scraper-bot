@@ -39535,10 +39535,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/ashby-openai-a8210588-a178-4afe-91e7-1fa2d269d2e8",
       "seen_at": "2026-10-06T21:01:28.117108+00:00"
+    },
+    {
+      "id": "zapply-a26c307fd28f",
+      "seen_at": "2026-10-06T21:36:35.140878+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526261",
+      "seen_at": "2026-10-06T21:36:35.141349+00:00"
+    },
+    {
+      "id": "zapply-e594dd32c96f",
+      "seen_at": "2026-10-06T21:36:36.898439+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0109512",
+      "seen_at": "2026-10-06T21:36:36.898862+00:00"
     }
   ],
-  "last_run": "2026-10-06T21:31:17.113587+00:00",
-  "total_notified": 8297,
+  "last_run": "2026-10-06T21:36:37.148830+00:00",
+  "total_notified": 8299,
   "channels": {
     "pm-jobs": [
       "jobright-a0c53363b4d8",
@@ -40993,7 +41009,9 @@
       "ashby-openai-a8210588-a178-4afe-91e7-1fa2d269d2e8",
       "url:https://jobs.ashbyhq.com/openai/a8210588-a178-4afe-91e7-1fa2d269d2e8",
       "zapply-ccb4a4de2209",
-      "url:https://zapply.jobs/l/d/ashby-openai-a8210588-a178-4afe-91e7-1fa2d269d2e8"
+      "url:https://zapply.jobs/l/d/ashby-openai-a8210588-a178-4afe-91e7-1fa2d269d2e8",
+      "zapply-e594dd32c96f",
+      "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0109512"
     ],
     "swe-ai-full-time": [
       "zapply-e7c6a2069c2d",
@@ -49432,7 +49450,9 @@
       "jobright-9464430c688f",
       "url:https://jobright.ai/jobs/info/6ac53fc00e027c0f3b3adb9b",
       "jobright-418de2cf2c64",
-      "url:https://jobright.ai/jobs/info/6ac53fc3372c01f6cd73875e"
+      "url:https://jobright.ai/jobs/info/6ac53fc3372c01f6cd73875e",
+      "zapply-a26c307fd28f",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526261"
     ]
   }
 }
