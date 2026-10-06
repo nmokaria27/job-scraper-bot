@@ -39623,10 +39623,122 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10571309/applied-scientist-fault-tolerant-quantum-computing-amazon-braket",
       "seen_at": "2026-10-06T22:31:13.376976+00:00"
+    },
+    {
+      "id": "zapply-a2cba3a74c66",
+      "seen_at": "2026-10-06T23:01:23.596806+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-nuro-8230855",
+      "seen_at": "2026-10-06T23:01:23.597508+00:00"
+    },
+    {
+      "id": "zapply-e1c416d94569",
+      "seen_at": "2026-10-06T23:01:23.598143+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4718041006",
+      "seen_at": "2026-10-06T23:01:23.598772+00:00"
+    },
+    {
+      "id": "simplify-60306e7f-505d-46e5-9416-d35214b79936",
+      "seen_at": "2026-10-06T23:01:23.599410+00:00"
+    },
+    {
+      "id": "url:https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Associate-Software-Engineer_9016",
+      "seen_at": "2026-10-06T23:01:23.600011+00:00"
+    },
+    {
+      "id": "simplify-d3ea3d3e-5e55-495e-912d-ee8f42c44a60",
+      "seen_at": "2026-10-06T23:01:23.600657+00:00"
+    },
+    {
+      "id": "url:https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB--I_9054",
+      "seen_at": "2026-10-06T23:01:23.601262+00:00"
+    },
+    {
+      "id": "simplify-1398d74c-5a13-49bd-a0e8-fd772d6bfdd4",
+      "seen_at": "2026-10-06T23:01:23.601882+00:00"
+    },
+    {
+      "id": "url:https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB---I_9055",
+      "seen_at": "2026-10-06T23:01:23.602507+00:00"
+    },
+    {
+      "id": "jobright-03745d077810",
+      "seen_at": "2026-10-06T23:01:23.603124+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac045aed9621c5b2839725a",
+      "seen_at": "2026-10-06T23:01:23.603749+00:00"
+    },
+    {
+      "id": "jobright-777e3bd4eb34",
+      "seen_at": "2026-10-06T23:01:23.604396+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac55d0d372c01f6cd7394d0",
+      "seen_at": "2026-10-06T23:01:23.605002+00:00"
+    },
+    {
+      "id": "jobright-71112acf68f6",
+      "seen_at": "2026-10-06T23:01:23.605638+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac55d014ac55253f5d76433",
+      "seen_at": "2026-10-06T23:01:23.606239+00:00"
+    },
+    {
+      "id": "jobright-f4010bd698c0",
+      "seen_at": "2026-10-06T23:01:23.606883+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac56636372c01f6cd7398fa",
+      "seen_at": "2026-10-06T23:01:23.607506+00:00"
+    },
+    {
+      "id": "jobright-6d3f77e5a9ab",
+      "seen_at": "2026-10-06T23:01:23.608126+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac55fb20e027c0f3b3aeb29",
+      "seen_at": "2026-10-06T23:01:23.608747+00:00"
+    },
+    {
+      "id": "jobright-caf37c6cbc7c",
+      "seen_at": "2026-10-06T23:01:23.609391+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac52cd4064da25272e153be",
+      "seen_at": "2026-10-06T23:01:23.609999+00:00"
+    },
+    {
+      "id": "jobright-f2d4489afb7d",
+      "seen_at": "2026-10-06T23:01:23.610637+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac5690b372c01f6cd7399be",
+      "seen_at": "2026-10-06T23:01:23.611246+00:00"
+    },
+    {
+      "id": "simplify-b28c693d-dc9a-4021-9f62-fd2020e5f18f",
+      "seen_at": "2026-10-06T23:01:25.650799+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/impact/jobs/8871230002",
+      "seen_at": "2026-10-06T23:01:25.651395+00:00"
+    },
+    {
+      "id": "jobright-e6ce34cd7041",
+      "seen_at": "2026-10-06T23:01:25.651971+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6269eef805ef6ff4232c23",
+      "seen_at": "2026-10-06T23:01:25.652531+00:00"
     }
   ],
-  "last_run": "2026-10-06T22:31:14.742311+00:00",
-  "total_notified": 8315,
+  "last_run": "2026-10-06T23:01:25.827713+00:00",
+  "total_notified": 8329,
   "channels": {
     "pm-jobs": [
       "jobright-a0c53363b4d8",
@@ -41085,7 +41197,11 @@
       "zapply-e594dd32c96f",
       "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0109512",
       "greenhouse-asana-8194540",
-      "url:https://www.asana.com/jobs/apply/8194540"
+      "url:https://www.asana.com/jobs/apply/8194540",
+      "simplify-b28c693d-dc9a-4021-9f62-fd2020e5f18f",
+      "url:https://job-boards.greenhouse.io/impact/jobs/8871230002",
+      "jobright-e6ce34cd7041",
+      "url:https://jobright.ai/jobs/info/6a6269eef805ef6ff4232c23"
     ],
     "swe-ai-full-time": [
       "zapply-5ac29c4bf8ba",
@@ -49542,7 +49658,31 @@
       "zapply-43ed633f0efb",
       "url:https://zapply.jobs/l/d/amazon-9f62816c-5855-4c85-a9fc-d4f966636a20",
       "amazon-10571309",
-      "url:https://www.amazon.jobs/en/jobs/10571309/applied-scientist-fault-tolerant-quantum-computing-amazon-braket"
+      "url:https://www.amazon.jobs/en/jobs/10571309/applied-scientist-fault-tolerant-quantum-computing-amazon-braket",
+      "zapply-a2cba3a74c66",
+      "url:https://zapply.jobs/l/d/greenhouse-nuro-8230855",
+      "zapply-e1c416d94569",
+      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4718041006",
+      "simplify-60306e7f-505d-46e5-9416-d35214b79936",
+      "url:https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Associate-Software-Engineer_9016",
+      "simplify-d3ea3d3e-5e55-495e-912d-ee8f42c44a60",
+      "url:https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB--I_9054",
+      "simplify-1398d74c-5a13-49bd-a0e8-fd772d6bfdd4",
+      "url:https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB---I_9055",
+      "jobright-03745d077810",
+      "url:https://jobright.ai/jobs/info/6ac045aed9621c5b2839725a",
+      "jobright-777e3bd4eb34",
+      "url:https://jobright.ai/jobs/info/6ac55d0d372c01f6cd7394d0",
+      "jobright-71112acf68f6",
+      "url:https://jobright.ai/jobs/info/6ac55d014ac55253f5d76433",
+      "jobright-f4010bd698c0",
+      "url:https://jobright.ai/jobs/info/6ac56636372c01f6cd7398fa",
+      "jobright-6d3f77e5a9ab",
+      "url:https://jobright.ai/jobs/info/6ac55fb20e027c0f3b3aeb29",
+      "jobright-caf37c6cbc7c",
+      "url:https://jobright.ai/jobs/info/6ac52cd4064da25272e153be",
+      "jobright-f2d4489afb7d",
+      "url:https://jobright.ai/jobs/info/6ac5690b372c01f6cd7399be"
     ]
   }
 }
