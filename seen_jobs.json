@@ -38807,10 +38807,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22984",
       "seen_at": "2026-10-06T01:31:10.324093+00:00"
+    },
+    {
+      "id": "zapply-d0216e26c7f6",
+      "seen_at": "2026-10-06T02:01:13.932921+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-roku-8188704",
+      "seen_at": "2026-10-06T02:01:13.933721+00:00"
+    },
+    {
+      "id": "zapply-f233a90ced64",
+      "seen_at": "2026-10-06T02:01:13.934392+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210794232",
+      "seen_at": "2026-10-06T02:01:13.935034+00:00"
+    },
+    {
+      "id": "zapply-9e543da53d8e",
+      "seen_at": "2026-10-06T02:01:13.935636+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-816f41b3-a042-4320-a9ed-236e34976981",
+      "seen_at": "2026-10-06T02:01:13.936227+00:00"
     }
   ],
-  "last_run": "2026-10-06T01:31:11.219351+00:00",
-  "total_notified": 8155,
+  "last_run": "2026-10-06T02:01:14.860741+00:00",
+  "total_notified": 8158,
   "channels": {
     "pm-jobs": [
       "zapply-e4855ca37724",
@@ -48522,7 +48546,13 @@
       "ashby-sierra-b8666a78-fcb1-47bb-ad07-5edb6cd3ad71",
       "url:https://jobs.ashbyhq.com/sierra/b8666a78-fcb1-47bb-ad07-5edb6cd3ad71",
       "gradtracker-33624d4f0253",
-      "url:https://www.amazon.jobs/en/jobs/10569923/embedded-software-development-engineer-flight-computer-software"
+      "url:https://www.amazon.jobs/en/jobs/10569923/embedded-software-development-engineer-flight-computer-software",
+      "zapply-d0216e26c7f6",
+      "url:https://zapply.jobs/l/d/greenhouse-roku-8188704",
+      "zapply-f233a90ced64",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210794232",
+      "zapply-9e543da53d8e",
+      "url:https://zapply.jobs/l/d/amazon-816f41b3-a042-4320-a9ed-236e34976981"
     ]
   }
 }
