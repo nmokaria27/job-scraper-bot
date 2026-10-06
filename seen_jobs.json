@@ -38719,10 +38719,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a8cabbacde3717f9e9be8d9",
       "seen_at": "2026-10-06T00:01:21.436474+00:00"
+    },
+    {
+      "id": "amazon-10569946",
+      "seen_at": "2026-10-06T00:56:56.340188+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10569946/software-development-engineer-amazon-leo-for-government",
+      "seen_at": "2026-10-06T00:56:56.340732+00:00"
+    },
+    {
+      "id": "amazon-10569950",
+      "seen_at": "2026-10-06T00:56:56.341211+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10569950/software-engineer-ai-ml-inference-team-aws-neuron",
+      "seen_at": "2026-10-06T00:56:56.341650+00:00"
+    },
+    {
+      "id": "zapply-76aef5f52b94",
+      "seen_at": "2026-10-06T00:56:56.342182+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-baseten-14c4a663-0b1f-4c11-93ff-1359741ee456",
+      "seen_at": "2026-10-06T00:56:56.342617+00:00"
+    },
+    {
+      "id": "jobright-5e27c54b2959",
+      "seen_at": "2026-10-06T00:56:56.343039+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac42dc0d9621c5b283a0134",
+      "seen_at": "2026-10-06T00:56:56.343456+00:00"
+    },
+    {
+      "id": "applyguy-9eb37e41-6390-443b-9379-1e34bad05eab",
+      "seen_at": "2026-10-06T00:56:56.343881+00:00"
+    },
+    {
+      "id": "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148",
+      "seen_at": "2026-10-06T00:56:56.344307+00:00"
     }
   ],
-  "last_run": "2026-10-06T00:31:09.098072+00:00",
-  "total_notified": 8144,
+  "last_run": "2026-10-06T00:56:57.040673+00:00",
+  "total_notified": 8149,
   "channels": {
     "pm-jobs": [
       "zapply-e4855ca37724",
@@ -48412,7 +48452,17 @@
       "zapply-3fbe52c5f2c1",
       "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229928",
       "zapply-b4e89271117b",
-      "url:https://zapply.jobs/l/d/qualcomm-3093254"
+      "url:https://zapply.jobs/l/d/qualcomm-3093254",
+      "amazon-10569946",
+      "url:https://www.amazon.jobs/en/jobs/10569946/software-development-engineer-amazon-leo-for-government",
+      "amazon-10569950",
+      "url:https://www.amazon.jobs/en/jobs/10569950/software-engineer-ai-ml-inference-team-aws-neuron",
+      "zapply-76aef5f52b94",
+      "url:https://zapply.jobs/l/d/ashby-baseten-14c4a663-0b1f-4c11-93ff-1359741ee456",
+      "jobright-5e27c54b2959",
+      "url:https://jobright.ai/jobs/info/6ac42dc0d9621c5b283a0134",
+      "applyguy-9eb37e41-6390-443b-9379-1e34bad05eab",
+      "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148"
     ]
   }
 }
