@@ -39455,10 +39455,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac531ec8ff3fb9b3bc8835f",
       "seen_at": "2026-10-06T20:01:30.926066+00:00"
+    },
+    {
+      "id": "ashby-cursor-34cecd0c-c392-4454-8ef5-261310541011",
+      "seen_at": "2026-10-06T20:31:10.260914+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011",
+      "seen_at": "2026-10-06T20:31:10.261634+00:00"
+    },
+    {
+      "id": "zapply-f4e4e450d44d",
+      "seen_at": "2026-10-06T20:31:10.262304+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000398239",
+      "seen_at": "2026-10-06T20:31:10.262901+00:00"
+    },
+    {
+      "id": "zapply-acc0e6afe2fd",
+      "seen_at": "2026-10-06T20:31:10.263509+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-affirm-8010617003",
+      "seen_at": "2026-10-06T20:31:10.264110+00:00"
+    },
+    {
+      "id": "zapply-bc6b27ca9b70",
+      "seen_at": "2026-10-06T20:31:10.264701+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-draftkings-draftkings-JR15110",
+      "seen_at": "2026-10-06T20:31:10.265316+00:00"
+    },
+    {
+      "id": "zapply-1c04a05c287f",
+      "seen_at": "2026-10-06T20:31:10.265905+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R28302",
+      "seen_at": "2026-10-06T20:31:10.266514+00:00"
+    },
+    {
+      "id": "ashby-openai-a8210588-a178-4afe-91e7-1fa2d269d2e8",
+      "seen_at": "2026-10-06T20:31:12.583631+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/a8210588-a178-4afe-91e7-1fa2d269d2e8",
+      "seen_at": "2026-10-06T20:31:12.584247+00:00"
     }
   ],
-  "last_run": "2026-10-06T20:01:31.152890+00:00",
-  "total_notified": 8278,
+  "last_run": "2026-10-06T20:31:12.828685+00:00",
+  "total_notified": 8284,
   "channels": {
     "pm-jobs": [
       "jobright-5346a355d779",
@@ -40913,7 +40961,9 @@
       "zapply-63c0afcc9a45",
       "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26012015",
       "jobright-a00b73b31059",
-      "url:https://jobright.ai/jobs/info/6ac531ec8ff3fb9b3bc8835f"
+      "url:https://jobright.ai/jobs/info/6ac531ec8ff3fb9b3bc8835f",
+      "ashby-openai-a8210588-a178-4afe-91e7-1fa2d269d2e8",
+      "url:https://jobs.ashbyhq.com/openai/a8210588-a178-4afe-91e7-1fa2d269d2e8"
     ],
     "swe-ai-full-time": [
       "zapply-3b7ea84ab478",
@@ -49332,7 +49382,17 @@
       "applyguy-9cdcbd1e-0f70-494e-af52-bab9f4f96b7f",
       "url:https://job-boards.greenhouse.io/taxrise/jobs/4434618009",
       "amazon-10571091",
-      "url:https://www.amazon.jobs/en/jobs/10571091/aws-marketplace-software-development-engineer-marketplace"
+      "url:https://www.amazon.jobs/en/jobs/10571091/aws-marketplace-software-development-engineer-marketplace",
+      "ashby-cursor-34cecd0c-c392-4454-8ef5-261310541011",
+      "url:https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011",
+      "zapply-f4e4e450d44d",
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000398239",
+      "zapply-acc0e6afe2fd",
+      "url:https://zapply.jobs/l/d/greenhouse-affirm-8010617003",
+      "zapply-bc6b27ca9b70",
+      "url:https://zapply.jobs/l/d/workday-draftkings-draftkings-JR15110",
+      "zapply-1c04a05c287f",
+      "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R28302"
     ]
   }
 }
