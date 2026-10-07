@@ -40391,10 +40391,66 @@
     {
       "id": "url:https://job-boards.greenhouse.io/mixpanel/jobs/8263237",
       "seen_at": "2026-10-07T21:31:18.587575+00:00"
+    },
+    {
+      "id": "jobright-cd91bff7f4b6",
+      "seen_at": "2026-10-07T22:01:29.156302+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac6a7a34ac55253f5d7b627",
+      "seen_at": "2026-10-07T22:01:29.156882+00:00"
+    },
+    {
+      "id": "jobright-4485014e259e",
+      "seen_at": "2026-10-07T22:01:29.157384+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac6a75a4ac55253f5d7b604",
+      "seen_at": "2026-10-07T22:01:29.157837+00:00"
+    },
+    {
+      "id": "jobright-18039d770831",
+      "seen_at": "2026-10-07T22:01:29.158300+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac69d6a8ff3fb9b3bc8e361",
+      "seen_at": "2026-10-07T22:01:29.158756+00:00"
+    },
+    {
+      "id": "jobright-354587a88f2e",
+      "seen_at": "2026-10-07T22:01:29.159199+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac69b99372c01f6cd73e2e0",
+      "seen_at": "2026-10-07T22:01:29.159638+00:00"
+    },
+    {
+      "id": "jobright-619584bfa9c0",
+      "seen_at": "2026-10-07T22:01:29.160086+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac69bb5d9621c5b283a9d3f",
+      "seen_at": "2026-10-07T22:01:29.160523+00:00"
+    },
+    {
+      "id": "jobright-1305d6bafa38",
+      "seen_at": "2026-10-07T22:01:29.160942+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac6a3cf8ff3fb9b3bc8e514",
+      "seen_at": "2026-10-07T22:01:29.161352+00:00"
+    },
+    {
+      "id": "zapply-55089be51ca2",
+      "seen_at": "2026-10-07T22:01:29.161778+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-121774773469356742",
+      "seen_at": "2026-10-07T22:01:29.162198+00:00"
     }
   ],
-  "last_run": "2026-10-07T21:31:18.977181+00:00",
-  "total_notified": 8498,
+  "last_run": "2026-10-07T22:01:30.321435+00:00",
+  "total_notified": 8505,
   "channels": {
     "pm-jobs": [
       "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
@@ -50502,7 +50558,21 @@
       "zapply-e2b0d83d49ff",
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525833",
       "zapply-3da8edd4593c",
-      "url:https://zapply.jobs/l/d/amazon-4ecdad53-c099-48a2-ba87-cbd83f410c2c"
+      "url:https://zapply.jobs/l/d/amazon-4ecdad53-c099-48a2-ba87-cbd83f410c2c",
+      "jobright-cd91bff7f4b6",
+      "url:https://jobright.ai/jobs/info/6ac6a7a34ac55253f5d7b627",
+      "jobright-4485014e259e",
+      "url:https://jobright.ai/jobs/info/6ac6a75a4ac55253f5d7b604",
+      "jobright-18039d770831",
+      "url:https://jobright.ai/jobs/info/6ac69d6a8ff3fb9b3bc8e361",
+      "jobright-354587a88f2e",
+      "url:https://jobright.ai/jobs/info/6ac69b99372c01f6cd73e2e0",
+      "jobright-619584bfa9c0",
+      "url:https://jobright.ai/jobs/info/6ac69bb5d9621c5b283a9d3f",
+      "jobright-1305d6bafa38",
+      "url:https://jobright.ai/jobs/info/6ac6a3cf8ff3fb9b3bc8e514",
+      "zapply-55089be51ca2",
+      "url:https://zapply.jobs/l/d/google-121774773469356742"
     ]
   }
 }
