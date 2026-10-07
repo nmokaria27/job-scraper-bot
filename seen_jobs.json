@@ -40351,10 +40351,66 @@
     {
       "id": "url:https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db",
       "seen_at": "2026-10-07T14:31:39.255827+00:00"
+    },
+    {
+      "id": "zapply-dbbba479bf56",
+      "seen_at": "2026-10-07T15:01:52.805860+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028941",
+      "seen_at": "2026-10-07T15:01:52.806720+00:00"
+    },
+    {
+      "id": "zapply-4849e7a8ead3",
+      "seen_at": "2026-10-07T15:01:52.807422+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-pimco-pimco-careers-R106613",
+      "seen_at": "2026-10-07T15:01:52.808104+00:00"
+    },
+    {
+      "id": "zapply-6c5074836cad",
+      "seen_at": "2026-10-07T15:01:52.808788+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-sift-45b22605-1abb-483e-8ef7-5ceaf04f5868",
+      "seen_at": "2026-10-07T15:01:52.809481+00:00"
+    },
+    {
+      "id": "jobright-cc28c743d94f",
+      "seen_at": "2026-10-07T15:01:52.810135+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a3abc8e649fdf162930574e",
+      "seen_at": "2026-10-07T15:01:52.810795+00:00"
+    },
+    {
+      "id": "amazon-10571838",
+      "seen_at": "2026-10-07T15:01:52.811475+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10571838/robotics-software-engineer-fauna",
+      "seen_at": "2026-10-07T15:01:52.812105+00:00"
+    },
+    {
+      "id": "jobright-062040d71809",
+      "seen_at": "2026-10-07T15:01:52.812759+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac64533064da25272e197cf",
+      "seen_at": "2026-10-07T15:01:52.813412+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5434361008",
+      "seen_at": "2026-10-07T15:01:55.017675+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5434361008",
+      "seen_at": "2026-10-07T15:01:55.018421+00:00"
     }
   ],
-  "last_run": "2026-10-07T14:31:39.984559+00:00",
-  "total_notified": 8415,
+  "last_run": "2026-10-07T15:01:55.281277+00:00",
+  "total_notified": 8422,
   "channels": {
     "pm-jobs": [
       "jobright-a0c53363b4d8",
@@ -41841,7 +41897,9 @@
       "ashby-elevenlabs-7389c057-3e25-4e7a-8a03-5e80f40a15a0",
       "url:https://jobs.ashbyhq.com/elevenlabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0",
       "ashby-elevenlabs-934dbe9d-1c1f-4939-944a-6671469009db",
-      "url:https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db"
+      "url:https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db",
+      "greenhouse-anthropic-5434361008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5434361008"
     ],
     "swe-ai-full-time": [
       "zapply-9a54c1831a19",
@@ -50452,7 +50510,19 @@
       "ashby-elevenlabs-b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
       "url:https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
       "zapply-b2efee9d7500",
-      "url:https://zapply.jobs/l/d/workday-ncr-ext-us-R0158799"
+      "url:https://zapply.jobs/l/d/workday-ncr-ext-us-R0158799",
+      "zapply-dbbba479bf56",
+      "url:https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028941",
+      "zapply-4849e7a8ead3",
+      "url:https://zapply.jobs/l/d/workday-pimco-pimco-careers-R106613",
+      "zapply-6c5074836cad",
+      "url:https://zapply.jobs/l/d/ashby-sift-45b22605-1abb-483e-8ef7-5ceaf04f5868",
+      "jobright-cc28c743d94f",
+      "url:https://jobright.ai/jobs/info/6a3abc8e649fdf162930574e",
+      "amazon-10571838",
+      "url:https://www.amazon.jobs/en/jobs/10571838/robotics-software-engineer-fauna",
+      "jobright-062040d71809",
+      "url:https://jobright.ai/jobs/info/6ac64533064da25272e197cf"
     ]
   }
 }
