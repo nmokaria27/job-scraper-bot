@@ -1,70 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-capitalone-R248239",
-      "seen_at": "2026-09-07T19:26:28.121892+00:00"
-    },
-    {
-      "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Data-Product-Manager---Travel-Core-Services_R248239-1",
-      "seen_at": "2026-09-07T19:26:28.122664+00:00"
-    },
-    {
-      "id": "zapply-d956e247d8ff",
-      "seen_at": "2026-09-07T19:26:34.489695+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/versapay/221723b9-7d0b-4b3e-bd3a-938802d1006a",
-      "seen_at": "2026-09-07T19:26:34.490596+00:00"
-    },
-    {
-      "id": "zapply-3fa7aa6c7ea7",
-      "seen_at": "2026-09-07T19:26:34.491401+00:00"
-    },
-    {
-      "id": "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Graph-Database-Engineer-TS-SCI-with-Polygraph_RQ226219-1",
-      "seen_at": "2026-09-07T19:26:34.492185+00:00"
-    },
-    {
-      "id": "zapply-a6ac4acfd276",
-      "seen_at": "2026-09-07T19:26:34.492992+00:00"
-    },
-    {
-      "id": "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Data-Engineer--TS-SCI-with-Polygraph_RQ226218-1",
-      "seen_at": "2026-09-07T19:26:34.493762+00:00"
-    },
-    {
-      "id": "jobright-4755aa5dd1fd",
-      "seen_at": "2026-09-07T19:26:34.494565+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9eee41f6ea002358296fae",
-      "seen_at": "2026-09-07T19:26:34.495348+00:00"
-    },
-    {
-      "id": "jobright-7d41b17f2097",
-      "seen_at": "2026-09-07T19:26:34.496150+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/69baee6006c1ba00c54d4054",
-      "seen_at": "2026-09-07T19:26:34.496951+00:00"
-    },
-    {
-      "id": "jobright-bf52de71d642",
-      "seen_at": "2026-09-07T19:26:34.497752+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a10ba9483d7144289828141",
-      "seen_at": "2026-09-07T19:26:34.498539+00:00"
-    },
-    {
-      "id": "jobright-0c1a52c473eb",
-      "seen_at": "2026-09-07T19:26:34.499337+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9a00f3040e5c3d0759a2dd",
-      "seen_at": "2026-09-07T19:26:34.500121+00:00"
-    },
-    {
       "id": "zapply-74fffb827dea",
       "seen_at": "2026-09-07T22:15:47.477027+00:00"
     },
@@ -40207,14 +40143,44 @@
     {
       "id": "url:https://boards.greenhouse.io/figma/jobs/6180116004",
       "seen_at": "2026-10-07T19:01:32.873201+00:00"
+    },
+    {
+      "id": "ashby-elevenlabs-c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
+      "seen_at": "2026-10-07T19:31:21.321542+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
+      "seen_at": "2026-10-07T19:31:21.322546+00:00"
+    },
+    {
+      "id": "zapply-cd91d7eeadc1",
+      "seen_at": "2026-10-07T19:31:21.323440+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142889",
+      "seen_at": "2026-10-07T19:31:21.324297+00:00"
+    },
+    {
+      "id": "zapply-ba9f20c68f68",
+      "seen_at": "2026-10-07T19:31:21.325197+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-kla-search-2641710",
+      "seen_at": "2026-10-07T19:31:21.326047+00:00"
+    },
+    {
+      "id": "zapply-d0a944883565",
+      "seen_at": "2026-10-07T19:31:23.618695+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-kla-search-2641699",
+      "seen_at": "2026-10-07T19:31:23.619573+00:00"
     }
   ],
-  "last_run": "2026-10-07T19:01:33.177476+00:00",
-  "total_notified": 8467,
+  "last_run": "2026-10-07T19:31:24.080073+00:00",
+  "total_notified": 8471,
   "channels": {
     "pm-jobs": [
-      "workday-capitalone-R248239",
-      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Data-Product-Manager---Travel-Core-Services_R248239-1",
       "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
       "url:https://jobs.ashbyhq.com/cohere/aa041da3-6aad-4758-9c9e-4a5fab69b694",
       "simplify-e48c29fc-99d2-4bdf-8d09-2e919817bd74",
@@ -41673,23 +41639,11 @@
       "zapply-f7c85247acbf",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2018533",
       "greenhouse-figma-6180116004",
-      "url:https://boards.greenhouse.io/figma/jobs/6180116004"
+      "url:https://boards.greenhouse.io/figma/jobs/6180116004",
+      "zapply-d0a944883565",
+      "url:https://zapply.jobs/l/d/workday-kla-search-2641699"
     ],
     "swe-ai-full-time": [
-      "zapply-d956e247d8ff",
-      "url:https://jobs.lever.co/versapay/221723b9-7d0b-4b3e-bd3a-938802d1006a",
-      "zapply-3fa7aa6c7ea7",
-      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Graph-Database-Engineer-TS-SCI-with-Polygraph_RQ226219-1",
-      "zapply-a6ac4acfd276",
-      "url:https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Data-Engineer--TS-SCI-with-Polygraph_RQ226218-1",
-      "jobright-4755aa5dd1fd",
-      "url:https://jobright.ai/jobs/info/6a9eee41f6ea002358296fae",
-      "jobright-7d41b17f2097",
-      "url:https://jobright.ai/jobs/info/69baee6006c1ba00c54d4054",
-      "jobright-bf52de71d642",
-      "url:https://jobright.ai/jobs/info/6a10ba9483d7144289828141",
-      "jobright-0c1a52c473eb",
-      "url:https://jobright.ai/jobs/info/6a9a00f3040e5c3d0759a2dd",
       "zapply-74fffb827dea",
       "url:https://jobs.lever.co/synergyecp/09227bf0-83b4-4fc9-8e2a-172aeef4acc4",
       "jobright-964e3b1ade51",
@@ -50272,7 +50226,13 @@
       "jobright-2bdaab8e29d1",
       "url:https://jobright.ai/jobs/info/6ac670580e027c0f3b3b25d3",
       "applyguy-3270c26d-cc80-4c18-b48a-ba9d9eb1c140",
-      "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458"
+      "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
+      "ashby-elevenlabs-c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
+      "url:https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
+      "zapply-cd91d7eeadc1",
+      "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142889",
+      "zapply-ba9f20c68f68",
+      "url:https://zapply.jobs/l/d/workday-kla-search-2641710"
     ]
   }
 }
