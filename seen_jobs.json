@@ -40407,10 +40407,34 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5434361008",
       "seen_at": "2026-10-07T15:01:55.018421+00:00"
+    },
+    {
+      "id": "ashby-elevenlabs-77f23be6-16c0-40c5-87b6-29dc2ee752ab",
+      "seen_at": "2026-10-07T15:31:41.517049+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/elevenlabs/77f23be6-16c0-40c5-87b6-29dc2ee752ab",
+      "seen_at": "2026-10-07T15:31:41.517569+00:00"
+    },
+    {
+      "id": "amazon-10571881",
+      "seen_at": "2026-10-07T15:31:41.517982+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10571881/applied-scientist-llm-buy-for-me",
+      "seen_at": "2026-10-07T15:31:41.518359+00:00"
+    },
+    {
+      "id": "zapply-a959bfed7c0c",
+      "seen_at": "2026-10-07T15:31:43.185686+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35096",
+      "seen_at": "2026-10-07T15:31:43.186086+00:00"
     }
   ],
-  "last_run": "2026-10-07T15:01:55.281277+00:00",
-  "total_notified": 8422,
+  "last_run": "2026-10-07T15:31:43.582874+00:00",
+  "total_notified": 8425,
   "channels": {
     "pm-jobs": [
       "jobright-a0c53363b4d8",
@@ -41899,7 +41923,9 @@
       "ashby-elevenlabs-934dbe9d-1c1f-4939-944a-6671469009db",
       "url:https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db",
       "greenhouse-anthropic-5434361008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5434361008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5434361008",
+      "zapply-a959bfed7c0c",
+      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35096"
     ],
     "swe-ai-full-time": [
       "zapply-9a54c1831a19",
@@ -50522,7 +50548,11 @@
       "amazon-10571838",
       "url:https://www.amazon.jobs/en/jobs/10571838/robotics-software-engineer-fauna",
       "jobright-062040d71809",
-      "url:https://jobright.ai/jobs/info/6ac64533064da25272e197cf"
+      "url:https://jobright.ai/jobs/info/6ac64533064da25272e197cf",
+      "ashby-elevenlabs-77f23be6-16c0-40c5-87b6-29dc2ee752ab",
+      "url:https://jobs.ashbyhq.com/elevenlabs/77f23be6-16c0-40c5-87b6-29dc2ee752ab",
+      "amazon-10571881",
+      "url:https://www.amazon.jobs/en/jobs/10571881/applied-scientist-llm-buy-for-me"
     ]
   }
 }
