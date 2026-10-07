@@ -40127,10 +40127,90 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-citizens-financial-49510",
       "seen_at": "2026-10-07T18:31:28.249202+00:00"
+    },
+    {
+      "id": "zapply-39332e1eb34f",
+      "seen_at": "2026-10-07T19:01:30.636487+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fis-searchjobs-JR0308355",
+      "seen_at": "2026-10-07T19:01:30.637404+00:00"
+    },
+    {
+      "id": "zapply-ef147749ee5f",
+      "seen_at": "2026-10-07T19:01:30.638084+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fis-searchjobs-JR0308354",
+      "seen_at": "2026-10-07T19:01:30.638720+00:00"
+    },
+    {
+      "id": "zapply-fde7326a31ff",
+      "seen_at": "2026-10-07T19:01:30.639377+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-chime-8875663002",
+      "seen_at": "2026-10-07T19:01:30.640040+00:00"
+    },
+    {
+      "id": "jobright-7fad31a95530",
+      "seen_at": "2026-10-07T19:01:30.640668+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac67cf8372c01f6cd73d6c4",
+      "seen_at": "2026-10-07T19:01:30.641306+00:00"
+    },
+    {
+      "id": "jobright-b1df2a4c18c7",
+      "seen_at": "2026-10-07T19:01:30.641961+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac678f1d9621c5b283a8fa0",
+      "seen_at": "2026-10-07T19:01:30.642576+00:00"
+    },
+    {
+      "id": "jobright-27e35b4a4682",
+      "seen_at": "2026-10-07T19:01:30.643222+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a72950702d93145bf895467",
+      "seen_at": "2026-10-07T19:01:30.643849+00:00"
+    },
+    {
+      "id": "jobright-2bdaab8e29d1",
+      "seen_at": "2026-10-07T19:01:30.644480+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac670580e027c0f3b3b25d3",
+      "seen_at": "2026-10-07T19:01:30.645108+00:00"
+    },
+    {
+      "id": "applyguy-3270c26d-cc80-4c18-b48a-ba9d9eb1c140",
+      "seen_at": "2026-10-07T19:01:30.645741+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
+      "seen_at": "2026-10-07T19:01:30.646358+00:00"
+    },
+    {
+      "id": "zapply-f7c85247acbf",
+      "seen_at": "2026-10-07T19:01:32.871098+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2018533",
+      "seen_at": "2026-10-07T19:01:32.871938+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6180116004",
+      "seen_at": "2026-10-07T19:01:32.872598+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6180116004",
+      "seen_at": "2026-10-07T19:01:32.873201+00:00"
     }
   ],
-  "last_run": "2026-10-07T18:31:28.724182+00:00",
-  "total_notified": 8457,
+  "last_run": "2026-10-07T19:01:33.177476+00:00",
+  "total_notified": 8467,
   "channels": {
     "pm-jobs": [
       "workday-capitalone-R248239",
@@ -41589,7 +41669,11 @@
       "zapply-cf4183ce7201",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210705145",
       "zapply-648eed608305",
-      "url:https://zapply.jobs/l/d/oracle-citizens-financial-49510"
+      "url:https://zapply.jobs/l/d/oracle-citizens-financial-49510",
+      "zapply-f7c85247acbf",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2018533",
+      "greenhouse-figma-6180116004",
+      "url:https://boards.greenhouse.io/figma/jobs/6180116004"
     ],
     "swe-ai-full-time": [
       "zapply-d956e247d8ff",
@@ -50172,7 +50256,23 @@
       "ashby-decagon-0f41f8dc-a3c9-47e1-a3fe-5f137d83850e",
       "url:https://jobs.ashbyhq.com/decagon/0f41f8dc-a3c9-47e1-a3fe-5f137d83850e",
       "zapply-7b50ec094bcb",
-      "url:https://zapply.jobs/l/d/greenhouse-riotgames-8234671"
+      "url:https://zapply.jobs/l/d/greenhouse-riotgames-8234671",
+      "zapply-39332e1eb34f",
+      "url:https://zapply.jobs/l/d/workday-fis-searchjobs-JR0308355",
+      "zapply-ef147749ee5f",
+      "url:https://zapply.jobs/l/d/workday-fis-searchjobs-JR0308354",
+      "zapply-fde7326a31ff",
+      "url:https://zapply.jobs/l/d/greenhouse-chime-8875663002",
+      "jobright-7fad31a95530",
+      "url:https://jobright.ai/jobs/info/6ac67cf8372c01f6cd73d6c4",
+      "jobright-b1df2a4c18c7",
+      "url:https://jobright.ai/jobs/info/6ac678f1d9621c5b283a8fa0",
+      "jobright-27e35b4a4682",
+      "url:https://jobright.ai/jobs/info/6a72950702d93145bf895467",
+      "jobright-2bdaab8e29d1",
+      "url:https://jobright.ai/jobs/info/6ac670580e027c0f3b3b25d3",
+      "applyguy-3270c26d-cc80-4c18-b48a-ba9d9eb1c140",
+      "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458"
     ]
   }
 }
