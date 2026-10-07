@@ -40455,10 +40455,86 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac6b17fd9621c5b283aa401",
       "seen_at": "2026-10-07T23:01:18.811296+00:00"
+    },
+    {
+      "id": "simplify-83ee00b3-b90e-4314-b858-f40404d237a2",
+      "seen_at": "2026-10-07T23:31:08.130567+00:00"
+    },
+    {
+      "id": "url:https://www.ixl.com/company/jobs",
+      "seen_at": "2026-10-07T23:31:08.131126+00:00"
+    },
+    {
+      "id": "simplify-88b1fed5-3a2e-4d03-92bb-903b93eb5917",
+      "seen_at": "2026-10-07T23:31:08.131620+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application",
+      "seen_at": "2026-10-07T23:31:08.132069+00:00"
+    },
+    {
+      "id": "simplify-4a6bf39f-096b-480d-b7f0-2ad50e2998df",
+      "seen_at": "2026-10-07T23:31:08.132520+00:00"
+    },
+    {
+      "id": "url:https://careers.cisco.com/global/en/job/2026806",
+      "seen_at": "2026-10-07T23:31:08.132946+00:00"
+    },
+    {
+      "id": "simplify-24901885-b792-4344-a66a-26907a743ebc",
+      "seen_at": "2026-10-07T23:31:08.133444+00:00"
+    },
+    {
+      "id": "url:https://otter.ai/careers",
+      "seen_at": "2026-10-07T23:31:08.133861+00:00"
+    },
+    {
+      "id": "simplify-2d138a0f-44c8-4505-9071-ff9072e9a02b",
+      "seen_at": "2026-10-07T23:31:08.134336+00:00"
+    },
+    {
+      "id": "url:https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Engineer_JR5526",
+      "seen_at": "2026-10-07T23:31:08.134758+00:00"
+    },
+    {
+      "id": "simplify-7bf9fb42-cdcd-477b-9e5c-94bf3e10a60e",
+      "seen_at": "2026-10-07T23:31:08.135199+00:00"
+    },
+    {
+      "id": "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer---CTO-innovations_2026806",
+      "seen_at": "2026-10-07T23:31:08.135622+00:00"
+    },
+    {
+      "id": "simplify-87939b8c-a807-4c20-9b6a-d60265f4ede5",
+      "seen_at": "2026-10-07T23:31:08.136041+00:00"
+    },
+    {
+      "id": "url:https://centricsoftware.wd501.myworkdayjobs.com/Centric/job/Campbell-CA/Software-Engineer-1_JR396",
+      "seen_at": "2026-10-07T23:31:08.136478+00:00"
+    },
+    {
+      "id": "applyguy-d90710b5-f126-42ed-8d0b-e9cf01907209",
+      "seen_at": "2026-10-07T23:31:08.136909+00:00"
+    },
+    {
+      "id": "url:https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202639452",
+      "seen_at": "2026-10-07T23:31:08.137321+00:00"
+    },
+    {
+      "id": "ashby-supabase-bd5ce178-84c9-469e-89f4-493c21b50622",
+      "seen_at": "2026-10-07T23:31:09.918099+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622",
+      "seen_at": "2026-10-07T23:31:09.918578+00:00"
+    },
+    {
+      "id": "simplify-d7937e10-47e3-4200-8c2e-78a5c770d298",
+      "seen_at": "2026-10-07T23:31:09.919003+00:00"
     }
   ],
-  "last_run": "2026-10-07T23:01:19.046174+00:00",
-  "total_notified": 8513,
+  "last_run": "2026-10-07T23:31:10.081144+00:00",
+  "total_notified": 8523,
   "channels": {
     "pm-jobs": [
       "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
@@ -41943,7 +42019,11 @@
       "jobright-b895d119fb67",
       "url:https://jobright.ai/jobs/info/6ac6b2d4064da25272e1be51",
       "jobright-dd410611b19c",
-      "url:https://jobright.ai/jobs/info/6ac6b17fd9621c5b283aa401"
+      "url:https://jobright.ai/jobs/info/6ac6b17fd9621c5b283aa401",
+      "ashby-supabase-bd5ce178-84c9-469e-89f4-493c21b50622",
+      "url:https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622",
+      "simplify-d7937e10-47e3-4200-8c2e-78a5c770d298",
+      "url:https://www.ixl.com/company/jobs"
     ],
     "swe-ai-full-time": [
       "zapply-899d0a175866",
@@ -50582,7 +50662,23 @@
       "simplify-9fb89ebd-308d-44a4-801c-466765cbad8c",
       "url:https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Software-Engineer--Building-Automation_R-2037",
       "jobright-745bbb759382",
-      "url:https://jobright.ai/jobs/info/6ac6935cd9621c5b283a997e"
+      "url:https://jobright.ai/jobs/info/6ac6935cd9621c5b283a997e",
+      "simplify-83ee00b3-b90e-4314-b858-f40404d237a2",
+      "url:https://www.ixl.com/company/jobs",
+      "simplify-88b1fed5-3a2e-4d03-92bb-903b93eb5917",
+      "url:https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application",
+      "simplify-4a6bf39f-096b-480d-b7f0-2ad50e2998df",
+      "url:https://careers.cisco.com/global/en/job/2026806",
+      "simplify-24901885-b792-4344-a66a-26907a743ebc",
+      "url:https://otter.ai/careers",
+      "simplify-2d138a0f-44c8-4505-9071-ff9072e9a02b",
+      "url:https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Engineer_JR5526",
+      "simplify-7bf9fb42-cdcd-477b-9e5c-94bf3e10a60e",
+      "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer---CTO-innovations_2026806",
+      "simplify-87939b8c-a807-4c20-9b6a-d60265f4ede5",
+      "url:https://centricsoftware.wd501.myworkdayjobs.com/Centric/job/Campbell-CA/Software-Engineer-1_JR396",
+      "applyguy-d90710b5-f126-42ed-8d0b-e9cf01907209",
+      "url:https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202639452"
     ]
   }
 }
