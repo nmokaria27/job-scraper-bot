@@ -39927,10 +39927,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/ashby-baseten-84c24e55-1db0-49b6-99d8-9bce9e16892f",
       "seen_at": "2026-10-07T01:31:11.660224+00:00"
+    },
+    {
+      "id": "zapply-0f69294d92ec",
+      "seen_at": "2026-10-07T02:01:35.363539+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8873383002",
+      "seen_at": "2026-10-07T02:01:35.364264+00:00"
+    },
+    {
+      "id": "simplify-4c2d5f64-e8be-4bd2-b925-eea984ca00ab",
+      "seen_at": "2026-10-07T02:01:35.364941+00:00"
+    },
+    {
+      "id": "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W",
+      "seen_at": "2026-10-07T02:01:35.365558+00:00"
+    },
+    {
+      "id": "jobright-944101bff3ac",
+      "seen_at": "2026-10-07T02:01:35.366227+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a51d234bf63b66c7997d7d9",
+      "seen_at": "2026-10-07T02:01:35.366873+00:00"
+    },
+    {
+      "id": "jobright-d77329c8a482",
+      "seen_at": "2026-10-07T02:01:35.367520+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac58a124ac55253f5d772e8",
+      "seen_at": "2026-10-07T02:01:35.368158+00:00"
     }
   ],
-  "last_run": "2026-10-07T01:31:12.883465+00:00",
-  "total_notified": 8362,
+  "last_run": "2026-10-07T02:01:36.766018+00:00",
+  "total_notified": 8366,
   "channels": {
     "pm-jobs": [
       "jobright-a0c53363b4d8",
@@ -49922,7 +49954,15 @@
       "applyguy-65669682-ee1e-473b-ac55-ea198f7637ef",
       "url:https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Associate-Software-Engineer_9016",
       "zapply-c7e195503df0",
-      "url:https://zapply.jobs/l/d/ashby-baseten-84c24e55-1db0-49b6-99d8-9bce9e16892f"
+      "url:https://zapply.jobs/l/d/ashby-baseten-84c24e55-1db0-49b6-99d8-9bce9e16892f",
+      "zapply-0f69294d92ec",
+      "url:https://zapply.jobs/l/d/greenhouse-spacex-8873383002",
+      "simplify-4c2d5f64-e8be-4bd2-b925-eea984ca00ab",
+      "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W",
+      "jobright-944101bff3ac",
+      "url:https://jobright.ai/jobs/info/6a51d234bf63b66c7997d7d9",
+      "jobright-d77329c8a482",
+      "url:https://jobright.ai/jobs/info/6ac58a124ac55253f5d772e8"
     ]
   }
 }
