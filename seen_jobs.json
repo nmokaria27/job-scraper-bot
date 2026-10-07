@@ -40207,10 +40207,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac60c9d8ff3fb9b3bc8ba96",
       "seen_at": "2026-10-07T11:01:33.574340+00:00"
+    },
+    {
+      "id": "zapply-f61917acb1bc",
+      "seen_at": "2026-10-07T12:01:24.409646+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-snorkelai-6219198004",
+      "seen_at": "2026-10-07T12:01:24.410208+00:00"
+    },
+    {
+      "id": "greenhouse-snorkelai-6219198004",
+      "seen_at": "2026-10-07T12:01:24.410720+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/snorkelai/jobs/6219198004",
+      "seen_at": "2026-10-07T12:01:24.411199+00:00"
+    },
+    {
+      "id": "jobright-732636781f0f",
+      "seen_at": "2026-10-07T12:01:24.411678+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a70171fad0fe2053dba0467",
+      "seen_at": "2026-10-07T12:01:24.412135+00:00"
     }
   ],
-  "last_run": "2026-10-07T11:31:10.743027+00:00",
-  "total_notified": 8397,
+  "last_run": "2026-10-07T12:01:25.507970+00:00",
+  "total_notified": 8400,
   "channels": {
     "pm-jobs": [
       "jobright-a0c53363b4d8",
@@ -50272,7 +50296,13 @@
       "workday-nvidia-JR2025458",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
       "jobright-8a772bd5ca7b",
-      "url:https://jobright.ai/jobs/info/6ac60c9d8ff3fb9b3bc8ba96"
+      "url:https://jobright.ai/jobs/info/6ac60c9d8ff3fb9b3bc8ba96",
+      "zapply-f61917acb1bc",
+      "url:https://zapply.jobs/l/d/greenhouse-snorkelai-6219198004",
+      "greenhouse-snorkelai-6219198004",
+      "url:https://job-boards.greenhouse.io/snorkelai/jobs/6219198004",
+      "jobright-732636781f0f",
+      "url:https://jobright.ai/jobs/info/6a70171fad0fe2053dba0467"
     ]
   }
 }
