@@ -39975,10 +39975,34 @@
     {
       "id": "url:https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50",
       "seen_at": "2026-10-07T02:31:09.849271+00:00"
+    },
+    {
+      "id": "zapply-d1bf55263262",
+      "seen_at": "2026-10-07T03:01:33.841696+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-alteryx-alteryxcareers-R12529",
+      "seen_at": "2026-10-07T03:01:33.842417+00:00"
+    },
+    {
+      "id": "jobright-c2b2931e6bd3",
+      "seen_at": "2026-10-07T03:01:33.843063+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac59da4064da25272e17af5",
+      "seen_at": "2026-10-07T03:01:33.843687+00:00"
+    },
+    {
+      "id": "jobright-f1ddacb354aa",
+      "seen_at": "2026-10-07T03:01:33.844329+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac599ead9621c5b283a60be",
+      "seen_at": "2026-10-07T03:01:33.844951+00:00"
     }
   ],
-  "last_run": "2026-10-07T02:31:10.780911+00:00",
-  "total_notified": 8368,
+  "last_run": "2026-10-07T03:01:35.170811+00:00",
+  "total_notified": 8371,
   "channels": {
     "pm-jobs": [
       "jobright-a0c53363b4d8",
@@ -49982,7 +50006,13 @@
       "jobright-d77329c8a482",
       "url:https://jobright.ai/jobs/info/6ac58a124ac55253f5d772e8",
       "zapply-a1371b03fcde",
-      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213648"
+      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213648",
+      "zapply-d1bf55263262",
+      "url:https://zapply.jobs/l/d/workday-alteryx-alteryxcareers-R12529",
+      "jobright-c2b2931e6bd3",
+      "url:https://jobright.ai/jobs/info/6ac59da4064da25272e17af5",
+      "jobright-f1ddacb354aa",
+      "url:https://jobright.ai/jobs/info/6ac599ead9621c5b283a60be"
     ]
   }
 }
