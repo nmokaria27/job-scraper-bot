@@ -40295,10 +40295,74 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Product-Manager--Emerging-Technology_JR362699",
       "seen_at": "2026-10-07T20:31:19.113713+00:00"
+    },
+    {
+      "id": "jobright-aa63eb1c99ee",
+      "seen_at": "2026-10-07T21:01:37.698319+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac691bfd9621c5b283a989f",
+      "seen_at": "2026-10-07T21:01:37.699234+00:00"
+    },
+    {
+      "id": "jobright-2a962243081a",
+      "seen_at": "2026-10-07T21:01:37.699928+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac68f61372c01f6cd73dd31",
+      "seen_at": "2026-10-07T21:01:37.700584+00:00"
+    },
+    {
+      "id": "jobright-c53eb3075630",
+      "seen_at": "2026-10-07T21:01:37.701200+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac68fbc372c01f6cd73dd5b",
+      "seen_at": "2026-10-07T21:01:37.701822+00:00"
+    },
+    {
+      "id": "jobright-7178a8681c75",
+      "seen_at": "2026-10-07T21:01:37.702448+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac68e394ac55253f5d7ac47",
+      "seen_at": "2026-10-07T21:01:37.703043+00:00"
+    },
+    {
+      "id": "amazon-10572519",
+      "seen_at": "2026-10-07T21:01:37.703677+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10572519/software-dev-engineer-amazon-leo-customer-terminal-software",
+      "seen_at": "2026-10-07T21:01:37.704276+00:00"
+    },
+    {
+      "id": "jobright-66edb66328c6",
+      "seen_at": "2026-10-07T21:01:37.704871+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac69737064da25272e1b55a",
+      "seen_at": "2026-10-07T21:01:37.705492+00:00"
+    },
+    {
+      "id": "jobright-239866d4932f",
+      "seen_at": "2026-10-07T21:01:37.706134+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac6993e8ff3fb9b3bc8e1a6",
+      "seen_at": "2026-10-07T21:01:37.706748+00:00"
+    },
+    {
+      "id": "jobright-fd39d4ed3eb1",
+      "seen_at": "2026-10-07T21:01:40.264178+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac693534ac55253f5d7af0d",
+      "seen_at": "2026-10-07T21:01:40.265099+00:00"
     }
   ],
-  "last_run": "2026-10-07T20:31:19.277039+00:00",
-  "total_notified": 8486,
+  "last_run": "2026-10-07T21:01:40.502476+00:00",
+  "total_notified": 8494,
   "channels": {
     "pm-jobs": [
       "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
@@ -41769,7 +41833,9 @@
       "jobright-cef9bc60bf6d",
       "url:https://jobright.ai/jobs/info/6ac6845b8ff3fb9b3bc8d898",
       "workday-salesforce-JR362699",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Product-Manager--Emerging-Technology_JR362699"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Product-Manager--Emerging-Technology_JR362699",
+      "jobright-fd39d4ed3eb1",
+      "url:https://jobright.ai/jobs/info/6ac693534ac55253f5d7af0d"
     ],
     "swe-ai-full-time": [
       "zapply-74fffb827dea",
@@ -50382,7 +50448,21 @@
       "zapply-395ada486b45",
       "url:https://zapply.jobs/l/d/greenhouse-stripe-8144196",
       "gradtracker-a0692f46a043",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
+      "jobright-aa63eb1c99ee",
+      "url:https://jobright.ai/jobs/info/6ac691bfd9621c5b283a989f",
+      "jobright-2a962243081a",
+      "url:https://jobright.ai/jobs/info/6ac68f61372c01f6cd73dd31",
+      "jobright-c53eb3075630",
+      "url:https://jobright.ai/jobs/info/6ac68fbc372c01f6cd73dd5b",
+      "jobright-7178a8681c75",
+      "url:https://jobright.ai/jobs/info/6ac68e394ac55253f5d7ac47",
+      "amazon-10572519",
+      "url:https://www.amazon.jobs/en/jobs/10572519/software-dev-engineer-amazon-leo-customer-terminal-software",
+      "jobright-66edb66328c6",
+      "url:https://jobright.ai/jobs/info/6ac69737064da25272e1b55a",
+      "jobright-239866d4932f",
+      "url:https://jobright.ai/jobs/info/6ac6993e8ff3fb9b3bc8e1a6"
     ]
   }
 }
