@@ -40247,10 +40247,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac6845b8ff3fb9b3bc8d898",
       "seen_at": "2026-10-07T20:01:52.831479+00:00"
+    },
+    {
+      "id": "zapply-d3d45a72defd",
+      "seen_at": "2026-10-07T20:31:16.968865+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025036",
+      "seen_at": "2026-10-07T20:31:16.969586+00:00"
+    },
+    {
+      "id": "zapply-cd4239fce49f",
+      "seen_at": "2026-10-07T20:31:16.970216+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-formlabs-8262437",
+      "seen_at": "2026-10-07T20:31:16.970819+00:00"
+    },
+    {
+      "id": "zapply-628ac655769b",
+      "seen_at": "2026-10-07T20:31:16.971396+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603387",
+      "seen_at": "2026-10-07T20:31:16.971945+00:00"
+    },
+    {
+      "id": "zapply-395ada486b45",
+      "seen_at": "2026-10-07T20:31:16.972518+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-stripe-8144196",
+      "seen_at": "2026-10-07T20:31:16.973047+00:00"
+    },
+    {
+      "id": "gradtracker-a0692f46a043",
+      "seen_at": "2026-10-07T20:31:16.973579+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
+      "seen_at": "2026-10-07T20:31:16.974075+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR362699",
+      "seen_at": "2026-10-07T20:31:19.113077+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Product-Manager--Emerging-Technology_JR362699",
+      "seen_at": "2026-10-07T20:31:19.113713+00:00"
     }
   ],
-  "last_run": "2026-10-07T20:01:53.072100+00:00",
-  "total_notified": 8480,
+  "last_run": "2026-10-07T20:31:19.277039+00:00",
+  "total_notified": 8486,
   "channels": {
     "pm-jobs": [
       "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
@@ -41719,7 +41767,9 @@
       "jobright-e95eac1de798",
       "url:https://jobright.ai/jobs/info/6ac6852e372c01f6cd73d96d",
       "jobright-cef9bc60bf6d",
-      "url:https://jobright.ai/jobs/info/6ac6845b8ff3fb9b3bc8d898"
+      "url:https://jobright.ai/jobs/info/6ac6845b8ff3fb9b3bc8d898",
+      "workday-salesforce-JR362699",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Product-Manager--Emerging-Technology_JR362699"
     ],
     "swe-ai-full-time": [
       "zapply-74fffb827dea",
@@ -50322,7 +50372,17 @@
       "zapply-33381c96897c",
       "url:https://zapply.jobs/l/d/ashby-Replicant-620ed75e-4d20-40c4-b1e3-21604f99c399",
       "jobright-e044fc47be30",
-      "url:https://jobright.ai/jobs/info/6ac684360e027c0f3b3b2cf3"
+      "url:https://jobright.ai/jobs/info/6ac684360e027c0f3b3b2cf3",
+      "zapply-d3d45a72defd",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025036",
+      "zapply-cd4239fce49f",
+      "url:https://zapply.jobs/l/d/greenhouse-formlabs-8262437",
+      "zapply-628ac655769b",
+      "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603387",
+      "zapply-395ada486b45",
+      "url:https://zapply.jobs/l/d/greenhouse-stripe-8144196",
+      "gradtracker-a0692f46a043",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551"
     ]
   }
 }
