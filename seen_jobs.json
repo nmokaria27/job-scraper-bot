@@ -40175,10 +40175,82 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-kla-search-2641699",
       "seen_at": "2026-10-07T19:31:23.619573+00:00"
+    },
+    {
+      "id": "zapply-dcfc2bb024a8",
+      "seen_at": "2026-10-07T20:01:50.789329+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027551",
+      "seen_at": "2026-10-07T20:01:50.790079+00:00"
+    },
+    {
+      "id": "zapply-738794cd8a4d",
+      "seen_at": "2026-10-07T20:01:50.790721+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-umd-umcp-JR105146",
+      "seen_at": "2026-10-07T20:01:50.791310+00:00"
+    },
+    {
+      "id": "zapply-934b7f3fa1a9",
+      "seen_at": "2026-10-07T20:01:50.791888+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-comcast-comcast-careers-R445311",
+      "seen_at": "2026-10-07T20:01:50.792455+00:00"
+    },
+    {
+      "id": "zapply-5024b722af74",
+      "seen_at": "2026-10-07T20:01:50.793007+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024876",
+      "seen_at": "2026-10-07T20:01:50.793579+00:00"
+    },
+    {
+      "id": "zapply-33381c96897c",
+      "seen_at": "2026-10-07T20:01:50.794118+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-Replicant-620ed75e-4d20-40c4-b1e3-21604f99c399",
+      "seen_at": "2026-10-07T20:01:50.794663+00:00"
+    },
+    {
+      "id": "jobright-e044fc47be30",
+      "seen_at": "2026-10-07T20:01:50.795190+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac684360e027c0f3b3b2cf3",
+      "seen_at": "2026-10-07T20:01:50.795733+00:00"
+    },
+    {
+      "id": "greenhouse-mixpanel-8263014",
+      "seen_at": "2026-10-07T20:01:52.828785+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/mixpanel/jobs/8263014",
+      "seen_at": "2026-10-07T20:01:52.829381+00:00"
+    },
+    {
+      "id": "jobright-e95eac1de798",
+      "seen_at": "2026-10-07T20:01:52.829962+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac6852e372c01f6cd73d96d",
+      "seen_at": "2026-10-07T20:01:52.830490+00:00"
+    },
+    {
+      "id": "jobright-cef9bc60bf6d",
+      "seen_at": "2026-10-07T20:01:52.830994+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac6845b8ff3fb9b3bc8d898",
+      "seen_at": "2026-10-07T20:01:52.831479+00:00"
     }
   ],
-  "last_run": "2026-10-07T19:31:24.080073+00:00",
-  "total_notified": 8471,
+  "last_run": "2026-10-07T20:01:53.072100+00:00",
+  "total_notified": 8480,
   "channels": {
     "pm-jobs": [
       "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
@@ -41641,7 +41713,13 @@
       "greenhouse-figma-6180116004",
       "url:https://boards.greenhouse.io/figma/jobs/6180116004",
       "zapply-d0a944883565",
-      "url:https://zapply.jobs/l/d/workday-kla-search-2641699"
+      "url:https://zapply.jobs/l/d/workday-kla-search-2641699",
+      "greenhouse-mixpanel-8263014",
+      "url:https://job-boards.greenhouse.io/mixpanel/jobs/8263014",
+      "jobright-e95eac1de798",
+      "url:https://jobright.ai/jobs/info/6ac6852e372c01f6cd73d96d",
+      "jobright-cef9bc60bf6d",
+      "url:https://jobright.ai/jobs/info/6ac6845b8ff3fb9b3bc8d898"
     ],
     "swe-ai-full-time": [
       "zapply-74fffb827dea",
@@ -50232,7 +50310,19 @@
       "zapply-cd91d7eeadc1",
       "url:https://zapply.jobs/l/d/workday-northeastern-careers-R142889",
       "zapply-ba9f20c68f68",
-      "url:https://zapply.jobs/l/d/workday-kla-search-2641710"
+      "url:https://zapply.jobs/l/d/workday-kla-search-2641710",
+      "zapply-dcfc2bb024a8",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027551",
+      "zapply-738794cd8a4d",
+      "url:https://zapply.jobs/l/d/workday-umd-umcp-JR105146",
+      "zapply-934b7f3fa1a9",
+      "url:https://zapply.jobs/l/d/workday-comcast-comcast-careers-R445311",
+      "zapply-5024b722af74",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024876",
+      "zapply-33381c96897c",
+      "url:https://zapply.jobs/l/d/ashby-Replicant-620ed75e-4d20-40c4-b1e3-21604f99c399",
+      "jobright-e044fc47be30",
+      "url:https://jobright.ai/jobs/info/6ac684360e027c0f3b3b2cf3"
     ]
   }
 }
