@@ -40055,10 +40055,82 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10572196/applied-scientist-prime-video-personalization-and-discovery-prime-video-personalization-discovery",
       "seen_at": "2026-10-07T18:01:22.386050+00:00"
+    },
+    {
+      "id": "greenhouse-chime-8875663002",
+      "seen_at": "2026-10-07T18:31:26.339995+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/chime/jobs/8875663002",
+      "seen_at": "2026-10-07T18:31:26.340858+00:00"
+    },
+    {
+      "id": "zapply-ed9702a40d5e",
+      "seen_at": "2026-10-07T18:31:26.341585+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603377",
+      "seen_at": "2026-10-07T18:31:26.342313+00:00"
+    },
+    {
+      "id": "zapply-9f40dcfd3913",
+      "seen_at": "2026-10-07T18:31:26.343000+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01369840",
+      "seen_at": "2026-10-07T18:31:26.343684+00:00"
+    },
+    {
+      "id": "zapply-8e7ca9780af7",
+      "seen_at": "2026-10-07T18:31:26.344372+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603381",
+      "seen_at": "2026-10-07T18:31:26.345057+00:00"
+    },
+    {
+      "id": "zapply-88719bf37d3f",
+      "seen_at": "2026-10-07T18:31:26.345711+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-2037",
+      "seen_at": "2026-10-07T18:31:26.346384+00:00"
+    },
+    {
+      "id": "zapply-e181b2734267",
+      "seen_at": "2026-10-07T18:31:26.347087+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524131",
+      "seen_at": "2026-10-07T18:31:26.347751+00:00"
+    },
+    {
+      "id": "ashby-decagon-0f41f8dc-a3c9-47e1-a3fe-5f137d83850e",
+      "seen_at": "2026-10-07T18:31:26.348434+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/decagon/0f41f8dc-a3c9-47e1-a3fe-5f137d83850e",
+      "seen_at": "2026-10-07T18:31:26.349097+00:00"
+    },
+    {
+      "id": "zapply-7b50ec094bcb",
+      "seen_at": "2026-10-07T18:31:26.349746+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-riotgames-8234671",
+      "seen_at": "2026-10-07T18:31:26.350421+00:00"
+    },
+    {
+      "id": "zapply-648eed608305",
+      "seen_at": "2026-10-07T18:31:28.248519+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-citizens-financial-49510",
+      "seen_at": "2026-10-07T18:31:28.249202+00:00"
     }
   ],
-  "last_run": "2026-10-07T18:01:24.699550+00:00",
-  "total_notified": 8448,
+  "last_run": "2026-10-07T18:31:28.724182+00:00",
+  "total_notified": 8457,
   "channels": {
     "pm-jobs": [
       "workday-capitalone-R248239",
@@ -41515,7 +41587,9 @@
       "zapply-8fa9da372845",
       "url:https://zapply.jobs/l/d/workday-ms-external-JR038430",
       "zapply-cf4183ce7201",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210705145"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210705145",
+      "zapply-648eed608305",
+      "url:https://zapply.jobs/l/d/oracle-citizens-financial-49510"
     ],
     "swe-ai-full-time": [
       "zapply-d956e247d8ff",
@@ -50082,7 +50156,23 @@
       "applyguy-d34b31ff-c78a-4a8e-9c55-0f8b25022e4e",
       "url:https://job-boards.greenhouse.io/assystinc/jobs/4436912009",
       "amazon-10572196",
-      "url:https://www.amazon.jobs/en/jobs/10572196/applied-scientist-prime-video-personalization-and-discovery-prime-video-personalization-discovery"
+      "url:https://www.amazon.jobs/en/jobs/10572196/applied-scientist-prime-video-personalization-and-discovery-prime-video-personalization-discovery",
+      "greenhouse-chime-8875663002",
+      "url:https://boards.greenhouse.io/chime/jobs/8875663002",
+      "zapply-ed9702a40d5e",
+      "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603377",
+      "zapply-9f40dcfd3913",
+      "url:https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01369840",
+      "zapply-8e7ca9780af7",
+      "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603381",
+      "zapply-88719bf37d3f",
+      "url:https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-2037",
+      "zapply-e181b2734267",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524131",
+      "ashby-decagon-0f41f8dc-a3c9-47e1-a3fe-5f137d83850e",
+      "url:https://jobs.ashbyhq.com/decagon/0f41f8dc-a3c9-47e1-a3fe-5f137d83850e",
+      "zapply-7b50ec094bcb",
+      "url:https://zapply.jobs/l/d/greenhouse-riotgames-8234671"
     ]
   }
 }
