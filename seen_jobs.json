@@ -40255,10 +40255,50 @@
     {
       "id": "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648",
       "seen_at": "2026-10-07T12:31:13.798172+00:00"
+    },
+    {
+      "id": "ashby-elevenlabs-0b3a97d4-193c-4b47-9888-7ef5803ed945",
+      "seen_at": "2026-10-07T13:31:09.932524+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945",
+      "seen_at": "2026-10-07T13:31:09.933252+00:00"
+    },
+    {
+      "id": "ashby-clickhouse-b3e6d985-b540-456c-8eee-edfd79580572",
+      "seen_at": "2026-10-07T13:31:09.933942+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/clickhouse/b3e6d985-b540-456c-8eee-edfd79580572",
+      "seen_at": "2026-10-07T13:31:09.934587+00:00"
+    },
+    {
+      "id": "ashby-sierra-9d59c96e-e7f7-43cc-8069-bcdf3798fe2b",
+      "seen_at": "2026-10-07T13:31:09.935220+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b",
+      "seen_at": "2026-10-07T13:31:09.935860+00:00"
+    },
+    {
+      "id": "greenhouse-cloudflare-8242904",
+      "seen_at": "2026-10-07T13:31:11.813002+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/cloudflare/jobs/8242904",
+      "seen_at": "2026-10-07T13:31:11.813636+00:00"
+    },
+    {
+      "id": "zapply-d5ae2b8959a0",
+      "seen_at": "2026-10-07T13:31:11.814229+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-taketwo-8261150",
+      "seen_at": "2026-10-07T13:31:11.814847+00:00"
     }
   ],
-  "last_run": "2026-10-07T13:01:28.004131+00:00",
-  "total_notified": 8403,
+  "last_run": "2026-10-07T13:31:12.138093+00:00",
+  "total_notified": 8408,
   "channels": {
     "pm-jobs": [
       "jobright-a0c53363b4d8",
@@ -41735,7 +41775,11 @@
       "ashby-supabase-9a4c9984-07c7-4b47-982f-371de3f6ff50",
       "url:https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50",
       "zapply-2271a021949e",
-      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621111"
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621111",
+      "greenhouse-cloudflare-8242904",
+      "url:https://boards.greenhouse.io/cloudflare/jobs/8242904",
+      "zapply-d5ae2b8959a0",
+      "url:https://zapply.jobs/l/d/greenhouse-taketwo-8261150"
     ],
     "swe-ai-full-time": [
       "zapply-9a54c1831a19",
@@ -50332,7 +50376,13 @@
       "zapply-d0a2cbd501b0",
       "url:https://zapply.jobs/l/d/workday-comcast-comcast-careers-R445122",
       "applyguy-cfc1b6f0-a1be-467f-86b8-c2d33ce2e038",
-      "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
+      "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648",
+      "ashby-elevenlabs-0b3a97d4-193c-4b47-9888-7ef5803ed945",
+      "url:https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945",
+      "ashby-clickhouse-b3e6d985-b540-456c-8eee-edfd79580572",
+      "url:https://jobs.ashbyhq.com/clickhouse/b3e6d985-b540-456c-8eee-edfd79580572",
+      "ashby-sierra-9d59c96e-e7f7-43cc-8069-bcdf3798fe2b",
+      "url:https://jobs.ashbyhq.com/sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b"
     ]
   }
 }
