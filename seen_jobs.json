@@ -40795,10 +40795,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac6f97c8ff3fb9b3bc8fae1",
       "seen_at": "2026-10-08T10:01:21.533443+00:00"
+    },
+    {
+      "id": "zapply-bb4a8086aee9",
+      "seen_at": "2026-10-08T11:31:25.185179+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/phenom-cisco-2025504",
+      "seen_at": "2026-10-08T11:31:25.185922+00:00"
+    },
+    {
+      "id": "applyguy-cb2aa156-0344-4105-bb18-ac0434baaaa9",
+      "seen_at": "2026-10-08T11:31:25.186578+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
+      "seen_at": "2026-10-08T11:31:25.187194+00:00"
+    },
+    {
+      "id": "applyguy-b683b9b7-07e8-4a4a-a843-549bedc1bc43",
+      "seen_at": "2026-10-08T11:31:25.187834+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
+      "seen_at": "2026-10-08T11:31:25.188462+00:00"
     }
   ],
-  "last_run": "2026-10-08T11:01:14.487071+00:00",
-  "total_notified": 8564,
+  "last_run": "2026-10-08T11:31:26.376211+00:00",
+  "total_notified": 8567,
   "channels": {
     "pm-jobs": [
       "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
@@ -51008,7 +51032,13 @@
       "gradtracker-bf17fdaeacbe",
       "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
       "gradtracker-436f8afa72a8",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
+      "zapply-bb4a8086aee9",
+      "url:https://zapply.jobs/l/d/phenom-cisco-2025504",
+      "applyguy-cb2aa156-0344-4105-bb18-ac0434baaaa9",
+      "url:https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
+      "applyguy-b683b9b7-07e8-4a4a-a843-549bedc1bc43",
+      "url:https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
     ]
   }
 }
