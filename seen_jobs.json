@@ -40475,10 +40475,66 @@
     {
       "id": "url:https://www.optiver.com/join-us/jobs/8875482002",
       "seen_at": "2026-10-08T14:31:18.153584+00:00"
+    },
+    {
+      "id": "ashby-lumaai-d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d",
+      "seen_at": "2026-10-08T15:01:26.930252+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/lumaai/d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d",
+      "seen_at": "2026-10-08T15:01:26.930807+00:00"
+    },
+    {
+      "id": "ashby-lumaai-d94b1360-710c-4f3b-93a8-e4ac51591e9a",
+      "seen_at": "2026-10-08T15:01:26.931301+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/lumaai/d94b1360-710c-4f3b-93a8-e4ac51591e9a",
+      "seen_at": "2026-10-08T15:01:26.931758+00:00"
+    },
+    {
+      "id": "zapply-ed73ed0b22d7",
+      "seen_at": "2026-10-08T15:01:26.932225+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-doordashusa-8264542",
+      "seen_at": "2026-10-08T15:01:26.932656+00:00"
+    },
+    {
+      "id": "zapply-f3e2fe443861",
+      "seen_at": "2026-10-08T15:01:26.933093+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-doordashusa-8264534",
+      "seen_at": "2026-10-08T15:01:26.933504+00:00"
+    },
+    {
+      "id": "zapply-5cb79a8fd7df",
+      "seen_at": "2026-10-08T15:01:26.933917+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-doordashusa-8263726",
+      "seen_at": "2026-10-08T15:01:26.934368+00:00"
+    },
+    {
+      "id": "jobright-50f70177c0e7",
+      "seen_at": "2026-10-08T15:01:26.934794+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac79b06fe8f33a85d4fc1ef",
+      "seen_at": "2026-10-08T15:01:26.935210+00:00"
+    },
+    {
+      "id": "zapply-9c57eb728ebd",
+      "seen_at": "2026-10-08T15:01:29.731497+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R33972",
+      "seen_at": "2026-10-08T15:01:29.731971+00:00"
     }
   ],
-  "last_run": "2026-10-08T14:31:18.933530+00:00",
-  "total_notified": 8588,
+  "last_run": "2026-10-08T15:01:29.964052+00:00",
+  "total_notified": 8595,
   "channels": {
     "pm-jobs": [
       "zapply-8509759e90a3",
@@ -41957,7 +42013,9 @@
       "jobright-5ea4d7b29758",
       "url:https://jobright.ai/jobs/info/6a9e29b475edfa11b47106b6",
       "zapply-bbfea5beb42d",
-      "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30252"
+      "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30252",
+      "zapply-9c57eb728ebd",
+      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R33972"
     ],
     "swe-ai-full-time": [
       "zapply-9303314d11e5",
@@ -50608,7 +50666,19 @@
       "zapply-7c211d03ca56",
       "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603405",
       "greenhouse-optiverus-8875482002",
-      "url:https://www.optiver.com/join-us/jobs/8875482002"
+      "url:https://www.optiver.com/join-us/jobs/8875482002",
+      "ashby-lumaai-d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d",
+      "url:https://jobs.ashbyhq.com/lumaai/d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d",
+      "ashby-lumaai-d94b1360-710c-4f3b-93a8-e4ac51591e9a",
+      "url:https://jobs.ashbyhq.com/lumaai/d94b1360-710c-4f3b-93a8-e4ac51591e9a",
+      "zapply-ed73ed0b22d7",
+      "url:https://zapply.jobs/l/d/greenhouse-doordashusa-8264542",
+      "zapply-f3e2fe443861",
+      "url:https://zapply.jobs/l/d/greenhouse-doordashusa-8264534",
+      "zapply-5cb79a8fd7df",
+      "url:https://zapply.jobs/l/d/greenhouse-doordashusa-8263726",
+      "jobright-50f70177c0e7",
+      "url:https://jobright.ai/jobs/info/6ac79b06fe8f33a85d4fc1ef"
     ]
   }
 }
