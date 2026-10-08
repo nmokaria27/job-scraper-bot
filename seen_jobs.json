@@ -40699,10 +40699,106 @@
     {
       "id": "url:https://zapply.jobs/l/d/amazon-795672fc-3bbf-493a-8435-c0b3fb233696",
       "seen_at": "2026-10-08T03:31:08.340952+00:00"
+    },
+    {
+      "id": "zapply-5f39772a72f1",
+      "seen_at": "2026-10-08T10:01:19.633842+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023750",
+      "seen_at": "2026-10-08T10:01:19.634560+00:00"
+    },
+    {
+      "id": "zapply-7108fc65618b",
+      "seen_at": "2026-10-08T10:01:19.635233+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025504",
+      "seen_at": "2026-10-08T10:01:19.635867+00:00"
+    },
+    {
+      "id": "zapply-c63c8e737531",
+      "seen_at": "2026-10-08T10:01:19.636483+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229866",
+      "seen_at": "2026-10-08T10:01:19.637157+00:00"
+    },
+    {
+      "id": "zapply-2cf4058fd640",
+      "seen_at": "2026-10-08T10:01:19.637855+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2628997",
+      "seen_at": "2026-10-08T10:01:19.638469+00:00"
+    },
+    {
+      "id": "zapply-86eb77e6c088",
+      "seen_at": "2026-10-08T10:01:19.639116+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2628998",
+      "seen_at": "2026-10-08T10:01:19.639742+00:00"
+    },
+    {
+      "id": "jobright-c6ecd03d4a7c",
+      "seen_at": "2026-10-08T10:01:19.640366+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7580c4ac55253f5d7da14",
+      "seen_at": "2026-10-08T10:01:19.640987+00:00"
+    },
+    {
+      "id": "gradtracker-c849bfea5402",
+      "seen_at": "2026-10-08T10:01:19.641639+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10572862/software-development-engineer-fees-tech",
+      "seen_at": "2026-10-08T10:01:19.642241+00:00"
+    },
+    {
+      "id": "jobright-25b2ba6ee15b",
+      "seen_at": "2026-10-08T10:01:19.642872+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac6eca58ff3fb9b3bc8f935",
+      "seen_at": "2026-10-08T10:01:19.643489+00:00"
+    },
+    {
+      "id": "gradtracker-bf17fdaeacbe",
+      "seen_at": "2026-10-08T10:01:19.644124+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
+      "seen_at": "2026-10-08T10:01:19.644740+00:00"
+    },
+    {
+      "id": "gradtracker-436f8afa72a8",
+      "seen_at": "2026-10-08T10:01:19.645349+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
+      "seen_at": "2026-10-08T10:01:19.645959+00:00"
+    },
+    {
+      "id": "zapply-971b8dddda1d",
+      "seen_at": "2026-10-08T10:01:21.531690+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-figma-6180116004",
+      "seen_at": "2026-10-08T10:01:21.532293+00:00"
+    },
+    {
+      "id": "jobright-0121ff9cc9bb",
+      "seen_at": "2026-10-08T10:01:21.532887+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac6f97c8ff3fb9b3bc8fae1",
+      "seen_at": "2026-10-08T10:01:21.533443+00:00"
     }
   ],
-  "last_run": "2026-10-08T03:31:09.768832+00:00",
-  "total_notified": 8552,
+  "last_run": "2026-10-08T10:01:21.796365+00:00",
+  "total_notified": 8564,
   "channels": {
     "pm-jobs": [
       "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
@@ -42193,7 +42289,11 @@
       "simplify-d7937e10-47e3-4200-8c2e-78a5c770d298",
       "url:https://www.ixl.com/company/jobs",
       "jobright-2a8da72542e7",
-      "url:https://jobright.ai/jobs/info/6ac6bd040e027c0f3b3b416f"
+      "url:https://jobright.ai/jobs/info/6ac6bd040e027c0f3b3b416f",
+      "zapply-971b8dddda1d",
+      "url:https://zapply.jobs/l/d/greenhouse-figma-6180116004",
+      "jobright-0121ff9cc9bb",
+      "url:https://jobright.ai/jobs/info/6ac6f97c8ff3fb9b3bc8fae1"
     ],
     "swe-ai-full-time": [
       "zapply-8e4f16b8901f",
@@ -50888,7 +50988,27 @@
       "zapply-192c2602a6d8",
       "url:https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163984",
       "zapply-71efbc2428c4",
-      "url:https://zapply.jobs/l/d/amazon-795672fc-3bbf-493a-8435-c0b3fb233696"
+      "url:https://zapply.jobs/l/d/amazon-795672fc-3bbf-493a-8435-c0b3fb233696",
+      "zapply-5f39772a72f1",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023750",
+      "zapply-7108fc65618b",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025504",
+      "zapply-c63c8e737531",
+      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229866",
+      "zapply-2cf4058fd640",
+      "url:https://zapply.jobs/l/d/workday-amat-external-R2628997",
+      "zapply-86eb77e6c088",
+      "url:https://zapply.jobs/l/d/workday-amat-external-R2628998",
+      "jobright-c6ecd03d4a7c",
+      "url:https://jobright.ai/jobs/info/6ac7580c4ac55253f5d7da14",
+      "gradtracker-c849bfea5402",
+      "url:https://www.amazon.jobs/en/jobs/10572862/software-development-engineer-fees-tech",
+      "jobright-25b2ba6ee15b",
+      "url:https://jobright.ai/jobs/info/6ac6eca58ff3fb9b3bc8f935",
+      "gradtracker-bf17fdaeacbe",
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
+      "gradtracker-436f8afa72a8",
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
     ]
   }
 }
