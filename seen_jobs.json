@@ -40395,10 +40395,90 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs",
       "seen_at": "2026-10-08T19:31:22.942250+00:00"
+    },
+    {
+      "id": "zapply-b13241037ccb",
+      "seen_at": "2026-10-08T20:01:27.507042+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-ServiceNow-744000154515244",
+      "seen_at": "2026-10-08T20:01:27.507816+00:00"
+    },
+    {
+      "id": "zapply-c2ecdf871cd4",
+      "seen_at": "2026-10-08T20:01:27.508566+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-botauto-5448119008",
+      "seen_at": "2026-10-08T20:01:27.509222+00:00"
+    },
+    {
+      "id": "jobright-641d07b9118b",
+      "seen_at": "2026-10-08T20:01:27.509897+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7dcd944d6e65604a04ccc",
+      "seen_at": "2026-10-08T20:01:27.510523+00:00"
+    },
+    {
+      "id": "jobright-8ae1830d0067",
+      "seen_at": "2026-10-08T20:01:27.511196+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7dc9aa444ac5d36f864d1",
+      "seen_at": "2026-10-08T20:01:27.511830+00:00"
+    },
+    {
+      "id": "jobright-4beeff7ea97f",
+      "seen_at": "2026-10-08T20:01:27.512470+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7d237a444ac5d36f85fde",
+      "seen_at": "2026-10-08T20:01:27.513113+00:00"
+    },
+    {
+      "id": "zapply-f4629fc7cda8",
+      "seen_at": "2026-10-08T20:01:29.625806+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052851",
+      "seen_at": "2026-10-08T20:01:29.626451+00:00"
+    },
+    {
+      "id": "zapply-a862db9254c8",
+      "seen_at": "2026-10-08T20:01:29.627063+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-jj-jj-R-102895",
+      "seen_at": "2026-10-08T20:01:29.627634+00:00"
+    },
+    {
+      "id": "jobright-a35205f4e09f",
+      "seen_at": "2026-10-08T20:01:29.628199+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7dd920e573df8adc74cf0",
+      "seen_at": "2026-10-08T20:01:29.628762+00:00"
+    },
+    {
+      "id": "jobright-76171efbeb34",
+      "seen_at": "2026-10-08T20:01:29.629326+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7d809fcdafb60c6a462c6",
+      "seen_at": "2026-10-08T20:01:29.629906+00:00"
+    },
+    {
+      "id": "jobright-d9581e5885e3",
+      "seen_at": "2026-10-08T20:01:29.630479+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7e28251a1b3e4219ef2fa",
+      "seen_at": "2026-10-08T20:01:29.631127+00:00"
     }
   ],
-  "last_run": "2026-10-08T19:31:23.958590+00:00",
-  "total_notified": 8648,
+  "last_run": "2026-10-08T20:01:29.814583+00:00",
+  "total_notified": 8658,
   "channels": {
     "pm-jobs": [
       "jobright-f4fb0bd25914",
@@ -41863,7 +41943,17 @@
       "zapply-38f5138aaaa5",
       "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35460",
       "jobright-06eaefd609dc",
-      "url:https://jobright.ai/jobs/info/6ac503ed064da25272e143a5"
+      "url:https://jobright.ai/jobs/info/6ac503ed064da25272e143a5",
+      "zapply-f4629fc7cda8",
+      "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052851",
+      "zapply-a862db9254c8",
+      "url:https://zapply.jobs/l/d/workday-jj-jj-R-102895",
+      "jobright-a35205f4e09f",
+      "url:https://jobright.ai/jobs/info/6ac7dd920e573df8adc74cf0",
+      "jobright-76171efbeb34",
+      "url:https://jobright.ai/jobs/info/6ac7d809fcdafb60c6a462c6",
+      "jobright-d9581e5885e3",
+      "url:https://jobright.ai/jobs/info/6ac7e28251a1b3e4219ef2fa"
     ],
     "swe-ai-full-time": [
       "zapply-ea1eab3da790",
@@ -50507,7 +50597,17 @@
       "zapply-45915dd5edad",
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525674",
       "amazon-10573921",
-      "url:https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs"
+      "url:https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs",
+      "zapply-b13241037ccb",
+      "url:https://zapply.jobs/l/d/sr-ServiceNow-744000154515244",
+      "zapply-c2ecdf871cd4",
+      "url:https://zapply.jobs/l/d/greenhouse-botauto-5448119008",
+      "jobright-641d07b9118b",
+      "url:https://jobright.ai/jobs/info/6ac7dcd944d6e65604a04ccc",
+      "jobright-8ae1830d0067",
+      "url:https://jobright.ai/jobs/info/6ac7dc9aa444ac5d36f864d1",
+      "jobright-4beeff7ea97f",
+      "url:https://jobright.ai/jobs/info/6ac7d237a444ac5d36f85fde"
     ]
   }
 }
