@@ -40243,10 +40243,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac7ee33fe8f33a85d4fe126",
       "seen_at": "2026-10-08T22:01:23.767753+00:00"
+    },
+    {
+      "id": "amazon-10574139",
+      "seen_at": "2026-10-08T22:25:21.999537+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10574139/software-development-engineer-finance-technology",
+      "seen_at": "2026-10-08T22:25:22.000233+00:00"
+    },
+    {
+      "id": "amazon-10574120",
+      "seen_at": "2026-10-08T22:25:22.000894+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10574120/software-development-engineer-seller-economics-fees",
+      "seen_at": "2026-10-08T22:25:22.001525+00:00"
+    },
+    {
+      "id": "zapply-3dc469b15118",
+      "seen_at": "2026-10-08T22:25:24.225063+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090559",
+      "seen_at": "2026-10-08T22:25:24.225774+00:00"
+    },
+    {
+      "id": "zapply-92ef0b5c2e23",
+      "seen_at": "2026-10-08T22:25:24.226413+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79141",
+      "seen_at": "2026-10-08T22:25:24.226989+00:00"
     }
   ],
-  "last_run": "2026-10-08T22:01:23.948356+00:00",
-  "total_notified": 8689,
+  "last_run": "2026-10-08T22:25:24.623302+00:00",
+  "total_notified": 8693,
   "channels": {
     "pm-jobs": [
       "zapply-0d702a2278f4",
@@ -41723,7 +41755,11 @@
       "jobright-04b1c160a2dc",
       "url:https://jobright.ai/jobs/info/6ac7f20d44d6e65604a053cb",
       "jobright-3f36f7fd92b3",
-      "url:https://jobright.ai/jobs/info/6ac7ee33fe8f33a85d4fe126"
+      "url:https://jobright.ai/jobs/info/6ac7ee33fe8f33a85d4fe126",
+      "zapply-3dc469b15118",
+      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090559",
+      "zapply-92ef0b5c2e23",
+      "url:https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79141"
     ],
     "swe-ai-full-time": [
       "zapply-779e249cabab",
@@ -50317,7 +50353,11 @@
       "jobright-b28c68c28bdc",
       "url:https://jobright.ai/jobs/info/6ac7f02bfe8f33a85d4fe20d",
       "jobright-c68e00c9241c",
-      "url:https://jobright.ai/jobs/info/6ac7f56b44d6e65604a05474"
+      "url:https://jobright.ai/jobs/info/6ac7f56b44d6e65604a05474",
+      "amazon-10574139",
+      "url:https://www.amazon.jobs/en/jobs/10574139/software-development-engineer-finance-technology",
+      "amazon-10574120",
+      "url:https://www.amazon.jobs/en/jobs/10574120/software-development-engineer-seller-economics-fees"
     ]
   }
 }
