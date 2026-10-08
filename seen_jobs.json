@@ -40915,10 +40915,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023279",
       "seen_at": "2026-10-08T13:31:18.695085+00:00"
+    },
+    {
+      "id": "zapply-ea3c62eddc67",
+      "seen_at": "2026-10-08T14:01:39.002334+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027450",
+      "seen_at": "2026-10-08T14:01:39.003360+00:00"
+    },
+    {
+      "id": "zapply-5384307c7972",
+      "seen_at": "2026-10-08T14:01:39.004140+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42585",
+      "seen_at": "2026-10-08T14:01:39.004801+00:00"
+    },
+    {
+      "id": "jobright-677859e4d5da",
+      "seen_at": "2026-10-08T14:01:39.005457+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7cb7c583621355407ab728",
+      "seen_at": "2026-10-08T14:01:39.006095+00:00"
+    },
+    {
+      "id": "zapply-bbfea5beb42d",
+      "seen_at": "2026-10-08T14:01:41.032280+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30252",
+      "seen_at": "2026-10-08T14:01:41.033017+00:00"
     }
   ],
-  "last_run": "2026-10-08T13:31:19.905292+00:00",
-  "total_notified": 8579,
+  "last_run": "2026-10-08T14:01:41.278555+00:00",
+  "total_notified": 8583,
   "channels": {
     "pm-jobs": [
       "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
@@ -42421,7 +42453,9 @@
       "jobright-f0809c30c494",
       "url:https://jobright.ai/jobs/info/6a9e29bc75edfa11b47106ba",
       "jobright-5ea4d7b29758",
-      "url:https://jobright.ai/jobs/info/6a9e29b475edfa11b47106b6"
+      "url:https://jobright.ai/jobs/info/6a9e29b475edfa11b47106b6",
+      "zapply-bbfea5beb42d",
+      "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30252"
     ],
     "swe-ai-full-time": [
       "zapply-8e4f16b8901f",
@@ -51158,7 +51192,13 @@
       "jobright-e20e30354675",
       "url:https://jobright.ai/jobs/info/6ac774b70e573df8adc72ca1",
       "zapply-affd0bf8ca63",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023279"
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023279",
+      "zapply-ea3c62eddc67",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027450",
+      "zapply-5384307c7972",
+      "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42585",
+      "jobright-677859e4d5da",
+      "url:https://jobright.ai/jobs/info/6a7cb7c583621355407ab728"
     ]
   }
 }
