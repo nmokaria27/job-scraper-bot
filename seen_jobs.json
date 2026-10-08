@@ -40675,10 +40675,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac69660d9621c5b283a9b15",
       "seen_at": "2026-10-08T03:01:53.768723+00:00"
+    },
+    {
+      "id": "zapply-5e11fffa9cd1",
+      "seen_at": "2026-10-08T03:31:08.337595+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163773",
+      "seen_at": "2026-10-08T03:31:08.338347+00:00"
+    },
+    {
+      "id": "zapply-192c2602a6d8",
+      "seen_at": "2026-10-08T03:31:08.339004+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163984",
+      "seen_at": "2026-10-08T03:31:08.339631+00:00"
+    },
+    {
+      "id": "zapply-71efbc2428c4",
+      "seen_at": "2026-10-08T03:31:08.340316+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-795672fc-3bbf-493a-8435-c0b3fb233696",
+      "seen_at": "2026-10-08T03:31:08.340952+00:00"
     }
   ],
-  "last_run": "2026-10-08T03:01:54.898411+00:00",
-  "total_notified": 8549,
+  "last_run": "2026-10-08T03:31:09.768832+00:00",
+  "total_notified": 8552,
   "channels": {
     "pm-jobs": [
       "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
@@ -50858,7 +50882,13 @@
       "zapply-b161f6e9d1d6",
       "url:https://zapply.jobs/l/d/amazon-7f615981-78d6-420c-b8c2-a9f51d505a25",
       "jobright-098ef6490018",
-      "url:https://jobright.ai/jobs/info/6ac69660d9621c5b283a9b15"
+      "url:https://jobright.ai/jobs/info/6ac69660d9621c5b283a9b15",
+      "zapply-5e11fffa9cd1",
+      "url:https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163773",
+      "zapply-192c2602a6d8",
+      "url:https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163984",
+      "zapply-71efbc2428c4",
+      "url:https://zapply.jobs/l/d/amazon-795672fc-3bbf-493a-8435-c0b3fb233696"
     ]
   }
 }
