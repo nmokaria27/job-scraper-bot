@@ -40283,10 +40283,82 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-083083",
       "seen_at": "2026-10-08T22:31:11.365313+00:00"
+    },
+    {
+      "id": "zapply-2c586a66b5e2",
+      "seen_at": "2026-10-08T23:01:42.855488+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-sonyinteractiveentertainmentglobal-6220970004",
+      "seen_at": "2026-10-08T23:01:42.855927+00:00"
+    },
+    {
+      "id": "zapply-fd8df866b081",
+      "seen_at": "2026-10-08T23:01:42.856296+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200672906",
+      "seen_at": "2026-10-08T23:01:42.856647+00:00"
+    },
+    {
+      "id": "simplify-e2182c1b-5804-476c-b3e7-fd9a76bfa949",
+      "seen_at": "2026-10-08T23:01:42.856987+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7694352871949682997",
+      "seen_at": "2026-10-08T23:01:42.857327+00:00"
+    },
+    {
+      "id": "simplify-18a4d979-0dfb-4e04-b57b-34966be64717",
+      "seen_at": "2026-10-08T23:01:42.857656+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7694351754099804469",
+      "seen_at": "2026-10-08T23:01:42.857980+00:00"
+    },
+    {
+      "id": "simplify-568e0356-3be1-4ed8-ae1a-58d223aff38b",
+      "seen_at": "2026-10-08T23:01:42.858310+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7694346612567214389",
+      "seen_at": "2026-10-08T23:01:42.858627+00:00"
+    },
+    {
+      "id": "zapply-a6df9ddffef0",
+      "seen_at": "2026-10-08T23:01:42.858946+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200688057",
+      "seen_at": "2026-10-08T23:01:42.859276+00:00"
+    },
+    {
+      "id": "jobright-b76f09a05f0d",
+      "seen_at": "2026-10-08T23:01:42.859593+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a99a460551435518ebf006b",
+      "seen_at": "2026-10-08T23:01:42.859907+00:00"
+    },
+    {
+      "id": "jobright-7359293565b2",
+      "seen_at": "2026-10-08T23:01:42.860233+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac805ecfe8f33a85d4feae5",
+      "seen_at": "2026-10-08T23:01:42.860545+00:00"
+    },
+    {
+      "id": "jobright-41a92c4a6e3d",
+      "seen_at": "2026-10-08T23:01:42.860860+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac8000144d6e65604a058cb",
+      "seen_at": "2026-10-08T23:01:42.861164+00:00"
     }
   ],
-  "last_run": "2026-10-08T22:31:13.246764+00:00",
-  "total_notified": 8694,
+  "last_run": "2026-10-08T23:01:43.768089+00:00",
+  "total_notified": 8703,
   "channels": {
     "pm-jobs": [
       "zapply-0d702a2278f4",
@@ -50367,7 +50439,25 @@
       "amazon-10574120",
       "url:https://www.amazon.jobs/en/jobs/10574120/software-development-engineer-seller-economics-fees",
       "zapply-4de1746493d3",
-      "url:https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-083083"
+      "url:https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-083083",
+      "zapply-2c586a66b5e2",
+      "url:https://zapply.jobs/l/d/greenhouse-sonyinteractiveentertainmentglobal-6220970004",
+      "zapply-fd8df866b081",
+      "url:https://zapply.jobs/l/d/apple-200672906",
+      "simplify-e2182c1b-5804-476c-b3e7-fd9a76bfa949",
+      "url:https://lifeattiktok.com/search/7694352871949682997",
+      "simplify-18a4d979-0dfb-4e04-b57b-34966be64717",
+      "url:https://lifeattiktok.com/search/7694351754099804469",
+      "simplify-568e0356-3be1-4ed8-ae1a-58d223aff38b",
+      "url:https://lifeattiktok.com/search/7694346612567214389",
+      "zapply-a6df9ddffef0",
+      "url:https://zapply.jobs/l/d/apple-200688057",
+      "jobright-b76f09a05f0d",
+      "url:https://jobright.ai/jobs/info/6a99a460551435518ebf006b",
+      "jobright-7359293565b2",
+      "url:https://jobright.ai/jobs/info/6ac805ecfe8f33a85d4feae5",
+      "jobright-41a92c4a6e3d",
+      "url:https://jobright.ai/jobs/info/6ac8000144d6e65604a058cb"
     ]
   }
 }
