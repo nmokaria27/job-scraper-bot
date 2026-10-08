@@ -40371,10 +40371,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac7cb3aa444ac5d36f85c75",
       "seen_at": "2026-10-08T19:01:21.704061+00:00"
+    },
+    {
+      "id": "zapply-2451f3298268",
+      "seen_at": "2026-10-08T19:31:22.939824+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-analogdevices-external-R266702",
+      "seen_at": "2026-10-08T19:31:22.940388+00:00"
+    },
+    {
+      "id": "zapply-45915dd5edad",
+      "seen_at": "2026-10-08T19:31:22.940872+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525674",
+      "seen_at": "2026-10-08T19:31:22.941339+00:00"
+    },
+    {
+      "id": "amazon-10573921",
+      "seen_at": "2026-10-08T19:31:22.941790+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs",
+      "seen_at": "2026-10-08T19:31:22.942250+00:00"
     }
   ],
-  "last_run": "2026-10-08T19:01:23.106786+00:00",
-  "total_notified": 8645,
+  "last_run": "2026-10-08T19:31:23.958590+00:00",
+  "total_notified": 8648,
   "channels": {
     "pm-jobs": [
       "jobright-f4fb0bd25914",
@@ -50477,7 +50501,13 @@
       "amazon-10573840",
       "url:https://www.amazon.jobs/en/jobs/10573840/software-development-engineer-amazon-demand-side-platform",
       "jobright-03c511a9e82c",
-      "url:https://jobright.ai/jobs/info/6ac7cb3aa444ac5d36f85c75"
+      "url:https://jobright.ai/jobs/info/6ac7cb3aa444ac5d36f85c75",
+      "zapply-2451f3298268",
+      "url:https://zapply.jobs/l/d/workday-analogdevices-external-R266702",
+      "zapply-45915dd5edad",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525674",
+      "amazon-10573921",
+      "url:https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs"
     ]
   }
 }
