@@ -40307,10 +40307,74 @@
     {
       "id": "url:https://stripe.com/jobs/search",
       "seen_at": "2026-10-08T18:31:21.081507+00:00"
+    },
+    {
+      "id": "greenhouse-figure-8860509002",
+      "seen_at": "2026-10-08T19:01:21.694331+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/figure/jobs/8860509002",
+      "seen_at": "2026-10-08T19:01:21.695032+00:00"
+    },
+    {
+      "id": "zapply-c0ec654c977d",
+      "seen_at": "2026-10-08T19:01:21.695742+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-f15ae591-4951-42fa-be96-1d3a9bbe354f",
+      "seen_at": "2026-10-08T19:01:21.696396+00:00"
+    },
+    {
+      "id": "jobright-98edba083cff",
+      "seen_at": "2026-10-08T19:01:21.697038+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abdaa93372c01f6cd7219b9",
+      "seen_at": "2026-10-08T19:01:21.697648+00:00"
+    },
+    {
+      "id": "jobright-861326b29b20",
+      "seen_at": "2026-10-08T19:01:21.698305+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7ccfe44d6e65604a044ad",
+      "seen_at": "2026-10-08T19:01:21.698918+00:00"
+    },
+    {
+      "id": "jobright-33eec196c954",
+      "seen_at": "2026-10-08T19:01:21.699574+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a72950802d93145bf895468",
+      "seen_at": "2026-10-08T19:01:21.700242+00:00"
+    },
+    {
+      "id": "applyguy-12523ea9-71ad-4f00-a37b-d26b4509f987",
+      "seen_at": "2026-10-08T19:01:21.700872+00:00"
+    },
+    {
+      "id": "url:https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Chicago-IL-60615/Junior-Software-Engineer_R2026107887",
+      "seen_at": "2026-10-08T19:01:21.701497+00:00"
+    },
+    {
+      "id": "amazon-10573840",
+      "seen_at": "2026-10-08T19:01:21.702133+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10573840/software-development-engineer-amazon-demand-side-platform",
+      "seen_at": "2026-10-08T19:01:21.702732+00:00"
+    },
+    {
+      "id": "jobright-03c511a9e82c",
+      "seen_at": "2026-10-08T19:01:21.703361+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7cb3aa444ac5d36f85c75",
+      "seen_at": "2026-10-08T19:01:21.704061+00:00"
     }
   ],
-  "last_run": "2026-10-08T18:31:22.005898+00:00",
-  "total_notified": 8637,
+  "last_run": "2026-10-08T19:01:23.106786+00:00",
+  "total_notified": 8645,
   "channels": {
     "pm-jobs": [
       "jobright-f4fb0bd25914",
@@ -50397,7 +50461,23 @@
       "amazon-10573806",
       "url:https://www.amazon.jobs/en/jobs/10573806/applied-scientist-machine-learning-accelerator-annapurna-labs",
       "gradtracker-1ac127da045d",
-      "url:https://stripe.com/jobs/search"
+      "url:https://stripe.com/jobs/search",
+      "greenhouse-figure-8860509002",
+      "url:https://job-boards.greenhouse.io/figure/jobs/8860509002",
+      "zapply-c0ec654c977d",
+      "url:https://zapply.jobs/l/d/amazon-f15ae591-4951-42fa-be96-1d3a9bbe354f",
+      "jobright-98edba083cff",
+      "url:https://jobright.ai/jobs/info/6abdaa93372c01f6cd7219b9",
+      "jobright-861326b29b20",
+      "url:https://jobright.ai/jobs/info/6ac7ccfe44d6e65604a044ad",
+      "jobright-33eec196c954",
+      "url:https://jobright.ai/jobs/info/6a72950802d93145bf895468",
+      "applyguy-12523ea9-71ad-4f00-a37b-d26b4509f987",
+      "url:https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Chicago-IL-60615/Junior-Software-Engineer_R2026107887",
+      "amazon-10573840",
+      "url:https://www.amazon.jobs/en/jobs/10573840/software-development-engineer-amazon-demand-side-platform",
+      "jobright-03c511a9e82c",
+      "url:https://jobright.ai/jobs/info/6ac7cb3aa444ac5d36f85c75"
     ]
   }
 }
