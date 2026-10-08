@@ -40659,10 +40659,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a56ce6ce9b77f668bd65ce2",
       "seen_at": "2026-10-08T02:01:23.026188+00:00"
+    },
+    {
+      "id": "zapply-b161f6e9d1d6",
+      "seen_at": "2026-10-08T03:01:53.767183+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-7f615981-78d6-420c-b8c2-a9f51d505a25",
+      "seen_at": "2026-10-08T03:01:53.767758+00:00"
+    },
+    {
+      "id": "jobright-098ef6490018",
+      "seen_at": "2026-10-08T03:01:53.768260+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac69660d9621c5b283a9b15",
+      "seen_at": "2026-10-08T03:01:53.768723+00:00"
     }
   ],
-  "last_run": "2026-10-08T02:31:12.766779+00:00",
-  "total_notified": 8547,
+  "last_run": "2026-10-08T03:01:54.898411+00:00",
+  "total_notified": 8549,
   "channels": {
     "pm-jobs": [
       "ashby-cohere-aa041da3-6aad-4758-9c9e-4a5fab69b694",
@@ -50838,7 +50854,11 @@
       "jobright-06e7395103e7",
       "url:https://jobright.ai/jobs/info/6ac6e05cd9621c5b283ab17b",
       "jobright-3151f8483717",
-      "url:https://jobright.ai/jobs/info/6a56ce6ce9b77f668bd65ce2"
+      "url:https://jobright.ai/jobs/info/6a56ce6ce9b77f668bd65ce2",
+      "zapply-b161f6e9d1d6",
+      "url:https://zapply.jobs/l/d/amazon-7f615981-78d6-420c-b8c2-a9f51d505a25",
+      "jobright-098ef6490018",
+      "url:https://jobright.ai/jobs/info/6ac69660d9621c5b283a9b15"
     ]
   }
 }
