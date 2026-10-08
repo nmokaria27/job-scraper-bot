@@ -40531,10 +40531,58 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10573523/software-development-engineer-developer-experience",
       "seen_at": "2026-10-08T20:31:12.818981+00:00"
+    },
+    {
+      "id": "ashby-handshake-42aca7f5-2f58-40ef-a6ce-19027d32a12f",
+      "seen_at": "2026-10-08T21:01:23.376930+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f",
+      "seen_at": "2026-10-08T21:01:23.377504+00:00"
+    },
+    {
+      "id": "zapply-540926c4bd10",
+      "seen_at": "2026-10-08T21:01:23.377990+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-intel-external-JR0287841",
+      "seen_at": "2026-10-08T21:01:23.378456+00:00"
+    },
+    {
+      "id": "zapply-b67cc28adaf3",
+      "seen_at": "2026-10-08T21:01:23.378897+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026302",
+      "seen_at": "2026-10-08T21:01:23.379339+00:00"
+    },
+    {
+      "id": "jobright-71565cb7a2b3",
+      "seen_at": "2026-10-08T21:01:23.379788+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa531b782e82a31997bcad5",
+      "seen_at": "2026-10-08T21:01:23.380233+00:00"
+    },
+    {
+      "id": "zapply-cf75cbe552b5",
+      "seen_at": "2026-10-08T21:01:25.226880+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-zayo-zayo-careers-R0017247",
+      "seen_at": "2026-10-08T21:01:25.227358+00:00"
+    },
+    {
+      "id": "jobright-96096bd44d77",
+      "seen_at": "2026-10-08T21:01:25.227800+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7e43bfcdafb60c6a467b2",
+      "seen_at": "2026-10-08T21:01:25.228234+00:00"
     }
   ],
-  "last_run": "2026-10-08T20:31:14.342434+00:00",
-  "total_notified": 8665,
+  "last_run": "2026-10-08T21:01:25.517268+00:00",
+  "total_notified": 8671,
   "channels": {
     "pm-jobs": [
       "jobright-f4fb0bd25914",
@@ -42009,7 +42057,11 @@
       "jobright-76171efbeb34",
       "url:https://jobright.ai/jobs/info/6ac7d809fcdafb60c6a462c6",
       "jobright-d9581e5885e3",
-      "url:https://jobright.ai/jobs/info/6ac7e28251a1b3e4219ef2fa"
+      "url:https://jobright.ai/jobs/info/6ac7e28251a1b3e4219ef2fa",
+      "zapply-cf75cbe552b5",
+      "url:https://zapply.jobs/l/d/workday-zayo-zayo-careers-R0017247",
+      "jobright-96096bd44d77",
+      "url:https://jobright.ai/jobs/info/6ac7e43bfcdafb60c6a467b2"
     ],
     "swe-ai-full-time": [
       "zapply-ea1eab3da790",
@@ -50677,7 +50729,15 @@
       "gradtracker-56ecdf2cfad5",
       "url:https://jobs.smartrecruiters.com/servicenow/744000154515244",
       "amazon-10573523",
-      "url:https://www.amazon.jobs/en/jobs/10573523/software-development-engineer-developer-experience"
+      "url:https://www.amazon.jobs/en/jobs/10573523/software-development-engineer-developer-experience",
+      "ashby-handshake-42aca7f5-2f58-40ef-a6ce-19027d32a12f",
+      "url:https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f",
+      "zapply-540926c4bd10",
+      "url:https://zapply.jobs/l/d/workday-intel-external-JR0287841",
+      "zapply-b67cc28adaf3",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026302",
+      "jobright-71565cb7a2b3",
+      "url:https://jobright.ai/jobs/info/6aa531b782e82a31997bcad5"
     ]
   }
 }
