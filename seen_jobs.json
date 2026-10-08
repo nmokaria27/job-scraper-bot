@@ -40611,10 +40611,90 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35460",
       "seen_at": "2026-10-08T16:31:20.015402+00:00"
+    },
+    {
+      "id": "ashby-lumaai-3abaffc4-01f1-4d72-b20d-4c8474d8cc80",
+      "seen_at": "2026-10-08T17:01:35.415618+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/lumaai/3abaffc4-01f1-4d72-b20d-4c8474d8cc80",
+      "seen_at": "2026-10-08T17:01:35.416094+00:00"
+    },
+    {
+      "id": "ashby-lumaai-d0f68f86-1ec2-4443-a730-0d8f68842545",
+      "seen_at": "2026-10-08T17:01:35.416468+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/lumaai/d0f68f86-1ec2-4443-a730-0d8f68842545",
+      "seen_at": "2026-10-08T17:01:35.416810+00:00"
+    },
+    {
+      "id": "zapply-8467df121076",
+      "seen_at": "2026-10-08T17:01:35.417166+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603421",
+      "seen_at": "2026-10-08T17:01:35.417509+00:00"
+    },
+    {
+      "id": "zapply-427f16cf6dd5",
+      "seen_at": "2026-10-08T17:01:35.417845+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-bmo-external-R260021450",
+      "seen_at": "2026-10-08T17:01:35.418188+00:00"
+    },
+    {
+      "id": "ashby-lumaai-c4b9ff5f-40b2-40d4-9f6f-8b7aad9b8860",
+      "seen_at": "2026-10-08T17:01:35.418522+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/lumaai/c4b9ff5f-40b2-40d4-9f6f-8b7aad9b8860",
+      "seen_at": "2026-10-08T17:01:35.418840+00:00"
+    },
+    {
+      "id": "zapply-075bdfcd815d",
+      "seen_at": "2026-10-08T17:01:35.419171+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230111",
+      "seen_at": "2026-10-08T17:01:35.419494+00:00"
+    },
+    {
+      "id": "jobright-de13e0548877",
+      "seen_at": "2026-10-08T17:01:35.419814+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aae4419de327d3e210d55cc",
+      "seen_at": "2026-10-08T17:01:35.420145+00:00"
+    },
+    {
+      "id": "jobright-f200246c5d85",
+      "seen_at": "2026-10-08T17:01:35.420471+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac425e3064da25272e116f7",
+      "seen_at": "2026-10-08T17:01:35.420787+00:00"
+    },
+    {
+      "id": "amazon-10573518",
+      "seen_at": "2026-10-08T17:01:35.421118+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10573518/software-development-engineer-developer-experience",
+      "seen_at": "2026-10-08T17:01:35.421425+00:00"
+    },
+    {
+      "id": "jobright-06eaefd609dc",
+      "seen_at": "2026-10-08T17:01:37.065737+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac503ed064da25272e143a5",
+      "seen_at": "2026-10-08T17:01:37.066131+00:00"
     }
   ],
-  "last_run": "2026-10-08T16:31:20.237158+00:00",
-  "total_notified": 8605,
+  "last_run": "2026-10-08T17:01:37.301167+00:00",
+  "total_notified": 8615,
   "channels": {
     "pm-jobs": [
       "zapply-8509759e90a3",
@@ -42097,7 +42177,9 @@
       "zapply-9c57eb728ebd",
       "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R33972",
       "zapply-38f5138aaaa5",
-      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35460"
+      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35460",
+      "jobright-06eaefd609dc",
+      "url:https://jobright.ai/jobs/info/6ac503ed064da25272e143a5"
     ],
     "swe-ai-full-time": [
       "zapply-9303314d11e5",
@@ -50778,7 +50860,25 @@
       "zapply-333da734590b",
       "url:https://zapply.jobs/l/d/sr-Intuitive-744000154483468",
       "zapply-39878a4c4351",
-      "url:https://zapply.jobs/l/d/sr-AbbVie-3743990015992086"
+      "url:https://zapply.jobs/l/d/sr-AbbVie-3743990015992086",
+      "ashby-lumaai-3abaffc4-01f1-4d72-b20d-4c8474d8cc80",
+      "url:https://jobs.ashbyhq.com/lumaai/3abaffc4-01f1-4d72-b20d-4c8474d8cc80",
+      "ashby-lumaai-d0f68f86-1ec2-4443-a730-0d8f68842545",
+      "url:https://jobs.ashbyhq.com/lumaai/d0f68f86-1ec2-4443-a730-0d8f68842545",
+      "zapply-8467df121076",
+      "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603421",
+      "zapply-427f16cf6dd5",
+      "url:https://zapply.jobs/l/d/workday-bmo-external-R260021450",
+      "ashby-lumaai-c4b9ff5f-40b2-40d4-9f6f-8b7aad9b8860",
+      "url:https://jobs.ashbyhq.com/lumaai/c4b9ff5f-40b2-40d4-9f6f-8b7aad9b8860",
+      "zapply-075bdfcd815d",
+      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230111",
+      "jobright-de13e0548877",
+      "url:https://jobright.ai/jobs/info/6aae4419de327d3e210d55cc",
+      "jobright-f200246c5d85",
+      "url:https://jobright.ai/jobs/info/6ac425e3064da25272e116f7",
+      "amazon-10573518",
+      "url:https://www.amazon.jobs/en/jobs/10573518/software-development-engineer-developer-experience"
     ]
   }
 }
