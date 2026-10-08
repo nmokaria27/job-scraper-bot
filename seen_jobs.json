@@ -40475,10 +40475,66 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac7e28251a1b3e4219ef2fa",
       "seen_at": "2026-10-08T20:01:29.631127+00:00"
+    },
+    {
+      "id": "zapply-589bc8714522",
+      "seen_at": "2026-10-08T20:31:12.810596+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522010",
+      "seen_at": "2026-10-08T20:31:12.811329+00:00"
+    },
+    {
+      "id": "greenhouse-roblox-8159854",
+      "seen_at": "2026-10-08T20:31:12.811982+00:00"
+    },
+    {
+      "id": "url:https://careers.roblox.com/jobs/8159854",
+      "seen_at": "2026-10-08T20:31:12.812619+00:00"
+    },
+    {
+      "id": "zapply-5ae017d4df98",
+      "seen_at": "2026-10-08T20:31:12.813287+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226307",
+      "seen_at": "2026-10-08T20:31:12.813921+00:00"
+    },
+    {
+      "id": "zapply-f4cd84a0b4ae",
+      "seen_at": "2026-10-08T20:31:12.814576+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR361861",
+      "seen_at": "2026-10-08T20:31:12.815217+00:00"
+    },
+    {
+      "id": "gradtracker-c4336e9c54e9",
+      "seen_at": "2026-10-08T20:31:12.815844+00:00"
+    },
+    {
+      "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1",
+      "seen_at": "2026-10-08T20:31:12.816469+00:00"
+    },
+    {
+      "id": "gradtracker-56ecdf2cfad5",
+      "seen_at": "2026-10-08T20:31:12.817101+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000154515244",
+      "seen_at": "2026-10-08T20:31:12.817715+00:00"
+    },
+    {
+      "id": "amazon-10573523",
+      "seen_at": "2026-10-08T20:31:12.818369+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10573523/software-development-engineer-developer-experience",
+      "seen_at": "2026-10-08T20:31:12.818981+00:00"
     }
   ],
-  "last_run": "2026-10-08T20:01:29.814583+00:00",
-  "total_notified": 8658,
+  "last_run": "2026-10-08T20:31:14.342434+00:00",
+  "total_notified": 8665,
   "channels": {
     "pm-jobs": [
       "jobright-f4fb0bd25914",
@@ -50607,7 +50663,21 @@
       "jobright-8ae1830d0067",
       "url:https://jobright.ai/jobs/info/6ac7dc9aa444ac5d36f864d1",
       "jobright-4beeff7ea97f",
-      "url:https://jobright.ai/jobs/info/6ac7d237a444ac5d36f85fde"
+      "url:https://jobright.ai/jobs/info/6ac7d237a444ac5d36f85fde",
+      "zapply-589bc8714522",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522010",
+      "greenhouse-roblox-8159854",
+      "url:https://careers.roblox.com/jobs/8159854",
+      "zapply-5ae017d4df98",
+      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226307",
+      "zapply-f4cd84a0b4ae",
+      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR361861",
+      "gradtracker-c4336e9c54e9",
+      "url:https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1",
+      "gradtracker-56ecdf2cfad5",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000154515244",
+      "amazon-10573523",
+      "url:https://www.amazon.jobs/en/jobs/10573523/software-development-engineer-developer-experience"
     ]
   }
 }
