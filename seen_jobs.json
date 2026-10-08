@@ -40131,10 +40131,122 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10574040/software-development-engineer-fba-fee-tech-team",
       "seen_at": "2026-10-08T21:31:53.305506+00:00"
+    },
+    {
+      "id": "zapply-811aadb677e5",
+      "seen_at": "2026-10-08T22:01:21.452835+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-wk-external-R0058845",
+      "seen_at": "2026-10-08T22:01:21.453691+00:00"
+    },
+    {
+      "id": "zapply-4850a4b6b4ca",
+      "seen_at": "2026-10-08T22:01:21.454429+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10161936",
+      "seen_at": "2026-10-08T22:01:21.455075+00:00"
+    },
+    {
+      "id": "zapply-27596198952c",
+      "seen_at": "2026-10-08T22:01:21.455758+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200686918",
+      "seen_at": "2026-10-08T22:01:21.456447+00:00"
+    },
+    {
+      "id": "jobright-c4e63164dd41",
+      "seen_at": "2026-10-08T22:01:21.457117+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7cce8a444ac5d36f85d19",
+      "seen_at": "2026-10-08T22:01:21.457797+00:00"
+    },
+    {
+      "id": "jobright-a9804d5fa68e",
+      "seen_at": "2026-10-08T22:01:21.458505+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7e45444d6e65604a04f61",
+      "seen_at": "2026-10-08T22:01:21.459179+00:00"
+    },
+    {
+      "id": "jobright-31ff7191ec6c",
+      "seen_at": "2026-10-08T22:01:21.459862+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7f6caa444ac5d36f86d0e",
+      "seen_at": "2026-10-08T22:01:21.460517+00:00"
+    },
+    {
+      "id": "jobright-b28c68c28bdc",
+      "seen_at": "2026-10-08T22:01:21.461190+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7f02bfe8f33a85d4fe20d",
+      "seen_at": "2026-10-08T22:01:21.461828+00:00"
+    },
+    {
+      "id": "jobright-c68e00c9241c",
+      "seen_at": "2026-10-08T22:01:21.462486+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7f56b44d6e65604a05474",
+      "seen_at": "2026-10-08T22:01:21.463117+00:00"
+    },
+    {
+      "id": "zapply-7196b3c4b18b",
+      "seen_at": "2026-10-08T22:01:23.761151+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-envista-envistacareers-R5027494",
+      "seen_at": "2026-10-08T22:01:23.761882+00:00"
+    },
+    {
+      "id": "zapply-9c1c3df14b4e",
+      "seen_at": "2026-10-08T22:01:23.762485+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266768",
+      "seen_at": "2026-10-08T22:01:23.763127+00:00"
+    },
+    {
+      "id": "jobright-2a732edcda50",
+      "seen_at": "2026-10-08T22:01:23.763729+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7f91744d6e65604a05598",
+      "seen_at": "2026-10-08T22:01:23.764307+00:00"
+    },
+    {
+      "id": "jobright-c13304637371",
+      "seen_at": "2026-10-08T22:01:23.764894+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7f8e50e573df8adc7559e",
+      "seen_at": "2026-10-08T22:01:23.765464+00:00"
+    },
+    {
+      "id": "jobright-04b1c160a2dc",
+      "seen_at": "2026-10-08T22:01:23.766034+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7f20d44d6e65604a053cb",
+      "seen_at": "2026-10-08T22:01:23.766609+00:00"
+    },
+    {
+      "id": "jobright-3f36f7fd92b3",
+      "seen_at": "2026-10-08T22:01:23.767176+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7ee33fe8f33a85d4fe126",
+      "seen_at": "2026-10-08T22:01:23.767753+00:00"
     }
   ],
-  "last_run": "2026-10-08T21:31:54.593845+00:00",
-  "total_notified": 8675,
+  "last_run": "2026-10-08T22:01:23.948356+00:00",
+  "total_notified": 8689,
   "channels": {
     "pm-jobs": [
       "zapply-0d702a2278f4",
@@ -41599,7 +41711,19 @@
       "zapply-cf75cbe552b5",
       "url:https://zapply.jobs/l/d/workday-zayo-zayo-careers-R0017247",
       "jobright-96096bd44d77",
-      "url:https://jobright.ai/jobs/info/6ac7e43bfcdafb60c6a467b2"
+      "url:https://jobright.ai/jobs/info/6ac7e43bfcdafb60c6a467b2",
+      "zapply-7196b3c4b18b",
+      "url:https://zapply.jobs/l/d/workday-envista-envistacareers-R5027494",
+      "zapply-9c1c3df14b4e",
+      "url:https://zapply.jobs/l/d/workday-blackrock-blackrock-professional-R266768",
+      "jobright-2a732edcda50",
+      "url:https://jobright.ai/jobs/info/6ac7f91744d6e65604a05598",
+      "jobright-c13304637371",
+      "url:https://jobright.ai/jobs/info/6ac7f8e50e573df8adc7559e",
+      "jobright-04b1c160a2dc",
+      "url:https://jobright.ai/jobs/info/6ac7f20d44d6e65604a053cb",
+      "jobright-3f36f7fd92b3",
+      "url:https://jobright.ai/jobs/info/6ac7ee33fe8f33a85d4fe126"
     ],
     "swe-ai-full-time": [
       "zapply-779e249cabab",
@@ -50177,7 +50301,23 @@
       "zapply-4b1948e8f23c",
       "url:https://zapply.jobs/l/d/qualcomm-3097008",
       "amazon-10574040",
-      "url:https://www.amazon.jobs/en/jobs/10574040/software-development-engineer-fba-fee-tech-team"
+      "url:https://www.amazon.jobs/en/jobs/10574040/software-development-engineer-fba-fee-tech-team",
+      "zapply-811aadb677e5",
+      "url:https://zapply.jobs/l/d/workday-wk-external-R0058845",
+      "zapply-4850a4b6b4ca",
+      "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10161936",
+      "zapply-27596198952c",
+      "url:https://zapply.jobs/l/d/apple-200686918",
+      "jobright-c4e63164dd41",
+      "url:https://jobright.ai/jobs/info/6ac7cce8a444ac5d36f85d19",
+      "jobright-a9804d5fa68e",
+      "url:https://jobright.ai/jobs/info/6ac7e45444d6e65604a04f61",
+      "jobright-31ff7191ec6c",
+      "url:https://jobright.ai/jobs/info/6ac7f6caa444ac5d36f86d0e",
+      "jobright-b28c68c28bdc",
+      "url:https://jobright.ai/jobs/info/6ac7f02bfe8f33a85d4fe20d",
+      "jobright-c68e00c9241c",
+      "url:https://jobright.ai/jobs/info/6ac7f56b44d6e65604a05474"
     ]
   }
 }
