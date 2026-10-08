@@ -40571,10 +40571,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603410",
       "seen_at": "2026-10-08T16:01:23.644762+00:00"
+    },
+    {
+      "id": "zapply-d484dd5aa991",
+      "seen_at": "2026-10-08T16:31:17.858120+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101742",
+      "seen_at": "2026-10-08T16:31:17.858928+00:00"
+    },
+    {
+      "id": "zapply-9c3f2ecf566e",
+      "seen_at": "2026-10-08T16:31:17.859567+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-travelers-external-R-51994",
+      "seen_at": "2026-10-08T16:31:17.860206+00:00"
+    },
+    {
+      "id": "zapply-333da734590b",
+      "seen_at": "2026-10-08T16:31:17.860839+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-Intuitive-744000154483468",
+      "seen_at": "2026-10-08T16:31:17.861484+00:00"
+    },
+    {
+      "id": "zapply-39878a4c4351",
+      "seen_at": "2026-10-08T16:31:17.862148+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-AbbVie-3743990015992086",
+      "seen_at": "2026-10-08T16:31:17.862793+00:00"
+    },
+    {
+      "id": "zapply-38f5138aaaa5",
+      "seen_at": "2026-10-08T16:31:20.014736+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35460",
+      "seen_at": "2026-10-08T16:31:20.015402+00:00"
     }
   ],
-  "last_run": "2026-10-08T16:01:24.632658+00:00",
-  "total_notified": 8600,
+  "last_run": "2026-10-08T16:31:20.237158+00:00",
+  "total_notified": 8605,
   "channels": {
     "pm-jobs": [
       "zapply-8509759e90a3",
@@ -42055,7 +42095,9 @@
       "zapply-bbfea5beb42d",
       "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30252",
       "zapply-9c57eb728ebd",
-      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R33972"
+      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R33972",
+      "zapply-38f5138aaaa5",
+      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35460"
     ],
     "swe-ai-full-time": [
       "zapply-9303314d11e5",
@@ -50728,7 +50770,15 @@
       "amazon-10573324",
       "url:https://www.amazon.jobs/en/jobs/10573324/software-development-engineer-aws-central-sde-team",
       "zapply-416ebdee4948",
-      "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603410"
+      "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603410",
+      "zapply-d484dd5aa991",
+      "url:https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101742",
+      "zapply-9c3f2ecf566e",
+      "url:https://zapply.jobs/l/d/workday-travelers-external-R-51994",
+      "zapply-333da734590b",
+      "url:https://zapply.jobs/l/d/sr-Intuitive-744000154483468",
+      "zapply-39878a4c4351",
+      "url:https://zapply.jobs/l/d/sr-AbbVie-3743990015992086"
     ]
   }
 }
