@@ -39975,10 +39975,18 @@
     {
       "id": "url:https://careers.airbnb.com/positions/8262207",
       "seen_at": "2026-10-09T21:01:22.987816+00:00"
+    },
+    {
+      "id": "ashby-physicalintelligence-14586c10-d913-43c5-8f7c-c77b5c438e4c",
+      "seen_at": "2026-10-09T21:31:14.931928+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/physicalintelligence/14586c10-d913-43c5-8f7c-c77b5c438e4c",
+      "seen_at": "2026-10-09T21:31:14.932377+00:00"
     }
   ],
-  "last_run": "2026-10-09T21:01:23.248236+00:00",
-  "total_notified": 8850,
+  "last_run": "2026-10-09T21:31:15.861320+00:00",
+  "total_notified": 8851,
   "channels": {
     "pm-jobs": [
       "zapply-315434be1ea1",
@@ -49982,7 +49990,9 @@
       "jobright-7825e0aef9d2",
       "url:https://jobright.ai/jobs/info/6ac93a0dfcdafb60c6a4b7af",
       "zapply-586a8728c24c",
-      "url:https://zapply.jobs/l/d/pinpoint-impulsespace-596087"
+      "url:https://zapply.jobs/l/d/pinpoint-impulsespace-596087",
+      "ashby-physicalintelligence-14586c10-d913-43c5-8f7c-c77b5c438e4c",
+      "url:https://jobs.ashbyhq.com/physicalintelligence/14586c10-d913-43c5-8f7c-c77b5c438e4c"
     ]
   }
 }
