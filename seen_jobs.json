@@ -39943,10 +39943,34 @@
     {
       "id": "url:https://jobs.ashbyhq.com/applied/566714d0-5a25-4680-9d51-d6eaca520635",
       "seen_at": "2026-10-09T18:01:24.209135+00:00"
+    },
+    {
+      "id": "zapply-fd1bcfd2afd6",
+      "seen_at": "2026-10-09T18:31:19.860119+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-sonyinteractiveentertainmentglobal-6147057004",
+      "seen_at": "2026-10-09T18:31:19.860607+00:00"
+    },
+    {
+      "id": "amazon-10575067",
+      "seen_at": "2026-10-09T18:31:19.861017+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10575067/software-development-engineer-cryptography-and-identity-management",
+      "seen_at": "2026-10-09T18:31:19.861388+00:00"
+    },
+    {
+      "id": "zapply-448bf897585e",
+      "seen_at": "2026-10-09T18:31:21.507751+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-visa-visa-REF087798W",
+      "seen_at": "2026-10-09T18:31:21.508186+00:00"
     }
   ],
-  "last_run": "2026-10-09T18:01:24.417745+00:00",
-  "total_notified": 8811,
+  "last_run": "2026-10-09T18:31:21.776680+00:00",
+  "total_notified": 8814,
   "channels": {
     "pm-jobs": [
       "zapply-a5afe328dd54",
@@ -41411,7 +41435,9 @@
       "zapply-406e7d6953c8",
       "url:https://zapply.jobs/l/d/ashby-applied-566714d0-5a25-4680-9d51-d6eaca520635",
       "ashby-applied-566714d0-5a25-4680-9d51-d6eaca520635",
-      "url:https://jobs.ashbyhq.com/applied/566714d0-5a25-4680-9d51-d6eaca520635"
+      "url:https://jobs.ashbyhq.com/applied/566714d0-5a25-4680-9d51-d6eaca520635",
+      "zapply-448bf897585e",
+      "url:https://zapply.jobs/l/d/workday-visa-visa-REF087798W"
     ],
     "swe-ai-full-time": [
       "zapply-dca97ee06aed",
@@ -49942,7 +49968,11 @@
       "amazon-10575014",
       "url:https://www.amazon.jobs/en/jobs/10575014/software-development-engineer-virtsat-team",
       "jobright-f1417757ccca",
-      "url:https://jobright.ai/jobs/info/6a0704809f57175bd581ef5d"
+      "url:https://jobright.ai/jobs/info/6a0704809f57175bd581ef5d",
+      "zapply-fd1bcfd2afd6",
+      "url:https://zapply.jobs/l/d/greenhouse-sonyinteractiveentertainmentglobal-6147057004",
+      "amazon-10575067",
+      "url:https://www.amazon.jobs/en/jobs/10575067/software-development-engineer-cryptography-and-identity-management"
     ]
   }
 }
