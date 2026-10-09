@@ -40067,10 +40067,34 @@
     {
       "id": "url:https://bmo.wd3.myworkdayjobs.com/external/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
       "seen_at": "2026-10-09T00:01:22.884570+00:00"
+    },
+    {
+      "id": "greenhouse-roblox-8159857",
+      "seen_at": "2026-10-09T00:31:12.877080+00:00"
+    },
+    {
+      "id": "url:https://careers.roblox.com/jobs/8159857",
+      "seen_at": "2026-10-09T00:31:12.877863+00:00"
+    },
+    {
+      "id": "applyguy-106d7079-1f10-4e98-bb35-c6d46369fbdb",
+      "seen_at": "2026-10-09T00:31:12.878511+00:00"
+    },
+    {
+      "id": "url:https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026522010-1",
+      "seen_at": "2026-10-09T00:31:12.879158+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5448167008",
+      "seen_at": "2026-10-09T00:31:14.841010+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5448167008",
+      "seen_at": "2026-10-09T00:31:14.841734+00:00"
     }
   ],
-  "last_run": "2026-10-09T00:01:24.130636+00:00",
-  "total_notified": 8720,
+  "last_run": "2026-10-09T00:31:15.268405+00:00",
+  "total_notified": 8723,
   "channels": {
     "pm-jobs": [
       "zapply-c708eb7ab41b",
@@ -41539,7 +41563,9 @@
       "zapply-92ef0b5c2e23",
       "url:https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79141",
       "zapply-9a489ad16a27",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026322"
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026322",
+      "greenhouse-anthropic-5448167008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5448167008"
     ],
     "swe-ai-full-time": [
       "zapply-c198b6cc8895",
@@ -50097,7 +50123,11 @@
       "jobright-07462a2d8fd0",
       "url:https://jobright.ai/jobs/info/6aaacdf1f6bd9d2d17c19a6e",
       "applyguy-fc6e4098-70cc-4dc7-97a5-26cd7e68bafb",
-      "url:https://bmo.wd3.myworkdayjobs.com/external/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450"
+      "url:https://bmo.wd3.myworkdayjobs.com/external/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
+      "greenhouse-roblox-8159857",
+      "url:https://careers.roblox.com/jobs/8159857",
+      "applyguy-106d7079-1f10-4e98-bb35-c6d46369fbdb",
+      "url:https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026522010-1"
     ]
   }
 }
