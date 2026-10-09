@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-c5c0c4ece20b",
-      "seen_at": "2026-09-09T14:30:10.274609+00:00"
-    },
-    {
-      "id": "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Manufacturing-Product-Manager---Andover--MA_01860604",
-      "seen_at": "2026-09-09T14:30:10.275415+00:00"
-    },
-    {
-      "id": "zapply-2be547835c69",
-      "seen_at": "2026-09-09T14:30:10.276172+00:00"
-    },
-    {
-      "id": "url:https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Manager--Hybrid-_2022989",
-      "seen_at": "2026-09-09T14:30:10.276902+00:00"
-    },
-    {
-      "id": "simplify-a07827a9-ad39-4bc7-ac54-89535faf28db",
-      "seen_at": "2026-09-09T14:30:10.277648+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7649673091993454853",
-      "seen_at": "2026-09-09T14:30:10.278413+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR358528",
-      "seen_at": "2026-09-09T14:30:10.279158+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2026-Intern---Product-Manager_JR358528",
-      "seen_at": "2026-09-09T14:30:10.279880+00:00"
-    },
-    {
-      "id": "jobright-efdff1f28fa3",
-      "seen_at": "2026-09-09T14:30:10.280616+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa08bdb500b01124c779b73",
-      "seen_at": "2026-09-09T14:30:10.281347+00:00"
-    },
-    {
-      "id": "jobright-2d1b45ab17d4",
-      "seen_at": "2026-09-09T14:30:10.282073+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa08bc4dbc0e60e37e0e537",
-      "seen_at": "2026-09-09T14:30:10.282818+00:00"
-    },
-    {
-      "id": "jobright-23c9a5976668",
-      "seen_at": "2026-09-09T14:30:10.283554+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa0c5edea127c3794698f79",
-      "seen_at": "2026-09-09T14:30:10.284283+00:00"
-    },
-    {
       "id": "zapply-7977b697d79a",
       "seen_at": "2026-09-09T14:30:31.700201+00:00"
     },
@@ -40243,26 +40187,28 @@
     {
       "id": "url:https://jobs.ashbyhq.com/cognition/023cea7e-70db-4f79-8e82-c57564466622",
       "seen_at": "2026-10-09T14:01:21.389927+00:00"
+    },
+    {
+      "id": "zapply-af2b3ba11682",
+      "seen_at": "2026-10-09T14:31:36.006069+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-freedomconsulting-5248064007",
+      "seen_at": "2026-10-09T14:31:36.006594+00:00"
+    },
+    {
+      "id": "zapply-2ddafefc74fe",
+      "seen_at": "2026-10-09T14:31:36.007027+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-motional-8016805003",
+      "seen_at": "2026-10-09T14:31:36.007438+00:00"
     }
   ],
-  "last_run": "2026-10-09T14:01:22.541620+00:00",
-  "total_notified": 8769,
+  "last_run": "2026-10-09T14:31:36.867008+00:00",
+  "total_notified": 8771,
   "channels": {
     "pm-jobs": [
-      "zapply-c5c0c4ece20b",
-      "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Manufacturing-Product-Manager---Andover--MA_01860604",
-      "zapply-2be547835c69",
-      "url:https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Manager--Hybrid-_2022989",
-      "simplify-a07827a9-ad39-4bc7-ac54-89535faf28db",
-      "url:https://lifeattiktok.com/search/7649673091993454853",
-      "workday-salesforce-JR358528",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2026-Intern---Product-Manager_JR358528",
-      "jobright-efdff1f28fa3",
-      "url:https://jobright.ai/jobs/info/6aa08bdb500b01124c779b73",
-      "jobright-2d1b45ab17d4",
-      "url:https://jobright.ai/jobs/info/6aa08bc4dbc0e60e37e0e537",
-      "jobright-23c9a5976668",
-      "url:https://jobright.ai/jobs/info/6aa0c5edea127c3794698f79",
       "zapply-2704dd6beaa8",
       "url:https://visa.wd5.myworkdayjobs.com/Visa/job/US---San-Francisco-CA/Product-Manager_REF078681W",
       "zapply-95939081e90a",
@@ -50317,7 +50263,11 @@
       "zapply-b92c7e8a4098",
       "url:https://zapply.jobs/l/d/google-78763837095846598",
       "ashby-cognition-023cea7e-70db-4f79-8e82-c57564466622",
-      "url:https://jobs.ashbyhq.com/cognition/023cea7e-70db-4f79-8e82-c57564466622"
+      "url:https://jobs.ashbyhq.com/cognition/023cea7e-70db-4f79-8e82-c57564466622",
+      "zapply-af2b3ba11682",
+      "url:https://zapply.jobs/l/d/greenhouse-freedomconsulting-5248064007",
+      "zapply-2ddafefc74fe",
+      "url:https://zapply.jobs/l/d/greenhouse-motional-8016805003"
     ]
   }
 }
