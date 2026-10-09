@@ -39971,10 +39971,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-asana-8227390",
       "seen_at": "2026-10-09T15:31:26.325885+00:00"
+    },
+    {
+      "id": "zapply-fb7ef360aa8e",
+      "seen_at": "2026-10-09T16:01:28.300106+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-39cec8cc-c2d4-4b31-8b55-c3af69fe42de",
+      "seen_at": "2026-10-09T16:01:28.300609+00:00"
+    },
+    {
+      "id": "jobright-ad2b1543207e",
+      "seen_at": "2026-10-09T16:01:28.301005+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac8ecc9d4a5a0370740fcb7",
+      "seen_at": "2026-10-09T16:01:28.301386+00:00"
+    },
+    {
+      "id": "jobright-96d3626bd738",
+      "seen_at": "2026-10-09T16:01:28.301762+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac8eafafe8f33a85d501486",
+      "seen_at": "2026-10-09T16:01:28.302132+00:00"
+    },
+    {
+      "id": "jobright-0fad3dfbf8be",
+      "seen_at": "2026-10-09T16:01:28.302507+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/69e71cdfe0cd471b2f128808",
+      "seen_at": "2026-10-09T16:01:28.302861+00:00"
     }
   ],
-  "last_run": "2026-10-09T15:31:27.512888+00:00",
-  "total_notified": 8778,
+  "last_run": "2026-10-09T16:01:29.254127+00:00",
+  "total_notified": 8782,
   "channels": {
     "pm-jobs": [
       "zapply-2704dd6beaa8",
@@ -49977,7 +50009,15 @@
       "amazon-10574795",
       "url:https://www.amazon.jobs/en/jobs/10574795/software-development-engineer-aws-transform-migrations",
       "zapply-79015a5f0189",
-      "url:https://zapply.jobs/l/d/greenhouse-asana-8227390"
+      "url:https://zapply.jobs/l/d/greenhouse-asana-8227390",
+      "zapply-fb7ef360aa8e",
+      "url:https://zapply.jobs/l/d/amazon-39cec8cc-c2d4-4b31-8b55-c3af69fe42de",
+      "jobright-ad2b1543207e",
+      "url:https://jobright.ai/jobs/info/6ac8ecc9d4a5a0370740fcb7",
+      "jobright-96d3626bd738",
+      "url:https://jobright.ai/jobs/info/6ac8eafafe8f33a85d501486",
+      "jobright-0fad3dfbf8be",
+      "url:https://jobright.ai/jobs/info/69e71cdfe0cd471b2f128808"
     ]
   }
 }
