@@ -40151,10 +40151,50 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10575136/software-development-engineer-amazon-leo-live",
       "seen_at": "2026-10-09T20:01:18.950051+00:00"
+    },
+    {
+      "id": "ashby-handshake-fb47a304-2ea1-4971-81cd-5183619f9a81",
+      "seen_at": "2026-10-09T20:31:12.686232+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/handshake/fb47a304-2ea1-4971-81cd-5183619f9a81",
+      "seen_at": "2026-10-09T20:31:12.687087+00:00"
+    },
+    {
+      "id": "zapply-a0c076e7b87d",
+      "seen_at": "2026-10-09T20:31:12.687761+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200687765",
+      "seen_at": "2026-10-09T20:31:12.688410+00:00"
+    },
+    {
+      "id": "jobright-5849b6e49f10",
+      "seen_at": "2026-10-09T20:31:12.689031+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7f97e0e573df8adc755e6",
+      "seen_at": "2026-10-09T20:31:12.689662+00:00"
+    },
+    {
+      "id": "zapply-8b01b9a464e9",
+      "seen_at": "2026-10-09T20:31:14.868979+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-jj-jj-R-103400",
+      "seen_at": "2026-10-09T20:31:14.870030+00:00"
+    },
+    {
+      "id": "zapply-2555d7229389",
+      "seen_at": "2026-10-09T20:31:14.870949+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2018299",
+      "seen_at": "2026-10-09T20:31:14.871830+00:00"
     }
   ],
-  "last_run": "2026-10-09T20:01:20.312997+00:00",
-  "total_notified": 8837,
+  "last_run": "2026-10-09T20:31:15.142302+00:00",
+  "total_notified": 8842,
   "channels": {
     "pm-jobs": [
       "zapply-a5afe328dd54",
@@ -41627,7 +41667,11 @@
       "zapply-aa3af65cefd3",
       "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000154760949",
       "jobright-2abd042d969c",
-      "url:https://jobright.ai/jobs/info/6ac91771af788e6ad3b59cea"
+      "url:https://jobright.ai/jobs/info/6ac91771af788e6ad3b59cea",
+      "zapply-8b01b9a464e9",
+      "url:https://zapply.jobs/l/d/workday-jj-jj-R-103400",
+      "zapply-2555d7229389",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2018299"
     ],
     "swe-ai-full-time": [
       "zapply-dca97ee06aed",
@@ -50202,7 +50246,13 @@
       "gradtracker-583279ea5754",
       "url:https://www.amazon.jobs/en/jobs/10575074/software-development-engineer-aws-certificate-services",
       "amazon-10575136",
-      "url:https://www.amazon.jobs/en/jobs/10575136/software-development-engineer-amazon-leo-live"
+      "url:https://www.amazon.jobs/en/jobs/10575136/software-development-engineer-amazon-leo-live",
+      "ashby-handshake-fb47a304-2ea1-4971-81cd-5183619f9a81",
+      "url:https://jobs.ashbyhq.com/handshake/fb47a304-2ea1-4971-81cd-5183619f9a81",
+      "zapply-a0c076e7b87d",
+      "url:https://zapply.jobs/l/d/apple-200687765",
+      "jobright-5849b6e49f10",
+      "url:https://jobright.ai/jobs/info/6ac7f97e0e573df8adc755e6"
     ]
   }
 }
