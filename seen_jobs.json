@@ -39931,10 +39931,42 @@
     {
       "id": "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606",
       "seen_at": "2026-10-09T01:31:09.526149+00:00"
+    },
+    {
+      "id": "simplify-7aabe808-d12f-4399-b2f0-e348094fa171",
+      "seen_at": "2026-10-09T02:01:15.671131+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application",
+      "seen_at": "2026-10-09T02:01:15.671920+00:00"
+    },
+    {
+      "id": "simplify-07705204-70be-436b-85af-c48fd1f5e63d",
+      "seen_at": "2026-10-09T02:01:15.672571+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec/application",
+      "seen_at": "2026-10-09T02:01:15.673198+00:00"
+    },
+    {
+      "id": "jobright-334350126c6b",
+      "seen_at": "2026-10-09T02:01:15.673815+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac8373dfcdafb60c6a481bb",
+      "seen_at": "2026-10-09T02:01:15.674464+00:00"
+    },
+    {
+      "id": "jobright-91936eefe59a",
+      "seen_at": "2026-10-09T02:01:15.675102+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac836c9a444ac5d36f8820e",
+      "seen_at": "2026-10-09T02:01:15.675744+00:00"
     }
   ],
-  "last_run": "2026-10-09T01:31:10.584009+00:00",
-  "total_notified": 8730,
+  "last_run": "2026-10-09T02:01:17.087784+00:00",
+  "total_notified": 8734,
   "channels": {
     "pm-jobs": [
       "zapply-c5c0c4ece20b",
@@ -49927,7 +49959,15 @@
       "gradtracker-4946e5db3981",
       "url:https://careers.qualcomm.com/careers/job/446721477865",
       "applyguy-04c64431-8bf4-4b09-9ec1-051d01c136c8",
-      "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606"
+      "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606",
+      "simplify-7aabe808-d12f-4399-b2f0-e348094fa171",
+      "url:https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application",
+      "simplify-07705204-70be-436b-85af-c48fd1f5e63d",
+      "url:https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec/application",
+      "jobright-334350126c6b",
+      "url:https://jobright.ai/jobs/info/6ac8373dfcdafb60c6a481bb",
+      "jobright-91936eefe59a",
+      "url:https://jobright.ai/jobs/info/6ac836c9a444ac5d36f8820e"
     ]
   }
 }
