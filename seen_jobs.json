@@ -40003,10 +40003,74 @@
     {
       "id": "url:https://jobright.ai/jobs/info/69e71cdfe0cd471b2f128808",
       "seen_at": "2026-10-09T16:01:28.302861+00:00"
+    },
+    {
+      "id": "zapply-03e870e9db77",
+      "seen_at": "2026-10-09T16:31:15.118535+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01371070",
+      "seen_at": "2026-10-09T16:31:15.118994+00:00"
+    },
+    {
+      "id": "ashby-cursor-5afc044a-00ed-4392-8759-59c7effe179d",
+      "seen_at": "2026-10-09T16:31:15.119356+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d",
+      "seen_at": "2026-10-09T16:31:15.119691+00:00"
+    },
+    {
+      "id": "zapply-528a66e9993c",
+      "seen_at": "2026-10-09T16:31:15.120038+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4718505006",
+      "seen_at": "2026-10-09T16:31:15.120371+00:00"
+    },
+    {
+      "id": "amazon-10574880",
+      "seen_at": "2026-10-09T16:31:15.120697+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10574880/software-development-engineer-neuron-developer-experiences-team",
+      "seen_at": "2026-10-09T16:31:15.121022+00:00"
+    },
+    {
+      "id": "zapply-b2fba5a67014",
+      "seen_at": "2026-10-09T16:31:16.782675+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-023151",
+      "seen_at": "2026-10-09T16:31:16.783044+00:00"
+    },
+    {
+      "id": "zapply-7fa0dcc89e46",
+      "seen_at": "2026-10-09T16:31:16.783364+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000154724820",
+      "seen_at": "2026-10-09T16:31:16.783668+00:00"
+    },
+    {
+      "id": "zapply-93d7865b2d75",
+      "seen_at": "2026-10-09T16:31:16.783978+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-cummins-2428992",
+      "seen_at": "2026-10-09T16:31:16.784269+00:00"
+    },
+    {
+      "id": "amazon-10574871",
+      "seen_at": "2026-10-09T16:31:16.784558+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10574871/product-manager-technical-ascs-legal",
+      "seen_at": "2026-10-09T16:31:16.784838+00:00"
     }
   ],
-  "last_run": "2026-10-09T16:01:29.254127+00:00",
-  "total_notified": 8782,
+  "last_run": "2026-10-09T16:31:17.008082+00:00",
+  "total_notified": 8790,
   "channels": {
     "pm-jobs": [
       "zapply-2704dd6beaa8",
@@ -41465,7 +41529,15 @@
       "jobright-2cbcd9e53da7",
       "url:https://jobright.ai/jobs/info/6ac8ced0c3a8af9c54a07c25",
       "jobright-ef4de9e85eb4",
-      "url:https://jobright.ai/jobs/info/6a5bbf7a856af468ab00d850"
+      "url:https://jobright.ai/jobs/info/6a5bbf7a856af468ab00d850",
+      "zapply-b2fba5a67014",
+      "url:https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-023151",
+      "zapply-7fa0dcc89e46",
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000154724820",
+      "zapply-93d7865b2d75",
+      "url:https://zapply.jobs/l/d/oracle-cummins-2428992",
+      "amazon-10574871",
+      "url:https://www.amazon.jobs/en/jobs/10574871/product-manager-technical-ascs-legal"
     ],
     "swe-ai-full-time": [
       "ashby-openai-5a1a0c32-0b82-482a-8149-e6b096c3e732",
@@ -50017,7 +50089,15 @@
       "jobright-96d3626bd738",
       "url:https://jobright.ai/jobs/info/6ac8eafafe8f33a85d501486",
       "jobright-0fad3dfbf8be",
-      "url:https://jobright.ai/jobs/info/69e71cdfe0cd471b2f128808"
+      "url:https://jobright.ai/jobs/info/69e71cdfe0cd471b2f128808",
+      "zapply-03e870e9db77",
+      "url:https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01371070",
+      "ashby-cursor-5afc044a-00ed-4392-8759-59c7effe179d",
+      "url:https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d",
+      "zapply-528a66e9993c",
+      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4718505006",
+      "amazon-10574880",
+      "url:https://www.amazon.jobs/en/jobs/10574880/software-development-engineer-neuron-developer-experiences-team"
     ]
   }
 }
