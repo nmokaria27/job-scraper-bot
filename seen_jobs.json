@@ -39931,10 +39931,50 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10574713/software-development-engineer-dynamodb-index-and-search",
       "seen_at": "2026-10-09T15:01:48.510383+00:00"
+    },
+    {
+      "id": "zapply-e348059c6169",
+      "seen_at": "2026-10-09T15:31:26.319596+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-pointclickcare-96d77b19-2396-4f9e-9513-59471b3e28ed",
+      "seen_at": "2026-10-09T15:31:26.320590+00:00"
+    },
+    {
+      "id": "simplify-e2216fd3-a972-4f1f-be6c-56a736fc3dc1",
+      "seen_at": "2026-10-09T15:31:26.321417+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007",
+      "seen_at": "2026-10-09T15:31:26.322092+00:00"
+    },
+    {
+      "id": "zapply-de10b9b1297f",
+      "seen_at": "2026-10-09T15:31:26.322725+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/phenom-cisco-2022318",
+      "seen_at": "2026-10-09T15:31:26.323371+00:00"
+    },
+    {
+      "id": "amazon-10574795",
+      "seen_at": "2026-10-09T15:31:26.323994+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10574795/software-development-engineer-aws-transform-migrations",
+      "seen_at": "2026-10-09T15:31:26.324610+00:00"
+    },
+    {
+      "id": "zapply-79015a5f0189",
+      "seen_at": "2026-10-09T15:31:26.325239+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-asana-8227390",
+      "seen_at": "2026-10-09T15:31:26.325885+00:00"
     }
   ],
-  "last_run": "2026-10-09T15:01:49.783454+00:00",
-  "total_notified": 8773,
+  "last_run": "2026-10-09T15:31:27.512888+00:00",
+  "total_notified": 8778,
   "channels": {
     "pm-jobs": [
       "zapply-2704dd6beaa8",
@@ -49927,7 +49967,17 @@
       "zapply-a3c7e9c51b43",
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526520",
       "amazon-10574713",
-      "url:https://www.amazon.jobs/en/jobs/10574713/software-development-engineer-dynamodb-index-and-search"
+      "url:https://www.amazon.jobs/en/jobs/10574713/software-development-engineer-dynamodb-index-and-search",
+      "zapply-e348059c6169",
+      "url:https://zapply.jobs/l/d/lever-pointclickcare-96d77b19-2396-4f9e-9513-59471b3e28ed",
+      "simplify-e2216fd3-a972-4f1f-be6c-56a736fc3dc1",
+      "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007",
+      "zapply-de10b9b1297f",
+      "url:https://zapply.jobs/l/d/phenom-cisco-2022318",
+      "amazon-10574795",
+      "url:https://www.amazon.jobs/en/jobs/10574795/software-development-engineer-aws-transform-migrations",
+      "zapply-79015a5f0189",
+      "url:https://zapply.jobs/l/d/greenhouse-asana-8227390"
     ]
   }
 }
