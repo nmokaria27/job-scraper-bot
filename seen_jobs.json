@@ -40095,10 +40095,66 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0109646",
       "seen_at": "2026-10-09T19:31:17.259081+00:00"
+    },
+    {
+      "id": "zapply-58f1ef2e9dfe",
+      "seen_at": "2026-10-09T20:01:18.942629+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604100",
+      "seen_at": "2026-10-09T20:01:18.943337+00:00"
+    },
+    {
+      "id": "zapply-3a2f9f08d93c",
+      "seen_at": "2026-10-09T20:01:18.943957+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-reframesystems-661bd313-e71f-4d89-8ddc-5568c6bfa50d",
+      "seen_at": "2026-10-09T20:01:18.944553+00:00"
+    },
+    {
+      "id": "zapply-19360a3a3a77",
+      "seen_at": "2026-10-09T20:01:18.945119+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-stripe-8267736",
+      "seen_at": "2026-10-09T20:01:18.945745+00:00"
+    },
+    {
+      "id": "jobright-5d3ed950d0b8",
+      "seen_at": "2026-10-09T20:01:18.946301+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac9279f6355f8776ff17ac6",
+      "seen_at": "2026-10-09T20:01:18.946833+00:00"
+    },
+    {
+      "id": "jobright-543f90c25c7b",
+      "seen_at": "2026-10-09T20:01:18.947395+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac91ad5fcdafb60c6a4acfc",
+      "seen_at": "2026-10-09T20:01:18.947928+00:00"
+    },
+    {
+      "id": "gradtracker-583279ea5754",
+      "seen_at": "2026-10-09T20:01:18.948476+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10575074/software-development-engineer-aws-certificate-services",
+      "seen_at": "2026-10-09T20:01:18.948994+00:00"
+    },
+    {
+      "id": "amazon-10575136",
+      "seen_at": "2026-10-09T20:01:18.949534+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10575136/software-development-engineer-amazon-leo-live",
+      "seen_at": "2026-10-09T20:01:18.950051+00:00"
     }
   ],
-  "last_run": "2026-10-09T19:31:18.188975+00:00",
-  "total_notified": 8830,
+  "last_run": "2026-10-09T20:01:20.312997+00:00",
+  "total_notified": 8837,
   "channels": {
     "pm-jobs": [
       "zapply-a5afe328dd54",
@@ -50132,7 +50188,21 @@
       "jobright-00e2eb45a61a",
       "url:https://jobright.ai/jobs/info/6ac91a6efcdafb60c6a4accc",
       "zapply-129e70d36a23",
-      "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0109646"
+      "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0109646",
+      "zapply-58f1ef2e9dfe",
+      "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604100",
+      "zapply-3a2f9f08d93c",
+      "url:https://zapply.jobs/l/d/ashby-reframesystems-661bd313-e71f-4d89-8ddc-5568c6bfa50d",
+      "zapply-19360a3a3a77",
+      "url:https://zapply.jobs/l/d/greenhouse-stripe-8267736",
+      "jobright-5d3ed950d0b8",
+      "url:https://jobright.ai/jobs/info/6ac9279f6355f8776ff17ac6",
+      "jobright-543f90c25c7b",
+      "url:https://jobright.ai/jobs/info/6ac91ad5fcdafb60c6a4acfc",
+      "gradtracker-583279ea5754",
+      "url:https://www.amazon.jobs/en/jobs/10575074/software-development-engineer-aws-certificate-services",
+      "amazon-10575136",
+      "url:https://www.amazon.jobs/en/jobs/10575136/software-development-engineer-amazon-leo-live"
     ]
   }
 }
