@@ -40131,10 +40131,50 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
       "seen_at": "2026-10-09T17:01:26.894448+00:00"
+    },
+    {
+      "id": "ashby-supabase-9073c0cd-2545-473a-b2ac-63e4615c69b5",
+      "seen_at": "2026-10-09T17:31:16.140663+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5",
+      "seen_at": "2026-10-09T17:31:16.141380+00:00"
+    },
+    {
+      "id": "zapply-afcc82c1d9d4",
+      "seen_at": "2026-10-09T17:31:16.142046+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-anthropic-5448481008",
+      "seen_at": "2026-10-09T17:31:16.142696+00:00"
+    },
+    {
+      "id": "zapply-5d07908be3e4",
+      "seen_at": "2026-10-09T17:31:16.143356+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-intel-external-JR0286233",
+      "seen_at": "2026-10-09T17:31:16.143978+00:00"
+    },
+    {
+      "id": "zapply-888faa478b2b",
+      "seen_at": "2026-10-09T17:31:16.144626+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-b8467645-a16e-40c1-9b6c-6b981c048d42",
+      "seen_at": "2026-10-09T17:31:16.145251+00:00"
+    },
+    {
+      "id": "zapply-b98a353bf826",
+      "seen_at": "2026-10-09T17:31:18.398747+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-philips-jobs-and-careers-591273",
+      "seen_at": "2026-10-09T17:31:18.399425+00:00"
     }
   ],
-  "last_run": "2026-10-09T17:01:28.080083+00:00",
-  "total_notified": 8798,
+  "last_run": "2026-10-09T17:31:18.681407+00:00",
+  "total_notified": 8803,
   "channels": {
     "pm-jobs": [
       "zapply-2704dd6beaa8",
@@ -41603,7 +41643,9 @@
       "amazon-10574871",
       "url:https://www.amazon.jobs/en/jobs/10574871/product-manager-technical-ascs-legal",
       "jobright-055628858d72",
-      "url:https://jobright.ai/jobs/info/6a42ec626a9c2774b3fa7d9f"
+      "url:https://jobright.ai/jobs/info/6a42ec626a9c2774b3fa7d9f",
+      "zapply-b98a353bf826",
+      "url:https://zapply.jobs/l/d/workday-philips-jobs-and-careers-591273"
     ],
     "swe-ai-full-time": [
       "ashby-openai-5a1a0c32-0b82-482a-8149-e6b096c3e732",
@@ -50177,7 +50219,15 @@
       "workday-intel-JR0286233",
       "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Infrastructure-Engineer_JR0286233",
       "greenhouse-anthropic-5448481008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5448481008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
+      "ashby-supabase-9073c0cd-2545-473a-b2ac-63e4615c69b5",
+      "url:https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5",
+      "zapply-afcc82c1d9d4",
+      "url:https://zapply.jobs/l/d/greenhouse-anthropic-5448481008",
+      "zapply-5d07908be3e4",
+      "url:https://zapply.jobs/l/d/workday-intel-external-JR0286233",
+      "zapply-888faa478b2b",
+      "url:https://zapply.jobs/l/d/amazon-b8467645-a16e-40c1-9b6c-6b981c048d42"
     ]
   }
 }
