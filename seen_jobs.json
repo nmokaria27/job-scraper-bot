@@ -40015,10 +40015,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac94e076355f8776ff186a6",
       "seen_at": "2026-10-09T22:01:19.019108+00:00"
+    },
+    {
+      "id": "greenhouse-roblox-8262223",
+      "seen_at": "2026-10-09T22:31:20.883954+00:00"
+    },
+    {
+      "id": "url:https://careers.roblox.com/jobs/8262223",
+      "seen_at": "2026-10-09T22:31:20.884689+00:00"
+    },
+    {
+      "id": "zapply-381a72dc1579",
+      "seen_at": "2026-10-09T22:31:20.885364+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-field-ai-9524c7c2-8be2-4463-afe3-7c1c60f7e6f2",
+      "seen_at": "2026-10-09T22:31:20.885999+00:00"
     }
   ],
-  "last_run": "2026-10-09T22:01:19.968534+00:00",
-  "total_notified": 8855,
+  "last_run": "2026-10-09T22:31:22.374199+00:00",
+  "total_notified": 8857,
   "channels": {
     "pm-jobs": [
       "zapply-315434be1ea1",
@@ -50032,7 +50048,11 @@
       "jobright-d3b5e730df6d",
       "url:https://jobright.ai/jobs/info/6ac945d16355f8776ff18439",
       "jobright-c313fc5d72c4",
-      "url:https://jobright.ai/jobs/info/6ac94e076355f8776ff186a6"
+      "url:https://jobright.ai/jobs/info/6ac94e076355f8776ff186a6",
+      "greenhouse-roblox-8262223",
+      "url:https://careers.roblox.com/jobs/8262223",
+      "zapply-381a72dc1579",
+      "url:https://zapply.jobs/l/d/lever-field-ai-9524c7c2-8be2-4463-afe3-7c1c60f7e6f2"
     ]
   }
 }
