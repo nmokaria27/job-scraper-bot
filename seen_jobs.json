@@ -40091,10 +40091,58 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5448167008",
       "seen_at": "2026-10-09T00:31:14.841734+00:00"
+    },
+    {
+      "id": "zapply-142d21e35e93",
+      "seen_at": "2026-10-09T01:01:35.562477+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-avav-avav-8655",
+      "seen_at": "2026-10-09T01:01:35.562973+00:00"
+    },
+    {
+      "id": "zapply-005f11480a5e",
+      "seen_at": "2026-10-09T01:01:35.563366+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8880868002",
+      "seen_at": "2026-10-09T01:01:35.563738+00:00"
+    },
+    {
+      "id": "jobright-8ac621f3f2ac",
+      "seen_at": "2026-10-09T01:01:35.564110+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac8249644d6e65604a06597",
+      "seen_at": "2026-10-09T01:01:35.564470+00:00"
+    },
+    {
+      "id": "gradtracker-2ec0ff7943a1",
+      "seen_at": "2026-10-09T01:01:35.564841+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446721429496",
+      "seen_at": "2026-10-09T01:01:35.565184+00:00"
+    },
+    {
+      "id": "gradtracker-4946e5db3981",
+      "seen_at": "2026-10-09T01:01:35.565530+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446721477865",
+      "seen_at": "2026-10-09T01:01:35.565888+00:00"
+    },
+    {
+      "id": "zapply-a82caf9503de",
+      "seen_at": "2026-10-09T01:01:37.091817+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2022755",
+      "seen_at": "2026-10-09T01:01:37.092286+00:00"
     }
   ],
-  "last_run": "2026-10-09T00:31:15.268405+00:00",
-  "total_notified": 8723,
+  "last_run": "2026-10-09T01:01:37.464471+00:00",
+  "total_notified": 8729,
   "channels": {
     "pm-jobs": [
       "zapply-c708eb7ab41b",
@@ -41565,7 +41613,9 @@
       "zapply-9a489ad16a27",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026322",
       "greenhouse-anthropic-5448167008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5448167008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5448167008",
+      "zapply-a82caf9503de",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2022755"
     ],
     "swe-ai-full-time": [
       "zapply-c198b6cc8895",
@@ -50127,7 +50177,17 @@
       "greenhouse-roblox-8159857",
       "url:https://careers.roblox.com/jobs/8159857",
       "applyguy-106d7079-1f10-4e98-bb35-c6d46369fbdb",
-      "url:https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026522010-1"
+      "url:https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026522010-1",
+      "zapply-142d21e35e93",
+      "url:https://zapply.jobs/l/d/workday-avav-avav-8655",
+      "zapply-005f11480a5e",
+      "url:https://zapply.jobs/l/d/greenhouse-spacex-8880868002",
+      "jobright-8ac621f3f2ac",
+      "url:https://jobright.ai/jobs/info/6ac8249644d6e65604a06597",
+      "gradtracker-2ec0ff7943a1",
+      "url:https://careers.qualcomm.com/careers/job/446721429496",
+      "gradtracker-4946e5db3981",
+      "url:https://careers.qualcomm.com/careers/job/446721477865"
     ]
   }
 }
