@@ -40019,10 +40019,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026322",
       "seen_at": "2026-10-08T23:31:11.814378+00:00"
+    },
+    {
+      "id": "zapply-3a9da25bffdb",
+      "seen_at": "2026-10-09T00:01:22.877579+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec",
+      "seen_at": "2026-10-09T00:01:22.878275+00:00"
+    },
+    {
+      "id": "zapply-30458fb7bb1c",
+      "seen_at": "2026-10-09T00:01:22.878944+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-lucidmotors-5242854007",
+      "seen_at": "2026-10-09T00:01:22.879576+00:00"
+    },
+    {
+      "id": "jobright-e9d351766dbf",
+      "seen_at": "2026-10-09T00:01:22.880190+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa42d4c422289703bd6575a",
+      "seen_at": "2026-10-09T00:01:22.880813+00:00"
+    },
+    {
+      "id": "jobright-68ca7ca90f50",
+      "seen_at": "2026-10-09T00:01:22.881432+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac81513a444ac5d36f87818",
+      "seen_at": "2026-10-09T00:01:22.882081+00:00"
+    },
+    {
+      "id": "jobright-07462a2d8fd0",
+      "seen_at": "2026-10-09T00:01:22.882723+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaacdf1f6bd9d2d17c19a6e",
+      "seen_at": "2026-10-09T00:01:22.883335+00:00"
+    },
+    {
+      "id": "applyguy-fc6e4098-70cc-4dc7-97a5-26cd7e68bafb",
+      "seen_at": "2026-10-09T00:01:22.883963+00:00"
+    },
+    {
+      "id": "url:https://bmo.wd3.myworkdayjobs.com/external/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
+      "seen_at": "2026-10-09T00:01:22.884570+00:00"
     }
   ],
-  "last_run": "2026-10-08T23:31:12.046241+00:00",
-  "total_notified": 8714,
+  "last_run": "2026-10-09T00:01:24.130636+00:00",
+  "total_notified": 8720,
   "channels": {
     "pm-jobs": [
       "zapply-c708eb7ab41b",
@@ -50037,7 +50085,19 @@
       "amazon-10574174",
       "url:https://www.amazon.jobs/en/jobs/10574174/software-development-engineer-scot-inbound-inventory-routing-and-replenishment",
       "workday-nvidia-JR2018371",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Engineering-Workflow-Platform_JR2018371"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Engineering-Workflow-Platform_JR2018371",
+      "zapply-3a9da25bffdb",
+      "url:https://zapply.jobs/l/d/ashby-snowflake-5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec",
+      "zapply-30458fb7bb1c",
+      "url:https://zapply.jobs/l/d/greenhouse-lucidmotors-5242854007",
+      "jobright-e9d351766dbf",
+      "url:https://jobright.ai/jobs/info/6aa42d4c422289703bd6575a",
+      "jobright-68ca7ca90f50",
+      "url:https://jobright.ai/jobs/info/6ac81513a444ac5d36f87818",
+      "jobright-07462a2d8fd0",
+      "url:https://jobright.ai/jobs/info/6aaacdf1f6bd9d2d17c19a6e",
+      "applyguy-fc6e4098-70cc-4dc7-97a5-26cd7e68bafb",
+      "url:https://bmo.wd3.myworkdayjobs.com/external/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450"
     ]
   }
 }
