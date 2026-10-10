@@ -39303,10 +39303,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157372",
       "seen_at": "2026-10-10T02:31:12.244928+00:00"
+    },
+    {
+      "id": "zapply-8db4eb87f77e",
+      "seen_at": "2026-10-10T03:01:14.319434+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-eb9fda9e-4fd1-4f7f-ba6a-55f181feebb5",
+      "seen_at": "2026-10-10T03:01:14.320215+00:00"
+    },
+    {
+      "id": "amazon-10575340",
+      "seen_at": "2026-10-10T03:01:14.320893+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10575340/software-development-engineer",
+      "seen_at": "2026-10-10T03:01:14.321484+00:00"
+    },
+    {
+      "id": "jobright-7ef0d482fb3f",
+      "seen_at": "2026-10-10T03:01:14.322094+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac98c51d4a5a03707412b37",
+      "seen_at": "2026-10-10T03:01:14.322705+00:00"
     }
   ],
-  "last_run": "2026-10-10T02:31:13.569957+00:00",
-  "total_notified": 8905,
+  "last_run": "2026-10-10T03:01:15.659081+00:00",
+  "total_notified": 8908,
   "channels": {
     "pm-jobs": [
       "greenhouse-samsara-8164851",
@@ -49142,7 +49166,13 @@
       "jobright-a53557a3ceb9",
       "url:https://jobright.ai/jobs/info/6a96fa2c246d697dcee02555",
       "zapply-079c154b7793",
-      "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157372"
+      "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157372",
+      "zapply-8db4eb87f77e",
+      "url:https://zapply.jobs/l/d/amazon-eb9fda9e-4fd1-4f7f-ba6a-55f181feebb5",
+      "amazon-10575340",
+      "url:https://www.amazon.jobs/en/jobs/10575340/software-development-engineer",
+      "jobright-7ef0d482fb3f",
+      "url:https://jobright.ai/jobs/info/6ac98c51d4a5a03707412b37"
     ]
   }
 }
