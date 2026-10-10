@@ -38959,10 +38959,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/phenom-cisco-2025205",
       "seen_at": "2026-10-10T11:01:12.013879+00:00"
+    },
+    {
+      "id": "zapply-d24959043cf7",
+      "seen_at": "2026-10-10T15:52:03.643045+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-tailscale-4733404005",
+      "seen_at": "2026-10-10T15:52:03.643853+00:00"
+    },
+    {
+      "id": "jobright-51981668839c",
+      "seen_at": "2026-10-10T15:52:03.644547+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac92163c3a8af9c54a09479",
+      "seen_at": "2026-10-10T15:52:03.645156+00:00"
     }
   ],
-  "last_run": "2026-10-10T15:31:10.718386+00:00",
-  "total_notified": 8917,
+  "last_run": "2026-10-10T15:52:04.948714+00:00",
+  "total_notified": 8919,
   "channels": {
     "pm-jobs": [
       "zapply-164fad32d0e5",
@@ -48712,7 +48728,11 @@
       "zapply-c8497e953f93",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025205",
       "zapply-119cbb866cdb",
-      "url:https://zapply.jobs/l/d/phenom-cisco-2025205"
+      "url:https://zapply.jobs/l/d/phenom-cisco-2025205",
+      "zapply-d24959043cf7",
+      "url:https://zapply.jobs/l/d/greenhouse-tailscale-4733404005",
+      "jobright-51981668839c",
+      "url:https://jobright.ai/jobs/info/6ac92163c3a8af9c54a09479"
     ]
   }
 }
