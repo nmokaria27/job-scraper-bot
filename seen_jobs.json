@@ -39671,10 +39671,58 @@
     {
       "id": "url:https://careers.qualcomm.com/careers/job/446720708572",
       "seen_at": "2026-10-10T00:31:08.122762+00:00"
+    },
+    {
+      "id": "zapply-1dc98ecad004",
+      "seen_at": "2026-10-10T01:01:11.065090+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-scoutai-5449556008",
+      "seen_at": "2026-10-10T01:01:11.065624+00:00"
+    },
+    {
+      "id": "zapply-2e96868078be",
+      "seen_at": "2026-10-10T01:01:11.066104+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-1d6bd926-fd4c-4a66-aefd-ff72dd57d7b6",
+      "seen_at": "2026-10-10T01:01:11.066550+00:00"
+    },
+    {
+      "id": "zapply-4dfb68da0260",
+      "seen_at": "2026-10-10T01:01:11.066994+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-b7a2f563-96bb-4741-8fad-f1511fc14200",
+      "seen_at": "2026-10-10T01:01:11.067423+00:00"
+    },
+    {
+      "id": "amazon-10575314",
+      "seen_at": "2026-10-10T01:01:11.067880+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10575314/software-development-engineer-global-from-day1",
+      "seen_at": "2026-10-10T01:01:11.068285+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2027431",
+      "seen_at": "2026-10-10T01:01:11.068711+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+      "seen_at": "2026-10-10T01:01:11.069114+00:00"
+    },
+    {
+      "id": "jobright-9669a16669b1",
+      "seen_at": "2026-10-10T01:01:11.069524+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac9713dd4a5a0370741262e",
+      "seen_at": "2026-10-10T01:01:11.069940+00:00"
     }
   ],
-  "last_run": "2026-10-10T00:31:08.978560+00:00",
-  "total_notified": 8892,
+  "last_run": "2026-10-10T01:01:12.021456+00:00",
+  "total_notified": 8898,
   "channels": {
     "pm-jobs": [
       "simplify-a6d9fcc3-2f85-4609-9b2d-2ed435325914",
@@ -49602,7 +49650,19 @@
       "gradtracker-9d0778ccea20",
       "url:https://www.amazon.jobs/en/jobs/10575304/software-development-engineer-aws-payments-fraud-prevention",
       "gradtracker-cbf6c5a43c9f",
-      "url:https://careers.qualcomm.com/careers/job/446720708572"
+      "url:https://careers.qualcomm.com/careers/job/446720708572",
+      "zapply-1dc98ecad004",
+      "url:https://zapply.jobs/l/d/greenhouse-scoutai-5449556008",
+      "zapply-2e96868078be",
+      "url:https://zapply.jobs/l/d/amazon-1d6bd926-fd4c-4a66-aefd-ff72dd57d7b6",
+      "zapply-4dfb68da0260",
+      "url:https://zapply.jobs/l/d/amazon-b7a2f563-96bb-4741-8fad-f1511fc14200",
+      "amazon-10575314",
+      "url:https://www.amazon.jobs/en/jobs/10575314/software-development-engineer-global-from-day1",
+      "workday-nvidia-JR2027431",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+      "jobright-9669a16669b1",
+      "url:https://jobright.ai/jobs/info/6ac9713dd4a5a0370741262e"
     ]
   }
 }
