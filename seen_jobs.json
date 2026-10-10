@@ -39623,10 +39623,58 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10575303/software-development-engineer",
       "seen_at": "2026-10-10T00:01:19.412521+00:00"
+    },
+    {
+      "id": "zapply-a7d63fef6a69",
+      "seen_at": "2026-10-10T00:31:08.117072+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68972",
+      "seen_at": "2026-10-10T00:31:08.117818+00:00"
+    },
+    {
+      "id": "zapply-ac1ef56db28e",
+      "seen_at": "2026-10-10T00:31:08.118385+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027431",
+      "seen_at": "2026-10-10T00:31:08.118878+00:00"
+    },
+    {
+      "id": "zapply-3163306b93d7",
+      "seen_at": "2026-10-10T00:31:08.119390+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026802",
+      "seen_at": "2026-10-10T00:31:08.119872+00:00"
+    },
+    {
+      "id": "gradtracker-9ac9ac604c00",
+      "seen_at": "2026-10-10T00:31:08.120364+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10575186/data-engineer-ww-pricing-data-analytics",
+      "seen_at": "2026-10-10T00:31:08.120834+00:00"
+    },
+    {
+      "id": "gradtracker-9d0778ccea20",
+      "seen_at": "2026-10-10T00:31:08.121346+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10575304/software-development-engineer-aws-payments-fraud-prevention",
+      "seen_at": "2026-10-10T00:31:08.121815+00:00"
+    },
+    {
+      "id": "gradtracker-cbf6c5a43c9f",
+      "seen_at": "2026-10-10T00:31:08.122300+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446720708572",
+      "seen_at": "2026-10-10T00:31:08.122762+00:00"
     }
   ],
-  "last_run": "2026-10-10T00:01:20.484041+00:00",
-  "total_notified": 8886,
+  "last_run": "2026-10-10T00:31:08.978560+00:00",
+  "total_notified": 8892,
   "channels": {
     "pm-jobs": [
       "simplify-a6d9fcc3-2f85-4609-9b2d-2ed435325914",
@@ -49542,7 +49590,19 @@
       "jobright-0d85337064c7",
       "url:https://jobright.ai/jobs/info/6a534f5d8576ec69c014f57f",
       "amazon-10575303",
-      "url:https://www.amazon.jobs/en/jobs/10575303/software-development-engineer"
+      "url:https://www.amazon.jobs/en/jobs/10575303/software-development-engineer",
+      "zapply-a7d63fef6a69",
+      "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68972",
+      "zapply-ac1ef56db28e",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027431",
+      "zapply-3163306b93d7",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026802",
+      "gradtracker-9ac9ac604c00",
+      "url:https://www.amazon.jobs/en/jobs/10575186/data-engineer-ww-pricing-data-analytics",
+      "gradtracker-9d0778ccea20",
+      "url:https://www.amazon.jobs/en/jobs/10575304/software-development-engineer-aws-payments-fraud-prevention",
+      "gradtracker-cbf6c5a43c9f",
+      "url:https://careers.qualcomm.com/careers/job/446720708572"
     ]
   }
 }
