@@ -36647,10 +36647,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a5a6da3686b4755d1e15113",
       "seen_at": "2026-10-11T18:01:12.821312+00:00"
+    },
+    {
+      "id": "jobright-c2377e0fa3d3",
+      "seen_at": "2026-10-11T19:01:11.876920+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a52c0efe726ec56126a450c",
+      "seen_at": "2026-10-11T19:01:11.877788+00:00"
+    },
+    {
+      "id": "jobright-8e924dba4c5f",
+      "seen_at": "2026-10-11T19:01:11.878522+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aca6ab1d113c967e3c77acb",
+      "seen_at": "2026-10-11T19:01:11.879185+00:00"
+    },
+    {
+      "id": "jobright-c42e3f72b122",
+      "seen_at": "2026-10-11T19:01:13.861866+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acbc4453c831dc4086bd736",
+      "seen_at": "2026-10-11T19:01:13.862743+00:00"
     }
   ],
-  "last_run": "2026-10-11T18:31:09.547880+00:00",
-  "total_notified": 8944,
+  "last_run": "2026-10-11T19:01:14.153445+00:00",
+  "total_notified": 8947,
   "channels": {
     "pm-jobs": [
       "zapply-f4cfce37b17b",
@@ -38031,7 +38055,9 @@
       "jobright-088c3984467e",
       "url:https://jobright.ai/jobs/info/6aac877295c707f49dff1aa5",
       "zapply-5e3fb8faf019",
-      "url:https://zapply.jobs/l/d/greenhouse-airbnb-8262207"
+      "url:https://zapply.jobs/l/d/greenhouse-airbnb-8262207",
+      "jobright-c42e3f72b122",
+      "url:https://jobright.ai/jobs/info/6acbc4453c831dc4086bd736"
     ],
     "swe-ai-full-time": [
       "greenhouse-drweng-8167047",
@@ -45822,7 +45848,11 @@
       "jobright-2244f7f31609",
       "url:https://jobright.ai/jobs/info/6a93cbf73603630099199105",
       "jobright-8d7be05f2553",
-      "url:https://jobright.ai/jobs/info/6a5a6da3686b4755d1e15113"
+      "url:https://jobright.ai/jobs/info/6a5a6da3686b4755d1e15113",
+      "jobright-c2377e0fa3d3",
+      "url:https://jobright.ai/jobs/info/6a52c0efe726ec56126a450c",
+      "jobright-8e924dba4c5f",
+      "url:https://jobright.ai/jobs/info/6aca6ab1d113c967e3c77acb"
     ]
   }
 }
