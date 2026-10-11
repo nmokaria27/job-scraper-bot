@@ -37103,10 +37103,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a760453a26ccc369f833373",
       "seen_at": "2026-10-11T15:01:17.675418+00:00"
+    },
+    {
+      "id": "ashby-elevenlabs-3d650946-5ac2-4729-9ae4-129c43fcd0b5",
+      "seen_at": "2026-10-11T16:01:13.582143+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/elevenlabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5",
+      "seen_at": "2026-10-11T16:01:13.582939+00:00"
+    },
+    {
+      "id": "jobright-4ad35607df4d",
+      "seen_at": "2026-10-11T16:01:13.583626+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc",
+      "seen_at": "2026-10-11T16:01:13.584358+00:00"
+    },
+    {
+      "id": "jobright-70432e00f114",
+      "seen_at": "2026-10-11T16:01:13.585037+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acb972bd113c967e3c78e1e",
+      "seen_at": "2026-10-11T16:01:13.585684+00:00"
     }
   ],
-  "last_run": "2026-10-11T15:31:10.784516+00:00",
-  "total_notified": 8937,
+  "last_run": "2026-10-11T16:01:14.410762+00:00",
+  "total_notified": 8940,
   "channels": {
     "pm-jobs": [
       "zapply-66e4059fed50",
@@ -46392,7 +46416,13 @@
       "jobright-f02e8df3cceb",
       "url:https://jobright.ai/jobs/info/6ac8fc17d4a5a037074100b4",
       "jobright-594b93f3051b",
-      "url:https://jobright.ai/jobs/info/6a760453a26ccc369f833373"
+      "url:https://jobright.ai/jobs/info/6a760453a26ccc369f833373",
+      "ashby-elevenlabs-3d650946-5ac2-4729-9ae4-129c43fcd0b5",
+      "url:https://jobs.ashbyhq.com/elevenlabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5",
+      "jobright-4ad35607df4d",
+      "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc",
+      "jobright-70432e00f114",
+      "url:https://jobright.ai/jobs/info/6acb972bd113c967e3c78e1e"
     ]
   }
 }
