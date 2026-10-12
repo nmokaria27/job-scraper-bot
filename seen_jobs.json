@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-811c2f33ede0",
-      "seen_at": "2026-09-12T21:02:44.554294+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-db-dbwebsite-R0440662",
-      "seen_at": "2026-09-12T21:02:44.555011+00:00"
-    },
-    {
-      "id": "jobright-b69a8ad1a0fc",
-      "seen_at": "2026-09-12T21:02:44.555660+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa59ca92ed333b4ea5c772d",
-      "seen_at": "2026-09-12T21:02:44.556336+00:00"
-    },
-    {
-      "id": "jobright-693a3137df88",
-      "seen_at": "2026-09-12T21:02:50.914340+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa5a73a82e82a31997be3fd",
-      "seen_at": "2026-09-12T21:02:50.915119+00:00"
-    },
-    {
-      "id": "jobright-3ad581e92dc4",
-      "seen_at": "2026-09-12T21:02:50.915836+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa5a6c12ed333b4ea5c78b7",
-      "seen_at": "2026-09-12T21:02:50.916535+00:00"
-    },
-    {
-      "id": "jobright-86597ecb41d9",
-      "seen_at": "2026-09-12T21:02:50.917240+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa3f8b28275e3a21175e3c3",
-      "seen_at": "2026-09-12T21:02:50.917945+00:00"
-    },
-    {
-      "id": "jobright-745f442582c2",
-      "seen_at": "2026-09-12T21:02:50.918639+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa4c28ba77a53f5a156def6",
-      "seen_at": "2026-09-12T21:02:50.919307+00:00"
-    },
-    {
-      "id": "jobright-bfa7f7ad455e",
-      "seen_at": "2026-09-12T21:02:50.919998+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa597e9654b2a9424cf4d03",
-      "seen_at": "2026-09-12T21:02:50.920689+00:00"
-    },
-    {
-      "id": "jobright-970b59852c3c",
-      "seen_at": "2026-09-12T21:02:50.921431+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa59538930bff471a29f378",
-      "seen_at": "2026-09-12T21:02:50.922150+00:00"
-    },
-    {
-      "id": "jobright-f85af7e7c074",
-      "seen_at": "2026-09-12T21:02:50.922844+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa381bb4233a2201a2b1ac9",
-      "seen_at": "2026-09-12T21:02:50.923547+00:00"
-    },
-    {
       "id": "zapply-b23192a9c055",
       "seen_at": "2026-09-12T23:01:00.856664+00:00"
     },
@@ -35063,16 +34991,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6acd2a09ddd23cce28a110ac",
       "seen_at": "2026-10-12T21:01:23.368538+00:00"
+    },
+    {
+      "id": "lever-palantir-5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+      "seen_at": "2026-10-12T21:31:14.672302+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+      "seen_at": "2026-10-12T21:31:14.672920+00:00"
+    },
+    {
+      "id": "amazon-10576418",
+      "seen_at": "2026-10-12T21:31:14.673509+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10576418/applied-scientist-safe-control-amazon-robotics-compass",
+      "seen_at": "2026-10-12T21:31:14.674065+00:00"
     }
   ],
-  "last_run": "2026-10-12T21:01:24.046508+00:00",
-  "total_notified": 9018,
+  "last_run": "2026-10-12T21:31:15.551805+00:00",
+  "total_notified": 9020,
   "channels": {
     "pm-jobs": [
-      "zapply-811c2f33ede0",
-      "url:https://zapply.jobs/l/d/workday-db-dbwebsite-R0440662",
-      "jobright-b69a8ad1a0fc",
-      "url:https://jobright.ai/jobs/info/6aa59ca92ed333b4ea5c772d",
       "zapply-b23192a9c055",
       "url:https://zapply.jobs/l/d/lever-zoox-7bf2a9b3-8aa5-4950-b8b8-14306ef1069f",
       "zapply-f9c34f254e73",
@@ -36394,20 +36334,6 @@
       "url:https://zapply.jobs/l/d/oracle-cummins-2438046"
     ],
     "swe-ai-full-time": [
-      "jobright-693a3137df88",
-      "url:https://jobright.ai/jobs/info/6aa5a73a82e82a31997be3fd",
-      "jobright-3ad581e92dc4",
-      "url:https://jobright.ai/jobs/info/6aa5a6c12ed333b4ea5c78b7",
-      "jobright-86597ecb41d9",
-      "url:https://jobright.ai/jobs/info/6aa3f8b28275e3a21175e3c3",
-      "jobright-745f442582c2",
-      "url:https://jobright.ai/jobs/info/6aa4c28ba77a53f5a156def6",
-      "jobright-bfa7f7ad455e",
-      "url:https://jobright.ai/jobs/info/6aa597e9654b2a9424cf4d03",
-      "jobright-970b59852c3c",
-      "url:https://jobright.ai/jobs/info/6aa59538930bff471a29f378",
-      "jobright-f85af7e7c074",
-      "url:https://jobright.ai/jobs/info/6aa381bb4233a2201a2b1ac9",
       "zapply-fdec14639bba",
       "url:https://zapply.jobs/l/d/sr-RaytheonTechnologies-743999840715481",
       "zapply-94f14415533f",
@@ -43842,7 +43768,11 @@
       "jobright-1a0633851c85",
       "url:https://jobright.ai/jobs/info/6acd3455ddd23cce28a1131c",
       "jobright-fccf52e2af17",
-      "url:https://jobright.ai/jobs/info/6acd2a09ddd23cce28a110ac"
+      "url:https://jobright.ai/jobs/info/6acd2a09ddd23cce28a110ac",
+      "lever-palantir-5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+      "url:https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+      "amazon-10576418",
+      "url:https://www.amazon.jobs/en/jobs/10576418/applied-scientist-safe-control-amazon-robotics-compass"
     ]
   }
 }
