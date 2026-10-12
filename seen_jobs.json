@@ -35047,10 +35047,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6acd4023a56e5406e57c0649",
       "seen_at": "2026-10-12T22:01:19.070669+00:00"
+    },
+    {
+      "id": "greenhouse-gleanwork-4742959005",
+      "seen_at": "2026-10-12T22:31:16.189455+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/gleanwork/jobs/4742959005",
+      "seen_at": "2026-10-12T22:31:16.190128+00:00"
+    },
+    {
+      "id": "zapply-c06d30fc0036",
+      "seen_at": "2026-10-12T22:31:16.190717+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-AbbVie-3743990016070676",
+      "seen_at": "2026-10-12T22:31:16.191308+00:00"
+    },
+    {
+      "id": "amazon-10576475",
+      "seen_at": "2026-10-12T22:31:16.191862+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10576475/software-development-engineer-sable",
+      "seen_at": "2026-10-12T22:31:16.192439+00:00"
     }
   ],
-  "last_run": "2026-10-12T22:01:19.955275+00:00",
-  "total_notified": 9025,
+  "last_run": "2026-10-12T22:31:17.208677+00:00",
+  "total_notified": 9028,
   "channels": {
     "pm-jobs": [
       "zapply-b23192a9c055",
@@ -43822,7 +43846,13 @@
       "jobright-364f08092afe",
       "url:https://jobright.ai/jobs/info/6acd36533c831dc4086c1223",
       "jobright-b0a535b1da32",
-      "url:https://jobright.ai/jobs/info/6acd4023a56e5406e57c0649"
+      "url:https://jobright.ai/jobs/info/6acd4023a56e5406e57c0649",
+      "greenhouse-gleanwork-4742959005",
+      "url:https://job-boards.greenhouse.io/gleanwork/jobs/4742959005",
+      "zapply-c06d30fc0036",
+      "url:https://zapply.jobs/l/d/sr-AbbVie-3743990016070676",
+      "amazon-10576475",
+      "url:https://www.amazon.jobs/en/jobs/10576475/software-development-engineer-sable"
     ]
   }
 }
