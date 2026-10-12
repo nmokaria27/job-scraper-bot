@@ -35023,10 +35023,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-cummins-2438046",
       "seen_at": "2026-10-12T20:31:25.695072+00:00"
+    },
+    {
+      "id": "ashby-cursor-aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+      "seen_at": "2026-10-12T21:01:23.365461+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+      "seen_at": "2026-10-12T21:01:23.365996+00:00"
+    },
+    {
+      "id": "jobright-1a7e42830f6b",
+      "seen_at": "2026-10-12T21:01:23.366360+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd2587002e496d4bef0e09",
+      "seen_at": "2026-10-12T21:01:23.366706+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR357929",
+      "seen_at": "2026-10-12T21:01:23.367033+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR357929",
+      "seen_at": "2026-10-12T21:01:23.367337+00:00"
+    },
+    {
+      "id": "jobright-1a0633851c85",
+      "seen_at": "2026-10-12T21:01:23.367654+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd3455ddd23cce28a1131c",
+      "seen_at": "2026-10-12T21:01:23.367943+00:00"
+    },
+    {
+      "id": "jobright-fccf52e2af17",
+      "seen_at": "2026-10-12T21:01:23.368244+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd2a09ddd23cce28a110ac",
+      "seen_at": "2026-10-12T21:01:23.368538+00:00"
     }
   ],
-  "last_run": "2026-10-12T20:31:26.008082+00:00",
-  "total_notified": 9013,
+  "last_run": "2026-10-12T21:01:24.046508+00:00",
+  "total_notified": 9018,
   "channels": {
     "pm-jobs": [
       "zapply-811c2f33ede0",
@@ -43792,7 +43832,17 @@
       "amazon-10576272",
       "url:https://www.amazon.jobs/en/jobs/10576272/software-development-engineer-technology-enablement-services",
       "zapply-e9f9239413a8",
-      "url:https://zapply.jobs/l/d/greenhouse-esri-5220093007"
+      "url:https://zapply.jobs/l/d/greenhouse-esri-5220093007",
+      "ashby-cursor-aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+      "url:https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+      "jobright-1a7e42830f6b",
+      "url:https://jobright.ai/jobs/info/6acd2587002e496d4bef0e09",
+      "workday-salesforce-JR357929",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR357929",
+      "jobright-1a0633851c85",
+      "url:https://jobright.ai/jobs/info/6acd3455ddd23cce28a1131c",
+      "jobright-fccf52e2af17",
+      "url:https://jobright.ai/jobs/info/6acd2a09ddd23cce28a110ac"
     ]
   }
 }
