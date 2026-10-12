@@ -34999,10 +34999,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6acd1cddddd23cce28a10b0b",
       "seen_at": "2026-10-12T19:47:25.595126+00:00"
+    },
+    {
+      "id": "zapply-e9f9239413a8",
+      "seen_at": "2026-10-12T20:31:23.486726+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-esri-5220093007",
+      "seen_at": "2026-10-12T20:31:23.487471+00:00"
+    },
+    {
+      "id": "zapply-7060a2a1899d",
+      "seen_at": "2026-10-12T20:31:25.693266+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155106187",
+      "seen_at": "2026-10-12T20:31:25.693966+00:00"
+    },
+    {
+      "id": "zapply-836e714a376b",
+      "seen_at": "2026-10-12T20:31:25.694544+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-cummins-2438046",
+      "seen_at": "2026-10-12T20:31:25.695072+00:00"
     }
   ],
-  "last_run": "2026-10-12T20:01:41.102213+00:00",
-  "total_notified": 9010,
+  "last_run": "2026-10-12T20:31:26.008082+00:00",
+  "total_notified": 9013,
   "channels": {
     "pm-jobs": [
       "zapply-811c2f33ede0",
@@ -36323,7 +36347,11 @@
       "zapply-22b17ef91c9e",
       "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230303",
       "jobright-45de4bc3eb22",
-      "url:https://jobright.ai/jobs/info/6acd1cddddd23cce28a10b0b"
+      "url:https://jobright.ai/jobs/info/6acd1cddddd23cce28a10b0b",
+      "zapply-7060a2a1899d",
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155106187",
+      "zapply-836e714a376b",
+      "url:https://zapply.jobs/l/d/oracle-cummins-2438046"
     ],
     "swe-ai-full-time": [
       "jobright-693a3137df88",
@@ -43762,7 +43790,9 @@
       "greenhouse-anthropic-5450099008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
       "amazon-10576272",
-      "url:https://www.amazon.jobs/en/jobs/10576272/software-development-engineer-technology-enablement-services"
+      "url:https://www.amazon.jobs/en/jobs/10576272/software-development-engineer-technology-enablement-services",
+      "zapply-e9f9239413a8",
+      "url:https://zapply.jobs/l/d/greenhouse-esri-5220093007"
     ]
   }
 }
