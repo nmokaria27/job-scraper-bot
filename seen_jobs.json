@@ -34951,10 +34951,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6accf4a4ddd23cce28a0fd52",
       "seen_at": "2026-10-12T17:01:30.376971+00:00"
+    },
+    {
+      "id": "amazon-10576037",
+      "seen_at": "2026-10-12T17:32:00.098131+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10576037/product-manager-tech-neighbors",
+      "seen_at": "2026-10-12T17:32:00.098545+00:00"
     }
   ],
-  "last_run": "2026-10-12T17:01:30.865943+00:00",
-  "total_notified": 8988,
+  "last_run": "2026-10-12T17:32:00.298417+00:00",
+  "total_notified": 8989,
   "channels": {
     "pm-jobs": [
       "jobright-db06b6247b69",
@@ -36273,7 +36281,9 @@
       "zapply-3dc1f7b2cb34",
       "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000399448",
       "jobright-169c0a70def1",
-      "url:https://jobright.ai/jobs/info/6accf4a4ddd23cce28a0fd52"
+      "url:https://jobright.ai/jobs/info/6accf4a4ddd23cce28a0fd52",
+      "amazon-10576037",
+      "url:https://www.amazon.jobs/en/jobs/10576037/product-manager-tech-neighbors"
     ],
     "swe-ai-full-time": [
       "zapply-48419bcc0f80",
