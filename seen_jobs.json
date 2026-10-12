@@ -35175,10 +35175,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045178",
       "seen_at": "2026-10-12T14:01:26.536485+00:00"
+    },
+    {
+      "id": "zapply-8466d237523f",
+      "seen_at": "2026-10-12T14:31:16.396081+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04623",
+      "seen_at": "2026-10-12T14:31:16.396958+00:00"
+    },
+    {
+      "id": "zapply-d2a9009c07e5",
+      "seen_at": "2026-10-12T14:31:17.643354+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155033294",
+      "seen_at": "2026-10-12T14:31:17.644127+00:00"
     }
   ],
-  "last_run": "2026-10-12T14:01:26.906142+00:00",
-  "total_notified": 8964,
+  "last_run": "2026-10-12T14:31:17.851386+00:00",
+  "total_notified": 8966,
   "channels": {
     "pm-jobs": [
       "zapply-c48c90a1e6e8",
@@ -36505,7 +36521,9 @@
       "amazon-10575618",
       "url:https://www.amazon.jobs/en/jobs/10575618/product-manager-builder-tech-ring",
       "zapply-b1ada13f4463",
-      "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045178"
+      "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045178",
+      "zapply-d2a9009c07e5",
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155033294"
     ],
     "swe-ai-full-time": [
       "zapply-7a486d3e4feb",
@@ -43982,7 +44000,9 @@
       "jobright-8405756c6a6a",
       "url:https://jobright.ai/jobs/info/6accb9893c831dc4086bf1b9",
       "jobright-55077171799a",
-      "url:https://jobright.ai/jobs/info/6accb983e7a1d9333210e91a"
+      "url:https://jobright.ai/jobs/info/6accb983e7a1d9333210e91a",
+      "zapply-8466d237523f",
+      "url:https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04623"
     ]
   }
 }
