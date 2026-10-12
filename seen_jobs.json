@@ -35215,10 +35215,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6accdec3e7a1d9333210ed91",
       "seen_at": "2026-10-12T15:01:30.535200+00:00"
+    },
+    {
+      "id": "amazon-10575853",
+      "seen_at": "2026-10-12T15:31:11.980363+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10575853/software-engineer-sso-intelligence",
+      "seen_at": "2026-10-12T15:31:11.981027+00:00"
+    },
+    {
+      "id": "zapply-f3118f8891b0",
+      "seen_at": "2026-10-12T15:31:13.162957+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622205",
+      "seen_at": "2026-10-12T15:31:13.163613+00:00"
     }
   ],
-  "last_run": "2026-10-12T15:01:31.217159+00:00",
-  "total_notified": 8969,
+  "last_run": "2026-10-12T15:31:13.357402+00:00",
+  "total_notified": 8971,
   "channels": {
     "pm-jobs": [
       "zapply-c48c90a1e6e8",
@@ -36547,7 +36563,9 @@
       "zapply-b1ada13f4463",
       "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045178",
       "zapply-d2a9009c07e5",
-      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155033294"
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155033294",
+      "zapply-f3118f8891b0",
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622205"
     ],
     "swe-ai-full-time": [
       "zapply-7a486d3e4feb",
@@ -44032,7 +44050,9 @@
       "amazon-10575779",
       "url:https://www.amazon.jobs/en/jobs/10575779/applied-scientist-labs-scot-forecasting-and-labs",
       "jobright-f28be8193f4f",
-      "url:https://jobright.ai/jobs/info/6accdec3e7a1d9333210ed91"
+      "url:https://jobright.ai/jobs/info/6accdec3e7a1d9333210ed91",
+      "amazon-10575853",
+      "url:https://www.amazon.jobs/en/jobs/10575853/software-engineer-sso-intelligence"
     ]
   }
 }
