@@ -34967,10 +34967,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202609-123430",
       "seen_at": "2026-10-12T19:01:23.672350+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5450099008",
+      "seen_at": "2026-10-12T19:31:18.974766+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
+      "seen_at": "2026-10-12T19:31:18.975168+00:00"
+    },
+    {
+      "id": "amazon-10576272",
+      "seen_at": "2026-10-12T19:31:18.975519+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10576272/software-development-engineer-technology-enablement-services",
+      "seen_at": "2026-10-12T19:31:18.975827+00:00"
+    },
+    {
+      "id": "zapply-22b17ef91c9e",
+      "seen_at": "2026-10-12T19:31:20.538387+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230303",
+      "seen_at": "2026-10-12T19:31:20.538738+00:00"
     }
   ],
-  "last_run": "2026-10-12T19:01:23.985401+00:00",
-  "total_notified": 9006,
+  "last_run": "2026-10-12T19:31:21.084581+00:00",
+  "total_notified": 9009,
   "channels": {
     "pm-jobs": [
       "zapply-811c2f33ede0",
@@ -36287,7 +36311,9 @@
       "zapply-fb4c140b98d3",
       "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603465",
       "zapply-cac94bfd0d27",
-      "url:https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202609-123430"
+      "url:https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202609-123430",
+      "zapply-22b17ef91c9e",
+      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230303"
     ],
     "swe-ai-full-time": [
       "jobright-693a3137df88",
@@ -43722,7 +43748,11 @@
       "jobright-02c65f1a174e",
       "url:https://jobright.ai/jobs/info/6acd1039ddd23cce28a106f6",
       "jobright-413ca06fee62",
-      "url:https://jobright.ai/jobs/info/6acd1b20ddd23cce28a10a47"
+      "url:https://jobright.ai/jobs/info/6acd1b20ddd23cce28a10a47",
+      "greenhouse-anthropic-5450099008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
+      "amazon-10576272",
+      "url:https://www.amazon.jobs/en/jobs/10576272/software-development-engineer-technology-enablement-services"
     ]
   }
 }
