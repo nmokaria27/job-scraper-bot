@@ -35231,10 +35231,90 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622205",
       "seen_at": "2026-10-12T15:31:13.163613+00:00"
+    },
+    {
+      "id": "greenhouse-duolingo-8881612002",
+      "seen_at": "2026-10-12T16:01:20.751373+00:00"
+    },
+    {
+      "id": "url:https://careers.duolingo.com/jobs/8881612002",
+      "seen_at": "2026-10-12T16:01:20.752001+00:00"
+    },
+    {
+      "id": "zapply-62cc82ac8172",
+      "seen_at": "2026-10-12T16:01:20.752588+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20153",
+      "seen_at": "2026-10-12T16:01:20.753206+00:00"
+    },
+    {
+      "id": "zapply-5f9a6f723b52",
+      "seen_at": "2026-10-12T16:01:20.753780+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621769",
+      "seen_at": "2026-10-12T16:01:20.754325+00:00"
+    },
+    {
+      "id": "jobright-84c16fd932c8",
+      "seen_at": "2026-10-12T16:01:20.754897+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6accf1bed113c967e3c7b469",
+      "seen_at": "2026-10-12T16:01:20.755437+00:00"
+    },
+    {
+      "id": "jobright-37a5993812e8",
+      "seen_at": "2026-10-12T16:01:20.756002+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5c6f864da96a42cfd9c8e8",
+      "seen_at": "2026-10-12T16:01:20.756533+00:00"
+    },
+    {
+      "id": "jobright-64e72fe2b623",
+      "seen_at": "2026-10-12T16:01:20.757097+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a4ffe7e1544d7246c0d73f9",
+      "seen_at": "2026-10-12T16:01:20.757630+00:00"
+    },
+    {
+      "id": "jobright-a1d286a4db6d",
+      "seen_at": "2026-10-12T16:01:20.758186+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a16011fdc845f4be5bdb776",
+      "seen_at": "2026-10-12T16:01:20.758717+00:00"
+    },
+    {
+      "id": "jobright-0449e1026019",
+      "seen_at": "2026-10-12T16:01:20.759293+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acce2e4d113c967e3c7b109",
+      "seen_at": "2026-10-12T16:01:20.759845+00:00"
+    },
+    {
+      "id": "jobright-0a688299d2e6",
+      "seen_at": "2026-10-12T16:01:20.760401+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6accdf04d113c967e3c7af6d",
+      "seen_at": "2026-10-12T16:01:20.760945+00:00"
+    },
+    {
+      "id": "jobright-cdfce3979599",
+      "seen_at": "2026-10-12T16:01:20.761566+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6accdf4e3c831dc4086bf687",
+      "seen_at": "2026-10-12T16:01:20.762129+00:00"
     }
   ],
-  "last_run": "2026-10-12T15:31:13.357402+00:00",
-  "total_notified": 8971,
+  "last_run": "2026-10-12T16:01:21.597617+00:00",
+  "total_notified": 8981,
   "channels": {
     "pm-jobs": [
       "zapply-c48c90a1e6e8",
@@ -44052,7 +44132,27 @@
       "jobright-f28be8193f4f",
       "url:https://jobright.ai/jobs/info/6accdec3e7a1d9333210ed91",
       "amazon-10575853",
-      "url:https://www.amazon.jobs/en/jobs/10575853/software-engineer-sso-intelligence"
+      "url:https://www.amazon.jobs/en/jobs/10575853/software-engineer-sso-intelligence",
+      "greenhouse-duolingo-8881612002",
+      "url:https://careers.duolingo.com/jobs/8881612002",
+      "zapply-62cc82ac8172",
+      "url:https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20153",
+      "zapply-5f9a6f723b52",
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621769",
+      "jobright-84c16fd932c8",
+      "url:https://jobright.ai/jobs/info/6accf1bed113c967e3c7b469",
+      "jobright-37a5993812e8",
+      "url:https://jobright.ai/jobs/info/6a5c6f864da96a42cfd9c8e8",
+      "jobright-64e72fe2b623",
+      "url:https://jobright.ai/jobs/info/6a4ffe7e1544d7246c0d73f9",
+      "jobright-a1d286a4db6d",
+      "url:https://jobright.ai/jobs/info/6a16011fdc845f4be5bdb776",
+      "jobright-0449e1026019",
+      "url:https://jobright.ai/jobs/info/6acce2e4d113c967e3c7b109",
+      "jobright-0a688299d2e6",
+      "url:https://jobright.ai/jobs/info/6accdf04d113c967e3c7af6d",
+      "jobright-cdfce3979599",
+      "url:https://jobright.ai/jobs/info/6accdf4e3c831dc4086bf687"
     ]
   }
 }
