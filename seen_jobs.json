@@ -35071,10 +35071,82 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10576475/software-development-engineer-sable",
       "seen_at": "2026-10-12T22:31:16.192439+00:00"
+    },
+    {
+      "id": "simplify-b2923a29-715c-4b61-b190-c00f11a10529",
+      "seen_at": "2026-10-12T23:01:16.362013+00:00"
+    },
+    {
+      "id": "url:https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087",
+      "seen_at": "2026-10-12T23:01:16.362504+00:00"
+    },
+    {
+      "id": "simplify-bc3e53cc-9c7a-49fa-afa7-8bede1da1df5",
+      "seen_at": "2026-10-12T23:01:16.362916+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/AbbVie/3743990016054796",
+      "seen_at": "2026-10-12T23:01:16.363321+00:00"
+    },
+    {
+      "id": "lever-zoox-2347453a-f11f-4dc2-ad14-572bc1f6247f",
+      "seen_at": "2026-10-12T23:01:16.363724+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
+      "seen_at": "2026-10-12T23:01:16.364092+00:00"
+    },
+    {
+      "id": "simplify-c5f0ccae-5750-4c3e-9954-d45d8150a0a2",
+      "seen_at": "2026-10-12T23:01:16.364480+00:00"
+    },
+    {
+      "id": "url:https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121427",
+      "seen_at": "2026-10-12T23:01:16.364835+00:00"
+    },
+    {
+      "id": "jobright-60d0a8cacc9f",
+      "seen_at": "2026-10-12T23:01:16.365194+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd52623c831dc4086c1bc8",
+      "seen_at": "2026-10-12T23:01:16.365558+00:00"
+    },
+    {
+      "id": "jobright-53ddd3aee28f",
+      "seen_at": "2026-10-12T23:01:16.365926+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd51f2e7a1d93332111319",
+      "seen_at": "2026-10-12T23:01:16.366306+00:00"
+    },
+    {
+      "id": "jobright-c99181bb16e4",
+      "seen_at": "2026-10-12T23:01:16.366678+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd4d283c831dc4086c1a6e",
+      "seen_at": "2026-10-12T23:01:16.367029+00:00"
+    },
+    {
+      "id": "jobright-6a6072718b39",
+      "seen_at": "2026-10-12T23:01:16.367395+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd4880d113c967e3c7d1b3",
+      "seen_at": "2026-10-12T23:01:16.367734+00:00"
+    },
+    {
+      "id": "ashby-snowflake-34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
+      "seen_at": "2026-10-12T23:01:17.896534+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/snowflake/34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
+      "seen_at": "2026-10-12T23:01:17.896942+00:00"
     }
   ],
-  "last_run": "2026-10-12T22:31:17.208677+00:00",
-  "total_notified": 9028,
+  "last_run": "2026-10-12T23:01:18.091656+00:00",
+  "total_notified": 9037,
   "channels": {
     "pm-jobs": [
       "zapply-b23192a9c055",
@@ -36395,7 +36467,9 @@
       "zapply-7060a2a1899d",
       "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155106187",
       "zapply-836e714a376b",
-      "url:https://zapply.jobs/l/d/oracle-cummins-2438046"
+      "url:https://zapply.jobs/l/d/oracle-cummins-2438046",
+      "ashby-snowflake-34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
+      "url:https://jobs.ashbyhq.com/snowflake/34f83a57-280d-4ee6-9f99-bcc06d8ab4ea"
     ],
     "swe-ai-full-time": [
       "zapply-fdec14639bba",
@@ -43852,7 +43926,23 @@
       "zapply-c06d30fc0036",
       "url:https://zapply.jobs/l/d/sr-AbbVie-3743990016070676",
       "amazon-10576475",
-      "url:https://www.amazon.jobs/en/jobs/10576475/software-development-engineer-sable"
+      "url:https://www.amazon.jobs/en/jobs/10576475/software-development-engineer-sable",
+      "simplify-b2923a29-715c-4b61-b190-c00f11a10529",
+      "url:https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087",
+      "simplify-bc3e53cc-9c7a-49fa-afa7-8bede1da1df5",
+      "url:https://jobs.smartrecruiters.com/AbbVie/3743990016054796",
+      "lever-zoox-2347453a-f11f-4dc2-ad14-572bc1f6247f",
+      "url:https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
+      "simplify-c5f0ccae-5750-4c3e-9954-d45d8150a0a2",
+      "url:https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121427",
+      "jobright-60d0a8cacc9f",
+      "url:https://jobright.ai/jobs/info/6acd52623c831dc4086c1bc8",
+      "jobright-53ddd3aee28f",
+      "url:https://jobright.ai/jobs/info/6acd51f2e7a1d93332111319",
+      "jobright-c99181bb16e4",
+      "url:https://jobright.ai/jobs/info/6acd4d283c831dc4086c1a6e",
+      "jobright-6a6072718b39",
+      "url:https://jobright.ai/jobs/info/6acd4880d113c967e3c7d1b3"
     ]
   }
 }
