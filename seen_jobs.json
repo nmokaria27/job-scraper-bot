@@ -35255,10 +35255,82 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10577327/software-development-engineer-fintech-entity-data-service",
       "seen_at": "2026-10-13T17:34:13.698686+00:00"
+    },
+    {
+      "id": "greenhouse-doordashusa-8161616",
+      "seen_at": "2026-10-13T18:01:26.390332+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/doordashusa/jobs/8161616",
+      "seen_at": "2026-10-13T18:01:26.390952+00:00"
+    },
+    {
+      "id": "jobright-652e623268cb",
+      "seen_at": "2026-10-13T18:01:26.391522+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ace5d05680c80c8753bc37e",
+      "seen_at": "2026-10-13T18:01:26.392066+00:00"
+    },
+    {
+      "id": "jobright-122179ccd86c",
+      "seen_at": "2026-10-13T18:01:26.392592+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a95e03ecabc9f6703e1a824",
+      "seen_at": "2026-10-13T18:01:26.393112+00:00"
+    },
+    {
+      "id": "jobright-353a87ad2eb7",
+      "seen_at": "2026-10-13T18:01:26.393603+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5c6f854da96a42cfd9c8e6",
+      "seen_at": "2026-10-13T18:01:26.394114+00:00"
+    },
+    {
+      "id": "jobright-252bf74fe3cb",
+      "seen_at": "2026-10-13T18:01:26.394609+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a950e331e67aa542830d8a9",
+      "seen_at": "2026-10-13T18:01:26.395098+00:00"
+    },
+    {
+      "id": "jobright-ed82aba5605e",
+      "seen_at": "2026-10-13T18:01:26.395592+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0ada69a203b1052e44f414",
+      "seen_at": "2026-10-13T18:01:26.396061+00:00"
+    },
+    {
+      "id": "jobright-720a39500c63",
+      "seen_at": "2026-10-13T18:01:26.396531+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a95fbc4cabc9f6703e1b604",
+      "seen_at": "2026-10-13T18:01:26.396995+00:00"
+    },
+    {
+      "id": "zapply-c5d488c1994b",
+      "seen_at": "2026-10-13T18:01:28.218515+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-formlabs-8279127",
+      "seen_at": "2026-10-13T18:01:28.219051+00:00"
+    },
+    {
+      "id": "jobright-14792a9d8731",
+      "seen_at": "2026-10-13T18:01:28.219543+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ace59ab680c80c8753bc256",
+      "seen_at": "2026-10-13T18:01:28.220016+00:00"
     }
   ],
-  "last_run": "2026-10-13T17:34:14.832986+00:00",
-  "total_notified": 9098,
+  "last_run": "2026-10-13T18:01:28.527422+00:00",
+  "total_notified": 9107,
   "channels": {
     "pm-jobs": [
       "jobright-437c0080fd47",
@@ -36571,7 +36643,11 @@
       "zapply-1656d4dccc79",
       "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3156460",
       "workday-capitalone-R999403",
-      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Card-Integrations_R999403-1"
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Card-Integrations_R999403-1",
+      "zapply-c5d488c1994b",
+      "url:https://zapply.jobs/l/d/greenhouse-formlabs-8279127",
+      "jobright-14792a9d8731",
+      "url:https://jobright.ai/jobs/info/6ace59ab680c80c8753bc256"
     ],
     "swe-ai-full-time": [
       "zapply-81bff4ba7a19",
@@ -44082,7 +44158,21 @@
       "zapply-07a85d0bedb1",
       "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621474",
       "amazon-10577327",
-      "url:https://www.amazon.jobs/en/jobs/10577327/software-development-engineer-fintech-entity-data-service"
+      "url:https://www.amazon.jobs/en/jobs/10577327/software-development-engineer-fintech-entity-data-service",
+      "greenhouse-doordashusa-8161616",
+      "url:https://job-boards.greenhouse.io/doordashusa/jobs/8161616",
+      "jobright-652e623268cb",
+      "url:https://jobright.ai/jobs/info/6ace5d05680c80c8753bc37e",
+      "jobright-122179ccd86c",
+      "url:https://jobright.ai/jobs/info/6a95e03ecabc9f6703e1a824",
+      "jobright-353a87ad2eb7",
+      "url:https://jobright.ai/jobs/info/6a5c6f854da96a42cfd9c8e6",
+      "jobright-252bf74fe3cb",
+      "url:https://jobright.ai/jobs/info/6a950e331e67aa542830d8a9",
+      "jobright-ed82aba5605e",
+      "url:https://jobright.ai/jobs/info/6a0ada69a203b1052e44f414",
+      "jobright-720a39500c63",
+      "url:https://jobright.ai/jobs/info/6a95fbc4cabc9f6703e1b604"
     ]
   }
 }
