@@ -35415,10 +35415,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ace620fbb78de94580d5c77",
       "seen_at": "2026-10-13T19:01:40.960125+00:00"
+    },
+    {
+      "id": "zapply-7f8041a83d3f",
+      "seen_at": "2026-10-13T19:31:23.449957+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-baxter-baxter-JR-210052",
+      "seen_at": "2026-10-13T19:31:23.450715+00:00"
+    },
+    {
+      "id": "amazon-10577668",
+      "seen_at": "2026-10-13T19:31:23.451306+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10577668/software-development-engineer-luna-devx",
+      "seen_at": "2026-10-13T19:31:23.451860+00:00"
+    },
+    {
+      "id": "amazon-10576179",
+      "seen_at": "2026-10-13T19:31:23.452439+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10576179/software-development-engineer-customer-experience-and-business-trends",
+      "seen_at": "2026-10-13T19:31:23.452989+00:00"
+    },
+    {
+      "id": "zapply-dbac89e2fead",
+      "seen_at": "2026-10-13T19:31:25.320214+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799629",
+      "seen_at": "2026-10-13T19:31:25.320846+00:00"
     }
   ],
-  "last_run": "2026-10-13T19:01:41.491582+00:00",
-  "total_notified": 9118,
+  "last_run": "2026-10-13T19:31:25.665133+00:00",
+  "total_notified": 9122,
   "channels": {
     "pm-jobs": [
       "jobright-437c0080fd47",
@@ -36739,7 +36771,9 @@
       "jobright-70791493aea4",
       "url:https://jobright.ai/jobs/info/6ace6f1d4391691a335ac801",
       "jobright-e559a9b70571",
-      "url:https://jobright.ai/jobs/info/6ace620fbb78de94580d5c77"
+      "url:https://jobright.ai/jobs/info/6ace620fbb78de94580d5c77",
+      "zapply-dbac89e2fead",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799629"
     ],
     "swe-ai-full-time": [
       "zapply-81bff4ba7a19",
@@ -44282,7 +44316,13 @@
       "amazon-10577588",
       "url:https://www.amazon.jobs/en/jobs/10577588/applied-scientist-aws-applied-ai-solutions-life-sciences",
       "jobright-43fd3c07dd5e",
-      "url:https://jobright.ai/jobs/info/6ace62a0680c80c8753bc632"
+      "url:https://jobright.ai/jobs/info/6ace62a0680c80c8753bc632",
+      "zapply-7f8041a83d3f",
+      "url:https://zapply.jobs/l/d/workday-baxter-baxter-JR-210052",
+      "amazon-10577668",
+      "url:https://www.amazon.jobs/en/jobs/10577668/software-development-engineer-luna-devx",
+      "amazon-10576179",
+      "url:https://www.amazon.jobs/en/jobs/10576179/software-development-engineer-customer-experience-and-business-trends"
     ]
   }
 }
