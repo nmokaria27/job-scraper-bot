@@ -35095,10 +35095,34 @@
     {
       "id": "url:https://lifeattiktok.com/search/7695927144126253317",
       "seen_at": "2026-10-13T02:31:12.898649+00:00"
+    },
+    {
+      "id": "jobright-f474e4f35383",
+      "seen_at": "2026-10-13T03:01:20.331212+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a960ae23843db01599092de",
+      "seen_at": "2026-10-13T03:01:20.331959+00:00"
+    },
+    {
+      "id": "jobright-b7c6465e0198",
+      "seen_at": "2026-10-13T03:01:20.332533+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abb10603db4ca81fc7c5b41",
+      "seen_at": "2026-10-13T03:01:20.333072+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2027364",
+      "seen_at": "2026-10-13T03:01:21.837036+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Developer-Experience_JR2027364",
+      "seen_at": "2026-10-13T03:01:21.837676+00:00"
     }
   ],
-  "last_run": "2026-10-13T02:31:14.060703+00:00",
-  "total_notified": 9049,
+  "last_run": "2026-10-13T03:01:22.145733+00:00",
+  "total_notified": 9052,
   "channels": {
     "pm-jobs": [
       "zapply-c179bc31bd94",
@@ -36405,7 +36429,9 @@
       "zapply-836e714a376b",
       "url:https://zapply.jobs/l/d/oracle-cummins-2438046",
       "ashby-snowflake-34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
-      "url:https://jobs.ashbyhq.com/snowflake/34f83a57-280d-4ee6-9f99-bcc06d8ab4ea"
+      "url:https://jobs.ashbyhq.com/snowflake/34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
+      "workday-nvidia-JR2027364",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Developer-Experience_JR2027364"
     ],
     "swe-ai-full-time": [
       "zapply-c30099722a90",
@@ -43882,7 +43908,11 @@
       "simplify-22b439fe-1f57-4be3-b47f-046920ffad7a",
       "url:https://lifeattiktok.com/search/7695929967028750645",
       "simplify-c44348ab-171d-4478-a512-7114f6e00ca0",
-      "url:https://lifeattiktok.com/search/7695927144126253317"
+      "url:https://lifeattiktok.com/search/7695927144126253317",
+      "jobright-f474e4f35383",
+      "url:https://jobright.ai/jobs/info/6a960ae23843db01599092de",
+      "jobright-b7c6465e0198",
+      "url:https://jobright.ai/jobs/info/6abb10603db4ca81fc7c5b41"
     ]
   }
 }
