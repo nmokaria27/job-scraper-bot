@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-73181d6e73ca",
-      "seen_at": "2026-09-13T00:55:10.393994+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68",
-      "seen_at": "2026-09-13T00:55:10.394706+00:00"
-    },
-    {
-      "id": "jobright-e2c4990ac19a",
-      "seen_at": "2026-09-13T00:55:10.395342+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576",
-      "seen_at": "2026-09-13T00:55:10.395929+00:00"
-    },
-    {
-      "id": "jobright-e2bcb18e04b3",
-      "seen_at": "2026-09-13T00:55:10.396523+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5908d5c8e3a473cb8a4916",
-      "seen_at": "2026-09-13T00:55:10.397077+00:00"
-    },
-    {
       "id": "zapply-c179bc31bd94",
       "seen_at": "2026-09-13T14:17:54.558529+00:00"
     },
@@ -35079,18 +35055,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6acd5c5fa56e5406e57c10d0",
       "seen_at": "2026-10-13T00:01:26.892990+00:00"
+    },
+    {
+      "id": "jobright-aa0440a22bfb",
+      "seen_at": "2026-10-13T01:01:16.042518+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd5f82a56e5406e57c1184",
+      "seen_at": "2026-10-13T01:01:16.043147+00:00"
+    },
+    {
+      "id": "jobright-9929a0336a01",
+      "seen_at": "2026-10-13T01:01:16.043728+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd5f0c002e496d4bef209a",
+      "seen_at": "2026-10-13T01:01:16.044237+00:00"
     }
   ],
-  "last_run": "2026-10-13T00:31:19.168648+00:00",
-  "total_notified": 9044,
+  "last_run": "2026-10-13T01:01:17.027753+00:00",
+  "total_notified": 9046,
   "channels": {
     "pm-jobs": [
-      "jobright-73181d6e73ca",
-      "url:https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68",
-      "jobright-e2c4990ac19a",
-      "url:https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576",
-      "jobright-e2bcb18e04b3",
-      "url:https://jobright.ai/jobs/info/6a5908d5c8e3a473cb8a4916",
       "zapply-c179bc31bd94",
       "url:https://zapply.jobs/l/d/lever-matchgroup-af478895-db01-4dbe-b394-54d58201b082",
       "jobright-82e7a6cc0d22",
@@ -43862,7 +43848,11 @@
       "greenhouse-gleanwork-4742953005",
       "url:https://job-boards.greenhouse.io/gleanwork/jobs/4742953005",
       "jobright-bc549f42f0a1",
-      "url:https://jobright.ai/jobs/info/6acd5c5fa56e5406e57c10d0"
+      "url:https://jobright.ai/jobs/info/6acd5c5fa56e5406e57c10d0",
+      "jobright-aa0440a22bfb",
+      "url:https://jobright.ai/jobs/info/6acd5f82a56e5406e57c1184",
+      "jobright-9929a0336a01",
+      "url:https://jobright.ai/jobs/info/6acd5f0c002e496d4bef209a"
     ]
   }
 }
