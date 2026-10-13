@@ -35071,10 +35071,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6acd5f0c002e496d4bef209a",
       "seen_at": "2026-10-13T01:01:16.044237+00:00"
+    },
+    {
+      "id": "simplify-c922394e-fefa-48bc-88e6-16e52ab6de44",
+      "seen_at": "2026-10-13T01:59:45.847011+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62/application",
+      "seen_at": "2026-10-13T01:59:45.847656+00:00"
+    },
+    {
+      "id": "simplify-22b439fe-1f57-4be3-b47f-046920ffad7a",
+      "seen_at": "2026-10-13T01:59:45.848249+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7695929967028750645",
+      "seen_at": "2026-10-13T01:59:45.848790+00:00"
     }
   ],
-  "last_run": "2026-10-13T01:31:10.063984+00:00",
-  "total_notified": 9046,
+  "last_run": "2026-10-13T01:59:46.709816+00:00",
+  "total_notified": 9048,
   "channels": {
     "pm-jobs": [
       "zapply-c179bc31bd94",
@@ -43852,7 +43868,11 @@
       "jobright-aa0440a22bfb",
       "url:https://jobright.ai/jobs/info/6acd5f82a56e5406e57c1184",
       "jobright-9929a0336a01",
-      "url:https://jobright.ai/jobs/info/6acd5f0c002e496d4bef209a"
+      "url:https://jobright.ai/jobs/info/6acd5f0c002e496d4bef209a",
+      "simplify-c922394e-fefa-48bc-88e6-16e52ab6de44",
+      "url:https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62/application",
+      "simplify-22b439fe-1f57-4be3-b47f-046920ffad7a",
+      "url:https://lifeattiktok.com/search/7695929967028750645"
     ]
   }
 }
