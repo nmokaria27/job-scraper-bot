@@ -35327,10 +35327,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ace59ab680c80c8753bc256",
       "seen_at": "2026-10-13T18:01:28.220016+00:00"
+    },
+    {
+      "id": "greenhouse-doordashusa-8141072",
+      "seen_at": "2026-10-13T18:31:25.812637+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/doordashusa/jobs/8141072",
+      "seen_at": "2026-10-13T18:31:25.813272+00:00"
+    },
+    {
+      "id": "amazon-10577556",
+      "seen_at": "2026-10-13T18:31:25.813843+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10577556/software-development-engineer-bigmesh-traffic-engineering",
+      "seen_at": "2026-10-13T18:31:25.814357+00:00"
     }
   ],
-  "last_run": "2026-10-13T18:01:28.527422+00:00",
-  "total_notified": 9107,
+  "last_run": "2026-10-13T18:31:26.999283+00:00",
+  "total_notified": 9109,
   "channels": {
     "pm-jobs": [
       "jobright-437c0080fd47",
@@ -44172,7 +44188,11 @@
       "jobright-ed82aba5605e",
       "url:https://jobright.ai/jobs/info/6a0ada69a203b1052e44f414",
       "jobright-720a39500c63",
-      "url:https://jobright.ai/jobs/info/6a95fbc4cabc9f6703e1b604"
+      "url:https://jobright.ai/jobs/info/6a95fbc4cabc9f6703e1b604",
+      "greenhouse-doordashusa-8141072",
+      "url:https://job-boards.greenhouse.io/doordashusa/jobs/8141072",
+      "amazon-10577556",
+      "url:https://www.amazon.jobs/en/jobs/10577556/software-development-engineer-bigmesh-traffic-engineering"
     ]
   }
 }
