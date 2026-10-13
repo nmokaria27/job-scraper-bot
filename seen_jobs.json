@@ -35231,10 +35231,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622283",
       "seen_at": "2026-10-13T13:01:31.589567+00:00"
+    },
+    {
+      "id": "jobright-b6b580fbd344",
+      "seen_at": "2026-10-13T14:01:22.310154+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a95fac09fcec54423730908",
+      "seen_at": "2026-10-13T14:01:22.310892+00:00"
+    },
+    {
+      "id": "jobright-ec8eeebd6102",
+      "seen_at": "2026-10-13T14:01:22.311548+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ace22944f3229123da3a827",
+      "seen_at": "2026-10-13T14:01:22.312173+00:00"
+    },
+    {
+      "id": "jobright-ee6001aa39b9",
+      "seen_at": "2026-10-13T14:01:22.312805+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd9380002e496d4bef2be7",
+      "seen_at": "2026-10-13T14:01:22.313417+00:00"
+    },
+    {
+      "id": "zapply-b982329ce3e3",
+      "seen_at": "2026-10-13T14:01:24.776598+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-557433",
+      "seen_at": "2026-10-13T14:01:24.777202+00:00"
+    },
+    {
+      "id": "workday-capitalone-R1002921",
+      "seen_at": "2026-10-13T14:01:24.777734+00:00"
+    },
+    {
+      "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Partnerships_R1002921-1",
+      "seen_at": "2026-10-13T14:01:24.778252+00:00"
     }
   ],
-  "last_run": "2026-10-13T13:31:21.010933+00:00",
-  "total_notified": 9066,
+  "last_run": "2026-10-13T14:01:25.275085+00:00",
+  "total_notified": 9071,
   "channels": {
     "pm-jobs": [
       "zapply-c179bc31bd94",
@@ -36545,7 +36585,11 @@
       "workday-nvidia-JR2027364",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Developer-Experience_JR2027364",
       "zapply-f7c0d8b3b0e4",
-      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622283"
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622283",
+      "zapply-b982329ce3e3",
+      "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-557433",
+      "workday-capitalone-R1002921",
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Partnerships_R1002921-1"
     ],
     "swe-ai-full-time": [
       "zapply-c30099722a90",
@@ -44052,7 +44096,13 @@
       "jobright-355f998b28b2",
       "url:https://jobright.ai/jobs/info/6a83c46c9b859b2277670aa6",
       "jobright-72836788d96a",
-      "url:https://jobright.ai/jobs/info/6acdbbd409635d4ede00ac6f"
+      "url:https://jobright.ai/jobs/info/6acdbbd409635d4ede00ac6f",
+      "jobright-b6b580fbd344",
+      "url:https://jobright.ai/jobs/info/6a95fac09fcec54423730908",
+      "jobright-ec8eeebd6102",
+      "url:https://jobright.ai/jobs/info/6ace22944f3229123da3a827",
+      "jobright-ee6001aa39b9",
+      "url:https://jobright.ai/jobs/info/6acd9380002e496d4bef2be7"
     ]
   }
 }
