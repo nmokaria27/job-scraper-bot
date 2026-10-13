@@ -1,158 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-c179bc31bd94",
-      "seen_at": "2026-09-13T14:17:54.558529+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/lever-matchgroup-af478895-db01-4dbe-b394-54d58201b082",
-      "seen_at": "2026-09-13T14:17:54.559268+00:00"
-    },
-    {
-      "id": "jobright-82e7a6cc0d22",
-      "seen_at": "2026-09-13T14:17:54.559916+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa54ea882e82a31997bd310",
-      "seen_at": "2026-09-13T14:17:54.560572+00:00"
-    },
-    {
-      "id": "jobright-c18c31fabb46",
-      "seen_at": "2026-09-13T14:17:54.561252+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a6921fa5d01972698ee69d4",
-      "seen_at": "2026-09-13T14:17:54.561886+00:00"
-    },
-    {
-      "id": "zapply-c30099722a90",
-      "seen_at": "2026-09-13T14:18:08.910299+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866674",
-      "seen_at": "2026-09-13T14:18:08.911111+00:00"
-    },
-    {
-      "id": "zapply-7d64929009f1",
-      "seen_at": "2026-09-13T14:18:08.911805+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866673",
-      "seen_at": "2026-09-13T14:18:08.912513+00:00"
-    },
-    {
-      "id": "zapply-5538a9ed804d",
-      "seen_at": "2026-09-13T14:18:08.913202+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023841",
-      "seen_at": "2026-09-13T14:18:08.913871+00:00"
-    },
-    {
-      "id": "zapply-40199d9cdbb5",
-      "seen_at": "2026-09-13T14:18:08.914568+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/lever-MachinaLabs-f3bb50fc-2e20-4823-b389-7f448af90e3a",
-      "seen_at": "2026-09-13T14:18:08.915246+00:00"
-    },
-    {
-      "id": "zapply-e0e9e3db42af",
-      "seen_at": "2026-09-13T14:18:08.915913+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-deepgram-378e83b4-28c0-4b4e-8cf0-9355712bd06d",
-      "seen_at": "2026-09-13T14:18:08.916588+00:00"
-    },
-    {
-      "id": "zapply-ac2d01af269b",
-      "seen_at": "2026-09-13T14:18:08.917264+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-deepgram-7ced4c1f-4126-44fe-9cf1-da427a9e4e3e",
-      "seen_at": "2026-09-13T14:18:08.917927+00:00"
-    },
-    {
-      "id": "zapply-ab1f1a39e68e",
-      "seen_at": "2026-09-13T14:18:08.918622+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/lever-palantir-38758e88-5884-4a11-98ac-d23cab51bc7a",
-      "seen_at": "2026-09-13T14:18:08.919302+00:00"
-    },
-    {
-      "id": "zapply-4e9bcc7a5dc3",
-      "seen_at": "2026-09-13T14:18:08.919983+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/lever-palantir-5174e95b-2e0a-46f8-8db7-e2c837a0ac94",
-      "seen_at": "2026-09-13T14:18:08.920647+00:00"
-    },
-    {
-      "id": "simplify-8a02cc33-4d2c-40f2-bf82-81861d00b429",
-      "seen_at": "2026-09-13T14:18:08.921344+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/kitware/dbaac56b-26b2-43b9-8ae3-354b6662ea89/apply",
-      "seen_at": "2026-09-13T14:18:08.922067+00:00"
-    },
-    {
-      "id": "jobright-909d70081d42",
-      "seen_at": "2026-09-13T14:18:08.922768+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa68c55654b2a9424cf7eaa",
-      "seen_at": "2026-09-13T14:18:08.923455+00:00"
-    },
-    {
-      "id": "jobright-7be0d5e0780a",
-      "seen_at": "2026-09-13T14:18:08.924166+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa682892ed333b4ea5ca4bf",
-      "seen_at": "2026-09-13T14:18:08.924837+00:00"
-    },
-    {
-      "id": "jobright-06b4fc445acd",
-      "seen_at": "2026-09-13T14:18:08.925532+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a3f83b8651404064c02ad77",
-      "seen_at": "2026-09-13T14:18:08.926214+00:00"
-    },
-    {
-      "id": "jobright-11cb15a98d28",
-      "seen_at": "2026-09-13T14:18:08.926893+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a04154b22395b6dc6d9a4cc",
-      "seen_at": "2026-09-13T14:18:08.927573+00:00"
-    },
-    {
-      "id": "jobright-097fad1ef84e",
-      "seen_at": "2026-09-13T14:18:08.928277+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa62f24654b2a9424cf7829",
-      "seen_at": "2026-09-13T14:18:08.928964+00:00"
-    },
-    {
-      "id": "jobright-d81bd5dd01fb",
-      "seen_at": "2026-09-13T14:18:08.929643+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa62cb542411952ff9abc86",
-      "seen_at": "2026-09-13T14:18:08.930326+00:00"
-    },
-    {
-      "id": "jobright-5aa9362b3281",
-      "seen_at": "2026-09-13T14:18:08.931042+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa5400382e82a31997bcf30",
-      "seen_at": "2026-09-13T14:18:08.931722+00:00"
-    },
-    {
       "id": "zapply-944530844d23",
       "seen_at": "2026-09-13T17:28:15.697501+00:00"
     },
@@ -35271,18 +35119,20 @@
     {
       "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Partnerships_R1002921-1",
       "seen_at": "2026-10-13T14:01:24.778252+00:00"
+    },
+    {
+      "id": "ashby-elevenlabs-0547cf3a-856f-4db2-8307-73db634c4096",
+      "seen_at": "2026-10-13T14:31:17.821062+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096",
+      "seen_at": "2026-10-13T14:31:17.821794+00:00"
     }
   ],
-  "last_run": "2026-10-13T14:01:25.275085+00:00",
-  "total_notified": 9071,
+  "last_run": "2026-10-13T14:31:18.655871+00:00",
+  "total_notified": 9072,
   "channels": {
     "pm-jobs": [
-      "zapply-c179bc31bd94",
-      "url:https://zapply.jobs/l/d/lever-matchgroup-af478895-db01-4dbe-b394-54d58201b082",
-      "jobright-82e7a6cc0d22",
-      "url:https://jobright.ai/jobs/info/6aa54ea882e82a31997bd310",
-      "jobright-c18c31fabb46",
-      "url:https://jobright.ai/jobs/info/6a6921fa5d01972698ee69d4",
       "jobright-437c0080fd47",
       "url:https://jobright.ai/jobs/info/6a9c9340dacf777321a8e7b8",
       "zapply-5b001977ec73",
@@ -36592,38 +36442,6 @@
       "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Partnerships_R1002921-1"
     ],
     "swe-ai-full-time": [
-      "zapply-c30099722a90",
-      "url:https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866674",
-      "zapply-7d64929009f1",
-      "url:https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866673",
-      "zapply-5538a9ed804d",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023841",
-      "zapply-40199d9cdbb5",
-      "url:https://zapply.jobs/l/d/lever-MachinaLabs-f3bb50fc-2e20-4823-b389-7f448af90e3a",
-      "zapply-e0e9e3db42af",
-      "url:https://zapply.jobs/l/d/ashby-deepgram-378e83b4-28c0-4b4e-8cf0-9355712bd06d",
-      "zapply-ac2d01af269b",
-      "url:https://zapply.jobs/l/d/ashby-deepgram-7ced4c1f-4126-44fe-9cf1-da427a9e4e3e",
-      "zapply-ab1f1a39e68e",
-      "url:https://zapply.jobs/l/d/lever-palantir-38758e88-5884-4a11-98ac-d23cab51bc7a",
-      "zapply-4e9bcc7a5dc3",
-      "url:https://zapply.jobs/l/d/lever-palantir-5174e95b-2e0a-46f8-8db7-e2c837a0ac94",
-      "simplify-8a02cc33-4d2c-40f2-bf82-81861d00b429",
-      "url:https://jobs.lever.co/kitware/dbaac56b-26b2-43b9-8ae3-354b6662ea89/apply",
-      "jobright-909d70081d42",
-      "url:https://jobright.ai/jobs/info/6aa68c55654b2a9424cf7eaa",
-      "jobright-7be0d5e0780a",
-      "url:https://jobright.ai/jobs/info/6aa682892ed333b4ea5ca4bf",
-      "jobright-06b4fc445acd",
-      "url:https://jobright.ai/jobs/info/6a3f83b8651404064c02ad77",
-      "jobright-11cb15a98d28",
-      "url:https://jobright.ai/jobs/info/6a04154b22395b6dc6d9a4cc",
-      "jobright-097fad1ef84e",
-      "url:https://jobright.ai/jobs/info/6aa62f24654b2a9424cf7829",
-      "jobright-d81bd5dd01fb",
-      "url:https://jobright.ai/jobs/info/6aa62cb542411952ff9abc86",
-      "jobright-5aa9362b3281",
-      "url:https://jobright.ai/jobs/info/6aa5400382e82a31997bcf30",
       "zapply-944530844d23",
       "url:https://zapply.jobs/l/d/sr-WesternDigital-744000136547759",
       "zapply-ef633991cc4b",
@@ -44102,7 +43920,9 @@
       "jobright-ec8eeebd6102",
       "url:https://jobright.ai/jobs/info/6ace22944f3229123da3a827",
       "jobright-ee6001aa39b9",
-      "url:https://jobright.ai/jobs/info/6acd9380002e496d4bef2be7"
+      "url:https://jobright.ai/jobs/info/6acd9380002e496d4bef2be7",
+      "ashby-elevenlabs-0547cf3a-856f-4db2-8307-73db634c4096",
+      "url:https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096"
     ]
   }
 }
