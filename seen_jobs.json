@@ -1,86 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-944530844d23",
-      "seen_at": "2026-09-13T17:28:15.697501+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-WesternDigital-744000136547759",
-      "seen_at": "2026-09-13T17:28:15.698158+00:00"
-    },
-    {
-      "id": "zapply-ef633991cc4b",
-      "seen_at": "2026-09-13T17:28:15.698728+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023965",
-      "seen_at": "2026-09-13T17:28:15.699258+00:00"
-    },
-    {
-      "id": "zapply-10b8ba69d4c7",
-      "seen_at": "2026-09-13T17:28:15.699767+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-persona.ai-db6d05fe-f579-413a-b64f-e68c560871e2",
-      "seen_at": "2026-09-13T17:28:15.700249+00:00"
-    },
-    {
-      "id": "zapply-f02908c65ed1",
-      "seen_at": "2026-09-13T17:28:15.700740+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd",
-      "seen_at": "2026-09-13T17:28:15.701220+00:00"
-    },
-    {
-      "id": "zapply-fa365d702aa1",
-      "seen_at": "2026-09-13T17:28:15.701698+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-2b3e7582-84c9-4fd1-969c-16ae1a4f61e6",
-      "seen_at": "2026-09-13T17:28:15.702170+00:00"
-    },
-    {
-      "id": "ashby-perplexity-a172ada5-1a6e-4646-8e0d-26747422af24",
-      "seen_at": "2026-09-13T17:28:15.702637+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24",
-      "seen_at": "2026-09-13T17:28:15.703099+00:00"
-    },
-    {
-      "id": "jobright-00f7b4b1c8d1",
-      "seen_at": "2026-09-13T17:28:15.703576+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa6b83842411952ff9ac4ef",
-      "seen_at": "2026-09-13T17:28:15.704035+00:00"
-    },
-    {
-      "id": "jobright-28493ec0f67a",
-      "seen_at": "2026-09-13T17:28:15.704507+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6941d4ae14ee092a69ffe641",
-      "seen_at": "2026-09-13T17:28:15.704991+00:00"
-    },
-    {
-      "id": "jobright-d6c07d95c54e",
-      "seen_at": "2026-09-13T17:28:15.705484+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a22840e597131741415f0a3",
-      "seen_at": "2026-09-13T17:28:15.705966+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR360029",
-      "seen_at": "2026-09-13T17:28:15.706450+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer--Data---Observability-Platforms---MTS-SMTS_JR360029",
-      "seen_at": "2026-09-13T17:28:15.706922+00:00"
-    },
-    {
       "id": "zapply-81bff4ba7a19",
       "seen_at": "2026-09-13T19:44:00.242326+00:00"
     },
@@ -35287,10 +35207,50 @@
     {
       "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Card-Integrations_R999403-1",
       "seen_at": "2026-10-13T17:01:25.276268+00:00"
+    },
+    {
+      "id": "ashby-openai-eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
+      "seen_at": "2026-10-13T17:31:19.603468+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
+      "seen_at": "2026-10-13T17:31:19.604116+00:00"
+    },
+    {
+      "id": "ashby-openai-a01fc9ed-de08-4326-9206-4ee3f08000dc",
+      "seen_at": "2026-10-13T17:31:19.604728+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc",
+      "seen_at": "2026-10-13T17:31:19.605290+00:00"
+    },
+    {
+      "id": "ashby-substack-64738c2b-f929-4f4e-b9c4-4adc1dc14097",
+      "seen_at": "2026-10-13T17:31:19.605844+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097",
+      "seen_at": "2026-10-13T17:31:19.606395+00:00"
+    },
+    {
+      "id": "ashby-reflectionai-5c9835ae-4424-41ab-8585-16aefcce5a7a",
+      "seen_at": "2026-10-13T17:31:19.606954+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/reflectionai/5c9835ae-4424-41ab-8585-16aefcce5a7a",
+      "seen_at": "2026-10-13T17:31:19.607520+00:00"
+    },
+    {
+      "id": "zapply-07a85d0bedb1",
+      "seen_at": "2026-10-13T17:31:19.608068+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621474",
+      "seen_at": "2026-10-13T17:31:19.608632+00:00"
     }
   ],
-  "last_run": "2026-10-13T17:01:25.495862+00:00",
-  "total_notified": 9092,
+  "last_run": "2026-10-13T17:31:20.679889+00:00",
+  "total_notified": 9097,
   "channels": {
     "pm-jobs": [
       "jobright-437c0080fd47",
@@ -36606,26 +36566,6 @@
       "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Card-Integrations_R999403-1"
     ],
     "swe-ai-full-time": [
-      "zapply-944530844d23",
-      "url:https://zapply.jobs/l/d/sr-WesternDigital-744000136547759",
-      "zapply-ef633991cc4b",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023965",
-      "zapply-10b8ba69d4c7",
-      "url:https://zapply.jobs/l/d/ashby-persona.ai-db6d05fe-f579-413a-b64f-e68c560871e2",
-      "zapply-f02908c65ed1",
-      "url:https://zapply.jobs/l/d/ashby-snowflake-dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd",
-      "zapply-fa365d702aa1",
-      "url:https://zapply.jobs/l/d/ashby-snowflake-2b3e7582-84c9-4fd1-969c-16ae1a4f61e6",
-      "ashby-perplexity-a172ada5-1a6e-4646-8e0d-26747422af24",
-      "url:https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24",
-      "jobright-00f7b4b1c8d1",
-      "url:https://jobright.ai/jobs/info/6aa6b83842411952ff9ac4ef",
-      "jobright-28493ec0f67a",
-      "url:https://jobright.ai/jobs/info/6941d4ae14ee092a69ffe641",
-      "jobright-d6c07d95c54e",
-      "url:https://jobright.ai/jobs/info/6a22840e597131741415f0a3",
-      "workday-salesforce-JR360029",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer--Data---Observability-Platforms---MTS-SMTS_JR360029",
       "zapply-81bff4ba7a19",
       "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360029",
       "jobright-5709fbf399ea",
@@ -44122,7 +44062,17 @@
       "jobright-708eb3636427",
       "url:https://jobright.ai/jobs/info/6ace426f680c80c8753bb9c6",
       "jobright-8a30abf208e3",
-      "url:https://jobright.ai/jobs/info/6a7c2ec7d77e8156a8e31545"
+      "url:https://jobright.ai/jobs/info/6a7c2ec7d77e8156a8e31545",
+      "ashby-openai-eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
+      "url:https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
+      "ashby-openai-a01fc9ed-de08-4326-9206-4ee3f08000dc",
+      "url:https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc",
+      "ashby-substack-64738c2b-f929-4f4e-b9c4-4adc1dc14097",
+      "url:https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097",
+      "ashby-reflectionai-5c9835ae-4424-41ab-8585-16aefcce5a7a",
+      "url:https://jobs.ashbyhq.com/reflectionai/5c9835ae-4424-41ab-8585-16aefcce5a7a",
+      "zapply-07a85d0bedb1",
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621474"
     ]
   }
 }
