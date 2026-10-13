@@ -35567,10 +35567,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10162983",
       "seen_at": "2026-10-13T21:57:41.304785+00:00"
+    },
+    {
+      "id": "ashby-replit-1066b974-3cd8-42cf-a11c-a4217c06f70f",
+      "seen_at": "2026-10-13T22:31:10.179945+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/replit/1066b974-3cd8-42cf-a11c-a4217c06f70f",
+      "seen_at": "2026-10-13T22:31:10.180720+00:00"
+    },
+    {
+      "id": "zapply-6ed1b794cb4e",
+      "seen_at": "2026-10-13T22:31:13.017130+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-oneapp-3139d69b-43a2-4dbd-811b-81b300bd8cef",
+      "seen_at": "2026-10-13T22:31:13.017774+00:00"
     }
   ],
-  "last_run": "2026-10-13T22:01:41.176465+00:00",
-  "total_notified": 9154,
+  "last_run": "2026-10-13T22:31:13.272616+00:00",
+  "total_notified": 9156,
   "channels": {
     "pm-jobs": [
       "zapply-5b001977ec73",
@@ -36903,7 +36919,9 @@
       "greenhouse-tenstorrent-5265014007",
       "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5265014007",
       "zapply-7e1654e43c92",
-      "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10162983"
+      "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10162983",
+      "zapply-6ed1b794cb4e",
+      "url:https://zapply.jobs/l/d/ashby-oneapp-3139d69b-43a2-4dbd-811b-81b300bd8cef"
     ],
     "swe-ai-full-time": [
       "zapply-d9b38cd48471",
@@ -44472,7 +44490,9 @@
       "amazon-10578021",
       "url:https://www.amazon.jobs/en/jobs/10578021/software-development-engineer-s3",
       "jobright-f04e0d2b299e",
-      "url:https://jobright.ai/jobs/info/6ace7452ba99f15ef4124d4b"
+      "url:https://jobright.ai/jobs/info/6ace7452ba99f15ef4124d4b",
+      "ashby-replit-1066b974-3cd8-42cf-a11c-a4217c06f70f",
+      "url:https://jobs.ashbyhq.com/replit/1066b974-3cd8-42cf-a11c-a4217c06f70f"
     ]
   }
 }
