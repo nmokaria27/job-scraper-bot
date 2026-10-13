@@ -35063,10 +35063,26 @@
     {
       "id": "url:https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753",
       "seen_at": "2026-10-12T23:31:18.124859+00:00"
+    },
+    {
+      "id": "greenhouse-gleanwork-4742953005",
+      "seen_at": "2026-10-13T00:01:26.890570+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/gleanwork/jobs/4742953005",
+      "seen_at": "2026-10-13T00:01:26.891454+00:00"
+    },
+    {
+      "id": "jobright-bc549f42f0a1",
+      "seen_at": "2026-10-13T00:01:26.892246+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd5c5fa56e5406e57c10d0",
+      "seen_at": "2026-10-13T00:01:26.892990+00:00"
     }
   ],
-  "last_run": "2026-10-12T23:31:19.067611+00:00",
-  "total_notified": 9042,
+  "last_run": "2026-10-13T00:01:28.033726+00:00",
+  "total_notified": 9044,
   "channels": {
     "pm-jobs": [
       "jobright-73181d6e73ca",
@@ -43842,7 +43858,11 @@
       "simplify-2568859c-6383-4f07-a5dc-5350765a1d3a",
       "url:https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487",
       "simplify-ac9da20f-eebb-47fc-bed4-d2f4cfcfa386",
-      "url:https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753"
+      "url:https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753",
+      "greenhouse-gleanwork-4742953005",
+      "url:https://job-boards.greenhouse.io/gleanwork/jobs/4742953005",
+      "jobright-bc549f42f0a1",
+      "url:https://jobright.ai/jobs/info/6acd5c5fa56e5406e57c10d0"
     ]
   }
 }
