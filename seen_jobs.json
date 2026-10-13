@@ -35207,10 +35207,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac6792b4ac55253f5d7a52f",
       "seen_at": "2026-10-13T12:01:24.430436+00:00"
+    },
+    {
+      "id": "jobright-355f998b28b2",
+      "seen_at": "2026-10-13T13:01:29.857695+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a83c46c9b859b2277670aa6",
+      "seen_at": "2026-10-13T13:01:29.858202+00:00"
+    },
+    {
+      "id": "jobright-72836788d96a",
+      "seen_at": "2026-10-13T13:01:29.858701+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acdbbd409635d4ede00ac6f",
+      "seen_at": "2026-10-13T13:01:29.859098+00:00"
+    },
+    {
+      "id": "zapply-f7c0d8b3b0e4",
+      "seen_at": "2026-10-13T13:01:31.589136+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622283",
+      "seen_at": "2026-10-13T13:01:31.589567+00:00"
     }
   ],
-  "last_run": "2026-10-13T12:31:14.182382+00:00",
-  "total_notified": 9063,
+  "last_run": "2026-10-13T13:01:31.860474+00:00",
+  "total_notified": 9066,
   "channels": {
     "pm-jobs": [
       "zapply-c179bc31bd94",
@@ -36519,7 +36543,9 @@
       "ashby-snowflake-34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
       "url:https://jobs.ashbyhq.com/snowflake/34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
       "workday-nvidia-JR2027364",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Developer-Experience_JR2027364"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Developer-Experience_JR2027364",
+      "zapply-f7c0d8b3b0e4",
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622283"
     ],
     "swe-ai-full-time": [
       "zapply-c30099722a90",
@@ -44022,7 +44048,11 @@
       "ashby-elevenlabs-a03536c8-8728-4007-aef2-460def03173e",
       "url:https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e",
       "jobright-a693445cfaa9",
-      "url:https://jobright.ai/jobs/info/6ac6792b4ac55253f5d7a52f"
+      "url:https://jobright.ai/jobs/info/6ac6792b4ac55253f5d7a52f",
+      "jobright-355f998b28b2",
+      "url:https://jobright.ai/jobs/info/6a83c46c9b859b2277670aa6",
+      "jobright-72836788d96a",
+      "url:https://jobright.ai/jobs/info/6acdbbd409635d4ede00ac6f"
     ]
   }
 }
