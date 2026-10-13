@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-81bff4ba7a19",
-      "seen_at": "2026-09-13T19:44:00.242326+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360029",
-      "seen_at": "2026-09-13T19:44:00.243140+00:00"
-    },
-    {
-      "id": "jobright-5709fbf399ea",
-      "seen_at": "2026-09-13T19:44:00.243888+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a6ce063ca1f933846601306",
-      "seen_at": "2026-09-13T19:44:00.244562+00:00"
-    },
-    {
-      "id": "jobright-16dbb6561fd1",
-      "seen_at": "2026-09-13T19:44:00.245251+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a47f9b65d7b097d2df39059",
-      "seen_at": "2026-09-13T19:44:00.245935+00:00"
-    },
-    {
-      "id": "gradtracker-621dca2f86e3",
-      "seen_at": "2026-09-13T19:44:00.246608+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446718691837",
-      "seen_at": "2026-09-13T19:44:00.247259+00:00"
-    },
-    {
       "id": "jobright-437c0080fd47",
       "seen_at": "2026-09-13T21:49:00.705522+00:00"
     },
@@ -35447,10 +35415,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799629",
       "seen_at": "2026-10-13T19:31:25.320846+00:00"
+    },
+    {
+      "id": "jobright-d7d57ff1154e",
+      "seen_at": "2026-10-13T20:01:22.428319+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ace787abb78de94580d62fe",
+      "seen_at": "2026-10-13T20:01:22.429058+00:00"
+    },
+    {
+      "id": "jobright-5458a7b95634",
+      "seen_at": "2026-10-13T20:01:22.429694+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ace7689ba99f15ef4124df0",
+      "seen_at": "2026-10-13T20:01:22.430264+00:00"
+    },
+    {
+      "id": "jobright-fb800fb53c8b",
+      "seen_at": "2026-10-13T20:01:22.430853+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5bb47d856af468ab00d7aa",
+      "seen_at": "2026-10-13T20:01:22.431434+00:00"
+    },
+    {
+      "id": "jobright-2fc8953245f1",
+      "seen_at": "2026-10-13T20:01:22.432013+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0f08ae619335383fb28cce",
+      "seen_at": "2026-10-13T20:01:22.432590+00:00"
+    },
+    {
+      "id": "zapply-cf244a277c96",
+      "seen_at": "2026-10-13T20:01:24.381075+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-pentair-pentair-careers-R23942",
+      "seen_at": "2026-10-13T20:01:24.381669+00:00"
     }
   ],
-  "last_run": "2026-10-13T19:31:25.665133+00:00",
-  "total_notified": 9122,
+  "last_run": "2026-10-13T20:01:24.520188+00:00",
+  "total_notified": 9127,
   "channels": {
     "pm-jobs": [
       "jobright-437c0080fd47",
@@ -36773,17 +36781,11 @@
       "jobright-e559a9b70571",
       "url:https://jobright.ai/jobs/info/6ace620fbb78de94580d5c77",
       "zapply-dbac89e2fead",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799629"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799629",
+      "zapply-cf244a277c96",
+      "url:https://zapply.jobs/l/d/workday-pentair-pentair-careers-R23942"
     ],
     "swe-ai-full-time": [
-      "zapply-81bff4ba7a19",
-      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360029",
-      "jobright-5709fbf399ea",
-      "url:https://jobright.ai/jobs/info/6a6ce063ca1f933846601306",
-      "jobright-16dbb6561fd1",
-      "url:https://jobright.ai/jobs/info/6a47f9b65d7b097d2df39059",
-      "gradtracker-621dca2f86e3",
-      "url:https://careers.qualcomm.com/careers/job/446718691837",
       "zapply-880a253663d0",
       "url:https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250512",
       "zapply-98110bfd9425",
@@ -44322,7 +44324,15 @@
       "amazon-10577668",
       "url:https://www.amazon.jobs/en/jobs/10577668/software-development-engineer-luna-devx",
       "amazon-10576179",
-      "url:https://www.amazon.jobs/en/jobs/10576179/software-development-engineer-customer-experience-and-business-trends"
+      "url:https://www.amazon.jobs/en/jobs/10576179/software-development-engineer-customer-experience-and-business-trends",
+      "jobright-d7d57ff1154e",
+      "url:https://jobright.ai/jobs/info/6ace787abb78de94580d62fe",
+      "jobright-5458a7b95634",
+      "url:https://jobright.ai/jobs/info/6ace7689ba99f15ef4124df0",
+      "jobright-fb800fb53c8b",
+      "url:https://jobright.ai/jobs/info/6a5bb47d856af468ab00d7aa",
+      "jobright-2fc8953245f1",
+      "url:https://jobright.ai/jobs/info/6a0f08ae619335383fb28cce"
     ]
   }
 }
