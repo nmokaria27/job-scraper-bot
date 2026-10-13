@@ -35127,10 +35127,42 @@
     {
       "id": "url:https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096",
       "seen_at": "2026-10-13T14:31:17.821794+00:00"
+    },
+    {
+      "id": "simplify-46d3f3d3-84d2-4e34-85dc-b832e129d892",
+      "seen_at": "2026-10-13T15:01:38.667659+00:00"
+    },
+    {
+      "id": "url:https://goodpower.applytojob.com/apply/HK1iqPLsBu/Machine-Learning-Scientist",
+      "seen_at": "2026-10-13T15:01:38.668265+00:00"
+    },
+    {
+      "id": "jobright-7e22b1275883",
+      "seen_at": "2026-10-13T15:01:38.668835+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ace303a4f3229123da3aa5a",
+      "seen_at": "2026-10-13T15:01:38.669376+00:00"
+    },
+    {
+      "id": "jobright-280ad20c6d11",
+      "seen_at": "2026-10-13T15:01:38.669899+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9677f769b865490a632393",
+      "seen_at": "2026-10-13T15:01:38.670395+00:00"
+    },
+    {
+      "id": "jobright-c896934ef306",
+      "seen_at": "2026-10-13T15:01:38.670888+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acdbbc52bd01b08973f10ad",
+      "seen_at": "2026-10-13T15:01:38.671386+00:00"
     }
   ],
-  "last_run": "2026-10-13T14:31:18.655871+00:00",
-  "total_notified": 9072,
+  "last_run": "2026-10-13T15:01:39.742415+00:00",
+  "total_notified": 9076,
   "channels": {
     "pm-jobs": [
       "jobright-437c0080fd47",
@@ -43922,7 +43954,15 @@
       "jobright-ee6001aa39b9",
       "url:https://jobright.ai/jobs/info/6acd9380002e496d4bef2be7",
       "ashby-elevenlabs-0547cf3a-856f-4db2-8307-73db634c4096",
-      "url:https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096"
+      "url:https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096",
+      "simplify-46d3f3d3-84d2-4e34-85dc-b832e129d892",
+      "url:https://goodpower.applytojob.com/apply/HK1iqPLsBu/Machine-Learning-Scientist",
+      "jobright-7e22b1275883",
+      "url:https://jobright.ai/jobs/info/6ace303a4f3229123da3aa5a",
+      "jobright-280ad20c6d11",
+      "url:https://jobright.ai/jobs/info/6a9677f769b865490a632393",
+      "jobright-c896934ef306",
+      "url:https://jobright.ai/jobs/info/6acdbbc52bd01b08973f10ad"
     ]
   }
 }
