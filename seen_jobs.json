@@ -35607,10 +35607,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a5908d5c8e3a473cb8a4916",
       "seen_at": "2026-10-13T21:01:34.952853+00:00"
+    },
+    {
+      "id": "zapply-21ba8f906609",
+      "seen_at": "2026-10-13T21:31:10.502147+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nwis-nw-01677525",
+      "seen_at": "2026-10-13T21:31:10.502792+00:00"
+    },
+    {
+      "id": "applyguy-4ef319ce-d4bc-498d-ab73-891c92a46425",
+      "seen_at": "2026-10-13T21:31:10.503364+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/justworks/jobs/8236815",
+      "seen_at": "2026-10-13T21:31:10.503895+00:00"
+    },
+    {
+      "id": "amazon-10575984",
+      "seen_at": "2026-10-13T21:31:10.504402+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10575984/applied-scientist-customer-experience-and-business-trends",
+      "seen_at": "2026-10-13T21:31:10.504914+00:00"
+    },
+    {
+      "id": "greenhouse-tenstorrent-5265014007",
+      "seen_at": "2026-10-13T21:31:12.701522+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5265014007",
+      "seen_at": "2026-10-13T21:31:12.702077+00:00"
     }
   ],
-  "last_run": "2026-10-13T21:01:35.179320+00:00",
-  "total_notified": 9146,
+  "last_run": "2026-10-13T21:31:12.933128+00:00",
+  "total_notified": 9150,
   "channels": {
     "pm-jobs": [
       "jobright-437c0080fd47",
@@ -36941,7 +36973,9 @@
       "zapply-98b91505701c",
       "url:https://zapply.jobs/l/d/amd-93213",
       "jobright-e2bcb18e04b3",
-      "url:https://jobright.ai/jobs/info/6a5908d5c8e3a473cb8a4916"
+      "url:https://jobright.ai/jobs/info/6a5908d5c8e3a473cb8a4916",
+      "greenhouse-tenstorrent-5265014007",
+      "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5265014007"
     ],
     "swe-ai-full-time": [
       "zapply-880a253663d0",
@@ -44522,7 +44556,13 @@
       "jobright-12e8ada78dbc",
       "url:https://jobright.ai/jobs/info/6ace7cbeba99f15ef4125106",
       "jobright-a8d583ec8d07",
-      "url:https://jobright.ai/jobs/info/6ace7ad9680c80c8753bcdfb"
+      "url:https://jobright.ai/jobs/info/6ace7ad9680c80c8753bcdfb",
+      "zapply-21ba8f906609",
+      "url:https://zapply.jobs/l/d/workday-nwis-nw-01677525",
+      "applyguy-4ef319ce-d4bc-498d-ab73-891c92a46425",
+      "url:https://boards.greenhouse.io/justworks/jobs/8236815",
+      "amazon-10575984",
+      "url:https://www.amazon.jobs/en/jobs/10575984/applied-scientist-customer-experience-and-business-trends"
     ]
   }
 }
