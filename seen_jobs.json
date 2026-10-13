@@ -35695,10 +35695,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ace9bbe4f3229123da3d2fe",
       "seen_at": "2026-10-13T23:01:18.508038+00:00"
+    },
+    {
+      "id": "simplify-410c85e8-0bb5-492d-8e8d-b44d4cd4807d",
+      "seen_at": "2026-10-13T23:31:10.833376+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/ntt-data-aivista/eef8b2f4-c13e-4e28-80c0-3008d3937991/application",
+      "seen_at": "2026-10-13T23:31:10.833989+00:00"
+    },
+    {
+      "id": "amazon-10578078",
+      "seen_at": "2026-10-13T23:31:10.834574+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10578078/software-development-engineer-amazon-apm-twitch",
+      "seen_at": "2026-10-13T23:31:10.835132+00:00"
     }
   ],
-  "last_run": "2026-10-13T23:01:18.781521+00:00",
-  "total_notified": 9170,
+  "last_run": "2026-10-13T23:31:13.860936+00:00",
+  "total_notified": 9173,
   "channels": {
     "pm-jobs": [
       "zapply-5b001977ec73",
@@ -37045,7 +37061,9 @@
       "jobright-bf9a30c0a275",
       "url:https://jobright.ai/jobs/info/6ace9cfabb78de94580d73ee",
       "jobright-1e53a225e33f",
-      "url:https://jobright.ai/jobs/info/6ace9bbe4f3229123da3d2fe"
+      "url:https://jobright.ai/jobs/info/6ace9bbe4f3229123da3d2fe",
+      "amazon-10578078",
+      "url:https://www.amazon.jobs/en/jobs/10578078/software-development-engineer-amazon-apm-twitch"
     ],
     "swe-ai-full-time": [
       "zapply-d9b38cd48471",
@@ -44632,7 +44650,11 @@
       "jobright-011c24ceb074",
       "url:https://jobright.ai/jobs/info/6ace95a2bb78de94580d711d",
       "jobright-406946156926",
-      "url:https://jobright.ai/jobs/info/6ace8fdf4391691a335ad713"
+      "url:https://jobright.ai/jobs/info/6ace8fdf4391691a335ad713",
+      "simplify-410c85e8-0bb5-492d-8e8d-b44d4cd4807d",
+      "url:https://jobs.ashbyhq.com/ntt-data-aivista/eef8b2f4-c13e-4e28-80c0-3008d3937991/application",
+      "amazon-10578078",
+      "url:https://www.amazon.jobs/en/jobs/10578078/software-development-engineer-amazon-apm-twitch"
     ]
   }
 }
