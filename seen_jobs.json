@@ -35735,10 +35735,86 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-defenseunicorns-5265580007",
       "seen_at": "2026-10-14T16:31:20.338492+00:00"
+    },
+    {
+      "id": "zapply-2d4a5b29cc55",
+      "seen_at": "2026-10-14T17:01:44.343837+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522764",
+      "seen_at": "2026-10-14T17:01:44.344352+00:00"
+    },
+    {
+      "id": "greenhouse-twitch-8887222002",
+      "seen_at": "2026-10-14T17:01:44.344791+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/twitch/jobs/8887222002",
+      "seen_at": "2026-10-14T17:01:44.345186+00:00"
+    },
+    {
+      "id": "jobright-419426fd5c3e",
+      "seen_at": "2026-10-14T17:01:44.345584+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfa3ddc0dd9da253cf3b69",
+      "seen_at": "2026-10-14T17:01:44.345988+00:00"
+    },
+    {
+      "id": "jobright-103dfd8c2e2b",
+      "seen_at": "2026-10-14T17:01:44.346401+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acf9bf7fe7a9bd5a6b9903a",
+      "seen_at": "2026-10-14T17:01:44.346780+00:00"
+    },
+    {
+      "id": "jobright-99c764b5a55d",
+      "seen_at": "2026-10-14T17:01:44.347171+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acf988c12303667b989f392",
+      "seen_at": "2026-10-14T17:01:44.347570+00:00"
+    },
+    {
+      "id": "jobright-f1eb01c9c01d",
+      "seen_at": "2026-10-14T17:01:44.347953+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acf9b64fe7a9bd5a6b99015",
+      "seen_at": "2026-10-14T17:01:44.348323+00:00"
+    },
+    {
+      "id": "jobright-41947030fe0e",
+      "seen_at": "2026-10-14T17:01:44.348708+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acf9debc0dd9da253cf3a12",
+      "seen_at": "2026-10-14T17:01:44.349081+00:00"
+    },
+    {
+      "id": "jobright-488b17496f97",
+      "seen_at": "2026-10-14T17:01:44.349469+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acf962678d51ae69ce06eea",
+      "seen_at": "2026-10-14T17:01:44.349835+00:00"
+    },
+    {
+      "id": "greenhouse-stripe-8275556",
+      "seen_at": "2026-10-14T17:01:46.609789+00:00"
+    },
+    {
+      "id": "zapply-66b826f541c2",
+      "seen_at": "2026-10-14T17:01:46.610603+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00350120",
+      "seen_at": "2026-10-14T17:01:46.610962+00:00"
     }
   ],
-  "last_run": "2026-10-14T16:31:21.453953+00:00",
-  "total_notified": 9233,
+  "last_run": "2026-10-14T17:01:46.998020+00:00",
+  "total_notified": 9243,
   "channels": {
     "pm-jobs": [
       "zapply-a7afa9f4e42a",
@@ -37077,7 +37153,11 @@
       "ashby-applied-aa4c40d9-500f-42a7-b03a-f94bd42955fb",
       "url:https://jobs.ashbyhq.com/applied/aa4c40d9-500f-42a7-b03a-f94bd42955fb",
       "zapply-c69b603de078",
-      "url:https://zapply.jobs/l/d/greenhouse-defenseunicorns-5265580007"
+      "url:https://zapply.jobs/l/d/greenhouse-defenseunicorns-5265580007",
+      "greenhouse-stripe-8275556",
+      "url:https://stripe.com/jobs/search",
+      "zapply-66b826f541c2",
+      "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00350120"
     ],
     "swe-ai-full-time": [
       "zapply-109616b76043",
@@ -44684,7 +44764,23 @@
       "amazon-10578749",
       "url:https://www.amazon.jobs/en/jobs/10578749/applied-scientist-avm-builder-enablement",
       "applyguy-4fe75012-df5e-4c0a-b080-fe0c374b9a98",
-      "url:https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1"
+      "url:https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1",
+      "zapply-2d4a5b29cc55",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522764",
+      "greenhouse-twitch-8887222002",
+      "url:https://job-boards.greenhouse.io/twitch/jobs/8887222002",
+      "jobright-419426fd5c3e",
+      "url:https://jobright.ai/jobs/info/6acfa3ddc0dd9da253cf3b69",
+      "jobright-103dfd8c2e2b",
+      "url:https://jobright.ai/jobs/info/6acf9bf7fe7a9bd5a6b9903a",
+      "jobright-99c764b5a55d",
+      "url:https://jobright.ai/jobs/info/6acf988c12303667b989f392",
+      "jobright-f1eb01c9c01d",
+      "url:https://jobright.ai/jobs/info/6acf9b64fe7a9bd5a6b99015",
+      "jobright-41947030fe0e",
+      "url:https://jobright.ai/jobs/info/6acf9debc0dd9da253cf3a12",
+      "jobright-488b17496f97",
+      "url:https://jobright.ai/jobs/info/6acf962678d51ae69ce06eea"
     ]
   }
 }
