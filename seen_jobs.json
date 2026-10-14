@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-5b001977ec73",
-      "seen_at": "2026-09-13T23:41:17.318394+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000393825",
-      "seen_at": "2026-09-13T23:41:17.319165+00:00"
-    },
-    {
-      "id": "zapply-d9b38cd48471",
-      "seen_at": "2026-09-13T23:41:18.713752+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-29729",
-      "seen_at": "2026-09-13T23:41:18.714654+00:00"
-    },
-    {
       "id": "jobright-4a8b083e154f",
       "seen_at": "2026-09-14T01:46:09.651966+00:00"
     },
@@ -35711,14 +35695,36 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10578078/software-development-engineer-amazon-apm-twitch",
       "seen_at": "2026-10-13T23:31:10.835132+00:00"
+    },
+    {
+      "id": "jobright-bad27c46c611",
+      "seen_at": "2026-10-14T00:01:16.359567+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acea80b4391691a335adff6",
+      "seen_at": "2026-10-14T00:01:16.360281+00:00"
+    },
+    {
+      "id": "jobright-779142920b6f",
+      "seen_at": "2026-10-14T00:01:16.360869+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acea9b44391691a335ae05e",
+      "seen_at": "2026-10-14T00:01:16.361443+00:00"
+    },
+    {
+      "id": "gradtracker-cce50193635c",
+      "seen_at": "2026-10-14T00:01:16.362019+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000155364528",
+      "seen_at": "2026-10-14T00:01:16.362562+00:00"
     }
   ],
-  "last_run": "2026-10-13T23:31:13.860936+00:00",
-  "total_notified": 9173,
+  "last_run": "2026-10-14T00:01:17.303980+00:00",
+  "total_notified": 9176,
   "channels": {
     "pm-jobs": [
-      "zapply-5b001977ec73",
-      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000393825",
       "jobright-4a8b083e154f",
       "url:https://jobright.ai/jobs/info/6a7ed2e1179e4f7b7e8d8afe",
       "zapply-7f98daca3680",
@@ -37066,8 +37072,6 @@
       "url:https://www.amazon.jobs/en/jobs/10578078/software-development-engineer-amazon-apm-twitch"
     ],
     "swe-ai-full-time": [
-      "zapply-d9b38cd48471",
-      "url:https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-29729",
       "zapply-301af14c7ee2",
       "url:https://zapply.jobs/l/d/ashby-whatnot-29bad846-de60-4be7-a222-69b97e044930",
       "jobright-5e23336fc4da",
@@ -44654,7 +44658,13 @@
       "simplify-410c85e8-0bb5-492d-8e8d-b44d4cd4807d",
       "url:https://jobs.ashbyhq.com/ntt-data-aivista/eef8b2f4-c13e-4e28-80c0-3008d3937991/application",
       "amazon-10578078",
-      "url:https://www.amazon.jobs/en/jobs/10578078/software-development-engineer-amazon-apm-twitch"
+      "url:https://www.amazon.jobs/en/jobs/10578078/software-development-engineer-amazon-apm-twitch",
+      "jobright-bad27c46c611",
+      "url:https://jobright.ai/jobs/info/6acea80b4391691a335adff6",
+      "jobright-779142920b6f",
+      "url:https://jobright.ai/jobs/info/6acea9b44391691a335ae05e",
+      "gradtracker-cce50193635c",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000155364528"
     ]
   }
 }
