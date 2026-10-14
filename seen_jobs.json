@@ -35811,10 +35811,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00350120",
       "seen_at": "2026-10-14T17:01:46.610962+00:00"
+    },
+    {
+      "id": "ashby-thumbtack-3efb1a7b-cfaf-475a-86a9-abff37581b4b",
+      "seen_at": "2026-10-14T17:31:18.607581+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b",
+      "seen_at": "2026-10-14T17:31:18.607965+00:00"
+    },
+    {
+      "id": "ashby-supabase-73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
+      "seen_at": "2026-10-14T17:31:18.608297+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/supabase/73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
+      "seen_at": "2026-10-14T17:31:18.608592+00:00"
+    },
+    {
+      "id": "amazon-10578859",
+      "seen_at": "2026-10-14T17:31:18.608891+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10578859/software-development-engineer-building-connectivity-engineering",
+      "seen_at": "2026-10-14T17:31:18.609184+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR330400",
+      "seen_at": "2026-10-14T17:31:18.609469+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
+      "seen_at": "2026-10-14T17:31:18.609744+00:00"
     }
   ],
-  "last_run": "2026-10-14T17:01:46.998020+00:00",
-  "total_notified": 9243,
+  "last_run": "2026-10-14T17:31:19.351488+00:00",
+  "total_notified": 9247,
   "channels": {
     "pm-jobs": [
       "zapply-a7afa9f4e42a",
@@ -44780,7 +44812,15 @@
       "jobright-41947030fe0e",
       "url:https://jobright.ai/jobs/info/6acf9debc0dd9da253cf3a12",
       "jobright-488b17496f97",
-      "url:https://jobright.ai/jobs/info/6acf962678d51ae69ce06eea"
+      "url:https://jobright.ai/jobs/info/6acf962678d51ae69ce06eea",
+      "ashby-thumbtack-3efb1a7b-cfaf-475a-86a9-abff37581b4b",
+      "url:https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b",
+      "ashby-supabase-73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
+      "url:https://jobs.ashbyhq.com/supabase/73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
+      "amazon-10578859",
+      "url:https://www.amazon.jobs/en/jobs/10578859/software-development-engineer-building-connectivity-engineering",
+      "workday-salesforce-JR330400",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1"
     ]
   }
 }
