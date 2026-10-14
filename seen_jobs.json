@@ -35891,10 +35891,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6acf995012303667b989f3ed",
       "seen_at": "2026-10-14T18:01:40.159369+00:00"
+    },
+    {
+      "id": "zapply-2a8dfb9589d5",
+      "seen_at": "2026-10-14T18:31:16.623827+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-pnc-external-R217025",
+      "seen_at": "2026-10-14T18:31:16.624462+00:00"
+    },
+    {
+      "id": "zapply-1e911dd34441",
+      "seen_at": "2026-10-14T18:31:16.625014+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR330400",
+      "seen_at": "2026-10-14T18:31:16.625559+00:00"
+    },
+    {
+      "id": "zapply-44ffd0e00a7c",
+      "seen_at": "2026-10-14T18:31:18.564569+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155581974",
+      "seen_at": "2026-10-14T18:31:18.565106+00:00"
+    },
+    {
+      "id": "zapply-11426cd29afa",
+      "seen_at": "2026-10-14T18:31:18.565620+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155582733",
+      "seen_at": "2026-10-14T18:31:18.566093+00:00"
+    },
+    {
+      "id": "zapply-3ca12b0d00a9",
+      "seen_at": "2026-10-14T18:31:18.566558+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797788",
+      "seen_at": "2026-10-14T18:31:18.566977+00:00"
+    },
+    {
+      "id": "zapply-c238eef3c90c",
+      "seen_at": "2026-10-14T18:31:18.567401+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797640",
+      "seen_at": "2026-10-14T18:31:18.567798+00:00"
     }
   ],
-  "last_run": "2026-10-14T18:01:41.064836+00:00",
-  "total_notified": 9253,
+  "last_run": "2026-10-14T18:31:18.881393+00:00",
+  "total_notified": 9259,
   "channels": {
     "pm-jobs": [
       "zapply-a7afa9f4e42a",
@@ -37237,7 +37285,15 @@
       "greenhouse-stripe-8275556",
       "url:https://stripe.com/jobs/search",
       "zapply-66b826f541c2",
-      "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00350120"
+      "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00350120",
+      "zapply-44ffd0e00a7c",
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155581974",
+      "zapply-11426cd29afa",
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155582733",
+      "zapply-3ca12b0d00a9",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797788",
+      "zapply-c238eef3c90c",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797640"
     ],
     "swe-ai-full-time": [
       "zapply-109616b76043",
@@ -44880,7 +44936,11 @@
       "jobright-0d8b10529256",
       "url:https://jobright.ai/jobs/info/6a2d6349f1751b183c81ad54",
       "jobright-599745f5acfa",
-      "url:https://jobright.ai/jobs/info/6acf995012303667b989f3ed"
+      "url:https://jobright.ai/jobs/info/6acf995012303667b989f3ed",
+      "zapply-2a8dfb9589d5",
+      "url:https://zapply.jobs/l/d/workday-pnc-external-R217025",
+      "zapply-1e911dd34441",
+      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR330400"
     ]
   }
 }
