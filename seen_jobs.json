@@ -35767,10 +35767,74 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10578212/software-development-engineer-bigmesh-traffic-engineering",
       "seen_at": "2026-10-14T03:31:10.117771+00:00"
+    },
+    {
+      "id": "greenhouse-upstart-8274702",
+      "seen_at": "2026-10-14T10:01:14.743101+00:00"
+    },
+    {
+      "id": "url:https://careers.upstart.com/jobs",
+      "seen_at": "2026-10-14T10:01:14.743768+00:00"
+    },
+    {
+      "id": "jobright-0383f6a1bfc3",
+      "seen_at": "2026-10-14T10:01:14.744385+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5117188d7d3e6cf1cbec98",
+      "seen_at": "2026-10-14T10:01:14.744953+00:00"
+    },
+    {
+      "id": "simplify-2811b58f-5918-42f5-bcb0-73989dbc4f33",
+      "seen_at": "2026-10-14T10:01:14.745535+00:00"
+    },
+    {
+      "id": "url:https://simventions.jibeapply.com/jobs/1650",
+      "seen_at": "2026-10-14T10:01:14.746077+00:00"
+    },
+    {
+      "id": "jobright-1f5a80bfa5bf",
+      "seen_at": "2026-10-14T10:01:14.746668+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acee39aba99f15ef412707e",
+      "seen_at": "2026-10-14T10:01:14.747217+00:00"
+    },
+    {
+      "id": "jobright-2ec13ab22c65",
+      "seen_at": "2026-10-14T10:01:14.747805+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acdbc0c77057049844000e4",
+      "seen_at": "2026-10-14T10:01:14.748381+00:00"
+    },
+    {
+      "id": "jobright-c8d044d14499",
+      "seen_at": "2026-10-14T10:01:14.748938+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acee39a4391691a335aecc3",
+      "seen_at": "2026-10-14T10:01:14.749496+00:00"
+    },
+    {
+      "id": "workday-adobe-R172087",
+      "seen_at": "2026-10-14T10:01:16.868195+00:00"
+    },
+    {
+      "id": "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Product-Manager_R172087",
+      "seen_at": "2026-10-14T10:01:16.868764+00:00"
+    },
+    {
+      "id": "zapply-a5201dde9ca1",
+      "seen_at": "2026-10-14T10:01:16.869284+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-tenstorrent-5265014007",
+      "seen_at": "2026-10-14T10:01:16.869786+00:00"
     }
   ],
-  "last_run": "2026-10-14T03:31:10.796128+00:00",
-  "total_notified": 9185,
+  "last_run": "2026-10-14T10:01:17.189001+00:00",
+  "total_notified": 9193,
   "channels": {
     "pm-jobs": [
       "zapply-7f98daca3680",
@@ -37115,7 +37179,11 @@
       "jobright-1e53a225e33f",
       "url:https://jobright.ai/jobs/info/6ace9bbe4f3229123da3d2fe",
       "amazon-10578078",
-      "url:https://www.amazon.jobs/en/jobs/10578078/software-development-engineer-amazon-apm-twitch"
+      "url:https://www.amazon.jobs/en/jobs/10578078/software-development-engineer-amazon-apm-twitch",
+      "workday-adobe-R172087",
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Product-Manager_R172087",
+      "zapply-a5201dde9ca1",
+      "url:https://zapply.jobs/l/d/greenhouse-tenstorrent-5265014007"
     ],
     "swe-ai-full-time": [
       "zapply-4df733277e8b",
@@ -44724,7 +44792,19 @@
       "jobright-64d6a2bdb6f2",
       "url:https://jobright.ai/jobs/info/6acec49e4f3229123da3e042",
       "amazon-10578212",
-      "url:https://www.amazon.jobs/en/jobs/10578212/software-development-engineer-bigmesh-traffic-engineering"
+      "url:https://www.amazon.jobs/en/jobs/10578212/software-development-engineer-bigmesh-traffic-engineering",
+      "greenhouse-upstart-8274702",
+      "url:https://careers.upstart.com/jobs",
+      "jobright-0383f6a1bfc3",
+      "url:https://jobright.ai/jobs/info/6a5117188d7d3e6cf1cbec98",
+      "simplify-2811b58f-5918-42f5-bcb0-73989dbc4f33",
+      "url:https://simventions.jibeapply.com/jobs/1650",
+      "jobright-1f5a80bfa5bf",
+      "url:https://jobright.ai/jobs/info/6acee39aba99f15ef412707e",
+      "jobright-2ec13ab22c65",
+      "url:https://jobright.ai/jobs/info/6acdbc0c77057049844000e4",
+      "jobright-c8d044d14499",
+      "url:https://jobright.ai/jobs/info/6acee39a4391691a335aecc3"
     ]
   }
 }
