@@ -35843,10 +35843,58 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
       "seen_at": "2026-10-14T17:31:18.609744+00:00"
+    },
+    {
+      "id": "jobright-6de3ed38367f",
+      "seen_at": "2026-10-14T18:01:40.155746+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfad00c0dd9da253cf3dfe",
+      "seen_at": "2026-10-14T18:01:40.156188+00:00"
+    },
+    {
+      "id": "jobright-252eee4244bf",
+      "seen_at": "2026-10-14T18:01:40.156558+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfaba7c9f40bec907fd659",
+      "seen_at": "2026-10-14T18:01:40.156886+00:00"
+    },
+    {
+      "id": "jobright-7bda4c2b482f",
+      "seen_at": "2026-10-14T18:01:40.157214+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfaa2ec0dd9da253cf3d2e",
+      "seen_at": "2026-10-14T18:01:40.157536+00:00"
+    },
+    {
+      "id": "jobright-1cd6f13576f9",
+      "seen_at": "2026-10-14T18:01:40.157851+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfa98d78d51ae69ce074ce",
+      "seen_at": "2026-10-14T18:01:40.158155+00:00"
+    },
+    {
+      "id": "jobright-0d8b10529256",
+      "seen_at": "2026-10-14T18:01:40.158471+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a2d6349f1751b183c81ad54",
+      "seen_at": "2026-10-14T18:01:40.158766+00:00"
+    },
+    {
+      "id": "jobright-599745f5acfa",
+      "seen_at": "2026-10-14T18:01:40.159066+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acf995012303667b989f3ed",
+      "seen_at": "2026-10-14T18:01:40.159369+00:00"
     }
   ],
-  "last_run": "2026-10-14T17:31:19.351488+00:00",
-  "total_notified": 9247,
+  "last_run": "2026-10-14T18:01:41.064836+00:00",
+  "total_notified": 9253,
   "channels": {
     "pm-jobs": [
       "zapply-a7afa9f4e42a",
@@ -44820,7 +44868,19 @@
       "amazon-10578859",
       "url:https://www.amazon.jobs/en/jobs/10578859/software-development-engineer-building-connectivity-engineering",
       "workday-salesforce-JR330400",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
+      "jobright-6de3ed38367f",
+      "url:https://jobright.ai/jobs/info/6acfad00c0dd9da253cf3dfe",
+      "jobright-252eee4244bf",
+      "url:https://jobright.ai/jobs/info/6acfaba7c9f40bec907fd659",
+      "jobright-7bda4c2b482f",
+      "url:https://jobright.ai/jobs/info/6acfaa2ec0dd9da253cf3d2e",
+      "jobright-1cd6f13576f9",
+      "url:https://jobright.ai/jobs/info/6acfa98d78d51ae69ce074ce",
+      "jobright-0d8b10529256",
+      "url:https://jobright.ai/jobs/info/6a2d6349f1751b183c81ad54",
+      "jobright-599745f5acfa",
+      "url:https://jobright.ai/jobs/info/6acf995012303667b989f3ed"
     ]
   }
 }
