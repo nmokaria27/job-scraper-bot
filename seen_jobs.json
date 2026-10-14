@@ -35939,10 +35939,74 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797640",
       "seen_at": "2026-10-14T18:31:18.567798+00:00"
+    },
+    {
+      "id": "zapply-15b01c2e7f6d",
+      "seen_at": "2026-10-14T19:01:31.299729+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1216553",
+      "seen_at": "2026-10-14T19:01:31.300491+00:00"
+    },
+    {
+      "id": "zapply-778869fa50c2",
+      "seen_at": "2026-10-14T19:01:31.301119+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1216553",
+      "seen_at": "2026-10-14T19:01:31.301749+00:00"
+    },
+    {
+      "id": "ashby-modal-34858ff6-aecf-4c58-9574-ed67ebf700c8",
+      "seen_at": "2026-10-14T19:01:31.302327+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/modal/34858ff6-aecf-4c58-9574-ed67ebf700c8",
+      "seen_at": "2026-10-14T19:01:31.302934+00:00"
+    },
+    {
+      "id": "jobright-72b77a19ce89",
+      "seen_at": "2026-10-14T19:01:31.303515+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfaeb82cc4e9d17e909c6c",
+      "seen_at": "2026-10-14T19:01:31.304104+00:00"
+    },
+    {
+      "id": "gradtracker-a4f28d44a425",
+      "seen_at": "2026-10-14T19:01:31.304695+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000155582891",
+      "seen_at": "2026-10-14T19:01:31.305255+00:00"
+    },
+    {
+      "id": "amazon-10578861",
+      "seen_at": "2026-10-14T19:01:31.305848+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10578861/software-development-engineer-building-connectivity-engineering",
+      "seen_at": "2026-10-14T19:01:31.306406+00:00"
+    },
+    {
+      "id": "jobright-b867d6eb7fd1",
+      "seen_at": "2026-10-14T19:01:31.306991+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfba5312303667b989fd95",
+      "seen_at": "2026-10-14T19:01:31.307568+00:00"
+    },
+    {
+      "id": "jobright-1c6f88fc4574",
+      "seen_at": "2026-10-14T19:01:34.256492+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfb15778d51ae69ce077ae",
+      "seen_at": "2026-10-14T19:01:34.257126+00:00"
     }
   ],
-  "last_run": "2026-10-14T18:31:18.881393+00:00",
-  "total_notified": 9259,
+  "last_run": "2026-10-14T19:01:34.605224+00:00",
+  "total_notified": 9267,
   "channels": {
     "pm-jobs": [
       "zapply-a7afa9f4e42a",
@@ -37293,7 +37357,9 @@
       "zapply-3ca12b0d00a9",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797788",
       "zapply-c238eef3c90c",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797640"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797640",
+      "jobright-1c6f88fc4574",
+      "url:https://jobright.ai/jobs/info/6acfb15778d51ae69ce077ae"
     ],
     "swe-ai-full-time": [
       "zapply-109616b76043",
@@ -44940,7 +45006,21 @@
       "zapply-2a8dfb9589d5",
       "url:https://zapply.jobs/l/d/workday-pnc-external-R217025",
       "zapply-1e911dd34441",
-      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR330400"
+      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR330400",
+      "zapply-15b01c2e7f6d",
+      "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1216553",
+      "zapply-778869fa50c2",
+      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1216553",
+      "ashby-modal-34858ff6-aecf-4c58-9574-ed67ebf700c8",
+      "url:https://jobs.ashbyhq.com/modal/34858ff6-aecf-4c58-9574-ed67ebf700c8",
+      "jobright-72b77a19ce89",
+      "url:https://jobright.ai/jobs/info/6acfaeb82cc4e9d17e909c6c",
+      "gradtracker-a4f28d44a425",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000155582891",
+      "amazon-10578861",
+      "url:https://www.amazon.jobs/en/jobs/10578861/software-development-engineer-building-connectivity-engineering",
+      "jobright-b867d6eb7fd1",
+      "url:https://jobright.ai/jobs/info/6acfba5312303667b989fd95"
     ]
   }
 }
