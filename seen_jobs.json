@@ -35571,10 +35571,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6acfe928c9f40bec907fed4a",
       "seen_at": "2026-10-14T22:01:24.554375+00:00"
+    },
+    {
+      "id": "greenhouse-reddit-8282760",
+      "seen_at": "2026-10-14T22:31:18.947352+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8282760",
+      "seen_at": "2026-10-14T22:31:18.947996+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR357681",
+      "seen_at": "2026-10-14T22:31:18.948569+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/GovCloud-Software-Engineer_JR357681",
+      "seen_at": "2026-10-14T22:31:18.949145+00:00"
+    },
+    {
+      "id": "zapply-77fe0feb6fca",
+      "seen_at": "2026-10-14T22:31:20.850810+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0047185",
+      "seen_at": "2026-10-14T22:31:20.851388+00:00"
+    },
+    {
+      "id": "zapply-0fe912ebff98",
+      "seen_at": "2026-10-14T22:31:20.851948+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R65464",
+      "seen_at": "2026-10-14T22:31:20.852456+00:00"
     }
   ],
-  "last_run": "2026-10-14T22:01:25.789120+00:00",
-  "total_notified": 9294,
+  "last_run": "2026-10-14T22:31:21.056589+00:00",
+  "total_notified": 9298,
   "channels": {
     "pm-jobs": [
       "simplify-5bda221a-8620-420c-a38b-48bd4bdc58d3",
@@ -36911,7 +36943,11 @@
       "jobright-d6042478e5a1",
       "url:https://jobright.ai/jobs/info/6acfc5c2c0dd9da253cf4787",
       "zapply-2df46bf2a453",
-      "url:https://zapply.jobs/l/d/oracle-cummins-2436136"
+      "url:https://zapply.jobs/l/d/oracle-cummins-2436136",
+      "zapply-77fe0feb6fca",
+      "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0047185",
+      "zapply-0fe912ebff98",
+      "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R65464"
     ],
     "swe-ai-full-time": [
       "zapply-307f85764d5f",
@@ -44480,7 +44516,11 @@
       "jobright-def013a2ae8a",
       "url:https://jobright.ai/jobs/info/6acfbd9f78d51ae69ce07b45",
       "jobright-bd13f282b244",
-      "url:https://jobright.ai/jobs/info/6acfe928c9f40bec907fed4a"
+      "url:https://jobright.ai/jobs/info/6acfe928c9f40bec907fed4a",
+      "greenhouse-reddit-8282760",
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8282760",
+      "workday-salesforce-JR357681",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/GovCloud-Software-Engineer_JR357681"
     ]
   }
 }
