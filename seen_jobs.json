@@ -36015,10 +36015,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/check-technologies/1647b178-a07b-4e62-b2e1-122e6fdbd134/application",
       "seen_at": "2026-10-14T15:03:47.574927+00:00"
+    },
+    {
+      "id": "ashby-langchain-ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
+      "seen_at": "2026-10-14T15:31:33.871334+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
+      "seen_at": "2026-10-14T15:31:33.872137+00:00"
+    },
+    {
+      "id": "zapply-6e16da9ae12c",
+      "seen_at": "2026-10-14T15:31:35.518392+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799794",
+      "seen_at": "2026-10-14T15:31:35.519223+00:00"
     }
   ],
-  "last_run": "2026-10-14T15:03:48.329025+00:00",
-  "total_notified": 9216,
+  "last_run": "2026-10-14T15:31:35.828068+00:00",
+  "total_notified": 9218,
   "channels": {
     "pm-jobs": [
       "zapply-7f98daca3680",
@@ -37377,7 +37393,9 @@
       "zapply-55c40cc556aa",
       "url:https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000703071",
       "zapply-fe298e8643bb",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799135"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799135",
+      "zapply-6e16da9ae12c",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799794"
     ],
     "swe-ai-full-time": [
       "zapply-4df733277e8b",
@@ -45034,7 +45052,9 @@
       "jobright-dec2dbe9323c",
       "url:https://jobright.ai/jobs/info/6acec93770e50ec1b37f1d02",
       "simplify-fe8f92c8-cf1e-4d48-a2fa-65d895096b5a",
-      "url:https://jobs.ashbyhq.com/check-technologies/1647b178-a07b-4e62-b2e1-122e6fdbd134/application"
+      "url:https://jobs.ashbyhq.com/check-technologies/1647b178-a07b-4e62-b2e1-122e6fdbd134/application",
+      "ashby-langchain-ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
+      "url:https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6"
     ]
   }
 }
