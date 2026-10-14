@@ -35539,10 +35539,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-cummins-2436136",
       "seen_at": "2026-10-14T21:31:23.171727+00:00"
+    },
+    {
+      "id": "jobright-e3bd34af18c7",
+      "seen_at": "2026-10-14T22:01:24.550101+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfe4c178d51ae69ce08a79",
+      "seen_at": "2026-10-14T22:01:24.550870+00:00"
+    },
+    {
+      "id": "jobright-0e964a099c41",
+      "seen_at": "2026-10-14T22:01:24.551524+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfe49812303667b98a0d0d",
+      "seen_at": "2026-10-14T22:01:24.552095+00:00"
+    },
+    {
+      "id": "jobright-def013a2ae8a",
+      "seen_at": "2026-10-14T22:01:24.552675+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfbd9f78d51ae69ce07b45",
+      "seen_at": "2026-10-14T22:01:24.553224+00:00"
+    },
+    {
+      "id": "jobright-bd13f282b244",
+      "seen_at": "2026-10-14T22:01:24.553811+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfe928c9f40bec907fed4a",
+      "seen_at": "2026-10-14T22:01:24.554375+00:00"
     }
   ],
-  "last_run": "2026-10-14T21:31:23.441828+00:00",
-  "total_notified": 9290,
+  "last_run": "2026-10-14T22:01:25.789120+00:00",
+  "total_notified": 9294,
   "channels": {
     "pm-jobs": [
       "simplify-5bda221a-8620-420c-a38b-48bd4bdc58d3",
@@ -44440,7 +44472,15 @@
       "zapply-2952eba7b19c",
       "url:https://zapply.jobs/l/d/greenhouse-freedomconsulting-5265949007",
       "amazon-10579277",
-      "url:https://www.amazon.jobs/en/jobs/10579277/software-development-engineer-amazon-quick"
+      "url:https://www.amazon.jobs/en/jobs/10579277/software-development-engineer-amazon-quick",
+      "jobright-e3bd34af18c7",
+      "url:https://jobright.ai/jobs/info/6acfe4c178d51ae69ce08a79",
+      "jobright-0e964a099c41",
+      "url:https://jobright.ai/jobs/info/6acfe49812303667b98a0d0d",
+      "jobright-def013a2ae8a",
+      "url:https://jobright.ai/jobs/info/6acfbd9f78d51ae69ce07b45",
+      "jobright-bd13f282b244",
+      "url:https://jobright.ai/jobs/info/6acfe928c9f40bec907fed4a"
     ]
   }
 }
