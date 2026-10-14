@@ -36011,10 +36011,82 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523155",
       "seen_at": "2026-10-14T19:19:38.402856+00:00"
+    },
+    {
+      "id": "ashby-harvey-45c49e6b-a7b5-40f9-812f-daa038b81bb3",
+      "seen_at": "2026-10-14T20:01:25.248920+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/harvey/45c49e6b-a7b5-40f9-812f-daa038b81bb3",
+      "seen_at": "2026-10-14T20:01:25.249727+00:00"
+    },
+    {
+      "id": "jobright-83d737a70a84",
+      "seen_at": "2026-10-14T20:01:25.250349+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfc23ffe7a9bd5a6b99c1f",
+      "seen_at": "2026-10-14T20:01:25.250924+00:00"
+    },
+    {
+      "id": "jobright-c743511498fc",
+      "seen_at": "2026-10-14T20:01:25.251519+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a96f255e4e60e4b8da5ad8b",
+      "seen_at": "2026-10-14T20:01:25.252078+00:00"
+    },
+    {
+      "id": "jobright-1ecc8b88b085",
+      "seen_at": "2026-10-14T20:01:25.252675+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abde4934ac55253f5d5f1a2",
+      "seen_at": "2026-10-14T20:01:25.253247+00:00"
+    },
+    {
+      "id": "jobright-5e646720068e",
+      "seen_at": "2026-10-14T20:01:25.253824+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfa3ddc9f40bec907fd406",
+      "seen_at": "2026-10-14T20:01:25.254430+00:00"
+    },
+    {
+      "id": "applyguy-265754fa-6d05-4dc2-a93c-cd599f96ed33",
+      "seen_at": "2026-10-14T20:01:25.255018+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/clear/jobs/8241829",
+      "seen_at": "2026-10-14T20:01:25.255585+00:00"
+    },
+    {
+      "id": "jobright-bf0124787cd8",
+      "seen_at": "2026-10-14T20:01:25.256171+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfba6578d51ae69ce07a8d",
+      "seen_at": "2026-10-14T20:01:25.256781+00:00"
+    },
+    {
+      "id": "jobright-31181a19dcf6",
+      "seen_at": "2026-10-14T20:01:27.346521+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a976553e4e60e4b8da5de12",
+      "seen_at": "2026-10-14T20:01:27.347301+00:00"
+    },
+    {
+      "id": "jobright-d6042478e5a1",
+      "seen_at": "2026-10-14T20:01:27.348056+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfc5c2c0dd9da253cf4787",
+      "seen_at": "2026-10-14T20:01:27.348626+00:00"
     }
   ],
-  "last_run": "2026-10-14T19:31:26.057799+00:00",
-  "total_notified": 9268,
+  "last_run": "2026-10-14T20:01:27.729959+00:00",
+  "total_notified": 9277,
   "channels": {
     "pm-jobs": [
       "zapply-a7afa9f4e42a",
@@ -37367,7 +37439,11 @@
       "zapply-c238eef3c90c",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797640",
       "jobright-1c6f88fc4574",
-      "url:https://jobright.ai/jobs/info/6acfb15778d51ae69ce077ae"
+      "url:https://jobright.ai/jobs/info/6acfb15778d51ae69ce077ae",
+      "jobright-31181a19dcf6",
+      "url:https://jobright.ai/jobs/info/6a976553e4e60e4b8da5de12",
+      "jobright-d6042478e5a1",
+      "url:https://jobright.ai/jobs/info/6acfc5c2c0dd9da253cf4787"
     ],
     "swe-ai-full-time": [
       "zapply-109616b76043",
@@ -45030,7 +45106,21 @@
       "jobright-b867d6eb7fd1",
       "url:https://jobright.ai/jobs/info/6acfba5312303667b989fd95",
       "zapply-4454c5af5bf3",
-      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523155"
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523155",
+      "ashby-harvey-45c49e6b-a7b5-40f9-812f-daa038b81bb3",
+      "url:https://jobs.ashbyhq.com/harvey/45c49e6b-a7b5-40f9-812f-daa038b81bb3",
+      "jobright-83d737a70a84",
+      "url:https://jobright.ai/jobs/info/6acfc23ffe7a9bd5a6b99c1f",
+      "jobright-c743511498fc",
+      "url:https://jobright.ai/jobs/info/6a96f255e4e60e4b8da5ad8b",
+      "jobright-1ecc8b88b085",
+      "url:https://jobright.ai/jobs/info/6abde4934ac55253f5d5f1a2",
+      "jobright-5e646720068e",
+      "url:https://jobright.ai/jobs/info/6acfa3ddc9f40bec907fd406",
+      "applyguy-265754fa-6d05-4dc2-a93c-cd599f96ed33",
+      "url:https://job-boards.greenhouse.io/clear/jobs/8241829",
+      "jobright-bf0124787cd8",
+      "url:https://jobright.ai/jobs/info/6acfba6578d51ae69ce07a8d"
     ]
   }
 }
