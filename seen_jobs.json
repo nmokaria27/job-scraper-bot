@@ -35443,10 +35443,66 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10579215/software-development-engineer-amazon-leo-for-government",
       "seen_at": "2026-10-14T20:31:17.047667+00:00"
+    },
+    {
+      "id": "jobright-8f32e68198cc",
+      "seen_at": "2026-10-14T21:01:33.478007+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfd74a12303667b98a08dc",
+      "seen_at": "2026-10-14T21:01:33.478521+00:00"
+    },
+    {
+      "id": "jobright-0e374e68610b",
+      "seen_at": "2026-10-14T21:01:33.478957+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfccbac9f40bec907fe428",
+      "seen_at": "2026-10-14T21:01:33.479371+00:00"
+    },
+    {
+      "id": "jobright-1634ddccc1d5",
+      "seen_at": "2026-10-14T21:01:33.479767+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfcc08c0dd9da253cf4a68",
+      "seen_at": "2026-10-14T21:01:33.480138+00:00"
+    },
+    {
+      "id": "jobright-acff950af7b5",
+      "seen_at": "2026-10-14T21:01:33.480527+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfcb2378d51ae69ce082be",
+      "seen_at": "2026-10-14T21:01:33.480899+00:00"
+    },
+    {
+      "id": "jobright-132cf652a6d3",
+      "seen_at": "2026-10-14T21:01:33.481263+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfceec2cc4e9d17e90a986",
+      "seen_at": "2026-10-14T21:01:33.481637+00:00"
+    },
+    {
+      "id": "jobright-6f1624c932a7",
+      "seen_at": "2026-10-14T21:01:33.482005+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfce07c9f40bec907fe4b4",
+      "seen_at": "2026-10-14T21:01:33.482376+00:00"
+    },
+    {
+      "id": "jobright-149c6b0659f8",
+      "seen_at": "2026-10-14T21:01:33.482745+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfbda5fe7a9bd5a6b99999",
+      "seen_at": "2026-10-14T21:01:33.483107+00:00"
     }
   ],
-  "last_run": "2026-10-14T20:31:18.109339+00:00",
-  "total_notified": 9278,
+  "last_run": "2026-10-14T21:01:34.554096+00:00",
+  "total_notified": 9285,
   "channels": {
     "pm-jobs": [
       "simplify-5bda221a-8620-420c-a38b-48bd4bdc58d3",
@@ -44320,7 +44376,21 @@
       "jobright-bf0124787cd8",
       "url:https://jobright.ai/jobs/info/6acfba6578d51ae69ce07a8d",
       "amazon-10579215",
-      "url:https://www.amazon.jobs/en/jobs/10579215/software-development-engineer-amazon-leo-for-government"
+      "url:https://www.amazon.jobs/en/jobs/10579215/software-development-engineer-amazon-leo-for-government",
+      "jobright-8f32e68198cc",
+      "url:https://jobright.ai/jobs/info/6acfd74a12303667b98a08dc",
+      "jobright-0e374e68610b",
+      "url:https://jobright.ai/jobs/info/6acfccbac9f40bec907fe428",
+      "jobright-1634ddccc1d5",
+      "url:https://jobright.ai/jobs/info/6acfcc08c0dd9da253cf4a68",
+      "jobright-acff950af7b5",
+      "url:https://jobright.ai/jobs/info/6acfcb2378d51ae69ce082be",
+      "jobright-132cf652a6d3",
+      "url:https://jobright.ai/jobs/info/6acfceec2cc4e9d17e90a986",
+      "jobright-6f1624c932a7",
+      "url:https://jobright.ai/jobs/info/6acfce07c9f40bec907fe4b4",
+      "jobright-149c6b0659f8",
+      "url:https://jobright.ai/jobs/info/6acfbda5fe7a9bd5a6b99999"
     ]
   }
 }
