@@ -36031,10 +36031,66 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799794",
       "seen_at": "2026-10-14T15:31:35.519223+00:00"
+    },
+    {
+      "id": "zapply-cc6f7e722e79",
+      "seen_at": "2026-10-14T16:01:19.346238+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-clear-8241829",
+      "seen_at": "2026-10-14T16:01:19.346700+00:00"
+    },
+    {
+      "id": "jobright-e32d694f2d9f",
+      "seen_at": "2026-10-14T16:01:19.347059+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acf949878d51ae69ce06e04",
+      "seen_at": "2026-10-14T16:01:19.347400+00:00"
+    },
+    {
+      "id": "jobright-840bacad416f",
+      "seen_at": "2026-10-14T16:01:19.347750+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acf920812303667b989ef72",
+      "seen_at": "2026-10-14T16:01:19.348074+00:00"
+    },
+    {
+      "id": "jobright-4e7face2c164",
+      "seen_at": "2026-10-14T16:01:19.348402+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ace7fee4f3229123da3c639",
+      "seen_at": "2026-10-14T16:01:19.348725+00:00"
+    },
+    {
+      "id": "jobright-097fbec91c5d",
+      "seen_at": "2026-10-14T16:01:19.349046+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acf85ba2cc4e9d17e908e28",
+      "seen_at": "2026-10-14T16:01:19.349354+00:00"
+    },
+    {
+      "id": "amazon-10578659",
+      "seen_at": "2026-10-14T16:01:19.349674+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10578659/applied-scientist",
+      "seen_at": "2026-10-14T16:01:19.349971+00:00"
+    },
+    {
+      "id": "zapply-e987c2dd8744",
+      "seen_at": "2026-10-14T16:01:20.879057+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-556765",
+      "seen_at": "2026-10-14T16:01:20.879420+00:00"
     }
   ],
-  "last_run": "2026-10-14T15:31:35.828068+00:00",
-  "total_notified": 9218,
+  "last_run": "2026-10-14T16:01:21.267585+00:00",
+  "total_notified": 9225,
   "channels": {
     "pm-jobs": [
       "zapply-7f98daca3680",
@@ -37395,7 +37451,9 @@
       "zapply-fe298e8643bb",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799135",
       "zapply-6e16da9ae12c",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799794"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799794",
+      "zapply-e987c2dd8744",
+      "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-556765"
     ],
     "swe-ai-full-time": [
       "zapply-4df733277e8b",
@@ -45054,7 +45112,19 @@
       "simplify-fe8f92c8-cf1e-4d48-a2fa-65d895096b5a",
       "url:https://jobs.ashbyhq.com/check-technologies/1647b178-a07b-4e62-b2e1-122e6fdbd134/application",
       "ashby-langchain-ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
-      "url:https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6"
+      "url:https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
+      "zapply-cc6f7e722e79",
+      "url:https://zapply.jobs/l/d/greenhouse-clear-8241829",
+      "jobright-e32d694f2d9f",
+      "url:https://jobright.ai/jobs/info/6acf949878d51ae69ce06e04",
+      "jobright-840bacad416f",
+      "url:https://jobright.ai/jobs/info/6acf920812303667b989ef72",
+      "jobright-4e7face2c164",
+      "url:https://jobright.ai/jobs/info/6ace7fee4f3229123da3c639",
+      "jobright-097fbec91c5d",
+      "url:https://jobright.ai/jobs/info/6acf85ba2cc4e9d17e908e28",
+      "amazon-10578659",
+      "url:https://www.amazon.jobs/en/jobs/10578659/applied-scientist"
     ]
   }
 }
