@@ -35831,10 +35831,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-tenstorrent-5265014007",
       "seen_at": "2026-10-14T10:01:16.869786+00:00"
+    },
+    {
+      "id": "ashby-cohere-eef82766-7e31-430f-a102-bc33a5022597",
+      "seen_at": "2026-10-14T10:31:14.943336+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cohere/eef82766-7e31-430f-a102-bc33a5022597",
+      "seen_at": "2026-10-14T10:31:14.944239+00:00"
+    },
+    {
+      "id": "ashby-cohere-8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f",
+      "seen_at": "2026-10-14T10:31:14.945054+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cohere/8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f",
+      "seen_at": "2026-10-14T10:31:14.945813+00:00"
+    },
+    {
+      "id": "ashby-elevenlabs-e4e0450f-d139-4f8e-b210-2f326a680d90",
+      "seen_at": "2026-10-14T10:31:14.946584+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90",
+      "seen_at": "2026-10-14T10:31:14.947341+00:00"
+    },
+    {
+      "id": "ashby-elevenlabs-ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+      "seen_at": "2026-10-14T10:31:14.948037+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+      "seen_at": "2026-10-14T10:31:14.948697+00:00"
     }
   ],
-  "last_run": "2026-10-14T10:01:17.189001+00:00",
-  "total_notified": 9193,
+  "last_run": "2026-10-14T10:31:15.971734+00:00",
+  "total_notified": 9197,
   "channels": {
     "pm-jobs": [
       "zapply-7f98daca3680",
@@ -44804,7 +44836,15 @@
       "jobright-2ec13ab22c65",
       "url:https://jobright.ai/jobs/info/6acdbc0c77057049844000e4",
       "jobright-c8d044d14499",
-      "url:https://jobright.ai/jobs/info/6acee39a4391691a335aecc3"
+      "url:https://jobright.ai/jobs/info/6acee39a4391691a335aecc3",
+      "ashby-cohere-eef82766-7e31-430f-a102-bc33a5022597",
+      "url:https://jobs.ashbyhq.com/cohere/eef82766-7e31-430f-a102-bc33a5022597",
+      "ashby-cohere-8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f",
+      "url:https://jobs.ashbyhq.com/cohere/8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f",
+      "ashby-elevenlabs-e4e0450f-d139-4f8e-b210-2f326a680d90",
+      "url:https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90",
+      "ashby-elevenlabs-ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+      "url:https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0"
     ]
   }
 }
