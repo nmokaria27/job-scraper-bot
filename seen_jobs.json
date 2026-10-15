@@ -33011,10 +33011,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad1416d256e49282e653e7b",
       "seen_at": "2026-10-15T23:01:18.813883+00:00"
+    },
+    {
+      "id": "simplify-5788b6dc-21b4-4d4c-b5fb-b9627bebc50f",
+      "seen_at": "2026-10-15T23:31:14.155181+00:00"
+    },
+    {
+      "id": "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2023271",
+      "seen_at": "2026-10-15T23:31:14.155661+00:00"
+    },
+    {
+      "id": "amazon-10580991",
+      "seen_at": "2026-10-15T23:31:14.156065+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10580991/software-development-engineer-embedded-amazon-leo",
+      "seen_at": "2026-10-15T23:31:14.156441+00:00"
+    },
+    {
+      "id": "ashby-benchling-33c6c504-9ca4-4cae-8ebc-cfc55127b2bf",
+      "seen_at": "2026-10-15T23:31:15.958848+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/benchling/33c6c504-9ca4-4cae-8ebc-cfc55127b2bf",
+      "seen_at": "2026-10-15T23:31:15.959246+00:00"
     }
   ],
-  "last_run": "2026-10-15T23:01:20.050705+00:00",
-  "total_notified": 9438,
+  "last_run": "2026-10-15T23:31:16.269853+00:00",
+  "total_notified": 9441,
   "channels": {
     "pm-jobs": [
       "jobright-2e2ee6826136",
@@ -34299,7 +34323,9 @@
       "zapply-52c5ccf4d9ff",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210785811",
       "jobright-185820e7d26a",
-      "url:https://jobright.ai/jobs/info/6aa9925e6d0edc2d91b0a341"
+      "url:https://jobright.ai/jobs/info/6aa9925e6d0edc2d91b0a341",
+      "ashby-benchling-33c6c504-9ca4-4cae-8ebc-cfc55127b2bf",
+      "url:https://jobs.ashbyhq.com/benchling/33c6c504-9ca4-4cae-8ebc-cfc55127b2bf"
     ],
     "swe-ai-full-time": [
       "zapply-27d4bc195cc6",
@@ -41276,7 +41302,11 @@
       "jobright-2d74717f6487",
       "url:https://jobright.ai/jobs/info/6ad1379118608b6f36f82617",
       "jobright-5c21f842299f",
-      "url:https://jobright.ai/jobs/info/6ad1416d256e49282e653e7b"
+      "url:https://jobright.ai/jobs/info/6ad1416d256e49282e653e7b",
+      "simplify-5788b6dc-21b4-4d4c-b5fb-b9627bebc50f",
+      "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2023271",
+      "amazon-10580991",
+      "url:https://www.amazon.jobs/en/jobs/10580991/software-development-engineer-embedded-amazon-leo"
     ]
   }
 }
