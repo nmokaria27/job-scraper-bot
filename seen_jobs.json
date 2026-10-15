@@ -32915,10 +32915,106 @@
     {
       "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685",
       "seen_at": "2026-10-15T22:31:09.612492+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5454673008",
+      "seen_at": "2026-10-15T23:01:18.801364+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
+      "seen_at": "2026-10-15T23:01:18.802131+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5454650008",
+      "seen_at": "2026-10-15T23:01:18.802785+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
+      "seen_at": "2026-10-15T23:01:18.803321+00:00"
+    },
+    {
+      "id": "simplify-2eefce09-d541-4d5c-a03a-97ad43ece082",
+      "seen_at": "2026-10-15T23:01:18.803849+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application",
+      "seen_at": "2026-10-15T23:01:18.804371+00:00"
+    },
+    {
+      "id": "simplify-5a0765ab-4584-4368-a6b7-5253647fb5f1",
+      "seen_at": "2026-10-15T23:01:18.804887+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e/application",
+      "seen_at": "2026-10-15T23:01:18.805428+00:00"
+    },
+    {
+      "id": "simplify-73d0508d-dd1e-4792-919a-46002cc966b1",
+      "seen_at": "2026-10-15T23:01:18.805950+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/luminai/ba606839-0f3b-47db-bd36-12406aec5a37/application",
+      "seen_at": "2026-10-15T23:01:18.806471+00:00"
+    },
+    {
+      "id": "simplify-57379335-ac0a-481e-91cd-a7c79753f995",
+      "seen_at": "2026-10-15T23:01:18.807030+00:00"
+    },
+    {
+      "id": "url:https://jobs.farmersinsurance.com/job/Associate-Data-Scientist/1375029557",
+      "seen_at": "2026-10-15T23:01:18.807584+00:00"
+    },
+    {
+      "id": "zapply-201ddd4b598e",
+      "seen_at": "2026-10-15T23:01:18.808110+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-affirm-8017340003",
+      "seen_at": "2026-10-15T23:01:18.808647+00:00"
+    },
+    {
+      "id": "jobright-91cae40dbb1a",
+      "seen_at": "2026-10-15T23:01:18.809161+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad1466318608b6f36f82eca",
+      "seen_at": "2026-10-15T23:01:18.809704+00:00"
+    },
+    {
+      "id": "jobright-97738d585497",
+      "seen_at": "2026-10-15T23:01:18.810230+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad1465b3d3a5aa909b39486",
+      "seen_at": "2026-10-15T23:01:18.810757+00:00"
+    },
+    {
+      "id": "jobright-9686139cecc1",
+      "seen_at": "2026-10-15T23:01:18.811277+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad13ae318608b6f36f82838",
+      "seen_at": "2026-10-15T23:01:18.811796+00:00"
+    },
+    {
+      "id": "jobright-2d74717f6487",
+      "seen_at": "2026-10-15T23:01:18.812329+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad1379118608b6f36f82617",
+      "seen_at": "2026-10-15T23:01:18.812836+00:00"
+    },
+    {
+      "id": "jobright-5c21f842299f",
+      "seen_at": "2026-10-15T23:01:18.813374+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad1416d256e49282e653e7b",
+      "seen_at": "2026-10-15T23:01:18.813883+00:00"
     }
   ],
-  "last_run": "2026-10-15T22:31:10.615902+00:00",
-  "total_notified": 9426,
+  "last_run": "2026-10-15T23:01:20.050705+00:00",
+  "total_notified": 9438,
   "channels": {
     "pm-jobs": [
       "jobright-2e2ee6826136",
@@ -41156,7 +41252,31 @@
       "ashby-etched-85731463-f580-48dc-870b-5ba305a22fe4",
       "url:https://jobs.ashbyhq.com/etched/85731463-f580-48dc-870b-5ba305a22fe4",
       "workday-nvidia-JR2019685",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685",
+      "greenhouse-anthropic-5454673008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
+      "greenhouse-anthropic-5454650008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
+      "simplify-2eefce09-d541-4d5c-a03a-97ad43ece082",
+      "url:https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application",
+      "simplify-5a0765ab-4584-4368-a6b7-5253647fb5f1",
+      "url:https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e/application",
+      "simplify-73d0508d-dd1e-4792-919a-46002cc966b1",
+      "url:https://jobs.ashbyhq.com/luminai/ba606839-0f3b-47db-bd36-12406aec5a37/application",
+      "simplify-57379335-ac0a-481e-91cd-a7c79753f995",
+      "url:https://jobs.farmersinsurance.com/job/Associate-Data-Scientist/1375029557",
+      "zapply-201ddd4b598e",
+      "url:https://zapply.jobs/l/d/greenhouse-affirm-8017340003",
+      "jobright-91cae40dbb1a",
+      "url:https://jobright.ai/jobs/info/6ad1466318608b6f36f82eca",
+      "jobright-97738d585497",
+      "url:https://jobright.ai/jobs/info/6ad1465b3d3a5aa909b39486",
+      "jobright-9686139cecc1",
+      "url:https://jobright.ai/jobs/info/6ad13ae318608b6f36f82838",
+      "jobright-2d74717f6487",
+      "url:https://jobright.ai/jobs/info/6ad1379118608b6f36f82617",
+      "jobright-5c21f842299f",
+      "url:https://jobright.ai/jobs/info/6ad1416d256e49282e653e7b"
     ]
   }
 }
