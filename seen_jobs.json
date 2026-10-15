@@ -33427,10 +33427,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/sr-Intuitive-744000155842205",
       "seen_at": "2026-10-15T20:31:20.671084+00:00"
+    },
+    {
+      "id": "ashby-etched-885d8a6d-b1ce-4feb-89f5-f6ac9bef8ca7",
+      "seen_at": "2026-10-15T21:01:21.587019+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/etched/885d8a6d-b1ce-4feb-89f5-f6ac9bef8ca7",
+      "seen_at": "2026-10-15T21:01:21.587717+00:00"
+    },
+    {
+      "id": "jobright-fc2d64910151",
+      "seen_at": "2026-10-15T21:01:21.588342+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad1218b256e49282e652eaa",
+      "seen_at": "2026-10-15T21:01:21.588888+00:00"
+    },
+    {
+      "id": "jobright-84cf532e2a48",
+      "seen_at": "2026-10-15T21:01:21.589433+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad11eb518608b6f36f81a96",
+      "seen_at": "2026-10-15T21:01:21.589962+00:00"
+    },
+    {
+      "id": "jobright-c798458aed6a",
+      "seen_at": "2026-10-15T21:01:21.590489+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad11aaaa4f99fef81941dc1",
+      "seen_at": "2026-10-15T21:01:21.591048+00:00"
     }
   ],
-  "last_run": "2026-10-15T20:31:20.969280+00:00",
-  "total_notified": 9409,
+  "last_run": "2026-10-15T21:01:22.652050+00:00",
+  "total_notified": 9413,
   "channels": {
     "pm-jobs": [
       "zapply-beb1410e5b9f",
@@ -41798,7 +41830,15 @@
       "amazon-10580770",
       "url:https://www.amazon.jobs/en/jobs/10580770/data-scientist-experience-analytics",
       "applyguy-431f291b-d5c7-4fc3-ab3d-5794639e3011",
-      "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5265949007"
+      "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5265949007",
+      "ashby-etched-885d8a6d-b1ce-4feb-89f5-f6ac9bef8ca7",
+      "url:https://jobs.ashbyhq.com/etched/885d8a6d-b1ce-4feb-89f5-f6ac9bef8ca7",
+      "jobright-fc2d64910151",
+      "url:https://jobright.ai/jobs/info/6ad1218b256e49282e652eaa",
+      "jobright-84cf532e2a48",
+      "url:https://jobright.ai/jobs/info/6ad11eb518608b6f36f81a96",
+      "jobright-c798458aed6a",
+      "url:https://jobright.ai/jobs/info/6ad11aaaa4f99fef81941dc1"
     ]
   }
 }
