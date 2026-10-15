@@ -33323,10 +33323,58 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10580456/software-development-engineer-aws-fraud-prevention",
       "seen_at": "2026-10-15T19:31:19.116516+00:00"
+    },
+    {
+      "id": "jobright-6d015114670a",
+      "seen_at": "2026-10-15T20:01:28.600856+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab448477bd0813713316cec",
+      "seen_at": "2026-10-15T20:01:28.601560+00:00"
+    },
+    {
+      "id": "jobright-4cbba6f50ea4",
+      "seen_at": "2026-10-15T20:01:28.602112+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9b24bcfe45b8490f606fea",
+      "seen_at": "2026-10-15T20:01:28.602622+00:00"
+    },
+    {
+      "id": "jobright-8113cd4c158d",
+      "seen_at": "2026-10-15T20:01:28.603136+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad10faca4f99fef8194165e",
+      "seen_at": "2026-10-15T20:01:28.603622+00:00"
+    },
+    {
+      "id": "amazon-10580586",
+      "seen_at": "2026-10-15T20:01:28.604110+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10580586/software-dev-engineer-amazon-leo-customer-terminal-software",
+      "seen_at": "2026-10-15T20:01:28.604595+00:00"
+    },
+    {
+      "id": "jobright-3dbac06e2a1b",
+      "seen_at": "2026-10-15T20:01:28.605071+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfe22d78d51ae69ce088e7",
+      "seen_at": "2026-10-15T20:01:28.605556+00:00"
+    },
+    {
+      "id": "zapply-0435b9f4bcfb",
+      "seen_at": "2026-10-15T20:01:30.276684+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800051",
+      "seen_at": "2026-10-15T20:01:30.277271+00:00"
     }
   ],
-  "last_run": "2026-10-15T19:31:20.184882+00:00",
-  "total_notified": 9396,
+  "last_run": "2026-10-15T20:01:30.628748+00:00",
+  "total_notified": 9402,
   "channels": {
     "pm-jobs": [
       "zapply-beb1410e5b9f",
@@ -34619,7 +34667,9 @@
       "ashby-decagon-63face0d-b26a-4ea7-b03d-2fa842013063",
       "url:https://jobs.ashbyhq.com/decagon/63face0d-b26a-4ea7-b03d-2fa842013063",
       "zapply-87346ab8d72e",
-      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230266"
+      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230266",
+      "zapply-0435b9f4bcfb",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800051"
     ],
     "swe-ai-full-time": [
       "zapply-aa910874dbd0",
@@ -41668,7 +41718,17 @@
       "amazon-10580426",
       "url:https://www.amazon.jobs/en/jobs/10580426/software-development-engineer-customer-experience-improvement-defect-enrichment",
       "amazon-10580456",
-      "url:https://www.amazon.jobs/en/jobs/10580456/software-development-engineer-aws-fraud-prevention"
+      "url:https://www.amazon.jobs/en/jobs/10580456/software-development-engineer-aws-fraud-prevention",
+      "jobright-6d015114670a",
+      "url:https://jobright.ai/jobs/info/6ab448477bd0813713316cec",
+      "jobright-4cbba6f50ea4",
+      "url:https://jobright.ai/jobs/info/6a9b24bcfe45b8490f606fea",
+      "jobright-8113cd4c158d",
+      "url:https://jobright.ai/jobs/info/6ad10faca4f99fef8194165e",
+      "amazon-10580586",
+      "url:https://www.amazon.jobs/en/jobs/10580586/software-dev-engineer-amazon-leo-customer-terminal-software",
+      "jobright-3dbac06e2a1b",
+      "url:https://jobright.ai/jobs/info/6acfe22d78d51ae69ce088e7"
     ]
   }
 }
