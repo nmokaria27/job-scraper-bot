@@ -33819,10 +33819,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026192",
       "seen_at": "2026-10-15T15:31:17.749256+00:00"
+    },
+    {
+      "id": "jobright-cbc7147ee688",
+      "seen_at": "2026-10-15T16:01:36.321285+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad0df02256e49282e65087d",
+      "seen_at": "2026-10-15T16:01:36.322167+00:00"
+    },
+    {
+      "id": "jobright-5709fbf399ea",
+      "seen_at": "2026-10-15T16:01:36.322989+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6ce063ca1f933846601306",
+      "seen_at": "2026-10-15T16:01:36.323741+00:00"
+    },
+    {
+      "id": "jobright-a310596864da",
+      "seen_at": "2026-10-15T16:01:36.324487+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad0da44ae21edea94fd161f",
+      "seen_at": "2026-10-15T16:01:36.325303+00:00"
+    },
+    {
+      "id": "greenhouse-datadog-8268065",
+      "seen_at": "2026-10-15T16:01:38.326947+00:00"
+    },
+    {
+      "id": "url:https://careers.datadoghq.com/detail/8268065",
+      "seen_at": "2026-10-15T16:01:38.328000+00:00"
     }
   ],
-  "last_run": "2026-10-15T15:31:17.993299+00:00",
-  "total_notified": 9365,
+  "last_run": "2026-10-15T16:01:38.626437+00:00",
+  "total_notified": 9369,
   "channels": {
     "pm-jobs": [
       "zapply-0dbf3d5b970d",
@@ -35115,7 +35147,9 @@
       "jobright-7c4768777023",
       "url:https://jobright.ai/jobs/info/6aa8ee5a6d0edc2d91b07f62",
       "zapply-d0a99e653653",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026192"
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026192",
+      "greenhouse-datadog-8268065",
+      "url:https://careers.datadoghq.com/detail/8268065"
     ],
     "swe-ai-full-time": [
       "zapply-0b0aba8e2d93",
@@ -42288,7 +42322,13 @@
       "simplify-e3dc3916-c56e-4402-833e-d675b99b9d0c",
       "url:https://careers.arcfield.com/jobs/8780",
       "amazon-10579960",
-      "url:https://www.amazon.jobs/en/jobs/10579960/machine-learning-engineer-amazon-fai"
+      "url:https://www.amazon.jobs/en/jobs/10579960/machine-learning-engineer-amazon-fai",
+      "jobright-cbc7147ee688",
+      "url:https://jobright.ai/jobs/info/6ad0df02256e49282e65087d",
+      "jobright-5709fbf399ea",
+      "url:https://jobright.ai/jobs/info/6a6ce063ca1f933846601306",
+      "jobright-a310596864da",
+      "url:https://jobright.ai/jobs/info/6ad0da44ae21edea94fd161f"
     ]
   }
 }
