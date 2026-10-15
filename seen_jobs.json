@@ -34819,10 +34819,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aa85da5930bff471a2a6dc2",
       "seen_at": "2026-10-15T14:01:52.795759+00:00"
+    },
+    {
+      "id": "jobright-e9a67379902c",
+      "seen_at": "2026-10-15T14:55:38.753461+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5e8be9270e3033b045eae8",
+      "seen_at": "2026-10-15T14:55:38.754174+00:00"
+    },
+    {
+      "id": "jobright-a85c0268df9f",
+      "seen_at": "2026-10-15T14:55:38.754829+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad0d213ae21edea94fd13ff",
+      "seen_at": "2026-10-15T14:55:38.755411+00:00"
+    },
+    {
+      "id": "jobright-c1f043ef117f",
+      "seen_at": "2026-10-15T14:55:38.755984+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad0cd81a4f99fef8193f61a",
+      "seen_at": "2026-10-15T14:55:38.756568+00:00"
+    },
+    {
+      "id": "amazon-10579230",
+      "seen_at": "2026-10-15T14:55:38.757129+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10579230/applied-scientist-amazon-ads",
+      "seen_at": "2026-10-15T14:55:38.757670+00:00"
+    },
+    {
+      "id": "zapply-400163f86905",
+      "seen_at": "2026-10-15T14:55:40.404091+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-ncr-ext-us-R0158698",
+      "seen_at": "2026-10-15T14:55:40.404735+00:00"
+    },
+    {
+      "id": "zapply-acd7e77958b4",
+      "seen_at": "2026-10-15T14:55:40.405279+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-visa-visa-REF089328W",
+      "seen_at": "2026-10-15T14:55:40.405831+00:00"
     }
   ],
-  "last_run": "2026-10-15T14:31:17.075456+00:00",
-  "total_notified": 9354,
+  "last_run": "2026-10-15T14:55:40.598504+00:00",
+  "total_notified": 9360,
   "channels": {
     "pm-jobs": [
       "zapply-d357fce824a9",
@@ -36143,7 +36191,11 @@
       "zapply-b9d384c7874a",
       "url:https://zapply.jobs/l/d/workday-ncr-ext-us-R0158764",
       "jobright-698f50e174d3",
-      "url:https://jobright.ai/jobs/info/6aa85da5930bff471a2a6dc2"
+      "url:https://jobright.ai/jobs/info/6aa85da5930bff471a2a6dc2",
+      "zapply-400163f86905",
+      "url:https://zapply.jobs/l/d/workday-ncr-ext-us-R0158698",
+      "zapply-acd7e77958b4",
+      "url:https://zapply.jobs/l/d/workday-visa-visa-REF089328W"
     ],
     "swe-ai-full-time": [
       "ashby-cerebras-8cb78937-ac30-4ab2-98d0-680228ea5e6f",
@@ -43538,7 +43590,15 @@
       "jobright-acc245cc3600",
       "url:https://jobright.ai/jobs/info/6a55b7ef05c65f7c8f4c67ad",
       "jobright-ed0ae4950176",
-      "url:https://jobright.ai/jobs/info/6acffe2fc0dd9da253cf5bc1"
+      "url:https://jobright.ai/jobs/info/6acffe2fc0dd9da253cf5bc1",
+      "jobright-e9a67379902c",
+      "url:https://jobright.ai/jobs/info/6a5e8be9270e3033b045eae8",
+      "jobright-a85c0268df9f",
+      "url:https://jobright.ai/jobs/info/6ad0d213ae21edea94fd13ff",
+      "jobright-c1f043ef117f",
+      "url:https://jobright.ai/jobs/info/6ad0cd81a4f99fef8193f61a",
+      "amazon-10579230",
+      "url:https://www.amazon.jobs/en/jobs/10579230/applied-scientist-amazon-ads"
     ]
   }
 }
