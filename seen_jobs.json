@@ -34651,10 +34651,98 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a8637c2d34f700f87fc1241",
       "seen_at": "2026-10-15T03:01:15.873143+00:00"
+    },
+    {
+      "id": "jobright-b92195b6323a",
+      "seen_at": "2026-10-15T10:01:31.844897+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad090521db1f75ea46a0262",
+      "seen_at": "2026-10-15T10:01:31.845515+00:00"
+    },
+    {
+      "id": "jobright-2d005e2af7a4",
+      "seen_at": "2026-10-15T10:01:31.846074+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad0883b1db1f75ea46a01a8",
+      "seen_at": "2026-10-15T10:01:31.846580+00:00"
+    },
+    {
+      "id": "amazon-10579585",
+      "seen_at": "2026-10-15T10:01:31.847087+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10579585/software-development-engineer-aws-neuron-annapurna-labs",
+      "seen_at": "2026-10-15T10:01:31.847550+00:00"
+    },
+    {
+      "id": "jobright-99859ec262ef",
+      "seen_at": "2026-10-15T10:01:31.848030+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad059b51db1f75ea469fd5a",
+      "seen_at": "2026-10-15T10:01:31.848490+00:00"
+    },
+    {
+      "id": "jobright-edbcce84d824",
+      "seen_at": "2026-10-15T10:01:31.849001+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a714fe9e2b7476e7b20da6a",
+      "seen_at": "2026-10-15T10:01:31.849466+00:00"
+    },
+    {
+      "id": "jobright-acaa27ee77c9",
+      "seen_at": "2026-10-15T10:01:31.849951+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad058ddc8ae22bb47ef6b38",
+      "seen_at": "2026-10-15T10:01:31.850406+00:00"
+    },
+    {
+      "id": "jobright-158107b9b486",
+      "seen_at": "2026-10-15T10:01:31.850876+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a567a7b53b3962b910b062f",
+      "seen_at": "2026-10-15T10:01:31.851318+00:00"
+    },
+    {
+      "id": "jobright-85e340fd8fe8",
+      "seen_at": "2026-10-15T10:01:31.851771+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad05f2b1db1f75ea469fed1",
+      "seen_at": "2026-10-15T10:01:31.852247+00:00"
+    },
+    {
+      "id": "jobright-cea889a472d9",
+      "seen_at": "2026-10-15T10:01:31.852711+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad073e052a37835d5e3fe89",
+      "seen_at": "2026-10-15T10:01:31.853174+00:00"
+    },
+    {
+      "id": "jobright-38c3bcecb887",
+      "seen_at": "2026-10-15T10:01:31.853630+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad073df614121de7d947377",
+      "seen_at": "2026-10-15T10:01:31.854093+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2027699",
+      "seen_at": "2026-10-15T10:01:33.841044+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Product-Manager_JR2027699",
+      "seen_at": "2026-10-15T10:01:33.841577+00:00"
     }
   ],
-  "last_run": "2026-10-15T03:31:14.752497+00:00",
-  "total_notified": 9333,
+  "last_run": "2026-10-15T10:01:34.571038+00:00",
+  "total_notified": 9344,
   "channels": {
     "pm-jobs": [
       "zapply-d357fce824a9",
@@ -35969,7 +36057,9 @@
       "jobright-56a68831aa63",
       "url:https://jobright.ai/jobs/info/68c8b5b1f9c6ff7aedf11ae2",
       "greenhouse-anthropic-5453262008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5453262008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5453262008",
+      "workday-nvidia-JR2027699",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Product-Manager_JR2027699"
     ],
     "swe-ai-full-time": [
       "ashby-cerebras-8cb78937-ac30-4ab2-98d0-680228ea5e6f",
@@ -43328,7 +43418,27 @@
       "jobright-2e1b1f625576",
       "url:https://jobright.ai/jobs/info/6ad025552cc4e9d17e90c36a",
       "jobright-2482a43adc10",
-      "url:https://jobright.ai/jobs/info/6a8637c2d34f700f87fc1241"
+      "url:https://jobright.ai/jobs/info/6a8637c2d34f700f87fc1241",
+      "jobright-b92195b6323a",
+      "url:https://jobright.ai/jobs/info/6ad090521db1f75ea46a0262",
+      "jobright-2d005e2af7a4",
+      "url:https://jobright.ai/jobs/info/6ad0883b1db1f75ea46a01a8",
+      "amazon-10579585",
+      "url:https://www.amazon.jobs/en/jobs/10579585/software-development-engineer-aws-neuron-annapurna-labs",
+      "jobright-99859ec262ef",
+      "url:https://jobright.ai/jobs/info/6ad059b51db1f75ea469fd5a",
+      "jobright-edbcce84d824",
+      "url:https://jobright.ai/jobs/info/6a714fe9e2b7476e7b20da6a",
+      "jobright-acaa27ee77c9",
+      "url:https://jobright.ai/jobs/info/6ad058ddc8ae22bb47ef6b38",
+      "jobright-158107b9b486",
+      "url:https://jobright.ai/jobs/info/6a567a7b53b3962b910b062f",
+      "jobright-85e340fd8fe8",
+      "url:https://jobright.ai/jobs/info/6ad05f2b1db1f75ea469fed1",
+      "jobright-cea889a472d9",
+      "url:https://jobright.ai/jobs/info/6ad073e052a37835d5e3fe89",
+      "jobright-38c3bcecb887",
+      "url:https://jobright.ai/jobs/info/6ad073df614121de7d947377"
     ]
   }
 }
