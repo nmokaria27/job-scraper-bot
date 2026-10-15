@@ -33859,10 +33859,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-twitch-8887222002",
       "seen_at": "2026-10-15T16:31:26.345404+00:00"
+    },
+    {
+      "id": "jobright-c38a10b08da8",
+      "seen_at": "2026-10-15T17:01:22.944152+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa854b4930bff471a2a68a4",
+      "seen_at": "2026-10-15T17:01:22.944761+00:00"
+    },
+    {
+      "id": "jobright-c1fd7a7ab9e3",
+      "seen_at": "2026-10-15T17:01:22.945322+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a970608d13b4819f39de986",
+      "seen_at": "2026-10-15T17:01:22.945870+00:00"
+    },
+    {
+      "id": "amazon-10580051",
+      "seen_at": "2026-10-15T17:01:22.946436+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10580051/software-development-engineer-ideas-atlas",
+      "seen_at": "2026-10-15T17:01:22.947024+00:00"
+    },
+    {
+      "id": "amazon-10580035",
+      "seen_at": "2026-10-15T17:01:22.947561+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10580035/software-development-engineer-audible-ai-voice-production",
+      "seen_at": "2026-10-15T17:01:22.948109+00:00"
+    },
+    {
+      "id": "jobright-6d93a260cfb0",
+      "seen_at": "2026-10-15T17:01:22.948637+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad0e8673d3a5aa909b3623d",
+      "seen_at": "2026-10-15T17:01:22.949169+00:00"
     }
   ],
-  "last_run": "2026-10-15T16:31:27.144438+00:00",
-  "total_notified": 9370,
+  "last_run": "2026-10-15T17:01:23.954560+00:00",
+  "total_notified": 9375,
   "channels": {
     "pm-jobs": [
       "zapply-0dbf3d5b970d",
@@ -42338,7 +42378,17 @@
       "jobright-a310596864da",
       "url:https://jobright.ai/jobs/info/6ad0da44ae21edea94fd161f",
       "zapply-4fa84a64afcb",
-      "url:https://zapply.jobs/l/d/greenhouse-twitch-8887222002"
+      "url:https://zapply.jobs/l/d/greenhouse-twitch-8887222002",
+      "jobright-c38a10b08da8",
+      "url:https://jobright.ai/jobs/info/6aa854b4930bff471a2a68a4",
+      "jobright-c1fd7a7ab9e3",
+      "url:https://jobright.ai/jobs/info/6a970608d13b4819f39de986",
+      "amazon-10580051",
+      "url:https://www.amazon.jobs/en/jobs/10580051/software-development-engineer-ideas-atlas",
+      "amazon-10580035",
+      "url:https://www.amazon.jobs/en/jobs/10580035/software-development-engineer-audible-ai-voice-production",
+      "jobright-6d93a260cfb0",
+      "url:https://jobright.ai/jobs/info/6ad0e8673d3a5aa909b3623d"
     ]
   }
 }
