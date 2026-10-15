@@ -34763,10 +34763,26 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10579730/data-engineer-amazon-prime",
       "seen_at": "2026-10-15T12:31:23.814489+00:00"
+    },
+    {
+      "id": "jobright-d42d3a1b2380",
+      "seen_at": "2026-10-15T13:01:30.803592+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a86674ccc81eb647e9f2b59",
+      "seen_at": "2026-10-15T13:01:30.804082+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR356580",
+      "seen_at": "2026-10-15T13:01:30.804512+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-AMTS_JR356580",
+      "seen_at": "2026-10-15T13:01:30.804911+00:00"
     }
   ],
-  "last_run": "2026-10-15T12:31:24.631987+00:00",
-  "total_notified": 9347,
+  "last_run": "2026-10-15T13:01:32.545688+00:00",
+  "total_notified": 9349,
   "channels": {
     "pm-jobs": [
       "zapply-d357fce824a9",
@@ -43468,7 +43484,11 @@
       "jobright-0a2bb632a234",
       "url:https://jobright.ai/jobs/info/6a96788e26613756de6d836b",
       "amazon-10579730",
-      "url:https://www.amazon.jobs/en/jobs/10579730/data-engineer-amazon-prime"
+      "url:https://www.amazon.jobs/en/jobs/10579730/data-engineer-amazon-prime",
+      "jobright-d42d3a1b2380",
+      "url:https://jobright.ai/jobs/info/6a86674ccc81eb647e9f2b59",
+      "workday-salesforce-JR356580",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-AMTS_JR356580"
     ]
   }
 }
