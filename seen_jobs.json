@@ -33939,10 +33939,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155809749",
       "seen_at": "2026-10-15T17:31:39.378009+00:00"
+    },
+    {
+      "id": "jobright-005dab249c95",
+      "seen_at": "2026-10-15T18:01:36.396245+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad0f91f3d3a5aa909b36829",
+      "seen_at": "2026-10-15T18:01:36.396962+00:00"
+    },
+    {
+      "id": "jobright-3016bf61d7a1",
+      "seen_at": "2026-10-15T18:01:36.397558+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad0db05256e49282e650610",
+      "seen_at": "2026-10-15T18:01:36.398112+00:00"
+    },
+    {
+      "id": "amazon-10580322",
+      "seen_at": "2026-10-15T18:01:36.398684+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10580322/software-development-engineer-amazon-leo-sport-team",
+      "seen_at": "2026-10-15T18:01:36.399218+00:00"
     }
   ],
-  "last_run": "2026-10-15T17:31:39.878600+00:00",
-  "total_notified": 9380,
+  "last_run": "2026-10-15T18:01:37.405078+00:00",
+  "total_notified": 9383,
   "channels": {
     "pm-jobs": [
       "zapply-0dbf3d5b970d",
@@ -42438,7 +42462,13 @@
       "jobright-6d93a260cfb0",
       "url:https://jobright.ai/jobs/info/6ad0e8673d3a5aa909b3623d",
       "ashby-snowflake-37ad5524-1716-4b54-8c3a-a81429592a91",
-      "url:https://jobs.ashbyhq.com/snowflake/37ad5524-1716-4b54-8c3a-a81429592a91"
+      "url:https://jobs.ashbyhq.com/snowflake/37ad5524-1716-4b54-8c3a-a81429592a91",
+      "jobright-005dab249c95",
+      "url:https://jobright.ai/jobs/info/6ad0f91f3d3a5aa909b36829",
+      "jobright-3016bf61d7a1",
+      "url:https://jobright.ai/jobs/info/6ad0db05256e49282e650610",
+      "amazon-10580322",
+      "url:https://www.amazon.jobs/en/jobs/10580322/software-development-engineer-amazon-leo-sport-team"
     ]
   }
 }
