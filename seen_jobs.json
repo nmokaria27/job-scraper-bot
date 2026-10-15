@@ -33371,10 +33371,66 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800051",
       "seen_at": "2026-10-15T20:01:30.277271+00:00"
+    },
+    {
+      "id": "zapply-2c8c604885a9",
+      "seen_at": "2026-10-15T20:31:18.928832+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-1password-a492badd-a02f-4360-aa15-7ea8c6e2c85e",
+      "seen_at": "2026-10-15T20:31:18.929334+00:00"
+    },
+    {
+      "id": "zapply-0342cba8f3f2",
+      "seen_at": "2026-10-15T20:31:18.929744+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-spgi-spgi-careers-330647",
+      "seen_at": "2026-10-15T20:31:18.930156+00:00"
+    },
+    {
+      "id": "amazon-10580768",
+      "seen_at": "2026-10-15T20:31:18.930537+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10580768/software-dev-engineer-aws-waf-bot-control-and-fraud-prevention",
+      "seen_at": "2026-10-15T20:31:18.930901+00:00"
+    },
+    {
+      "id": "amazon-10580592",
+      "seen_at": "2026-10-15T20:31:18.931270+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10580592/software-dev-engineer-amazon-leo-customer-terminal-software",
+      "seen_at": "2026-10-15T20:31:18.931608+00:00"
+    },
+    {
+      "id": "amazon-10580770",
+      "seen_at": "2026-10-15T20:31:18.931972+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10580770/data-scientist-experience-analytics",
+      "seen_at": "2026-10-15T20:31:18.932324+00:00"
+    },
+    {
+      "id": "applyguy-431f291b-d5c7-4fc3-ab3d-5794639e3011",
+      "seen_at": "2026-10-15T20:31:18.932727+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5265949007",
+      "seen_at": "2026-10-15T20:31:18.933134+00:00"
+    },
+    {
+      "id": "zapply-b74efc8adb6d",
+      "seen_at": "2026-10-15T20:31:20.670666+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-Intuitive-744000155842205",
+      "seen_at": "2026-10-15T20:31:20.671084+00:00"
     }
   ],
-  "last_run": "2026-10-15T20:01:30.628748+00:00",
-  "total_notified": 9402,
+  "last_run": "2026-10-15T20:31:20.969280+00:00",
+  "total_notified": 9409,
   "channels": {
     "pm-jobs": [
       "zapply-beb1410e5b9f",
@@ -34669,7 +34725,9 @@
       "zapply-87346ab8d72e",
       "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230266",
       "zapply-0435b9f4bcfb",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800051"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800051",
+      "zapply-b74efc8adb6d",
+      "url:https://zapply.jobs/l/d/sr-Intuitive-744000155842205"
     ],
     "swe-ai-full-time": [
       "zapply-aa910874dbd0",
@@ -41728,7 +41786,19 @@
       "amazon-10580586",
       "url:https://www.amazon.jobs/en/jobs/10580586/software-dev-engineer-amazon-leo-customer-terminal-software",
       "jobright-3dbac06e2a1b",
-      "url:https://jobright.ai/jobs/info/6acfe22d78d51ae69ce088e7"
+      "url:https://jobright.ai/jobs/info/6acfe22d78d51ae69ce088e7",
+      "zapply-2c8c604885a9",
+      "url:https://zapply.jobs/l/d/ashby-1password-a492badd-a02f-4360-aa15-7ea8c6e2c85e",
+      "zapply-0342cba8f3f2",
+      "url:https://zapply.jobs/l/d/workday-spgi-spgi-careers-330647",
+      "amazon-10580768",
+      "url:https://www.amazon.jobs/en/jobs/10580768/software-dev-engineer-aws-waf-bot-control-and-fraud-prevention",
+      "amazon-10580592",
+      "url:https://www.amazon.jobs/en/jobs/10580592/software-dev-engineer-amazon-leo-customer-terminal-software",
+      "amazon-10580770",
+      "url:https://www.amazon.jobs/en/jobs/10580770/data-scientist-experience-analytics",
+      "applyguy-431f291b-d5c7-4fc3-ab3d-5794639e3011",
+      "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5265949007"
     ]
   }
 }
