@@ -33491,10 +33491,58 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5453548008",
       "seen_at": "2026-10-15T21:31:16.830580+00:00"
+    },
+    {
+      "id": "greenhouse-affirm-8017340003",
+      "seen_at": "2026-10-15T22:01:30.659342+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+      "seen_at": "2026-10-15T22:01:30.660006+00:00"
+    },
+    {
+      "id": "jobright-7c921353c76c",
+      "seen_at": "2026-10-15T22:01:30.660602+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad13223e2d41540d4a6eea9",
+      "seen_at": "2026-10-15T22:01:30.661130+00:00"
+    },
+    {
+      "id": "jobright-b52ac824f9dd",
+      "seen_at": "2026-10-15T22:01:30.661740+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad13103256e49282e653541",
+      "seen_at": "2026-10-15T22:01:30.662267+00:00"
+    },
+    {
+      "id": "jobright-d74b6a1a5c68",
+      "seen_at": "2026-10-15T22:01:30.662817+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad12bb0e2d41540d4a6ec85",
+      "seen_at": "2026-10-15T22:01:30.663338+00:00"
+    },
+    {
+      "id": "jobright-c097f2fb630d",
+      "seen_at": "2026-10-15T22:01:30.663902+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad132493d3a5aa909b3892f",
+      "seen_at": "2026-10-15T22:01:30.664438+00:00"
+    },
+    {
+      "id": "zapply-52c5ccf4d9ff",
+      "seen_at": "2026-10-15T22:01:32.636036+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210785811",
+      "seen_at": "2026-10-15T22:01:32.636621+00:00"
     }
   ],
-  "last_run": "2026-10-15T21:31:17.253013+00:00",
-  "total_notified": 9417,
+  "last_run": "2026-10-15T22:01:32.876736+00:00",
+  "total_notified": 9423,
   "channels": {
     "pm-jobs": [
       "zapply-beb1410e5b9f",
@@ -34795,7 +34843,9 @@
       "greenhouse-anthropic-5453550008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5453550008",
       "greenhouse-anthropic-5453548008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5453548008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5453548008",
+      "zapply-52c5ccf4d9ff",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210785811"
     ],
     "swe-ai-full-time": [
       "zapply-aa910874dbd0",
@@ -41878,7 +41928,17 @@
       "amazon-10580902",
       "url:https://www.amazon.jobs/en/jobs/10580902/applied-scientist-fauna",
       "workday-salesforce-JR363027",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering---MTS--Trust-Intelligence-Platform_JR363027"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering---MTS--Trust-Intelligence-Platform_JR363027",
+      "greenhouse-affirm-8017340003",
+      "url:https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+      "jobright-7c921353c76c",
+      "url:https://jobright.ai/jobs/info/6ad13223e2d41540d4a6eea9",
+      "jobright-b52ac824f9dd",
+      "url:https://jobright.ai/jobs/info/6ad13103256e49282e653541",
+      "jobright-d74b6a1a5c68",
+      "url:https://jobright.ai/jobs/info/6ad12bb0e2d41540d4a6ec85",
+      "jobright-c097f2fb630d",
+      "url:https://jobright.ai/jobs/info/6ad132493d3a5aa909b3892f"
     ]
   }
 }
