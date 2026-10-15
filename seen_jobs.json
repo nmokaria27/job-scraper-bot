@@ -33899,10 +33899,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad0e8673d3a5aa909b3623d",
       "seen_at": "2026-10-15T17:01:22.949169+00:00"
+    },
+    {
+      "id": "ashby-snowflake-37ad5524-1716-4b54-8c3a-a81429592a91",
+      "seen_at": "2026-10-15T17:31:37.688495+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/snowflake/37ad5524-1716-4b54-8c3a-a81429592a91",
+      "seen_at": "2026-10-15T17:31:37.688961+00:00"
+    },
+    {
+      "id": "zapply-b76b356627b1",
+      "seen_at": "2026-10-15T17:31:39.375602+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027864",
+      "seen_at": "2026-10-15T17:31:39.375999+00:00"
+    },
+    {
+      "id": "zapply-bfb32f48fe25",
+      "seen_at": "2026-10-15T17:31:39.376365+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027360",
+      "seen_at": "2026-10-15T17:31:39.376721+00:00"
+    },
+    {
+      "id": "zapply-3e82b296f0cf",
+      "seen_at": "2026-10-15T17:31:39.377049+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027355",
+      "seen_at": "2026-10-15T17:31:39.377358+00:00"
+    },
+    {
+      "id": "zapply-7b29bdfe5077",
+      "seen_at": "2026-10-15T17:31:39.377691+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155809749",
+      "seen_at": "2026-10-15T17:31:39.378009+00:00"
     }
   ],
-  "last_run": "2026-10-15T17:01:23.954560+00:00",
-  "total_notified": 9375,
+  "last_run": "2026-10-15T17:31:39.878600+00:00",
+  "total_notified": 9380,
   "channels": {
     "pm-jobs": [
       "zapply-0dbf3d5b970d",
@@ -35197,7 +35237,15 @@
       "zapply-d0a99e653653",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026192",
       "greenhouse-datadog-8268065",
-      "url:https://careers.datadoghq.com/detail/8268065"
+      "url:https://careers.datadoghq.com/detail/8268065",
+      "zapply-b76b356627b1",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027864",
+      "zapply-bfb32f48fe25",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027360",
+      "zapply-3e82b296f0cf",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027355",
+      "zapply-7b29bdfe5077",
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155809749"
     ],
     "swe-ai-full-time": [
       "zapply-0b0aba8e2d93",
@@ -42388,7 +42436,9 @@
       "amazon-10580035",
       "url:https://www.amazon.jobs/en/jobs/10580035/software-development-engineer-audible-ai-voice-production",
       "jobright-6d93a260cfb0",
-      "url:https://jobright.ai/jobs/info/6ad0e8673d3a5aa909b3623d"
+      "url:https://jobright.ai/jobs/info/6ad0e8673d3a5aa909b3623d",
+      "ashby-snowflake-37ad5524-1716-4b54-8c3a-a81429592a91",
+      "url:https://jobs.ashbyhq.com/snowflake/37ad5524-1716-4b54-8c3a-a81429592a91"
     ]
   }
 }
