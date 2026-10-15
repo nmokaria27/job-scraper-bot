@@ -35163,10 +35163,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad00500fe7a9bd5a6b9b3bf",
       "seen_at": "2026-10-15T00:51:42.230198+00:00"
+    },
+    {
+      "id": "ashby-cursor-a577902e-28e9-4e68-9ee9-91e34d1b59c4",
+      "seen_at": "2026-10-15T01:31:10.523303+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4",
+      "seen_at": "2026-10-15T01:31:10.524005+00:00"
+    },
+    {
+      "id": "amazon-10579435",
+      "seen_at": "2026-10-15T01:31:10.524639+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10579435/software-development-engineer",
+      "seen_at": "2026-10-15T01:31:10.525179+00:00"
+    },
+    {
+      "id": "amazon-10579428",
+      "seen_at": "2026-10-15T01:31:10.525734+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10579428/applied-scientist-customer360",
+      "seen_at": "2026-10-15T01:31:10.526264+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5453262008",
+      "seen_at": "2026-10-15T01:31:12.317132+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5453262008",
+      "seen_at": "2026-10-15T01:31:12.317762+00:00"
     }
   ],
-  "last_run": "2026-10-15T01:01:10.282232+00:00",
-  "total_notified": 9322,
+  "last_run": "2026-10-15T01:31:12.790334+00:00",
+  "total_notified": 9326,
   "channels": {
     "pm-jobs": [
       "zapply-c2d9222a1f9e",
@@ -36497,7 +36529,9 @@
       "jobright-3edb91d49243",
       "url:https://jobright.ai/jobs/info/68c8b47695f5211cd2ce8733",
       "jobright-56a68831aa63",
-      "url:https://jobright.ai/jobs/info/68c8b5b1f9c6ff7aedf11ae2"
+      "url:https://jobright.ai/jobs/info/68c8b5b1f9c6ff7aedf11ae2",
+      "greenhouse-anthropic-5453262008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5453262008"
     ],
     "swe-ai-full-time": [
       "zapply-94577df2add6",
@@ -43970,7 +44004,13 @@
       "jobright-9a109b96df2a",
       "url:https://jobright.ai/jobs/info/6ad005f1c0dd9da253cf5e6b",
       "jobright-f760c0fc7f14",
-      "url:https://jobright.ai/jobs/info/6ad00500fe7a9bd5a6b9b3bf"
+      "url:https://jobright.ai/jobs/info/6ad00500fe7a9bd5a6b9b3bf",
+      "ashby-cursor-a577902e-28e9-4e68-9ee9-91e34d1b59c4",
+      "url:https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4",
+      "amazon-10579435",
+      "url:https://www.amazon.jobs/en/jobs/10579435/software-development-engineer",
+      "amazon-10579428",
+      "url:https://www.amazon.jobs/en/jobs/10579428/applied-scientist-customer360"
     ]
   }
 }
