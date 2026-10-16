@@ -32755,10 +32755,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8893406002",
       "seen_at": "2026-10-16T11:01:25.390796+00:00"
+    },
+    {
+      "id": "jobright-c51f4849015c",
+      "seen_at": "2026-10-16T12:01:30.829290+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad1f882977ae951c8e018ae",
+      "seen_at": "2026-10-16T12:01:30.829918+00:00"
+    },
+    {
+      "id": "jobright-ebbeea47f4b6",
+      "seen_at": "2026-10-16T12:01:30.830499+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a52e7dc9fbdab22fe13d88e",
+      "seen_at": "2026-10-16T12:01:30.831033+00:00"
+    },
+    {
+      "id": "jobright-b452ddf44d0f",
+      "seen_at": "2026-10-16T12:01:30.831606+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad1f167ac037ffd0b62032e",
+      "seen_at": "2026-10-16T12:01:30.832138+00:00"
     }
   ],
-  "last_run": "2026-10-16T11:31:16.355930+00:00",
-  "total_notified": 9464,
+  "last_run": "2026-10-16T12:01:36.052899+00:00",
+  "total_notified": 9467,
   "channels": {
     "pm-jobs": [
       "zapply-b68300b5a58b",
@@ -40956,7 +40980,13 @@
       "jobright-d527a748efdc",
       "url:https://jobright.ai/jobs/info/6ad18d16c24514d0596ccf99",
       "zapply-81b244e227d9",
-      "url:https://zapply.jobs/l/d/greenhouse-spacex-8893406002"
+      "url:https://zapply.jobs/l/d/greenhouse-spacex-8893406002",
+      "jobright-c51f4849015c",
+      "url:https://jobright.ai/jobs/info/6ad1f882977ae951c8e018ae",
+      "jobright-ebbeea47f4b6",
+      "url:https://jobright.ai/jobs/info/6a52e7dc9fbdab22fe13d88e",
+      "jobright-b452ddf44d0f",
+      "url:https://jobright.ai/jobs/info/6ad1f167ac037ffd0b62032e"
     ]
   }
 }
