@@ -31055,10 +31055,74 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aad4ed86956574eac8b4e89",
       "seen_at": "2026-10-16T23:01:24.938276+00:00"
+    },
+    {
+      "id": "simplify-984e5620-d97d-4408-9534-5b618ea183b2",
+      "seen_at": "2026-10-16T23:31:10.911237+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/axon/jobs/7703668003",
+      "seen_at": "2026-10-16T23:31:10.911849+00:00"
+    },
+    {
+      "id": "simplify-7b2a26dd-7916-4ee7-ba75-e35c445c25b0",
+      "seen_at": "2026-10-16T23:31:10.912379+00:00"
+    },
+    {
+      "id": "url:https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121398",
+      "seen_at": "2026-10-16T23:31:10.912889+00:00"
+    },
+    {
+      "id": "simplify-261d38fb-d89b-4d4e-8f69-57bb0c3586f9",
+      "seen_at": "2026-10-16T23:31:10.913403+00:00"
+    },
+    {
+      "id": "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-Engineer---Software---Mobile-App-Development_REQ370392-1",
+      "seen_at": "2026-10-16T23:31:10.913887+00:00"
+    },
+    {
+      "id": "simplify-f2a0d97d-1b21-482a-a6ec-72d3376e8a59",
+      "seen_at": "2026-10-16T23:31:10.914394+00:00"
+    },
+    {
+      "id": "url:https://careers.planview.com/jobs/5080",
+      "seen_at": "2026-10-16T23:31:10.914879+00:00"
+    },
+    {
+      "id": "simplify-e1ba7862-cdbf-402c-8153-b3b41a329ce9",
+      "seen_at": "2026-10-16T23:31:10.915371+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5454172008",
+      "seen_at": "2026-10-16T23:31:10.915895+00:00"
+    },
+    {
+      "id": "greenhouse-gleanwork-4744818005",
+      "seen_at": "2026-10-16T23:31:10.916410+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/gleanwork/jobs/4744818005",
+      "seen_at": "2026-10-16T23:31:10.916921+00:00"
+    },
+    {
+      "id": "simplify-78e80744-3ce1-4b18-b9ea-2404285d8fc8",
+      "seen_at": "2026-10-16T23:31:10.917436+00:00"
+    },
+    {
+      "id": "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24668",
+      "seen_at": "2026-10-16T23:31:10.917916+00:00"
+    },
+    {
+      "id": "simplify-414b435e-c949-4dc5-8d11-adbcb8ef0e01",
+      "seen_at": "2026-10-16T23:31:10.918416+00:00"
+    },
+    {
+      "id": "url:https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer_REQ-058508-1",
+      "seen_at": "2026-10-16T23:31:10.918902+00:00"
     }
   ],
-  "last_run": "2026-10-16T23:01:25.163536+00:00",
-  "total_notified": 9513,
+  "last_run": "2026-10-16T23:31:14.734568+00:00",
+  "total_notified": 9521,
   "channels": {
     "pm-jobs": [
       "zapply-c02759a53c50",
@@ -38831,7 +38895,23 @@
       "ashby-llamaindex-a2f14066-9e18-4da3-8861-2da3230e393c",
       "url:https://jobs.ashbyhq.com/llamaindex/a2f14066-9e18-4da3-8861-2da3230e393c",
       "ashby-perplexity-63785f62-07ac-4dc5-8f68-57779dddb1f3",
-      "url:https://jobs.ashbyhq.com/perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3"
+      "url:https://jobs.ashbyhq.com/perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3",
+      "simplify-984e5620-d97d-4408-9534-5b618ea183b2",
+      "url:https://job-boards.greenhouse.io/axon/jobs/7703668003",
+      "simplify-7b2a26dd-7916-4ee7-ba75-e35c445c25b0",
+      "url:https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121398",
+      "simplify-261d38fb-d89b-4d4e-8f69-57bb0c3586f9",
+      "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-Engineer---Software---Mobile-App-Development_REQ370392-1",
+      "simplify-f2a0d97d-1b21-482a-a6ec-72d3376e8a59",
+      "url:https://careers.planview.com/jobs/5080",
+      "simplify-e1ba7862-cdbf-402c-8153-b3b41a329ce9",
+      "url:https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5454172008",
+      "greenhouse-gleanwork-4744818005",
+      "url:https://job-boards.greenhouse.io/gleanwork/jobs/4744818005",
+      "simplify-78e80744-3ce1-4b18-b9ea-2404285d8fc8",
+      "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24668",
+      "simplify-414b435e-c949-4dc5-8d11-adbcb8ef0e01",
+      "url:https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer_REQ-058508-1"
     ]
   }
 }
