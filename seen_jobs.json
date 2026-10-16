@@ -32795,10 +32795,26 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Austin/Digital-Success-Analytics-Engineer_JR362928-1",
       "seen_at": "2026-10-16T13:31:18.173600+00:00"
+    },
+    {
+      "id": "greenhouse-doordashusa-8289029",
+      "seen_at": "2026-10-16T14:31:23.467593+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/doordashusa/jobs/8289029",
+      "seen_at": "2026-10-16T14:31:23.468194+00:00"
+    },
+    {
+      "id": "ashby-clickhouse-adf52ecd-e075-4a65-89b9-d129960b67f5",
+      "seen_at": "2026-10-16T14:31:23.468663+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/clickhouse/adf52ecd-e075-4a65-89b9-d129960b67f5",
+      "seen_at": "2026-10-16T14:31:23.469087+00:00"
     }
   ],
-  "last_run": "2026-10-16T14:01:49.109824+00:00",
-  "total_notified": 9469,
+  "last_run": "2026-10-16T14:31:23.831702+00:00",
+  "total_notified": 9471,
   "channels": {
     "pm-jobs": [
       "zapply-b68300b5a58b",
@@ -34077,7 +34093,11 @@
       "ashby-Ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a",
       "url:https://jobs.ashbyhq.com/Ashby/390e266b-4b6c-4490-ad74-05ff5e0bb36a",
       "zapply-8df272faa44a",
-      "url:https://zapply.jobs/l/d/ashby-ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a"
+      "url:https://zapply.jobs/l/d/ashby-ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a",
+      "greenhouse-doordashusa-8289029",
+      "url:https://job-boards.greenhouse.io/doordashusa/jobs/8289029",
+      "ashby-clickhouse-adf52ecd-e075-4a65-89b9-d129960b67f5",
+      "url:https://jobs.ashbyhq.com/clickhouse/adf52ecd-e075-4a65-89b9-d129960b67f5"
     ],
     "swe-ai-full-time": [
       "zapply-a82646117a67",
