@@ -32619,10 +32619,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/ashby-ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a",
       "seen_at": "2026-10-16T01:01:21.962938+00:00"
+    },
+    {
+      "id": "simplify-d1f50127-9dc7-4b88-a4ae-bffdc7c84812",
+      "seen_at": "2026-10-16T02:01:20.603090+00:00"
+    },
+    {
+      "id": "url:https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
+      "seen_at": "2026-10-16T02:01:20.603471+00:00"
+    },
+    {
+      "id": "applyguy-76520ed8-44e4-4518-94dc-d3430c7fb4a7",
+      "seen_at": "2026-10-16T02:01:20.603781+00:00"
+    },
+    {
+      "id": "url:https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
+      "seen_at": "2026-10-16T02:01:20.604076+00:00"
+    },
+    {
+      "id": "jobright-34ae924eeeac",
+      "seen_at": "2026-10-16T02:01:20.604359+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9e421c2c964816f65ec795",
+      "seen_at": "2026-10-16T02:01:20.604639+00:00"
+    },
+    {
+      "id": "jobright-ff42909c8598",
+      "seen_at": "2026-10-16T02:01:20.604930+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8fd5727c32860d14cf6d92",
+      "seen_at": "2026-10-16T02:01:20.605200+00:00"
+    },
+    {
+      "id": "jobright-1f3a9424c30d",
+      "seen_at": "2026-10-16T02:01:20.605475+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad133b03d3a5aa909b389cf",
+      "seen_at": "2026-10-16T02:01:20.605736+00:00"
+    },
+    {
+      "id": "jobright-118593bc5f8f",
+      "seen_at": "2026-10-16T02:01:20.606009+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad1660218608b6f36f83ec8",
+      "seen_at": "2026-10-16T02:01:20.606262+00:00"
     }
   ],
-  "last_run": "2026-10-16T01:31:15.257389+00:00",
-  "total_notified": 9447,
+  "last_run": "2026-10-16T02:01:25.040594+00:00",
+  "total_notified": 9453,
   "channels": {
     "pm-jobs": [
       "zapply-b68300b5a58b",
@@ -40786,7 +40834,19 @@
       "jobright-3f2dd3d3063f",
       "url:https://jobright.ai/jobs/info/6ad15be0e2d41540d4a7062f",
       "jobright-8bb47a57669c",
-      "url:https://jobright.ai/jobs/info/6a8fe7e88ffa38557e6ca964"
+      "url:https://jobright.ai/jobs/info/6a8fe7e88ffa38557e6ca964",
+      "simplify-d1f50127-9dc7-4b88-a4ae-bffdc7c84812",
+      "url:https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
+      "applyguy-76520ed8-44e4-4518-94dc-d3430c7fb4a7",
+      "url:https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
+      "jobright-34ae924eeeac",
+      "url:https://jobright.ai/jobs/info/6a9e421c2c964816f65ec795",
+      "jobright-ff42909c8598",
+      "url:https://jobright.ai/jobs/info/6a8fd5727c32860d14cf6d92",
+      "jobright-1f3a9424c30d",
+      "url:https://jobright.ai/jobs/info/6ad133b03d3a5aa909b389cf",
+      "jobright-118593bc5f8f",
+      "url:https://jobright.ai/jobs/info/6ad1660218608b6f36f83ec8"
     ]
   }
 }
