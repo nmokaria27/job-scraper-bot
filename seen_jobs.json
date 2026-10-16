@@ -31927,10 +31927,42 @@
     {
       "id": "url:https://job-boards.greenhouse.io/oscar/jobs/8264978",
       "seen_at": "2026-10-16T15:01:27.244024+00:00"
+    },
+    {
+      "id": "jobright-58f9ae08009c",
+      "seen_at": "2026-10-16T16:01:31.810800+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7e73d0e573df8adc75084",
+      "seen_at": "2026-10-16T16:01:31.811200+00:00"
+    },
+    {
+      "id": "jobright-21bbb1fa10dd",
+      "seen_at": "2026-10-16T16:01:39.575959+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad22bad25289a0b3bf547a3",
+      "seen_at": "2026-10-16T16:01:39.576302+00:00"
+    },
+    {
+      "id": "jobright-1b8a2b5ca872",
+      "seen_at": "2026-10-16T16:01:39.576588+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad22bad5290d4375c450c54",
+      "seen_at": "2026-10-16T16:01:39.576842+00:00"
+    },
+    {
+      "id": "zapply-0f7e917c38a5",
+      "seen_at": "2026-10-16T16:01:39.577106+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-293861",
+      "seen_at": "2026-10-16T16:01:39.577351+00:00"
     }
   ],
-  "last_run": "2026-10-16T15:31:30.560564+00:00",
-  "total_notified": 9473,
+  "last_run": "2026-10-16T16:01:39.982093+00:00",
+  "total_notified": 9477,
   "channels": {
     "pm-jobs": [
       "zapply-2150f21585ca",
@@ -33175,7 +33207,13 @@
       "ashby-clickhouse-adf52ecd-e075-4a65-89b9-d129960b67f5",
       "url:https://jobs.ashbyhq.com/clickhouse/adf52ecd-e075-4a65-89b9-d129960b67f5",
       "greenhouse-oscar-8264978",
-      "url:https://job-boards.greenhouse.io/oscar/jobs/8264978"
+      "url:https://job-boards.greenhouse.io/oscar/jobs/8264978",
+      "jobright-21bbb1fa10dd",
+      "url:https://jobright.ai/jobs/info/6ad22bad25289a0b3bf547a3",
+      "jobright-1b8a2b5ca872",
+      "url:https://jobright.ai/jobs/info/6ad22bad5290d4375c450c54",
+      "zapply-0f7e917c38a5",
+      "url:https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-293861"
     ],
     "swe-ai-full-time": [
       "ashby-notion-ead663e3-3eb2-4e0e-97e5-86820062dd68",
@@ -39921,7 +39959,9 @@
       "workday-salesforce-JR362928",
       "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Austin/Digital-Success-Analytics-Engineer_JR362928-1",
       "amazon-10581340",
-      "url:https://www.amazon.jobs/en/jobs/10581340/software-engineer-simulation-fauna"
+      "url:https://www.amazon.jobs/en/jobs/10581340/software-engineer-simulation-fauna",
+      "jobright-58f9ae08009c",
+      "url:https://jobright.ai/jobs/info/6ac7e73d0e573df8adc75084"
     ]
   }
 }
