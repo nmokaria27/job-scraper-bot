@@ -32015,10 +32015,66 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-556821",
       "seen_at": "2026-10-16T18:02:03.915019+00:00"
+    },
+    {
+      "id": "jobright-253d31d4a8b8",
+      "seen_at": "2026-10-16T18:47:02.670128+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad25a1cf04335fc70ed5047",
+      "seen_at": "2026-10-16T18:47:02.670965+00:00"
+    },
+    {
+      "id": "jobright-4095b9e26f7b",
+      "seen_at": "2026-10-16T18:47:02.671710+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad25d2df04335fc70ed5184",
+      "seen_at": "2026-10-16T18:47:02.672402+00:00"
+    },
+    {
+      "id": "amazon-10581621",
+      "seen_at": "2026-10-16T18:47:02.673088+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10581621/software-development-engineer-fulfillment-planning-and-execution",
+      "seen_at": "2026-10-16T18:47:02.673754+00:00"
+    },
+    {
+      "id": "amazon-10581608",
+      "seen_at": "2026-10-16T18:47:02.674445+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10581608/software-development-engineer-aws-infrastructure-supply-chain-automation",
+      "seen_at": "2026-10-16T18:47:02.675096+00:00"
+    },
+    {
+      "id": "jobright-ac6fbc6a9429",
+      "seen_at": "2026-10-16T18:47:02.675657+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad25aaa810010ec72f578d1",
+      "seen_at": "2026-10-16T18:47:02.676199+00:00"
+    },
+    {
+      "id": "jobright-2b6349b581f1",
+      "seen_at": "2026-10-16T18:47:02.676773+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad25a8c5290d4375c4528b3",
+      "seen_at": "2026-10-16T18:47:02.677332+00:00"
+    },
+    {
+      "id": "zapply-00ae69460e7f",
+      "seen_at": "2026-10-16T18:47:07.697039+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210798968",
+      "seen_at": "2026-10-16T18:47:07.697785+00:00"
     }
   ],
-  "last_run": "2026-10-16T18:31:22.782188+00:00",
-  "total_notified": 9484,
+  "last_run": "2026-10-16T18:47:07.985250+00:00",
+  "total_notified": 9491,
   "channels": {
     "pm-jobs": [
       "zapply-2150f21585ca",
@@ -33275,7 +33331,9 @@
       "jobright-77ff453be64c",
       "url:https://jobright.ai/jobs/info/6ad24d61f04335fc70ed47af",
       "zapply-7fcc75e8a6f8",
-      "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-556821"
+      "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-556821",
+      "zapply-00ae69460e7f",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210798968"
     ],
     "swe-ai-full-time": [
       "ashby-notion-ead663e3-3eb2-4e0e-97e5-86820062dd68",
@@ -40031,7 +40089,19 @@
       "jobright-9c3ad84173dd",
       "url:https://jobright.ai/jobs/info/6a5ee720f29acc1a11749d72",
       "jobright-916dd60c0693",
-      "url:https://jobright.ai/jobs/info/6a9a059ead752e2ad5503637"
+      "url:https://jobright.ai/jobs/info/6a9a059ead752e2ad5503637",
+      "jobright-253d31d4a8b8",
+      "url:https://jobright.ai/jobs/info/6ad25a1cf04335fc70ed5047",
+      "jobright-4095b9e26f7b",
+      "url:https://jobright.ai/jobs/info/6ad25d2df04335fc70ed5184",
+      "amazon-10581621",
+      "url:https://www.amazon.jobs/en/jobs/10581621/software-development-engineer-fulfillment-planning-and-execution",
+      "amazon-10581608",
+      "url:https://www.amazon.jobs/en/jobs/10581608/software-development-engineer-aws-infrastructure-supply-chain-automation",
+      "jobright-ac6fbc6a9429",
+      "url:https://jobright.ai/jobs/info/6ad25aaa810010ec72f578d1",
+      "jobright-2b6349b581f1",
+      "url:https://jobright.ai/jobs/info/6ad25a8c5290d4375c4528b3"
     ]
   }
 }
