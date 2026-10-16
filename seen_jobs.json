@@ -31839,10 +31839,34 @@
     {
       "id": "url:https://jobs.ashbyhq.com/perplexity/fcb4cc78-d4bd-4489-8756-7d39e755ac76",
       "seen_at": "2026-10-16T19:31:20.017029+00:00"
+    },
+    {
+      "id": "jobright-fd48ecdcbb5f",
+      "seen_at": "2026-10-16T20:01:33.807990+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad17439e2d41540d4a70d2a",
+      "seen_at": "2026-10-16T20:01:33.808845+00:00"
+    },
+    {
+      "id": "jobright-c7a6cd4e0e65",
+      "seen_at": "2026-10-16T20:01:33.809592+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad26128810010ec72f57b39",
+      "seen_at": "2026-10-16T20:01:33.810189+00:00"
+    },
+    {
+      "id": "jobright-56fc6559c866",
+      "seen_at": "2026-10-16T20:01:33.810776+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad25e865290d4375c452a53",
+      "seen_at": "2026-10-16T20:01:33.811347+00:00"
     }
   ],
-  "last_run": "2026-10-16T19:31:25.376901+00:00",
-  "total_notified": 9493,
+  "last_run": "2026-10-16T20:01:37.429631+00:00",
+  "total_notified": 9496,
   "channels": {
     "pm-jobs": [
       "zapply-f4a89d8d0760",
@@ -39811,7 +39835,13 @@
       "ashby-perplexity-375f9fc9-392e-4d0b-9a10-4b2013e05ad4",
       "url:https://jobs.ashbyhq.com/perplexity/375f9fc9-392e-4d0b-9a10-4b2013e05ad4",
       "ashby-perplexity-fcb4cc78-d4bd-4489-8756-7d39e755ac76",
-      "url:https://jobs.ashbyhq.com/perplexity/fcb4cc78-d4bd-4489-8756-7d39e755ac76"
+      "url:https://jobs.ashbyhq.com/perplexity/fcb4cc78-d4bd-4489-8756-7d39e755ac76",
+      "jobright-fd48ecdcbb5f",
+      "url:https://jobright.ai/jobs/info/6ad17439e2d41540d4a70d2a",
+      "jobright-c7a6cd4e0e65",
+      "url:https://jobright.ai/jobs/info/6ad26128810010ec72f57b39",
+      "jobright-56fc6559c866",
+      "url:https://jobright.ai/jobs/info/6ad25e865290d4375c452a53"
     ]
   }
 }
