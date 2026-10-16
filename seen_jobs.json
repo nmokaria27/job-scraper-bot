@@ -31863,10 +31863,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad25e865290d4375c452a53",
       "seen_at": "2026-10-16T20:01:33.811347+00:00"
+    },
+    {
+      "id": "applyguy-29c62f44-5fd2-4951-b2f3-b9d3e92054bf",
+      "seen_at": "2026-10-16T20:31:15.970536+00:00"
+    },
+    {
+      "id": "url:https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R40122",
+      "seen_at": "2026-10-16T20:31:15.971362+00:00"
+    },
+    {
+      "id": "amazon-10581756",
+      "seen_at": "2026-10-16T20:31:15.972088+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10581756/data-engineer-decision-intelligence-technology",
+      "seen_at": "2026-10-16T20:31:15.972775+00:00"
     }
   ],
-  "last_run": "2026-10-16T20:01:37.429631+00:00",
-  "total_notified": 9496,
+  "last_run": "2026-10-16T20:31:20.318484+00:00",
+  "total_notified": 9498,
   "channels": {
     "pm-jobs": [
       "zapply-f4a89d8d0760",
@@ -39841,7 +39857,11 @@
       "jobright-c7a6cd4e0e65",
       "url:https://jobright.ai/jobs/info/6ad26128810010ec72f57b39",
       "jobright-56fc6559c866",
-      "url:https://jobright.ai/jobs/info/6ad25e865290d4375c452a53"
+      "url:https://jobright.ai/jobs/info/6ad25e865290d4375c452a53",
+      "applyguy-29c62f44-5fd2-4951-b2f3-b9d3e92054bf",
+      "url:https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R40122",
+      "amazon-10581756",
+      "url:https://www.amazon.jobs/en/jobs/10581756/data-engineer-decision-intelligence-technology"
     ]
   }
 }
