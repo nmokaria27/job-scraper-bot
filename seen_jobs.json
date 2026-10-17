@@ -30615,10 +30615,18 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
       "seen_at": "2026-10-17T00:23:42.464175+00:00"
+    },
+    {
+      "id": "ashby-applied-6b3d1aa5-a987-4350-9b79-b14c6e297cdf",
+      "seen_at": "2026-10-17T01:01:14.270301+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/6b3d1aa5-a987-4350-9b79-b14c6e297cdf",
+      "seen_at": "2026-10-17T01:01:14.270923+00:00"
     }
   ],
-  "last_run": "2026-10-17T00:31:18.537185+00:00",
-  "total_notified": 9528,
+  "last_run": "2026-10-17T01:01:18.629210+00:00",
+  "total_notified": 9529,
   "channels": {
     "pm-jobs": [
       "zapply-ed940fb41fd0",
@@ -38281,7 +38289,9 @@
       "amazon-10581936",
       "url:https://www.amazon.jobs/en/jobs/10581936/applied-scientist-personalization-dtx-science",
       "amazon-10581943",
-      "url:https://www.amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us"
+      "url:https://www.amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
+      "ashby-applied-6b3d1aa5-a987-4350-9b79-b14c6e297cdf",
+      "url:https://jobs.ashbyhq.com/applied/6b3d1aa5-a987-4350-9b79-b14c6e297cdf"
     ]
   }
 }
