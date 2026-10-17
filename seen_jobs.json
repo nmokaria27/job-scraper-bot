@@ -30679,10 +30679,106 @@
     {
       "id": "url:https://app.careerpuck.com/job-board/lyft/job/8896679002",
       "seen_at": "2026-10-17T03:01:20.084241+00:00"
+    },
+    {
+      "id": "jobright-ecb13b996461",
+      "seen_at": "2026-10-17T10:01:19.039084+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a83c45e9b859b2277670aa4",
+      "seen_at": "2026-10-17T10:01:19.039637+00:00"
+    },
+    {
+      "id": "jobright-9693e870f091",
+      "seen_at": "2026-10-17T10:01:19.040164+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad2ce55810010ec72f5a099",
+      "seen_at": "2026-10-17T10:01:19.040646+00:00"
+    },
+    {
+      "id": "applyguy-2abb9b3d-e85c-43c3-bb5b-19e527d0d30e",
+      "seen_at": "2026-10-17T10:01:19.041220+00:00"
+    },
+    {
+      "id": "url:https://abnormal.ai/careers/jobs/8015179003",
+      "seen_at": "2026-10-17T10:01:19.041702+00:00"
+    },
+    {
+      "id": "jobright-bec4bdad2a42",
+      "seen_at": "2026-10-17T10:01:19.042221+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad2f58dc4290cef1412d8d2",
+      "seen_at": "2026-10-17T10:01:19.042701+00:00"
+    },
+    {
+      "id": "jobright-0b974914d774",
+      "seen_at": "2026-10-17T10:01:19.043230+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad2e2ebc4290cef1412d6b1",
+      "seen_at": "2026-10-17T10:01:19.043706+00:00"
+    },
+    {
+      "id": "gradtracker-ac147164d026",
+      "seen_at": "2026-10-17T10:01:19.044225+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446721051165",
+      "seen_at": "2026-10-17T10:01:19.044687+00:00"
+    },
+    {
+      "id": "amazon-10582059",
+      "seen_at": "2026-10-17T10:01:19.045218+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10582059/ml-compiler-engineer-neuron-kernel-interface",
+      "seen_at": "2026-10-17T10:01:19.045685+00:00"
+    },
+    {
+      "id": "jobright-687788510116",
+      "seen_at": "2026-10-17T10:01:19.046188+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad31c555290d4375c4560bf",
+      "seen_at": "2026-10-17T10:01:19.046658+00:00"
+    },
+    {
+      "id": "jobright-165a14e66327",
+      "seen_at": "2026-10-17T10:01:19.047166+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7088c0e027c0f3b3b52de",
+      "seen_at": "2026-10-17T10:01:19.047652+00:00"
+    },
+    {
+      "id": "jobright-678da92d0efa",
+      "seen_at": "2026-10-17T10:01:19.048175+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad3066e5290d4375c455d82",
+      "seen_at": "2026-10-17T10:01:19.048651+00:00"
+    },
+    {
+      "id": "jobright-3858562f1ba4",
+      "seen_at": "2026-10-17T10:01:19.049162+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5a56a04da96a42cfd95477",
+      "seen_at": "2026-10-17T10:01:19.049639+00:00"
+    },
+    {
+      "id": "zapply-95a2d5363178",
+      "seen_at": "2026-10-17T10:01:19.050143+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-5dce7087-f333-45e4-8cd5-9618df46eef9",
+      "seen_at": "2026-10-17T10:01:19.050620+00:00"
     }
   ],
-  "last_run": "2026-10-17T03:31:17.339811+00:00",
-  "total_notified": 9536,
+  "last_run": "2026-10-17T10:01:23.926705+00:00",
+  "total_notified": 9548,
   "channels": {
     "pm-jobs": [
       "zapply-ed940fb41fd0",
@@ -38361,7 +38457,31 @@
       "greenhouse-lyft-8896671002",
       "url:https://app.careerpuck.com/job-board/lyft/job/8896671002",
       "greenhouse-lyft-8896679002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8896679002"
+      "url:https://app.careerpuck.com/job-board/lyft/job/8896679002",
+      "jobright-ecb13b996461",
+      "url:https://jobright.ai/jobs/info/6a83c45e9b859b2277670aa4",
+      "jobright-9693e870f091",
+      "url:https://jobright.ai/jobs/info/6ad2ce55810010ec72f5a099",
+      "applyguy-2abb9b3d-e85c-43c3-bb5b-19e527d0d30e",
+      "url:https://abnormal.ai/careers/jobs/8015179003",
+      "jobright-bec4bdad2a42",
+      "url:https://jobright.ai/jobs/info/6ad2f58dc4290cef1412d8d2",
+      "jobright-0b974914d774",
+      "url:https://jobright.ai/jobs/info/6ad2e2ebc4290cef1412d6b1",
+      "gradtracker-ac147164d026",
+      "url:https://careers.qualcomm.com/careers/job/446721051165",
+      "amazon-10582059",
+      "url:https://www.amazon.jobs/en/jobs/10582059/ml-compiler-engineer-neuron-kernel-interface",
+      "jobright-687788510116",
+      "url:https://jobright.ai/jobs/info/6ad31c555290d4375c4560bf",
+      "jobright-165a14e66327",
+      "url:https://jobright.ai/jobs/info/6ac7088c0e027c0f3b3b52de",
+      "jobright-678da92d0efa",
+      "url:https://jobright.ai/jobs/info/6ad3066e5290d4375c455d82",
+      "jobright-3858562f1ba4",
+      "url:https://jobright.ai/jobs/info/6a5a56a04da96a42cfd95477",
+      "zapply-95a2d5363178",
+      "url:https://zapply.jobs/l/d/amazon-5dce7087-f333-45e4-8cd5-9618df46eef9"
     ]
   }
 }
