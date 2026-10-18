@@ -1,214 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-5e08591d356c",
-      "seen_at": "2026-09-18T22:41:50.764284+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a93b217a27a2d3c9848e395",
-      "seen_at": "2026-09-18T22:41:50.765128+00:00"
-    },
-    {
-      "id": "jobright-3e1bfccad9dc",
-      "seen_at": "2026-09-18T22:41:50.765924+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aad89e23dbb1f8967cee20c",
-      "seen_at": "2026-09-18T22:41:50.766695+00:00"
-    },
-    {
-      "id": "jobright-896049303c53",
-      "seen_at": "2026-09-18T22:41:50.767491+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aad8ba80ebc8fb2313ea38b",
-      "seen_at": "2026-09-18T22:41:50.768244+00:00"
-    },
-    {
-      "id": "zapply-207571633985",
-      "seen_at": "2026-09-18T22:41:50.769024+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-remitly-remitly-careers-R_106936",
-      "seen_at": "2026-09-18T22:41:50.769787+00:00"
-    },
-    {
-      "id": "zapply-46c052d2e9b0",
-      "seen_at": "2026-09-18T22:41:50.770559+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3167682",
-      "seen_at": "2026-09-18T22:41:50.771327+00:00"
-    },
-    {
-      "id": "zapply-77df927df945",
-      "seen_at": "2026-09-18T22:41:50.772097+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2603917",
-      "seen_at": "2026-09-18T22:41:50.772862+00:00"
-    },
-    {
-      "id": "zapply-a44126071a93",
-      "seen_at": "2026-09-18T22:41:50.773634+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-altera-altera-R02868",
-      "seen_at": "2026-09-18T22:41:50.774411+00:00"
-    },
-    {
-      "id": "jobright-f13f6bf64a10",
-      "seen_at": "2026-09-18T22:41:50.775178+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a57d0aef7517b519ad5d48a",
-      "seen_at": "2026-09-18T22:41:50.775938+00:00"
-    },
-    {
-      "id": "ashby-benchling-358ff26c-7b23-4645-b906-2244c76e2cb2",
-      "seen_at": "2026-09-18T22:41:50.776710+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/benchling/358ff26c-7b23-4645-b906-2244c76e2cb2",
-      "seen_at": "2026-09-18T22:41:50.777467+00:00"
-    },
-    {
-      "id": "ashby-benchling-345fa9cf-c753-4fe0-91a4-1e37e0cde651",
-      "seen_at": "2026-09-18T22:41:50.778221+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/benchling/345fa9cf-c753-4fe0-91a4-1e37e0cde651",
-      "seen_at": "2026-09-18T22:41:50.778987+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5428898008",
-      "seen_at": "2026-09-18T22:41:50.779752+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5428898008",
-      "seen_at": "2026-09-18T22:41:50.780511+00:00"
-    },
-    {
-      "id": "applyguy-dd24b9f1-691f-4c23-914c-c0fa23cf4046",
-      "seen_at": "2026-09-18T22:42:12.702390+00:00"
-    },
-    {
-      "id": "url:https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071",
-      "seen_at": "2026-09-18T22:42:12.703286+00:00"
-    },
-    {
-      "id": "jobright-7a13b633712e",
-      "seen_at": "2026-09-18T22:42:12.704126+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aad93ed0ebc8fb2313ea672",
-      "seen_at": "2026-09-18T22:42:12.704944+00:00"
-    },
-    {
-      "id": "jobright-422fdb5a9cf2",
-      "seen_at": "2026-09-18T22:42:12.705806+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aad92b73dbb1f8967cee59b",
-      "seen_at": "2026-09-18T22:42:12.706682+00:00"
-    },
-    {
-      "id": "zapply-0fb0997da4a5",
-      "seen_at": "2026-09-18T22:42:12.707515+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2019484",
-      "seen_at": "2026-09-18T22:42:12.708329+00:00"
-    },
-    {
-      "id": "simplify-89e37552-ee0c-479f-8b19-19090755e8e2",
-      "seen_at": "2026-09-18T22:42:12.709134+00:00"
-    },
-    {
-      "id": "url:https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/AI-ML-Engineer_20261243-1",
-      "seen_at": "2026-09-18T22:42:12.709965+00:00"
-    },
-    {
-      "id": "zapply-58510a317600",
-      "seen_at": "2026-09-18T22:42:12.710793+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-rivianvw.tech-45773489-7107-4942-92d0-3f9c48ef79e0",
-      "seen_at": "2026-09-18T22:42:12.711629+00:00"
-    },
-    {
-      "id": "zapply-90b247b97f70",
-      "seen_at": "2026-09-18T22:42:12.712458+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/apple-200684265",
-      "seen_at": "2026-09-18T22:42:12.713274+00:00"
-    },
-    {
-      "id": "zapply-7bd0b3c5966d",
-      "seen_at": "2026-09-18T22:42:12.714102+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-740d1b29-882a-4a22-82bf-afd2966187f9",
-      "seen_at": "2026-09-18T22:42:12.714926+00:00"
-    },
-    {
-      "id": "jobright-97a70321519a",
-      "seen_at": "2026-09-18T22:42:12.715758+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aad8aba3d96632d741ae8d8",
-      "seen_at": "2026-09-18T22:42:12.716593+00:00"
-    },
-    {
-      "id": "amazon-10553986",
-      "seen_at": "2026-09-18T22:42:12.717426+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10553986/software-development-engineer-aws-analytics-engineering",
-      "seen_at": "2026-09-18T22:42:12.718235+00:00"
-    },
-    {
-      "id": "amazon-10554058",
-      "seen_at": "2026-09-18T22:42:12.719063+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10554058/applied-scientist-aws-infrastructure-services-science",
-      "seen_at": "2026-09-18T22:42:12.719881+00:00"
-    },
-    {
-      "id": "zapply-461403007275",
-      "seen_at": "2026-09-18T22:42:12.720705+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000150462539",
-      "seen_at": "2026-09-18T22:42:12.721537+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8806570002",
-      "seen_at": "2026-09-18T22:42:12.722375+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8806570002",
-      "seen_at": "2026-09-18T22:42:12.723181+00:00"
-    },
-    {
-      "id": "jobright-9ce312fc89a4",
-      "seen_at": "2026-09-18T22:42:12.724007+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a600ec933ef5c58b4001949",
-      "seen_at": "2026-09-18T22:42:12.724829+00:00"
-    },
-    {
-      "id": "zapply-0dbfde43f26c",
-      "seen_at": "2026-09-18T22:42:12.725680+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30144",
-      "seen_at": "2026-09-18T22:42:12.726508+00:00"
-    },
-    {
       "id": "jobright-e9d57feb9b04",
       "seen_at": "2026-09-19T00:43:37.019019+00:00"
     },
@@ -27271,34 +27063,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a976553b22f636c81417a95",
       "seen_at": "2026-10-18T22:24:06.084627+00:00"
+    },
+    {
+      "id": "simplify-22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9",
+      "seen_at": "2026-10-18T23:01:24.932240+00:00"
+    },
+    {
+      "id": "url:https://careers.vtgdefense.com/jobs/9669",
+      "seen_at": "2026-10-18T23:01:24.932737+00:00"
+    },
+    {
+      "id": "jobright-315a46bd1bd1",
+      "seen_at": "2026-10-18T23:01:24.933177+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad5342483ada13a9da0dc10",
+      "seen_at": "2026-10-18T23:01:24.933552+00:00"
     }
   ],
-  "last_run": "2026-10-18T22:31:11.718871+00:00",
-  "total_notified": 9588,
+  "last_run": "2026-10-18T23:01:28.037632+00:00",
+  "total_notified": 9590,
   "channels": {
     "pm-jobs": [
-      "jobright-5e08591d356c",
-      "url:https://jobright.ai/jobs/info/6a93b217a27a2d3c9848e395",
-      "jobright-3e1bfccad9dc",
-      "url:https://jobright.ai/jobs/info/6aad89e23dbb1f8967cee20c",
-      "jobright-896049303c53",
-      "url:https://jobright.ai/jobs/info/6aad8ba80ebc8fb2313ea38b",
-      "zapply-207571633985",
-      "url:https://zapply.jobs/l/d/workday-remitly-remitly-careers-R_106936",
-      "zapply-46c052d2e9b0",
-      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3167682",
-      "zapply-77df927df945",
-      "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2603917",
-      "zapply-a44126071a93",
-      "url:https://zapply.jobs/l/d/workday-altera-altera-R02868",
-      "jobright-f13f6bf64a10",
-      "url:https://jobright.ai/jobs/info/6a57d0aef7517b519ad5d48a",
-      "ashby-benchling-358ff26c-7b23-4645-b906-2244c76e2cb2",
-      "url:https://jobs.ashbyhq.com/benchling/358ff26c-7b23-4645-b906-2244c76e2cb2",
-      "ashby-benchling-345fa9cf-c753-4fe0-91a4-1e37e0cde651",
-      "url:https://jobs.ashbyhq.com/benchling/345fa9cf-c753-4fe0-91a4-1e37e0cde651",
-      "greenhouse-anthropic-5428898008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5428898008",
       "jobright-e9d57feb9b04",
       "url:https://jobright.ai/jobs/info/6aadc2066956574eac8b791f",
       "jobright-683f22111352",
@@ -28382,36 +28168,6 @@
       "url:https://jobright.ai/jobs/info/6a976553b22f636c81417a95"
     ],
     "swe-ai-full-time": [
-      "applyguy-dd24b9f1-691f-4c23-914c-c0fa23cf4046",
-      "url:https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071",
-      "jobright-7a13b633712e",
-      "url:https://jobright.ai/jobs/info/6aad93ed0ebc8fb2313ea672",
-      "jobright-422fdb5a9cf2",
-      "url:https://jobright.ai/jobs/info/6aad92b73dbb1f8967cee59b",
-      "zapply-0fb0997da4a5",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2019484",
-      "simplify-89e37552-ee0c-479f-8b19-19090755e8e2",
-      "url:https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/AI-ML-Engineer_20261243-1",
-      "zapply-58510a317600",
-      "url:https://zapply.jobs/l/d/ashby-rivianvw.tech-45773489-7107-4942-92d0-3f9c48ef79e0",
-      "zapply-90b247b97f70",
-      "url:https://zapply.jobs/l/d/apple-200684265",
-      "zapply-7bd0b3c5966d",
-      "url:https://zapply.jobs/l/d/amazon-740d1b29-882a-4a22-82bf-afd2966187f9",
-      "jobright-97a70321519a",
-      "url:https://jobright.ai/jobs/info/6aad8aba3d96632d741ae8d8",
-      "amazon-10553986",
-      "url:https://www.amazon.jobs/en/jobs/10553986/software-development-engineer-aws-analytics-engineering",
-      "amazon-10554058",
-      "url:https://www.amazon.jobs/en/jobs/10554058/applied-scientist-aws-infrastructure-services-science",
-      "zapply-461403007275",
-      "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000150462539",
-      "greenhouse-lyft-8806570002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8806570002",
-      "jobright-9ce312fc89a4",
-      "url:https://jobright.ai/jobs/info/6a600ec933ef5c58b4001949",
-      "zapply-0dbfde43f26c",
-      "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30144",
       "ashby-perplexity-daa9120e-94ff-46e0-b4bd-4d2d290cb409",
       "url:https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409",
       "gradtracker-82a99f66ee40",
@@ -34101,7 +33857,11 @@
       "jobright-303247eca4d8",
       "url:https://jobright.ai/jobs/info/6a461b583dbab558e29a3c8f",
       "jobright-07e75f5ab901",
-      "url:https://jobright.ai/jobs/info/6ad52809c4290cef14132c3a"
+      "url:https://jobright.ai/jobs/info/6ad52809c4290cef14132c3a",
+      "simplify-22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9",
+      "url:https://careers.vtgdefense.com/jobs/9669",
+      "jobright-315a46bd1bd1",
+      "url:https://jobright.ai/jobs/info/6ad5342483ada13a9da0dc10"
     ]
   }
 }
