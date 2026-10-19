@@ -1,182 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-e9d57feb9b04",
-      "seen_at": "2026-09-19T00:43:37.019019+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aadc2066956574eac8b791f",
-      "seen_at": "2026-09-19T00:43:37.020199+00:00"
-    },
-    {
-      "id": "jobright-683f22111352",
-      "seen_at": "2026-09-19T00:43:37.021291+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aada42b6956574eac8b6e56",
-      "seen_at": "2026-09-19T00:43:37.022140+00:00"
-    },
-    {
-      "id": "zapply-d3f29532b7fe",
-      "seen_at": "2026-09-19T00:43:37.022988+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R69791",
-      "seen_at": "2026-09-19T00:43:37.023800+00:00"
-    },
-    {
-      "id": "jobright-136619d4b821",
-      "seen_at": "2026-09-19T00:43:37.024613+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aadbc6d3dbb1f8967cef349",
-      "seen_at": "2026-09-19T00:43:37.025404+00:00"
-    },
-    {
-      "id": "jobright-d91bada43842",
-      "seen_at": "2026-09-19T00:43:37.026206+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aadaac23dbb1f8967ceeed6",
-      "seen_at": "2026-09-19T00:43:37.027001+00:00"
-    },
-    {
-      "id": "jobright-3b969d88e916",
-      "seen_at": "2026-09-19T00:43:37.027816+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aada2166956574eac8b6d4e",
-      "seen_at": "2026-09-19T00:43:37.028612+00:00"
-    },
-    {
-      "id": "ashby-perplexity-daa9120e-94ff-46e0-b4bd-4d2d290cb409",
-      "seen_at": "2026-09-19T00:43:56.329485+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409",
-      "seen_at": "2026-09-19T00:43:56.330625+00:00"
-    },
-    {
-      "id": "gradtracker-82a99f66ee40",
-      "seen_at": "2026-09-19T00:43:56.331619+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10553797/data-engineer-ring-agent-platforms",
-      "seen_at": "2026-09-19T00:43:56.332511+00:00"
-    },
-    {
-      "id": "gradtracker-f417cf3281cf",
-      "seen_at": "2026-09-19T00:43:56.333415+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446721155295",
-      "seen_at": "2026-09-19T00:43:56.334294+00:00"
-    },
-    {
-      "id": "gradtracker-e107986bda1c",
-      "seen_at": "2026-09-19T00:43:56.335172+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446721159438",
-      "seen_at": "2026-09-19T00:43:56.336042+00:00"
-    },
-    {
-      "id": "zapply-d824354a1f4b",
-      "seen_at": "2026-09-19T00:43:56.336926+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-mercor-1dcab154-b92d-4a5f-aed5-b1b8c049cdbc",
-      "seen_at": "2026-09-19T00:43:56.337812+00:00"
-    },
-    {
-      "id": "gradtracker-7c4629c170ad",
-      "seen_at": "2026-09-19T00:43:56.338704+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446719744706",
-      "seen_at": "2026-09-19T00:43:56.339571+00:00"
-    },
-    {
-      "id": "gradtracker-825dee329c26",
-      "seen_at": "2026-09-19T00:43:56.340449+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446721159119",
-      "seen_at": "2026-09-19T00:43:56.341316+00:00"
-    },
-    {
-      "id": "gradtracker-8d5a9dcf1743",
-      "seen_at": "2026-09-19T00:43:56.342176+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446721161408",
-      "seen_at": "2026-09-19T00:43:56.343029+00:00"
-    },
-    {
-      "id": "gradtracker-8db2f18823c1",
-      "seen_at": "2026-09-19T00:43:56.343908+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000150444020",
-      "seen_at": "2026-09-19T00:43:56.344767+00:00"
-    },
-    {
-      "id": "zapply-57a2aa0bd499",
-      "seen_at": "2026-09-19T00:43:56.345638+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2021976",
-      "seen_at": "2026-09-19T00:43:56.346494+00:00"
-    },
-    {
-      "id": "zapply-0f858d15f6e4",
-      "seen_at": "2026-09-19T00:43:56.347370+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8822280002",
-      "seen_at": "2026-09-19T00:43:56.348217+00:00"
-    },
-    {
-      "id": "zapply-7a3a8b8fb360",
-      "seen_at": "2026-09-19T00:43:56.349095+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-trimble-trimblecareers-R53360",
-      "seen_at": "2026-09-19T00:43:56.349965+00:00"
-    },
-    {
-      "id": "greenhouse-reddit-8214910",
-      "seen_at": "2026-09-19T00:43:56.350852+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8214910",
-      "seen_at": "2026-09-19T00:43:56.351714+00:00"
-    },
-    {
-      "id": "jobright-a52699d39de5",
-      "seen_at": "2026-09-19T00:43:56.352588+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aadb5713dbb1f8967cef136",
-      "seen_at": "2026-09-19T00:43:56.353454+00:00"
-    },
-    {
-      "id": "amazon-10554084",
-      "seen_at": "2026-09-19T00:43:56.354336+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10554084/software-development-engineer-aws-opensearch-service",
-      "seen_at": "2026-09-19T00:43:56.355183+00:00"
-    },
-    {
-      "id": "zapply-910b57d6e7d9",
-      "seen_at": "2026-09-19T00:43:56.356049+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R237204",
-      "seen_at": "2026-09-19T00:43:56.356916+00:00"
-    },
-    {
       "id": "jobright-b1a8ca9a3efb",
       "seen_at": "2026-09-19T13:54:56.294898+00:00"
     },
@@ -27089,22 +26913,10 @@
       "seen_at": "2026-10-19T00:01:44.711765+00:00"
     }
   ],
-  "last_run": "2026-10-19T00:31:35.892764+00:00",
+  "last_run": "2026-10-19T01:01:32.779334+00:00",
   "total_notified": 9591,
   "channels": {
     "pm-jobs": [
-      "jobright-e9d57feb9b04",
-      "url:https://jobright.ai/jobs/info/6aadc2066956574eac8b791f",
-      "jobright-683f22111352",
-      "url:https://jobright.ai/jobs/info/6aada42b6956574eac8b6e56",
-      "zapply-d3f29532b7fe",
-      "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R69791",
-      "jobright-136619d4b821",
-      "url:https://jobright.ai/jobs/info/6aadbc6d3dbb1f8967cef349",
-      "jobright-d91bada43842",
-      "url:https://jobright.ai/jobs/info/6aadaac23dbb1f8967ceeed6",
-      "jobright-3b969d88e916",
-      "url:https://jobright.ai/jobs/info/6aada2166956574eac8b6d4e",
       "jobright-b1a8ca9a3efb",
       "url:https://jobright.ai/jobs/info/6a7e7e51b56bea5779c063ac",
       "simplify-1a3f75ea-8f1a-407b-9b03-528f168ffacb",
@@ -28176,38 +27988,6 @@
       "url:https://jobright.ai/jobs/info/6a976553b22f636c81417a95"
     ],
     "swe-ai-full-time": [
-      "ashby-perplexity-daa9120e-94ff-46e0-b4bd-4d2d290cb409",
-      "url:https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409",
-      "gradtracker-82a99f66ee40",
-      "url:https://www.amazon.jobs/en/jobs/10553797/data-engineer-ring-agent-platforms",
-      "gradtracker-f417cf3281cf",
-      "url:https://careers.qualcomm.com/careers/job/446721155295",
-      "gradtracker-e107986bda1c",
-      "url:https://careers.qualcomm.com/careers/job/446721159438",
-      "zapply-d824354a1f4b",
-      "url:https://zapply.jobs/l/d/ashby-mercor-1dcab154-b92d-4a5f-aed5-b1b8c049cdbc",
-      "gradtracker-7c4629c170ad",
-      "url:https://careers.qualcomm.com/careers/job/446719744706",
-      "gradtracker-825dee329c26",
-      "url:https://careers.qualcomm.com/careers/job/446721159119",
-      "gradtracker-8d5a9dcf1743",
-      "url:https://careers.qualcomm.com/careers/job/446721161408",
-      "gradtracker-8db2f18823c1",
-      "url:https://jobs.smartrecruiters.com/servicenow/744000150444020",
-      "zapply-57a2aa0bd499",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2021976",
-      "zapply-0f858d15f6e4",
-      "url:https://zapply.jobs/l/d/greenhouse-spacex-8822280002",
-      "zapply-7a3a8b8fb360",
-      "url:https://zapply.jobs/l/d/workday-trimble-trimblecareers-R53360",
-      "greenhouse-reddit-8214910",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8214910",
-      "jobright-a52699d39de5",
-      "url:https://jobright.ai/jobs/info/6aadb5713dbb1f8967cef136",
-      "amazon-10554084",
-      "url:https://www.amazon.jobs/en/jobs/10554084/software-development-engineer-aws-opensearch-service",
-      "zapply-910b57d6e7d9",
-      "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R237204",
       "simplify-11510869-ac93-4ce2-85d4-2787fe2b2cb2",
       "url:https://study.com/pages/jobApplication.html",
       "simplify-a339dae3-c079-4987-a6be-c0b863c83fb6",
