@@ -26999,10 +26999,50 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10583203/software-development-engineer-amazon-quick",
       "seen_at": "2026-10-19T19:31:33.486423+00:00"
+    },
+    {
+      "id": "jobright-02ca78cd1ce6",
+      "seen_at": "2026-10-19T20:01:36.765983+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a55b6b1ef22935f2e3f5e86",
+      "seen_at": "2026-10-19T20:01:36.766533+00:00"
+    },
+    {
+      "id": "jobright-a43da94c9cbb",
+      "seen_at": "2026-10-19T20:01:36.767049+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a427c5aa5e15b1068379168",
+      "seen_at": "2026-10-19T20:01:36.767491+00:00"
+    },
+    {
+      "id": "jobright-43f921a4c3de",
+      "seen_at": "2026-10-19T20:01:36.767955+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad65cbf3dc655658d8e5333",
+      "seen_at": "2026-10-19T20:01:36.768390+00:00"
+    },
+    {
+      "id": "jobright-439126394493",
+      "seen_at": "2026-10-19T20:01:36.768835+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0f453b619335383fb2a762",
+      "seen_at": "2026-10-19T20:01:36.769278+00:00"
+    },
+    {
+      "id": "jobright-163b76ec288e",
+      "seen_at": "2026-10-19T20:01:42.963544+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad653d43dc655658d8e4b72",
+      "seen_at": "2026-10-19T20:01:42.964004+00:00"
     }
   ],
-  "last_run": "2026-10-19T19:31:37.438205+00:00",
-  "total_notified": 9644,
+  "last_run": "2026-10-19T20:01:43.363762+00:00",
+  "total_notified": 9649,
   "channels": {
     "pm-jobs": [
       "jobright-a63c94df1cd8",
@@ -28063,7 +28103,9 @@
       "greenhouse-anthropic-5457043008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5457043008",
       "jobright-63645ae81057",
-      "url:https://jobright.ai/jobs/info/6ad64cc5950ef68d518381c6"
+      "url:https://jobright.ai/jobs/info/6ad64cc5950ef68d518381c6",
+      "jobright-163b76ec288e",
+      "url:https://jobright.ai/jobs/info/6ad653d43dc655658d8e4b72"
     ],
     "swe-ai-full-time": [
       "zapply-928845970a89",
@@ -33761,7 +33803,15 @@
       "zapply-55239fcbe9f9",
       "url:https://zapply.jobs/l/d/workday-citi-2-26999296",
       "amazon-10583203",
-      "url:https://www.amazon.jobs/en/jobs/10583203/software-development-engineer-amazon-quick"
+      "url:https://www.amazon.jobs/en/jobs/10583203/software-development-engineer-amazon-quick",
+      "jobright-02ca78cd1ce6",
+      "url:https://jobright.ai/jobs/info/6a55b6b1ef22935f2e3f5e86",
+      "jobright-a43da94c9cbb",
+      "url:https://jobright.ai/jobs/info/6a427c5aa5e15b1068379168",
+      "jobright-43f921a4c3de",
+      "url:https://jobright.ai/jobs/info/6ad65cbf3dc655658d8e5333",
+      "jobright-439126394493",
+      "url:https://jobright.ai/jobs/info/6a0f453b619335383fb2a762"
     ]
   }
 }
