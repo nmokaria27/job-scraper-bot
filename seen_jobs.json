@@ -1,94 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-30d579aa09a5",
-      "seen_at": "2026-09-19T17:14:12.922033+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa7809382e82a31997c1f9f",
-      "seen_at": "2026-09-19T17:14:12.922859+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5413576008",
-      "seen_at": "2026-09-19T17:14:12.923666+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5413576008",
-      "seen_at": "2026-09-19T17:14:12.924424+00:00"
-    },
-    {
-      "id": "jobright-f4a79e39f8f1",
-      "seen_at": "2026-09-19T17:14:12.925180+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a69694b2a5c103624db494d",
-      "seen_at": "2026-09-19T17:14:12.925950+00:00"
-    },
-    {
-      "id": "jobright-d635d5a961aa",
-      "seen_at": "2026-09-19T17:14:12.926729+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a6ab634394f9d64d8be6ada",
-      "seen_at": "2026-09-19T17:14:12.927475+00:00"
-    },
-    {
-      "id": "jobright-fff4afa1a310",
-      "seen_at": "2026-09-19T17:14:25.714092+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a75baac6b9def3e9e1f8c81",
-      "seen_at": "2026-09-19T17:14:25.715038+00:00"
-    },
-    {
-      "id": "jobright-15af8a040307",
-      "seen_at": "2026-09-19T17:14:25.715897+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aaea4f73dbb1f8967cf0e5d",
-      "seen_at": "2026-09-19T17:14:25.716723+00:00"
-    },
-    {
-      "id": "jobright-eb013d2fd75e",
-      "seen_at": "2026-09-19T17:14:25.717583+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aaea4f72e757fcb5c8bbc5b",
-      "seen_at": "2026-09-19T17:14:25.718400+00:00"
-    },
-    {
-      "id": "jobright-00af775a6772",
-      "seen_at": "2026-09-19T17:14:25.719256+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aadbe29de327d3e210d42b1",
-      "seen_at": "2026-09-19T17:14:25.720091+00:00"
-    },
-    {
-      "id": "jobright-17d2dd2c53b1",
-      "seen_at": "2026-09-19T17:14:25.720929+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aae862b3dbb1f8967cf0ce0",
-      "seen_at": "2026-09-19T17:14:25.721772+00:00"
-    },
-    {
-      "id": "jobright-0b6b69cee9d3",
-      "seen_at": "2026-09-19T17:14:25.722640+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a921369a27a2d3c9848b462",
-      "seen_at": "2026-09-19T17:14:25.723463+00:00"
-    },
-    {
-      "id": "jobright-9d7453f0796b",
-      "seen_at": "2026-09-19T17:14:25.724286+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aae97fd0ebc8fb2313ecdb9",
-      "seen_at": "2026-09-19T17:14:25.725114+00:00"
-    },
-    {
       "id": "jobright-4f11cd27e552",
       "seen_at": "2026-09-19T19:23:45.178734+00:00"
     },
@@ -26991,20 +26903,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad62b9d3dc655658d8e2e36",
       "seen_at": "2026-10-19T16:58:00.449116+00:00"
+    },
+    {
+      "id": "ashby-notion-8c0bf773-e536-45c9-9a6c-8ee478148cc8",
+      "seen_at": "2026-10-19T17:31:32.006301+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8",
+      "seen_at": "2026-10-19T17:31:32.006851+00:00"
     }
   ],
-  "last_run": "2026-10-19T17:02:00.635949+00:00",
-  "total_notified": 9630,
+  "last_run": "2026-10-19T17:31:36.106130+00:00",
+  "total_notified": 9631,
   "channels": {
     "pm-jobs": [
-      "jobright-30d579aa09a5",
-      "url:https://jobright.ai/jobs/info/6aa7809382e82a31997c1f9f",
-      "greenhouse-anthropic-5413576008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5413576008",
-      "jobright-f4a79e39f8f1",
-      "url:https://jobright.ai/jobs/info/6a69694b2a5c103624db494d",
-      "jobright-d635d5a961aa",
-      "url:https://jobright.ai/jobs/info/6a6ab634394f9d64d8be6ada",
       "jobright-4f11cd27e552",
       "url:https://jobright.ai/jobs/info/6aaeb7b06956574eac8b9293",
       "jobright-a63c94df1cd8",
@@ -28062,20 +27974,6 @@
       "url:https://jobright.ai/jobs/info/6ad60b2b67bec1d0d9c6aba6"
     ],
     "swe-ai-full-time": [
-      "jobright-fff4afa1a310",
-      "url:https://jobright.ai/jobs/info/6a75baac6b9def3e9e1f8c81",
-      "jobright-15af8a040307",
-      "url:https://jobright.ai/jobs/info/6aaea4f73dbb1f8967cf0e5d",
-      "jobright-eb013d2fd75e",
-      "url:https://jobright.ai/jobs/info/6aaea4f72e757fcb5c8bbc5b",
-      "jobright-00af775a6772",
-      "url:https://jobright.ai/jobs/info/6aadbe29de327d3e210d42b1",
-      "jobright-17d2dd2c53b1",
-      "url:https://jobright.ai/jobs/info/6aae862b3dbb1f8967cf0ce0",
-      "jobright-0b6b69cee9d3",
-      "url:https://jobright.ai/jobs/info/6a921369a27a2d3c9848b462",
-      "jobright-9d7453f0796b",
-      "url:https://jobright.ai/jobs/info/6aae97fd0ebc8fb2313ecdb9",
       "jobright-9071c09b3475",
       "url:https://jobright.ai/jobs/info/6a7605d07b3417772ade6369",
       "zapply-928845970a89",
@@ -33751,7 +33649,9 @@
       "amazon-10582742",
       "url:https://www.amazon.jobs/en/jobs/10582742/applied-scientist-perception-slam-vio-fauna",
       "jobright-6080526b40fc",
-      "url:https://jobright.ai/jobs/info/6ad62b9d3dc655658d8e2e36"
+      "url:https://jobright.ai/jobs/info/6ad62b9d3dc655658d8e2e36",
+      "ashby-notion-8c0bf773-e536-45c9-9a6c-8ee478148cc8",
+      "url:https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8"
     ]
   }
 }
