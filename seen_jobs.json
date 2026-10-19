@@ -26927,10 +26927,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a0f44fd80bf0430c76322b7",
       "seen_at": "2026-10-19T18:01:34.731618+00:00"
+    },
+    {
+      "id": "amazon-10583039",
+      "seen_at": "2026-10-19T18:31:31.693677+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10583039/software-development-engineer-amazon-msk-managed-streaming-for-kafka",
+      "seen_at": "2026-10-19T18:31:31.694001+00:00"
+    },
+    {
+      "id": "zapply-90618a5c9cfe",
+      "seen_at": "2026-10-19T18:31:36.984376+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799668",
+      "seen_at": "2026-10-19T18:31:36.984651+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5457043008",
+      "seen_at": "2026-10-19T18:31:36.984893+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5457043008",
+      "seen_at": "2026-10-19T18:31:36.985111+00:00"
     }
   ],
-  "last_run": "2026-10-19T18:01:41.209442+00:00",
-  "total_notified": 9633,
+  "last_run": "2026-10-19T18:31:37.340746+00:00",
+  "total_notified": 9636,
   "channels": {
     "pm-jobs": [
       "jobright-4f11cd27e552",
@@ -27987,7 +28011,11 @@
       "zapply-307d77d7cda0",
       "url:https://zapply.jobs/l/d/google-136073823404335814",
       "jobright-9510ac8e9378",
-      "url:https://jobright.ai/jobs/info/6ad60b2b67bec1d0d9c6aba6"
+      "url:https://jobright.ai/jobs/info/6ad60b2b67bec1d0d9c6aba6",
+      "zapply-90618a5c9cfe",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799668",
+      "greenhouse-anthropic-5457043008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5457043008"
     ],
     "swe-ai-full-time": [
       "jobright-9071c09b3475",
@@ -33671,7 +33699,9 @@
       "jobright-559445c26517",
       "url:https://jobright.ai/jobs/info/6ad6434154bbabbab06f5efd",
       "jobright-d0a53d1142bd",
-      "url:https://jobright.ai/jobs/info/6a0f44fd80bf0430c76322b7"
+      "url:https://jobright.ai/jobs/info/6a0f44fd80bf0430c76322b7",
+      "amazon-10583039",
+      "url:https://www.amazon.jobs/en/jobs/10583039/software-development-engineer-amazon-msk-managed-streaming-for-kafka"
     ]
   }
 }
