@@ -1,238 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-b1a8ca9a3efb",
-      "seen_at": "2026-09-19T13:54:56.294898+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7e7e51b56bea5779c063ac",
-      "seen_at": "2026-09-19T13:54:56.295736+00:00"
-    },
-    {
-      "id": "simplify-1a3f75ea-8f1a-407b-9b03-528f168ffacb",
-      "seen_at": "2026-09-19T13:54:56.296608+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/tintai/jobs/4736081005",
-      "seen_at": "2026-09-19T13:54:56.297394+00:00"
-    },
-    {
-      "id": "jobright-6c4a9c4df98f",
-      "seen_at": "2026-09-19T13:54:56.298205+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a91f0a0d18f75674827acb2",
-      "seen_at": "2026-09-19T13:54:56.298981+00:00"
-    },
-    {
-      "id": "jobright-a735b887fb82",
-      "seen_at": "2026-09-19T13:54:56.299749+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aae0d422e757fcb5c8bae81",
-      "seen_at": "2026-09-19T13:54:56.300513+00:00"
-    },
-    {
-      "id": "simplify-781f87eb-1b67-4312-8612-42cf55bf4154",
-      "seen_at": "2026-09-19T13:54:56.301289+00:00"
-    },
-    {
-      "id": "url:https://jobs.jobvite.com/asus/job/oi7PAfwy",
-      "seen_at": "2026-09-19T13:54:56.302064+00:00"
-    },
-    {
-      "id": "jobright-3d6a445a22ef",
-      "seen_at": "2026-09-19T13:54:56.302827+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aae32833dbb1f8967cf03a7",
-      "seen_at": "2026-09-19T13:54:56.303590+00:00"
-    },
-    {
-      "id": "jobright-df26bb5c8ae9",
-      "seen_at": "2026-09-19T13:54:56.304364+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aadffb9de327d3e210d4ce3",
-      "seen_at": "2026-09-19T13:54:56.305123+00:00"
-    },
-    {
-      "id": "simplify-11510869-ac93-4ce2-85d4-2787fe2b2cb2",
-      "seen_at": "2026-09-19T13:55:19.745866+00:00"
-    },
-    {
-      "id": "url:https://study.com/pages/jobApplication.html",
-      "seen_at": "2026-09-19T13:55:19.746798+00:00"
-    },
-    {
-      "id": "simplify-a339dae3-c079-4987-a6be-c0b863c83fb6",
-      "seen_at": "2026-09-19T13:55:19.747654+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7686999927260105013",
-      "seen_at": "2026-09-19T13:55:19.748481+00:00"
-    },
-    {
-      "id": "simplify-83d0a294-51a6-4b84-867f-e039c06781af",
-      "seen_at": "2026-09-19T13:55:19.749340+00:00"
-    },
-    {
-      "id": "url:https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8",
-      "seen_at": "2026-09-19T13:55:19.750183+00:00"
-    },
-    {
-      "id": "simplify-a05af293-2419-4601-846b-4b6fbc5f280d",
-      "seen_at": "2026-09-19T13:55:19.751019+00:00"
-    },
-    {
-      "id": "url:https://jobs.bytedance.com/en/position/7686732729746950405/detail",
-      "seen_at": "2026-09-19T13:55:19.751842+00:00"
-    },
-    {
-      "id": "jobright-92bbfcbc23a6",
-      "seen_at": "2026-09-19T13:55:19.752675+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a75baa86b9def3e9e1f8c7e",
-      "seen_at": "2026-09-19T13:55:19.753532+00:00"
-    },
-    {
-      "id": "simplify-d5267215-c2b5-483d-bda8-414a7ec2c1f1",
-      "seen_at": "2026-09-19T13:55:19.754412+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/steerbridge/a49cfd8c-c7ec-4378-9233-412eb16dd96a/apply",
-      "seen_at": "2026-09-19T13:55:19.755240+00:00"
-    },
-    {
-      "id": "jobright-cfe6272bcebc",
-      "seen_at": "2026-09-19T13:55:19.756079+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aadd84c6956574eac8b7c5a",
-      "seen_at": "2026-09-19T13:55:19.756907+00:00"
-    },
-    {
-      "id": "jobright-8247d128ff0a",
-      "seen_at": "2026-09-19T13:55:19.757740+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a55ce4eef22935f2e3f7574",
-      "seen_at": "2026-09-19T13:55:19.758562+00:00"
-    },
-    {
-      "id": "jobright-e49ae5baa939",
-      "seen_at": "2026-09-19T13:55:19.759408+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aae3f3a0ebc8fb2313ec6a1",
-      "seen_at": "2026-09-19T13:55:19.760239+00:00"
-    },
-    {
-      "id": "jobright-7b730f1ec6fb",
-      "seen_at": "2026-09-19T13:55:19.761085+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aae462d6956574eac8b8a3b",
-      "seen_at": "2026-09-19T13:55:19.761914+00:00"
-    },
-    {
-      "id": "applyguy-4b43cb4b-3da1-4e18-a28b-8372881c9764",
-      "seen_at": "2026-09-19T13:55:19.762742+00:00"
-    },
-    {
-      "id": "url:https://axos.wd5.myworkdayjobs.com/axos/job/HQ---San-Diego-CA/Jr-Software-Engineer_JR5480",
-      "seen_at": "2026-09-19T13:55:19.763567+00:00"
-    },
-    {
-      "id": "jobright-e53aa467e6e2",
-      "seen_at": "2026-09-19T13:55:19.764400+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a88bd184afae74a0834d5d7",
-      "seen_at": "2026-09-19T13:55:19.765228+00:00"
-    },
-    {
-      "id": "simplify-4d57a7e2-4766-489b-9d6a-7e88179d0f8c",
-      "seen_at": "2026-09-19T13:55:19.766066+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/thinkahead/1ebcedcb-82ba-4d19-ac88-aa73a812dd81/apply",
-      "seen_at": "2026-09-19T13:55:19.766893+00:00"
-    },
-    {
-      "id": "simplify-cf1af2cc-6bfc-4244-a4a5-a82a3ebb9b05",
-      "seen_at": "2026-09-19T13:55:19.767713+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/thinkahead/14fefcf2-720f-4333-8bcc-ff3ba62d3b8e/apply",
-      "seen_at": "2026-09-19T13:55:19.768540+00:00"
-    },
-    {
-      "id": "simplify-a0b422cd-dc70-43c3-adaa-7870472fe1df",
-      "seen_at": "2026-09-19T13:55:19.769374+00:00"
-    },
-    {
-      "id": "url:https://jobs.bytedance.com/en/position/7686733097398290693/detail",
-      "seen_at": "2026-09-19T13:55:19.770200+00:00"
-    },
-    {
-      "id": "zapply-40a04050912c",
-      "seen_at": "2026-09-19T13:55:19.771037+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-block-5426213008",
-      "seen_at": "2026-09-19T13:55:19.771864+00:00"
-    },
-    {
-      "id": "gradtracker-5cb07d1da70d",
-      "seen_at": "2026-09-19T13:55:19.772687+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10554080/data-engineer-marketing-tech-bi-stores-finance-analytics-insights",
-      "seen_at": "2026-09-19T13:55:19.773513+00:00"
-    },
-    {
-      "id": "jobright-7fcc8cfc44f8",
-      "seen_at": "2026-09-19T13:55:19.774346+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a74b2f4bb6ca93ae560b521",
-      "seen_at": "2026-09-19T13:55:19.775173+00:00"
-    },
-    {
-      "id": "simplify-3a695283-1988-4be5-a28c-867068149b17",
-      "seen_at": "2026-09-19T13:55:19.776012+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff/application",
-      "seen_at": "2026-09-19T13:55:19.776830+00:00"
-    },
-    {
-      "id": "greenhouse-block-5426213008",
-      "seen_at": "2026-09-19T13:55:19.777666+00:00"
-    },
-    {
-      "id": "url:http://block.xyz/careers/jobs/5426213008",
-      "seen_at": "2026-09-19T13:55:19.778503+00:00"
-    },
-    {
-      "id": "zapply-b8745d1f02e0",
-      "seen_at": "2026-09-19T13:55:19.779343+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/gem-retool-am9icG9zdDrWsqKmo7GEKkxG6frVxgV7",
-      "seen_at": "2026-09-19T13:55:19.780171+00:00"
-    },
-    {
-      "id": "zapply-f1514fb37407",
-      "seen_at": "2026-09-19T13:55:19.781012+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/gem-retool-am9icG9zdDpEp7_HGZ1MHRIeXpTgYUZm",
-      "seen_at": "2026-09-19T13:55:19.781830+00:00"
-    },
-    {
       "id": "jobright-30d579aa09a5",
       "seen_at": "2026-09-19T17:14:12.922033+00:00"
     },
@@ -27127,26 +26895,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad5c8ce361c015bf0cfafd2",
       "seen_at": "2026-10-19T13:01:39.681400+00:00"
+    },
+    {
+      "id": "ashby-deepgram-dcea53a5-5650-406d-a154-fad077c4b81b",
+      "seen_at": "2026-10-19T14:01:39.837002+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/deepgram/dcea53a5-5650-406d-a154-fad077c4b81b",
+      "seen_at": "2026-10-19T14:01:39.837513+00:00"
     }
   ],
-  "last_run": "2026-10-19T13:32:15.292538+00:00",
-  "total_notified": 9618,
+  "last_run": "2026-10-19T14:01:43.497750+00:00",
+  "total_notified": 9619,
   "channels": {
     "pm-jobs": [
-      "jobright-b1a8ca9a3efb",
-      "url:https://jobright.ai/jobs/info/6a7e7e51b56bea5779c063ac",
-      "simplify-1a3f75ea-8f1a-407b-9b03-528f168ffacb",
-      "url:https://job-boards.greenhouse.io/tintai/jobs/4736081005",
-      "jobright-6c4a9c4df98f",
-      "url:https://jobright.ai/jobs/info/6a91f0a0d18f75674827acb2",
-      "jobright-a735b887fb82",
-      "url:https://jobright.ai/jobs/info/6aae0d422e757fcb5c8bae81",
-      "simplify-781f87eb-1b67-4312-8612-42cf55bf4154",
-      "url:https://jobs.jobvite.com/asus/job/oi7PAfwy",
-      "jobright-3d6a445a22ef",
-      "url:https://jobright.ai/jobs/info/6aae32833dbb1f8967cf03a7",
-      "jobright-df26bb5c8ae9",
-      "url:https://jobright.ai/jobs/info/6aadffb9de327d3e210d4ce3",
       "jobright-30d579aa09a5",
       "url:https://jobright.ai/jobs/info/6aa7809382e82a31997c1f9f",
       "greenhouse-anthropic-5413576008",
@@ -28210,50 +27972,6 @@
       "url:https://zapply.jobs/l/d/google-136073823404335814"
     ],
     "swe-ai-full-time": [
-      "simplify-11510869-ac93-4ce2-85d4-2787fe2b2cb2",
-      "url:https://study.com/pages/jobApplication.html",
-      "simplify-a339dae3-c079-4987-a6be-c0b863c83fb6",
-      "url:https://lifeattiktok.com/search/7686999927260105013",
-      "simplify-83d0a294-51a6-4b84-867f-e039c06781af",
-      "url:https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8",
-      "simplify-a05af293-2419-4601-846b-4b6fbc5f280d",
-      "url:https://jobs.bytedance.com/en/position/7686732729746950405/detail",
-      "jobright-92bbfcbc23a6",
-      "url:https://jobright.ai/jobs/info/6a75baa86b9def3e9e1f8c7e",
-      "simplify-d5267215-c2b5-483d-bda8-414a7ec2c1f1",
-      "url:https://jobs.lever.co/steerbridge/a49cfd8c-c7ec-4378-9233-412eb16dd96a/apply",
-      "jobright-cfe6272bcebc",
-      "url:https://jobright.ai/jobs/info/6aadd84c6956574eac8b7c5a",
-      "jobright-8247d128ff0a",
-      "url:https://jobright.ai/jobs/info/6a55ce4eef22935f2e3f7574",
-      "jobright-e49ae5baa939",
-      "url:https://jobright.ai/jobs/info/6aae3f3a0ebc8fb2313ec6a1",
-      "jobright-7b730f1ec6fb",
-      "url:https://jobright.ai/jobs/info/6aae462d6956574eac8b8a3b",
-      "applyguy-4b43cb4b-3da1-4e18-a28b-8372881c9764",
-      "url:https://axos.wd5.myworkdayjobs.com/axos/job/HQ---San-Diego-CA/Jr-Software-Engineer_JR5480",
-      "jobright-e53aa467e6e2",
-      "url:https://jobright.ai/jobs/info/6a88bd184afae74a0834d5d7",
-      "simplify-4d57a7e2-4766-489b-9d6a-7e88179d0f8c",
-      "url:https://jobs.lever.co/thinkahead/1ebcedcb-82ba-4d19-ac88-aa73a812dd81/apply",
-      "simplify-cf1af2cc-6bfc-4244-a4a5-a82a3ebb9b05",
-      "url:https://jobs.lever.co/thinkahead/14fefcf2-720f-4333-8bcc-ff3ba62d3b8e/apply",
-      "simplify-a0b422cd-dc70-43c3-adaa-7870472fe1df",
-      "url:https://jobs.bytedance.com/en/position/7686733097398290693/detail",
-      "zapply-40a04050912c",
-      "url:https://zapply.jobs/l/d/greenhouse-block-5426213008",
-      "gradtracker-5cb07d1da70d",
-      "url:https://www.amazon.jobs/en/jobs/10554080/data-engineer-marketing-tech-bi-stores-finance-analytics-insights",
-      "jobright-7fcc8cfc44f8",
-      "url:https://jobright.ai/jobs/info/6a74b2f4bb6ca93ae560b521",
-      "simplify-3a695283-1988-4be5-a28c-867068149b17",
-      "url:https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff/application",
-      "greenhouse-block-5426213008",
-      "url:http://block.xyz/careers/jobs/5426213008",
-      "zapply-b8745d1f02e0",
-      "url:https://zapply.jobs/l/d/gem-retool-am9icG9zdDrWsqKmo7GEKkxG6frVxgV7",
-      "zapply-f1514fb37407",
-      "url:https://zapply.jobs/l/d/gem-retool-am9icG9zdDpEp7_HGZ1MHRIeXpTgYUZm",
       "jobright-fff4afa1a310",
       "url:https://jobright.ai/jobs/info/6a75baac6b9def3e9e1f8c81",
       "jobright-15af8a040307",
@@ -33921,7 +33639,9 @@
       "jobright-b5aaed7c9771",
       "url:https://jobright.ai/jobs/info/6ad5f53e52aa6152bb6904df",
       "jobright-95fa9684e1fa",
-      "url:https://jobright.ai/jobs/info/6ad5c8ce361c015bf0cfafd2"
+      "url:https://jobright.ai/jobs/info/6ad5c8ce361c015bf0cfafd2",
+      "ashby-deepgram-dcea53a5-5650-406d-a154-fad077c4b81b",
+      "url:https://jobs.ashbyhq.com/deepgram/dcea53a5-5650-406d-a154-fad077c4b81b"
     ]
   }
 }
