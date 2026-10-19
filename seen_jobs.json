@@ -26927,10 +26927,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-citizens-financial-49903",
       "seen_at": "2026-10-19T15:31:47.116560+00:00"
+    },
+    {
+      "id": "jobright-c5fce67081f4",
+      "seen_at": "2026-10-19T16:01:39.870313+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a2a24310c4972328e7e70ef",
+      "seen_at": "2026-10-19T16:01:39.870647+00:00"
+    },
+    {
+      "id": "jobright-c245d099ce21",
+      "seen_at": "2026-10-19T16:01:39.870939+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad622be950ef68d5183662b",
+      "seen_at": "2026-10-19T16:01:39.871182+00:00"
+    },
+    {
+      "id": "jobright-e1ed52b9ecd1",
+      "seen_at": "2026-10-19T16:01:39.871424+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad622b652aa6152bb691ce2",
+      "seen_at": "2026-10-19T16:01:39.871651+00:00"
     }
   ],
-  "last_run": "2026-10-19T15:31:50.519429+00:00",
-  "total_notified": 9622,
+  "last_run": "2026-10-19T16:01:42.645040+00:00",
+  "total_notified": 9625,
   "channels": {
     "pm-jobs": [
       "jobright-30d579aa09a5",
@@ -33671,7 +33695,13 @@
       "jobright-cd3daf204388",
       "url:https://jobright.ai/jobs/info/6ad61932e4b94611ab83af1e",
       "zapply-8f0b85f5810b",
-      "url:https://zapply.jobs/l/d/oracle-citizens-financial-49903"
+      "url:https://zapply.jobs/l/d/oracle-citizens-financial-49903",
+      "jobright-c5fce67081f4",
+      "url:https://jobright.ai/jobs/info/6a2a24310c4972328e7e70ef",
+      "jobright-c245d099ce21",
+      "url:https://jobright.ai/jobs/info/6ad622be950ef68d5183662b",
+      "jobright-e1ed52b9ecd1",
+      "url:https://jobright.ai/jobs/info/6ad622b652aa6152bb691ce2"
     ]
   }
 }
