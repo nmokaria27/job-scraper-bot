@@ -27167,10 +27167,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a600ec933ef5c58b4001949",
       "seen_at": "2026-10-19T21:01:35.858775+00:00"
+    },
+    {
+      "id": "amazon-10583340",
+      "seen_at": "2026-10-19T21:28:37.164003+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+      "seen_at": "2026-10-19T21:28:37.164367+00:00"
+    },
+    {
+      "id": "zapply-9d7c341e3402",
+      "seen_at": "2026-10-19T21:28:37.164655+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-kla-search-2642693",
+      "seen_at": "2026-10-19T21:28:37.164922+00:00"
     }
   ],
-  "last_run": "2026-10-19T21:01:39.730755+00:00",
-  "total_notified": 9665,
+  "last_run": "2026-10-19T21:28:41.241728+00:00",
+  "total_notified": 9667,
   "channels": {
     "pm-jobs": [
       "jobright-a63c94df1cd8",
@@ -33971,7 +33987,11 @@
       "jobright-2406a4876bbf",
       "url:https://jobright.ai/jobs/info/6ad6665567bec1d0d9c6e80f",
       "jobright-9ce312fc89a4",
-      "url:https://jobright.ai/jobs/info/6a600ec933ef5c58b4001949"
+      "url:https://jobright.ai/jobs/info/6a600ec933ef5c58b4001949",
+      "amazon-10583340",
+      "url:https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+      "zapply-9d7c341e3402",
+      "url:https://zapply.jobs/l/d/workday-kla-search-2642693"
     ]
   }
 }
