@@ -27327,10 +27327,82 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad6831852aa6152bb69634b",
       "seen_at": "2026-10-19T23:01:34.848766+00:00"
+    },
+    {
+      "id": "simplify-9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
+      "seen_at": "2026-10-19T23:31:28.093931+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+      "seen_at": "2026-10-19T23:31:28.094642+00:00"
+    },
+    {
+      "id": "simplify-facdc66b-349d-47ae-94f8-cfdd1ffdb70f",
+      "seen_at": "2026-10-19T23:31:28.095118+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/node/j/2E183FDDB9/apply",
+      "seen_at": "2026-10-19T23:31:28.095592+00:00"
+    },
+    {
+      "id": "simplify-de1eceed-6782-43c0-9b0f-1d732c38d6d4",
+      "seen_at": "2026-10-19T23:31:28.096041+00:00"
+    },
+    {
+      "id": "url:https://c3.ai/job-description/8900477002",
+      "seen_at": "2026-10-19T23:31:28.096490+00:00"
+    },
+    {
+      "id": "simplify-e4257972-9082-4e69-82f8-0ddbbe3f79be",
+      "seen_at": "2026-10-19T23:31:28.096933+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
+      "seen_at": "2026-10-19T23:31:28.097377+00:00"
+    },
+    {
+      "id": "simplify-0aa1aad3-c8e3-4cd8-975d-9e1028f0fed2",
+      "seen_at": "2026-10-19T23:31:28.097817+00:00"
+    },
+    {
+      "id": "url:https://kla.wd1.myworkdayjobs.com/UR/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-3",
+      "seen_at": "2026-10-19T23:31:28.098265+00:00"
+    },
+    {
+      "id": "simplify-685e432a-5583-46a1-a7ac-d9819bab8f8d",
+      "seen_at": "2026-10-19T23:31:28.098714+00:00"
+    },
+    {
+      "id": "url:https://jobs.apple.com/en-us/details/200688599",
+      "seen_at": "2026-10-19T23:31:28.099168+00:00"
+    },
+    {
+      "id": "ashby-elevenlabs-9fbd9227-57e0-4221-9255-1a1d967be8ed",
+      "seen_at": "2026-10-19T23:31:28.099649+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed",
+      "seen_at": "2026-10-19T23:31:28.100097+00:00"
+    },
+    {
+      "id": "simplify-05f7dd48-c15c-4144-8a19-8bee502520d4",
+      "seen_at": "2026-10-19T23:31:28.100577+00:00"
+    },
+    {
+      "id": "url:https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296",
+      "seen_at": "2026-10-19T23:31:28.101004+00:00"
+    },
+    {
+      "id": "simplify-238d23dc-3491-42ab-8537-86fa72f66014",
+      "seen_at": "2026-10-19T23:31:32.460843+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Service-Product-Manager-Product-Line-Management-New-College-Grad--Master-s--Santa-Clara--CA-Austin--TX-_R2629842",
+      "seen_at": "2026-10-19T23:31:32.461556+00:00"
     }
   ],
-  "last_run": "2026-10-19T23:01:35.212184+00:00",
-  "total_notified": 9688,
+  "last_run": "2026-10-19T23:31:32.634987+00:00",
+  "total_notified": 9697,
   "channels": {
     "pm-jobs": [
       "jobright-a63c94df1cd8",
@@ -28401,7 +28473,9 @@
       "zapply-e3f1e8f40e30",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027607",
       "jobright-e3b379e3d46c",
-      "url:https://jobright.ai/jobs/info/6ad6831852aa6152bb69634b"
+      "url:https://jobright.ai/jobs/info/6ad6831852aa6152bb69634b",
+      "simplify-238d23dc-3491-42ab-8537-86fa72f66014",
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Service-Product-Manager-Product-Line-Management-New-College-Grad--Master-s--Santa-Clara--CA-Austin--TX-_R2629842"
     ],
     "swe-ai-full-time": [
       "jobright-e1720cd238d8",
@@ -34171,7 +34245,23 @@
       "jobright-dfb5da9ed4e9",
       "url:https://jobright.ai/jobs/info/6a904c927c32860d14cf8841",
       "jobright-8020dadda6da",
-      "url:https://jobright.ai/jobs/info/6ad683f454bbabbab06f920f"
+      "url:https://jobright.ai/jobs/info/6ad683f454bbabbab06f920f",
+      "simplify-9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
+      "url:https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+      "simplify-facdc66b-349d-47ae-94f8-cfdd1ffdb70f",
+      "url:https://apply.workable.com/node/j/2E183FDDB9/apply",
+      "simplify-de1eceed-6782-43c0-9b0f-1d732c38d6d4",
+      "url:https://c3.ai/job-description/8900477002",
+      "simplify-e4257972-9082-4e69-82f8-0ddbbe3f79be",
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
+      "simplify-0aa1aad3-c8e3-4cd8-975d-9e1028f0fed2",
+      "url:https://kla.wd1.myworkdayjobs.com/UR/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-3",
+      "simplify-685e432a-5583-46a1-a7ac-d9819bab8f8d",
+      "url:https://jobs.apple.com/en-us/details/200688599",
+      "ashby-elevenlabs-9fbd9227-57e0-4221-9255-1a1d967be8ed",
+      "url:https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed",
+      "simplify-05f7dd48-c15c-4144-8a19-8bee502520d4",
+      "url:https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296"
     ]
   }
 }
