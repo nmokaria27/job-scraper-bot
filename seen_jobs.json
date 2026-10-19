@@ -26919,10 +26919,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb",
       "seen_at": "2026-10-19T01:31:22.440425+00:00"
+    },
+    {
+      "id": "jobright-2aa2653c07a7",
+      "seen_at": "2026-10-19T02:01:36.775708+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a714fe2ee751e0c79343362",
+      "seen_at": "2026-10-19T02:01:36.776300+00:00"
+    },
+    {
+      "id": "greenhouse-reddit-8275745",
+      "seen_at": "2026-10-19T02:01:36.776792+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8275745",
+      "seen_at": "2026-10-19T02:01:36.777235+00:00"
     }
   ],
-  "last_run": "2026-10-19T01:31:26.094448+00:00",
-  "total_notified": 9592,
+  "last_run": "2026-10-19T02:01:39.700923+00:00",
+  "total_notified": 9594,
   "channels": {
     "pm-jobs": [
       "jobright-b1a8ca9a3efb",
@@ -33661,7 +33677,11 @@
       "greenhouse-reddit-8299781",
       "url:https://job-boards.greenhouse.io/reddit/jobs/8299781",
       "ashby-perplexity-f3814af2-55a3-49a5-b0cb-67199a2a45fb",
-      "url:https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb"
+      "url:https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb",
+      "jobright-2aa2653c07a7",
+      "url:https://jobright.ai/jobs/info/6a714fe2ee751e0c79343362",
+      "greenhouse-reddit-8275745",
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8275745"
     ]
   }
 }
