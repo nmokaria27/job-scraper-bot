@@ -26903,10 +26903,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/deepgram/dcea53a5-5650-406d-a154-fad077c4b81b",
       "seen_at": "2026-10-19T14:01:39.837513+00:00"
+    },
+    {
+      "id": "jobright-cd3daf204388",
+      "seen_at": "2026-10-19T15:01:41.699897+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad61932e4b94611ab83af1e",
+      "seen_at": "2026-10-19T15:01:41.700757+00:00"
+    },
+    {
+      "id": "jobright-9510ac8e9378",
+      "seen_at": "2026-10-19T15:01:47.408514+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad60b2b67bec1d0d9c6aba6",
+      "seen_at": "2026-10-19T15:01:47.408810+00:00"
     }
   ],
-  "last_run": "2026-10-19T14:31:34.181330+00:00",
-  "total_notified": 9619,
+  "last_run": "2026-10-19T15:01:48.155842+00:00",
+  "total_notified": 9621,
   "channels": {
     "pm-jobs": [
       "jobright-30d579aa09a5",
@@ -27969,7 +27985,9 @@
       "zapply-4e1e63383d4e",
       "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R73031",
       "zapply-307d77d7cda0",
-      "url:https://zapply.jobs/l/d/google-136073823404335814"
+      "url:https://zapply.jobs/l/d/google-136073823404335814",
+      "jobright-9510ac8e9378",
+      "url:https://jobright.ai/jobs/info/6ad60b2b67bec1d0d9c6aba6"
     ],
     "swe-ai-full-time": [
       "jobright-fff4afa1a310",
@@ -33641,7 +33659,9 @@
       "jobright-95fa9684e1fa",
       "url:https://jobright.ai/jobs/info/6ad5c8ce361c015bf0cfafd2",
       "ashby-deepgram-dcea53a5-5650-406d-a154-fad077c4b81b",
-      "url:https://jobs.ashbyhq.com/deepgram/dcea53a5-5650-406d-a154-fad077c4b81b"
+      "url:https://jobs.ashbyhq.com/deepgram/dcea53a5-5650-406d-a154-fad077c4b81b",
+      "jobright-cd3daf204388",
+      "url:https://jobright.ai/jobs/info/6ad61932e4b94611ab83af1e"
     ]
   }
 }
