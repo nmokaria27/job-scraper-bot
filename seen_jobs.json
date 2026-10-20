@@ -28039,10 +28039,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133534",
       "seen_at": "2026-10-20T20:31:35.190721+00:00"
+    },
+    {
+      "id": "jobright-e1586b4ad9e6",
+      "seen_at": "2026-10-20T21:01:40.423767+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7bccf52aa6152bb69ed99",
+      "seen_at": "2026-10-20T21:01:40.424375+00:00"
+    },
+    {
+      "id": "amazon-10584630",
+      "seen_at": "2026-10-20T21:01:40.424930+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584630/software-development-engineer-aws-central-sde-team",
+      "seen_at": "2026-10-20T21:01:40.425411+00:00"
+    },
+    {
+      "id": "jobright-148e9e14a3da",
+      "seen_at": "2026-10-20T21:01:45.921301+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7b5b254bbabbab0701617",
+      "seen_at": "2026-10-20T21:01:45.921816+00:00"
+    },
+    {
+      "id": "zapply-151ae29b18d1",
+      "seen_at": "2026-10-20T21:01:45.922297+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024659",
+      "seen_at": "2026-10-20T21:01:45.922802+00:00"
     }
   ],
-  "last_run": "2026-10-20T20:31:35.505214+00:00",
-  "total_notified": 9797,
+  "last_run": "2026-10-20T21:01:46.181923+00:00",
+  "total_notified": 9801,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -29161,7 +29193,11 @@
       "greenhouse-airbnb-8303742",
       "url:https://careers.airbnb.com/positions/8303742",
       "zapply-262834a44c00",
-      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133534"
+      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133534",
+      "jobright-148e9e14a3da",
+      "url:https://jobright.ai/jobs/info/6ad7b5b254bbabbab0701617",
+      "zapply-151ae29b18d1",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024659"
     ],
     "swe-ai-full-time": [
       "zapply-f33a938d1433",
@@ -35061,7 +35097,11 @@
       "amazon-10584220",
       "url:https://www.amazon.jobs/en/jobs/10584220/applied-scientist-sponsored-products-off-search-auction",
       "amazon-10584605",
-      "url:https://www.amazon.jobs/en/jobs/10584605/software-development-engineer-amazon-java-runtime"
+      "url:https://www.amazon.jobs/en/jobs/10584605/software-development-engineer-amazon-java-runtime",
+      "jobright-e1586b4ad9e6",
+      "url:https://jobright.ai/jobs/info/6ad7bccf52aa6152bb69ed99",
+      "amazon-10584630",
+      "url:https://www.amazon.jobs/en/jobs/10584630/software-development-engineer-aws-central-sde-team"
     ]
   }
 }
