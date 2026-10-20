@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-4169149b1ead",
-      "seen_at": "2026-09-20T19:43:02.717560+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a50e595ae4052672fe95214",
-      "seen_at": "2026-09-20T19:43:02.718598+00:00"
-    },
-    {
-      "id": "jobright-9cd92d41e2b8",
-      "seen_at": "2026-09-20T19:43:02.719488+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab01215de327d3e210d75d7",
-      "seen_at": "2026-09-20T19:43:02.720306+00:00"
-    },
-    {
       "id": "zapply-f33a938d1433",
       "seen_at": "2026-09-20T21:56:29.626447+00:00"
     },
@@ -28007,10 +27991,34 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/0a6f6736-8743-4528-b17c-4e1f4f8ea45c",
       "seen_at": "2026-10-20T19:31:25.450897+00:00"
+    },
+    {
+      "id": "jobright-0a0fde3b959c",
+      "seen_at": "2026-10-20T20:01:33.669700+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7a42d67bec1d0d9c775fc",
+      "seen_at": "2026-10-20T20:01:33.670281+00:00"
+    },
+    {
+      "id": "amazon-10584555",
+      "seen_at": "2026-10-20T20:01:33.670790+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584555/pricing-applied-scientist-pricing-science",
+      "seen_at": "2026-10-20T20:01:33.671245+00:00"
+    },
+    {
+      "id": "jobright-24e75f29220f",
+      "seen_at": "2026-10-20T20:01:33.671715+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7aa1367bec1d0d9c77a65",
+      "seen_at": "2026-10-20T20:01:33.672223+00:00"
     }
   ],
-  "last_run": "2026-10-20T19:31:29.716213+00:00",
-  "total_notified": 9791,
+  "last_run": "2026-10-20T20:01:37.746552+00:00",
+  "total_notified": 9794,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -29130,10 +29138,6 @@
       "url:https://careers.airbnb.com/positions/8303742"
     ],
     "swe-ai-full-time": [
-      "jobright-4169149b1ead",
-      "url:https://jobright.ai/jobs/info/6a50e595ae4052672fe95214",
-      "jobright-9cd92d41e2b8",
-      "url:https://jobright.ai/jobs/info/6ab01215de327d3e210d75d7",
       "zapply-f33a938d1433",
       "url:https://zapply.jobs/l/d/workday-amat-external-R2625914",
       "applyguy-322c6af9-9684-4b81-82cf-7573433ad52f",
@@ -35021,7 +35025,13 @@
       "jobright-c183e97fe1e8",
       "url:https://jobright.ai/jobs/info/6ad7a02052aa6152bb69d888",
       "ashby-openai-0a6f6736-8743-4528-b17c-4e1f4f8ea45c",
-      "url:https://jobs.ashbyhq.com/openai/0a6f6736-8743-4528-b17c-4e1f4f8ea45c"
+      "url:https://jobs.ashbyhq.com/openai/0a6f6736-8743-4528-b17c-4e1f4f8ea45c",
+      "jobright-0a0fde3b959c",
+      "url:https://jobright.ai/jobs/info/6ad7a42d67bec1d0d9c775fc",
+      "amazon-10584555",
+      "url:https://www.amazon.jobs/en/jobs/10584555/pricing-applied-scientist-pricing-science",
+      "jobright-24e75f29220f",
+      "url:https://jobright.ai/jobs/info/6ad7aa1367bec1d0d9c77a65"
     ]
   }
 }
