@@ -27951,10 +27951,58 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10584441/technical-product-manager-aws-aws-emerging-planning-solutions",
       "seen_at": "2026-10-20T18:31:33.479523+00:00"
+    },
+    {
+      "id": "jobright-e97e6ba55d9d",
+      "seen_at": "2026-10-20T19:01:29.949952+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad68a0e52aa6152bb696952",
+      "seen_at": "2026-10-20T19:01:29.950891+00:00"
+    },
+    {
+      "id": "greenhouse-coinbase-8304038",
+      "seen_at": "2026-10-20T19:01:29.951702+00:00"
+    },
+    {
+      "id": "url:https://www.coinbase.com/careers/positions/8304038",
+      "seen_at": "2026-10-20T19:01:29.952332+00:00"
+    },
+    {
+      "id": "amazon-10583803",
+      "seen_at": "2026-10-20T19:01:29.952928+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10583803/applied-scientist-fauna",
+      "seen_at": "2026-10-20T19:01:29.953446+00:00"
+    },
+    {
+      "id": "amazon-10583805",
+      "seen_at": "2026-10-20T19:01:29.953990+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10583805/human-robot-interaction-applied-scientist-fauna",
+      "seen_at": "2026-10-20T19:01:29.954437+00:00"
+    },
+    {
+      "id": "jobright-c183e97fe1e8",
+      "seen_at": "2026-10-20T19:01:29.954905+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7a02052aa6152bb69d888",
+      "seen_at": "2026-10-20T19:01:29.955355+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-8303742",
+      "seen_at": "2026-10-20T19:01:34.704797+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/8303742",
+      "seen_at": "2026-10-20T19:01:34.705514+00:00"
     }
   ],
-  "last_run": "2026-10-20T18:31:33.714870+00:00",
-  "total_notified": 9784,
+  "last_run": "2026-10-20T19:01:34.975460+00:00",
+  "total_notified": 9790,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -29069,7 +29117,9 @@
       "greenhouse-airbnb-8282322",
       "url:https://careers.airbnb.com/positions/8282322",
       "amazon-10584441",
-      "url:https://www.amazon.jobs/en/jobs/10584441/technical-product-manager-aws-aws-emerging-planning-solutions"
+      "url:https://www.amazon.jobs/en/jobs/10584441/technical-product-manager-aws-aws-emerging-planning-solutions",
+      "greenhouse-airbnb-8303742",
+      "url:https://careers.airbnb.com/positions/8303742"
     ],
     "swe-ai-full-time": [
       "jobright-4169149b1ead",
@@ -34951,7 +35001,17 @@
       "jobright-27a13c9a61b9",
       "url:https://jobright.ai/jobs/info/6ad7948ae4b94611ab84660b",
       "jobright-14d2ab04b590",
-      "url:https://jobright.ai/jobs/info/6ad791603dc655658d8ed781"
+      "url:https://jobright.ai/jobs/info/6ad791603dc655658d8ed781",
+      "jobright-e97e6ba55d9d",
+      "url:https://jobright.ai/jobs/info/6ad68a0e52aa6152bb696952",
+      "greenhouse-coinbase-8304038",
+      "url:https://www.coinbase.com/careers/positions/8304038",
+      "amazon-10583803",
+      "url:https://www.amazon.jobs/en/jobs/10583803/applied-scientist-fauna",
+      "amazon-10583805",
+      "url:https://www.amazon.jobs/en/jobs/10583805/human-robot-interaction-applied-scientist-fauna",
+      "jobright-c183e97fe1e8",
+      "url:https://jobright.ai/jobs/info/6ad7a02052aa6152bb69d888"
     ]
   }
 }
