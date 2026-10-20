@@ -28015,10 +28015,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad7aa1367bec1d0d9c77a65",
       "seen_at": "2026-10-20T20:01:33.672223+00:00"
+    },
+    {
+      "id": "amazon-10584220",
+      "seen_at": "2026-10-20T20:31:30.302590+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584220/applied-scientist-sponsored-products-off-search-auction",
+      "seen_at": "2026-10-20T20:31:30.303000+00:00"
+    },
+    {
+      "id": "amazon-10584605",
+      "seen_at": "2026-10-20T20:31:30.303348+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584605/software-development-engineer-amazon-java-runtime",
+      "seen_at": "2026-10-20T20:31:30.303664+00:00"
+    },
+    {
+      "id": "zapply-262834a44c00",
+      "seen_at": "2026-10-20T20:31:35.190374+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133534",
+      "seen_at": "2026-10-20T20:31:35.190721+00:00"
     }
   ],
-  "last_run": "2026-10-20T20:01:37.746552+00:00",
-  "total_notified": 9794,
+  "last_run": "2026-10-20T20:31:35.505214+00:00",
+  "total_notified": 9797,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -29135,7 +29159,9 @@
       "amazon-10584441",
       "url:https://www.amazon.jobs/en/jobs/10584441/technical-product-manager-aws-aws-emerging-planning-solutions",
       "greenhouse-airbnb-8303742",
-      "url:https://careers.airbnb.com/positions/8303742"
+      "url:https://careers.airbnb.com/positions/8303742",
+      "zapply-262834a44c00",
+      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133534"
     ],
     "swe-ai-full-time": [
       "zapply-f33a938d1433",
@@ -35031,7 +35057,11 @@
       "amazon-10584555",
       "url:https://www.amazon.jobs/en/jobs/10584555/pricing-applied-scientist-pricing-science",
       "jobright-24e75f29220f",
-      "url:https://jobright.ai/jobs/info/6ad7aa1367bec1d0d9c77a65"
+      "url:https://jobright.ai/jobs/info/6ad7aa1367bec1d0d9c77a65",
+      "amazon-10584220",
+      "url:https://www.amazon.jobs/en/jobs/10584220/applied-scientist-sponsored-products-off-search-auction",
+      "amazon-10584605",
+      "url:https://www.amazon.jobs/en/jobs/10584605/software-development-engineer-amazon-java-runtime"
     ]
   }
 }
