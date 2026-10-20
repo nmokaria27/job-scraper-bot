@@ -27783,10 +27783,42 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10583973/software-development-engineer",
       "seen_at": "2026-10-20T14:31:26.695952+00:00"
+    },
+    {
+      "id": "simplify-1e99ce76-876f-4aad-ac27-ba16227e5aaf",
+      "seen_at": "2026-10-20T15:00:38.732288+00:00"
+    },
+    {
+      "id": "url:https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Laredo-TX/Programmer-I_R-098117",
+      "seen_at": "2026-10-20T15:00:38.732672+00:00"
+    },
+    {
+      "id": "amazon-10584034",
+      "seen_at": "2026-10-20T15:00:38.732948+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584034/software-development-engineer-annapurna-labs-elastic-collectives",
+      "seen_at": "2026-10-20T15:00:38.733196+00:00"
+    },
+    {
+      "id": "jobright-321dcec58226",
+      "seen_at": "2026-10-20T15:00:38.733440+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad76500e4b94611ab844a7d",
+      "seen_at": "2026-10-20T15:00:38.733686+00:00"
+    },
+    {
+      "id": "zapply-c38cc57873b6",
+      "seen_at": "2026-10-20T15:00:43.551983+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799210",
+      "seen_at": "2026-10-20T15:00:43.552289+00:00"
     }
   ],
-  "last_run": "2026-10-20T14:31:29.725019+00:00",
-  "total_notified": 9759,
+  "last_run": "2026-10-20T15:00:43.900748+00:00",
+  "total_notified": 9763,
   "channels": {
     "pm-jobs": [
       "jobright-a63c94df1cd8",
@@ -28897,7 +28929,9 @@
       "zapply-5441676f3eba",
       "url:https://zapply.jobs/l/d/google-90019524744487622",
       "zapply-a5fcd83809bc",
-      "url:https://zapply.jobs/l/d/google-134050378411844294"
+      "url:https://zapply.jobs/l/d/google-134050378411844294",
+      "zapply-c38cc57873b6",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799210"
     ],
     "swe-ai-full-time": [
       "jobright-5a38b2f3f0d3",
@@ -34741,7 +34775,13 @@
       "zapply-32094ded1030",
       "url:https://zapply.jobs/l/d/workday-magna-magna-R00266828",
       "amazon-10583973",
-      "url:https://www.amazon.jobs/en/jobs/10583973/software-development-engineer"
+      "url:https://www.amazon.jobs/en/jobs/10583973/software-development-engineer",
+      "simplify-1e99ce76-876f-4aad-ac27-ba16227e5aaf",
+      "url:https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Laredo-TX/Programmer-I_R-098117",
+      "amazon-10584034",
+      "url:https://www.amazon.jobs/en/jobs/10584034/software-development-engineer-annapurna-labs-elastic-collectives",
+      "jobright-321dcec58226",
+      "url:https://jobright.ai/jobs/info/6ad76500e4b94611ab844a7d"
     ]
   }
 }
