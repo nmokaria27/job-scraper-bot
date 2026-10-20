@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-7bd1ecad8e57",
-      "seen_at": "2026-09-20T01:44:34.279689+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a75b1ccb17cba569035add6",
-      "seen_at": "2026-09-20T01:44:34.280775+00:00"
-    },
-    {
       "id": "jobright-e058342df86b",
       "seen_at": "2026-09-20T14:10:36.610950+00:00"
     },
@@ -27535,10 +27527,66 @@
     {
       "id": "url:https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
       "seen_at": "2026-10-20T01:31:24.789181+00:00"
+    },
+    {
+      "id": "jobright-ee694b219354",
+      "seen_at": "2026-10-20T02:01:27.595234+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad6aebe67bec1d0d9c71531",
+      "seen_at": "2026-10-20T02:01:27.595771+00:00"
+    },
+    {
+      "id": "jobright-29180328677c",
+      "seen_at": "2026-10-20T02:01:27.596297+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/690e5b98221b890c2780d204",
+      "seen_at": "2026-10-20T02:01:27.596749+00:00"
+    },
+    {
+      "id": "ashby-cursor-fa7a821b-ca2b-43fe-8942-07f215a060c7",
+      "seen_at": "2026-10-20T02:01:27.597236+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cursor/fa7a821b-ca2b-43fe-8942-07f215a060c7",
+      "seen_at": "2026-10-20T02:01:27.597673+00:00"
+    },
+    {
+      "id": "jobright-0eac0dee0afd",
+      "seen_at": "2026-10-20T02:01:27.598136+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad65cf854bbabbab06f7591",
+      "seen_at": "2026-10-20T02:01:27.598582+00:00"
+    },
+    {
+      "id": "jobright-beff8bf54776",
+      "seen_at": "2026-10-20T02:01:27.599075+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad6ae9d54bbabbab06fa99b",
+      "seen_at": "2026-10-20T02:01:27.599520+00:00"
+    },
+    {
+      "id": "jobright-278c40322bdf",
+      "seen_at": "2026-10-20T02:01:27.599993+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad663fa3dc655658d8e580d",
+      "seen_at": "2026-10-20T02:01:27.600437+00:00"
+    },
+    {
+      "id": "simplify-2d82eac7-1903-473d-8ae7-53561c77688c",
+      "seen_at": "2026-10-20T02:01:32.136951+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/kikoff/jobs/4458616009",
+      "seen_at": "2026-10-20T02:01:32.137434+00:00"
     }
   ],
-  "last_run": "2026-10-20T01:31:28.210105+00:00",
-  "total_notified": 9719,
+  "last_run": "2026-10-20T02:01:32.343741+00:00",
+  "total_notified": 9726,
   "channels": {
     "pm-jobs": [
       "jobright-a63c94df1cd8",
@@ -28623,11 +28671,11 @@
       "zapply-081dcf150003",
       "url:https://zapply.jobs/l/d/greenhouse-kikoff-4458616009",
       "jobright-1dba7bbaeace",
-      "url:https://jobright.ai/jobs/info/6ad6a1f93dc655658d8e817b"
+      "url:https://jobright.ai/jobs/info/6ad6a1f93dc655658d8e817b",
+      "simplify-2d82eac7-1903-473d-8ae7-53561c77688c",
+      "url:https://job-boards.greenhouse.io/kikoff/jobs/4458616009"
     ],
     "swe-ai-full-time": [
-      "jobright-7bd1ecad8e57",
-      "url:https://jobright.ai/jobs/info/6a75b1ccb17cba569035add6",
       "jobright-e058342df86b",
       "url:https://jobright.ai/jobs/info/6a701a48160eda5948e8d498",
       "jobright-3b6ad153dfa6",
@@ -34431,7 +34479,19 @@
       "greenhouse-anthropic-5455961008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5455961008",
       "applyguy-d0b94642-d681-4f08-99d5-2f83fa740105",
-      "url:https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683"
+      "url:https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
+      "jobright-ee694b219354",
+      "url:https://jobright.ai/jobs/info/6ad6aebe67bec1d0d9c71531",
+      "jobright-29180328677c",
+      "url:https://jobright.ai/jobs/info/690e5b98221b890c2780d204",
+      "ashby-cursor-fa7a821b-ca2b-43fe-8942-07f215a060c7",
+      "url:https://jobs.ashbyhq.com/cursor/fa7a821b-ca2b-43fe-8942-07f215a060c7",
+      "jobright-0eac0dee0afd",
+      "url:https://jobright.ai/jobs/info/6ad65cf854bbabbab06f7591",
+      "jobright-beff8bf54776",
+      "url:https://jobright.ai/jobs/info/6ad6ae9d54bbabbab06fa99b",
+      "jobright-278c40322bdf",
+      "url:https://jobright.ai/jobs/info/6ad663fa3dc655658d8e580d"
     ]
   }
 }
