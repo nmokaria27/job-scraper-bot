@@ -27815,10 +27815,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a750bd537da8525e8cdc15f",
       "seen_at": "2026-10-20T13:01:40.582980+00:00"
+    },
+    {
+      "id": "jobright-ac5caf81df93",
+      "seen_at": "2026-10-20T14:01:23.300182+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a700b3ccd3bac13d370968d",
+      "seen_at": "2026-10-20T14:01:23.300705+00:00"
+    },
+    {
+      "id": "zapply-748334efcdc3",
+      "seen_at": "2026-10-20T14:01:23.301201+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-90752211805446854",
+      "seen_at": "2026-10-20T14:01:23.301648+00:00"
+    },
+    {
+      "id": "zapply-32094ded1030",
+      "seen_at": "2026-10-20T14:01:23.302129+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-magna-magna-R00266828",
+      "seen_at": "2026-10-20T14:01:23.302594+00:00"
     }
   ],
-  "last_run": "2026-10-20T13:31:24.363263+00:00",
-  "total_notified": 9755,
+  "last_run": "2026-10-20T14:01:27.061141+00:00",
+  "total_notified": 9758,
   "channels": {
     "pm-jobs": [
       "jobright-a63c94df1cd8",
@@ -34781,7 +34805,13 @@
       "jobright-f772f429ec29",
       "url:https://jobright.ai/jobs/info/6a714fe4ee751e0c79343364",
       "jobright-9524540cad9d",
-      "url:https://jobright.ai/jobs/info/6a750bd537da8525e8cdc15f"
+      "url:https://jobright.ai/jobs/info/6a750bd537da8525e8cdc15f",
+      "jobright-ac5caf81df93",
+      "url:https://jobright.ai/jobs/info/6a700b3ccd3bac13d370968d",
+      "zapply-748334efcdc3",
+      "url:https://zapply.jobs/l/d/google-90752211805446854",
+      "zapply-32094ded1030",
+      "url:https://zapply.jobs/l/d/workday-magna-magna-R00266828"
     ]
   }
 }
