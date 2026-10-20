@@ -28095,10 +28095,50 @@
     {
       "id": "url:https://johndeere.eightfold.ai/careers/job/137482532344",
       "seen_at": "2026-10-20T22:37:36.022327+00:00"
+    },
+    {
+      "id": "jobright-3361c4966890",
+      "seen_at": "2026-10-20T23:01:23.155779+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7d4efe4b94611ab849498",
+      "seen_at": "2026-10-20T23:01:23.156183+00:00"
+    },
+    {
+      "id": "jobright-5e1a9343bff0",
+      "seen_at": "2026-10-20T23:01:23.156562+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7d3b852aa6152bb69fdc8",
+      "seen_at": "2026-10-20T23:01:23.156912+00:00"
+    },
+    {
+      "id": "jobright-b12d6387e4d0",
+      "seen_at": "2026-10-20T23:01:23.157237+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7d34e67bec1d0d9c796fb",
+      "seen_at": "2026-10-20T23:01:23.157545+00:00"
+    },
+    {
+      "id": "jobright-55e816edab25",
+      "seen_at": "2026-10-20T23:01:23.157875+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a59409bc8e3a473cb8a5edd",
+      "seen_at": "2026-10-20T23:01:23.158180+00:00"
+    },
+    {
+      "id": "jobright-1db01c12c11d",
+      "seen_at": "2026-10-20T23:01:23.158492+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7d8ef52aa6152bb6a01b4",
+      "seen_at": "2026-10-20T23:01:23.158806+00:00"
     }
   ],
-  "last_run": "2026-10-20T22:37:39.127321+00:00",
-  "total_notified": 9808,
+  "last_run": "2026-10-20T23:01:27.889437+00:00",
+  "total_notified": 9813,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -35131,7 +35171,17 @@
       "simplify-1fac2631-0a51-44d0-9af9-209c670e1742",
       "url:https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application",
       "simplify-f1044ef9-7da2-4a5b-a8e5-c26f1e2efd68",
-      "url:https://johndeere.eightfold.ai/careers/job/137482532344"
+      "url:https://johndeere.eightfold.ai/careers/job/137482532344",
+      "jobright-3361c4966890",
+      "url:https://jobright.ai/jobs/info/6ad7d4efe4b94611ab849498",
+      "jobright-5e1a9343bff0",
+      "url:https://jobright.ai/jobs/info/6ad7d3b852aa6152bb69fdc8",
+      "jobright-b12d6387e4d0",
+      "url:https://jobright.ai/jobs/info/6ad7d34e67bec1d0d9c796fb",
+      "jobright-55e816edab25",
+      "url:https://jobright.ai/jobs/info/6a59409bc8e3a473cb8a5edd",
+      "jobright-1db01c12c11d",
+      "url:https://jobright.ai/jobs/info/6ad7d8ef52aa6152bb6a01b4"
     ]
   }
 }
