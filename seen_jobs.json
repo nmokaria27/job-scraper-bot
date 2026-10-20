@@ -27919,10 +27919,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad705f552aa6152bb699b3a",
       "seen_at": "2026-10-20T17:01:29.213355+00:00"
+    },
+    {
+      "id": "amazon-10584232",
+      "seen_at": "2026-10-20T17:31:21.929392+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584232/data-scientist-cloudtune",
+      "seen_at": "2026-10-20T17:31:21.929946+00:00"
+    },
+    {
+      "id": "amazon-10584229",
+      "seen_at": "2026-10-20T17:31:21.930455+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584229/software-development-engineer-leo-ignition",
+      "seen_at": "2026-10-20T17:31:21.930896+00:00"
+    },
+    {
+      "id": "amazon-10584217",
+      "seen_at": "2026-10-20T17:31:21.931345+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584217/software-dev-engineer-key-management-service",
+      "seen_at": "2026-10-20T17:31:21.931797+00:00"
     }
   ],
-  "last_run": "2026-10-20T17:01:34.257144+00:00",
-  "total_notified": 9776,
+  "last_run": "2026-10-20T17:31:26.530313+00:00",
+  "total_notified": 9779,
   "channels": {
     "pm-jobs": [
       "jobright-a63c94df1cd8",
@@ -34911,7 +34935,13 @@
       "jobright-2e8b81baa3e1",
       "url:https://jobright.ai/jobs/info/6ad77f79e4b94611ab84588f",
       "jobright-a0075f6f7f63",
-      "url:https://jobright.ai/jobs/info/6ad705f552aa6152bb699b3a"
+      "url:https://jobright.ai/jobs/info/6ad705f552aa6152bb699b3a",
+      "amazon-10584232",
+      "url:https://www.amazon.jobs/en/jobs/10584232/data-scientist-cloudtune",
+      "amazon-10584229",
+      "url:https://www.amazon.jobs/en/jobs/10584229/software-development-engineer-leo-ignition",
+      "amazon-10584217",
+      "url:https://www.amazon.jobs/en/jobs/10584217/software-dev-engineer-key-management-service"
     ]
   }
 }
