@@ -27471,10 +27471,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-relativity-8901351002",
       "seen_at": "2026-10-20T00:01:45.048973+00:00"
+    },
+    {
+      "id": "zapply-59b4047ac12d",
+      "seen_at": "2026-10-20T00:31:30.796517+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-palantir-90329118-d9b7-4b96-acdf-13377e3196ac",
+      "seen_at": "2026-10-20T00:31:30.797037+00:00"
+    },
+    {
+      "id": "zapply-e26356e4d41b",
+      "seen_at": "2026-10-20T00:31:30.797625+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-mercor-c34c84d9-b7f8-436e-ae8d-a9a9120cecac",
+      "seen_at": "2026-10-20T00:31:30.798077+00:00"
+    },
+    {
+      "id": "zapply-081dcf150003",
+      "seen_at": "2026-10-20T00:31:35.830589+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-kikoff-4458616009",
+      "seen_at": "2026-10-20T00:31:35.831052+00:00"
     }
   ],
-  "last_run": "2026-10-20T00:01:45.249745+00:00",
-  "total_notified": 9711,
+  "last_run": "2026-10-20T00:31:36.134336+00:00",
+  "total_notified": 9714,
   "channels": {
     "pm-jobs": [
       "jobright-a63c94df1cd8",
@@ -28555,7 +28579,9 @@
       "zapply-17d7c528f1d8",
       "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19771",
       "zapply-0b1ee5a50171",
-      "url:https://zapply.jobs/l/d/greenhouse-relativity-8901351002"
+      "url:https://zapply.jobs/l/d/greenhouse-relativity-8901351002",
+      "zapply-081dcf150003",
+      "url:https://zapply.jobs/l/d/greenhouse-kikoff-4458616009"
     ],
     "swe-ai-full-time": [
       "jobright-7bd1ecad8e57",
@@ -34351,7 +34377,11 @@
       "gradtracker-e8aec93a0c13",
       "url:https://careers.qualcomm.com/careers/job/446721635150",
       "jobright-acd36a3161c5",
-      "url:https://jobright.ai/jobs/info/6aaafaa676707040fb083662"
+      "url:https://jobright.ai/jobs/info/6aaafaa676707040fb083662",
+      "zapply-59b4047ac12d",
+      "url:https://zapply.jobs/l/d/lever-palantir-90329118-d9b7-4b96-acdf-13377e3196ac",
+      "zapply-e26356e4d41b",
+      "url:https://zapply.jobs/l/d/ashby-mercor-c34c84d9-b7f8-436e-ae8d-a9a9120cecac"
     ]
   }
 }
