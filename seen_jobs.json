@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-f33a938d1433",
-      "seen_at": "2026-09-20T21:56:29.626447+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2625914",
-      "seen_at": "2026-09-20T21:56:29.627410+00:00"
-    },
-    {
-      "id": "applyguy-322c6af9-9684-4b81-82cf-7573433ad52f",
-      "seen_at": "2026-09-20T21:56:29.628311+00:00"
-    },
-    {
-      "id": "url:https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
-      "seen_at": "2026-09-20T21:56:29.629149+00:00"
-    },
-    {
-      "id": "jobright-16ffda1da2c4",
-      "seen_at": "2026-09-20T21:56:29.630010+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab03ea0dd960b4156418b81",
-      "seen_at": "2026-09-20T21:56:29.630842+00:00"
-    },
-    {
-      "id": "jobright-8c7848d95d46",
-      "seen_at": "2026-09-20T21:56:29.631682+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab02aefde327d3e210d777b",
-      "seen_at": "2026-09-20T21:56:29.632542+00:00"
-    },
-    {
       "id": "zapply-26e66c92e1b4",
       "seen_at": "2026-09-21T00:12:01.799618+00:00"
     },
@@ -28079,10 +28047,42 @@
     {
       "id": "url:https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1",
       "seen_at": "2026-10-20T21:31:15.609501+00:00"
+    },
+    {
+      "id": "jobright-448a74e6f804",
+      "seen_at": "2026-10-20T22:01:23.414963+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7c39052aa6152bb69f1af",
+      "seen_at": "2026-10-20T22:01:23.415764+00:00"
+    },
+    {
+      "id": "jobright-d4a9861587ab",
+      "seen_at": "2026-10-20T22:01:23.416515+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa4f9b682e82a31997bb6cb",
+      "seen_at": "2026-10-20T22:01:23.417056+00:00"
+    },
+    {
+      "id": "jobright-5cc5eeba3099",
+      "seen_at": "2026-10-20T22:01:23.417613+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7c54654bbabbab07020cc",
+      "seen_at": "2026-10-20T22:01:23.418079+00:00"
+    },
+    {
+      "id": "zapply-71573b31d0e1",
+      "seen_at": "2026-10-20T22:01:28.207409+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31753",
+      "seen_at": "2026-10-20T22:01:28.208084+00:00"
     }
   ],
-  "last_run": "2026-10-20T21:31:19.832739+00:00",
-  "total_notified": 9802,
+  "last_run": "2026-10-20T22:01:28.493502+00:00",
+  "total_notified": 9806,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -29205,17 +29205,11 @@
       "jobright-148e9e14a3da",
       "url:https://jobright.ai/jobs/info/6ad7b5b254bbabbab0701617",
       "zapply-151ae29b18d1",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024659"
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024659",
+      "zapply-71573b31d0e1",
+      "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31753"
     ],
     "swe-ai-full-time": [
-      "zapply-f33a938d1433",
-      "url:https://zapply.jobs/l/d/workday-amat-external-R2625914",
-      "applyguy-322c6af9-9684-4b81-82cf-7573433ad52f",
-      "url:https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
-      "jobright-16ffda1da2c4",
-      "url:https://jobright.ai/jobs/info/6ab03ea0dd960b4156418b81",
-      "jobright-8c7848d95d46",
-      "url:https://jobright.ai/jobs/info/6ab02aefde327d3e210d777b",
       "zapply-26e66c92e1b4",
       "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157986",
       "zapply-fcd025ae84ef",
@@ -35111,7 +35105,13 @@
       "amazon-10584630",
       "url:https://www.amazon.jobs/en/jobs/10584630/software-development-engineer-aws-central-sde-team",
       "ashby-openai-1f148786-2e00-472a-96b9-0b29015980e1",
-      "url:https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1"
+      "url:https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1",
+      "jobright-448a74e6f804",
+      "url:https://jobright.ai/jobs/info/6ad7c39052aa6152bb69f1af",
+      "jobright-d4a9861587ab",
+      "url:https://jobright.ai/jobs/info/6aa4f9b682e82a31997bb6cb",
+      "jobright-5cc5eeba3099",
+      "url:https://jobright.ai/jobs/info/6ad7c54654bbabbab07020cc"
     ]
   }
 }
