@@ -27495,10 +27495,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-kikoff-4458616009",
       "seen_at": "2026-10-20T00:31:35.831052+00:00"
+    },
+    {
+      "id": "jobright-0e32663e50a3",
+      "seen_at": "2026-10-20T01:01:36.594411+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad6a45f67bec1d0d9c71100",
+      "seen_at": "2026-10-20T01:01:36.595031+00:00"
+    },
+    {
+      "id": "jobright-fa0609629c64",
+      "seen_at": "2026-10-20T01:01:36.595624+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa824353a9f0a4fe6f177f4",
+      "seen_at": "2026-10-20T01:01:36.596125+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5455961008",
+      "seen_at": "2026-10-20T01:01:36.596611+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5455961008",
+      "seen_at": "2026-10-20T01:01:36.597048+00:00"
+    },
+    {
+      "id": "jobright-1dba7bbaeace",
+      "seen_at": "2026-10-20T01:01:42.118801+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad6a1f93dc655658d8e817b",
+      "seen_at": "2026-10-20T01:01:42.119316+00:00"
     }
   ],
-  "last_run": "2026-10-20T00:38:15.206602+00:00",
-  "total_notified": 9714,
+  "last_run": "2026-10-20T01:01:42.370585+00:00",
+  "total_notified": 9718,
   "channels": {
     "pm-jobs": [
       "jobright-a63c94df1cd8",
@@ -28581,7 +28613,9 @@
       "zapply-0b1ee5a50171",
       "url:https://zapply.jobs/l/d/greenhouse-relativity-8901351002",
       "zapply-081dcf150003",
-      "url:https://zapply.jobs/l/d/greenhouse-kikoff-4458616009"
+      "url:https://zapply.jobs/l/d/greenhouse-kikoff-4458616009",
+      "jobright-1dba7bbaeace",
+      "url:https://jobright.ai/jobs/info/6ad6a1f93dc655658d8e817b"
     ],
     "swe-ai-full-time": [
       "jobright-7bd1ecad8e57",
@@ -34381,7 +34415,13 @@
       "zapply-59b4047ac12d",
       "url:https://zapply.jobs/l/d/lever-palantir-90329118-d9b7-4b96-acdf-13377e3196ac",
       "zapply-e26356e4d41b",
-      "url:https://zapply.jobs/l/d/ashby-mercor-c34c84d9-b7f8-436e-ae8d-a9a9120cecac"
+      "url:https://zapply.jobs/l/d/ashby-mercor-c34c84d9-b7f8-436e-ae8d-a9a9120cecac",
+      "jobright-0e32663e50a3",
+      "url:https://jobright.ai/jobs/info/6ad6a45f67bec1d0d9c71100",
+      "jobright-fa0609629c64",
+      "url:https://jobright.ai/jobs/info/6aa824353a9f0a4fe6f177f4",
+      "greenhouse-anthropic-5455961008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5455961008"
     ]
   }
 }
