@@ -27855,10 +27855,26 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10584092/research-scientist-mobile-manipulation-robotics-i-o",
       "seen_at": "2026-10-20T16:01:42.870505+00:00"
+    },
+    {
+      "id": "applyguy-4b1b579d-49f1-49cd-ad9d-2b9eb436dcb4",
+      "seen_at": "2026-10-20T16:31:22.870766+00:00"
+    },
+    {
+      "id": "url:https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829",
+      "seen_at": "2026-10-20T16:31:22.871099+00:00"
+    },
+    {
+      "id": "zapply-ce0051298cb9",
+      "seen_at": "2026-10-20T16:31:29.801360+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0090856",
+      "seen_at": "2026-10-20T16:31:29.801647+00:00"
     }
   ],
-  "last_run": "2026-10-20T16:01:46.051527+00:00",
-  "total_notified": 9768,
+  "last_run": "2026-10-20T16:31:30.098637+00:00",
+  "total_notified": 9770,
   "channels": {
     "pm-jobs": [
       "jobright-a63c94df1cd8",
@@ -28971,7 +28987,9 @@
       "zapply-a5fcd83809bc",
       "url:https://zapply.jobs/l/d/google-134050378411844294",
       "zapply-c38cc57873b6",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799210"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799210",
+      "zapply-ce0051298cb9",
+      "url:https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0090856"
     ],
     "swe-ai-full-time": [
       "jobright-5a38b2f3f0d3",
@@ -34831,7 +34849,9 @@
       "jobright-d21c5c83758e",
       "url:https://jobright.ai/jobs/info/6973f7fc206da320f49e014a",
       "amazon-10584092",
-      "url:https://www.amazon.jobs/en/jobs/10584092/research-scientist-mobile-manipulation-robotics-i-o"
+      "url:https://www.amazon.jobs/en/jobs/10584092/research-scientist-mobile-manipulation-robotics-i-o",
+      "applyguy-4b1b579d-49f1-49cd-ad9d-2b9eb436dcb4",
+      "url:https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829"
     ]
   }
 }
