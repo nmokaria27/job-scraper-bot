@@ -28135,10 +28135,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad7d8ef52aa6152bb6a01b4",
       "seen_at": "2026-10-20T23:01:23.158806+00:00"
+    },
+    {
+      "id": "simplify-1b1e3c23-f9df-47e3-a82a-4d854e26869c",
+      "seen_at": "2026-10-20T23:31:13.061104+00:00"
+    },
+    {
+      "id": "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer--Professional-I_JR103780",
+      "seen_at": "2026-10-20T23:31:13.061444+00:00"
+    },
+    {
+      "id": "gradtracker-873e86d299bb",
+      "seen_at": "2026-10-20T23:31:13.061707+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000156619374",
+      "seen_at": "2026-10-20T23:31:13.061950+00:00"
+    },
+    {
+      "id": "simplify-a5683c5a-9b84-4ff9-972e-b22ba427faed",
+      "seen_at": "2026-10-20T23:31:13.062188+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/Intuitive/744000156658124",
+      "seen_at": "2026-10-20T23:31:13.062428+00:00"
+    },
+    {
+      "id": "amazon-10584780",
+      "seen_at": "2026-10-20T23:31:13.062652+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584780/software-dev-engineer-antenna-system-validation",
+      "seen_at": "2026-10-20T23:31:13.062870+00:00"
+    },
+    {
+      "id": "zapply-31e9c4eedb0b",
+      "seen_at": "2026-10-20T23:31:17.965870+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69759",
+      "seen_at": "2026-10-20T23:31:17.966139+00:00"
     }
   ],
-  "last_run": "2026-10-20T23:01:27.889437+00:00",
-  "total_notified": 9813,
+  "last_run": "2026-10-20T23:31:18.177982+00:00",
+  "total_notified": 9818,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -29263,7 +29303,9 @@
       "zapply-151ae29b18d1",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024659",
       "zapply-71573b31d0e1",
-      "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31753"
+      "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31753",
+      "zapply-31e9c4eedb0b",
+      "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69759"
     ],
     "swe-ai-full-time": [
       "zapply-26e66c92e1b4",
@@ -35181,7 +35223,15 @@
       "jobright-55e816edab25",
       "url:https://jobright.ai/jobs/info/6a59409bc8e3a473cb8a5edd",
       "jobright-1db01c12c11d",
-      "url:https://jobright.ai/jobs/info/6ad7d8ef52aa6152bb6a01b4"
+      "url:https://jobright.ai/jobs/info/6ad7d8ef52aa6152bb6a01b4",
+      "simplify-1b1e3c23-f9df-47e3-a82a-4d854e26869c",
+      "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer--Professional-I_JR103780",
+      "gradtracker-873e86d299bb",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000156619374",
+      "simplify-a5683c5a-9b84-4ff9-972e-b22ba427faed",
+      "url:https://jobs.smartrecruiters.com/Intuitive/744000156658124",
+      "amazon-10584780",
+      "url:https://www.amazon.jobs/en/jobs/10584780/software-dev-engineer-antenna-system-validation"
     ]
   }
 }
