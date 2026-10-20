@@ -27751,10 +27751,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad7311454bbabbab06fd018",
       "seen_at": "2026-10-20T11:01:24.118021+00:00"
+    },
+    {
+      "id": "jobright-41bf3e3e3515",
+      "seen_at": "2026-10-20T12:01:34.591402+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7ed2e0179e4f7b7e8d8afd",
+      "seen_at": "2026-10-20T12:01:34.591997+00:00"
+    },
+    {
+      "id": "jobright-6d376b4c827d",
+      "seen_at": "2026-10-20T12:01:34.592520+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad73a6b950ef68d5183ed2b",
+      "seen_at": "2026-10-20T12:01:34.592985+00:00"
+    },
+    {
+      "id": "jobright-4ce693538ad4",
+      "seen_at": "2026-10-20T12:01:38.907257+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7e7e560cd4a070325805e2",
+      "seen_at": "2026-10-20T12:01:38.907844+00:00"
+    },
+    {
+      "id": "jobright-b1a8ca9a3efb",
+      "seen_at": "2026-10-20T12:01:38.908286+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7e7e51b56bea5779c063ac",
+      "seen_at": "2026-10-20T12:01:38.908718+00:00"
+    },
+    {
+      "id": "zapply-5441676f3eba",
+      "seen_at": "2026-10-20T12:01:38.909139+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-90019524744487622",
+      "seen_at": "2026-10-20T12:01:38.909570+00:00"
+    },
+    {
+      "id": "zapply-a5fcd83809bc",
+      "seen_at": "2026-10-20T12:01:38.909975+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-134050378411844294",
+      "seen_at": "2026-10-20T12:01:38.910370+00:00"
     }
   ],
-  "last_run": "2026-10-20T11:31:15.316445+00:00",
-  "total_notified": 9747,
+  "last_run": "2026-10-20T12:01:39.256516+00:00",
+  "total_notified": 9753,
   "channels": {
     "pm-jobs": [
       "jobright-a63c94df1cd8",
@@ -28857,7 +28905,15 @@
       "jobright-c33d3cf012da",
       "url:https://jobright.ai/jobs/info/6ad6a83b52aa6152bb69796a",
       "greenhouse-vercel-6228301004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6228301004"
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6228301004",
+      "jobright-4ce693538ad4",
+      "url:https://jobright.ai/jobs/info/6a7e7e560cd4a070325805e2",
+      "jobright-b1a8ca9a3efb",
+      "url:https://jobright.ai/jobs/info/6a7e7e51b56bea5779c063ac",
+      "zapply-5441676f3eba",
+      "url:https://zapply.jobs/l/d/google-90019524744487622",
+      "zapply-a5fcd83809bc",
+      "url:https://zapply.jobs/l/d/google-134050378411844294"
     ],
     "swe-ai-full-time": [
       "jobright-e058342df86b",
@@ -34701,7 +34757,11 @@
       "jobright-d51f58e3ed25",
       "url:https://jobright.ai/jobs/info/6ad73115e4b94611ab843906",
       "jobright-f450eab005cf",
-      "url:https://jobright.ai/jobs/info/6ad7311454bbabbab06fd018"
+      "url:https://jobright.ai/jobs/info/6ad7311454bbabbab06fd018",
+      "jobright-41bf3e3e3515",
+      "url:https://jobright.ai/jobs/info/6a7ed2e0179e4f7b7e8d8afd",
+      "jobright-6d376b4c827d",
+      "url:https://jobright.ai/jobs/info/6ad73a6b950ef68d5183ed2b"
     ]
   }
 }
