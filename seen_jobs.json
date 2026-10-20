@@ -27935,10 +27935,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad791603dc655658d8ed781",
       "seen_at": "2026-10-20T18:01:42.694210+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-8282322",
+      "seen_at": "2026-10-20T18:31:33.478244+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/8282322",
+      "seen_at": "2026-10-20T18:31:33.478733+00:00"
+    },
+    {
+      "id": "amazon-10584441",
+      "seen_at": "2026-10-20T18:31:33.479158+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584441/technical-product-manager-aws-aws-emerging-planning-solutions",
+      "seen_at": "2026-10-20T18:31:33.479523+00:00"
     }
   ],
-  "last_run": "2026-10-20T18:01:46.753060+00:00",
-  "total_notified": 9782,
+  "last_run": "2026-10-20T18:31:33.714870+00:00",
+  "total_notified": 9784,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -29049,7 +29065,11 @@
       "zapply-c38cc57873b6",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799210",
       "zapply-ce0051298cb9",
-      "url:https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0090856"
+      "url:https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0090856",
+      "greenhouse-airbnb-8282322",
+      "url:https://careers.airbnb.com/positions/8282322",
+      "amazon-10584441",
+      "url:https://www.amazon.jobs/en/jobs/10584441/technical-product-manager-aws-aws-emerging-planning-solutions"
     ],
     "swe-ai-full-time": [
       "jobright-4169149b1ead",
