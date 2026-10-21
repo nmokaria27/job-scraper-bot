@@ -28295,10 +28295,34 @@
     {
       "id": "url:https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "seen_at": "2026-10-21T02:31:21.093879+00:00"
+    },
+    {
+      "id": "jobright-9c510f624a4e",
+      "seen_at": "2026-10-21T03:01:20.771365+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8129a3dc655658d8f2d20",
+      "seen_at": "2026-10-21T03:01:20.771696+00:00"
+    },
+    {
+      "id": "jobright-a043d2febaf8",
+      "seen_at": "2026-10-21T03:01:20.771968+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8123e54bbabbab0705108",
+      "seen_at": "2026-10-21T03:01:20.772217+00:00"
+    },
+    {
+      "id": "jobright-e53aa467e6e2",
+      "seen_at": "2026-10-21T03:01:20.772465+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a88bd184afae74a0834d5d7",
+      "seen_at": "2026-10-21T03:01:20.772712+00:00"
     }
   ],
-  "last_run": "2026-10-21T02:31:25.194398+00:00",
-  "total_notified": 9836,
+  "last_run": "2026-10-21T03:01:24.774065+00:00",
+  "total_notified": 9839,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -35381,7 +35405,13 @@
       "jobright-a0f4c9402edd",
       "url:https://jobright.ai/jobs/info/6ad7fdaa54bbabbab0704884",
       "simplify-26d84509-a16b-4556-99f7-18329fa61191",
-      "url:https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs"
+      "url:https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+      "jobright-9c510f624a4e",
+      "url:https://jobright.ai/jobs/info/6ad8129a3dc655658d8f2d20",
+      "jobright-a043d2febaf8",
+      "url:https://jobright.ai/jobs/info/6ad8123e54bbabbab0705108",
+      "jobright-e53aa467e6e2",
+      "url:https://jobright.ai/jobs/info/6a88bd184afae74a0834d5d7"
     ]
   }
 }
