@@ -28319,10 +28319,122 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a88bd184afae74a0834d5d7",
       "seen_at": "2026-10-21T03:01:20.772712+00:00"
+    },
+    {
+      "id": "jobright-e0dd84d7142c",
+      "seen_at": "2026-10-21T10:01:28.204463+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad83997e4b94611ab84c45f",
+      "seen_at": "2026-10-21T10:01:28.205124+00:00"
+    },
+    {
+      "id": "jobright-ec254fce3aae",
+      "seen_at": "2026-10-21T10:01:28.205641+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a50fda278e364789ca57c32",
+      "seen_at": "2026-10-21T10:01:28.206119+00:00"
+    },
+    {
+      "id": "jobright-b117a453a40b",
+      "seen_at": "2026-10-21T10:01:28.206602+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad836cc52aa6152bb6a2d35",
+      "seen_at": "2026-10-21T10:01:28.207076+00:00"
+    },
+    {
+      "id": "simplify-b066e806-d56d-4915-a26e-bd7c3461144f",
+      "seen_at": "2026-10-21T10:01:28.207554+00:00"
+    },
+    {
+      "id": "url:https://www.storable.com/about-us/culture/careers",
+      "seen_at": "2026-10-21T10:01:28.207991+00:00"
+    },
+    {
+      "id": "simplify-38f6c73a-c860-438a-b2f5-f67b9e0e1d53",
+      "seen_at": "2026-10-21T10:01:28.208459+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/rhoda-ai/36a82229-5cab-48a7-99b6-ec9007c5b460/application",
+      "seen_at": "2026-10-21T10:01:28.208893+00:00"
+    },
+    {
+      "id": "ashby-etched-5e24c2af-4911-43be-b961-9396d40ad473",
+      "seen_at": "2026-10-21T10:01:28.209350+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/etched/5e24c2af-4911-43be-b961-9396d40ad473",
+      "seen_at": "2026-10-21T10:01:28.209785+00:00"
+    },
+    {
+      "id": "jobright-a16822c5217b",
+      "seen_at": "2026-10-21T10:01:28.210238+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a4182d216b14939532842f7",
+      "seen_at": "2026-10-21T10:01:28.210679+00:00"
+    },
+    {
+      "id": "greenhouse-doordashusa-8304878",
+      "seen_at": "2026-10-21T10:01:28.211141+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/doordashusa/jobs/8304878",
+      "seen_at": "2026-10-21T10:01:28.211570+00:00"
+    },
+    {
+      "id": "ashby-perplexity-0113c03a-69d0-489d-bd11-451d11a9f64b",
+      "seen_at": "2026-10-21T10:01:28.212009+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b",
+      "seen_at": "2026-10-21T10:01:28.212463+00:00"
+    },
+    {
+      "id": "jobright-6364ac4c9056",
+      "seen_at": "2026-10-21T10:01:28.212903+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad820853dc655658d8f31c8",
+      "seen_at": "2026-10-21T10:01:28.213358+00:00"
+    },
+    {
+      "id": "jobright-9e7896ed8d47",
+      "seen_at": "2026-10-21T10:01:28.213808+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8239de4b94611ab84bdf6",
+      "seen_at": "2026-10-21T10:01:28.214260+00:00"
+    },
+    {
+      "id": "jobright-826950e1df9f",
+      "seen_at": "2026-10-21T10:01:28.214710+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad819bd54bbabbab07053dd",
+      "seen_at": "2026-10-21T10:01:28.215161+00:00"
+    },
+    {
+      "id": "jobright-dd52d5deb163",
+      "seen_at": "2026-10-21T10:01:34.053736+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7ebfae4b94611ab84a572",
+      "seen_at": "2026-10-21T10:01:34.054279+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-8303047",
+      "seen_at": "2026-10-21T10:01:34.054778+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/8303047",
+      "seen_at": "2026-10-21T10:01:34.055262+00:00"
     }
   ],
-  "last_run": "2026-10-21T03:31:16.627137+00:00",
-  "total_notified": 9839,
+  "last_run": "2026-10-21T10:01:34.382438+00:00",
+  "total_notified": 9853,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -29453,7 +29565,11 @@
       "jobright-3c579b5713ab",
       "url:https://jobright.ai/jobs/info/6ad7e57e52aa6152bb6a0ace",
       "zapply-3152bc546203",
-      "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69758"
+      "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69758",
+      "jobright-dd52d5deb163",
+      "url:https://jobright.ai/jobs/info/6ad7ebfae4b94611ab84a572",
+      "greenhouse-airbnb-8303047",
+      "url:https://careers.airbnb.com/positions/8303047"
     ],
     "swe-ai-full-time": [
       "jobright-3c34f77262c6",
@@ -35411,7 +35527,31 @@
       "jobright-a043d2febaf8",
       "url:https://jobright.ai/jobs/info/6ad8123e54bbabbab0705108",
       "jobright-e53aa467e6e2",
-      "url:https://jobright.ai/jobs/info/6a88bd184afae74a0834d5d7"
+      "url:https://jobright.ai/jobs/info/6a88bd184afae74a0834d5d7",
+      "jobright-e0dd84d7142c",
+      "url:https://jobright.ai/jobs/info/6ad83997e4b94611ab84c45f",
+      "jobright-ec254fce3aae",
+      "url:https://jobright.ai/jobs/info/6a50fda278e364789ca57c32",
+      "jobright-b117a453a40b",
+      "url:https://jobright.ai/jobs/info/6ad836cc52aa6152bb6a2d35",
+      "simplify-b066e806-d56d-4915-a26e-bd7c3461144f",
+      "url:https://www.storable.com/about-us/culture/careers",
+      "simplify-38f6c73a-c860-438a-b2f5-f67b9e0e1d53",
+      "url:https://jobs.ashbyhq.com/rhoda-ai/36a82229-5cab-48a7-99b6-ec9007c5b460/application",
+      "ashby-etched-5e24c2af-4911-43be-b961-9396d40ad473",
+      "url:https://jobs.ashbyhq.com/etched/5e24c2af-4911-43be-b961-9396d40ad473",
+      "jobright-a16822c5217b",
+      "url:https://jobright.ai/jobs/info/6a4182d216b14939532842f7",
+      "greenhouse-doordashusa-8304878",
+      "url:https://job-boards.greenhouse.io/doordashusa/jobs/8304878",
+      "ashby-perplexity-0113c03a-69d0-489d-bd11-451d11a9f64b",
+      "url:https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b",
+      "jobright-6364ac4c9056",
+      "url:https://jobright.ai/jobs/info/6ad820853dc655658d8f31c8",
+      "jobright-9e7896ed8d47",
+      "url:https://jobright.ai/jobs/info/6ad8239de4b94611ab84bdf6",
+      "jobright-826950e1df9f",
+      "url:https://jobright.ai/jobs/info/6ad819bd54bbabbab07053dd"
     ]
   }
 }
