@@ -28519,10 +28519,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad8db09e4b94611ab84fc11",
       "seen_at": "2026-10-21T17:01:40.089614+00:00"
+    },
+    {
+      "id": "zapply-31fdd9e04d77",
+      "seen_at": "2026-10-21T17:31:20.407754+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR6037",
+      "seen_at": "2026-10-21T17:31:20.408113+00:00"
+    },
+    {
+      "id": "zapply-0afd45b68b51",
+      "seen_at": "2026-10-21T17:31:25.498853+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/phenom-danaher-R1321073",
+      "seen_at": "2026-10-21T17:31:25.499178+00:00"
     }
   ],
-  "last_run": "2026-10-21T17:01:40.307956+00:00",
-  "total_notified": 9885,
+  "last_run": "2026-10-21T17:31:25.963159+00:00",
+  "total_notified": 9887,
   "channels": {
     "pm-jobs": [
       "jobright-46f249203554",
@@ -29671,7 +29687,9 @@
       "jobright-b80bb934e1fd",
       "url:https://jobright.ai/jobs/info/6ad8d87d39284cd524280d2d",
       "jobright-896b7a5d2766",
-      "url:https://jobright.ai/jobs/info/6ad8db09e4b94611ab84fc11"
+      "url:https://jobright.ai/jobs/info/6ad8db09e4b94611ab84fc11",
+      "zapply-0afd45b68b51",
+      "url:https://zapply.jobs/l/d/phenom-danaher-R1321073"
     ],
     "swe-ai-full-time": [
       "zapply-c40f8f8d2c83",
@@ -35661,7 +35679,9 @@
       "jobright-967c8387b0b4",
       "url:https://jobright.ai/jobs/info/6a0f822183d7144289821054",
       "workday-salesforce-JR357256",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256",
+      "zapply-31fdd9e04d77",
+      "url:https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR6037"
     ]
   }
 }
