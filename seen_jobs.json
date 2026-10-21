@@ -28535,10 +28535,34 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10583959/applied-scientist",
       "seen_at": "2026-10-21T13:31:19.516167+00:00"
+    },
+    {
+      "id": "jobright-3496d5d1733b",
+      "seen_at": "2026-10-21T14:01:46.387632+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a700b3b160eda5948e8d2a6",
+      "seen_at": "2026-10-21T14:01:46.388197+00:00"
+    },
+    {
+      "id": "jobright-86ed537561f0",
+      "seen_at": "2026-10-21T14:01:46.388676+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9eb151dacf777321a93040",
+      "seen_at": "2026-10-21T14:01:46.389115+00:00"
+    },
+    {
+      "id": "gradtracker-cdefed67264b",
+      "seen_at": "2026-10-21T14:01:46.389637+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000156637254",
+      "seen_at": "2026-10-21T14:01:46.390037+00:00"
     }
   ],
-  "last_run": "2026-10-21T13:31:23.433929+00:00",
-  "total_notified": 9866,
+  "last_run": "2026-10-21T14:01:50.755195+00:00",
+  "total_notified": 9869,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -35681,7 +35705,13 @@
       "jobright-bdf7dff627ce",
       "url:https://jobright.ai/jobs/info/6ad899cb950ef68d5184901d",
       "amazon-10583959",
-      "url:https://www.amazon.jobs/en/jobs/10583959/applied-scientist"
+      "url:https://www.amazon.jobs/en/jobs/10583959/applied-scientist",
+      "jobright-3496d5d1733b",
+      "url:https://jobright.ai/jobs/info/6a700b3b160eda5948e8d2a6",
+      "jobright-86ed537561f0",
+      "url:https://jobright.ai/jobs/info/6a9eb151dacf777321a93040",
+      "gradtracker-cdefed67264b",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000156637254"
     ]
   }
 }
