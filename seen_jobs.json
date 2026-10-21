@@ -28175,10 +28175,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69759",
       "seen_at": "2026-10-20T23:31:17.966139+00:00"
+    },
+    {
+      "id": "jobright-3c579b5713ab",
+      "seen_at": "2026-10-21T00:01:43.932447+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7e57e52aa6152bb6a0ace",
+      "seen_at": "2026-10-21T00:01:43.932760+00:00"
+    },
+    {
+      "id": "zapply-3152bc546203",
+      "seen_at": "2026-10-21T00:01:43.933039+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69758",
+      "seen_at": "2026-10-21T00:01:43.933278+00:00"
     }
   ],
-  "last_run": "2026-10-20T23:31:18.177982+00:00",
-  "total_notified": 9818,
+  "last_run": "2026-10-21T00:01:44.213467+00:00",
+  "total_notified": 9820,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -29305,7 +29321,11 @@
       "zapply-71573b31d0e1",
       "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31753",
       "zapply-31e9c4eedb0b",
-      "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69759"
+      "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69759",
+      "jobright-3c579b5713ab",
+      "url:https://jobright.ai/jobs/info/6ad7e57e52aa6152bb6a0ace",
+      "zapply-3152bc546203",
+      "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69758"
     ],
     "swe-ai-full-time": [
       "zapply-26e66c92e1b4",
