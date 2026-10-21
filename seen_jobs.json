@@ -28471,10 +28471,58 @@
     {
       "id": "url:https://boards.greenhouse.io/figma/jobs/6228774004",
       "seen_at": "2026-10-21T16:31:32.775946+00:00"
+    },
+    {
+      "id": "lever-zoox-254559af-8372-403b-8220-9b49af400361",
+      "seen_at": "2026-10-21T17:01:35.415714+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/zoox/254559af-8372-403b-8220-9b49af400361",
+      "seen_at": "2026-10-21T17:01:35.416116+00:00"
+    },
+    {
+      "id": "amazon-10584882",
+      "seen_at": "2026-10-21T17:01:35.416471+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584882/software-development-engineer",
+      "seen_at": "2026-10-21T17:01:35.416810+00:00"
+    },
+    {
+      "id": "jobright-967c8387b0b4",
+      "seen_at": "2026-10-21T17:01:35.417133+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0f822183d7144289821054",
+      "seen_at": "2026-10-21T17:01:35.417444+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR357256",
+      "seen_at": "2026-10-21T17:01:35.417786+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256",
+      "seen_at": "2026-10-21T17:01:35.418074+00:00"
+    },
+    {
+      "id": "jobright-b80bb934e1fd",
+      "seen_at": "2026-10-21T17:01:40.088580+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8d87d39284cd524280d2d",
+      "seen_at": "2026-10-21T17:01:40.088967+00:00"
+    },
+    {
+      "id": "jobright-896b7a5d2766",
+      "seen_at": "2026-10-21T17:01:40.089305+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8db09e4b94611ab84fc11",
+      "seen_at": "2026-10-21T17:01:40.089614+00:00"
     }
   ],
-  "last_run": "2026-10-21T16:31:33.043396+00:00",
-  "total_notified": 9879,
+  "last_run": "2026-10-21T17:01:40.307956+00:00",
+  "total_notified": 9885,
   "channels": {
     "pm-jobs": [
       "jobright-46f249203554",
@@ -29619,7 +29667,11 @@
       "jobright-bdcae578bcd7",
       "url:https://jobright.ai/jobs/info/6aa084953b5aa83237b09a98",
       "greenhouse-figma-6228774004",
-      "url:https://boards.greenhouse.io/figma/jobs/6228774004"
+      "url:https://boards.greenhouse.io/figma/jobs/6228774004",
+      "jobright-b80bb934e1fd",
+      "url:https://jobright.ai/jobs/info/6ad8d87d39284cd524280d2d",
+      "jobright-896b7a5d2766",
+      "url:https://jobright.ai/jobs/info/6ad8db09e4b94611ab84fc11"
     ],
     "swe-ai-full-time": [
       "zapply-c40f8f8d2c83",
@@ -35601,7 +35653,15 @@
       "simplify-0e335514-6e0b-4932-bba0-5e2e0d8c9375",
       "url:https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8/application",
       "jobright-cd5e81ec092a",
-      "url:https://jobright.ai/jobs/info/6aa5019582e82a31997bb928"
+      "url:https://jobright.ai/jobs/info/6aa5019582e82a31997bb928",
+      "lever-zoox-254559af-8372-403b-8220-9b49af400361",
+      "url:https://jobs.lever.co/zoox/254559af-8372-403b-8220-9b49af400361",
+      "amazon-10584882",
+      "url:https://www.amazon.jobs/en/jobs/10584882/software-development-engineer",
+      "jobright-967c8387b0b4",
+      "url:https://jobright.ai/jobs/info/6a0f822183d7144289821054",
+      "workday-salesforce-JR357256",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256"
     ]
   }
 }
