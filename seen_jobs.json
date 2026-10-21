@@ -28591,10 +28591,74 @@
     {
       "id": "url:https://zapply.jobs/l/d/workable-avalore-F0091679FC",
       "seen_at": "2026-10-21T18:32:02.634104+00:00"
+    },
+    {
+      "id": "zapply-15c77a630feb",
+      "seen_at": "2026-10-21T19:01:30.202056+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028237",
+      "seen_at": "2026-10-21T19:01:30.202477+00:00"
+    },
+    {
+      "id": "jobright-202e53254f03",
+      "seen_at": "2026-10-21T19:01:30.202849+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8ee21950ef68d5184b962",
+      "seen_at": "2026-10-21T19:01:30.203177+00:00"
+    },
+    {
+      "id": "jobright-4bd00114af04",
+      "seen_at": "2026-10-21T19:01:30.203497+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8ea90b0725dc268dd719f",
+      "seen_at": "2026-10-21T19:01:30.203807+00:00"
+    },
+    {
+      "id": "jobright-684448d5bc79",
+      "seen_at": "2026-10-21T19:01:30.204115+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad340aef04335fc70ed8dcf",
+      "seen_at": "2026-10-21T19:01:30.204423+00:00"
+    },
+    {
+      "id": "jobright-dc8dbfb1b179",
+      "seen_at": "2026-10-21T19:01:30.204743+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8ee24950ef68d5184b966",
+      "seen_at": "2026-10-21T19:01:30.205057+00:00"
+    },
+    {
+      "id": "jobright-f48f4a18aaa2",
+      "seen_at": "2026-10-21T19:01:30.205378+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8f0bd39284cd524281d1c",
+      "seen_at": "2026-10-21T19:01:30.205676+00:00"
+    },
+    {
+      "id": "jobright-ee0f12ceef07",
+      "seen_at": "2026-10-21T19:01:30.206000+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9f336768f82b403673c722",
+      "seen_at": "2026-10-21T19:01:30.206288+00:00"
+    },
+    {
+      "id": "jobright-e6c16e484e70",
+      "seen_at": "2026-10-21T19:01:35.347659+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa02a5ba2266b538d22e7ca",
+      "seen_at": "2026-10-21T19:01:35.348057+00:00"
     }
   ],
-  "last_run": "2026-10-21T18:32:07.210496+00:00",
-  "total_notified": 9894,
+  "last_run": "2026-10-21T19:01:35.588218+00:00",
+  "total_notified": 9902,
   "channels": {
     "pm-jobs": [
       "jobright-46f249203554",
@@ -29745,7 +29809,9 @@
       "jobright-896b7a5d2766",
       "url:https://jobright.ai/jobs/info/6ad8db09e4b94611ab84fc11",
       "zapply-0afd45b68b51",
-      "url:https://zapply.jobs/l/d/phenom-danaher-R1321073"
+      "url:https://zapply.jobs/l/d/phenom-danaher-R1321073",
+      "jobright-e6c16e484e70",
+      "url:https://jobright.ai/jobs/info/6aa02a5ba2266b538d22e7ca"
     ],
     "swe-ai-full-time": [
       "zapply-c40f8f8d2c83",
@@ -35751,7 +35817,21 @@
       "amazon-10585037",
       "url:https://www.amazon.jobs/en/jobs/10585037/software-dev-engineer",
       "zapply-8ac67ac66fa4",
-      "url:https://zapply.jobs/l/d/workable-avalore-F0091679FC"
+      "url:https://zapply.jobs/l/d/workable-avalore-F0091679FC",
+      "zapply-15c77a630feb",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028237",
+      "jobright-202e53254f03",
+      "url:https://jobright.ai/jobs/info/6ad8ee21950ef68d5184b962",
+      "jobright-4bd00114af04",
+      "url:https://jobright.ai/jobs/info/6ad8ea90b0725dc268dd719f",
+      "jobright-684448d5bc79",
+      "url:https://jobright.ai/jobs/info/6ad340aef04335fc70ed8dcf",
+      "jobright-dc8dbfb1b179",
+      "url:https://jobright.ai/jobs/info/6ad8ee24950ef68d5184b966",
+      "jobright-f48f4a18aaa2",
+      "url:https://jobright.ai/jobs/info/6ad8f0bd39284cd524281d1c",
+      "jobright-ee0f12ceef07",
+      "url:https://jobright.ai/jobs/info/6a9f336768f82b403673c722"
     ]
   }
 }
