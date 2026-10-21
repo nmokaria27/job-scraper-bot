@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-26e66c92e1b4",
-      "seen_at": "2026-09-21T00:12:01.799618+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157986",
-      "seen_at": "2026-09-21T00:12:01.800606+00:00"
-    },
-    {
-      "id": "zapply-fcd025ae84ef",
-      "seen_at": "2026-09-21T00:12:01.801459+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026249",
-      "seen_at": "2026-09-21T00:12:01.802298+00:00"
-    },
-    {
-      "id": "jobright-7dd62e8441cc",
-      "seen_at": "2026-09-21T00:12:01.803148+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a6bb7ebacb0a61f9dbc2823",
-      "seen_at": "2026-09-21T00:12:01.803960+00:00"
-    },
-    {
       "id": "jobright-0f908cdd25ad",
       "seen_at": "2026-09-21T16:26:53.968136+00:00"
     },
@@ -28191,10 +28167,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69758",
       "seen_at": "2026-10-21T00:01:43.933278+00:00"
+    },
+    {
+      "id": "amazon-10584797",
+      "seen_at": "2026-10-21T00:31:15.466855+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+      "seen_at": "2026-10-21T00:31:15.467500+00:00"
+    },
+    {
+      "id": "zapply-000f836c0e25",
+      "seen_at": "2026-10-21T00:31:15.467979+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-550f47aa-10fd-4a93-9b9f-de6314554629",
+      "seen_at": "2026-10-21T00:31:15.468443+00:00"
     }
   ],
-  "last_run": "2026-10-21T00:01:44.213467+00:00",
-  "total_notified": 9820,
+  "last_run": "2026-10-21T00:31:18.625311+00:00",
+  "total_notified": 9822,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -29328,12 +29320,6 @@
       "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69758"
     ],
     "swe-ai-full-time": [
-      "zapply-26e66c92e1b4",
-      "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157986",
-      "zapply-fcd025ae84ef",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026249",
-      "jobright-7dd62e8441cc",
-      "url:https://jobright.ai/jobs/info/6a6bb7ebacb0a61f9dbc2823",
       "jobright-3c34f77262c6",
       "url:https://jobright.ai/jobs/info/6ab1263d32552369083e07a4",
       "jobright-9bfd69a31e79",
@@ -35251,7 +35237,11 @@
       "simplify-a5683c5a-9b84-4ff9-972e-b22ba427faed",
       "url:https://jobs.smartrecruiters.com/Intuitive/744000156658124",
       "amazon-10584780",
-      "url:https://www.amazon.jobs/en/jobs/10584780/software-dev-engineer-antenna-system-validation"
+      "url:https://www.amazon.jobs/en/jobs/10584780/software-dev-engineer-antenna-system-validation",
+      "amazon-10584797",
+      "url:https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+      "zapply-000f836c0e25",
+      "url:https://zapply.jobs/l/d/amazon-550f47aa-10fd-4a93-9b9f-de6314554629"
     ]
   }
 }
