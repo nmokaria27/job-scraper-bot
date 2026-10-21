@@ -28767,10 +28767,26 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10585615/applied-research-scientist-safe-autonomy-frontiers-saf-lab-safe-autonomy-frontiers-saf-lab",
       "seen_at": "2026-10-21T20:01:33.826406+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-8274152",
+      "seen_at": "2026-10-21T20:31:29.566075+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/8274152",
+      "seen_at": "2026-10-21T20:31:29.566749+00:00"
+    },
+    {
+      "id": "ashby-pinecone-08760530-e6c3-4167-9272-923d85a2388d",
+      "seen_at": "2026-10-21T20:31:29.567297+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/pinecone/08760530-e6c3-4167-9272-923d85a2388d",
+      "seen_at": "2026-10-21T20:31:29.567765+00:00"
     }
   ],
-  "last_run": "2026-10-21T20:01:38.529928+00:00",
-  "total_notified": 9916,
+  "last_run": "2026-10-21T20:31:33.681019+00:00",
+  "total_notified": 9918,
   "channels": {
     "pm-jobs": [
       "jobright-46f249203554",
@@ -35971,7 +35987,11 @@
       "jobright-0d33bb102723",
       "url:https://jobright.ai/jobs/info/6ad8f34e950ef68d5184bcef",
       "amazon-10585615",
-      "url:https://www.amazon.jobs/en/jobs/10585615/applied-research-scientist-safe-autonomy-frontiers-saf-lab-safe-autonomy-frontiers-saf-lab"
+      "url:https://www.amazon.jobs/en/jobs/10585615/applied-research-scientist-safe-autonomy-frontiers-saf-lab-safe-autonomy-frontiers-saf-lab",
+      "greenhouse-airbnb-8274152",
+      "url:https://careers.airbnb.com/positions/8274152",
+      "ashby-pinecone-08760530-e6c3-4167-9272-923d85a2388d",
+      "url:https://jobs.ashbyhq.com/pinecone/08760530-e6c3-4167-9272-923d85a2388d"
     ]
   }
 }
