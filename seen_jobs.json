@@ -28447,10 +28447,74 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a6ffdc5cd3bac13d3709520",
       "seen_at": "2026-10-21T11:01:20.156815+00:00"
+    },
+    {
+      "id": "jobright-29ea960400a9",
+      "seen_at": "2026-10-21T12:01:28.961478+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6ffdc1160eda5948e8d14b",
+      "seen_at": "2026-10-21T12:01:28.962076+00:00"
+    },
+    {
+      "id": "jobright-9052d23ba311",
+      "seen_at": "2026-10-21T12:01:28.962598+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7cf4a6a346cb6c8d5f112b",
+      "seen_at": "2026-10-21T12:01:28.963060+00:00"
+    },
+    {
+      "id": "jobright-079256bd459c",
+      "seen_at": "2026-10-21T12:01:28.963549+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a750bc237da8525e8cdc14d",
+      "seen_at": "2026-10-21T12:01:28.964001+00:00"
+    },
+    {
+      "id": "jobright-c4683eedd43f",
+      "seen_at": "2026-10-21T12:01:28.964478+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7d66bf83621355407ae09e",
+      "seen_at": "2026-10-21T12:01:28.964926+00:00"
+    },
+    {
+      "id": "jobright-332ad207fa9e",
+      "seen_at": "2026-10-21T12:01:28.965384+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a71a429e2b7476e7b20ed8d",
+      "seen_at": "2026-10-21T12:01:28.965856+00:00"
+    },
+    {
+      "id": "jobright-062253bb4a3a",
+      "seen_at": "2026-10-21T12:01:28.966315+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a701a40f5953013637f727b",
+      "seen_at": "2026-10-21T12:01:28.966776+00:00"
+    },
+    {
+      "id": "jobright-7e19f9c8aa7a",
+      "seen_at": "2026-10-21T12:01:28.967234+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8924e1780f5549d585dc2",
+      "seen_at": "2026-10-21T12:01:28.967690+00:00"
+    },
+    {
+      "id": "jobright-777743d08c8c",
+      "seen_at": "2026-10-21T12:01:33.497507+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7e7e56e51a1e18a240e3b7",
+      "seen_at": "2026-10-21T12:01:33.498077+00:00"
     }
   ],
-  "last_run": "2026-10-21T11:31:18.313692+00:00",
-  "total_notified": 9855,
+  "last_run": "2026-10-21T12:01:33.702585+00:00",
+  "total_notified": 9863,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -29587,7 +29651,9 @@
       "greenhouse-airbnb-8303047",
       "url:https://careers.airbnb.com/positions/8303047",
       "zapply-3f6a484d5e7b",
-      "url:https://zapply.jobs/l/d/greenhouse-purestorage-8304567"
+      "url:https://zapply.jobs/l/d/greenhouse-purestorage-8304567",
+      "jobright-777743d08c8c",
+      "url:https://jobright.ai/jobs/info/6a7e7e56e51a1e18a240e3b7"
     ],
     "swe-ai-full-time": [
       "jobright-3c34f77262c6",
@@ -35571,7 +35637,21 @@
       "jobright-826950e1df9f",
       "url:https://jobright.ai/jobs/info/6ad819bd54bbabbab07053dd",
       "jobright-4b94233c9704",
-      "url:https://jobright.ai/jobs/info/6a6ffdc5cd3bac13d3709520"
+      "url:https://jobright.ai/jobs/info/6a6ffdc5cd3bac13d3709520",
+      "jobright-29ea960400a9",
+      "url:https://jobright.ai/jobs/info/6a6ffdc1160eda5948e8d14b",
+      "jobright-9052d23ba311",
+      "url:https://jobright.ai/jobs/info/6a7cf4a6a346cb6c8d5f112b",
+      "jobright-079256bd459c",
+      "url:https://jobright.ai/jobs/info/6a750bc237da8525e8cdc14d",
+      "jobright-c4683eedd43f",
+      "url:https://jobright.ai/jobs/info/6a7d66bf83621355407ae09e",
+      "jobright-332ad207fa9e",
+      "url:https://jobright.ai/jobs/info/6a71a429e2b7476e7b20ed8d",
+      "jobright-062253bb4a3a",
+      "url:https://jobright.ai/jobs/info/6a701a40f5953013637f727b",
+      "jobright-7e19f9c8aa7a",
+      "url:https://jobright.ai/jobs/info/6ad8924e1780f5549d585dc2"
     ]
   }
 }
