@@ -28567,10 +28567,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-expedia-private-R-110635",
       "seen_at": "2026-10-21T14:31:40.320774+00:00"
+    },
+    {
+      "id": "simplify-3700f49d-fa9a-4dce-8288-7e828433d6ac",
+      "seen_at": "2026-10-21T15:01:56.014952+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/provectus/62394851-693e-47fe-a86c-f8d9acf43ec2/apply",
+      "seen_at": "2026-10-21T15:01:56.015354+00:00"
+    },
+    {
+      "id": "jobright-d7ad6822a3f6",
+      "seen_at": "2026-10-21T15:01:56.015706+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8b7f6b0725dc268dd54f6",
+      "seen_at": "2026-10-21T15:01:56.016041+00:00"
     }
   ],
-  "last_run": "2026-10-21T14:31:44.077063+00:00",
-  "total_notified": 9870,
+  "last_run": "2026-10-21T15:01:59.907441+00:00",
+  "total_notified": 9872,
   "channels": {
     "pm-jobs": [
       "jobright-0f908cdd25ad",
@@ -35721,7 +35737,11 @@
       "gradtracker-cdefed67264b",
       "url:https://jobs.smartrecruiters.com/servicenow/744000156637254",
       "zapply-d5be356fd330",
-      "url:https://zapply.jobs/l/d/workday-expedia-private-R-110635"
+      "url:https://zapply.jobs/l/d/workday-expedia-private-R-110635",
+      "simplify-3700f49d-fa9a-4dce-8288-7e828433d6ac",
+      "url:https://jobs.lever.co/provectus/62394851-693e-47fe-a86c-f8d9acf43ec2/apply",
+      "jobright-d7ad6822a3f6",
+      "url:https://jobright.ai/jobs/info/6ad8b7f6b0725dc268dd54f6"
     ]
   }
 }
