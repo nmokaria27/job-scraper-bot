@@ -28263,10 +28263,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac6de8f064da25272e1cb27",
       "seen_at": "2026-10-22T03:01:18.270332+00:00"
+    },
+    {
+      "id": "ashby-sierra-ae8a501d-7f79-4398-b858-3d793756dd25",
+      "seen_at": "2026-10-22T03:31:18.055190+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/ae8a501d-7f79-4398-b858-3d793756dd25",
+      "seen_at": "2026-10-22T03:31:18.055793+00:00"
+    },
+    {
+      "id": "ashby-sierra-688d4d59-23d8-4100-9e2b-2fb11544753e",
+      "seen_at": "2026-10-22T03:31:18.056314+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/688d4d59-23d8-4100-9e2b-2fb11544753e",
+      "seen_at": "2026-10-22T03:31:18.056787+00:00"
     }
   ],
-  "last_run": "2026-10-22T03:01:22.598807+00:00",
-  "total_notified": 9977,
+  "last_run": "2026-10-22T03:31:21.526604+00:00",
+  "total_notified": 9979,
   "channels": {
     "pm-jobs": [
       "zapply-cdd1a71e8d06",
@@ -35341,7 +35357,11 @@
       "ashby-pinecone-edf2a2a5-64e2-45b8-9f2e-4f354af350b8",
       "url:https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8",
       "jobright-7df9fb83ed03",
-      "url:https://jobright.ai/jobs/info/6ac6de8f064da25272e1cb27"
+      "url:https://jobright.ai/jobs/info/6ac6de8f064da25272e1cb27",
+      "ashby-sierra-ae8a501d-7f79-4398-b858-3d793756dd25",
+      "url:https://jobs.ashbyhq.com/sierra/ae8a501d-7f79-4398-b858-3d793756dd25",
+      "ashby-sierra-688d4d59-23d8-4100-9e2b-2fb11544753e",
+      "url:https://jobs.ashbyhq.com/sierra/688d4d59-23d8-4100-9e2b-2fb11544753e"
     ]
   }
 }
