@@ -28183,10 +28183,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/perplexity/06dcd116-2b07-4f40-869e-06ed540f7614",
       "seen_at": "2026-10-22T23:01:59.781364+00:00"
+    },
+    {
+      "id": "simplify-b160c2da-eab8-4a59-9b66-181feed9fbdb",
+      "seen_at": "2026-10-22T23:31:25.475227+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply",
+      "seen_at": "2026-10-22T23:31:25.475876+00:00"
+    },
+    {
+      "id": "simplify-b710876f-4996-45f0-a639-9cb3be5ac486",
+      "seen_at": "2026-10-22T23:31:25.476421+00:00"
+    },
+    {
+      "id": "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321",
+      "seen_at": "2026-10-22T23:31:25.476909+00:00"
     }
   ],
-  "last_run": "2026-10-22T23:02:04.442616+00:00",
-  "total_notified": 10096,
+  "last_run": "2026-10-22T23:31:29.869289+00:00",
+  "total_notified": 10098,
   "channels": {
     "pm-jobs": [
       "zapply-6a19c05a47e3",
@@ -35241,7 +35257,11 @@
       "simplify-dce78796-c3cc-4b57-827a-6fa91cc08682",
       "url:https://boards.greenhouse.io/spacex/jobs/8852121002",
       "ashby-perplexity-06dcd116-2b07-4f40-869e-06ed540f7614",
-      "url:https://jobs.ashbyhq.com/perplexity/06dcd116-2b07-4f40-869e-06ed540f7614"
+      "url:https://jobs.ashbyhq.com/perplexity/06dcd116-2b07-4f40-869e-06ed540f7614",
+      "simplify-b160c2da-eab8-4a59-9b66-181feed9fbdb",
+      "url:https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply",
+      "simplify-b710876f-4996-45f0-a639-9cb3be5ac486",
+      "url:https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321"
     ]
   }
 }
