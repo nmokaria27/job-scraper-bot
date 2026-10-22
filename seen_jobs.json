@@ -28287,10 +28287,90 @@
     {
       "id": "url:https://jobs.ashbyhq.com/substack/32cbda9c-7783-45d1-83b9-73274f2311ba",
       "seen_at": "2026-10-22T20:01:42.130511+00:00"
+    },
+    {
+      "id": "jobright-e92d48b04471",
+      "seen_at": "2026-10-22T21:01:44.436950+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada5bcee4b94611ab85b9e6",
+      "seen_at": "2026-10-22T21:01:44.437545+00:00"
+    },
+    {
+      "id": "jobright-6e975f10720e",
+      "seen_at": "2026-10-22T21:01:44.438110+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada5951e4b94611ab85b832",
+      "seen_at": "2026-10-22T21:01:44.438571+00:00"
+    },
+    {
+      "id": "jobright-699ed752fcb0",
+      "seen_at": "2026-10-22T21:01:44.439053+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada60014c3adc437cecc33c",
+      "seen_at": "2026-10-22T21:01:44.439512+00:00"
+    },
+    {
+      "id": "amazon-10586988",
+      "seen_at": "2026-10-22T21:01:44.439988+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10586988/data-scientist-fleet-planning-global-fleet-products",
+      "seen_at": "2026-10-22T21:01:44.440432+00:00"
+    },
+    {
+      "id": "jobright-1066afed88e3",
+      "seen_at": "2026-10-22T21:01:44.440910+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada5980e4b94611ab85b85c",
+      "seen_at": "2026-10-22T21:01:44.441360+00:00"
+    },
+    {
+      "id": "jobright-8222002ccad2",
+      "seen_at": "2026-10-22T21:01:44.441832+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada5975e4b94611ab85b850",
+      "seen_at": "2026-10-22T21:01:44.442279+00:00"
+    },
+    {
+      "id": "jobright-56fa025cb7d9",
+      "seen_at": "2026-10-22T21:01:44.442738+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada5bbb950ef68d5185688b",
+      "seen_at": "2026-10-22T21:01:44.443195+00:00"
+    },
+    {
+      "id": "jobright-f32997a74df4",
+      "seen_at": "2026-10-22T21:01:44.443655+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada5979e4b94611ab85b852",
+      "seen_at": "2026-10-22T21:01:44.444116+00:00"
+    },
+    {
+      "id": "jobright-3d6a445a22ef",
+      "seen_at": "2026-10-22T21:01:49.029744+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aae32833dbb1f8967cf03a7",
+      "seen_at": "2026-10-22T21:01:49.030598+00:00"
+    },
+    {
+      "id": "jobright-e28b8c0bd00c",
+      "seen_at": "2026-10-22T21:01:49.031253+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada597954bbabbab07151f4",
+      "seen_at": "2026-10-22T21:01:49.031885+00:00"
     }
   ],
-  "last_run": "2026-10-22T20:31:34.032215+00:00",
-  "total_notified": 10065,
+  "last_run": "2026-10-22T21:01:49.217287+00:00",
+  "total_notified": 10075,
   "channels": {
     "pm-jobs": [
       "zapply-e8b1854c3481",
@@ -29437,7 +29517,11 @@
       "zapply-b5f958f09202",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801678",
       "ashby-substack-32cbda9c-7783-45d1-83b9-73274f2311ba",
-      "url:https://jobs.ashbyhq.com/substack/32cbda9c-7783-45d1-83b9-73274f2311ba"
+      "url:https://jobs.ashbyhq.com/substack/32cbda9c-7783-45d1-83b9-73274f2311ba",
+      "jobright-3d6a445a22ef",
+      "url:https://jobright.ai/jobs/info/6aae32833dbb1f8967cf03a7",
+      "jobright-e28b8c0bd00c",
+      "url:https://jobright.ai/jobs/info/6ada597954bbabbab07151f4"
     ],
     "swe-ai-full-time": [
       "zapply-1a2e44407b53",
@@ -35371,7 +35455,23 @@
       "amazon-10586949",
       "url:https://www.amazon.jobs/en/jobs/10586949/applied-scientist-worldwide-installments",
       "ashby-cursor-6868de4a-f753-4f10-8dc5-f7aabef03b56",
-      "url:https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56"
+      "url:https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56",
+      "jobright-e92d48b04471",
+      "url:https://jobright.ai/jobs/info/6ada5bcee4b94611ab85b9e6",
+      "jobright-6e975f10720e",
+      "url:https://jobright.ai/jobs/info/6ada5951e4b94611ab85b832",
+      "jobright-699ed752fcb0",
+      "url:https://jobright.ai/jobs/info/6ada60014c3adc437cecc33c",
+      "amazon-10586988",
+      "url:https://www.amazon.jobs/en/jobs/10586988/data-scientist-fleet-planning-global-fleet-products",
+      "jobright-1066afed88e3",
+      "url:https://jobright.ai/jobs/info/6ada5980e4b94611ab85b85c",
+      "jobright-8222002ccad2",
+      "url:https://jobright.ai/jobs/info/6ada5975e4b94611ab85b850",
+      "jobright-56fa025cb7d9",
+      "url:https://jobright.ai/jobs/info/6ada5bbb950ef68d5185688b",
+      "jobright-f32997a74df4",
+      "url:https://jobright.ai/jobs/info/6ada5979e4b94611ab85b852"
     ]
   }
 }
