@@ -28423,10 +28423,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a9708e5b22f636c81415778",
       "seen_at": "2026-10-22T12:01:36.880665+00:00"
+    },
+    {
+      "id": "jobright-d753d04416fb",
+      "seen_at": "2026-10-22T13:01:32.363515+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa0adb5a2266b538d231d9a",
+      "seen_at": "2026-10-22T13:01:32.364296+00:00"
+    },
+    {
+      "id": "jobright-0bf7d5378443",
+      "seen_at": "2026-10-22T13:01:32.365010+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9831c2def18223c854de48",
+      "seen_at": "2026-10-22T13:01:32.365656+00:00"
+    },
+    {
+      "id": "jobright-6a8241629131",
+      "seen_at": "2026-10-22T13:01:32.366303+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a846b9cd34f700f87fb8607",
+      "seen_at": "2026-10-22T13:01:32.366915+00:00"
+    },
+    {
+      "id": "jobright-57329b3ef6a4",
+      "seen_at": "2026-10-22T13:01:32.367573+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa08252dbc0e60e37e0e299",
+      "seen_at": "2026-10-22T13:01:32.368212+00:00"
+    },
+    {
+      "id": "jobright-5ad6fc94ecf2",
+      "seen_at": "2026-10-22T13:01:32.368847+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad9ed1103d2da75289106bb",
+      "seen_at": "2026-10-22T13:01:32.369390+00:00"
     }
   ],
-  "last_run": "2026-10-22T12:31:39.162627+00:00",
-  "total_notified": 9997,
+  "last_run": "2026-10-22T13:01:36.816765+00:00",
+  "total_notified": 10002,
   "channels": {
     "pm-jobs": [
       "zapply-cdd1a71e8d06",
@@ -35541,7 +35581,17 @@
       "jobright-e9e76fca1ba8",
       "url:https://jobright.ai/jobs/info/6a73f1811ce9647cdbcaa9a3",
       "jobright-561088573f42",
-      "url:https://jobright.ai/jobs/info/6a71a411ee751e0c7934463b"
+      "url:https://jobright.ai/jobs/info/6a71a411ee751e0c7934463b",
+      "jobright-d753d04416fb",
+      "url:https://jobright.ai/jobs/info/6aa0adb5a2266b538d231d9a",
+      "jobright-0bf7d5378443",
+      "url:https://jobright.ai/jobs/info/6a9831c2def18223c854de48",
+      "jobright-6a8241629131",
+      "url:https://jobright.ai/jobs/info/6a846b9cd34f700f87fb8607",
+      "jobright-57329b3ef6a4",
+      "url:https://jobright.ai/jobs/info/6aa08252dbc0e60e37e0e299",
+      "jobright-5ad6fc94ecf2",
+      "url:https://jobright.ai/jobs/info/6ad9ed1103d2da75289106bb"
     ]
   }
 }
