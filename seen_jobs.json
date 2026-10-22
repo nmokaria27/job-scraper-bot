@@ -28175,10 +28175,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ada3f8554bbabbab071422e",
       "seen_at": "2026-10-22T19:01:51.046593+00:00"
+    },
+    {
+      "id": "ashby-ramp-09360e92-fc95-4ba6-9611-dfefd60b13ce",
+      "seen_at": "2026-10-22T19:27:14.123319+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce",
+      "seen_at": "2026-10-22T19:27:14.123950+00:00"
+    },
+    {
+      "id": "ashby-ramp-29a5da77-37f0-402a-92bc-072778e77ed8",
+      "seen_at": "2026-10-22T19:27:14.124537+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8",
+      "seen_at": "2026-10-22T19:27:14.125052+00:00"
     }
   ],
-  "last_run": "2026-10-22T19:01:57.563972+00:00",
-  "total_notified": 10051,
+  "last_run": "2026-10-22T19:27:18.124966+00:00",
+  "total_notified": 10053,
   "channels": {
     "pm-jobs": [
       "zapply-e8b1854c3481",
@@ -35231,7 +35247,11 @@
       "amazon-10586861",
       "url:https://www.amazon.jobs/en/jobs/10586861/software-development-engineer",
       "jobright-9775b1372c3b",
-      "url:https://jobright.ai/jobs/info/6ada3f8554bbabbab071422e"
+      "url:https://jobright.ai/jobs/info/6ada3f8554bbabbab071422e",
+      "ashby-ramp-09360e92-fc95-4ba6-9611-dfefd60b13ce",
+      "url:https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce",
+      "ashby-ramp-29a5da77-37f0-402a-92bc-072778e77ed8",
+      "url:https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8"
     ]
   }
 }
