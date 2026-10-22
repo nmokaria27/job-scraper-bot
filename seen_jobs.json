@@ -28191,10 +28191,106 @@
     {
       "id": "url:https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8",
       "seen_at": "2026-10-22T19:27:14.125052+00:00"
+    },
+    {
+      "id": "jobright-e5fd46861bc8",
+      "seen_at": "2026-10-22T20:01:37.109260+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a427c566faf756060966e30",
+      "seen_at": "2026-10-22T20:01:37.109793+00:00"
+    },
+    {
+      "id": "jobright-b9589a3c59fd",
+      "seen_at": "2026-10-22T20:01:37.110299+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a427c4d6a9c2774b3fa628c",
+      "seen_at": "2026-10-22T20:01:37.110758+00:00"
+    },
+    {
+      "id": "jobright-b0939b11e952",
+      "seen_at": "2026-10-22T20:01:37.111240+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5529bd2084cd792b4768ea",
+      "seen_at": "2026-10-22T20:01:37.111693+00:00"
+    },
+    {
+      "id": "jobright-9a2f7e3e4062",
+      "seen_at": "2026-10-22T20:01:37.112168+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a4cb2ef35e45603c4bb1b4c",
+      "seen_at": "2026-10-22T20:01:37.112618+00:00"
+    },
+    {
+      "id": "jobright-44b00214a8ef",
+      "seen_at": "2026-10-22T20:01:37.113116+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada54494c3adc437cecbbfc",
+      "seen_at": "2026-10-22T20:01:37.113571+00:00"
+    },
+    {
+      "id": "zapply-6dac7392b7d5",
+      "seen_at": "2026-10-22T20:01:37.114048+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/bytedance-7698902624003229957",
+      "seen_at": "2026-10-22T20:01:37.114497+00:00"
+    },
+    {
+      "id": "zapply-dc91505f23e3",
+      "seen_at": "2026-10-22T20:01:37.114977+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/bytedance-7698902624389482757",
+      "seen_at": "2026-10-22T20:01:37.115422+00:00"
+    },
+    {
+      "id": "jobright-721bf241bac1",
+      "seen_at": "2026-10-22T20:01:37.115948+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada536603d2da7528913fc4",
+      "seen_at": "2026-10-22T20:01:37.116402+00:00"
+    },
+    {
+      "id": "jobright-5ab94b816f14",
+      "seen_at": "2026-10-22T20:01:37.116891+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada4b433a69033df22578be",
+      "seen_at": "2026-10-22T20:01:37.117344+00:00"
+    },
+    {
+      "id": "amazon-10586949",
+      "seen_at": "2026-10-22T20:01:37.117821+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10586949/applied-scientist-worldwide-installments",
+      "seen_at": "2026-10-22T20:01:37.118262+00:00"
+    },
+    {
+      "id": "ashby-cursor-6868de4a-f753-4f10-8dc5-f7aabef03b56",
+      "seen_at": "2026-10-22T20:01:37.118707+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56",
+      "seen_at": "2026-10-22T20:01:37.119155+00:00"
+    },
+    {
+      "id": "ashby-substack-32cbda9c-7783-45d1-83b9-73274f2311ba",
+      "seen_at": "2026-10-22T20:01:42.130057+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/substack/32cbda9c-7783-45d1-83b9-73274f2311ba",
+      "seen_at": "2026-10-22T20:01:42.130511+00:00"
     }
   ],
-  "last_run": "2026-10-22T19:31:31.655013+00:00",
-  "total_notified": 10053,
+  "last_run": "2026-10-22T20:01:42.512072+00:00",
+  "total_notified": 10065,
   "channels": {
     "pm-jobs": [
       "zapply-e8b1854c3481",
@@ -29339,7 +29435,9 @@
       "greenhouse-janestreet-8577205002",
       "url:https://www.janestreet.com/join-jane-street/apply/8577205002",
       "zapply-b5f958f09202",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801678"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801678",
+      "ashby-substack-32cbda9c-7783-45d1-83b9-73274f2311ba",
+      "url:https://jobs.ashbyhq.com/substack/32cbda9c-7783-45d1-83b9-73274f2311ba"
     ],
     "swe-ai-full-time": [
       "zapply-1a2e44407b53",
@@ -35251,7 +35349,29 @@
       "ashby-ramp-09360e92-fc95-4ba6-9611-dfefd60b13ce",
       "url:https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce",
       "ashby-ramp-29a5da77-37f0-402a-92bc-072778e77ed8",
-      "url:https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8"
+      "url:https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8",
+      "jobright-e5fd46861bc8",
+      "url:https://jobright.ai/jobs/info/6a427c566faf756060966e30",
+      "jobright-b9589a3c59fd",
+      "url:https://jobright.ai/jobs/info/6a427c4d6a9c2774b3fa628c",
+      "jobright-b0939b11e952",
+      "url:https://jobright.ai/jobs/info/6a5529bd2084cd792b4768ea",
+      "jobright-9a2f7e3e4062",
+      "url:https://jobright.ai/jobs/info/6a4cb2ef35e45603c4bb1b4c",
+      "jobright-44b00214a8ef",
+      "url:https://jobright.ai/jobs/info/6ada54494c3adc437cecbbfc",
+      "zapply-6dac7392b7d5",
+      "url:https://zapply.jobs/l/d/bytedance-7698902624003229957",
+      "zapply-dc91505f23e3",
+      "url:https://zapply.jobs/l/d/bytedance-7698902624389482757",
+      "jobright-721bf241bac1",
+      "url:https://jobright.ai/jobs/info/6ada536603d2da7528913fc4",
+      "jobright-5ab94b816f14",
+      "url:https://jobright.ai/jobs/info/6ada4b433a69033df22578be",
+      "amazon-10586949",
+      "url:https://www.amazon.jobs/en/jobs/10586949/applied-scientist-worldwide-installments",
+      "ashby-cursor-6868de4a-f753-4f10-8dc5-f7aabef03b56",
+      "url:https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56"
     ]
   }
 }
