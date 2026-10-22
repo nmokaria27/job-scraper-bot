@@ -28391,10 +28391,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad92f55b0725dc268ddabf4",
       "seen_at": "2026-10-22T00:01:28.264038+00:00"
+    },
+    {
+      "id": "ashby-sierra-0dfe7805-aa81-4b8c-88e0-f93a7f80ecee",
+      "seen_at": "2026-10-22T01:01:22.559385+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/0dfe7805-aa81-4b8c-88e0-f93a7f80ecee",
+      "seen_at": "2026-10-22T01:01:22.559786+00:00"
+    },
+    {
+      "id": "ashby-sierra-43fe3ab5-60ce-4d2c-b3bb-90c201968de2",
+      "seen_at": "2026-10-22T01:01:22.560151+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/43fe3ab5-60ce-4d2c-b3bb-90c201968de2",
+      "seen_at": "2026-10-22T01:01:22.560470+00:00"
+    },
+    {
+      "id": "ashby-sierra-200df475-2175-45ce-9510-7d04afabd08d",
+      "seen_at": "2026-10-22T01:01:22.560790+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/200df475-2175-45ce-9510-7d04afabd08d",
+      "seen_at": "2026-10-22T01:01:22.561081+00:00"
+    },
+    {
+      "id": "ashby-sierra-0cb4da3e-3c67-4f14-a84d-956042669275",
+      "seen_at": "2026-10-22T01:01:22.561394+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/0cb4da3e-3c67-4f14-a84d-956042669275",
+      "seen_at": "2026-10-22T01:01:22.561674+00:00"
+    },
+    {
+      "id": "ashby-sierra-2f372b6b-d163-48bd-b5df-84f9bf2b4dbc",
+      "seen_at": "2026-10-22T01:01:22.561982+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/2f372b6b-d163-48bd-b5df-84f9bf2b4dbc",
+      "seen_at": "2026-10-22T01:01:22.562281+00:00"
+    },
+    {
+      "id": "ashby-sierra-50ec6f9a-25f9-44b4-b8cc-50c897e698b3",
+      "seen_at": "2026-10-22T01:01:22.562577+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/50ec6f9a-25f9-44b4-b8cc-50c897e698b3",
+      "seen_at": "2026-10-22T01:01:22.562860+00:00"
     }
   ],
-  "last_run": "2026-10-22T00:31:22.312391+00:00",
-  "total_notified": 9967,
+  "last_run": "2026-10-22T01:01:27.072299+00:00",
+  "total_notified": 9973,
   "channels": {
     "pm-jobs": [
       "greenhouse-anthropic-5400720008",
@@ -35501,7 +35549,19 @@
       "jobright-7a2d99becdcb",
       "url:https://jobright.ai/jobs/info/6ad9394f950ef68d5184f565",
       "amazon-10585475",
-      "url:https://www.amazon.jobs/en/jobs/10585475/software-development-engineer-amazon-quick"
+      "url:https://www.amazon.jobs/en/jobs/10585475/software-development-engineer-amazon-quick",
+      "ashby-sierra-0dfe7805-aa81-4b8c-88e0-f93a7f80ecee",
+      "url:https://jobs.ashbyhq.com/sierra/0dfe7805-aa81-4b8c-88e0-f93a7f80ecee",
+      "ashby-sierra-43fe3ab5-60ce-4d2c-b3bb-90c201968de2",
+      "url:https://jobs.ashbyhq.com/sierra/43fe3ab5-60ce-4d2c-b3bb-90c201968de2",
+      "ashby-sierra-200df475-2175-45ce-9510-7d04afabd08d",
+      "url:https://jobs.ashbyhq.com/sierra/200df475-2175-45ce-9510-7d04afabd08d",
+      "ashby-sierra-0cb4da3e-3c67-4f14-a84d-956042669275",
+      "url:https://jobs.ashbyhq.com/sierra/0cb4da3e-3c67-4f14-a84d-956042669275",
+      "ashby-sierra-2f372b6b-d163-48bd-b5df-84f9bf2b4dbc",
+      "url:https://jobs.ashbyhq.com/sierra/2f372b6b-d163-48bd-b5df-84f9bf2b4dbc",
+      "ashby-sierra-50ec6f9a-25f9-44b4-b8cc-50c897e698b3",
+      "url:https://jobs.ashbyhq.com/sierra/50ec6f9a-25f9-44b4-b8cc-50c897e698b3"
     ]
   }
 }
