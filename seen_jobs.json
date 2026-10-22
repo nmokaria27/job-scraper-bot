@@ -28415,10 +28415,42 @@
     {
       "id": "url:https://www.janestreet.com/join-jane-street/apply/8577205002",
       "seen_at": "2026-10-22T17:31:28.250194+00:00"
+    },
+    {
+      "id": "greenhouse-lyft-8908005002",
+      "seen_at": "2026-10-22T18:01:30.645303+00:00"
+    },
+    {
+      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8908005002",
+      "seen_at": "2026-10-22T18:01:30.645636+00:00"
+    },
+    {
+      "id": "ashby-baseten-26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4",
+      "seen_at": "2026-10-22T18:01:30.645905+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/baseten/26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4",
+      "seen_at": "2026-10-22T18:01:30.646158+00:00"
+    },
+    {
+      "id": "ashby-baseten-34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
+      "seen_at": "2026-10-22T18:01:30.646396+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/baseten/34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
+      "seen_at": "2026-10-22T18:01:30.646623+00:00"
+    },
+    {
+      "id": "ashby-baseten-86331c05-a6b0-4a9f-991d-b46091b696b5",
+      "seen_at": "2026-10-22T18:01:30.646848+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/baseten/86331c05-a6b0-4a9f-991d-b46091b696b5",
+      "seen_at": "2026-10-22T18:01:30.647071+00:00"
     }
   ],
-  "last_run": "2026-10-22T17:31:28.443461+00:00",
-  "total_notified": 10034,
+  "last_run": "2026-10-22T18:01:35.443635+00:00",
+  "total_notified": 10038,
   "channels": {
     "pm-jobs": [
       "jobright-73fdf6f771c7",
@@ -35531,7 +35563,15 @@
       "ashby-elevenlabs-b380fb97-bb18-46a5-91db-5132e6693e93",
       "url:https://jobs.ashbyhq.com/elevenlabs/b380fb97-bb18-46a5-91db-5132e6693e93",
       "workday-salesforce-JR364718",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR364718"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR364718",
+      "greenhouse-lyft-8908005002",
+      "url:https://app.careerpuck.com/job-board/lyft/job/8908005002",
+      "ashby-baseten-26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4",
+      "url:https://jobs.ashbyhq.com/baseten/26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4",
+      "ashby-baseten-34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
+      "url:https://jobs.ashbyhq.com/baseten/34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
+      "ashby-baseten-86331c05-a6b0-4a9f-991d-b46091b696b5",
+      "url:https://jobs.ashbyhq.com/baseten/86331c05-a6b0-4a9f-991d-b46091b696b5"
     ]
   }
 }
