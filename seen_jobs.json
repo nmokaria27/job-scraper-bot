@@ -28223,10 +28223,58 @@
     {
       "id": "url:https://jobs.lever.co/algorex/cf93bbb8-6b46-430b-8554-6fab5aa8e719/apply",
       "seen_at": "2026-10-22T15:31:26.953756+00:00"
+    },
+    {
+      "id": "jobright-b90384ac246f",
+      "seen_at": "2026-10-22T16:01:47.549587+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa08c69a2266b538d23109f",
+      "seen_at": "2026-10-22T16:01:47.550176+00:00"
+    },
+    {
+      "id": "jobright-bacd4f1a6ad2",
+      "seen_at": "2026-10-22T16:01:47.550698+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada134754bbabbab07126cf",
+      "seen_at": "2026-10-22T16:01:47.551158+00:00"
+    },
+    {
+      "id": "jobright-222a1f4c66af",
+      "seen_at": "2026-10-22T16:01:47.551623+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a564389e9b77f668bd621f3",
+      "seen_at": "2026-10-22T16:01:47.552083+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-6231535004",
+      "seen_at": "2026-10-22T16:01:47.552606+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6231535004",
+      "seen_at": "2026-10-22T16:01:47.553061+00:00"
+    },
+    {
+      "id": "jobright-9d846546ebf3",
+      "seen_at": "2026-10-22T16:01:47.553520+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8488457b33d722762568e0",
+      "seen_at": "2026-10-22T16:01:47.553999+00:00"
+    },
+    {
+      "id": "zapply-45ffe67612bc",
+      "seen_at": "2026-10-22T16:01:51.574772+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-swa-external-R-2026-73308",
+      "seen_at": "2026-10-22T16:01:51.575257+00:00"
     }
   ],
-  "last_run": "2026-10-22T15:31:32.289467+00:00",
-  "total_notified": 10010,
+  "last_run": "2026-10-22T16:01:51.735221+00:00",
+  "total_notified": 10016,
   "channels": {
     "pm-jobs": [
       "jobright-73fdf6f771c7",
@@ -29375,7 +29423,9 @@
       "jobright-6f295cdd67d0",
       "url:https://jobright.ai/jobs/info/6a9708e5b22f636c81415778",
       "zapply-39a798349e2a",
-      "url:https://zapply.jobs/l/d/oracle-emerson-electric-26007143"
+      "url:https://zapply.jobs/l/d/oracle-emerson-electric-26007143",
+      "zapply-45ffe67612bc",
+      "url:https://zapply.jobs/l/d/workday-swa-external-R-2026-73308"
     ],
     "swe-ai-full-time": [
       "zapply-67e384db1e8f",
@@ -35291,7 +35341,17 @@
       "jobright-eab4ce841ab9",
       "url:https://jobright.ai/jobs/info/6ad8670c950ef68d5184831c",
       "simplify-90126943-996a-4235-bb88-26c2405d1cde",
-      "url:https://jobs.lever.co/algorex/cf93bbb8-6b46-430b-8554-6fab5aa8e719/apply"
+      "url:https://jobs.lever.co/algorex/cf93bbb8-6b46-430b-8554-6fab5aa8e719/apply",
+      "jobright-b90384ac246f",
+      "url:https://jobright.ai/jobs/info/6aa08c69a2266b538d23109f",
+      "jobright-bacd4f1a6ad2",
+      "url:https://jobright.ai/jobs/info/6ada134754bbabbab07126cf",
+      "jobright-222a1f4c66af",
+      "url:https://jobright.ai/jobs/info/6a564389e9b77f668bd621f3",
+      "greenhouse-vercel-6231535004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6231535004",
+      "jobright-9d846546ebf3",
+      "url:https://jobright.ai/jobs/info/6a8488457b33d722762568e0"
     ]
   }
 }
