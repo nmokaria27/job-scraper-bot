@@ -28199,10 +28199,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-emerson-electric-26007143",
       "seen_at": "2026-10-22T15:01:31.324371+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2022783",
+      "seen_at": "2026-10-22T15:11:23.265301+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783",
+      "seen_at": "2026-10-22T15:11:23.265960+00:00"
+    },
+    {
+      "id": "jobright-eab4ce841ab9",
+      "seen_at": "2026-10-22T15:11:23.266513+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad8670c950ef68d5184831c",
+      "seen_at": "2026-10-22T15:11:23.266998+00:00"
     }
   ],
-  "last_run": "2026-10-22T15:01:31.533896+00:00",
-  "total_notified": 10007,
+  "last_run": "2026-10-22T15:11:27.936776+00:00",
+  "total_notified": 10009,
   "channels": {
     "pm-jobs": [
       "jobright-73fdf6f771c7",
@@ -35261,7 +35277,11 @@
       "jobright-ad370276a715",
       "url:https://jobright.ai/jobs/info/698d1b1b78b4502f12a3a119",
       "ashby-clickhouse-40a07d4e-3b7e-49c0-afd4-2f4dff005d1a",
-      "url:https://jobs.ashbyhq.com/clickhouse/40a07d4e-3b7e-49c0-afd4-2f4dff005d1a"
+      "url:https://jobs.ashbyhq.com/clickhouse/40a07d4e-3b7e-49c0-afd4-2f4dff005d1a",
+      "workday-nvidia-JR2022783",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783",
+      "jobright-eab4ce841ab9",
+      "url:https://jobright.ai/jobs/info/6ad8670c950ef68d5184831c"
     ]
   }
 }
