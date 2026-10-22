@@ -28367,10 +28367,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ada597954bbabbab07151f4",
       "seen_at": "2026-10-22T21:01:49.031885+00:00"
+    },
+    {
+      "id": "zapply-780455759bc1",
+      "seen_at": "2026-10-22T21:31:17.629977+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526321",
+      "seen_at": "2026-10-22T21:31:17.630377+00:00"
+    },
+    {
+      "id": "amazon-10587056",
+      "seen_at": "2026-10-22T21:31:17.630774+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10587056/software-development-engineer-dynamodb",
+      "seen_at": "2026-10-22T21:31:17.631130+00:00"
     }
   ],
-  "last_run": "2026-10-22T21:01:49.217287+00:00",
-  "total_notified": 10075,
+  "last_run": "2026-10-22T21:31:21.784853+00:00",
+  "total_notified": 10077,
   "channels": {
     "pm-jobs": [
       "zapply-e8b1854c3481",
@@ -35471,7 +35487,11 @@
       "jobright-56fa025cb7d9",
       "url:https://jobright.ai/jobs/info/6ada5bbb950ef68d5185688b",
       "jobright-f32997a74df4",
-      "url:https://jobright.ai/jobs/info/6ada5979e4b94611ab85b852"
+      "url:https://jobright.ai/jobs/info/6ada5979e4b94611ab85b852",
+      "zapply-780455759bc1",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526321",
+      "amazon-10587056",
+      "url:https://www.amazon.jobs/en/jobs/10587056/software-development-engineer-dynamodb"
     ]
   }
 }
