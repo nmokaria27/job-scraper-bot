@@ -28151,10 +28151,106 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10587542/software-development-engineer-aws-private-pricing",
       "seen_at": "2026-10-23T18:31:30.253656+00:00"
+    },
+    {
+      "id": "jobright-1e32aebcd8e3",
+      "seen_at": "2026-10-23T19:02:11.995292+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8604262f4f0014cae278fd",
+      "seen_at": "2026-10-23T19:02:11.995952+00:00"
+    },
+    {
+      "id": "zapply-16b0a406aa3a",
+      "seen_at": "2026-10-23T19:02:11.996448+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000400640",
+      "seen_at": "2026-10-23T19:02:11.996929+00:00"
+    },
+    {
+      "id": "jobright-a4238f50c59a",
+      "seen_at": "2026-10-23T19:02:11.997390+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb911b46a8cabdc1ff39ae",
+      "seen_at": "2026-10-23T19:02:11.997860+00:00"
+    },
+    {
+      "id": "jobright-e3880354e6e1",
+      "seen_at": "2026-10-23T19:02:11.998333+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb8cf49e3e874dbfba07fb",
+      "seen_at": "2026-10-23T19:02:11.998811+00:00"
+    },
+    {
+      "id": "ashby-openai-d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
+      "seen_at": "2026-10-23T19:02:11.999273+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
+      "seen_at": "2026-10-23T19:02:11.999729+00:00"
+    },
+    {
+      "id": "jobright-9ed62d5a4cde",
+      "seen_at": "2026-10-23T19:02:12.000181+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6a2f38c63ba56308f51c76",
+      "seen_at": "2026-10-23T19:02:12.000644+00:00"
+    },
+    {
+      "id": "jobright-763285367f76",
+      "seen_at": "2026-10-23T19:02:12.001105+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada916e950ef68d51858f50",
+      "seen_at": "2026-10-23T19:02:12.001551+00:00"
+    },
+    {
+      "id": "jobright-24c347cc75f7",
+      "seen_at": "2026-10-23T19:02:18.313808+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb90365dc7953215a334fe",
+      "seen_at": "2026-10-23T19:02:18.314450+00:00"
+    },
+    {
+      "id": "zapply-23c160023389",
+      "seen_at": "2026-10-23T19:02:18.315016+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800130",
+      "seen_at": "2026-10-23T19:02:18.315437+00:00"
+    },
+    {
+      "id": "jobright-d737c14ff28f",
+      "seen_at": "2026-10-23T19:02:18.315878+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb8dc30a4cc7090f9737e6",
+      "seen_at": "2026-10-23T19:02:18.316285+00:00"
+    },
+    {
+      "id": "zapply-9e812179754f",
+      "seen_at": "2026-10-23T19:02:18.316719+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800533",
+      "seen_at": "2026-10-23T19:02:18.317121+00:00"
+    },
+    {
+      "id": "jobright-e8894fd0437a",
+      "seen_at": "2026-10-23T19:02:18.317530+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb8cc9c5c64fa3d9caff64",
+      "seen_at": "2026-10-23T19:02:18.317960+00:00"
     }
   ],
-  "last_run": "2026-10-23T18:31:34.595477+00:00",
-  "total_notified": 10205,
+  "last_run": "2026-10-23T19:02:18.588226+00:00",
+  "total_notified": 10217,
   "channels": {
     "pm-jobs": [
       "jobright-76ec31d07719",
@@ -29303,7 +29399,17 @@
       "zapply-09ab46eab8be",
       "url:https://zapply.jobs/l/d/workday-swa-external-R-2026-70458",
       "simplify-1aca142d-fcc8-4cfe-b6c6-d06c5b55c36f",
-      "url:https://job-boards.greenhouse.io/addepar1/jobs/8910404002"
+      "url:https://job-boards.greenhouse.io/addepar1/jobs/8910404002",
+      "jobright-24c347cc75f7",
+      "url:https://jobright.ai/jobs/info/6adb90365dc7953215a334fe",
+      "zapply-23c160023389",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800130",
+      "jobright-d737c14ff28f",
+      "url:https://jobright.ai/jobs/info/6adb8dc30a4cc7090f9737e6",
+      "zapply-9e812179754f",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800533",
+      "jobright-e8894fd0437a",
+      "url:https://jobright.ai/jobs/info/6adb8cc9c5c64fa3d9caff64"
     ],
     "swe-ai-full-time": [
       "zapply-f0f038f02121",
@@ -35201,7 +35307,21 @@
       "jobright-2017c1679487",
       "url:https://jobright.ai/jobs/info/6adb85525dc7953215a33037",
       "amazon-10587542",
-      "url:https://www.amazon.jobs/en/jobs/10587542/software-development-engineer-aws-private-pricing"
+      "url:https://www.amazon.jobs/en/jobs/10587542/software-development-engineer-aws-private-pricing",
+      "jobright-1e32aebcd8e3",
+      "url:https://jobright.ai/jobs/info/6a8604262f4f0014cae278fd",
+      "zapply-16b0a406aa3a",
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000400640",
+      "jobright-a4238f50c59a",
+      "url:https://jobright.ai/jobs/info/6adb911b46a8cabdc1ff39ae",
+      "jobright-e3880354e6e1",
+      "url:https://jobright.ai/jobs/info/6adb8cf49e3e874dbfba07fb",
+      "ashby-openai-d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
+      "url:https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
+      "jobright-9ed62d5a4cde",
+      "url:https://jobright.ai/jobs/info/6a6a2f38c63ba56308f51c76",
+      "jobright-763285367f76",
+      "url:https://jobright.ai/jobs/info/6ada916e950ef68d51858f50"
     ]
   }
 }
