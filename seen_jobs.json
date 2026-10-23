@@ -27999,10 +27999,42 @@
     {
       "id": "url:https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
       "seen_at": "2026-10-23T02:31:14.405078+00:00"
+    },
+    {
+      "id": "jobright-57eeb57c3270",
+      "seen_at": "2026-10-23T03:01:19.587020+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adab194950ef68d51859d4d",
+      "seen_at": "2026-10-23T03:01:19.587374+00:00"
+    },
+    {
+      "id": "jobright-d692913956c1",
+      "seen_at": "2026-10-23T03:01:19.587670+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada9efd54bbabbab0718014",
+      "seen_at": "2026-10-23T03:01:19.587965+00:00"
+    },
+    {
+      "id": "jobright-065b0bfe1034",
+      "seen_at": "2026-10-23T03:01:24.548802+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adab55b3a69033df225b754",
+      "seen_at": "2026-10-23T03:01:24.549107+00:00"
+    },
+    {
+      "id": "jobright-aa6f40938a52",
+      "seen_at": "2026-10-23T03:01:24.549374+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a185c5c6243320e8d1636b1",
+      "seen_at": "2026-10-23T03:01:24.549612+00:00"
     }
   ],
-  "last_run": "2026-10-23T02:31:17.983067+00:00",
-  "total_notified": 10122,
+  "last_run": "2026-10-23T03:01:24.903162+00:00",
+  "total_notified": 10126,
   "channels": {
     "pm-jobs": [
       "jobright-00d4b4947b84",
@@ -29127,7 +29159,11 @@
       "zapply-5d544a6bab67",
       "url:https://zapply.jobs/l/d/workday-copart-copart-JR112367",
       "jobright-a8f1adf46c99",
-      "url:https://jobright.ai/jobs/info/6adaa86d54bbabbab071831c"
+      "url:https://jobright.ai/jobs/info/6adaa86d54bbabbab071831c",
+      "jobright-065b0bfe1034",
+      "url:https://jobright.ai/jobs/info/6adab55b3a69033df225b754",
+      "jobright-aa6f40938a52",
+      "url:https://jobright.ai/jobs/info/6a185c5c6243320e8d1636b1"
     ],
     "swe-ai-full-time": [
       "jobright-052c287507cf",
@@ -35011,7 +35047,11 @@
       "simplify-beb3809f-7e70-4921-8048-c14921c4ba78",
       "url:https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery",
       "simplify-99e8b672-5e35-4fbe-a857-fa9a8fece7a5",
-      "url:https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us"
+      "url:https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
+      "jobright-57eeb57c3270",
+      "url:https://jobright.ai/jobs/info/6adab194950ef68d51859d4d",
+      "jobright-d692913956c1",
+      "url:https://jobright.ai/jobs/info/6ada9efd54bbabbab0718014"
     ]
   }
 }
