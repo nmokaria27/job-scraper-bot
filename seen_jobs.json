@@ -27967,10 +27967,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6adaa86d54bbabbab071831c",
       "seen_at": "2026-10-23T02:01:23.986614+00:00"
+    },
+    {
+      "id": "simplify-2b5665cf-ffeb-4c91-adce-7d9357641676",
+      "seen_at": "2026-10-23T02:31:14.401520+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+      "seen_at": "2026-10-23T02:31:14.402144+00:00"
+    },
+    {
+      "id": "simplify-312b7b27-dc1b-4ccc-a582-f20be014c2e9",
+      "seen_at": "2026-10-23T02:31:14.402679+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery",
+      "seen_at": "2026-10-23T02:31:14.403191+00:00"
+    },
+    {
+      "id": "simplify-beb3809f-7e70-4921-8048-c14921c4ba78",
+      "seen_at": "2026-10-23T02:31:14.403675+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery",
+      "seen_at": "2026-10-23T02:31:14.404140+00:00"
+    },
+    {
+      "id": "simplify-99e8b672-5e35-4fbe-a857-fa9a8fece7a5",
+      "seen_at": "2026-10-23T02:31:14.404599+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
+      "seen_at": "2026-10-23T02:31:14.405078+00:00"
     }
   ],
-  "last_run": "2026-10-23T02:01:24.171319+00:00",
-  "total_notified": 10118,
+  "last_run": "2026-10-23T02:31:17.983067+00:00",
+  "total_notified": 10122,
   "channels": {
     "pm-jobs": [
       "jobright-00d4b4947b84",
@@ -34971,7 +35003,15 @@
       "jobright-c3b556a8165f",
       "url:https://jobright.ai/jobs/info/6ada8a3454bbabbab07175fc",
       "jobright-70b36f159bd2",
-      "url:https://jobright.ai/jobs/info/6ada9fd73a69033df225aef7"
+      "url:https://jobright.ai/jobs/info/6ada9fd73a69033df225aef7",
+      "simplify-2b5665cf-ffeb-4c91-adce-7d9357641676",
+      "url:https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+      "simplify-312b7b27-dc1b-4ccc-a582-f20be014c2e9",
+      "url:https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery",
+      "simplify-beb3809f-7e70-4921-8048-c14921c4ba78",
+      "url:https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery",
+      "simplify-99e8b672-5e35-4fbe-a857-fa9a8fece7a5",
+      "url:https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us"
     ]
   }
 }
