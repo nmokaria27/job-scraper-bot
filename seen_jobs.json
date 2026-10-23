@@ -28135,10 +28135,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2625914",
       "seen_at": "2026-10-23T11:01:28.041893+00:00"
+    },
+    {
+      "id": "jobright-df38202f6571",
+      "seen_at": "2026-10-23T12:02:03.026337+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abada911acb8fc6f09c1f29",
+      "seen_at": "2026-10-23T12:02:03.026969+00:00"
+    },
+    {
+      "id": "amazon-10587403",
+      "seen_at": "2026-10-23T12:02:03.027497+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10587403/software-development-engineer-agentic-ai-velocity-labs",
+      "seen_at": "2026-10-23T12:02:03.027972+00:00"
+    },
+    {
+      "id": "jobright-8f1a2a520d33",
+      "seen_at": "2026-10-23T12:02:03.028460+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb30a6cb58d64fcd3735ec",
+      "seen_at": "2026-10-23T12:02:03.028972+00:00"
     }
   ],
-  "last_run": "2026-10-23T11:31:21.038753+00:00",
-  "total_notified": 10139,
+  "last_run": "2026-10-23T12:02:06.799308+00:00",
+  "total_notified": 10142,
   "channels": {
     "pm-jobs": [
       "jobright-00d4b4947b84",
@@ -35181,7 +35205,13 @@
       "jobright-648bfc466e1a",
       "url:https://jobright.ai/jobs/info/6adad30593c3e3e280bd1b56",
       "zapply-f33a938d1433",
-      "url:https://zapply.jobs/l/d/workday-amat-external-R2625914"
+      "url:https://zapply.jobs/l/d/workday-amat-external-R2625914",
+      "jobright-df38202f6571",
+      "url:https://jobright.ai/jobs/info/6abada911acb8fc6f09c1f29",
+      "amazon-10587403",
+      "url:https://www.amazon.jobs/en/jobs/10587403/software-development-engineer-agentic-ai-velocity-labs",
+      "jobright-8f1a2a520d33",
+      "url:https://jobright.ai/jobs/info/6adb30a6cb58d64fcd3735ec"
     ]
   }
 }
