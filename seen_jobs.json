@@ -27639,10 +27639,50 @@
     {
       "id": "url:https://jobs.ashbyhq.com/suno/06316e85-61ab-4562-83e2-fb27fad43734",
       "seen_at": "2026-10-23T23:01:37.897020+00:00"
+    },
+    {
+      "id": "simplify-9c419d63-e801-49ea-b32c-d22bcfcd2b97",
+      "seen_at": "2026-10-23T23:31:18.249113+00:00"
+    },
+    {
+      "id": "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
+      "seen_at": "2026-10-23T23:31:18.249482+00:00"
+    },
+    {
+      "id": "gradtracker-7d7254b3f831",
+      "seen_at": "2026-10-23T23:31:18.249761+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000157571919",
+      "seen_at": "2026-10-23T23:31:18.250009+00:00"
+    },
+    {
+      "id": "simplify-afc381bd-a720-48e2-9119-10766e6c7d5c",
+      "seen_at": "2026-10-23T23:31:18.250254+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/beyondtrust/jobs/8300876",
+      "seen_at": "2026-10-23T23:31:18.250497+00:00"
+    },
+    {
+      "id": "simplify-19cab4c6-8cb4-4890-8917-5ee1650aaea3",
+      "seen_at": "2026-10-23T23:31:18.250728+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sola/cf2b27be-7dc8-4e14-aff0-512639bac918/application",
+      "seen_at": "2026-10-23T23:31:18.250950+00:00"
+    },
+    {
+      "id": "zapply-f27f66c3cf3f",
+      "seen_at": "2026-10-23T23:31:24.599022+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-honeywell-153612",
+      "seen_at": "2026-10-23T23:31:24.599335+00:00"
     }
   ],
-  "last_run": "2026-10-23T23:01:38.528257+00:00",
-  "total_notified": 10256,
+  "last_run": "2026-10-23T23:31:24.830200+00:00",
+  "total_notified": 10261,
   "channels": {
     "pm-jobs": [
       "zapply-ea5837442be0",
@@ -28797,7 +28837,9 @@
       "jobright-4c2201557517",
       "url:https://jobright.ai/jobs/info/6adbc8aa46a8cabdc1ff4bbf",
       "ashby-suno-06316e85-61ab-4562-83e2-fb27fad43734",
-      "url:https://jobs.ashbyhq.com/suno/06316e85-61ab-4562-83e2-fb27fad43734"
+      "url:https://jobs.ashbyhq.com/suno/06316e85-61ab-4562-83e2-fb27fad43734",
+      "zapply-f27f66c3cf3f",
+      "url:https://zapply.jobs/l/d/oracle-honeywell-153612"
     ],
     "swe-ai-full-time": [
       "simplify-88301f7d-d1b8-4321-96b8-6f10953efa8a",
@@ -34561,7 +34603,15 @@
       "greenhouse-mercury-6233910004",
       "url:https://job-boards.greenhouse.io/mercury/jobs/6233910004",
       "greenhouse-gitlab-8771512002",
-      "url:https://job-boards.greenhouse.io/gitlab/jobs/8771512002"
+      "url:https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
+      "simplify-9c419d63-e801-49ea-b32c-d22bcfcd2b97",
+      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
+      "gradtracker-7d7254b3f831",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000157571919",
+      "simplify-afc381bd-a720-48e2-9119-10766e6c7d5c",
+      "url:https://job-boards.greenhouse.io/beyondtrust/jobs/8300876",
+      "simplify-19cab4c6-8cb4-4890-8917-5ee1650aaea3",
+      "url:https://jobs.ashbyhq.com/sola/cf2b27be-7dc8-4e14-aff0-512639bac918/application"
     ]
   }
 }
