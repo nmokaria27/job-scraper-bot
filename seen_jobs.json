@@ -28127,10 +28127,18 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19794",
       "seen_at": "2026-10-23T10:01:50.498738+00:00"
+    },
+    {
+      "id": "zapply-f33a938d1433",
+      "seen_at": "2026-10-23T11:01:28.041148+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2625914",
+      "seen_at": "2026-10-23T11:01:28.041893+00:00"
     }
   ],
-  "last_run": "2026-10-23T10:31:14.474366+00:00",
-  "total_notified": 10138,
+  "last_run": "2026-10-23T11:01:33.920218+00:00",
+  "total_notified": 10139,
   "channels": {
     "pm-jobs": [
       "jobright-00d4b4947b84",
@@ -35171,7 +35179,9 @@
       "jobright-6ff402dfee2f",
       "url:https://jobright.ai/jobs/info/6adae35691f93f4b05715170",
       "jobright-648bfc466e1a",
-      "url:https://jobright.ai/jobs/info/6adad30593c3e3e280bd1b56"
+      "url:https://jobright.ai/jobs/info/6adad30593c3e3e280bd1b56",
+      "zapply-f33a938d1433",
+      "url:https://zapply.jobs/l/d/workday-amat-external-R2625914"
     ]
   }
 }
