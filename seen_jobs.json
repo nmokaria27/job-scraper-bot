@@ -28199,10 +28199,66 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091650",
       "seen_at": "2026-10-23T13:01:37.483242+00:00"
+    },
+    {
+      "id": "jobright-2dc497711235",
+      "seen_at": "2026-10-23T14:01:27.400207+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb545246a8cabdc1ff2567",
+      "seen_at": "2026-10-23T14:01:27.400561+00:00"
+    },
+    {
+      "id": "jobright-e310cea58c47",
+      "seen_at": "2026-10-23T14:01:27.400862+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a739d94e55c73319eb18689",
+      "seen_at": "2026-10-23T14:01:27.401123+00:00"
+    },
+    {
+      "id": "gradtracker-5e829e10f58d",
+      "seen_at": "2026-10-23T14:01:27.401384+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10587443/software-development-engineer-adc2s",
+      "seen_at": "2026-10-23T14:01:27.401620+00:00"
+    },
+    {
+      "id": "gradtracker-a7a0fd61d089",
+      "seen_at": "2026-10-23T14:01:27.401863+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10587444/software-development-engineer-adc2s",
+      "seen_at": "2026-10-23T14:01:27.402088+00:00"
+    },
+    {
+      "id": "gradtracker-700d3b9a1401",
+      "seen_at": "2026-10-23T14:01:27.402313+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10587463/software-development-engineer-adc2s",
+      "seen_at": "2026-10-23T14:01:27.402529+00:00"
+    },
+    {
+      "id": "greenhouse-drweng-8303364",
+      "seen_at": "2026-10-23T14:01:27.402746+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/drweng/jobs/8303364",
+      "seen_at": "2026-10-23T14:01:27.402961+00:00"
+    },
+    {
+      "id": "greenhouse-sofi-8042391003",
+      "seen_at": "2026-10-23T14:01:27.403175+00:00"
+    },
+    {
+      "id": "url:https://sofi.com/careers/job/8042391003",
+      "seen_at": "2026-10-23T14:01:27.403379+00:00"
     }
   ],
-  "last_run": "2026-10-23T13:31:24.568123+00:00",
-  "total_notified": 10147,
+  "last_run": "2026-10-23T14:01:32.406152+00:00",
+  "total_notified": 10154,
   "channels": {
     "pm-jobs": [
       "jobright-00d4b4947b84",
@@ -35261,7 +35317,21 @@
       "jobright-629b2c24d7ee",
       "url:https://jobright.ai/jobs/info/6ad64c903dc655658d8e4483",
       "jobright-365a72a5e68b",
-      "url:https://jobright.ai/jobs/info/6a96f83e455eaf6a08c1995f"
+      "url:https://jobright.ai/jobs/info/6a96f83e455eaf6a08c1995f",
+      "jobright-2dc497711235",
+      "url:https://jobright.ai/jobs/info/6adb545246a8cabdc1ff2567",
+      "jobright-e310cea58c47",
+      "url:https://jobright.ai/jobs/info/6a739d94e55c73319eb18689",
+      "gradtracker-5e829e10f58d",
+      "url:https://www.amazon.jobs/en/jobs/10587443/software-development-engineer-adc2s",
+      "gradtracker-a7a0fd61d089",
+      "url:https://www.amazon.jobs/en/jobs/10587444/software-development-engineer-adc2s",
+      "gradtracker-700d3b9a1401",
+      "url:https://www.amazon.jobs/en/jobs/10587463/software-development-engineer-adc2s",
+      "greenhouse-drweng-8303364",
+      "url:https://job-boards.greenhouse.io/drweng/jobs/8303364",
+      "greenhouse-sofi-8042391003",
+      "url:https://sofi.com/careers/job/8042391003"
     ]
   }
 }
