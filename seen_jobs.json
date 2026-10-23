@@ -27887,10 +27887,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ada583a54bbabbab07150fb",
       "seen_at": "2026-10-23T14:59:18.819480+00:00"
+    },
+    {
+      "id": "amazon-10587524",
+      "seen_at": "2026-10-23T15:31:33.556800+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10587524/applied-scientist-fauna",
+      "seen_at": "2026-10-23T15:31:33.557576+00:00"
+    },
+    {
+      "id": "greenhouse-mercury-6233238004",
+      "seen_at": "2026-10-23T15:31:33.558268+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/mercury/jobs/6233238004",
+      "seen_at": "2026-10-23T15:31:33.558897+00:00"
+    },
+    {
+      "id": "workday-capitalone-R1004353",
+      "seen_at": "2026-10-23T15:31:38.543796+00:00"
+    },
+    {
+      "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Management--GenAI-Platforms_R1004353-1",
+      "seen_at": "2026-10-23T15:31:38.544501+00:00"
+    },
+    {
+      "id": "zapply-d56625caa505",
+      "seen_at": "2026-10-23T15:31:38.545126+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000125312",
+      "seen_at": "2026-10-23T15:31:38.545695+00:00"
     }
   ],
-  "last_run": "2026-10-23T15:01:40.278440+00:00",
-  "total_notified": 10172,
+  "last_run": "2026-10-23T15:31:38.993340+00:00",
+  "total_notified": 10176,
   "channels": {
     "pm-jobs": [
       "jobright-76ec31d07719",
@@ -29027,7 +29059,11 @@
       "zapply-32675b85ad2d",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027632",
       "jobright-a329de9ab925",
-      "url:https://jobright.ai/jobs/info/6ada583a54bbabbab07150fb"
+      "url:https://jobright.ai/jobs/info/6ada583a54bbabbab07150fb",
+      "workday-capitalone-R1004353",
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Management--GenAI-Platforms_R1004353-1",
+      "zapply-d56625caa505",
+      "url:https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000125312"
     ],
     "swe-ai-full-time": [
       "zapply-f0f038f02121",
@@ -34871,7 +34907,11 @@
       "jobright-59c58595d2c3",
       "url:https://jobright.ai/jobs/info/6a3f4cc6ce7cce40b3423624",
       "jobright-2de435dd935f",
-      "url:https://jobright.ai/jobs/info/6a58c8e9686b4755d1e0c420"
+      "url:https://jobright.ai/jobs/info/6a58c8e9686b4755d1e0c420",
+      "amazon-10587524",
+      "url:https://www.amazon.jobs/en/jobs/10587524/applied-scientist-fauna",
+      "greenhouse-mercury-6233238004",
+      "url:https://job-boards.greenhouse.io/mercury/jobs/6233238004"
     ]
   }
 }
