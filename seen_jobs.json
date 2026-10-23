@@ -27975,10 +27975,42 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10586916/software-development-engineer-storegen",
       "seen_at": "2026-10-23T00:01:38.401205+00:00"
+    },
+    {
+      "id": "greenhouse-gleanwork-4746910005",
+      "seen_at": "2026-10-23T00:31:21.134121+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/gleanwork/jobs/4746910005",
+      "seen_at": "2026-10-23T00:31:21.134442+00:00"
+    },
+    {
+      "id": "greenhouse-gleanwork-4746908005",
+      "seen_at": "2026-10-23T00:31:21.134712+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/gleanwork/jobs/4746908005",
+      "seen_at": "2026-10-23T00:31:21.134945+00:00"
+    },
+    {
+      "id": "greenhouse-gleanwork-4746685005",
+      "seen_at": "2026-10-23T00:31:21.135174+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/gleanwork/jobs/4746685005",
+      "seen_at": "2026-10-23T00:31:21.135394+00:00"
+    },
+    {
+      "id": "zapply-5d544a6bab67",
+      "seen_at": "2026-10-23T00:31:26.084761+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-copart-copart-JR112367",
+      "seen_at": "2026-10-23T00:31:26.085040+00:00"
     }
   ],
-  "last_run": "2026-10-23T00:01:42.874900+00:00",
-  "total_notified": 10103,
+  "last_run": "2026-10-23T00:31:26.314707+00:00",
+  "total_notified": 10107,
   "channels": {
     "pm-jobs": [
       "zapply-d4035c197a98",
@@ -29103,7 +29135,9 @@
       "ashby-decagon-d32da775-c5ea-420d-a07e-13412044c27b",
       "url:https://jobs.ashbyhq.com/decagon/d32da775-c5ea-420d-a07e-13412044c27b",
       "simplify-b986a7c9-3df1-4739-9c5a-a68338dbe477",
-      "url:https://jobs.lever.co/hive/d5b22ed0-fdd2-4be1-8e6c-b6d734c17986/apply"
+      "url:https://jobs.lever.co/hive/d5b22ed0-fdd2-4be1-8e6c-b6d734c17986/apply",
+      "zapply-5d544a6bab67",
+      "url:https://zapply.jobs/l/d/workday-copart-copart-JR112367"
     ],
     "swe-ai-full-time": [
       "simplify-697d4f47-13f9-46f4-85e4-18851d90babb",
@@ -34981,7 +35015,13 @@
       "jobright-124a9a408d21",
       "url:https://jobright.ai/jobs/info/6ada8ab83a69033df225a4cd",
       "gradtracker-d323fd19c203",
-      "url:https://www.amazon.jobs/en/jobs/10586916/software-development-engineer-storegen"
+      "url:https://www.amazon.jobs/en/jobs/10586916/software-development-engineer-storegen",
+      "greenhouse-gleanwork-4746910005",
+      "url:https://job-boards.greenhouse.io/gleanwork/jobs/4746910005",
+      "greenhouse-gleanwork-4746908005",
+      "url:https://job-boards.greenhouse.io/gleanwork/jobs/4746908005",
+      "greenhouse-gleanwork-4746685005",
+      "url:https://job-boards.greenhouse.io/gleanwork/jobs/4746685005"
     ]
   }
 }
