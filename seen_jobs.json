@@ -27911,10 +27911,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747340005",
       "seen_at": "2026-10-23T21:31:22.945336+00:00"
+    },
+    {
+      "id": "ashby-benchling-7c32ac1e-3de3-462b-aa17-7618317f0da0",
+      "seen_at": "2026-10-23T22:01:42.975517+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0",
+      "seen_at": "2026-10-23T22:01:42.975854+00:00"
+    },
+    {
+      "id": "jobright-d3aa7f18663f",
+      "seen_at": "2026-10-23T22:01:48.414174+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adbbb0fc5c64fa3d9cb0e0b",
+      "seen_at": "2026-10-23T22:01:48.414446+00:00"
     }
   ],
-  "last_run": "2026-10-23T21:31:27.558602+00:00",
-  "total_notified": 10238,
+  "last_run": "2026-10-23T22:01:48.654796+00:00",
+  "total_notified": 10240,
   "channels": {
     "pm-jobs": [
       "zapply-797c0d960eec",
@@ -29077,7 +29093,9 @@
       "jobright-3206e6e7cd02",
       "url:https://jobright.ai/jobs/info/6adbae89389e06bb41ad3506",
       "zapply-b0d17fb41405",
-      "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053204"
+      "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053204",
+      "jobright-d3aa7f18663f",
+      "url:https://jobright.ai/jobs/info/6adbbb0fc5c64fa3d9cb0e0b"
     ],
     "swe-ai-full-time": [
       "zapply-3171383e23f1",
@@ -34901,7 +34919,9 @@
       "greenhouse-assemblyai-4747365005",
       "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747365005",
       "greenhouse-assemblyai-4747340005",
-      "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747340005"
+      "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747340005",
+      "ashby-benchling-7c32ac1e-3de3-462b-aa17-7618317f0da0",
+      "url:https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0"
     ]
   }
 }
