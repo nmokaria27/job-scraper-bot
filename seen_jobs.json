@@ -27983,10 +27983,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-stubhubinc-5012911101",
       "seen_at": "2026-10-23T16:01:47.603130+00:00"
+    },
+    {
+      "id": "jobright-33b3ae755196",
+      "seen_at": "2026-10-23T17:01:40.036603+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb750746a8cabdc1ff2edb",
+      "seen_at": "2026-10-23T17:01:40.036935+00:00"
+    },
+    {
+      "id": "amazon-10587677",
+      "seen_at": "2026-10-23T17:01:40.037215+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10587677/software-development-engineer-tax-central-ai-engineering",
+      "seen_at": "2026-10-23T17:01:40.037471+00:00"
+    },
+    {
+      "id": "jobright-05dd6edab406",
+      "seen_at": "2026-10-23T17:01:40.037712+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb7164c5c64fa3d9caf578",
+      "seen_at": "2026-10-23T17:01:40.037949+00:00"
+    },
+    {
+      "id": "zapply-5a7824ffa120",
+      "seen_at": "2026-10-23T17:01:46.247080+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-emerson-electric-26012426",
+      "seen_at": "2026-10-23T17:01:46.247396+00:00"
+    },
+    {
+      "id": "zapply-09ab46eab8be",
+      "seen_at": "2026-10-23T17:01:46.247641+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-swa-external-R-2026-70458",
+      "seen_at": "2026-10-23T17:01:46.247866+00:00"
     }
   ],
-  "last_run": "2026-10-23T16:01:47.860515+00:00",
-  "total_notified": 10184,
+  "last_run": "2026-10-23T17:01:46.482415+00:00",
+  "total_notified": 10189,
   "channels": {
     "pm-jobs": [
       "jobright-76ec31d07719",
@@ -29129,7 +29169,11 @@
       "zapply-d56625caa505",
       "url:https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000125312",
       "zapply-ba9e840e3cca",
-      "url:https://zapply.jobs/l/d/greenhouse-stubhubinc-5012911101"
+      "url:https://zapply.jobs/l/d/greenhouse-stubhubinc-5012911101",
+      "zapply-5a7824ffa120",
+      "url:https://zapply.jobs/l/d/oracle-emerson-electric-26012426",
+      "zapply-09ab46eab8be",
+      "url:https://zapply.jobs/l/d/workday-swa-external-R-2026-70458"
     ],
     "swe-ai-full-time": [
       "zapply-f0f038f02121",
@@ -34991,7 +35035,13 @@
       "jobright-6411df0a1653",
       "url:https://jobright.ai/jobs/info/6adb6c0e0a4cc7090f972bd9",
       "jobright-1b536669f059",
-      "url:https://jobright.ai/jobs/info/6aa1c4e42f936e4a53dadf60"
+      "url:https://jobright.ai/jobs/info/6aa1c4e42f936e4a53dadf60",
+      "jobright-33b3ae755196",
+      "url:https://jobright.ai/jobs/info/6adb750746a8cabdc1ff2edb",
+      "amazon-10587677",
+      "url:https://www.amazon.jobs/en/jobs/10587677/software-development-engineer-tax-central-ai-engineering",
+      "jobright-05dd6edab406",
+      "url:https://jobright.ai/jobs/info/6adb7164c5c64fa3d9caf578"
     ]
   }
 }
