@@ -27895,10 +27895,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053204",
       "seen_at": "2026-10-23T21:01:33.529007+00:00"
+    },
+    {
+      "id": "greenhouse-assemblyai-4747365005",
+      "seen_at": "2026-10-23T21:31:22.944470+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747365005",
+      "seen_at": "2026-10-23T21:31:22.944802+00:00"
+    },
+    {
+      "id": "greenhouse-assemblyai-4747340005",
+      "seen_at": "2026-10-23T21:31:22.945092+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747340005",
+      "seen_at": "2026-10-23T21:31:22.945336+00:00"
     }
   ],
-  "last_run": "2026-10-23T21:01:33.925438+00:00",
-  "total_notified": 10236,
+  "last_run": "2026-10-23T21:31:27.558602+00:00",
+  "total_notified": 10238,
   "channels": {
     "pm-jobs": [
       "zapply-797c0d960eec",
@@ -34881,7 +34897,11 @@
       "jobright-192d27e8d888",
       "url:https://jobright.ai/jobs/info/6adbacb65dc7953215a33e7d",
       "jobright-c1f4c23de9da",
-      "url:https://jobright.ai/jobs/info/6705c8c9d6d2423088b4d2a4"
+      "url:https://jobright.ai/jobs/info/6705c8c9d6d2423088b4d2a4",
+      "greenhouse-assemblyai-4747365005",
+      "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747365005",
+      "greenhouse-assemblyai-4747340005",
+      "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747340005"
     ]
   }
 }
