@@ -28007,10 +28007,74 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-copart-copart-JR112367",
       "seen_at": "2026-10-23T00:31:26.085040+00:00"
+    },
+    {
+      "id": "simplify-b146c7a3-f2f6-4c08-8a85-e1132bcf720f",
+      "seen_at": "2026-10-23T01:01:20.444161+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+      "seen_at": "2026-10-23T01:01:20.444688+00:00"
+    },
+    {
+      "id": "simplify-dba7096f-7db2-4c4f-904c-ca9d5e1e7be6",
+      "seen_at": "2026-10-23T01:01:20.445208+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350",
+      "seen_at": "2026-10-23T01:01:20.445683+00:00"
+    },
+    {
+      "id": "simplify-852b3ded-744d-4d77-b569-378851234d3b",
+      "seen_at": "2026-10-23T01:01:20.446175+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/scopely/jobs/5456049008",
+      "seen_at": "2026-10-23T01:01:20.446617+00:00"
+    },
+    {
+      "id": "simplify-a3dde36b-b9be-4f00-93b3-5abb3f55c4bf",
+      "seen_at": "2026-10-23T01:01:20.447082+00:00"
+    },
+    {
+      "id": "url:https://collegeboard.wd1.myworkdayjobs.com/en-US/cbcareers/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1",
+      "seen_at": "2026-10-23T01:01:20.447528+00:00"
+    },
+    {
+      "id": "jobright-faae3c1e2f5f",
+      "seen_at": "2026-10-23T01:01:20.448005+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada938903d2da7528916dad",
+      "seen_at": "2026-10-23T01:01:20.448453+00:00"
+    },
+    {
+      "id": "jobright-354cdf832999",
+      "seen_at": "2026-10-23T01:01:20.448926+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada9355e4b94611ab85e178",
+      "seen_at": "2026-10-23T01:01:20.449374+00:00"
+    },
+    {
+      "id": "jobright-435809f95612",
+      "seen_at": "2026-10-23T01:01:20.449850+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada902854bbabbab0717987",
+      "seen_at": "2026-10-23T01:01:20.450314+00:00"
+    },
+    {
+      "id": "simplify-a9fb3b8b-9a0e-480a-a9c0-049526dc3708",
+      "seen_at": "2026-10-23T01:01:20.450779+00:00"
+    },
+    {
+      "id": "url:https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296",
+      "seen_at": "2026-10-23T01:01:20.451212+00:00"
     }
   ],
-  "last_run": "2026-10-23T00:31:26.314707+00:00",
-  "total_notified": 10107,
+  "last_run": "2026-10-23T01:01:24.136460+00:00",
+  "total_notified": 10115,
   "channels": {
     "pm-jobs": [
       "zapply-d4035c197a98",
@@ -35021,7 +35085,23 @@
       "greenhouse-gleanwork-4746908005",
       "url:https://job-boards.greenhouse.io/gleanwork/jobs/4746908005",
       "greenhouse-gleanwork-4746685005",
-      "url:https://job-boards.greenhouse.io/gleanwork/jobs/4746685005"
+      "url:https://job-boards.greenhouse.io/gleanwork/jobs/4746685005",
+      "simplify-b146c7a3-f2f6-4c08-8a85-e1132bcf720f",
+      "url:https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+      "simplify-dba7096f-7db2-4c4f-904c-ca9d5e1e7be6",
+      "url:https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350",
+      "simplify-852b3ded-744d-4d77-b569-378851234d3b",
+      "url:https://job-boards.greenhouse.io/scopely/jobs/5456049008",
+      "simplify-a3dde36b-b9be-4f00-93b3-5abb3f55c4bf",
+      "url:https://collegeboard.wd1.myworkdayjobs.com/en-US/cbcareers/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1",
+      "jobright-faae3c1e2f5f",
+      "url:https://jobright.ai/jobs/info/6ada938903d2da7528916dad",
+      "jobright-354cdf832999",
+      "url:https://jobright.ai/jobs/info/6ada9355e4b94611ab85e178",
+      "jobright-435809f95612",
+      "url:https://jobright.ai/jobs/info/6ada902854bbabbab0717987",
+      "simplify-a9fb3b8b-9a0e-480a-a9c0-049526dc3708",
+      "url:https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296"
     ]
   }
 }
