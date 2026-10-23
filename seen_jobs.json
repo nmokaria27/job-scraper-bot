@@ -27519,10 +27519,42 @@
     {
       "id": "url:https://jobs.ashbyhq.com/sierra/4b28305d-e601-4328-a8f5-9f236bd718bd",
       "seen_at": "2026-10-23T22:31:21.711656+00:00"
+    },
+    {
+      "id": "simplify-4aad94b7-19e6-4d69-8e9d-8fecfc34e591",
+      "seen_at": "2026-10-23T22:36:53.844594+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7670374385110599989/detail",
+      "seen_at": "2026-10-23T22:36:53.845137+00:00"
+    },
+    {
+      "id": "simplify-8f92f713-831e-414a-9cc3-067cf3b3ba4f",
+      "seen_at": "2026-10-23T22:36:53.845623+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/ServiceNow/744000157571919",
+      "seen_at": "2026-10-23T22:36:53.846091+00:00"
+    },
+    {
+      "id": "simplify-0c8d98d2-72e2-45bf-b3c4-72c3f25641b6",
+      "seen_at": "2026-10-23T22:36:53.846531+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5/apply",
+      "seen_at": "2026-10-23T22:36:53.846978+00:00"
+    },
+    {
+      "id": "simplify-ee3a8d08-0634-4977-978a-3073541eb055",
+      "seen_at": "2026-10-23T22:36:53.847418+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/auw/9234d6e2-f306-48d9-9cd6-9192d34d889c/apply",
+      "seen_at": "2026-10-23T22:36:53.847846+00:00"
     }
   ],
-  "last_run": "2026-10-23T22:31:25.217306+00:00",
-  "total_notified": 10241,
+  "last_run": "2026-10-23T22:36:57.584324+00:00",
+  "total_notified": 10245,
   "channels": {
     "pm-jobs": [
       "zapply-ea5837442be0",
@@ -34411,7 +34443,15 @@
       "ashby-benchling-7c32ac1e-3de3-462b-aa17-7618317f0da0",
       "url:https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0",
       "ashby-sierra-4b28305d-e601-4328-a8f5-9f236bd718bd",
-      "url:https://jobs.ashbyhq.com/sierra/4b28305d-e601-4328-a8f5-9f236bd718bd"
+      "url:https://jobs.ashbyhq.com/sierra/4b28305d-e601-4328-a8f5-9f236bd718bd",
+      "simplify-4aad94b7-19e6-4d69-8e9d-8fecfc34e591",
+      "url:https://jobs.bytedance.com/en/position/7670374385110599989/detail",
+      "simplify-8f92f713-831e-414a-9cc3-067cf3b3ba4f",
+      "url:https://jobs.smartrecruiters.com/ServiceNow/744000157571919",
+      "simplify-0c8d98d2-72e2-45bf-b3c4-72c3f25641b6",
+      "url:https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5/apply",
+      "simplify-ee3a8d08-0634-4977-978a-3073541eb055",
+      "url:https://jobs.lever.co/auw/9234d6e2-f306-48d9-9cd6-9192d34d889c/apply"
     ]
   }
 }
