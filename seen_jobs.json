@@ -27847,10 +27847,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6adb95765dc7953215a336f4",
       "seen_at": "2026-10-23T20:01:37.229915+00:00"
+    },
+    {
+      "id": "jobright-4e993f5ae061",
+      "seen_at": "2026-10-23T21:01:28.432731+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adbad3c46a8cabdc1ff4339",
+      "seen_at": "2026-10-23T21:01:28.433091+00:00"
+    },
+    {
+      "id": "jobright-192d27e8d888",
+      "seen_at": "2026-10-23T21:01:28.433398+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adbacb65dc7953215a33e7d",
+      "seen_at": "2026-10-23T21:01:28.433654+00:00"
+    },
+    {
+      "id": "jobright-c1f4c23de9da",
+      "seen_at": "2026-10-23T21:01:28.433911+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6705c8c9d6d2423088b4d2a4",
+      "seen_at": "2026-10-23T21:01:28.434152+00:00"
+    },
+    {
+      "id": "jobright-d5cd1168372c",
+      "seen_at": "2026-10-23T21:01:33.527778+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adbae8f0a4cc7090f97439e",
+      "seen_at": "2026-10-23T21:01:33.528071+00:00"
+    },
+    {
+      "id": "jobright-3206e6e7cd02",
+      "seen_at": "2026-10-23T21:01:33.528343+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adbae89389e06bb41ad3506",
+      "seen_at": "2026-10-23T21:01:33.528571+00:00"
+    },
+    {
+      "id": "zapply-b0d17fb41405",
+      "seen_at": "2026-10-23T21:01:33.528796+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053204",
+      "seen_at": "2026-10-23T21:01:33.529007+00:00"
     }
   ],
-  "last_run": "2026-10-23T20:31:26.271604+00:00",
-  "total_notified": 10230,
+  "last_run": "2026-10-23T21:01:33.925438+00:00",
+  "total_notified": 10236,
   "channels": {
     "pm-jobs": [
       "zapply-797c0d960eec",
@@ -29007,7 +29055,13 @@
       "greenhouse-toast-8305972",
       "url:https://careers.toasttab.com/jobs",
       "jobright-cd4fb3214cdf",
-      "url:https://jobright.ai/jobs/info/6adb95765dc7953215a336f4"
+      "url:https://jobright.ai/jobs/info/6adb95765dc7953215a336f4",
+      "jobright-d5cd1168372c",
+      "url:https://jobright.ai/jobs/info/6adbae8f0a4cc7090f97439e",
+      "jobright-3206e6e7cd02",
+      "url:https://jobright.ai/jobs/info/6adbae89389e06bb41ad3506",
+      "zapply-b0d17fb41405",
+      "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053204"
     ],
     "swe-ai-full-time": [
       "zapply-3171383e23f1",
@@ -34821,7 +34875,13 @@
       "jobright-c15d90071e10",
       "url:https://jobright.ai/jobs/info/6705c8c9d6d2423088b4d29f",
       "jobright-ab36c116b982",
-      "url:https://jobright.ai/jobs/info/6adb9b005dc7953215a338d8"
+      "url:https://jobright.ai/jobs/info/6adb9b005dc7953215a338d8",
+      "jobright-4e993f5ae061",
+      "url:https://jobright.ai/jobs/info/6adbad3c46a8cabdc1ff4339",
+      "jobright-192d27e8d888",
+      "url:https://jobright.ai/jobs/info/6adbacb65dc7953215a33e7d",
+      "jobright-c1f4c23de9da",
+      "url:https://jobright.ai/jobs/info/6705c8c9d6d2423088b4d2a4"
     ]
   }
 }
