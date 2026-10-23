@@ -28159,10 +28159,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6adb30a6cb58d64fcd3735ec",
       "seen_at": "2026-10-23T12:02:03.028972+00:00"
+    },
+    {
+      "id": "amazon-10587264",
+      "seen_at": "2026-10-23T13:01:32.607946+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10587264/software-development-engineer-neuron-collectives-annapurna-labs",
+      "seen_at": "2026-10-23T13:01:32.608293+00:00"
+    },
+    {
+      "id": "jobright-842104c9c721",
+      "seen_at": "2026-10-23T13:01:32.608592+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada3ea14c3adc437cecaeb0",
+      "seen_at": "2026-10-23T13:01:32.608859+00:00"
+    },
+    {
+      "id": "jobright-629b2c24d7ee",
+      "seen_at": "2026-10-23T13:01:32.609126+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad64c903dc655658d8e4483",
+      "seen_at": "2026-10-23T13:01:32.609386+00:00"
+    },
+    {
+      "id": "jobright-365a72a5e68b",
+      "seen_at": "2026-10-23T13:01:32.609639+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a96f83e455eaf6a08c1995f",
+      "seen_at": "2026-10-23T13:01:32.609882+00:00"
+    },
+    {
+      "id": "zapply-e2f6d2f418a1",
+      "seen_at": "2026-10-23T13:01:37.482946+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091650",
+      "seen_at": "2026-10-23T13:01:37.483242+00:00"
     }
   ],
-  "last_run": "2026-10-23T12:31:35.948749+00:00",
-  "total_notified": 10142,
+  "last_run": "2026-10-23T13:01:37.889650+00:00",
+  "total_notified": 10147,
   "channels": {
     "pm-jobs": [
       "jobright-00d4b4947b84",
@@ -29299,7 +29339,9 @@
       "jobright-2ed79a68f36c",
       "url:https://jobright.ai/jobs/info/6adab7f83a69033df225b814",
       "zapply-b76abdb41b74",
-      "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19794"
+      "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19794",
+      "zapply-e2f6d2f418a1",
+      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091650"
     ],
     "swe-ai-full-time": [
       "jobright-052c287507cf",
@@ -35211,7 +35253,15 @@
       "amazon-10587403",
       "url:https://www.amazon.jobs/en/jobs/10587403/software-development-engineer-agentic-ai-velocity-labs",
       "jobright-8f1a2a520d33",
-      "url:https://jobright.ai/jobs/info/6adb30a6cb58d64fcd3735ec"
+      "url:https://jobright.ai/jobs/info/6adb30a6cb58d64fcd3735ec",
+      "amazon-10587264",
+      "url:https://www.amazon.jobs/en/jobs/10587264/software-development-engineer-neuron-collectives-annapurna-labs",
+      "jobright-842104c9c721",
+      "url:https://jobright.ai/jobs/info/6ada3ea14c3adc437cecaeb0",
+      "jobright-629b2c24d7ee",
+      "url:https://jobright.ai/jobs/info/6ad64c903dc655658d8e4483",
+      "jobright-365a72a5e68b",
+      "url:https://jobright.ai/jobs/info/6a96f83e455eaf6a08c1995f"
     ]
   }
 }
