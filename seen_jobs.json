@@ -27167,10 +27167,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6adbafb19e3e874dbfba13f6",
       "seen_at": "2026-10-24T19:31:19.456897+00:00"
+    },
+    {
+      "id": "jobright-99d8456da0bd",
+      "seen_at": "2026-10-24T19:45:42.199753+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adbe87c0a4cc7090f975a97",
+      "seen_at": "2026-10-24T19:45:42.200338+00:00"
+    },
+    {
+      "id": "jobright-3ea0fe940a78",
+      "seen_at": "2026-10-24T19:45:46.955791+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac54391372c01f6cd738925",
+      "seen_at": "2026-10-24T19:45:46.956280+00:00"
     }
   ],
-  "last_run": "2026-10-24T19:31:22.122601+00:00",
-  "total_notified": 10298,
+  "last_run": "2026-10-24T19:45:47.209618+00:00",
+  "total_notified": 10300,
   "channels": {
     "pm-jobs": [
       "jobright-c344cf78cfd4",
@@ -28303,7 +28319,9 @@
       "zapply-a65aca0b2df1",
       "url:https://zapply.jobs/l/d/amd-92634",
       "zapply-3cc3bd0ddd2b",
-      "url:https://zapply.jobs/l/d/oracle-emerson-electric-26012178"
+      "url:https://zapply.jobs/l/d/oracle-emerson-electric-26012178",
+      "jobright-3ea0fe940a78",
+      "url:https://jobright.ai/jobs/info/6ac54391372c01f6cd738925"
     ],
     "swe-ai-full-time": [
       "jobright-9bdb981868f1",
@@ -33971,7 +33989,9 @@
       "jobright-5fc23701c31e",
       "url:https://jobright.ai/jobs/info/6a87a59d4afae74a08349c6e",
       "jobright-01d866a80049",
-      "url:https://jobright.ai/jobs/info/6adbafb19e3e874dbfba13f6"
+      "url:https://jobright.ai/jobs/info/6adbafb19e3e874dbfba13f6",
+      "jobright-99d8456da0bd",
+      "url:https://jobright.ai/jobs/info/6adbe87c0a4cc7090f975a97"
     ]
   }
 }
