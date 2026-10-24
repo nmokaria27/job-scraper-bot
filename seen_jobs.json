@@ -27463,10 +27463,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a8618704afae74a083436a4",
       "seen_at": "2026-10-24T18:01:18.040590+00:00"
+    },
+    {
+      "id": "jobright-89f635504a1c",
+      "seen_at": "2026-10-24T19:01:29.476464+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac006904ac55253f5d67242",
+      "seen_at": "2026-10-24T19:01:29.476919+00:00"
+    },
+    {
+      "id": "jobright-5fc23701c31e",
+      "seen_at": "2026-10-24T19:01:29.477286+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a87a59d4afae74a08349c6e",
+      "seen_at": "2026-10-24T19:01:29.477628+00:00"
     }
   ],
-  "last_run": "2026-10-24T18:31:18.258053+00:00",
-  "total_notified": 10295,
+  "last_run": "2026-10-24T19:01:32.204856+00:00",
+  "total_notified": 10297,
   "channels": {
     "pm-jobs": [
       "workday-adobe-R171844",
@@ -34341,7 +34357,11 @@
       "jobright-5299774348f6",
       "url:https://jobright.ai/jobs/info/6adbf2ea46a8cabdc1ff5c8f",
       "jobright-5f53abb6b25f",
-      "url:https://jobright.ai/jobs/info/6a8618704afae74a083436a4"
+      "url:https://jobright.ai/jobs/info/6a8618704afae74a083436a4",
+      "jobright-89f635504a1c",
+      "url:https://jobright.ai/jobs/info/6ac006904ac55253f5d67242",
+      "jobright-5fc23701c31e",
+      "url:https://jobright.ai/jobs/info/6a87a59d4afae74a08349c6e"
     ]
   }
 }
