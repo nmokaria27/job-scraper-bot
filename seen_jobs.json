@@ -27679,10 +27679,18 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-honeywell-153612",
       "seen_at": "2026-10-23T23:31:24.599335+00:00"
+    },
+    {
+      "id": "jobright-437b7719e9b7",
+      "seen_at": "2026-10-24T00:01:40.895143+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adbd81ec5c64fa3d9cb1d17",
+      "seen_at": "2026-10-24T00:01:40.895750+00:00"
     }
   ],
-  "last_run": "2026-10-23T23:31:24.830200+00:00",
-  "total_notified": 10261,
+  "last_run": "2026-10-24T00:01:43.913222+00:00",
+  "total_notified": 10262,
   "channels": {
     "pm-jobs": [
       "zapply-ea5837442be0",
@@ -34611,7 +34619,9 @@
       "simplify-afc381bd-a720-48e2-9119-10766e6c7d5c",
       "url:https://job-boards.greenhouse.io/beyondtrust/jobs/8300876",
       "simplify-19cab4c6-8cb4-4890-8917-5ee1650aaea3",
-      "url:https://jobs.ashbyhq.com/sola/cf2b27be-7dc8-4e14-aff0-512639bac918/application"
+      "url:https://jobs.ashbyhq.com/sola/cf2b27be-7dc8-4e14-aff0-512639bac918/application",
+      "jobright-437b7719e9b7",
+      "url:https://jobright.ai/jobs/info/6adbd81ec5c64fa3d9cb1d17"
     ]
   }
 }
