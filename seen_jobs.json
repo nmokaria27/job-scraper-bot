@@ -27447,10 +27447,26 @@
     {
       "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8319655",
       "seen_at": "2026-10-24T17:01:21.082360+00:00"
+    },
+    {
+      "id": "jobright-5299774348f6",
+      "seen_at": "2026-10-24T18:01:18.038927+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adbf2ea46a8cabdc1ff5c8f",
+      "seen_at": "2026-10-24T18:01:18.039578+00:00"
+    },
+    {
+      "id": "jobright-5f53abb6b25f",
+      "seen_at": "2026-10-24T18:01:18.040136+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8618704afae74a083436a4",
+      "seen_at": "2026-10-24T18:01:18.040590+00:00"
     }
   ],
-  "last_run": "2026-10-24T17:31:13.019510+00:00",
-  "total_notified": 10293,
+  "last_run": "2026-10-24T18:01:21.079008+00:00",
+  "total_notified": 10295,
   "channels": {
     "pm-jobs": [
       "workday-adobe-R171844",
@@ -34321,7 +34337,11 @@
       "ashby-supabase-950e8ffc-79a5-4626-b1dd-115fcbcddad0",
       "url:https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
       "greenhouse-reddit-8319655",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8319655"
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8319655",
+      "jobright-5299774348f6",
+      "url:https://jobright.ai/jobs/info/6adbf2ea46a8cabdc1ff5c8f",
+      "jobright-5f53abb6b25f",
+      "url:https://jobright.ai/jobs/info/6a8618704afae74a083436a4"
     ]
   }
 }
