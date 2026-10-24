@@ -27559,10 +27559,66 @@
     {
       "id": "url:https://jobs.smartrecruiters.com/ServiceNow/744000157570319",
       "seen_at": "2026-10-24T03:31:13.674915+00:00"
+    },
+    {
+      "id": "jobright-de428363480d",
+      "seen_at": "2026-10-24T10:01:48.313859+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac9864a6355f8776ff194e7",
+      "seen_at": "2026-10-24T10:01:48.314554+00:00"
+    },
+    {
+      "id": "jobright-e59bb5bea2fd",
+      "seen_at": "2026-10-24T10:01:48.315075+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adc378f5dc7953215a36444",
+      "seen_at": "2026-10-24T10:01:48.315568+00:00"
+    },
+    {
+      "id": "jobright-3814eb485b0a",
+      "seen_at": "2026-10-24T10:01:48.316023+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adc35745dc7953215a36358",
+      "seen_at": "2026-10-24T10:01:48.316466+00:00"
+    },
+    {
+      "id": "jobright-c882b3097e40",
+      "seen_at": "2026-10-24T10:01:48.316939+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adc69a5389e06bb41ad6294",
+      "seen_at": "2026-10-24T10:01:48.317390+00:00"
+    },
+    {
+      "id": "jobright-38517aba4b85",
+      "seen_at": "2026-10-24T10:01:48.317863+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a513ab778e364789ca59f31",
+      "seen_at": "2026-10-24T10:01:48.318298+00:00"
+    },
+    {
+      "id": "jobright-b5d4c435c1e0",
+      "seen_at": "2026-10-24T10:01:52.528452+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adc1fc89e3e874dbfba32d2",
+      "seen_at": "2026-10-24T10:01:52.529125+00:00"
+    },
+    {
+      "id": "zapply-a65aca0b2df1",
+      "seen_at": "2026-10-24T10:01:52.529739+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amd-92634",
+      "seen_at": "2026-10-24T10:01:52.530189+00:00"
     }
   ],
-  "last_run": "2026-10-24T03:31:17.342120+00:00",
-  "total_notified": 10266,
+  "last_run": "2026-10-24T10:01:53.038534+00:00",
+  "total_notified": 10273,
   "channels": {
     "pm-jobs": [
       "jobright-014475dec66f",
@@ -28715,7 +28771,11 @@
       "ashby-suno-06316e85-61ab-4562-83e2-fb27fad43734",
       "url:https://jobs.ashbyhq.com/suno/06316e85-61ab-4562-83e2-fb27fad43734",
       "zapply-f27f66c3cf3f",
-      "url:https://zapply.jobs/l/d/oracle-honeywell-153612"
+      "url:https://zapply.jobs/l/d/oracle-honeywell-153612",
+      "jobright-b5d4c435c1e0",
+      "url:https://jobright.ai/jobs/info/6adc1fc89e3e874dbfba32d2",
+      "zapply-a65aca0b2df1",
+      "url:https://zapply.jobs/l/d/amd-92634"
     ],
     "swe-ai-full-time": [
       "jobright-1b6652485853",
@@ -34461,7 +34521,17 @@
       "jobright-2e7f37261151",
       "url:https://jobright.ai/jobs/info/6adbe832c5c64fa3d9cb220b",
       "simplify-d763bb06-d48a-42d3-b6b1-c943443fc462",
-      "url:https://jobs.smartrecruiters.com/ServiceNow/744000157570319"
+      "url:https://jobs.smartrecruiters.com/ServiceNow/744000157570319",
+      "jobright-de428363480d",
+      "url:https://jobright.ai/jobs/info/6ac9864a6355f8776ff194e7",
+      "jobright-e59bb5bea2fd",
+      "url:https://jobright.ai/jobs/info/6adc378f5dc7953215a36444",
+      "jobright-3814eb485b0a",
+      "url:https://jobright.ai/jobs/info/6adc35745dc7953215a36358",
+      "jobright-c882b3097e40",
+      "url:https://jobright.ai/jobs/info/6adc69a5389e06bb41ad6294",
+      "jobright-38517aba4b85",
+      "url:https://jobright.ai/jobs/info/6a513ab778e364789ca59f31"
     ]
   }
 }
