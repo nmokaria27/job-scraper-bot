@@ -27191,10 +27191,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6adc1d8e0a4cc7090f97624c",
       "seen_at": "2026-10-24T20:01:14.301609+00:00"
+    },
+    {
+      "id": "ashby-perplexity-7e4a95c3-6322-4300-9455-96c511ab2621",
+      "seen_at": "2026-10-24T21:01:36.600817+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/7e4a95c3-6322-4300-9455-96c511ab2621",
+      "seen_at": "2026-10-24T21:01:36.601399+00:00"
+    },
+    {
+      "id": "simplify-78e650dd-5e32-4200-83e1-7ef0d9d92b0a",
+      "seen_at": "2026-10-24T21:01:36.601897+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/7e4a95c3-6322-4300-9455-96c511ab2621/application",
+      "seen_at": "2026-10-24T21:01:36.602341+00:00"
+    },
+    {
+      "id": "jobright-431dbb4d0ec2",
+      "seen_at": "2026-10-24T21:01:36.602780+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aba66d41acb8fc6f09bf78e",
+      "seen_at": "2026-10-24T21:01:36.603237+00:00"
+    },
+    {
+      "id": "jobright-8a217fb3f9eb",
+      "seen_at": "2026-10-24T21:01:36.603691+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb8888c5c64fa3d9cafdcb",
+      "seen_at": "2026-10-24T21:01:36.604145+00:00"
     }
   ],
-  "last_run": "2026-10-24T20:31:14.316133+00:00",
-  "total_notified": 10301,
+  "last_run": "2026-10-24T21:01:37.503789+00:00",
+  "total_notified": 10306,
   "channels": {
     "pm-jobs": [
       "jobright-c344cf78cfd4",
@@ -34001,7 +34033,17 @@
       "jobright-99d8456da0bd",
       "url:https://jobright.ai/jobs/info/6adbe87c0a4cc7090f975a97",
       "jobright-5f1694a3adb1",
-      "url:https://jobright.ai/jobs/info/6adc1d8e0a4cc7090f97624c"
+      "url:https://jobright.ai/jobs/info/6adc1d8e0a4cc7090f97624c",
+      "ashby-perplexity-7e4a95c3-6322-4300-9455-96c511ab2621",
+      "url:https://jobs.ashbyhq.com/perplexity/7e4a95c3-6322-4300-9455-96c511ab2621",
+      "simplify-78e650dd-5e32-4200-83e1-7ef0d9d92b0a",
+      "url:https://jobs.ashbyhq.com/perplexity/7e4a95c3-6322-4300-9455-96c511ab2621/application",
+      "jobright-431dbb4d0ec2",
+      "url:https://jobright.ai/jobs/info/6aba66d41acb8fc6f09bf78e",
+      "jobright-8a217fb3f9eb",
+      "url:https://jobright.ai/jobs/info/6adb8888c5c64fa3d9cafdcb",
+      "workday-capitalone-R1004353",
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Management--GenAI-Platforms_R1004353-1"
     ]
   }
 }
