@@ -27415,10 +27415,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad7d9ce3dc655658d8f0da0",
       "seen_at": "2026-10-24T16:01:22.271613+00:00"
+    },
+    {
+      "id": "ashby-supabase-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+      "seen_at": "2026-10-24T16:31:18.050889+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+      "seen_at": "2026-10-24T16:31:18.051294+00:00"
+    },
+    {
+      "id": "ashby-supabase-950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+      "seen_at": "2026-10-24T16:31:18.051630+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+      "seen_at": "2026-10-24T16:31:18.051945+00:00"
+    },
+    {
+      "id": "zapply-3cc3bd0ddd2b",
+      "seen_at": "2026-10-24T16:31:21.813881+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-emerson-electric-26012178",
+      "seen_at": "2026-10-24T16:31:21.814223+00:00"
     }
   ],
-  "last_run": "2026-10-24T16:01:25.477071+00:00",
-  "total_notified": 10289,
+  "last_run": "2026-10-24T16:31:22.036430+00:00",
+  "total_notified": 10292,
   "channels": {
     "pm-jobs": [
       "workday-adobe-R171844",
@@ -28563,7 +28587,9 @@
       "jobright-b5d4c435c1e0",
       "url:https://jobright.ai/jobs/info/6adc1fc89e3e874dbfba32d2",
       "zapply-a65aca0b2df1",
-      "url:https://zapply.jobs/l/d/amd-92634"
+      "url:https://zapply.jobs/l/d/amd-92634",
+      "zapply-3cc3bd0ddd2b",
+      "url:https://zapply.jobs/l/d/oracle-emerson-electric-26012178"
     ],
     "swe-ai-full-time": [
       "zapply-a27c9781c554",
@@ -34281,7 +34307,11 @@
       "jobright-bdc999f8204a",
       "url:https://jobright.ai/jobs/info/6a87a5ab680f314a29d3a0b0",
       "jobright-c349e8f5cc68",
-      "url:https://jobright.ai/jobs/info/6ad7d9ce3dc655658d8f0da0"
+      "url:https://jobright.ai/jobs/info/6ad7d9ce3dc655658d8f0da0",
+      "ashby-supabase-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+      "url:https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+      "ashby-supabase-950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+      "url:https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0"
     ]
   }
 }
