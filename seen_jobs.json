@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-83e7bfef2403",
-      "seen_at": "2026-09-25T17:02:37.975960+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab68e984873fd3fd852db83",
-      "seen_at": "2026-09-25T17:02:37.977026+00:00"
-    },
-    {
-      "id": "jobright-da434c0ebd7a",
-      "seen_at": "2026-09-25T17:02:37.977946+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab68e949d4843569fe4dee9",
-      "seen_at": "2026-09-25T17:02:37.978811+00:00"
-    },
-    {
-      "id": "jobright-64f5efb0640e",
-      "seen_at": "2026-09-25T17:02:37.979724+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab6903cb3db59402d100df7",
-      "seen_at": "2026-09-25T17:02:37.980640+00:00"
-    },
-    {
-      "id": "zapply-3ae1ecb4e1e3",
-      "seen_at": "2026-09-25T17:02:37.981522+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-remitly-remitly-careers-R_106966",
-      "seen_at": "2026-09-25T17:02:37.982392+00:00"
-    },
-    {
-      "id": "zapply-dfc049e2c05a",
-      "seen_at": "2026-09-25T17:02:37.983257+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/apple-200685675",
-      "seen_at": "2026-09-25T17:02:37.984174+00:00"
-    },
-    {
-      "id": "jobright-5cc134ce57ed",
-      "seen_at": "2026-09-25T17:02:45.299717+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab68d4d4873fd3fd852db38",
-      "seen_at": "2026-09-25T17:02:45.300626+00:00"
-    },
-    {
-      "id": "jobright-dff8b5fea14a",
-      "seen_at": "2026-09-25T17:02:45.301431+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa8af4d17ddad6a8a47ca88",
-      "seen_at": "2026-09-25T17:02:45.302199+00:00"
-    },
-    {
       "id": "jobright-0341d3893a49",
       "seen_at": "2026-09-25T18:01:38.765748+00:00"
     },
@@ -26577,14 +26521,10 @@
       "seen_at": "2026-10-25T16:01:15.693815+00:00"
     }
   ],
-  "last_run": "2026-10-25T17:01:30.929025+00:00",
+  "last_run": "2026-10-25T17:31:04.505644+00:00",
   "total_notified": 10340,
   "channels": {
     "pm-jobs": [
-      "jobright-5cc134ce57ed",
-      "url:https://jobright.ai/jobs/info/6ab68d4d4873fd3fd852db38",
-      "jobright-dff8b5fea14a",
-      "url:https://jobright.ai/jobs/info/6aa8af4d17ddad6a8a47ca88",
       "jobright-372ed875eee6",
       "url:https://jobright.ai/jobs/info/6ab69867c6fe0dec811a55e7",
       "zapply-4b9b888e0946",
@@ -27677,16 +27617,6 @@
       "url:https://jobright.ai/jobs/info/6aa3a930c5a856ac7e33ac26"
     ],
     "swe-ai-full-time": [
-      "jobright-83e7bfef2403",
-      "url:https://jobright.ai/jobs/info/6ab68e984873fd3fd852db83",
-      "jobright-da434c0ebd7a",
-      "url:https://jobright.ai/jobs/info/6ab68e949d4843569fe4dee9",
-      "jobright-64f5efb0640e",
-      "url:https://jobright.ai/jobs/info/6ab6903cb3db59402d100df7",
-      "zapply-3ae1ecb4e1e3",
-      "url:https://zapply.jobs/l/d/workday-remitly-remitly-careers-R_106966",
-      "zapply-dfc049e2c05a",
-      "url:https://zapply.jobs/l/d/apple-200685675",
       "jobright-0341d3893a49",
       "url:https://jobright.ai/jobs/info/6ab5a6d6d85922de20ce2e16",
       "zapply-edeaf5f0e1a1",
