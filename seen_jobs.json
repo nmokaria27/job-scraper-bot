@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-bc1c2f0942f3",
-      "seen_at": "2026-09-25T18:31:24.506532+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-493d33b9-fd49-4cd4-930c-bcd5b4b3e03a",
-      "seen_at": "2026-09-25T18:31:24.507656+00:00"
-    },
-    {
-      "id": "zapply-5f59c31923c8",
-      "seen_at": "2026-09-25T18:31:24.508612+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4636",
-      "seen_at": "2026-09-25T18:31:24.509522+00:00"
-    },
-    {
-      "id": "zapply-5acc6aea8ca2",
-      "seen_at": "2026-09-25T18:31:24.510494+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-contentful-8233486",
-      "seen_at": "2026-09-25T18:31:24.511416+00:00"
-    },
-    {
-      "id": "amazon-10560684",
-      "seen_at": "2026-09-25T18:31:24.512333+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10560684/applied-scientist-tabular-foundational-model-aws",
-      "seen_at": "2026-09-25T18:31:24.513322+00:00"
-    },
-    {
-      "id": "amazon-10560685",
-      "seen_at": "2026-09-25T18:31:24.514300+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10560685/applied-scientist-rl-post-training-aws",
-      "seen_at": "2026-09-25T18:31:24.515192+00:00"
-    },
-    {
-      "id": "zapply-4b9b888e0946",
-      "seen_at": "2026-09-25T18:31:31.788591+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-jj-jj-R-101400",
-      "seen_at": "2026-09-25T18:31:31.789699+00:00"
-    },
-    {
       "id": "jobright-1061e497b21e",
       "seen_at": "2026-09-25T19:01:36.368957+00:00"
     },
@@ -26471,14 +26423,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aa45aa2422289703bd664b6",
       "seen_at": "2026-10-25T16:01:15.693815+00:00"
+    },
+    {
+      "id": "jobright-0c230d93e883",
+      "seen_at": "2026-10-25T19:01:34.121532+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6addb2b39e3e874dbfba71fb",
+      "seen_at": "2026-10-25T19:01:34.122047+00:00"
+    },
+    {
+      "id": "jobright-7880a5ad495d",
+      "seen_at": "2026-10-25T19:01:35.431583+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ade36179e3e874dbfba81cd",
+      "seen_at": "2026-10-25T19:01:35.432106+00:00"
     }
   ],
-  "last_run": "2026-10-25T18:31:07.561051+00:00",
-  "total_notified": 10340,
+  "last_run": "2026-10-25T19:01:35.624493+00:00",
+  "total_notified": 10342,
   "channels": {
     "pm-jobs": [
-      "zapply-4b9b888e0946",
-      "url:https://zapply.jobs/l/d/workday-jj-jj-R-101400",
       "jobright-94b7d27a717d",
       "url:https://jobright.ai/jobs/info/6ab6a3cbc6fe0dec811a5ca0",
       "jobright-52bbf4eb7dc2",
@@ -27564,19 +27530,11 @@
       "zapply-a4ba873ca68d",
       "url:https://zapply.jobs/l/d/google-123194090509476550",
       "jobright-c9d8c048ebc6",
-      "url:https://jobright.ai/jobs/info/6aa3a930c5a856ac7e33ac26"
+      "url:https://jobright.ai/jobs/info/6aa3a930c5a856ac7e33ac26",
+      "jobright-7880a5ad495d",
+      "url:https://jobright.ai/jobs/info/6ade36179e3e874dbfba81cd"
     ],
     "swe-ai-full-time": [
-      "zapply-bc1c2f0942f3",
-      "url:https://zapply.jobs/l/d/amazon-493d33b9-fd49-4cd4-930c-bcd5b4b3e03a",
-      "zapply-5f59c31923c8",
-      "url:https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4636",
-      "zapply-5acc6aea8ca2",
-      "url:https://zapply.jobs/l/d/greenhouse-contentful-8233486",
-      "amazon-10560684",
-      "url:https://www.amazon.jobs/en/jobs/10560684/applied-scientist-tabular-foundational-model-aws",
-      "amazon-10560685",
-      "url:https://www.amazon.jobs/en/jobs/10560685/applied-scientist-rl-post-training-aws",
       "jobright-1061e497b21e",
       "url:https://jobright.ai/jobs/info/6ab6aac34873fd3fd852e870",
       "jobright-73f93c0d4978",
@@ -33102,7 +33060,9 @@
       "jobright-1a2f00f298cd",
       "url:https://jobright.ai/jobs/info/6ade181446a8cabdc1ffaeb6",
       "jobright-454841420a6e",
-      "url:https://jobright.ai/jobs/info/6aa45aa2422289703bd664b6"
+      "url:https://jobright.ai/jobs/info/6aa45aa2422289703bd664b6",
+      "jobright-0c230d93e883",
+      "url:https://jobright.ai/jobs/info/6addb2b39e3e874dbfba71fb"
     ]
   }
 }
