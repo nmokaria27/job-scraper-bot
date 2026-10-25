@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-snorkelai-6208895004",
-      "seen_at": "2026-09-25T20:31:17.916124+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/snorkelai/jobs/6208895004",
-      "seen_at": "2026-09-25T20:31:17.916792+00:00"
-    },
-    {
       "id": "jobright-fbb4c162d5cd",
       "seen_at": "2026-09-25T21:01:28.881843+00:00"
     },
@@ -26265,7 +26257,7 @@
       "seen_at": "2026-10-25T19:01:35.432106+00:00"
     }
   ],
-  "last_run": "2026-10-25T20:31:08.480885+00:00",
+  "last_run": "2026-10-25T20:46:17.706036+00:00",
   "total_notified": 10342,
   "channels": {
     "pm-jobs": [
@@ -27355,8 +27347,6 @@
       "url:https://jobright.ai/jobs/info/6ade36179e3e874dbfba81cd"
     ],
     "swe-ai-full-time": [
-      "greenhouse-snorkelai-6208895004",
-      "url:https://job-boards.greenhouse.io/snorkelai/jobs/6208895004",
       "jobright-fbb4c162d5cd",
       "url:https://jobright.ai/jobs/info/6ab6c6e64873fd3fd852f349",
       "jobright-e3c606a4ffe3",
