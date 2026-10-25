@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-0341d3893a49",
-      "seen_at": "2026-09-25T18:01:38.765748+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab5a6d6d85922de20ce2e16",
-      "seen_at": "2026-09-25T18:01:38.766791+00:00"
-    },
-    {
-      "id": "zapply-edeaf5f0e1a1",
-      "seen_at": "2026-09-25T18:01:38.767741+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3163597",
-      "seen_at": "2026-09-25T18:01:38.768653+00:00"
-    },
-    {
-      "id": "zapply-2ca412f0c64c",
-      "seen_at": "2026-09-25T18:01:38.769639+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/qualcomm-3097177",
-      "seen_at": "2026-09-25T18:01:38.770525+00:00"
-    },
-    {
-      "id": "amazon-10560626",
-      "seen_at": "2026-09-25T18:01:38.771391+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10560626/software-development-engineer-aws-marketing-data-science-engineering-d-se",
-      "seen_at": "2026-09-25T18:01:38.772241+00:00"
-    },
-    {
-      "id": "amazon-10560631",
-      "seen_at": "2026-09-25T18:01:38.773119+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10560631/applied-scientist-genai-trust-and-store-integrity-science",
-      "seen_at": "2026-09-25T18:01:38.773971+00:00"
-    },
-    {
-      "id": "jobright-372ed875eee6",
-      "seen_at": "2026-09-25T18:01:45.095000+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab69867c6fe0dec811a55e7",
-      "seen_at": "2026-09-25T18:01:45.095896+00:00"
-    },
-    {
       "id": "zapply-bc1c2f0942f3",
       "seen_at": "2026-09-25T18:31:24.506532+00:00"
     },
@@ -26521,12 +26473,10 @@
       "seen_at": "2026-10-25T16:01:15.693815+00:00"
     }
   ],
-  "last_run": "2026-10-25T18:01:18.424449+00:00",
+  "last_run": "2026-10-25T18:31:07.561051+00:00",
   "total_notified": 10340,
   "channels": {
     "pm-jobs": [
-      "jobright-372ed875eee6",
-      "url:https://jobright.ai/jobs/info/6ab69867c6fe0dec811a55e7",
       "zapply-4b9b888e0946",
       "url:https://zapply.jobs/l/d/workday-jj-jj-R-101400",
       "jobright-94b7d27a717d",
@@ -27617,16 +27567,6 @@
       "url:https://jobright.ai/jobs/info/6aa3a930c5a856ac7e33ac26"
     ],
     "swe-ai-full-time": [
-      "jobright-0341d3893a49",
-      "url:https://jobright.ai/jobs/info/6ab5a6d6d85922de20ce2e16",
-      "zapply-edeaf5f0e1a1",
-      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3163597",
-      "zapply-2ca412f0c64c",
-      "url:https://zapply.jobs/l/d/qualcomm-3097177",
-      "amazon-10560626",
-      "url:https://www.amazon.jobs/en/jobs/10560626/software-development-engineer-aws-marketing-data-science-engineering-d-se",
-      "amazon-10560631",
-      "url:https://www.amazon.jobs/en/jobs/10560631/applied-scientist-genai-trust-and-store-integrity-science",
       "zapply-bc1c2f0942f3",
       "url:https://zapply.jobs/l/d/amazon-493d33b9-fd49-4cd4-930c-bcd5b4b3e03a",
       "zapply-5f59c31923c8",
