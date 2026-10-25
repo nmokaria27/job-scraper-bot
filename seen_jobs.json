@@ -26855,10 +26855,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ab56a72d85922de20ce0eba",
       "seen_at": "2026-10-24T22:26:16.380384+00:00"
+    },
+    {
+      "id": "jobright-3c5f9dd6ace0",
+      "seen_at": "2026-10-25T03:01:19.359425+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6add21ad9e3e874dbfba6238",
+      "seen_at": "2026-10-25T03:01:19.359949+00:00"
+    },
+    {
+      "id": "jobright-9cf3e2feb6d8",
+      "seen_at": "2026-10-25T03:01:19.360459+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6add48ed0a4cc7090f9795db",
+      "seen_at": "2026-10-25T03:01:19.360908+00:00"
     }
   ],
-  "last_run": "2026-10-25T02:31:04.503956+00:00",
-  "total_notified": 10308,
+  "last_run": "2026-10-25T03:01:19.869780+00:00",
+  "total_notified": 10310,
   "channels": {
     "pm-jobs": [
       "simplify-b86328eb-2b0f-4ece-9e5c-81ffc05f624b",
@@ -33583,7 +33599,11 @@
       "workday-capitalone-R1004353",
       "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Management--GenAI-Platforms_R1004353-1",
       "jobright-9bdb981868f1",
-      "url:https://jobright.ai/jobs/info/6ab56a72d85922de20ce0eba"
+      "url:https://jobright.ai/jobs/info/6ab56a72d85922de20ce0eba",
+      "jobright-3c5f9dd6ace0",
+      "url:https://jobright.ai/jobs/info/6add21ad9e3e874dbfba6238",
+      "jobright-9cf3e2feb6d8",
+      "url:https://jobright.ai/jobs/info/6add48ed0a4cc7090f9795db"
     ]
   }
 }
