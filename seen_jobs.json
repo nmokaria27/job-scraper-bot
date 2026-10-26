@@ -25951,10 +25951,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/lever-thinkahead-4adc622d-3611-4707-a996-cff0c313b106",
       "seen_at": "2026-10-26T15:31:45.103320+00:00"
+    },
+    {
+      "id": "jobright-a44de27af7fc",
+      "seen_at": "2026-10-26T16:01:32.642156+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf5d015dc7953215a3e217",
+      "seen_at": "2026-10-26T16:01:32.642481+00:00"
+    },
+    {
+      "id": "jobright-c03e69542dfd",
+      "seen_at": "2026-10-26T16:01:32.642767+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf5ac10a4cc7090f97e598",
+      "seen_at": "2026-10-26T16:01:32.643005+00:00"
+    },
+    {
+      "id": "jobright-8fb40d3645d0",
+      "seen_at": "2026-10-26T16:01:32.643241+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac43cf08ff3fb9b3bc8504b",
+      "seen_at": "2026-10-26T16:01:32.643460+00:00"
+    },
+    {
+      "id": "zapply-1294965a216f",
+      "seen_at": "2026-10-26T16:01:33.933305+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210771926",
+      "seen_at": "2026-10-26T16:01:33.933616+00:00"
+    },
+    {
+      "id": "jobright-ce7f19bd3b88",
+      "seen_at": "2026-10-26T16:01:33.933866+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab51669c6fe0dec8119f4da",
+      "seen_at": "2026-10-26T16:01:33.934089+00:00"
+    },
+    {
+      "id": "amazon-10588615",
+      "seen_at": "2026-10-26T16:01:33.934310+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10588615/technical-program-manager-tech-deployment-systems-integration",
+      "seen_at": "2026-10-26T16:01:33.934510+00:00"
     }
   ],
-  "last_run": "2026-10-26T15:31:45.351662+00:00",
-  "total_notified": 10366,
+  "last_run": "2026-10-26T16:01:34.145585+00:00",
+  "total_notified": 10372,
   "channels": {
     "pm-jobs": [
       "jobright-16afd7209168",
@@ -27044,7 +27092,13 @@
       "zapply-d17a76de02a1",
       "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R67475",
       "zapply-b14248d02a07",
-      "url:https://zapply.jobs/l/d/lever-thinkahead-4adc622d-3611-4707-a996-cff0c313b106"
+      "url:https://zapply.jobs/l/d/lever-thinkahead-4adc622d-3611-4707-a996-cff0c313b106",
+      "zapply-1294965a216f",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210771926",
+      "jobright-ce7f19bd3b88",
+      "url:https://jobright.ai/jobs/info/6ab51669c6fe0dec8119f4da",
+      "amazon-10588615",
+      "url:https://www.amazon.jobs/en/jobs/10588615/technical-program-manager-tech-deployment-systems-integration"
     ],
     "swe-ai-full-time": [
       "zapply-45a642bad53f",
@@ -32452,7 +32506,13 @@
       "amazon-10587013",
       "url:https://www.amazon.jobs/en/jobs/10587013/data-scientist-amazon-ads-marketing-decision-science",
       "jobright-772fa6e08705",
-      "url:https://jobright.ai/jobs/info/6adf51b49e3e874dbfbab36f"
+      "url:https://jobright.ai/jobs/info/6adf51b49e3e874dbfbab36f",
+      "jobright-a44de27af7fc",
+      "url:https://jobright.ai/jobs/info/6adf5d015dc7953215a3e217",
+      "jobright-c03e69542dfd",
+      "url:https://jobright.ai/jobs/info/6adf5ac10a4cc7090f97e598",
+      "jobright-8fb40d3645d0",
+      "url:https://jobright.ai/jobs/info/6ac43cf08ff3fb9b3bc8504b"
     ]
   }
 }
