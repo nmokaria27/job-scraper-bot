@@ -26471,10 +26471,66 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803936",
       "seen_at": "2026-10-26T22:31:10.856616+00:00"
+    },
+    {
+      "id": "simplify-1f07993a-5e6f-4e09-8236-942da5e6d9e3",
+      "seen_at": "2026-10-26T23:01:33.232099+00:00"
+    },
+    {
+      "id": "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770",
+      "seen_at": "2026-10-26T23:01:33.232639+00:00"
+    },
+    {
+      "id": "simplify-1b08972f-0916-4069-b9dd-f0b3063ba9f2",
+      "seen_at": "2026-10-26T23:01:33.233125+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/reply/790c1fc7-d76c-4603-b879-922e61fc7a90/apply",
+      "seen_at": "2026-10-26T23:01:33.233570+00:00"
+    },
+    {
+      "id": "simplify-dffcfc23-8cbd-490a-8145-fcefb06961ad",
+      "seen_at": "2026-10-26T23:01:33.234017+00:00"
+    },
+    {
+      "id": "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1",
+      "seen_at": "2026-10-26T23:01:33.234444+00:00"
+    },
+    {
+      "id": "jobright-ea943f433e4a",
+      "seen_at": "2026-10-26T23:01:33.234905+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac03a1d0e027c0f3b3a08d7",
+      "seen_at": "2026-10-26T23:01:33.235338+00:00"
+    },
+    {
+      "id": "jobright-46df07ca5f39",
+      "seen_at": "2026-10-26T23:01:33.235803+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adfc0499e3e874dbfbafd87",
+      "seen_at": "2026-10-26T23:01:33.236234+00:00"
+    },
+    {
+      "id": "jobright-e647d23bafab",
+      "seen_at": "2026-10-26T23:01:33.236690+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adfbb390a4cc7090f982847",
+      "seen_at": "2026-10-26T23:01:33.237133+00:00"
+    },
+    {
+      "id": "zapply-6fc0bda8b040",
+      "seen_at": "2026-10-26T23:01:35.222289+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091963",
+      "seen_at": "2026-10-26T23:01:35.222808+00:00"
     }
   ],
-  "last_run": "2026-10-26T22:31:11.907072+00:00",
-  "total_notified": 10435,
+  "last_run": "2026-10-26T23:01:35.527227+00:00",
+  "total_notified": 10442,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -27586,7 +27642,9 @@
       "jobright-a5ff7cc32ae4",
       "url:https://jobright.ai/jobs/info/6adfac2d065c4e77efafa475",
       "jobright-750688f21cc6",
-      "url:https://jobright.ai/jobs/info/6adfa9580a4cc7090f981c7e"
+      "url:https://jobright.ai/jobs/info/6adfa9580a4cc7090f981c7e",
+      "zapply-6fc0bda8b040",
+      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091963"
     ],
     "swe-ai-full-time": [
       "jobright-c9b35ba674cd",
@@ -33102,7 +33160,19 @@
       "ashby-openai-2c646ef9-6f93-4124-9d51-964d2c5aa783",
       "url:https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
       "zapply-b9d9e4700af4",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803936"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803936",
+      "simplify-1f07993a-5e6f-4e09-8236-942da5e6d9e3",
+      "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770",
+      "simplify-1b08972f-0916-4069-b9dd-f0b3063ba9f2",
+      "url:https://jobs.lever.co/reply/790c1fc7-d76c-4603-b879-922e61fc7a90/apply",
+      "simplify-dffcfc23-8cbd-490a-8145-fcefb06961ad",
+      "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1",
+      "jobright-ea943f433e4a",
+      "url:https://jobright.ai/jobs/info/6ac03a1d0e027c0f3b3a08d7",
+      "jobright-46df07ca5f39",
+      "url:https://jobright.ai/jobs/info/6adfc0499e3e874dbfbafd87",
+      "jobright-e647d23bafab",
+      "url:https://jobright.ai/jobs/info/6adfbb390a4cc7090f982847"
     ]
   }
 }
