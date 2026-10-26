@@ -25903,10 +25903,42 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10587013/data-scientist-amazon-ads-marketing-decision-science",
       "seen_at": "2026-10-26T14:31:28.897074+00:00"
+    },
+    {
+      "id": "jobright-772fa6e08705",
+      "seen_at": "2026-10-26T15:02:11.341014+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf51b49e3e874dbfbab36f",
+      "seen_at": "2026-10-26T15:02:11.341713+00:00"
+    },
+    {
+      "id": "zapply-66ba842b005b",
+      "seen_at": "2026-10-26T15:02:12.710768+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_053256",
+      "seen_at": "2026-10-26T15:02:12.711440+00:00"
+    },
+    {
+      "id": "zapply-7e6ef429da86",
+      "seen_at": "2026-10-26T15:02:12.712028+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-ptc-ptc-JR112945",
+      "seen_at": "2026-10-26T15:02:12.712570+00:00"
+    },
+    {
+      "id": "zapply-cdc461898eac",
+      "seen_at": "2026-10-26T15:02:12.713122+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-bny-83062",
+      "seen_at": "2026-10-26T15:02:12.713643+00:00"
     }
   ],
-  "last_run": "2026-10-26T14:31:29.402202+00:00",
-  "total_notified": 10360,
+  "last_run": "2026-10-26T15:02:12.980277+00:00",
+  "total_notified": 10364,
   "channels": {
     "pm-jobs": [
       "jobright-16afd7209168",
@@ -26986,7 +27018,13 @@
       "zapply-135ddd5c5a98",
       "url:https://zapply.jobs/l/d/google-84549987777553094",
       "jobright-79f54b4f58ae",
-      "url:https://jobright.ai/jobs/info/6adf20be0a4cc7090f97d579"
+      "url:https://jobright.ai/jobs/info/6adf20be0a4cc7090f97d579",
+      "zapply-66ba842b005b",
+      "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_053256",
+      "zapply-7e6ef429da86",
+      "url:https://zapply.jobs/l/d/workday-ptc-ptc-JR112945",
+      "zapply-cdc461898eac",
+      "url:https://zapply.jobs/l/d/oracle-bny-83062"
     ],
     "swe-ai-full-time": [
       "zapply-45a642bad53f",
@@ -32392,7 +32430,9 @@
       "jobright-a8af7781cf7d",
       "url:https://jobright.ai/jobs/info/6adf43bbc5c64fa3d9cba3f0",
       "amazon-10587013",
-      "url:https://www.amazon.jobs/en/jobs/10587013/data-scientist-amazon-ads-marketing-decision-science"
+      "url:https://www.amazon.jobs/en/jobs/10587013/data-scientist-amazon-ads-marketing-decision-science",
+      "jobright-772fa6e08705",
+      "url:https://jobright.ai/jobs/info/6adf51b49e3e874dbfbab36f"
     ]
   }
 }
