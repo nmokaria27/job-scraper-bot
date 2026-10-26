@@ -26191,10 +26191,90 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10586896/software-development-engineer-leo-telemetry-platform",
       "seen_at": "2026-10-26T19:31:25.473970+00:00"
+    },
+    {
+      "id": "jobright-64cea621b778",
+      "seen_at": "2026-10-26T20:01:32.490613+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf9d31065c4e77efaf98bc",
+      "seen_at": "2026-10-26T20:01:32.491019+00:00"
+    },
+    {
+      "id": "jobright-86580d868abf",
+      "seen_at": "2026-10-26T20:01:32.491359+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf9be39a8c91d5c3587329",
+      "seen_at": "2026-10-26T20:01:32.491660+00:00"
+    },
+    {
+      "id": "jobright-e513122f6b50",
+      "seen_at": "2026-10-26T20:01:32.491973+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf999c0a4cc7090f980f7e",
+      "seen_at": "2026-10-26T20:01:32.492250+00:00"
+    },
+    {
+      "id": "jobright-03952b5a39c4",
+      "seen_at": "2026-10-26T20:01:32.492531+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf9795c5c64fa3d9cbd4c4",
+      "seen_at": "2026-10-26T20:01:32.492809+00:00"
+    },
+    {
+      "id": "jobright-896cb36f8b04",
+      "seen_at": "2026-10-26T20:01:32.493114+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf92dd9e3e874dbfbadbdd",
+      "seen_at": "2026-10-26T20:01:32.493385+00:00"
+    },
+    {
+      "id": "jobright-6b7b58ad7d7b",
+      "seen_at": "2026-10-26T20:01:32.493673+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf90ecc5c64fa3d9cbd027",
+      "seen_at": "2026-10-26T20:01:32.493970+00:00"
+    },
+    {
+      "id": "jobright-aa52e8943c66",
+      "seen_at": "2026-10-26T20:01:32.494259+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a95b941f28891320e85d7a5",
+      "seen_at": "2026-10-26T20:01:32.494524+00:00"
+    },
+    {
+      "id": "jobright-b35c6648ce01",
+      "seen_at": "2026-10-26T20:01:32.494798+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a95b942cabc9f6703e196b0",
+      "seen_at": "2026-10-26T20:01:32.495078+00:00"
+    },
+    {
+      "id": "jobright-45f098cea036",
+      "seen_at": "2026-10-26T20:01:32.495349+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a95b942cabc9f6703e196b1",
+      "seen_at": "2026-10-26T20:01:32.495628+00:00"
+    },
+    {
+      "id": "amazon-10589092",
+      "seen_at": "2026-10-26T20:01:32.495918+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10589092/robotics-applied-scientist",
+      "seen_at": "2026-10-26T20:01:32.496184+00:00"
     }
   ],
-  "last_run": "2026-10-26T19:31:26.392545+00:00",
-  "total_notified": 10400,
+  "last_run": "2026-10-26T20:01:33.376661+00:00",
+  "total_notified": 10410,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -32752,7 +32832,27 @@
       "amazon-10588994",
       "url:https://www.amazon.jobs/en/jobs/10588994/software-development-engineer-ads-campaign-management",
       "amazon-10586896",
-      "url:https://www.amazon.jobs/en/jobs/10586896/software-development-engineer-leo-telemetry-platform"
+      "url:https://www.amazon.jobs/en/jobs/10586896/software-development-engineer-leo-telemetry-platform",
+      "jobright-64cea621b778",
+      "url:https://jobright.ai/jobs/info/6adf9d31065c4e77efaf98bc",
+      "jobright-86580d868abf",
+      "url:https://jobright.ai/jobs/info/6adf9be39a8c91d5c3587329",
+      "jobright-e513122f6b50",
+      "url:https://jobright.ai/jobs/info/6adf999c0a4cc7090f980f7e",
+      "jobright-03952b5a39c4",
+      "url:https://jobright.ai/jobs/info/6adf9795c5c64fa3d9cbd4c4",
+      "jobright-896cb36f8b04",
+      "url:https://jobright.ai/jobs/info/6adf92dd9e3e874dbfbadbdd",
+      "jobright-6b7b58ad7d7b",
+      "url:https://jobright.ai/jobs/info/6adf90ecc5c64fa3d9cbd027",
+      "jobright-aa52e8943c66",
+      "url:https://jobright.ai/jobs/info/6a95b941f28891320e85d7a5",
+      "jobright-b35c6648ce01",
+      "url:https://jobright.ai/jobs/info/6a95b942cabc9f6703e196b0",
+      "jobright-45f098cea036",
+      "url:https://jobright.ai/jobs/info/6a95b942cabc9f6703e196b1",
+      "amazon-10589092",
+      "url:https://www.amazon.jobs/en/jobs/10589092/robotics-applied-scientist"
     ]
   }
 }
