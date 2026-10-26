@@ -26527,10 +26527,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091963",
       "seen_at": "2026-10-26T23:01:35.222808+00:00"
+    },
+    {
+      "id": "simplify-ba817379-8019-4183-a9eb-c66d9bf0075e",
+      "seen_at": "2026-10-26T23:31:11.049756+00:00"
+    },
+    {
+      "id": "url:https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869",
+      "seen_at": "2026-10-26T23:31:11.050140+00:00"
+    },
+    {
+      "id": "simplify-f5c56e74-6403-4a4b-9708-7ec43edb0886",
+      "seen_at": "2026-10-26T23:31:11.050469+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c/application",
+      "seen_at": "2026-10-26T23:31:11.050786+00:00"
+    },
+    {
+      "id": "simplify-2f49a679-e4b5-41e5-9ff7-7c3cf645c769",
+      "seen_at": "2026-10-26T23:31:11.051087+00:00"
+    },
+    {
+      "id": "url:https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927",
+      "seen_at": "2026-10-26T23:31:11.051376+00:00"
+    },
+    {
+      "id": "amazon-10589426",
+      "seen_at": "2026-10-26T23:31:11.051668+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10589426/software-development-engineer-leo-secure-communications-team",
+      "seen_at": "2026-10-26T23:31:11.051979+00:00"
+    },
+    {
+      "id": "zapply-c8ece098c9ef",
+      "seen_at": "2026-10-26T23:31:12.969171+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023445",
+      "seen_at": "2026-10-26T23:31:12.969477+00:00"
+    },
+    {
+      "id": "simplify-ff28280e-f670-4bb7-94f3-f7a0238e6a38",
+      "seen_at": "2026-10-26T23:31:12.969770+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/jerry.ai/0de2cc4d-8ddc-41a9-adc7-321560f57b9a/application",
+      "seen_at": "2026-10-26T23:31:12.970026+00:00"
     }
   ],
-  "last_run": "2026-10-26T23:01:35.527227+00:00",
-  "total_notified": 10442,
+  "last_run": "2026-10-26T23:31:13.398869+00:00",
+  "total_notified": 10448,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -27644,7 +27692,11 @@
       "jobright-750688f21cc6",
       "url:https://jobright.ai/jobs/info/6adfa9580a4cc7090f981c7e",
       "zapply-6fc0bda8b040",
-      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091963"
+      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091963",
+      "zapply-c8ece098c9ef",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023445",
+      "simplify-ff28280e-f670-4bb7-94f3-f7a0238e6a38",
+      "url:https://jobs.ashbyhq.com/jerry.ai/0de2cc4d-8ddc-41a9-adc7-321560f57b9a/application"
     ],
     "swe-ai-full-time": [
       "jobright-c9b35ba674cd",
@@ -33172,7 +33224,15 @@
       "jobright-46df07ca5f39",
       "url:https://jobright.ai/jobs/info/6adfc0499e3e874dbfbafd87",
       "jobright-e647d23bafab",
-      "url:https://jobright.ai/jobs/info/6adfbb390a4cc7090f982847"
+      "url:https://jobright.ai/jobs/info/6adfbb390a4cc7090f982847",
+      "simplify-ba817379-8019-4183-a9eb-c66d9bf0075e",
+      "url:https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869",
+      "simplify-f5c56e74-6403-4a4b-9708-7ec43edb0886",
+      "url:https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c/application",
+      "simplify-2f49a679-e4b5-41e5-9ff7-7c3cf645c769",
+      "url:https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927",
+      "amazon-10589426",
+      "url:https://www.amazon.jobs/en/jobs/10589426/software-development-engineer-leo-secure-communications-team"
     ]
   }
 }
