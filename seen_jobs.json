@@ -26399,10 +26399,18 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10589280/data-scientist-ots-data-anchor-team",
       "seen_at": "2026-10-26T21:31:28.112167+00:00"
+    },
+    {
+      "id": "zapply-4dc1c9328f52",
+      "seen_at": "2026-10-26T21:37:16.876385+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028152",
+      "seen_at": "2026-10-26T21:37:16.876807+00:00"
     }
   ],
-  "last_run": "2026-10-26T21:31:29.199287+00:00",
-  "total_notified": 10426,
+  "last_run": "2026-10-26T21:37:17.052970+00:00",
+  "total_notified": 10427,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -27508,7 +27516,9 @@
       "zapply-60bf15d7cbbb",
       "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10405180",
       "jobright-0b2b6c941ba7",
-      "url:https://jobright.ai/jobs/info/6adfa1e2c5c64fa3d9cbddb3"
+      "url:https://jobright.ai/jobs/info/6adfa1e2c5c64fa3d9cbddb3",
+      "zapply-4dc1c9328f52",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028152"
     ],
     "swe-ai-full-time": [
       "jobright-c9b35ba674cd",
