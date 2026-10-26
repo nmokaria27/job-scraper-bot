@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-1208c71fd912",
-      "seen_at": "2026-09-26T10:01:20.921851+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab74525d7fde2c08ec8b62b",
-      "seen_at": "2026-09-26T10:01:20.922857+00:00"
-    },
-    {
-      "id": "gradtracker-bdc3016e039a",
-      "seen_at": "2026-09-26T10:01:20.923788+00:00"
-    },
-    {
-      "id": "url:https://www.hudsonrivertrading.com/careers/job",
-      "seen_at": "2026-09-26T10:01:20.924653+00:00"
-    },
-    {
-      "id": "gradtracker-06ef5e5eb92f",
-      "seen_at": "2026-09-26T10:01:20.925556+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000151949130",
-      "seen_at": "2026-09-26T10:01:20.926457+00:00"
-    },
-    {
-      "id": "jobright-d5b589355d2a",
-      "seen_at": "2026-09-26T10:01:20.927360+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab7457b62bb1fbd451ddc48",
-      "seen_at": "2026-09-26T10:01:20.928245+00:00"
-    },
-    {
-      "id": "jobright-38b23f404679",
-      "seen_at": "2026-09-26T10:01:27.760565+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7dcbdbe2030208f2765ec2",
-      "seen_at": "2026-09-26T10:01:27.761435+00:00"
-    },
-    {
-      "id": "jobright-4ca1b1e0d649",
-      "seen_at": "2026-09-26T10:01:27.762238+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a457397c2d11a6a4666939d",
-      "seen_at": "2026-09-26T10:01:27.763020+00:00"
-    },
-    {
       "id": "zapply-ef6ab5633883",
       "seen_at": "2026-09-26T10:31:08.430482+00:00"
     },
@@ -26017,14 +25969,10 @@
       "seen_at": "2026-10-26T10:01:15.211706+00:00"
     }
   ],
-  "last_run": "2026-10-26T10:01:15.530003+00:00",
+  "last_run": "2026-10-26T10:31:16.178243+00:00",
   "total_notified": 10354,
   "channels": {
     "pm-jobs": [
-      "jobright-38b23f404679",
-      "url:https://jobright.ai/jobs/info/6a7dcbdbe2030208f2765ec2",
-      "jobright-4ca1b1e0d649",
-      "url:https://jobright.ai/jobs/info/6a457397c2d11a6a4666939d",
       "jobright-98bdf23eb409",
       "url:https://jobright.ai/jobs/info/6ab0b718dd960b41564197ea",
       "jobright-16afd7209168",
@@ -27105,14 +27053,6 @@
       "url:https://zapply.jobs/l/d/google-84549987777553094"
     ],
     "swe-ai-full-time": [
-      "jobright-1208c71fd912",
-      "url:https://jobright.ai/jobs/info/6ab74525d7fde2c08ec8b62b",
-      "gradtracker-bdc3016e039a",
-      "url:https://www.hudsonrivertrading.com/careers/job",
-      "gradtracker-06ef5e5eb92f",
-      "url:https://jobs.smartrecruiters.com/servicenow/744000151949130",
-      "jobright-d5b589355d2a",
-      "url:https://jobright.ai/jobs/info/6ab7457b62bb1fbd451ddc48",
       "zapply-ef6ab5633883",
       "url:https://zapply.jobs/l/d/lever-palantir-a576c5ef-2a51-4522-9c98-bca5ac2abbb3",
       "jobright-96d1d9f136e1",
