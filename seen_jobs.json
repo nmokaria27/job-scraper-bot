@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-6ff9df5637c5",
-      "seen_at": "2026-09-26T01:01:22.321536+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab7004862bb1fbd451dce0e",
-      "seen_at": "2026-09-26T01:01:22.322499+00:00"
-    },
-    {
-      "id": "jobright-9585ddd1746b",
-      "seen_at": "2026-09-26T01:01:22.323416+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab70047d7fde2c08ec8a7a9",
-      "seen_at": "2026-09-26T01:01:22.324302+00:00"
-    },
-    {
-      "id": "jobright-003c28717bf4",
-      "seen_at": "2026-09-26T01:01:22.325219+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab7066262bb1fbd451dceed",
-      "seen_at": "2026-09-26T01:01:22.326102+00:00"
-    },
-    {
-      "id": "jobright-45e4710d42b5",
-      "seen_at": "2026-09-26T01:01:22.326997+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab7017b62bb1fbd451dce4b",
-      "seen_at": "2026-09-26T01:01:22.327864+00:00"
-    },
-    {
       "id": "zapply-342aab24bba0",
       "seen_at": "2026-09-26T01:31:14.600176+00:00"
     },
@@ -26041,7 +26009,7 @@
       "seen_at": "2026-10-26T01:01:17.252709+00:00"
     }
   ],
-  "last_run": "2026-10-26T01:01:17.774704+00:00",
+  "last_run": "2026-10-26T01:31:09.702550+00:00",
   "total_notified": 10346,
   "channels": {
     "pm-jobs": [
@@ -27125,14 +27093,6 @@
       "url:https://zapply.jobs/l/d/google-127910537978618566"
     ],
     "swe-ai-full-time": [
-      "jobright-6ff9df5637c5",
-      "url:https://jobright.ai/jobs/info/6ab7004862bb1fbd451dce0e",
-      "jobright-9585ddd1746b",
-      "url:https://jobright.ai/jobs/info/6ab70047d7fde2c08ec8a7a9",
-      "jobright-003c28717bf4",
-      "url:https://jobright.ai/jobs/info/6ab7066262bb1fbd451dceed",
-      "jobright-45e4710d42b5",
-      "url:https://jobright.ai/jobs/info/6ab7017b62bb1fbd451dce4b",
       "zapply-342aab24bba0",
       "url:https://zapply.jobs/l/d/ashby-openai-7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
       "simplify-3ecd14db-e4e2-468a-9cdf-c4007834664b",
