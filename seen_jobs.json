@@ -26455,10 +26455,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6adfa9580a4cc7090f981c7e",
       "seen_at": "2026-10-26T22:01:40.062298+00:00"
+    },
+    {
+      "id": "ashby-openai-2c646ef9-6f93-4124-9d51-964d2c5aa783",
+      "seen_at": "2026-10-26T22:31:10.855778+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
+      "seen_at": "2026-10-26T22:31:10.856113+00:00"
+    },
+    {
+      "id": "zapply-b9d9e4700af4",
+      "seen_at": "2026-10-26T22:31:10.856371+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803936",
+      "seen_at": "2026-10-26T22:31:10.856616+00:00"
     }
   ],
-  "last_run": "2026-10-26T22:01:40.289776+00:00",
-  "total_notified": 10433,
+  "last_run": "2026-10-26T22:31:11.907072+00:00",
+  "total_notified": 10435,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -33082,7 +33098,11 @@
       "jobright-037c897568f4",
       "url:https://jobright.ai/jobs/info/6adfac090a4cc7090f981e64",
       "jobright-fb0c4ee54773",
-      "url:https://jobright.ai/jobs/info/6adfb2b29e3e874dbfbaf31c"
+      "url:https://jobright.ai/jobs/info/6adfb2b29e3e874dbfbaf31c",
+      "ashby-openai-2c646ef9-6f93-4124-9d51-964d2c5aa783",
+      "url:https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
+      "zapply-b9d9e4700af4",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803936"
     ]
   }
 }
