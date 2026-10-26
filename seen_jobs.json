@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-248a902c2ec7",
-      "seen_at": "2026-09-26T00:01:32.811935+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa50b2042411952ff9a6b12",
-      "seen_at": "2026-09-26T00:01:32.813094+00:00"
-    },
-    {
-      "id": "zapply-1ccf76973279",
-      "seen_at": "2026-09-26T00:01:39.824559+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-vercel-6205772004",
-      "seen_at": "2026-09-26T00:01:39.825525+00:00"
-    },
-    {
       "id": "jobright-6ff9df5637c5",
       "seen_at": "2026-09-26T01:01:22.321536+00:00"
     },
@@ -26031,14 +26015,28 @@
     {
       "id": "url:https://zapply.jobs/l/d/google-127910537978618566",
       "seen_at": "2026-10-25T23:11:45.543820+00:00"
+    },
+    {
+      "id": "simplify-3233f8eb-5790-456d-933a-2f15328733fb",
+      "seen_at": "2026-10-26T00:31:15.640731+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/BI",
+      "seen_at": "2026-10-26T00:31:15.641260+00:00"
+    },
+    {
+      "id": "simplify-13741c07-6081-4258-b11e-613072dd59f2",
+      "seen_at": "2026-10-26T00:31:15.641715+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/BJ",
+      "seen_at": "2026-10-26T00:31:15.642144+00:00"
     }
   ],
-  "last_run": "2026-10-26T00:01:13.130741+00:00",
-  "total_notified": 10343,
+  "last_run": "2026-10-26T00:31:16.156299+00:00",
+  "total_notified": 10345,
   "channels": {
     "pm-jobs": [
-      "zapply-1ccf76973279",
-      "url:https://zapply.jobs/l/d/greenhouse-vercel-6205772004",
       "jobright-50c75f0509ef",
       "url:https://jobright.ai/jobs/info/6ab6bdef634ec6aa7c0d4527",
       "jobright-38b23f404679",
@@ -27119,8 +27117,6 @@
       "url:https://zapply.jobs/l/d/google-127910537978618566"
     ],
     "swe-ai-full-time": [
-      "jobright-248a902c2ec7",
-      "url:https://jobright.ai/jobs/info/6aa50b2042411952ff9a6b12",
       "jobright-6ff9df5637c5",
       "url:https://jobright.ai/jobs/info/6ab7004862bb1fbd451dce0e",
       "jobright-9585ddd1746b",
@@ -32552,7 +32548,11 @@
       "jobright-454841420a6e",
       "url:https://jobright.ai/jobs/info/6aa45aa2422289703bd664b6",
       "jobright-0c230d93e883",
-      "url:https://jobright.ai/jobs/info/6addb2b39e3e874dbfba71fb"
+      "url:https://jobright.ai/jobs/info/6addb2b39e3e874dbfba71fb",
+      "simplify-3233f8eb-5790-456d-933a-2f15328733fb",
+      "url:https://go.vansh.nyc/BI",
+      "simplify-13741c07-6081-4258-b11e-613072dd59f2",
+      "url:https://go.vansh.nyc/BJ"
     ]
   }
 }
