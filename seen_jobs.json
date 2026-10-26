@@ -26383,10 +26383,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6adfa1e2c5c64fa3d9cbddb3",
       "seen_at": "2026-10-26T21:01:24.477860+00:00"
+    },
+    {
+      "id": "zapply-ae6d44137de8",
+      "seen_at": "2026-10-26T21:31:28.110520+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-swarmaero-7d3783c5-f98c-4def-8c33-6de907aab30e",
+      "seen_at": "2026-10-26T21:31:28.111167+00:00"
+    },
+    {
+      "id": "amazon-10589280",
+      "seen_at": "2026-10-26T21:31:28.111737+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10589280/data-scientist-ots-data-anchor-team",
+      "seen_at": "2026-10-26T21:31:28.112167+00:00"
     }
   ],
-  "last_run": "2026-10-26T21:01:24.743056+00:00",
-  "total_notified": 10424,
+  "last_run": "2026-10-26T21:31:29.199287+00:00",
+  "total_notified": 10426,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -32992,7 +33008,11 @@
       "jobright-9b3f9685506c",
       "url:https://jobright.ai/jobs/info/6adf9f2dc5c64fa3d9cbdb51",
       "amazon-10589259",
-      "url:https://www.amazon.jobs/en/jobs/10589259/software-development-engineer-aws-field-experience"
+      "url:https://www.amazon.jobs/en/jobs/10589259/software-development-engineer-aws-field-experience",
+      "zapply-ae6d44137de8",
+      "url:https://zapply.jobs/l/d/ashby-swarmaero-7d3783c5-f98c-4def-8c33-6de907aab30e",
+      "amazon-10589280",
+      "url:https://www.amazon.jobs/en/jobs/10589280/data-scientist-ots-data-anchor-team"
     ]
   }
 }
