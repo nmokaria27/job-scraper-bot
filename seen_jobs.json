@@ -26023,10 +26023,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797411",
       "seen_at": "2026-10-26T16:31:23.047174+00:00"
+    },
+    {
+      "id": "jobright-0a2b94ec3f31",
+      "seen_at": "2026-10-26T16:46:42.256129+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf6daf5dc7953215a3ec09",
+      "seen_at": "2026-10-26T16:46:42.256449+00:00"
+    },
+    {
+      "id": "jobright-a047fa629939",
+      "seen_at": "2026-10-26T16:46:42.256719+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf69649e3e874dbfbabf1d",
+      "seen_at": "2026-10-26T16:46:42.256971+00:00"
+    },
+    {
+      "id": "amazon-10588695",
+      "seen_at": "2026-10-26T16:46:42.257209+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10588695/software-dev-engineer-antenna-system-validation",
+      "seen_at": "2026-10-26T16:46:42.257426+00:00"
     }
   ],
-  "last_run": "2026-10-26T16:31:23.264988+00:00",
-  "total_notified": 10376,
+  "last_run": "2026-10-26T16:46:42.895454+00:00",
+  "total_notified": 10379,
   "channels": {
     "pm-jobs": [
       "jobright-16afd7209168",
@@ -32542,7 +32566,13 @@
       "greenhouse-roblox-8259453",
       "url:https://careers.roblox.com/jobs/8259453",
       "amazon-10588672",
-      "url:https://www.amazon.jobs/en/jobs/10588672/software-development-engineer-aws-cloudwatch-aws-observability-analytics"
+      "url:https://www.amazon.jobs/en/jobs/10588672/software-development-engineer-aws-cloudwatch-aws-observability-analytics",
+      "jobright-0a2b94ec3f31",
+      "url:https://jobright.ai/jobs/info/6adf6daf5dc7953215a3ec09",
+      "jobright-a047fa629939",
+      "url:https://jobright.ai/jobs/info/6adf69649e3e874dbfbabf1d",
+      "amazon-10588695",
+      "url:https://www.amazon.jobs/en/jobs/10588695/software-dev-engineer-antenna-system-validation"
     ]
   }
 }
