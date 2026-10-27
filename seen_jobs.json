@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-234fcfb79d83",
-      "seen_at": "2026-09-27T13:01:16.630956+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab8f9c7d7fde2c08ec8da9b",
-      "seen_at": "2026-09-27T13:01:16.632129+00:00"
-    },
-    {
       "id": "amazon-10561030",
       "seen_at": "2026-09-27T14:31:08.305900+00:00"
     },
@@ -26921,7 +26913,7 @@
       "seen_at": "2026-10-27T13:01:47.587627+00:00"
     }
   ],
-  "last_run": "2026-10-27T13:01:47.869558+00:00",
+  "last_run": "2026-10-27T13:31:34.621765+00:00",
   "total_notified": 10495,
   "channels": {
     "pm-jobs": [
@@ -28067,8 +28059,6 @@
       "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Data-Product-Manager---Inventory---Places_R1000786-2"
     ],
     "swe-ai-full-time": [
-      "jobright-234fcfb79d83",
-      "url:https://jobright.ai/jobs/info/6ab8f9c7d7fde2c08ec8da9b",
       "amazon-10561030",
       "url:https://www.amazon.jobs/en/jobs/10561030/machine-learning-engineer-prime-video-ads-cx",
       "ashby-perplexity-b539e100-4b8c-4701-a5a8-52b9a72f435e",
