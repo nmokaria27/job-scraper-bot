@@ -27247,10 +27247,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-oracle-348985",
       "seen_at": "2026-10-27T19:01:33.461094+00:00"
+    },
+    {
+      "id": "greenhouse-sambanovasystems-6224940004",
+      "seen_at": "2026-10-27T19:31:14.096708+00:00"
+    },
+    {
+      "id": "url:https://sambanova.ai/sambanova-available-positions",
+      "seen_at": "2026-10-27T19:31:14.097137+00:00"
+    },
+    {
+      "id": "zapply-888ba52445ed",
+      "seen_at": "2026-10-27T19:31:16.383709+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803909",
+      "seen_at": "2026-10-27T19:31:16.384073+00:00"
     }
   ],
-  "last_run": "2026-10-27T19:01:33.769367+00:00",
-  "total_notified": 10539,
+  "last_run": "2026-10-27T19:31:17.030073+00:00",
+  "total_notified": 10541,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -28416,7 +28432,9 @@
       "zapply-302841e5938a",
       "url:https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-290443",
       "zapply-67de18ae1fb0",
-      "url:https://zapply.jobs/l/d/oracle-oracle-348985"
+      "url:https://zapply.jobs/l/d/oracle-oracle-348985",
+      "zapply-888ba52445ed",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803909"
     ],
     "swe-ai-full-time": [
       "jobright-a0ec97a36bce",
@@ -34072,7 +34090,9 @@
       "jobright-a46c67dc9aae",
       "url:https://jobright.ai/jobs/info/6ae0d3c6829a3bada15f7514",
       "amazon-10586770",
-      "url:https://www.amazon.jobs/en/jobs/10586770/software-development-engineer"
+      "url:https://www.amazon.jobs/en/jobs/10586770/software-development-engineer",
+      "greenhouse-sambanovasystems-6224940004",
+      "url:https://sambanova.ai/sambanova-available-positions"
     ]
   }
 }
