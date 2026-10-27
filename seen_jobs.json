@@ -27423,10 +27423,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae0f5e81f9d9308370a62be",
       "seen_at": "2026-10-27T22:01:44.582675+00:00"
+    },
+    {
+      "id": "simplify-7a4e1b1b-2a9c-4a30-a472-fc4ebabb53db",
+      "seen_at": "2026-10-27T22:31:14.476096+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/WA",
+      "seen_at": "2026-10-27T22:31:14.476645+00:00"
+    },
+    {
+      "id": "simplify-4fa58e54-6a7c-42ad-82da-b806598121f4",
+      "seen_at": "2026-10-27T22:31:14.477118+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/WB",
+      "seen_at": "2026-10-27T22:31:14.477578+00:00"
     }
   ],
-  "last_run": "2026-10-27T22:01:44.935335+00:00",
-  "total_notified": 10563,
+  "last_run": "2026-10-27T22:31:16.069946+00:00",
+  "total_notified": 10565,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -34292,7 +34308,11 @@
       "greenhouse-tenstorrent-5275977007",
       "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5275977007",
       "jobright-7069193e4911",
-      "url:https://jobright.ai/jobs/info/6ae103906679108488c400e1"
+      "url:https://jobright.ai/jobs/info/6ae103906679108488c400e1",
+      "simplify-7a4e1b1b-2a9c-4a30-a472-fc4ebabb53db",
+      "url:https://go.vansh.nyc/WA",
+      "simplify-4fa58e54-6a7c-42ad-82da-b806598121f4",
+      "url:https://go.vansh.nyc/WB"
     ]
   }
 }
