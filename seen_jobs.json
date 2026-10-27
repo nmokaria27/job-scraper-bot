@@ -27439,10 +27439,106 @@
     {
       "id": "url:https://go.vansh.nyc/WB",
       "seen_at": "2026-10-27T22:31:14.477578+00:00"
+    },
+    {
+      "id": "simplify-84ee1b8e-a18b-47c7-a497-5a7e53a2ea04",
+      "seen_at": "2026-10-27T23:01:40.681020+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/agile-defense/0d603eca-2337-4122-8e53-07b22a4077f8/apply",
+      "seen_at": "2026-10-27T23:01:40.681405+00:00"
+    },
+    {
+      "id": "simplify-2f04cf36-aee9-49fa-845e-326106818d30",
+      "seen_at": "2026-10-27T23:01:40.681745+00:00"
+    },
+    {
+      "id": "url:https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042",
+      "seen_at": "2026-10-27T23:01:40.682068+00:00"
+    },
+    {
+      "id": "simplify-9a6685e2-0aaf-400a-92b9-ec98a727cbf4",
+      "seen_at": "2026-10-27T23:01:40.682372+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs",
+      "seen_at": "2026-10-27T23:01:40.682667+00:00"
+    },
+    {
+      "id": "simplify-8dc91cb2-cfee-4a46-a828-5c8a5780caa3",
+      "seen_at": "2026-10-27T23:01:40.682971+00:00"
+    },
+    {
+      "id": "url:https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Data-Scientist--Abbott-Park--IL_31165701-1",
+      "seen_at": "2026-10-27T23:01:40.683249+00:00"
+    },
+    {
+      "id": "simplify-e794c4ea-160b-4797-b9b5-fb899b4763bc",
+      "seen_at": "2026-10-27T23:01:40.683528+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf/application",
+      "seen_at": "2026-10-27T23:01:40.683794+00:00"
+    },
+    {
+      "id": "jobright-3336575f853c",
+      "seen_at": "2026-10-27T23:01:40.684080+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ace77e8ba99f15ef4124e4f",
+      "seen_at": "2026-10-27T23:01:40.684382+00:00"
+    },
+    {
+      "id": "jobright-0d038bfd012a",
+      "seen_at": "2026-10-27T23:01:40.684688+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae111a2829a3bada15fa44d",
+      "seen_at": "2026-10-27T23:01:40.685004+00:00"
+    },
+    {
+      "id": "jobright-8537caa3aa8b",
+      "seen_at": "2026-10-27T23:01:40.685318+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae110ca1f9d9308370a755f",
+      "seen_at": "2026-10-27T23:01:40.685618+00:00"
+    },
+    {
+      "id": "jobright-31c52eb92851",
+      "seen_at": "2026-10-27T23:01:40.685934+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae1082567c31ab34899fca3",
+      "seen_at": "2026-10-27T23:01:40.686214+00:00"
+    },
+    {
+      "id": "jobright-396efa63a6ac",
+      "seen_at": "2026-10-27T23:01:40.686505+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf8e8a065c4e77efaf8d4c",
+      "seen_at": "2026-10-27T23:01:40.686783+00:00"
+    },
+    {
+      "id": "jobright-d95818552166",
+      "seen_at": "2026-10-27T23:01:40.687078+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae1116d1f9d9308370a75e0",
+      "seen_at": "2026-10-27T23:01:40.687356+00:00"
+    },
+    {
+      "id": "zapply-ee21b3b39ca4",
+      "seen_at": "2026-10-27T23:01:43.157457+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029002",
+      "seen_at": "2026-10-27T23:01:43.157795+00:00"
     }
   ],
-  "last_run": "2026-10-27T22:31:16.069946+00:00",
-  "total_notified": 10565,
+  "last_run": "2026-10-27T23:01:43.372009+00:00",
+  "total_notified": 10577,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -28622,7 +28718,9 @@
       "ashby-applied-bb2789bc-822d-4bfb-b4ea-f0d5940d62ec",
       "url:https://jobs.ashbyhq.com/applied/bb2789bc-822d-4bfb-b4ea-f0d5940d62ec",
       "jobright-98cf9db400c1",
-      "url:https://jobright.ai/jobs/info/6ae0f5e81f9d9308370a62be"
+      "url:https://jobright.ai/jobs/info/6ae0f5e81f9d9308370a62be",
+      "zapply-ee21b3b39ca4",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029002"
     ],
     "swe-ai-full-time": [
       "jobright-fa2147385c39",
@@ -34312,7 +34410,29 @@
       "simplify-7a4e1b1b-2a9c-4a30-a472-fc4ebabb53db",
       "url:https://go.vansh.nyc/WA",
       "simplify-4fa58e54-6a7c-42ad-82da-b806598121f4",
-      "url:https://go.vansh.nyc/WB"
+      "url:https://go.vansh.nyc/WB",
+      "simplify-84ee1b8e-a18b-47c7-a497-5a7e53a2ea04",
+      "url:https://jobs.lever.co/agile-defense/0d603eca-2337-4122-8e53-07b22a4077f8/apply",
+      "simplify-2f04cf36-aee9-49fa-845e-326106818d30",
+      "url:https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042",
+      "simplify-9a6685e2-0aaf-400a-92b9-ec98a727cbf4",
+      "url:https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs",
+      "simplify-8dc91cb2-cfee-4a46-a828-5c8a5780caa3",
+      "url:https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Data-Scientist--Abbott-Park--IL_31165701-1",
+      "simplify-e794c4ea-160b-4797-b9b5-fb899b4763bc",
+      "url:https://jobs.ashbyhq.com/fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf/application",
+      "jobright-3336575f853c",
+      "url:https://jobright.ai/jobs/info/6ace77e8ba99f15ef4124e4f",
+      "jobright-0d038bfd012a",
+      "url:https://jobright.ai/jobs/info/6ae111a2829a3bada15fa44d",
+      "jobright-8537caa3aa8b",
+      "url:https://jobright.ai/jobs/info/6ae110ca1f9d9308370a755f",
+      "jobright-31c52eb92851",
+      "url:https://jobright.ai/jobs/info/6ae1082567c31ab34899fca3",
+      "jobright-396efa63a6ac",
+      "url:https://jobright.ai/jobs/info/6adf8e8a065c4e77efaf8d4c",
+      "jobright-d95818552166",
+      "url:https://jobright.ai/jobs/info/6ae1116d1f9d9308370a75e0"
     ]
   }
 }
