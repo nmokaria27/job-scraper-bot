@@ -26943,10 +26943,74 @@
     {
       "id": "url:https://go.vansh.nyc/VK",
       "seen_at": "2026-10-27T15:31:19.742941+00:00"
+    },
+    {
+      "id": "jobright-9fa85c38bcd3",
+      "seen_at": "2026-10-27T15:51:44.267726+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae0afadde23f466ec8b78d6",
+      "seen_at": "2026-10-27T15:51:44.268278+00:00"
+    },
+    {
+      "id": "jobright-05d7ea03b165",
+      "seen_at": "2026-10-27T15:51:44.268797+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae0aebe5a5afc94bd2c614c",
+      "seen_at": "2026-10-27T15:51:44.269257+00:00"
+    },
+    {
+      "id": "jobright-3414cbc95a8b",
+      "seen_at": "2026-10-27T15:51:44.269714+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae0aea6829a3bada15f5d54",
+      "seen_at": "2026-10-27T15:51:44.270182+00:00"
+    },
+    {
+      "id": "jobright-4d2cc68abc46",
+      "seen_at": "2026-10-27T15:51:44.270654+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae0ae891f9d9308370a2e2d",
+      "seen_at": "2026-10-27T15:51:44.271161+00:00"
+    },
+    {
+      "id": "jobright-c0fec3cef653",
+      "seen_at": "2026-10-27T15:51:44.271626+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae0ae88de23f466ec8b7828",
+      "seen_at": "2026-10-27T15:51:44.272063+00:00"
+    },
+    {
+      "id": "jobright-9c251ac8d3ca",
+      "seen_at": "2026-10-27T15:51:44.272539+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa8242b3a9f0a4fe6f177ec",
+      "seen_at": "2026-10-27T15:51:44.273006+00:00"
+    },
+    {
+      "id": "zapply-4fa53e532661",
+      "seen_at": "2026-10-27T15:51:46.537974+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-571558",
+      "seen_at": "2026-10-27T15:51:46.538475+00:00"
+    },
+    {
+      "id": "jobright-cad132f5a57b",
+      "seen_at": "2026-10-27T15:51:46.538913+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad664d154bbabbab06f7af6",
+      "seen_at": "2026-10-27T15:51:46.539352+00:00"
     }
   ],
-  "last_run": "2026-10-27T15:31:20.893723+00:00",
-  "total_notified": 10500,
+  "last_run": "2026-10-27T15:51:46.781097+00:00",
+  "total_notified": 10508,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -28088,7 +28152,11 @@
       "workday-capitalone-R247093",
       "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Manager---Capital-One-Travel_R247093-1",
       "workday-capitalone-R1000786",
-      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Data-Product-Manager---Inventory---Places_R1000786-2"
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Data-Product-Manager---Inventory---Places_R1000786-2",
+      "zapply-4fa53e532661",
+      "url:https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-571558",
+      "jobright-cad132f5a57b",
+      "url:https://jobright.ai/jobs/info/6ad664d154bbabbab06f7af6"
     ],
     "swe-ai-full-time": [
       "ashby-perplexity-b539e100-4b8c-4701-a5a8-52b9a72f435e",
@@ -33692,7 +33760,19 @@
       "jobright-c0bc27b9fd15",
       "url:https://jobright.ai/jobs/info/6ae09c298b6154d50cdf73f8",
       "simplify-b39dabad-357a-4eda-9705-a1b1d8c61bac",
-      "url:https://go.vansh.nyc/VK"
+      "url:https://go.vansh.nyc/VK",
+      "jobright-9fa85c38bcd3",
+      "url:https://jobright.ai/jobs/info/6ae0afadde23f466ec8b78d6",
+      "jobright-05d7ea03b165",
+      "url:https://jobright.ai/jobs/info/6ae0aebe5a5afc94bd2c614c",
+      "jobright-3414cbc95a8b",
+      "url:https://jobright.ai/jobs/info/6ae0aea6829a3bada15f5d54",
+      "jobright-4d2cc68abc46",
+      "url:https://jobright.ai/jobs/info/6ae0ae891f9d9308370a2e2d",
+      "jobright-c0fec3cef653",
+      "url:https://jobright.ai/jobs/info/6ae0ae88de23f466ec8b7828",
+      "jobright-9c251ac8d3ca",
+      "url:https://jobright.ai/jobs/info/6aa8242b3a9f0a4fe6f177ec"
     ]
   }
 }
