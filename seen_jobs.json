@@ -27399,10 +27399,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R74969",
       "seen_at": "2026-10-27T21:31:30.711172+00:00"
+    },
+    {
+      "id": "jobright-7069193e4911",
+      "seen_at": "2026-10-27T22:01:42.215102+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae103906679108488c400e1",
+      "seen_at": "2026-10-27T22:01:42.215757+00:00"
+    },
+    {
+      "id": "ashby-applied-bb2789bc-822d-4bfb-b4ea-f0d5940d62ec",
+      "seen_at": "2026-10-27T22:01:44.581223+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/bb2789bc-822d-4bfb-b4ea-f0d5940d62ec",
+      "seen_at": "2026-10-27T22:01:44.581805+00:00"
+    },
+    {
+      "id": "jobright-98cf9db400c1",
+      "seen_at": "2026-10-27T22:01:44.582235+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae0f5e81f9d9308370a62be",
+      "seen_at": "2026-10-27T22:01:44.582675+00:00"
     }
   ],
-  "last_run": "2026-10-27T21:31:31.010243+00:00",
-  "total_notified": 10560,
+  "last_run": "2026-10-27T22:01:44.935335+00:00",
+  "total_notified": 10563,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -28578,7 +28602,11 @@
       "jobright-700ed6e4b4b4",
       "url:https://jobright.ai/jobs/info/6ae0f2af5a5afc94bd2c919b",
       "zapply-b7c0296b0aa8",
-      "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R74969"
+      "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R74969",
+      "ashby-applied-bb2789bc-822d-4bfb-b4ea-f0d5940d62ec",
+      "url:https://jobs.ashbyhq.com/applied/bb2789bc-822d-4bfb-b4ea-f0d5940d62ec",
+      "jobright-98cf9db400c1",
+      "url:https://jobright.ai/jobs/info/6ae0f5e81f9d9308370a62be"
     ],
     "swe-ai-full-time": [
       "jobright-fa2147385c39",
@@ -34262,7 +34290,9 @@
       "jobright-c342010cce23",
       "url:https://jobright.ai/jobs/info/6ae0f62d829a3bada15f9194",
       "greenhouse-tenstorrent-5275977007",
-      "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5275977007"
+      "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5275977007",
+      "jobright-7069193e4911",
+      "url:https://jobright.ai/jobs/info/6ae103906679108488c400e1"
     ]
   }
 }
