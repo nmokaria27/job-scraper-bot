@@ -26879,10 +26879,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae080d35dc7953215a474ea",
       "seen_at": "2026-10-27T12:01:56.311463+00:00"
+    },
+    {
+      "id": "jobright-06b4fc445acd",
+      "seen_at": "2026-10-27T13:01:44.861259+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a3f83b8651404064c02ad77",
+      "seen_at": "2026-10-27T13:01:44.861843+00:00"
+    },
+    {
+      "id": "zapply-12a10fa19cf5",
+      "seen_at": "2026-10-27T13:01:47.585069+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R1000786",
+      "seen_at": "2026-10-27T13:01:47.585555+00:00"
+    },
+    {
+      "id": "zapply-66e4059fed50",
+      "seen_at": "2026-10-27T13:01:47.585920+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R247093",
+      "seen_at": "2026-10-27T13:01:47.586280+00:00"
+    },
+    {
+      "id": "workday-capitalone-R247093",
+      "seen_at": "2026-10-27T13:01:47.586642+00:00"
+    },
+    {
+      "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Manager---Capital-One-Travel_R247093-1",
+      "seen_at": "2026-10-27T13:01:47.586973+00:00"
+    },
+    {
+      "id": "workday-capitalone-R1000786",
+      "seen_at": "2026-10-27T13:01:47.587317+00:00"
+    },
+    {
+      "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Data-Product-Manager---Inventory---Places_R1000786-2",
+      "seen_at": "2026-10-27T13:01:47.587627+00:00"
     }
   ],
-  "last_run": "2026-10-27T12:31:16.462579+00:00",
-  "total_notified": 10490,
+  "last_run": "2026-10-27T13:01:47.869558+00:00",
+  "total_notified": 10495,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -28016,7 +28056,15 @@
       "jobright-ad9a65dfc776",
       "url:https://jobright.ai/jobs/info/6aa863cb2ed333b4ea5cf36c",
       "jobright-33d6cf6cff3f",
-      "url:https://jobright.ai/jobs/info/6ae080d35dc7953215a474ea"
+      "url:https://jobright.ai/jobs/info/6ae080d35dc7953215a474ea",
+      "zapply-12a10fa19cf5",
+      "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R1000786",
+      "zapply-66e4059fed50",
+      "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R247093",
+      "workday-capitalone-R247093",
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Manager---Capital-One-Travel_R247093-1",
+      "workday-capitalone-R1000786",
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Data-Product-Manager---Inventory---Places_R1000786-2"
     ],
     "swe-ai-full-time": [
       "jobright-234fcfb79d83",
@@ -33612,7 +33660,9 @@
       "simplify-f059e346-e26d-484c-9dcd-6e572ce46932",
       "url:https://go.vansh.nyc/Vq",
       "simplify-bb188637-051b-463d-b6f0-551bae39d3b7",
-      "url:https://go.vansh.nyc/Vr"
+      "url:https://go.vansh.nyc/Vr",
+      "jobright-06b4fc445acd",
+      "url:https://jobright.ai/jobs/info/6a3f83b8651404064c02ad77"
     ]
   }
 }
