@@ -27023,10 +27023,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-statestreet-global-R-800315",
       "seen_at": "2026-10-27T16:01:46.549072+00:00"
+    },
+    {
+      "id": "amazon-10586756",
+      "seen_at": "2026-10-27T16:31:28.350059+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10586756/software-development-engineer-leo-autopilot",
+      "seen_at": "2026-10-27T16:31:28.350668+00:00"
+    },
+    {
+      "id": "jobright-f04274a5b659",
+      "seen_at": "2026-10-27T16:31:28.351175+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf7d1ac5c64fa3d9cbc07a",
+      "seen_at": "2026-10-27T16:31:28.351628+00:00"
     }
   ],
-  "last_run": "2026-10-27T16:01:47.625558+00:00",
-  "total_notified": 10510,
+  "last_run": "2026-10-27T16:31:29.479932+00:00",
+  "total_notified": 10512,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -33792,7 +33808,11 @@
       "jobright-9c251ac8d3ca",
       "url:https://jobright.ai/jobs/info/6aa8242b3a9f0a4fe6f177ec",
       "amazon-10589937",
-      "url:https://www.amazon.jobs/en/jobs/10589937/software-development-engineer-advanced-analytics-lld"
+      "url:https://www.amazon.jobs/en/jobs/10589937/software-development-engineer-advanced-analytics-lld",
+      "amazon-10586756",
+      "url:https://www.amazon.jobs/en/jobs/10586756/software-development-engineer-leo-autopilot",
+      "jobright-f04274a5b659",
+      "url:https://jobright.ai/jobs/info/6adf7d1ac5c64fa3d9cbc07a"
     ]
   }
 }
