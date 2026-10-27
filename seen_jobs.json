@@ -26703,10 +26703,50 @@
     {
       "id": "url:https://go.vansh.nyc/UE",
       "seen_at": "2026-10-27T02:31:09.010197+00:00"
+    },
+    {
+      "id": "jobright-8621b1f52f9a",
+      "seen_at": "2026-10-27T03:01:24.581766+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adffa309a8c91d5c358b33d",
+      "seen_at": "2026-10-27T03:01:24.582975+00:00"
+    },
+    {
+      "id": "jobright-e941955e912f",
+      "seen_at": "2026-10-27T03:01:24.583441+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adff387c5c64fa3d9cc1433",
+      "seen_at": "2026-10-27T03:01:24.583936+00:00"
+    },
+    {
+      "id": "jobright-6a28e9fd1540",
+      "seen_at": "2026-10-27T03:01:24.584792+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adfb3c49e3e874dbfbaf3f7",
+      "seen_at": "2026-10-27T03:01:24.585548+00:00"
+    },
+    {
+      "id": "jobright-128464e5e6af",
+      "seen_at": "2026-10-27T03:01:26.220696+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a55ce0014f1040fa611c1f9",
+      "seen_at": "2026-10-27T03:01:26.221004+00:00"
+    },
+    {
+      "id": "jobright-e0d6a90e1de2",
+      "seen_at": "2026-10-27T03:01:26.221261+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adff65c9a8c91d5c358b059",
+      "seen_at": "2026-10-27T03:01:26.221485+00:00"
     }
   ],
-  "last_run": "2026-10-27T02:31:10.174201+00:00",
-  "total_notified": 10465,
+  "last_run": "2026-10-27T03:01:26.847636+00:00",
+  "total_notified": 10470,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -27830,7 +27870,11 @@
       "jobright-2a44313af8cb",
       "url:https://jobright.ai/jobs/info/6adfcef19a8c91d5c358973e",
       "jobright-04f8109e7abf",
-      "url:https://jobright.ai/jobs/info/6adfbc409a8c91d5c3588aec"
+      "url:https://jobright.ai/jobs/info/6adfbc409a8c91d5c3588aec",
+      "jobright-128464e5e6af",
+      "url:https://jobright.ai/jobs/info/6a55ce0014f1040fa611c1f9",
+      "jobright-e0d6a90e1de2",
+      "url:https://jobright.ai/jobs/info/6adff65c9a8c91d5c358b059"
     ],
     "swe-ai-full-time": [
       "jobright-04ee1c46a502",
@@ -33392,7 +33436,13 @@
       "jobright-5e7b0d6e106a",
       "url:https://jobright.ai/jobs/info/6adfe08b0a4cc7090f9841e3",
       "simplify-51509cf6-ed7e-4a57-9218-9830bac821ef",
-      "url:https://go.vansh.nyc/UE"
+      "url:https://go.vansh.nyc/UE",
+      "jobright-8621b1f52f9a",
+      "url:https://jobright.ai/jobs/info/6adffa309a8c91d5c358b33d",
+      "jobright-e941955e912f",
+      "url:https://jobright.ai/jobs/info/6adff387c5c64fa3d9cc1433",
+      "jobright-6a28e9fd1540",
+      "url:https://jobright.ai/jobs/info/6adfb3c49e3e874dbfbaf3f7"
     ]
   }
 }
