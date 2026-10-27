@@ -27263,10 +27263,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803909",
       "seen_at": "2026-10-27T19:31:16.384073+00:00"
+    },
+    {
+      "id": "jobright-36fc19e9aa43",
+      "seen_at": "2026-10-27T20:01:41.400473+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae0eab15a5afc94bd2c8bc9",
+      "seen_at": "2026-10-27T20:01:41.400909+00:00"
+    },
+    {
+      "id": "jobright-8ca4a5069f2a",
+      "seen_at": "2026-10-27T20:01:41.401278+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae0e50667c31ab34899e4b9",
+      "seen_at": "2026-10-27T20:01:41.401596+00:00"
+    },
+    {
+      "id": "jobright-e36a0fa2dc3e",
+      "seen_at": "2026-10-27T20:01:41.401932+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae0e1a2de23f466ec8b9da9",
+      "seen_at": "2026-10-27T20:01:41.402235+00:00"
+    },
+    {
+      "id": "gradtracker-5a253cf65410",
+      "seen_at": "2026-10-27T20:01:41.402547+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000158119381",
+      "seen_at": "2026-10-27T20:01:41.402837+00:00"
+    },
+    {
+      "id": "gradtracker-582b2e7cd5a0",
+      "seen_at": "2026-10-27T20:01:41.403120+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000158122789",
+      "seen_at": "2026-10-27T20:01:41.403386+00:00"
+    },
+    {
+      "id": "jobright-2d840d4087b2",
+      "seen_at": "2026-10-27T20:01:43.891999+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada43013a69033df225733c",
+      "seen_at": "2026-10-27T20:01:43.892357+00:00"
     }
   ],
-  "last_run": "2026-10-27T19:31:17.030073+00:00",
-  "total_notified": 10541,
+  "last_run": "2026-10-27T20:01:44.260595+00:00",
+  "total_notified": 10547,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -28434,7 +28482,9 @@
       "zapply-67de18ae1fb0",
       "url:https://zapply.jobs/l/d/oracle-oracle-348985",
       "zapply-888ba52445ed",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803909"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803909",
+      "jobright-2d840d4087b2",
+      "url:https://jobright.ai/jobs/info/6ada43013a69033df225733c"
     ],
     "swe-ai-full-time": [
       "jobright-a0ec97a36bce",
@@ -34092,7 +34142,17 @@
       "amazon-10586770",
       "url:https://www.amazon.jobs/en/jobs/10586770/software-development-engineer",
       "greenhouse-sambanovasystems-6224940004",
-      "url:https://sambanova.ai/sambanova-available-positions"
+      "url:https://sambanova.ai/sambanova-available-positions",
+      "jobright-36fc19e9aa43",
+      "url:https://jobright.ai/jobs/info/6ae0eab15a5afc94bd2c8bc9",
+      "jobright-8ca4a5069f2a",
+      "url:https://jobright.ai/jobs/info/6ae0e50667c31ab34899e4b9",
+      "jobright-e36a0fa2dc3e",
+      "url:https://jobright.ai/jobs/info/6ae0e1a2de23f466ec8b9da9",
+      "gradtracker-5a253cf65410",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000158119381",
+      "gradtracker-582b2e7cd5a0",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000158122789"
     ]
   }
 }
