@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-d237a82519d2",
-      "seen_at": "2026-09-27T21:01:18.461596+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab96a89d7fde2c08ec8e0a3",
-      "seen_at": "2026-09-27T21:01:18.462630+00:00"
-    },
-    {
       "id": "jobright-fa2147385c39",
       "seen_at": "2026-09-27T23:01:11.113753+00:00"
     },
@@ -27391,10 +27383,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae0f2af5a5afc94bd2c919b",
       "seen_at": "2026-10-27T21:01:26.418917+00:00"
+    },
+    {
+      "id": "greenhouse-tenstorrent-5275977007",
+      "seen_at": "2026-10-27T21:31:29.075661+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5275977007",
+      "seen_at": "2026-10-27T21:31:29.075982+00:00"
+    },
+    {
+      "id": "zapply-b7c0296b0aa8",
+      "seen_at": "2026-10-27T21:31:30.710864+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R74969",
+      "seen_at": "2026-10-27T21:31:30.711172+00:00"
     }
   ],
-  "last_run": "2026-10-27T21:01:26.682513+00:00",
-  "total_notified": 10558,
+  "last_run": "2026-10-27T21:31:31.010243+00:00",
+  "total_notified": 10560,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -28568,11 +28576,11 @@
       "zapply-2187443072ed",
       "url:https://zapply.jobs/l/d/workday-athenahealth-external-R15614",
       "jobright-700ed6e4b4b4",
-      "url:https://jobright.ai/jobs/info/6ae0f2af5a5afc94bd2c919b"
+      "url:https://jobright.ai/jobs/info/6ae0f2af5a5afc94bd2c919b",
+      "zapply-b7c0296b0aa8",
+      "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R74969"
     ],
     "swe-ai-full-time": [
-      "jobright-d237a82519d2",
-      "url:https://jobright.ai/jobs/info/6ab96a89d7fde2c08ec8e0a3",
       "jobright-fa2147385c39",
       "url:https://jobright.ai/jobs/info/6ab9863062bb1fbd451e077f",
       "jobright-e0d961cff9e4",
@@ -34252,7 +34260,9 @@
       "jobright-b20051e8280d",
       "url:https://jobright.ai/jobs/info/6ae0f65567c31ab34899f13e",
       "jobright-c342010cce23",
-      "url:https://jobright.ai/jobs/info/6ae0f62d829a3bada15f9194"
+      "url:https://jobright.ai/jobs/info/6ae0f62d829a3bada15f9194",
+      "greenhouse-tenstorrent-5275977007",
+      "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5275977007"
     ]
   }
 }
