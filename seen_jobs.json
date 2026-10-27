@@ -26631,10 +26631,74 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6adfda0c9e3e874dbfbb0ebb",
       "seen_at": "2026-10-27T00:49:58.993392+00:00"
+    },
+    {
+      "id": "simplify-83774569-427b-4fdc-8cdf-d17695ad5ae4",
+      "seen_at": "2026-10-27T02:01:25.189850+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/abacusinsights/jobs/8917379002",
+      "seen_at": "2026-10-27T02:01:25.190581+00:00"
+    },
+    {
+      "id": "jobright-d6981cb550f0",
+      "seen_at": "2026-10-27T02:01:25.191166+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adfe9bb5dc7953215a44316",
+      "seen_at": "2026-10-27T02:01:25.191762+00:00"
+    },
+    {
+      "id": "jobright-dd2c76fbf9b4",
+      "seen_at": "2026-10-27T02:01:25.192248+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad3b2eef04335fc70ed9f10",
+      "seen_at": "2026-10-27T02:01:25.192698+00:00"
+    },
+    {
+      "id": "jobright-b5537426c5d1",
+      "seen_at": "2026-10-27T02:01:25.193174+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adfe5ee5dc7953215a44091",
+      "seen_at": "2026-10-27T02:01:25.193618+00:00"
+    },
+    {
+      "id": "jobright-187f279c3622",
+      "seen_at": "2026-10-27T02:01:25.194100+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adfe5de065c4e77efafca79",
+      "seen_at": "2026-10-27T02:01:25.194555+00:00"
+    },
+    {
+      "id": "jobright-0d9299924993",
+      "seen_at": "2026-10-27T02:01:25.195023+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adfe2799a8c91d5c358a419",
+      "seen_at": "2026-10-27T02:01:25.195462+00:00"
+    },
+    {
+      "id": "jobright-76ea3557aadd",
+      "seen_at": "2026-10-27T02:01:25.195919+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab40c510e0ae54eeea46484",
+      "seen_at": "2026-10-27T02:01:25.196387+00:00"
+    },
+    {
+      "id": "jobright-5e7b0d6e106a",
+      "seen_at": "2026-10-27T02:01:25.196839+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adfe08b0a4cc7090f9841e3",
+      "seen_at": "2026-10-27T02:01:25.197291+00:00"
     }
   ],
-  "last_run": "2026-10-27T01:31:09.762317+00:00",
-  "total_notified": 10456,
+  "last_run": "2026-10-27T02:01:26.304538+00:00",
+  "total_notified": 10464,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -33302,7 +33366,23 @@
       "gradtracker-0651fd3ae32b",
       "url:https://morganstanley.eightfold.ai/careers/job/549800858274",
       "jobright-36f5b70a5f24",
-      "url:https://jobright.ai/jobs/info/6adfda0c9e3e874dbfbb0ebb"
+      "url:https://jobright.ai/jobs/info/6adfda0c9e3e874dbfbb0ebb",
+      "simplify-83774569-427b-4fdc-8cdf-d17695ad5ae4",
+      "url:https://boards.greenhouse.io/abacusinsights/jobs/8917379002",
+      "jobright-d6981cb550f0",
+      "url:https://jobright.ai/jobs/info/6adfe9bb5dc7953215a44316",
+      "jobright-dd2c76fbf9b4",
+      "url:https://jobright.ai/jobs/info/6ad3b2eef04335fc70ed9f10",
+      "jobright-b5537426c5d1",
+      "url:https://jobright.ai/jobs/info/6adfe5ee5dc7953215a44091",
+      "jobright-187f279c3622",
+      "url:https://jobright.ai/jobs/info/6adfe5de065c4e77efafca79",
+      "jobright-0d9299924993",
+      "url:https://jobright.ai/jobs/info/6adfe2799a8c91d5c358a419",
+      "jobright-76ea3557aadd",
+      "url:https://jobright.ai/jobs/info/6ab40c510e0ae54eeea46484",
+      "jobright-5e7b0d6e106a",
+      "url:https://jobright.ai/jobs/info/6adfe08b0a4cc7090f9841e3"
     ]
   }
 }
