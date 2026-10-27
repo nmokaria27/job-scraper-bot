@@ -27079,10 +27079,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-troweprice-troweprice-82054",
       "seen_at": "2026-10-27T17:01:29.605455+00:00"
+    },
+    {
+      "id": "jobright-dd268f8b8fb9",
+      "seen_at": "2026-10-27T18:01:38.644213+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa460281d92e2d05d1148ad",
+      "seen_at": "2026-10-27T18:01:38.644818+00:00"
+    },
+    {
+      "id": "jobright-b9ca495f1b11",
+      "seen_at": "2026-10-27T18:01:38.645362+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a34a336649fdf16292f6b17",
+      "seen_at": "2026-10-27T18:01:38.645838+00:00"
+    },
+    {
+      "id": "jobright-5346e0354d6f",
+      "seen_at": "2026-10-27T18:01:38.646338+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adae21fcb58d64fcd37163b",
+      "seen_at": "2026-10-27T18:01:38.646803+00:00"
+    },
+    {
+      "id": "jobright-7ea696065d0e",
+      "seen_at": "2026-10-27T18:01:38.647300+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae03c569a8c91d5c358c5e9",
+      "seen_at": "2026-10-27T18:01:38.647768+00:00"
+    },
+    {
+      "id": "zapply-b73fc275d5f6",
+      "seen_at": "2026-10-27T18:01:40.643100+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028754",
+      "seen_at": "2026-10-27T18:01:40.643637+00:00"
+    },
+    {
+      "id": "ashby-sierra-869dc7e3-56a1-4e70-aa56-5f8f0c67974e",
+      "seen_at": "2026-10-27T18:01:40.644132+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sierra/869dc7e3-56a1-4e70-aa56-5f8f0c67974e",
+      "seen_at": "2026-10-27T18:01:40.644552+00:00"
     }
   ],
-  "last_run": "2026-10-27T17:31:19.329162+00:00",
-  "total_notified": 10518,
+  "last_run": "2026-10-27T18:01:40.931834+00:00",
+  "total_notified": 10524,
   "channels": {
     "pm-jobs": [
       "ashby-nousresearch-076245ac-6260-49e0-bc20-fac31b3469a0",
@@ -28232,7 +28280,11 @@
       "zapply-99fc6a6a13d6",
       "url:https://zapply.jobs/l/d/workday-statestreet-global-R-800315",
       "zapply-2ceb79f9baaf",
-      "url:https://zapply.jobs/l/d/workday-troweprice-troweprice-82054"
+      "url:https://zapply.jobs/l/d/workday-troweprice-troweprice-82054",
+      "zapply-b73fc275d5f6",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028754",
+      "ashby-sierra-869dc7e3-56a1-4e70-aa56-5f8f0c67974e",
+      "url:https://jobs.ashbyhq.com/sierra/869dc7e3-56a1-4e70-aa56-5f8f0c67974e"
     ],
     "swe-ai-full-time": [
       "jobright-a0ec97a36bce",
@@ -33862,7 +33914,15 @@
       "jobright-52864312eda5",
       "url:https://jobright.ai/jobs/info/6ae0c0431f9d9308370a384e",
       "jobright-77b67b1ccda1",
-      "url:https://jobright.ai/jobs/info/6ae0bcc45a5afc94bd2c6967"
+      "url:https://jobright.ai/jobs/info/6ae0bcc45a5afc94bd2c6967",
+      "jobright-dd268f8b8fb9",
+      "url:https://jobright.ai/jobs/info/6aa460281d92e2d05d1148ad",
+      "jobright-b9ca495f1b11",
+      "url:https://jobright.ai/jobs/info/6a34a336649fdf16292f6b17",
+      "jobright-5346e0354d6f",
+      "url:https://jobright.ai/jobs/info/6adae21fcb58d64fcd37163b",
+      "jobright-7ea696065d0e",
+      "url:https://jobright.ai/jobs/info/6ae03c569a8c91d5c358c5e9"
     ]
   }
 }
