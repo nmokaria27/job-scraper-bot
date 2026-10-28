@@ -27875,10 +27875,26 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10591824/research-scientist-pricing-science",
       "seen_at": "2026-10-28T21:19:29.156484+00:00"
+    },
+    {
+      "id": "zapply-47244d692370",
+      "seen_at": "2026-10-28T21:31:17.371838+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3170264",
+      "seen_at": "2026-10-28T21:31:17.372211+00:00"
+    },
+    {
+      "id": "zapply-c4ab0da0614b",
+      "seen_at": "2026-10-28T21:31:17.372480+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/phenom-cisco-2026320",
+      "seen_at": "2026-10-28T21:31:17.372718+00:00"
     }
   ],
-  "last_run": "2026-10-28T21:19:31.238571+00:00",
-  "total_notified": 10719,
+  "last_run": "2026-10-28T21:31:17.714614+00:00",
+  "total_notified": 10721,
   "channels": {
     "pm-jobs": [
       "zapply-07986ac453c8",
@@ -29059,7 +29075,11 @@
       "jobright-3d589bf0018f",
       "url:https://jobright.ai/jobs/info/6ae2415d6679108488c4958a",
       "jobright-b65e8ea4a3ac",
-      "url:https://jobright.ai/jobs/info/6ae24028de23f466ec8c464b"
+      "url:https://jobright.ai/jobs/info/6ae24028de23f466ec8c464b",
+      "zapply-47244d692370",
+      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3170264",
+      "zapply-c4ab0da0614b",
+      "url:https://zapply.jobs/l/d/phenom-cisco-2026320"
     ],
     "swe-ai-full-time": [
       "zapply-0f5631ad3ad4",
