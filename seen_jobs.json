@@ -1,86 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-doordashusa-8236946",
-      "seen_at": "2026-09-28T18:01:48.744523+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/doordashusa/jobs/8236946",
-      "seen_at": "2026-09-28T18:01:48.745270+00:00"
-    },
-    {
-      "id": "jobright-e8b2a250bf1c",
-      "seen_at": "2026-09-28T18:01:48.745857+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aba8754be5f1e9325115e2b",
-      "seen_at": "2026-09-28T18:01:48.746406+00:00"
-    },
-    {
-      "id": "jobright-6bcd1f796404",
-      "seen_at": "2026-09-28T18:01:48.746944+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aba85c97220f52e62ae6b17",
-      "seen_at": "2026-09-28T18:01:48.747476+00:00"
-    },
-    {
-      "id": "jobright-e0b5afc3c5dd",
-      "seen_at": "2026-09-28T18:01:48.748032+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a549bf7d007ee02d95ff4a1",
-      "seen_at": "2026-09-28T18:01:48.748552+00:00"
-    },
-    {
-      "id": "zapply-4f9bcad6d440",
-      "seen_at": "2026-09-28T18:01:48.749088+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-comcast-comcast-careers-R443378",
-      "seen_at": "2026-09-28T18:01:48.749604+00:00"
-    },
-    {
-      "id": "zapply-b97243a35f99",
-      "seen_at": "2026-09-28T18:08:25.302131+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-flir-flircareers-REQ36896",
-      "seen_at": "2026-09-28T18:08:25.303234+00:00"
-    },
-    {
-      "id": "zapply-40f6f851abc9",
-      "seen_at": "2026-09-28T18:08:25.304163+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-flir-flircareers-REQ36890",
-      "seen_at": "2026-09-28T18:08:25.305035+00:00"
-    },
-    {
-      "id": "zapply-9a593ed5bd85",
-      "seen_at": "2026-09-28T18:08:25.305944+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-doordashusa-8236946",
-      "seen_at": "2026-09-28T18:08:25.306749+00:00"
-    },
-    {
-      "id": "zapply-9587179789f2",
-      "seen_at": "2026-09-28T18:08:25.307623+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-2c255f73-51b9-48b3-b5cf-07d3dd522c30",
-      "seen_at": "2026-09-28T18:08:25.308455+00:00"
-    },
-    {
-      "id": "zapply-0e69121bb25e",
-      "seen_at": "2026-09-28T18:08:31.809137+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000152240579",
-      "seen_at": "2026-09-28T18:08:31.810158+00:00"
-    },
-    {
       "id": "applyguy-ad53d16e-b774-42df-ada3-0197b04014ac",
       "seen_at": "2026-09-28T18:31:43.007029+00:00"
     },
@@ -27695,14 +27615,60 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10591141/applied-scientist-center-for-quantum-computing",
       "seen_at": "2026-10-28T18:02:06.327378+00:00"
+    },
+    {
+      "id": "zapply-4c5cfa8866cf",
+      "seen_at": "2026-10-28T18:31:13.455850+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-kitware-e346e6f6-d0c0-4c02-b115-21462f63e722",
+      "seen_at": "2026-10-28T18:31:13.456445+00:00"
+    },
+    {
+      "id": "zapply-d3561c169c1d",
+      "seen_at": "2026-10-28T18:31:13.456920+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/lever-kitware-ba192bcd-bd7f-4294-b975-5ed030a275b8",
+      "seen_at": "2026-10-28T18:31:13.457389+00:00"
+    },
+    {
+      "id": "simplify-9bc457ce-d971-45a7-879f-19590874023d",
+      "seen_at": "2026-10-28T18:31:13.457838+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/XJ",
+      "seen_at": "2026-10-28T18:31:13.458301+00:00"
+    },
+    {
+      "id": "simplify-635ef6c4-83a7-423c-9ec0-c00a61cd1d07",
+      "seen_at": "2026-10-28T18:31:13.458755+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/XK",
+      "seen_at": "2026-10-28T18:31:13.459199+00:00"
+    },
+    {
+      "id": "amazon-10590271",
+      "seen_at": "2026-10-28T18:31:13.459642+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10590271/software-development-engineer-sponsored-products-and-brands",
+      "seen_at": "2026-10-28T18:31:13.460098+00:00"
+    },
+    {
+      "id": "greenhouse-oscar-8319419",
+      "seen_at": "2026-10-28T18:31:15.527822+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/oscar/jobs/8319419",
+      "seen_at": "2026-10-28T18:31:15.528308+00:00"
     }
   ],
-  "last_run": "2026-10-28T18:02:07.595145+00:00",
-  "total_notified": 10657,
+  "last_run": "2026-10-28T18:31:16.526363+00:00",
+  "total_notified": 10663,
   "channels": {
     "pm-jobs": [
-      "zapply-0e69121bb25e",
-      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000152240579",
       "zapply-e18026c84a9e",
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026521514",
       "greenhouse-toast-8226800",
@@ -28876,27 +28842,11 @@
       "amazon-10590679",
       "url:https://www.amazon.jobs/en/jobs/10590679/technical-program-manager",
       "amazon-10591228",
-      "url:https://www.amazon.jobs/en/jobs/10591228/product-manager-global-logistics-imports"
+      "url:https://www.amazon.jobs/en/jobs/10591228/product-manager-global-logistics-imports",
+      "greenhouse-oscar-8319419",
+      "url:https://job-boards.greenhouse.io/oscar/jobs/8319419"
     ],
     "swe-ai-full-time": [
-      "greenhouse-doordashusa-8236946",
-      "url:https://job-boards.greenhouse.io/doordashusa/jobs/8236946",
-      "jobright-e8b2a250bf1c",
-      "url:https://jobright.ai/jobs/info/6aba8754be5f1e9325115e2b",
-      "jobright-6bcd1f796404",
-      "url:https://jobright.ai/jobs/info/6aba85c97220f52e62ae6b17",
-      "jobright-e0b5afc3c5dd",
-      "url:https://jobright.ai/jobs/info/6a549bf7d007ee02d95ff4a1",
-      "zapply-4f9bcad6d440",
-      "url:https://zapply.jobs/l/d/workday-comcast-comcast-careers-R443378",
-      "zapply-b97243a35f99",
-      "url:https://zapply.jobs/l/d/workday-flir-flircareers-REQ36896",
-      "zapply-40f6f851abc9",
-      "url:https://zapply.jobs/l/d/workday-flir-flircareers-REQ36890",
-      "zapply-9a593ed5bd85",
-      "url:https://zapply.jobs/l/d/greenhouse-doordashusa-8236946",
-      "zapply-9587179789f2",
-      "url:https://zapply.jobs/l/d/amazon-2c255f73-51b9-48b3-b5cf-07d3dd522c30",
       "applyguy-ad53d16e-b774-42df-ada3-0197b04014ac",
       "url:https://lhw.bamboohr.com/careers/99",
       "zapply-0c83c2e133c6",
@@ -34632,7 +34582,17 @@
       "amazon-10590471",
       "url:https://www.amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store",
       "amazon-10591141",
-      "url:https://www.amazon.jobs/en/jobs/10591141/applied-scientist-center-for-quantum-computing"
+      "url:https://www.amazon.jobs/en/jobs/10591141/applied-scientist-center-for-quantum-computing",
+      "zapply-4c5cfa8866cf",
+      "url:https://zapply.jobs/l/d/lever-kitware-e346e6f6-d0c0-4c02-b115-21462f63e722",
+      "zapply-d3561c169c1d",
+      "url:https://zapply.jobs/l/d/lever-kitware-ba192bcd-bd7f-4294-b975-5ed030a275b8",
+      "simplify-9bc457ce-d971-45a7-879f-19590874023d",
+      "url:https://go.vansh.nyc/XJ",
+      "simplify-635ef6c4-83a7-423c-9ec0-c00a61cd1d07",
+      "url:https://go.vansh.nyc/XK",
+      "amazon-10590271",
+      "url:https://www.amazon.jobs/en/jobs/10590271/software-development-engineer-sponsored-products-and-brands"
     ]
   }
 }
