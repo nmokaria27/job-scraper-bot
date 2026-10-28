@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-ded7e9533845",
-      "seen_at": "2026-09-28T13:34:38.900178+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab9f07162bb1fbd451e1565",
-      "seen_at": "2026-09-28T13:34:38.900704+00:00"
-    },
-    {
       "id": "zapply-371bdcc5a253",
       "seen_at": "2026-09-28T14:02:12.691871+00:00"
     },
@@ -27671,14 +27663,44 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aa9bed310b1cd4f416077e3",
       "seen_at": "2026-10-28T13:01:29.230505+00:00"
+    },
+    {
+      "id": "lever-palantir-491a0133-b580-45c3-9fd4-2314faf82fb9",
+      "seen_at": "2026-10-28T14:02:10.570103+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/491a0133-b580-45c3-9fd4-2314faf82fb9",
+      "seen_at": "2026-10-28T14:02:10.570513+00:00"
+    },
+    {
+      "id": "jobright-4b3d3238e142",
+      "seen_at": "2026-10-28T14:02:10.570867+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7544ca7b3417772ade3dab",
+      "seen_at": "2026-10-28T14:02:10.571218+00:00"
+    },
+    {
+      "id": "jobright-23677167466a",
+      "seen_at": "2026-10-28T14:02:10.571536+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a71023dee751e0c793420a1",
+      "seen_at": "2026-10-28T14:02:10.571841+00:00"
+    },
+    {
+      "id": "jobright-d38d693e6512",
+      "seen_at": "2026-10-28T14:02:10.572165+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae1eaf8de23f466ec8c0ce4",
+      "seen_at": "2026-10-28T14:02:10.572470+00:00"
     }
   ],
-  "last_run": "2026-10-28T13:31:30.580643+00:00",
-  "total_notified": 10621,
+  "last_run": "2026-10-28T14:02:11.476280+00:00",
+  "total_notified": 10625,
   "channels": {
     "pm-jobs": [
-      "jobright-ded7e9533845",
-      "url:https://jobright.ai/jobs/info/6ab9f07162bb1fbd451e1565",
       "zapply-682cf57ba487",
       "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091062",
       "zapply-0d6ba91dbf30",
@@ -34602,7 +34624,15 @@
       "jobright-5f37d7ff3dbd",
       "url:https://jobright.ai/jobs/info/6ae1d5f205a39c3e2c714463",
       "jobright-aa808418afff",
-      "url:https://jobright.ai/jobs/info/6aa9bed310b1cd4f416077e3"
+      "url:https://jobright.ai/jobs/info/6aa9bed310b1cd4f416077e3",
+      "lever-palantir-491a0133-b580-45c3-9fd4-2314faf82fb9",
+      "url:https://jobs.lever.co/palantir/491a0133-b580-45c3-9fd4-2314faf82fb9",
+      "jobright-4b3d3238e142",
+      "url:https://jobright.ai/jobs/info/6a7544ca7b3417772ade3dab",
+      "jobright-23677167466a",
+      "url:https://jobright.ai/jobs/info/6a71023dee751e0c793420a1",
+      "jobright-d38d693e6512",
+      "url:https://jobright.ai/jobs/info/6ae1eaf8de23f466ec8c0ce4"
     ]
   }
 }
