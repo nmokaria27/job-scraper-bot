@@ -27647,10 +27647,26 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10590870/software-development-engineer-devices-software-services",
       "seen_at": "2026-10-28T11:01:40.078288+00:00"
+    },
+    {
+      "id": "jobright-8f4ef1bdc395",
+      "seen_at": "2026-10-28T12:01:26.737194+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8bf0e64afae74a08351c5c",
+      "seen_at": "2026-10-28T12:01:26.737550+00:00"
+    },
+    {
+      "id": "jobright-a494874ab77c",
+      "seen_at": "2026-10-28T12:01:26.737850+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae195a467c31ab3489a3e36",
+      "seen_at": "2026-10-28T12:01:26.738111+00:00"
     }
   ],
-  "last_run": "2026-10-28T11:31:17.127077+00:00",
-  "total_notified": 10617,
+  "last_run": "2026-10-28T12:01:27.696783+00:00",
+  "total_notified": 10619,
   "channels": {
     "pm-jobs": [
       "jobright-7863b5051c1e",
@@ -34572,7 +34588,11 @@
       "zapply-cb5bcdfdc964",
       "url:https://zapply.jobs/l/d/deshaw-4954",
       "amazon-10590870",
-      "url:https://www.amazon.jobs/en/jobs/10590870/software-development-engineer-devices-software-services"
+      "url:https://www.amazon.jobs/en/jobs/10590870/software-development-engineer-devices-software-services",
+      "jobright-8f4ef1bdc395",
+      "url:https://jobright.ai/jobs/info/6a8bf0e64afae74a08351c5c",
+      "jobright-a494874ab77c",
+      "url:https://jobright.ai/jobs/info/6ae195a467c31ab3489a3e36"
     ]
   }
 }
