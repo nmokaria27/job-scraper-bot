@@ -1,142 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-0b67c7d8197d",
-      "seen_at": "2026-09-28T23:01:22.688127+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abad592be5f1e9325117ac6",
-      "seen_at": "2026-09-28T23:01:22.689344+00:00"
-    },
-    {
-      "id": "applyguy-f808c368-e4a1-40bb-9997-1ce59f2cd35d",
-      "seen_at": "2026-09-28T23:01:22.690204+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/evolutioniq/jobs/6210230004",
-      "seen_at": "2026-09-28T23:01:22.690954+00:00"
-    },
-    {
-      "id": "jobright-564ba933a17d",
-      "seen_at": "2026-09-28T23:01:22.691714+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abad945ee0b348be729be09",
-      "seen_at": "2026-09-28T23:01:22.692453+00:00"
-    },
-    {
-      "id": "zapply-f0a546847e8a",
-      "seen_at": "2026-09-28T23:01:22.693206+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2629329",
-      "seen_at": "2026-09-28T23:01:22.693940+00:00"
-    },
-    {
-      "id": "zapply-5c7de8e57d2d",
-      "seen_at": "2026-09-28T23:01:22.694713+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R169562",
-      "seen_at": "2026-09-28T23:01:22.695447+00:00"
-    },
-    {
-      "id": "jobright-79aa8a4e8bdd",
-      "seen_at": "2026-09-28T23:01:22.696202+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abadae83db4ca81fc7c4f04",
-      "seen_at": "2026-09-28T23:01:22.696942+00:00"
-    },
-    {
-      "id": "amazon-10562813",
-      "seen_at": "2026-09-28T23:01:22.697692+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10562813/applied-scientist-execution-planning-science-engineering",
-      "seen_at": "2026-09-28T23:01:22.698502+00:00"
-    },
-    {
-      "id": "ashby-benchling-9b850e1f-1ba8-47e3-9057-0562e0739e6f",
-      "seen_at": "2026-09-28T23:01:22.699253+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/benchling/9b850e1f-1ba8-47e3-9057-0562e0739e6f",
-      "seen_at": "2026-09-28T23:01:22.699985+00:00"
-    },
-    {
-      "id": "zapply-753a2351d049",
-      "seen_at": "2026-09-28T23:29:39.710094+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1051951",
-      "seen_at": "2026-09-28T23:29:39.711057+00:00"
-    },
-    {
-      "id": "simplify-1a76f493-d46a-4e55-a726-506bb074303a",
-      "seen_at": "2026-09-28T23:29:39.711986+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/mintmcp/83584770-dd7c-499d-973f-36829bed51ad/application",
-      "seen_at": "2026-09-28T23:29:39.712871+00:00"
-    },
-    {
-      "id": "amazon-10562856",
-      "seen_at": "2026-09-28T23:29:39.713778+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10562856/software-development-engineer-personalization-amazon-personalization",
-      "seen_at": "2026-09-28T23:29:39.714664+00:00"
-    },
-    {
-      "id": "zapply-27683c02c127",
-      "seen_at": "2026-09-28T23:29:39.715550+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2466341",
-      "seen_at": "2026-09-28T23:29:39.716421+00:00"
-    },
-    {
-      "id": "zapply-a2c8c7e0fc5a",
-      "seen_at": "2026-09-28T23:29:39.717306+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R73016",
-      "seen_at": "2026-09-28T23:29:39.718210+00:00"
-    },
-    {
-      "id": "amazon-10562848",
-      "seen_at": "2026-09-28T23:29:39.719104+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10562848/compiler-engineer-neuron-automated-reasoning-group",
-      "seen_at": "2026-09-28T23:29:39.719986+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR358458",
-      "seen_at": "2026-09-28T23:29:39.720874+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer--Infrastructure-Service-Mesh_JR358458",
-      "seen_at": "2026-09-28T23:29:39.721750+00:00"
-    },
-    {
-      "id": "zapply-06d922bb64ec",
-      "seen_at": "2026-09-28T23:29:44.584809+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025124",
-      "seen_at": "2026-09-28T23:29:44.585659+00:00"
-    },
-    {
-      "id": "zapply-6313a53a9802",
-      "seen_at": "2026-09-28T23:29:44.586504+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2022366",
-      "seen_at": "2026-09-28T23:29:44.587291+00:00"
-    },
-    {
       "id": "applyguy-afe25188-427f-48a7-83c1-69c0120048e3",
       "seen_at": "2026-09-29T00:01:19.171288+00:00"
     },
@@ -27907,16 +27771,52 @@
     {
       "id": "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1",
       "seen_at": "2026-10-28T23:01:19.290023+00:00"
+    },
+    {
+      "id": "simplify-ce5fbf0e-4d29-4b1f-89f7-c1e6bd3c0986",
+      "seen_at": "2026-10-28T23:31:16.597790+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/Yy",
+      "seen_at": "2026-10-28T23:31:16.598200+00:00"
+    },
+    {
+      "id": "simplify-0727f717-7671-410b-a2ce-72856c4f8adb",
+      "seen_at": "2026-10-28T23:31:16.598560+00:00"
+    },
+    {
+      "id": "url:https://careers.amd.com/jobs/93894",
+      "seen_at": "2026-10-28T23:31:16.598874+00:00"
+    },
+    {
+      "id": "simplify-af1c8d02-38a6-434d-9011-8739541c301c",
+      "seen_at": "2026-10-28T23:31:16.599181+00:00"
+    },
+    {
+      "id": "url:https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer---Java---Python_R69271",
+      "seen_at": "2026-10-28T23:31:16.599485+00:00"
+    },
+    {
+      "id": "simplify-b20248d4-8618-4218-96d9-6ea9dace4c4b",
+      "seen_at": "2026-10-28T23:31:16.599770+00:00"
+    },
+    {
+      "id": "url:https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Junior-Software-Engineer_R5885",
+      "seen_at": "2026-10-28T23:31:16.600073+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR354592",
+      "seen_at": "2026-10-28T23:31:16.600375+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592",
+      "seen_at": "2026-10-28T23:31:16.600647+00:00"
     }
   ],
-  "last_run": "2026-10-28T23:01:19.581584+00:00",
-  "total_notified": 10740,
+  "last_run": "2026-10-28T23:31:17.752046+00:00",
+  "total_notified": 10745,
   "channels": {
     "pm-jobs": [
-      "zapply-06d922bb64ec",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025124",
-      "zapply-6313a53a9802",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2022366",
       "workday-nvidia-JR2022366",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Product-Manager_JR2022366",
       "jobright-25f7f9de1c1e",
@@ -29090,36 +28990,6 @@
       "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1"
     ],
     "swe-ai-full-time": [
-      "jobright-0b67c7d8197d",
-      "url:https://jobright.ai/jobs/info/6abad592be5f1e9325117ac6",
-      "applyguy-f808c368-e4a1-40bb-9997-1ce59f2cd35d",
-      "url:https://job-boards.greenhouse.io/evolutioniq/jobs/6210230004",
-      "jobright-564ba933a17d",
-      "url:https://jobright.ai/jobs/info/6abad945ee0b348be729be09",
-      "zapply-f0a546847e8a",
-      "url:https://zapply.jobs/l/d/workday-amat-external-R2629329",
-      "zapply-5c7de8e57d2d",
-      "url:https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R169562",
-      "jobright-79aa8a4e8bdd",
-      "url:https://jobright.ai/jobs/info/6abadae83db4ca81fc7c4f04",
-      "amazon-10562813",
-      "url:https://www.amazon.jobs/en/jobs/10562813/applied-scientist-execution-planning-science-engineering",
-      "ashby-benchling-9b850e1f-1ba8-47e3-9057-0562e0739e6f",
-      "url:https://jobs.ashbyhq.com/benchling/9b850e1f-1ba8-47e3-9057-0562e0739e6f",
-      "zapply-753a2351d049",
-      "url:https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1051951",
-      "simplify-1a76f493-d46a-4e55-a726-506bb074303a",
-      "url:https://jobs.ashbyhq.com/mintmcp/83584770-dd7c-499d-973f-36829bed51ad/application",
-      "amazon-10562856",
-      "url:https://www.amazon.jobs/en/jobs/10562856/software-development-engineer-personalization-amazon-personalization",
-      "zapply-27683c02c127",
-      "url:https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2466341",
-      "zapply-a2c8c7e0fc5a",
-      "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R73016",
-      "amazon-10562848",
-      "url:https://www.amazon.jobs/en/jobs/10562848/compiler-engineer-neuron-automated-reasoning-group",
-      "workday-salesforce-JR358458",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer--Infrastructure-Service-Mesh_JR358458",
       "applyguy-afe25188-427f-48a7-83c1-69c0120048e3",
       "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171612",
       "applyguy-bf7f22f9-6a8e-4806-8c2f-f1b337b6bbfd",
@@ -34897,7 +34767,17 @@
       "applyguy-651fb924-4d6a-4682-9e60-2f53295c7e3c",
       "url:https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Junior-Software-Engineer_R5885",
       "jobright-b457862f56da",
-      "url:https://jobright.ai/jobs/info/6ae269926679108488c4b37f"
+      "url:https://jobright.ai/jobs/info/6ae269926679108488c4b37f",
+      "simplify-ce5fbf0e-4d29-4b1f-89f7-c1e6bd3c0986",
+      "url:https://go.vansh.nyc/Yy",
+      "simplify-0727f717-7671-410b-a2ce-72856c4f8adb",
+      "url:https://careers.amd.com/jobs/93894",
+      "simplify-af1c8d02-38a6-434d-9011-8739541c301c",
+      "url:https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer---Java---Python_R69271",
+      "simplify-b20248d4-8618-4218-96d9-6ea9dace4c4b",
+      "url:https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Junior-Software-Engineer_R5885",
+      "workday-salesforce-JR354592",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592"
     ]
   }
 }
