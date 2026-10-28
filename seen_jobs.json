@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-e050321c2474",
-      "seen_at": "2026-09-28T11:01:34.120879+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab1b92623005eee3545c5bf",
-      "seen_at": "2026-09-28T11:01:34.121934+00:00"
-    },
-    {
       "id": "jobright-7863b5051c1e",
       "seen_at": "2026-09-28T13:01:37.496524+00:00"
     },
@@ -27657,7 +27649,7 @@
       "seen_at": "2026-10-28T11:01:40.078288+00:00"
     }
   ],
-  "last_run": "2026-10-28T11:01:40.890978+00:00",
+  "last_run": "2026-10-28T11:31:17.127077+00:00",
   "total_notified": 10617,
   "channels": {
     "pm-jobs": [
@@ -28841,8 +28833,6 @@
       "url:https://zapply.jobs/l/d/deshaw-5910"
     ],
     "swe-ai-full-time": [
-      "jobright-e050321c2474",
-      "url:https://jobright.ai/jobs/info/6ab1b92623005eee3545c5bf",
       "zapply-371bdcc5a253",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210791791",
       "amazon-10561581",
