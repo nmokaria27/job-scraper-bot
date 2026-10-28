@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-682cf57ba487",
-      "seen_at": "2026-09-28T15:02:16.561871+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091062",
-      "seen_at": "2026-09-28T15:02:16.562781+00:00"
-    },
-    {
-      "id": "zapply-0d6ba91dbf30",
-      "seen_at": "2026-09-28T15:02:16.563611+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090926",
-      "seen_at": "2026-09-28T15:02:16.564412+00:00"
-    },
-    {
       "id": "zapply-e3524d1e9ad3",
       "seen_at": "2026-09-28T15:31:37.280625+00:00"
     },
@@ -27711,16 +27695,52 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803612",
       "seen_at": "2026-10-28T15:01:33.723754+00:00"
+    },
+    {
+      "id": "simplify-ef912e83-5396-42ce-b372-3e501ffa4a19",
+      "seen_at": "2026-10-28T15:31:15.898627+00:00"
+    },
+    {
+      "id": "url:https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1",
+      "seen_at": "2026-10-28T15:31:15.898954+00:00"
+    },
+    {
+      "id": "gradtracker-e154988d9fb6",
+      "seen_at": "2026-10-28T15:31:15.899221+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10590795/data-engineer-global-logistics-product-analytics-team",
+      "seen_at": "2026-10-28T15:31:15.899464+00:00"
+    },
+    {
+      "id": "amazon-10588739",
+      "seen_at": "2026-10-28T15:31:15.899712+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10588739/software-development-engineer-strada",
+      "seen_at": "2026-10-28T15:31:15.899939+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR349383",
+      "seen_at": "2026-10-28T15:31:15.900165+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Forward-Deployed-Engineer--Technical-Builder-_JR349383",
+      "seen_at": "2026-10-28T15:31:15.900380+00:00"
+    },
+    {
+      "id": "zapply-fed14e6773c5",
+      "seen_at": "2026-10-28T15:31:17.827375+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803697",
+      "seen_at": "2026-10-28T15:31:17.827687+00:00"
     }
   ],
-  "last_run": "2026-10-28T15:01:34.012651+00:00",
-  "total_notified": 10631,
+  "last_run": "2026-10-28T15:31:18.182298+00:00",
+  "total_notified": 10636,
   "channels": {
     "pm-jobs": [
-      "zapply-682cf57ba487",
-      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091062",
-      "zapply-0d6ba91dbf30",
-      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090926",
       "zapply-2709a9d9c835",
       "url:https://zapply.jobs/l/d/ashby-eliseai-f0c8d0af-8021-4a04-b0f9-de1baff48ee4",
       "jobright-09707a0c58c3",
@@ -28898,7 +28918,9 @@
       "zapply-fe031b6cb0e4",
       "url:https://zapply.jobs/l/d/greenhouse-formlabs-8281689",
       "zapply-8bbbf2264fce",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803612"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803612",
+      "zapply-fed14e6773c5",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803697"
     ],
     "swe-ai-full-time": [
       "zapply-e3524d1e9ad3",
@@ -34652,7 +34674,15 @@
       "jobright-5902d82fde83",
       "url:https://jobright.ai/jobs/info/6ae1f1fd05a39c3e2c714dd0",
       "workday-salesforce-JR356714",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Forward-Deployed-Engineer_JR356714"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Forward-Deployed-Engineer_JR356714",
+      "simplify-ef912e83-5396-42ce-b372-3e501ffa4a19",
+      "url:https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1",
+      "gradtracker-e154988d9fb6",
+      "url:https://www.amazon.jobs/en/jobs/10590795/data-engineer-global-logistics-product-analytics-team",
+      "amazon-10588739",
+      "url:https://www.amazon.jobs/en/jobs/10588739/software-development-engineer-strada",
+      "workday-salesforce-JR349383",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Forward-Deployed-Engineer--Technical-Builder-_JR349383"
     ]
   }
 }
