@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-9480117f889e",
-      "seen_at": "2026-09-28T22:01:38.952506+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abac1eb1acb8fc6f09c15dc",
-      "seen_at": "2026-09-28T22:01:38.953531+00:00"
-    },
-    {
-      "id": "amazon-10562737",
-      "seen_at": "2026-09-28T22:01:38.954479+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10562737/applied-scientist-neuro-symbolic-ai-labs",
-      "seen_at": "2026-09-28T22:01:38.955377+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR354592",
-      "seen_at": "2026-09-28T22:01:38.956294+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592",
-      "seen_at": "2026-09-28T22:01:38.957180+00:00"
-    },
-    {
-      "id": "jobright-98b9399fb34a",
-      "seen_at": "2026-09-28T22:01:45.282980+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abab158be5f1e9325116d65",
-      "seen_at": "2026-09-28T22:01:45.283813+00:00"
-    },
-    {
-      "id": "zapply-1d41a6f30679",
-      "seen_at": "2026-09-28T22:01:45.284630+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/apple-200677450",
-      "seen_at": "2026-09-28T22:01:45.285450+00:00"
-    },
-    {
       "id": "zapply-a7d491746434",
       "seen_at": "2026-09-28T22:31:53.498931+00:00"
     },
@@ -27899,16 +27859,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aa9b2aaeff87f571fc9ac24",
       "seen_at": "2026-10-28T22:01:20.797885+00:00"
+    },
+    {
+      "id": "amazon-10591860",
+      "seen_at": "2026-10-28T22:31:16.604625+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10591860/software-development-engineer-amazon-cloud-management-foundations",
+      "seen_at": "2026-10-28T22:31:16.605239+00:00"
     }
   ],
-  "last_run": "2026-10-28T22:01:21.119447+00:00",
-  "total_notified": 10728,
+  "last_run": "2026-10-28T22:31:17.965221+00:00",
+  "total_notified": 10729,
   "channels": {
     "pm-jobs": [
-      "jobright-98b9399fb34a",
-      "url:https://jobright.ai/jobs/info/6abab158be5f1e9325116d65",
-      "zapply-1d41a6f30679",
-      "url:https://zapply.jobs/l/d/apple-200677450",
       "amazon-10562758",
       "url:https://www.amazon.jobs/en/jobs/10562758/product-manager-auto-litigation-support-on-road-incident-management-orim",
       "greenhouse-vercel-6209001004",
@@ -29088,12 +29052,6 @@
       "url:https://jobright.ai/jobs/info/6aa9b2aaeff87f571fc9ac24"
     ],
     "swe-ai-full-time": [
-      "jobright-9480117f889e",
-      "url:https://jobright.ai/jobs/info/6abac1eb1acb8fc6f09c15dc",
-      "amazon-10562737",
-      "url:https://www.amazon.jobs/en/jobs/10562737/applied-scientist-neuro-symbolic-ai-labs",
-      "workday-salesforce-JR354592",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592",
       "zapply-a7d491746434",
       "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000393553",
       "ashby-openai-9909555b-3dc4-4ba2-859e-43eae7c97a34",
@@ -34887,7 +34845,9 @@
       "jobright-07a3094d23a2",
       "url:https://jobright.ai/jobs/info/6ae25aa1eb7e8f715a60d03d",
       "jobright-340c0dcdfc01",
-      "url:https://jobright.ai/jobs/info/6ae259601f9d9308370b0ee4"
+      "url:https://jobright.ai/jobs/info/6ae259601f9d9308370b0ee4",
+      "amazon-10591860",
+      "url:https://www.amazon.jobs/en/jobs/10591860/software-development-engineer-amazon-cloud-management-foundations"
     ]
   }
 }
