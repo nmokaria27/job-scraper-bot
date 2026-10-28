@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-371bdcc5a253",
-      "seen_at": "2026-09-28T14:02:12.691871+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210791791",
-      "seen_at": "2026-09-28T14:02:12.693471+00:00"
-    },
-    {
-      "id": "amazon-10561581",
-      "seen_at": "2026-09-28T14:02:12.694845+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10561581/software-development-engineer",
-      "seen_at": "2026-09-28T14:02:12.696232+00:00"
-    },
-    {
-      "id": "jobright-a9675a1372df",
-      "seen_at": "2026-09-28T14:02:12.698428+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aba602e7220f52e62ae60b5",
-      "seen_at": "2026-09-28T14:02:12.699520+00:00"
-    },
-    {
       "id": "zapply-1661ad82bca7",
       "seen_at": "2026-09-28T14:31:31.868805+00:00"
     },
@@ -27695,10 +27671,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae1eaf8de23f466ec8c0ce4",
       "seen_at": "2026-10-28T14:02:10.572470+00:00"
+    },
+    {
+      "id": "zapply-5296cd88565d",
+      "seen_at": "2026-10-28T14:31:25.847603+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-93771273166824134",
+      "seen_at": "2026-10-28T14:31:25.848153+00:00"
     }
   ],
-  "last_run": "2026-10-28T14:02:11.476280+00:00",
-  "total_notified": 10625,
+  "last_run": "2026-10-28T14:31:26.051834+00:00",
+  "total_notified": 10626,
   "channels": {
     "pm-jobs": [
       "zapply-682cf57ba487",
@@ -28874,15 +28858,11 @@
       "zapply-507629dcf151",
       "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26012191",
       "zapply-1bd41af42bb6",
-      "url:https://zapply.jobs/l/d/deshaw-5910"
+      "url:https://zapply.jobs/l/d/deshaw-5910",
+      "zapply-5296cd88565d",
+      "url:https://zapply.jobs/l/d/google-93771273166824134"
     ],
     "swe-ai-full-time": [
-      "zapply-371bdcc5a253",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210791791",
-      "amazon-10561581",
-      "url:https://www.amazon.jobs/en/jobs/10561581/software-development-engineer",
-      "jobright-a9675a1372df",
-      "url:https://jobright.ai/jobs/info/6aba602e7220f52e62ae60b5",
       "zapply-1661ad82bca7",
       "url:https://zapply.jobs/l/d/amazon-14339f9f-2551-464a-8989-8731b7a4738b",
       "zapply-e3524d1e9ad3",
