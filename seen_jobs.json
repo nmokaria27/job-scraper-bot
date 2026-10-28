@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-1aad0f63fdec",
-      "seen_at": "2026-09-28T20:01:54.082364+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3166863",
-      "seen_at": "2026-09-28T20:01:54.083396+00:00"
-    },
-    {
-      "id": "amazon-10562446",
-      "seen_at": "2026-09-28T20:01:54.084313+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10562446/software-development-engineer-distributed-services",
-      "seen_at": "2026-09-28T20:01:54.085205+00:00"
-    },
-    {
-      "id": "zapply-66e72a10fd27",
-      "seen_at": "2026-09-28T20:01:59.243901+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000372737",
-      "seen_at": "2026-09-28T20:01:59.244799+00:00"
-    },
-    {
       "id": "zapply-07aa2cdcb0b4",
       "seen_at": "2026-09-28T21:01:44.096005+00:00"
     },
@@ -27843,14 +27819,60 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae22f81eb7e8f715a60b4c3",
       "seen_at": "2026-10-28T20:01:19.971137+00:00"
+    },
+    {
+      "id": "zapply-189f56d08265",
+      "seen_at": "2026-10-28T20:31:13.033568+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-sherwin-williams-2627789",
+      "seen_at": "2026-10-28T20:31:13.034138+00:00"
+    },
+    {
+      "id": "applyguy-bc47f456-a0b4-4b0b-af66-12765bb58a49",
+      "seen_at": "2026-10-28T20:31:13.034668+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/grvty/jobs/4470580009",
+      "seen_at": "2026-10-28T20:31:13.035119+00:00"
+    },
+    {
+      "id": "amazon-10591736",
+      "seen_at": "2026-10-28T20:31:13.035577+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10591736/software-development-engineer-onemhs",
+      "seen_at": "2026-10-28T20:31:13.036038+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2023435",
+      "seen_at": "2026-10-28T20:31:13.036485+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineer--SONiC_JR2023435",
+      "seen_at": "2026-10-28T20:31:13.036936+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR363682",
+      "seen_at": "2026-10-28T20:31:13.037378+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Access---AI-Enablement-Engineer--MTS-_JR363682",
+      "seen_at": "2026-10-28T20:31:13.037840+00:00"
+    },
+    {
+      "id": "zapply-bcd7bcb02858",
+      "seen_at": "2026-10-28T20:31:15.259785+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-tt-thorntontomasetti-R7538",
+      "seen_at": "2026-10-28T20:31:15.260299+00:00"
     }
   ],
-  "last_run": "2026-10-28T20:01:21.299276+00:00",
-  "total_notified": 10697,
+  "last_run": "2026-10-28T20:31:15.444717+00:00",
+  "total_notified": 10703,
   "channels": {
     "pm-jobs": [
-      "zapply-66e72a10fd27",
-      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000372737",
       "jobright-4ef879402abf",
       "url:https://jobright.ai/jobs/info/6abab136ee0b348be729aed4",
       "jobright-204263666c36",
@@ -29027,13 +29049,11 @@
       "jobright-8de25206e33e",
       "url:https://jobright.ai/jobs/info/6ae23785de23f466ec8c4197",
       "jobright-2e4c02ecb727",
-      "url:https://jobright.ai/jobs/info/6ae22f81eb7e8f715a60b4c3"
+      "url:https://jobright.ai/jobs/info/6ae22f81eb7e8f715a60b4c3",
+      "zapply-bcd7bcb02858",
+      "url:https://zapply.jobs/l/d/workday-tt-thorntontomasetti-R7538"
     ],
     "swe-ai-full-time": [
-      "zapply-1aad0f63fdec",
-      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3166863",
-      "amazon-10562446",
-      "url:https://www.amazon.jobs/en/jobs/10562446/software-development-engineer-distributed-services",
       "zapply-07aa2cdcb0b4",
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026511462",
       "jobright-151edc605294",
@@ -34817,7 +34837,17 @@
       "gradtracker-d2673cb12964",
       "url:https://careers.oracle.com/jobs",
       "amazon-10589564",
-      "url:https://www.amazon.jobs/en/jobs/10589564/software-development-engineer-trainium-systems"
+      "url:https://www.amazon.jobs/en/jobs/10589564/software-development-engineer-trainium-systems",
+      "zapply-189f56d08265",
+      "url:https://zapply.jobs/l/d/oracle-sherwin-williams-2627789",
+      "applyguy-bc47f456-a0b4-4b0b-af66-12765bb58a49",
+      "url:https://job-boards.greenhouse.io/grvty/jobs/4470580009",
+      "amazon-10591736",
+      "url:https://www.amazon.jobs/en/jobs/10591736/software-development-engineer-onemhs",
+      "workday-nvidia-JR2023435",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineer--SONiC_JR2023435",
+      "workday-salesforce-JR363682",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Access---AI-Enablement-Engineer--MTS-_JR363682"
     ]
   }
 }
