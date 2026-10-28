@@ -27535,10 +27535,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363327",
       "seen_at": "2026-10-28T01:31:08.593408+00:00"
+    },
+    {
+      "id": "jobright-73ea31fae493",
+      "seen_at": "2026-10-28T02:01:19.088543+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae13bfc829a3bada15fbb9e",
+      "seen_at": "2026-10-28T02:01:19.088881+00:00"
+    },
+    {
+      "id": "jobright-79360f99d42f",
+      "seen_at": "2026-10-28T02:01:19.089181+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae139a967c31ab3489a19f0",
+      "seen_at": "2026-10-28T02:01:19.089455+00:00"
+    },
+    {
+      "id": "jobright-10d5303559bf",
+      "seen_at": "2026-10-28T02:01:19.089711+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae10f4667c31ab3489a0275",
+      "seen_at": "2026-10-28T02:01:19.089951+00:00"
+    },
+    {
+      "id": "zapply-507629dcf151",
+      "seen_at": "2026-10-28T02:01:21.026609+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26012191",
+      "seen_at": "2026-10-28T02:01:21.026895+00:00"
     }
   ],
-  "last_run": "2026-10-28T01:31:09.397286+00:00",
-  "total_notified": 10588,
+  "last_run": "2026-10-28T02:01:21.266843+00:00",
+  "total_notified": 10592,
   "channels": {
     "pm-jobs": [
       "zapply-1bd41af42bb6",
@@ -28718,7 +28750,9 @@
       "zapply-ee21b3b39ca4",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029002",
       "amazon-10590748",
-      "url:https://www.amazon.jobs/en/jobs/10590748/procore-product-manager-worldwide-grocery-stores-growth-development"
+      "url:https://www.amazon.jobs/en/jobs/10590748/procore-product-manager-worldwide-grocery-stores-growth-development",
+      "zapply-507629dcf151",
+      "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26012191"
     ],
     "swe-ai-full-time": [
       "jobright-5ffd68f211e0",
@@ -34432,7 +34466,13 @@
       "jobright-1e8bafb98155",
       "url:https://jobright.ai/jobs/info/6ae12c2567c31ab3489a132e",
       "zapply-75170a5b3931",
-      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363327"
+      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363327",
+      "jobright-73ea31fae493",
+      "url:https://jobright.ai/jobs/info/6ae13bfc829a3bada15fbb9e",
+      "jobright-79360f99d42f",
+      "url:https://jobright.ai/jobs/info/6ae139a967c31ab3489a19f0",
+      "jobright-10d5303559bf",
+      "url:https://jobright.ai/jobs/info/6ae10f4667c31ab3489a0275"
     ]
   }
 }
