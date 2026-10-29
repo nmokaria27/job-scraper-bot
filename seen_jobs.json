@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-61e2ad75e55d",
-      "seen_at": "2026-09-29T20:31:30.648003+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392617",
-      "seen_at": "2026-09-29T20:31:30.649211+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8239985",
-      "seen_at": "2026-09-29T20:31:30.650058+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8239985",
-      "seen_at": "2026-09-29T20:31:30.650800+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8239930",
-      "seen_at": "2026-09-29T20:31:30.651551+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8239930",
-      "seen_at": "2026-09-29T20:31:30.652275+00:00"
-    },
-    {
-      "id": "zapply-7a9ebdaa7427",
-      "seen_at": "2026-09-29T20:31:37.264143+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-Eurofins-744000152525630",
-      "seen_at": "2026-09-29T20:31:37.265171+00:00"
-    },
-    {
-      "id": "zapply-775ac3f4b26b",
-      "seen_at": "2026-09-29T20:31:37.265922+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2134304",
-      "seen_at": "2026-09-29T20:31:37.266580+00:00"
-    },
-    {
       "id": "jobright-c5c2d7f28d96",
       "seen_at": "2026-09-29T21:01:24.782403+00:00"
     },
@@ -27651,16 +27611,92 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36421",
       "seen_at": "2026-10-29T20:31:15.436386+00:00"
+    },
+    {
+      "id": "zapply-b35441c5aed2",
+      "seen_at": "2026-10-29T21:01:24.498199+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-34933",
+      "seen_at": "2026-10-29T21:01:24.498699+00:00"
+    },
+    {
+      "id": "jobright-56570a758535",
+      "seen_at": "2026-10-29T21:01:24.499168+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae39e45d7424a2a828e1740",
+      "seen_at": "2026-10-29T21:01:24.499577+00:00"
+    },
+    {
+      "id": "jobright-eb58cbe70167",
+      "seen_at": "2026-10-29T21:01:24.500001+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae39afafb2cd420ace52770",
+      "seen_at": "2026-10-29T21:01:24.500397+00:00"
+    },
+    {
+      "id": "jobright-d90e74fba909",
+      "seen_at": "2026-10-29T21:01:24.500791+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae397b3eab1f967309757e0",
+      "seen_at": "2026-10-29T21:01:24.501184+00:00"
+    },
+    {
+      "id": "jobright-79e016c34199",
+      "seen_at": "2026-10-29T21:01:24.501571+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae38fd0eab1f9673097528c",
+      "seen_at": "2026-10-29T21:01:24.501983+00:00"
+    },
+    {
+      "id": "jobright-564ba933a17d",
+      "seen_at": "2026-10-29T21:01:24.502375+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abad945ee0b348be729be09",
+      "seen_at": "2026-10-29T21:01:24.502741+00:00"
+    },
+    {
+      "id": "jobright-92900aaa26e1",
+      "seen_at": "2026-10-29T21:01:24.503165+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada980c3a69033df225ac43",
+      "seen_at": "2026-10-29T21:01:24.503550+00:00"
+    },
+    {
+      "id": "amazon-10593026",
+      "seen_at": "2026-10-29T21:01:24.503965+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10593026/applied-scientist-amazon-robotics",
+      "seen_at": "2026-10-29T21:01:24.504334+00:00"
+    },
+    {
+      "id": "jobright-7e23fec556ce",
+      "seen_at": "2026-10-29T21:01:24.504718+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae393df77c09cb3bd4a7310",
+      "seen_at": "2026-10-29T21:01:24.505116+00:00"
+    },
+    {
+      "id": "jobright-7e33bf2e7ab3",
+      "seen_at": "2026-10-29T21:01:24.505517+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3994aeab1f967309758c1",
+      "seen_at": "2026-10-29T21:01:24.505908+00:00"
     }
   ],
-  "last_run": "2026-10-29T20:31:15.733206+00:00",
-  "total_notified": 10844,
+  "last_run": "2026-10-29T21:01:25.662499+00:00",
+  "total_notified": 10854,
   "channels": {
     "pm-jobs": [
-      "zapply-7a9ebdaa7427",
-      "url:https://zapply.jobs/l/d/sr-Eurofins-744000152525630",
-      "zapply-775ac3f4b26b",
-      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2134304",
       "greenhouse-drweng-8238021",
       "url:https://job-boards.greenhouse.io/drweng/jobs/8238021",
       "greenhouse-drweng-8221691",
@@ -28834,12 +28870,6 @@
       "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36421"
     ],
     "swe-ai-full-time": [
-      "zapply-61e2ad75e55d",
-      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392617",
-      "greenhouse-airbnb-8239985",
-      "url:https://careers.airbnb.com/positions/8239985",
-      "greenhouse-airbnb-8239930",
-      "url:https://careers.airbnb.com/positions/8239930",
       "jobright-c5c2d7f28d96",
       "url:https://jobright.ai/jobs/info/6abc0690d6acfd3dd29fb9fe",
       "jobright-87c7cd608807",
@@ -34577,7 +34607,27 @@
       "amazon-10592978",
       "url:https://www.amazon.jobs/en/jobs/10592978/software-development-engineer-audible-ai-voice-production",
       "amazon-10591902",
-      "url:https://www.amazon.jobs/en/jobs/10591902/software-development-engineer-frustration-free-setup"
+      "url:https://www.amazon.jobs/en/jobs/10591902/software-development-engineer-frustration-free-setup",
+      "zapply-b35441c5aed2",
+      "url:https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-34933",
+      "jobright-56570a758535",
+      "url:https://jobright.ai/jobs/info/6ae39e45d7424a2a828e1740",
+      "jobright-eb58cbe70167",
+      "url:https://jobright.ai/jobs/info/6ae39afafb2cd420ace52770",
+      "jobright-d90e74fba909",
+      "url:https://jobright.ai/jobs/info/6ae397b3eab1f967309757e0",
+      "jobright-79e016c34199",
+      "url:https://jobright.ai/jobs/info/6ae38fd0eab1f9673097528c",
+      "jobright-564ba933a17d",
+      "url:https://jobright.ai/jobs/info/6abad945ee0b348be729be09",
+      "jobright-92900aaa26e1",
+      "url:https://jobright.ai/jobs/info/6ada980c3a69033df225ac43",
+      "amazon-10593026",
+      "url:https://www.amazon.jobs/en/jobs/10593026/applied-scientist-amazon-robotics",
+      "jobright-7e23fec556ce",
+      "url:https://jobright.ai/jobs/info/6ae393df77c09cb3bd4a7310",
+      "jobright-7e33bf2e7ab3",
+      "url:https://jobright.ai/jobs/info/6ae3994aeab1f967309758c1"
     ]
   }
 }
