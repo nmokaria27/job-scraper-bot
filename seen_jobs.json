@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-23dfd8e4-f91c-43b3-87fc-4ea57c85e129",
-      "seen_at": "2026-09-29T02:31:47.420892+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/spacex/jobs/8854394002",
-      "seen_at": "2026-09-29T02:31:47.422003+00:00"
-    },
-    {
       "id": "zapply-f188052501e4",
       "seen_at": "2026-09-29T03:01:22.477231+00:00"
     },
@@ -27731,10 +27723,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae2899f05a39c3e2c71b2d7",
       "seen_at": "2026-10-29T02:01:58.216234+00:00"
+    },
+    {
+      "id": "jobright-0898fd9ce639",
+      "seen_at": "2026-10-29T03:01:18.426117+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae298171f9d9308370b339b",
+      "seen_at": "2026-10-29T03:01:18.426548+00:00"
+    },
+    {
+      "id": "jobright-f7d9a61c0e59",
+      "seen_at": "2026-10-29T03:01:18.426904+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae180a2829a3bada15fda89",
+      "seen_at": "2026-10-29T03:01:18.427227+00:00"
     }
   ],
-  "last_run": "2026-10-29T02:31:11.638546+00:00",
-  "total_notified": 10753,
+  "last_run": "2026-10-29T03:01:19.245826+00:00",
+  "total_notified": 10755,
   "channels": {
     "pm-jobs": [
       "jobright-e9ff53249b9c",
@@ -28904,8 +28912,6 @@
       "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1"
     ],
     "swe-ai-full-time": [
-      "simplify-23dfd8e4-f91c-43b3-87fc-4ea57c85e129",
-      "url:https://boards.greenhouse.io/spacex/jobs/8854394002",
       "zapply-f188052501e4",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025643",
       "greenhouse-anthropic-5437172008",
@@ -34677,7 +34683,11 @@
       "jobright-acbecc0de023",
       "url:https://jobright.ai/jobs/info/6ae289a71f9d9308370b2db0",
       "jobright-9832b16c8934",
-      "url:https://jobright.ai/jobs/info/6ae2899f05a39c3e2c71b2d7"
+      "url:https://jobright.ai/jobs/info/6ae2899f05a39c3e2c71b2d7",
+      "jobright-0898fd9ce639",
+      "url:https://jobright.ai/jobs/info/6ae298171f9d9308370b339b",
+      "jobright-f7d9a61c0e59",
+      "url:https://jobright.ai/jobs/info/6ae180a2829a3bada15fda89"
     ]
   }
 }
