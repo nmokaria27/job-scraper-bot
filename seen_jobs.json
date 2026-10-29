@@ -27683,10 +27683,34 @@
     {
       "id": "url:https://go.vansh.nyc/YT",
       "seen_at": "2026-10-29T11:31:24.133201+00:00"
+    },
+    {
+      "id": "simplify-72b18e7d-621d-41bb-8752-697fd3edb89d",
+      "seen_at": "2026-10-29T13:01:34.193601+00:00"
+    },
+    {
+      "id": "url:https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1",
+      "seen_at": "2026-10-29T13:01:34.194162+00:00"
+    },
+    {
+      "id": "jobright-708aa353333c",
+      "seen_at": "2026-10-29T13:01:34.194666+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae32feed45dc30fb7d27b30",
+      "seen_at": "2026-10-29T13:01:34.195148+00:00"
+    },
+    {
+      "id": "jobright-8e9ebeb8c0c4",
+      "seen_at": "2026-10-29T13:01:34.195614+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae32729eab1f96730972368",
+      "seen_at": "2026-10-29T13:01:34.196081+00:00"
     }
   ],
-  "last_run": "2026-10-29T12:31:38.482635+00:00",
-  "total_notified": 10776,
+  "last_run": "2026-10-29T13:01:35.385139+00:00",
+  "total_notified": 10779,
   "channels": {
     "pm-jobs": [
       "zapply-cc6d7e8a33ff",
@@ -34617,7 +34641,13 @@
       "jobright-e5327ccf5392",
       "url:https://jobright.ai/jobs/info/6ae30b1beab1f96730971d0f",
       "simplify-e78b1a4b-b509-48db-8088-7f3e6583b505",
-      "url:https://go.vansh.nyc/YT"
+      "url:https://go.vansh.nyc/YT",
+      "simplify-72b18e7d-621d-41bb-8752-697fd3edb89d",
+      "url:https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1",
+      "jobright-708aa353333c",
+      "url:https://jobright.ai/jobs/info/6ae32feed45dc30fb7d27b30",
+      "jobright-8e9ebeb8c0c4",
+      "url:https://jobright.ai/jobs/info/6ae32729eab1f96730972368"
     ]
   }
 }
