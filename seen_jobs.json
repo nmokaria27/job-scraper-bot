@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "applyguy-bf7f22f9-6a8e-4806-8c2f-f1b337b6bbfd",
-      "seen_at": "2026-09-29T00:31:12.173444+00:00"
-    },
-    {
-      "id": "url:https://ats.rippling.com/momentumcareers/jobs/4814716a-3d10-4dbf-9d13-b1d3e46b18de",
-      "seen_at": "2026-09-29T00:31:12.174426+00:00"
-    },
-    {
-      "id": "applyguy-36338c1a-01ee-4c02-aa12-0f8c3bb22c14",
-      "seen_at": "2026-09-29T00:31:12.175318+00:00"
-    },
-    {
-      "id": "url:https://wattswater.wd5.myworkdayjobs.com/external/job/Blauvelt-NY/Software-Engineer-I_10017656",
-      "seen_at": "2026-09-29T00:31:12.176204+00:00"
-    },
-    {
-      "id": "zapply-392d865525db",
-      "seen_at": "2026-09-29T00:31:12.177111+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26010880",
-      "seen_at": "2026-09-29T00:31:12.177994+00:00"
-    },
-    {
-      "id": "zapply-18899c406749",
-      "seen_at": "2026-09-29T00:31:12.178900+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-freddiemac-external-JR17645",
-      "seen_at": "2026-09-29T00:31:12.179783+00:00"
-    },
-    {
-      "id": "workday-nvidia-JR2022366",
-      "seen_at": "2026-09-29T00:31:18.710415+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Product-Manager_JR2022366",
-      "seen_at": "2026-09-29T00:31:18.711323+00:00"
-    },
-    {
       "id": "jobright-f626a01e0915",
       "seen_at": "2026-09-29T01:01:21.092842+00:00"
     },
@@ -27827,14 +27787,28 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10588976/software-development-engineer-amazon-quick",
       "seen_at": "2026-10-29T00:31:07.568511+00:00"
+    },
+    {
+      "id": "jobright-2ffd7da0a876",
+      "seen_at": "2026-10-29T01:01:25.651578+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae27ecb05a39c3e2c71af3f",
+      "seen_at": "2026-10-29T01:01:25.652051+00:00"
+    },
+    {
+      "id": "jobright-098b3d6f69da",
+      "seen_at": "2026-10-29T01:01:25.652419+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae23c5105a39c3e2c71826b",
+      "seen_at": "2026-10-29T01:01:25.652737+00:00"
     }
   ],
-  "last_run": "2026-10-29T00:31:08.391745+00:00",
-  "total_notified": 10748,
+  "last_run": "2026-10-29T01:01:26.577872+00:00",
+  "total_notified": 10750,
   "channels": {
     "pm-jobs": [
-      "workday-nvidia-JR2022366",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Product-Manager_JR2022366",
       "jobright-25f7f9de1c1e",
       "url:https://jobright.ai/jobs/info/6abaed65be5f1e93251182de",
       "simplify-7d050728-7de3-411e-a5c4-80af3092d319",
@@ -29006,14 +28980,6 @@
       "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1"
     ],
     "swe-ai-full-time": [
-      "applyguy-bf7f22f9-6a8e-4806-8c2f-f1b337b6bbfd",
-      "url:https://ats.rippling.com/momentumcareers/jobs/4814716a-3d10-4dbf-9d13-b1d3e46b18de",
-      "applyguy-36338c1a-01ee-4c02-aa12-0f8c3bb22c14",
-      "url:https://wattswater.wd5.myworkdayjobs.com/external/job/Blauvelt-NY/Software-Engineer-I_10017656",
-      "zapply-392d865525db",
-      "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26010880",
-      "zapply-18899c406749",
-      "url:https://zapply.jobs/l/d/workday-freddiemac-external-JR17645",
       "jobright-f626a01e0915",
       "url:https://jobright.ai/jobs/info/6ab56d0c9d4843569fe499d2",
       "jobright-c3a3d1ffcaa9",
@@ -34797,7 +34763,11 @@
       "gradtracker-bc5cca3250ba",
       "url:https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer--Admin-Central_JR-0111194",
       "gradtracker-5c38665c9f50",
-      "url:https://www.amazon.jobs/en/jobs/10588976/software-development-engineer-amazon-quick"
+      "url:https://www.amazon.jobs/en/jobs/10588976/software-development-engineer-amazon-quick",
+      "jobright-2ffd7da0a876",
+      "url:https://jobright.ai/jobs/info/6ae27ecb05a39c3e2c71af3f",
+      "jobright-098b3d6f69da",
+      "url:https://jobright.ai/jobs/info/6ae23c5105a39c3e2c71826b"
     ]
   }
 }
