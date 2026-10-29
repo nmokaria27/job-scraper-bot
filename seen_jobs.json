@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-f99ea53d6e60",
-      "seen_at": "2026-09-29T19:31:13.065043+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-anthropic-5438044008",
-      "seen_at": "2026-09-29T19:31:13.065748+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5438044008",
-      "seen_at": "2026-09-29T19:31:13.066369+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5438044008",
-      "seen_at": "2026-09-29T19:31:13.066959+00:00"
-    },
-    {
-      "id": "zapply-91155d73c3e3",
-      "seen_at": "2026-09-29T19:31:13.067555+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-anthropic-5438030008",
-      "seen_at": "2026-09-29T19:31:13.068127+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5438030008",
-      "seen_at": "2026-09-29T19:31:13.068690+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5438030008",
-      "seen_at": "2026-09-29T19:31:13.069290+00:00"
-    },
-    {
-      "id": "zapply-322292b8570d",
-      "seen_at": "2026-09-29T19:31:13.069913+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-drweng-8230509",
-      "seen_at": "2026-09-29T19:31:13.070664+00:00"
-    },
-    {
-      "id": "amazon-10564243",
-      "seen_at": "2026-09-29T19:31:17.644679+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10564243/technical-program-manager-enterprise-data-catalog",
-      "seen_at": "2026-09-29T19:31:17.645367+00:00"
-    },
-    {
       "id": "jobright-b95cee90fd31",
       "seen_at": "2026-09-29T20:01:27.598710+00:00"
     },
@@ -27571,14 +27523,156 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10592906/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services",
       "seen_at": "2026-10-29T19:31:33.823196+00:00"
+    },
+    {
+      "id": "zapply-0454a8407645",
+      "seen_at": "2026-10-29T20:02:10.908018+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-axon-8040053003",
+      "seen_at": "2026-10-29T20:02:10.908553+00:00"
+    },
+    {
+      "id": "jobright-f4787255ce9f",
+      "seen_at": "2026-10-29T20:02:10.909082+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae38e6ec3139b475b5ae272",
+      "seen_at": "2026-10-29T20:02:10.909586+00:00"
+    },
+    {
+      "id": "jobright-3f2bcf855e15",
+      "seen_at": "2026-10-29T20:02:10.910062+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae38cddc3139b475b5ae199",
+      "seen_at": "2026-10-29T20:02:10.910503+00:00"
+    },
+    {
+      "id": "jobright-bc92cf062765",
+      "seen_at": "2026-10-29T20:02:10.910982+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae38c91d7424a2a828e0c76",
+      "seen_at": "2026-10-29T20:02:10.911432+00:00"
+    },
+    {
+      "id": "jobright-513f22d3ddae",
+      "seen_at": "2026-10-29T20:02:10.911916+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae38bafd45dc30fb7d2a70c",
+      "seen_at": "2026-10-29T20:02:10.912354+00:00"
+    },
+    {
+      "id": "jobright-82d58ee90b3c",
+      "seen_at": "2026-10-29T20:02:10.912820+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae38aa8d7424a2a828e0b02",
+      "seen_at": "2026-10-29T20:02:10.913270+00:00"
+    },
+    {
+      "id": "jobright-68f4aec86c31",
+      "seen_at": "2026-10-29T20:02:10.913722+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae389deeab1f96730974ea7",
+      "seen_at": "2026-10-29T20:02:10.914172+00:00"
+    },
+    {
+      "id": "jobright-2bc2903b09a7",
+      "seen_at": "2026-10-29T20:02:10.914623+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae388f3eab1f96730974e49",
+      "seen_at": "2026-10-29T20:02:10.915072+00:00"
+    },
+    {
+      "id": "jobright-30c668503300",
+      "seen_at": "2026-10-29T20:02:10.915529+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb2a709e3e874dbfb9e9b0",
+      "seen_at": "2026-10-29T20:02:10.915980+00:00"
+    },
+    {
+      "id": "jobright-36cd15d4ffb2",
+      "seen_at": "2026-10-29T20:02:10.916434+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae38668c3139b475b5adddb",
+      "seen_at": "2026-10-29T20:02:10.916884+00:00"
+    },
+    {
+      "id": "jobright-89afea4ce6ea",
+      "seen_at": "2026-10-29T20:02:10.917329+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9512128e24cb385139ad3",
+      "seen_at": "2026-10-29T20:02:10.917780+00:00"
+    },
+    {
+      "id": "gradtracker-e11580290d55",
+      "seen_at": "2026-10-29T20:02:10.918229+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10592334/data-engineer-ww-ops-finance-s-a",
+      "seen_at": "2026-10-29T20:02:10.918670+00:00"
+    },
+    {
+      "id": "gradtracker-04dd53ad77bf",
+      "seen_at": "2026-10-29T20:02:10.919129+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000158572484",
+      "seen_at": "2026-10-29T20:02:10.919569+00:00"
+    },
+    {
+      "id": "amazon-10592923",
+      "seen_at": "2026-10-29T20:02:10.920032+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10592923/embedded-software-dev-engineer-amazon-leo-customer-terminal-software",
+      "seen_at": "2026-10-29T20:02:10.920475+00:00"
+    },
+    {
+      "id": "amazon-10592922",
+      "seen_at": "2026-10-29T20:02:10.920926+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10592922/embedded-software-dev-engineer-amazon-leo",
+      "seen_at": "2026-10-29T20:02:10.921358+00:00"
+    },
+    {
+      "id": "amazon-10592909",
+      "seen_at": "2026-10-29T20:02:10.921806+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10592909/software-development-engineer-amazon-cloud-management-foundations",
+      "seen_at": "2026-10-29T20:02:10.922246+00:00"
+    },
+    {
+      "id": "jobright-e7f6b21d9a63",
+      "seen_at": "2026-10-29T20:02:10.922684+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae38664fb2cd420ace51af4",
+      "seen_at": "2026-10-29T20:02:10.923141+00:00"
+    },
+    {
+      "id": "zapply-fd6bdb8d9483",
+      "seen_at": "2026-10-29T20:02:12.963028+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026770",
+      "seen_at": "2026-10-29T20:02:12.963574+00:00"
     }
   ],
-  "last_run": "2026-10-29T19:31:34.909474+00:00",
-  "total_notified": 10823,
+  "last_run": "2026-10-29T20:02:13.817453+00:00",
+  "total_notified": 10841,
   "channels": {
     "pm-jobs": [
-      "amazon-10564243",
-      "url:https://www.amazon.jobs/en/jobs/10564243/technical-program-manager-enterprise-data-catalog",
       "zapply-7a9ebdaa7427",
       "url:https://zapply.jobs/l/d/sr-Eurofins-744000152525630",
       "zapply-775ac3f4b26b",
@@ -28749,19 +28843,11 @@
       "zapply-5c355c201a9f",
       "url:https://zapply.jobs/l/d/workday-relx-relx-R119974",
       "zapply-34774e131cea",
-      "url:https://zapply.jobs/l/d/workday-relx-risksolutions-R119974"
+      "url:https://zapply.jobs/l/d/workday-relx-risksolutions-R119974",
+      "zapply-fd6bdb8d9483",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026770"
     ],
     "swe-ai-full-time": [
-      "zapply-f99ea53d6e60",
-      "url:https://zapply.jobs/l/d/greenhouse-anthropic-5438044008",
-      "greenhouse-anthropic-5438044008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5438044008",
-      "zapply-91155d73c3e3",
-      "url:https://zapply.jobs/l/d/greenhouse-anthropic-5438030008",
-      "greenhouse-anthropic-5438030008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5438030008",
-      "zapply-322292b8570d",
-      "url:https://zapply.jobs/l/d/greenhouse-drweng-8230509",
       "jobright-b95cee90fd31",
       "url:https://jobright.ai/jobs/info/6abbbec67119e56191ce905a",
       "jobright-446eebda23b0",
@@ -34477,7 +34563,41 @@
       "amazon-10592908",
       "url:https://www.amazon.jobs/en/jobs/10592908/software-development-engineer-amazon-cloud-management-foundations",
       "amazon-10592906",
-      "url:https://www.amazon.jobs/en/jobs/10592906/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services"
+      "url:https://www.amazon.jobs/en/jobs/10592906/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services",
+      "zapply-0454a8407645",
+      "url:https://zapply.jobs/l/d/greenhouse-axon-8040053003",
+      "jobright-f4787255ce9f",
+      "url:https://jobright.ai/jobs/info/6ae38e6ec3139b475b5ae272",
+      "jobright-3f2bcf855e15",
+      "url:https://jobright.ai/jobs/info/6ae38cddc3139b475b5ae199",
+      "jobright-bc92cf062765",
+      "url:https://jobright.ai/jobs/info/6ae38c91d7424a2a828e0c76",
+      "jobright-513f22d3ddae",
+      "url:https://jobright.ai/jobs/info/6ae38bafd45dc30fb7d2a70c",
+      "jobright-82d58ee90b3c",
+      "url:https://jobright.ai/jobs/info/6ae38aa8d7424a2a828e0b02",
+      "jobright-68f4aec86c31",
+      "url:https://jobright.ai/jobs/info/6ae389deeab1f96730974ea7",
+      "jobright-2bc2903b09a7",
+      "url:https://jobright.ai/jobs/info/6ae388f3eab1f96730974e49",
+      "jobright-30c668503300",
+      "url:https://jobright.ai/jobs/info/6adb2a709e3e874dbfb9e9b0",
+      "jobright-36cd15d4ffb2",
+      "url:https://jobright.ai/jobs/info/6ae38668c3139b475b5adddb",
+      "jobright-89afea4ce6ea",
+      "url:https://jobright.ai/jobs/info/6aa9512128e24cb385139ad3",
+      "gradtracker-e11580290d55",
+      "url:https://www.amazon.jobs/en/jobs/10592334/data-engineer-ww-ops-finance-s-a",
+      "gradtracker-04dd53ad77bf",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000158572484",
+      "amazon-10592923",
+      "url:https://www.amazon.jobs/en/jobs/10592923/embedded-software-dev-engineer-amazon-leo-customer-terminal-software",
+      "amazon-10592922",
+      "url:https://www.amazon.jobs/en/jobs/10592922/embedded-software-dev-engineer-amazon-leo",
+      "amazon-10592909",
+      "url:https://www.amazon.jobs/en/jobs/10592909/software-development-engineer-amazon-cloud-management-foundations",
+      "jobright-e7f6b21d9a63",
+      "url:https://jobright.ai/jobs/info/6ae38664fb2cd420ace51af4"
     ]
   }
 }
