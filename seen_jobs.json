@@ -27659,10 +27659,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2623165",
       "seen_at": "2026-10-29T10:31:25.689443+00:00"
+    },
+    {
+      "id": "simplify-92bf3646-4a8c-41d1-b24c-c18e53318dfd",
+      "seen_at": "2026-10-29T11:01:21.894559+00:00"
+    },
+    {
+      "id": "url:https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720",
+      "seen_at": "2026-10-29T11:01:21.895180+00:00"
+    },
+    {
+      "id": "jobright-403bcbab7800",
+      "seen_at": "2026-10-29T11:01:21.895749+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac64bbf372c01f6cd73c66b",
+      "seen_at": "2026-10-29T11:01:21.896334+00:00"
+    },
+    {
+      "id": "jobright-471228bf51fe",
+      "seen_at": "2026-10-29T11:01:21.896864+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae30b2bd7424a2a828dd957",
+      "seen_at": "2026-10-29T11:01:21.897335+00:00"
+    },
+    {
+      "id": "jobright-e5327ccf5392",
+      "seen_at": "2026-10-29T11:01:21.897812+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae30b1beab1f96730971d0f",
+      "seen_at": "2026-10-29T11:01:21.898259+00:00"
+    },
+    {
+      "id": "jobright-855d884effdb",
+      "seen_at": "2026-10-29T11:01:23.839690+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae308e0684c93aab88cbd12",
+      "seen_at": "2026-10-29T11:01:23.840144+00:00"
     }
   ],
-  "last_run": "2026-10-29T10:31:26.295426+00:00",
-  "total_notified": 10770,
+  "last_run": "2026-10-29T11:01:24.029237+00:00",
+  "total_notified": 10775,
   "channels": {
     "pm-jobs": [
       "jobright-8faf3bec5d90",
@@ -28829,7 +28869,9 @@
       "simplify-4431f556-5dd2-40af-a033-fd9e11080647",
       "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1",
       "zapply-b63a8f5ccd2b",
-      "url:https://zapply.jobs/l/d/workday-amat-external-R2623165"
+      "url:https://zapply.jobs/l/d/workday-amat-external-R2623165",
+      "jobright-855d884effdb",
+      "url:https://jobright.ai/jobs/info/6ae308e0684c93aab88cbd12"
     ],
     "swe-ai-full-time": [
       "jobright-929c4f333413",
@@ -34587,7 +34629,15 @@
       "jobright-767f6180d372",
       "url:https://jobright.ai/jobs/info/6ae2a9f6829a3bada160674c",
       "workday-salesforce-JR363327",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR363327"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR363327",
+      "simplify-92bf3646-4a8c-41d1-b24c-c18e53318dfd",
+      "url:https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720",
+      "jobright-403bcbab7800",
+      "url:https://jobright.ai/jobs/info/6ac64bbf372c01f6cd73c66b",
+      "jobright-471228bf51fe",
+      "url:https://jobright.ai/jobs/info/6ae30b2bd7424a2a828dd957",
+      "jobright-e5327ccf5392",
+      "url:https://jobright.ai/jobs/info/6ae30b1beab1f96730971d0f"
     ]
   }
 }
