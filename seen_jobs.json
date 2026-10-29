@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "applyguy-afe25188-427f-48a7-83c1-69c0120048e3",
-      "seen_at": "2026-09-29T00:01:19.171288+00:00"
-    },
-    {
-      "id": "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171612",
-      "seen_at": "2026-09-29T00:01:19.172290+00:00"
-    },
-    {
       "id": "applyguy-bf7f22f9-6a8e-4806-8c2f-f1b337b6bbfd",
       "seen_at": "2026-09-29T00:31:12.173444+00:00"
     },
@@ -27819,10 +27811,26 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10591904/software-development-engineer-devices-software-services",
       "seen_at": "2026-10-29T00:01:36.103720+00:00"
+    },
+    {
+      "id": "gradtracker-bc5cca3250ba",
+      "seen_at": "2026-10-29T00:31:07.567694+00:00"
+    },
+    {
+      "id": "url:https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer--Admin-Central_JR-0111194",
+      "seen_at": "2026-10-29T00:31:07.568006+00:00"
+    },
+    {
+      "id": "gradtracker-5c38665c9f50",
+      "seen_at": "2026-10-29T00:31:07.568266+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10588976/software-development-engineer-amazon-quick",
+      "seen_at": "2026-10-29T00:31:07.568511+00:00"
     }
   ],
-  "last_run": "2026-10-29T00:01:37.055805+00:00",
-  "total_notified": 10746,
+  "last_run": "2026-10-29T00:31:08.391745+00:00",
+  "total_notified": 10748,
   "channels": {
     "pm-jobs": [
       "workday-nvidia-JR2022366",
@@ -28998,8 +29006,6 @@
       "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1"
     ],
     "swe-ai-full-time": [
-      "applyguy-afe25188-427f-48a7-83c1-69c0120048e3",
-      "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171612",
       "applyguy-bf7f22f9-6a8e-4806-8c2f-f1b337b6bbfd",
       "url:https://ats.rippling.com/momentumcareers/jobs/4814716a-3d10-4dbf-9d13-b1d3e46b18de",
       "applyguy-36338c1a-01ee-4c02-aa12-0f8c3bb22c14",
@@ -34787,7 +34793,11 @@
       "workday-salesforce-JR354592",
       "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592",
       "amazon-10591904",
-      "url:https://www.amazon.jobs/en/jobs/10591904/software-development-engineer-devices-software-services"
+      "url:https://www.amazon.jobs/en/jobs/10591904/software-development-engineer-devices-software-services",
+      "gradtracker-bc5cca3250ba",
+      "url:https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer--Admin-Central_JR-0111194",
+      "gradtracker-5c38665c9f50",
+      "url:https://www.amazon.jobs/en/jobs/10588976/software-development-engineer-amazon-quick"
     ]
   }
 }
