@@ -1,94 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-ec0ac3784492",
-      "seen_at": "2026-09-29T22:01:33.355748+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024219",
-      "seen_at": "2026-09-29T22:01:33.356816+00:00"
-    },
-    {
-      "id": "jobright-454b6f73bfcb",
-      "seen_at": "2026-09-29T22:01:33.357752+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abc1454d6acfd3dd29fbd83",
-      "seen_at": "2026-09-29T22:01:33.358648+00:00"
-    },
-    {
-      "id": "zapply-9aaa3b3affd8",
-      "seen_at": "2026-09-29T22:01:33.359560+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/qualcomm-3095895",
-      "seen_at": "2026-09-29T22:01:33.360452+00:00"
-    },
-    {
-      "id": "zapply-620f400db4e3",
-      "seen_at": "2026-09-29T22:01:33.361345+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-abbott-abbottcareers-31162670",
-      "seen_at": "2026-09-29T22:01:33.362230+00:00"
-    },
-    {
-      "id": "jobright-a9e40e2ec211",
-      "seen_at": "2026-09-29T22:01:33.363121+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abc1a297119e56191ceb490",
-      "seen_at": "2026-09-29T22:01:33.364002+00:00"
-    },
-    {
-      "id": "jobright-e17bffd851f4",
-      "seen_at": "2026-09-29T22:01:33.364881+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abbe9033217d1d13329bc34",
-      "seen_at": "2026-09-29T22:01:33.365759+00:00"
-    },
-    {
-      "id": "workday-nvidia-JR2026588",
-      "seen_at": "2026-09-29T22:01:33.366650+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Tegra-System-Software-Engineer_JR2026588",
-      "seen_at": "2026-09-29T22:01:33.367522+00:00"
-    },
-    {
-      "id": "jobright-d505084668ae",
-      "seen_at": "2026-09-29T22:01:33.368405+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abc1bb6b23c6fb2b81a52bb",
-      "seen_at": "2026-09-29T22:01:33.369287+00:00"
-    },
-    {
-      "id": "jobright-3c33ecf6f00f",
-      "seen_at": "2026-09-29T22:01:42.551034+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abc1beb3217d1d13329d2d1",
-      "seen_at": "2026-09-29T22:01:42.551923+00:00"
-    },
-    {
-      "id": "zapply-f1683633554d",
-      "seen_at": "2026-09-29T22:01:42.552806+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-plaid-60597a34-79d5-45ac-a0c8-b3340fa88b95",
-      "seen_at": "2026-09-29T22:01:42.553640+00:00"
-    },
-    {
-      "id": "ashby-plaid-60597a34-79d5-45ac-a0c8-b3340fa88b95",
-      "seen_at": "2026-09-29T22:01:42.554467+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/plaid/60597a34-79d5-45ac-a0c8-b3340fa88b95",
-      "seen_at": "2026-09-29T22:01:42.555281+00:00"
-    },
-    {
       "id": "workday-nvidia-JR2026739",
       "seen_at": "2026-09-29T22:31:18.747336+00:00"
     },
@@ -27579,18 +27491,36 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abadca43db4ca81fc7c4f8d",
       "seen_at": "2026-10-29T21:45:38.199987+00:00"
+    },
+    {
+      "id": "ashby-applied-88cd29c0-a142-4f7a-b9ea-be557bac9624",
+      "seen_at": "2026-10-29T22:31:49.177220+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/88cd29c0-a142-4f7a-b9ea-be557bac9624",
+      "seen_at": "2026-10-29T22:31:49.177778+00:00"
+    },
+    {
+      "id": "zapply-1bc8a08a8824",
+      "seen_at": "2026-10-29T22:31:49.178336+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-northwoodspace-f7b9e8d5-7368-4a54-b445-ff647f12b1b6",
+      "seen_at": "2026-10-29T22:31:49.178779+00:00"
+    },
+    {
+      "id": "applyguy-2a78b327-42f7-4beb-ba26-016e94fc0f99",
+      "seen_at": "2026-10-29T22:31:49.179252+00:00"
+    },
+    {
+      "id": "url:https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234",
+      "seen_at": "2026-10-29T22:31:49.179684+00:00"
     }
   ],
-  "last_run": "2026-10-29T22:01:17.731107+00:00",
-  "total_notified": 10856,
+  "last_run": "2026-10-29T22:31:50.355178+00:00",
+  "total_notified": 10859,
   "channels": {
     "pm-jobs": [
-      "jobright-3c33ecf6f00f",
-      "url:https://jobright.ai/jobs/info/6abc1beb3217d1d13329d2d1",
-      "zapply-f1683633554d",
-      "url:https://zapply.jobs/l/d/ashby-plaid-60597a34-79d5-45ac-a0c8-b3340fa88b95",
-      "ashby-plaid-60597a34-79d5-45ac-a0c8-b3340fa88b95",
-      "url:https://jobs.ashbyhq.com/plaid/60597a34-79d5-45ac-a0c8-b3340fa88b95",
       "jobright-df1252ee0d8f",
       "url:https://jobright.ai/jobs/info/6abc3091d6acfd3dd29fcae2",
       "jobright-a2973dc1d86d",
@@ -28748,22 +28678,6 @@
       "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36421"
     ],
     "swe-ai-full-time": [
-      "zapply-ec0ac3784492",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024219",
-      "jobright-454b6f73bfcb",
-      "url:https://jobright.ai/jobs/info/6abc1454d6acfd3dd29fbd83",
-      "zapply-9aaa3b3affd8",
-      "url:https://zapply.jobs/l/d/qualcomm-3095895",
-      "zapply-620f400db4e3",
-      "url:https://zapply.jobs/l/d/workday-abbott-abbottcareers-31162670",
-      "jobright-a9e40e2ec211",
-      "url:https://jobright.ai/jobs/info/6abc1a297119e56191ceb490",
-      "jobright-e17bffd851f4",
-      "url:https://jobright.ai/jobs/info/6abbe9033217d1d13329bc34",
-      "workday-nvidia-JR2026588",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Tegra-System-Software-Engineer_JR2026588",
-      "jobright-d505084668ae",
-      "url:https://jobright.ai/jobs/info/6abc1bb6b23c6fb2b81a52bb",
       "workday-nvidia-JR2026739",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
       "zapply-8feaf7925081",
@@ -34487,7 +34401,13 @@
       "jobright-ee930ce75f62",
       "url:https://jobright.ai/jobs/info/6ae3a171fb2cd420ace52b1d",
       "jobright-c38468e3015c",
-      "url:https://jobright.ai/jobs/info/6abadca43db4ca81fc7c4f8d"
+      "url:https://jobright.ai/jobs/info/6abadca43db4ca81fc7c4f8d",
+      "ashby-applied-88cd29c0-a142-4f7a-b9ea-be557bac9624",
+      "url:https://jobs.ashbyhq.com/applied/88cd29c0-a142-4f7a-b9ea-be557bac9624",
+      "zapply-1bc8a08a8824",
+      "url:https://zapply.jobs/l/d/ashby-northwoodspace-f7b9e8d5-7368-4a54-b445-ff647f12b1b6",
+      "applyguy-2a78b327-42f7-4beb-ba26-016e94fc0f99",
+      "url:https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234"
     ]
   }
 }
