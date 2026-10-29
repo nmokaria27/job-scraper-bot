@@ -27619,10 +27619,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae367ed77c09cb3bd4a5971",
       "seen_at": "2026-10-29T16:53:45.747819+00:00"
+    },
+    {
+      "id": "amazon-10590694",
+      "seen_at": "2026-10-29T17:01:57.646668+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10590694/software-development-engineer-checkout-applications-team",
+      "seen_at": "2026-10-29T17:01:57.647249+00:00"
+    },
+    {
+      "id": "amazon-10591543",
+      "seen_at": "2026-10-29T17:01:57.647752+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10591543/software-development-engineer-ai-foundations-amazon-leo-ai-foundations",
+      "seen_at": "2026-10-29T17:01:57.648265+00:00"
     }
   ],
-  "last_run": "2026-10-29T16:53:45.969214+00:00",
-  "total_notified": 10797,
+  "last_run": "2026-10-29T17:01:58.739927+00:00",
+  "total_notified": 10799,
   "channels": {
     "pm-jobs": [
       "zapply-5bb1319bcbb3",
@@ -34537,7 +34553,11 @@
       "jobright-51fc9d1a2aae",
       "url:https://jobright.ai/jobs/info/6ad039c4c9f40bec90800338",
       "jobright-7fcdc39164bd",
-      "url:https://jobright.ai/jobs/info/6ad039bfc9f40bec9080032d"
+      "url:https://jobright.ai/jobs/info/6ad039bfc9f40bec9080032d",
+      "amazon-10590694",
+      "url:https://www.amazon.jobs/en/jobs/10590694/software-development-engineer-checkout-applications-team",
+      "amazon-10591543",
+      "url:https://www.amazon.jobs/en/jobs/10591543/software-development-engineer-ai-foundations-amazon-leo-ai-foundations"
     ]
   }
 }
