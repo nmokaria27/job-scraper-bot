@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-c38468e3015c",
-      "seen_at": "2026-09-29T18:01:34.400501+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abadca43db4ca81fc7c4f8d",
-      "seen_at": "2026-09-29T18:01:34.401556+00:00"
-    },
-    {
-      "id": "jobright-6bb43270db93",
-      "seen_at": "2026-09-29T18:01:34.402490+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abbe21ea9a644f9656886d4",
-      "seen_at": "2026-09-29T18:01:34.403382+00:00"
-    },
-    {
-      "id": "zapply-51b8ef34afa6",
-      "seen_at": "2026-09-29T18:01:34.404311+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-19d540c7-496c-4699-a02a-20c112588925",
-      "seen_at": "2026-09-29T18:01:34.405201+00:00"
-    },
-    {
-      "id": "zapply-8b496750f770",
-      "seen_at": "2026-09-29T18:01:34.406153+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-784e8f73-22a8-40fb-869a-3621279adc3f",
-      "seen_at": "2026-09-29T18:01:34.407040+00:00"
-    },
-    {
-      "id": "zapply-518aa569f230",
-      "seen_at": "2026-09-29T18:01:34.407919+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023919",
-      "seen_at": "2026-09-29T18:01:34.408817+00:00"
-    },
-    {
-      "id": "zapply-6048ba593d34",
-      "seen_at": "2026-09-29T18:01:41.892567+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R73226",
-      "seen_at": "2026-09-29T18:01:41.893449+00:00"
-    },
-    {
       "id": "greenhouse-vercel-6210353004",
       "seen_at": "2026-09-29T18:31:45.402191+00:00"
     },
@@ -27619,14 +27571,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae36ca1d45dc30fb7d2947a",
       "seen_at": "2026-10-29T18:01:23.816714+00:00"
+    },
+    {
+      "id": "zapply-5c355c201a9f",
+      "seen_at": "2026-10-29T18:31:35.714225+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-relx-relx-R119974",
+      "seen_at": "2026-10-29T18:31:35.714646+00:00"
+    },
+    {
+      "id": "zapply-34774e131cea",
+      "seen_at": "2026-10-29T18:31:35.715055+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-relx-risksolutions-R119974",
+      "seen_at": "2026-10-29T18:31:35.715410+00:00"
     }
   ],
-  "last_run": "2026-10-29T18:01:24.603468+00:00",
-  "total_notified": 10806,
+  "last_run": "2026-10-29T18:31:35.952723+00:00",
+  "total_notified": 10808,
   "channels": {
     "pm-jobs": [
-      "zapply-6048ba593d34",
-      "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R73226",
       "greenhouse-vercel-6210353004",
       "url:https://job-boards.greenhouse.io/vercel/jobs/6210353004",
       "zapply-b7c992e9356f",
@@ -28801,19 +28767,13 @@
       "jobright-2200d3c51378",
       "url:https://jobright.ai/jobs/info/6ae374cbd7424a2a828dfd5f",
       "jobright-c9abd13570dd",
-      "url:https://jobright.ai/jobs/info/6ae36ca1d45dc30fb7d2947a"
+      "url:https://jobright.ai/jobs/info/6ae36ca1d45dc30fb7d2947a",
+      "zapply-5c355c201a9f",
+      "url:https://zapply.jobs/l/d/workday-relx-relx-R119974",
+      "zapply-34774e131cea",
+      "url:https://zapply.jobs/l/d/workday-relx-risksolutions-R119974"
     ],
     "swe-ai-full-time": [
-      "jobright-c38468e3015c",
-      "url:https://jobright.ai/jobs/info/6abadca43db4ca81fc7c4f8d",
-      "jobright-6bb43270db93",
-      "url:https://jobright.ai/jobs/info/6abbe21ea9a644f9656886d4",
-      "zapply-51b8ef34afa6",
-      "url:https://zapply.jobs/l/d/amazon-19d540c7-496c-4699-a02a-20c112588925",
-      "zapply-8b496750f770",
-      "url:https://zapply.jobs/l/d/amazon-784e8f73-22a8-40fb-869a-3621279adc3f",
-      "zapply-518aa569f230",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023919",
       "jobright-057bd30741f7",
       "url:https://jobright.ai/jobs/info/6abbeabaa9a644f965688dc0",
       "zapply-dd161f39ff80",
