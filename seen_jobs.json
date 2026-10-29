@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-vercel-6210353004",
-      "seen_at": "2026-09-29T18:31:45.402191+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6210353004",
-      "seen_at": "2026-09-29T18:31:45.403100+00:00"
-    },
-    {
       "id": "jobright-057bd30741f7",
       "seen_at": "2026-09-29T19:02:03.143564+00:00"
     },
@@ -27587,14 +27579,108 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-relx-risksolutions-R119974",
       "seen_at": "2026-10-29T18:31:35.715410+00:00"
+    },
+    {
+      "id": "greenhouse-motional-8081593003",
+      "seen_at": "2026-10-29T19:01:38.638312+00:00"
+    },
+    {
+      "id": "url:https://motional.com/open-positions",
+      "seen_at": "2026-10-29T19:01:38.638816+00:00"
+    },
+    {
+      "id": "jobright-c61b8f33ee9d",
+      "seen_at": "2026-10-29T19:01:38.639335+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a552051377f983ce8a97fad",
+      "seen_at": "2026-10-29T19:01:38.639790+00:00"
+    },
+    {
+      "id": "jobright-c974a9777ddb",
+      "seen_at": "2026-10-29T19:01:38.640268+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a2588506624e500cad0f51d",
+      "seen_at": "2026-10-29T19:01:38.640717+00:00"
+    },
+    {
+      "id": "jobright-3a9d3874fd9c",
+      "seen_at": "2026-10-29T19:01:38.641170+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae38247c3139b475b5adbf0",
+      "seen_at": "2026-10-29T19:01:38.641623+00:00"
+    },
+    {
+      "id": "jobright-ba13409824de",
+      "seen_at": "2026-10-29T19:01:38.642080+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3808a77c09cb3bd4a67d8",
+      "seen_at": "2026-10-29T19:01:38.642552+00:00"
+    },
+    {
+      "id": "jobright-969f0dbcc217",
+      "seen_at": "2026-10-29T19:01:38.643005+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3805ad45dc30fb7d2a140",
+      "seen_at": "2026-10-29T19:01:38.643476+00:00"
+    },
+    {
+      "id": "jobright-d6a51392008a",
+      "seen_at": "2026-10-29T19:01:38.643929+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae37f5beab1f967309749a6",
+      "seen_at": "2026-10-29T19:01:38.644382+00:00"
+    },
+    {
+      "id": "jobright-f3e1e01cfac0",
+      "seen_at": "2026-10-29T19:01:38.644831+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae37d6cfb2cd420ace5162e",
+      "seen_at": "2026-10-29T19:01:38.645281+00:00"
+    },
+    {
+      "id": "jobright-58a08f33138b",
+      "seen_at": "2026-10-29T19:01:38.645728+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad10313a4f99fef81941014",
+      "seen_at": "2026-10-29T19:01:38.646165+00:00"
+    },
+    {
+      "id": "jobright-8331e8f14f6e",
+      "seen_at": "2026-10-29T19:01:38.646623+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae37b72eab1f967309746cf",
+      "seen_at": "2026-10-29T19:01:38.647059+00:00"
+    },
+    {
+      "id": "amazon-10592066",
+      "seen_at": "2026-10-29T19:01:38.647522+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10592066/software-development-engineer",
+      "seen_at": "2026-10-29T19:01:38.647950+00:00"
+    },
+    {
+      "id": "amazon-10592682",
+      "seen_at": "2026-10-29T19:01:38.648398+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10592682/applied-scientist-aws-agentic-ai",
+      "seen_at": "2026-10-29T19:01:38.648829+00:00"
     }
   ],
-  "last_run": "2026-10-29T18:31:35.952723+00:00",
-  "total_notified": 10808,
+  "last_run": "2026-10-29T19:01:41.860432+00:00",
+  "total_notified": 10820,
   "channels": {
     "pm-jobs": [
-      "greenhouse-vercel-6210353004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6210353004",
       "zapply-b7c992e9356f",
       "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R172190",
       "ashby-suno-1735f9af-fbce-4f6c-9fbe-ac42eca09009",
@@ -34497,7 +34583,31 @@
       "amazon-10591537",
       "url:https://www.amazon.jobs/en/jobs/10591537/software-development-engineer-ai-foundations-amazon-leo-ai-foundations",
       "jobright-48c3f3e49612",
-      "url:https://jobright.ai/jobs/info/6ae37590d45dc30fb7d2993a"
+      "url:https://jobright.ai/jobs/info/6ae37590d45dc30fb7d2993a",
+      "greenhouse-motional-8081593003",
+      "url:https://motional.com/open-positions",
+      "jobright-c61b8f33ee9d",
+      "url:https://jobright.ai/jobs/info/6a552051377f983ce8a97fad",
+      "jobright-c974a9777ddb",
+      "url:https://jobright.ai/jobs/info/6a2588506624e500cad0f51d",
+      "jobright-3a9d3874fd9c",
+      "url:https://jobright.ai/jobs/info/6ae38247c3139b475b5adbf0",
+      "jobright-ba13409824de",
+      "url:https://jobright.ai/jobs/info/6ae3808a77c09cb3bd4a67d8",
+      "jobright-969f0dbcc217",
+      "url:https://jobright.ai/jobs/info/6ae3805ad45dc30fb7d2a140",
+      "jobright-d6a51392008a",
+      "url:https://jobright.ai/jobs/info/6ae37f5beab1f967309749a6",
+      "jobright-f3e1e01cfac0",
+      "url:https://jobright.ai/jobs/info/6ae37d6cfb2cd420ace5162e",
+      "jobright-58a08f33138b",
+      "url:https://jobright.ai/jobs/info/6ad10313a4f99fef81941014",
+      "jobright-8331e8f14f6e",
+      "url:https://jobright.ai/jobs/info/6ae37b72eab1f967309746cf",
+      "amazon-10592066",
+      "url:https://www.amazon.jobs/en/jobs/10592066/software-development-engineer",
+      "amazon-10592682",
+      "url:https://www.amazon.jobs/en/jobs/10592682/applied-scientist-aws-agentic-ai"
     ]
   }
 }
