@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-2a39ebcb19aa",
-      "seen_at": "2026-09-29T14:31:27.762423+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/lever-spotify-65d6caca-6d7c-4049-8256-a128e0e7249e",
-      "seen_at": "2026-09-29T14:31:27.763458+00:00"
-    },
-    {
-      "id": "lever-spotify-65d6caca-6d7c-4049-8256-a128e0e7249e",
-      "seen_at": "2026-09-29T14:31:27.764412+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/spotify/65d6caca-6d7c-4049-8256-a128e0e7249e",
-      "seen_at": "2026-09-29T14:31:27.765287+00:00"
-    },
-    {
-      "id": "zapply-4e45be9a2eb5",
-      "seen_at": "2026-09-29T14:31:27.766188+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-55c3d050-7692-48f6-b97a-83bf5b32a950",
-      "seen_at": "2026-09-29T14:31:27.767059+00:00"
-    },
-    {
       "id": "zapply-1b0b77f39095",
       "seen_at": "2026-09-29T15:01:29.808388+00:00"
     },
@@ -27699,10 +27675,42 @@
     {
       "id": "url:https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
       "seen_at": "2026-10-29T14:31:19.117143+00:00"
+    },
+    {
+      "id": "simplify-756f5acb-ee83-4d78-8f4b-7cbbdaff4b18",
+      "seen_at": "2026-10-29T15:01:24.681239+00:00"
+    },
+    {
+      "id": "url:https://www.thoughtworks.com/careers/jobs/8333235",
+      "seen_at": "2026-10-29T15:01:24.682045+00:00"
+    },
+    {
+      "id": "simplify-acd5ae34-a51b-4708-8bce-8729a7850f54",
+      "seen_at": "2026-10-29T15:01:24.682764+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/Z2",
+      "seen_at": "2026-10-29T15:01:24.683379+00:00"
+    },
+    {
+      "id": "jobright-57b6226471f7",
+      "seen_at": "2026-10-29T15:01:24.683920+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae34520c3139b475b5abaa4",
+      "seen_at": "2026-10-29T15:01:24.684424+00:00"
+    },
+    {
+      "id": "jobright-8a8fb0d7a249",
+      "seen_at": "2026-10-29T15:01:24.684918+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae34372eab1f96730972a1c",
+      "seen_at": "2026-10-29T15:01:24.685373+00:00"
     }
   ],
-  "last_run": "2026-10-29T14:31:20.058139+00:00",
-  "total_notified": 10782,
+  "last_run": "2026-10-29T15:01:25.669546+00:00",
+  "total_notified": 10786,
   "channels": {
     "pm-jobs": [
       "zapply-cc6d7e8a33ff",
@@ -28874,12 +28882,6 @@
       "url:https://zapply.jobs/l/d/greenhouse-formlabs-8333766"
     ],
     "swe-ai-full-time": [
-      "zapply-2a39ebcb19aa",
-      "url:https://zapply.jobs/l/d/lever-spotify-65d6caca-6d7c-4049-8256-a128e0e7249e",
-      "lever-spotify-65d6caca-6d7c-4049-8256-a128e0e7249e",
-      "url:https://jobs.lever.co/spotify/65d6caca-6d7c-4049-8256-a128e0e7249e",
-      "zapply-4e45be9a2eb5",
-      "url:https://zapply.jobs/l/d/amazon-55c3d050-7692-48f6-b97a-83bf5b32a950",
       "zapply-1b0b77f39095",
       "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4716667006",
       "zapply-fd5d545a113a",
@@ -34637,7 +34639,15 @@
       "jobright-98dca47ac26c",
       "url:https://jobright.ai/jobs/info/6aaaf9354be87a72913a26d2",
       "applyguy-97f132d8-53ef-4f98-895a-7e06c9cde589",
-      "url:https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890"
+      "url:https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
+      "simplify-756f5acb-ee83-4d78-8f4b-7cbbdaff4b18",
+      "url:https://www.thoughtworks.com/careers/jobs/8333235",
+      "simplify-acd5ae34-a51b-4708-8bce-8729a7850f54",
+      "url:https://go.vansh.nyc/Z2",
+      "jobright-57b6226471f7",
+      "url:https://jobright.ai/jobs/info/6ae34520c3139b475b5abaa4",
+      "jobright-8a8fb0d7a249",
+      "url:https://jobright.ai/jobs/info/6ae34372eab1f96730972a1c"
     ]
   }
 }
