@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10563883",
-      "seen_at": "2026-09-29T15:31:20.278871+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10563883/software-development-engineer",
-      "seen_at": "2026-09-29T15:31:20.279738+00:00"
-    },
-    {
-      "id": "ashby-snowflake-b3fab313-f31f-44b6-8c32-222084f93259",
-      "seen_at": "2026-09-29T15:31:20.280473+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/snowflake/b3fab313-f31f-44b6-8c32-222084f93259",
-      "seen_at": "2026-09-29T15:31:20.281207+00:00"
-    },
-    {
-      "id": "zapply-c91013db5f50",
-      "seen_at": "2026-09-29T15:31:20.281905+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4717477006",
-      "seen_at": "2026-09-29T15:31:20.282596+00:00"
-    },
-    {
-      "id": "zapply-d99093f4a6bf",
-      "seen_at": "2026-09-29T15:31:20.283273+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-nwis-nw-JR100496",
-      "seen_at": "2026-09-29T15:31:20.283939+00:00"
-    },
-    {
       "id": "jobright-4dc65b31c82d",
       "seen_at": "2026-09-29T16:01:39.372321+00:00"
     },
@@ -27693,7 +27661,7 @@
       "seen_at": "2026-10-29T15:31:26.615708+00:00"
     }
   ],
-  "last_run": "2026-10-29T15:31:27.713383+00:00",
+  "last_run": "2026-10-29T16:02:04.348596+00:00",
   "total_notified": 10787,
   "channels": {
     "pm-jobs": [
@@ -28866,14 +28834,6 @@
       "url:https://zapply.jobs/l/d/greenhouse-formlabs-8333766"
     ],
     "swe-ai-full-time": [
-      "amazon-10563883",
-      "url:https://www.amazon.jobs/en/jobs/10563883/software-development-engineer",
-      "ashby-snowflake-b3fab313-f31f-44b6-8c32-222084f93259",
-      "url:https://jobs.ashbyhq.com/snowflake/b3fab313-f31f-44b6-8c32-222084f93259",
-      "zapply-c91013db5f50",
-      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4717477006",
-      "zapply-d99093f4a6bf",
-      "url:https://zapply.jobs/l/d/workday-nwis-nw-JR100496",
       "jobright-4dc65b31c82d",
       "url:https://jobright.ai/jobs/info/6abbce3792b2612ef0f8adf1",
       "jobright-86f777934f50",
