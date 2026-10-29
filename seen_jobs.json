@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-f626a01e0915",
-      "seen_at": "2026-09-29T01:01:21.092842+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab56d0c9d4843569fe499d2",
-      "seen_at": "2026-09-29T01:01:21.093685+00:00"
-    },
-    {
-      "id": "jobright-c3a3d1ffcaa9",
-      "seen_at": "2026-09-29T01:01:21.094408+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abaec361acb8fc6f09c24e0",
-      "seen_at": "2026-09-29T01:01:21.095115+00:00"
-    },
-    {
-      "id": "amazon-10563008",
-      "seen_at": "2026-09-29T01:01:21.095807+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10563008/software-development-engineer-aws-ec2-nitro-team",
-      "seen_at": "2026-09-29T01:01:21.096480+00:00"
-    },
-    {
-      "id": "jobright-25f7f9de1c1e",
-      "seen_at": "2026-09-29T01:01:27.684775+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abaed65be5f1e93251182de",
-      "seen_at": "2026-09-29T01:01:27.685477+00:00"
-    },
-    {
       "id": "zapply-f34dd0c691be",
       "seen_at": "2026-09-29T01:31:17.458816+00:00"
     },
@@ -27805,12 +27773,10 @@
       "seen_at": "2026-10-29T01:01:25.652737+00:00"
     }
   ],
-  "last_run": "2026-10-29T01:01:26.577872+00:00",
+  "last_run": "2026-10-29T01:13:01.814860+00:00",
   "total_notified": 10750,
   "channels": {
     "pm-jobs": [
-      "jobright-25f7f9de1c1e",
-      "url:https://jobright.ai/jobs/info/6abaed65be5f1e93251182de",
       "simplify-7d050728-7de3-411e-a5c4-80af3092d319",
       "url:https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/185198",
       "jobright-e9ff53249b9c",
@@ -28980,12 +28946,6 @@
       "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1"
     ],
     "swe-ai-full-time": [
-      "jobright-f626a01e0915",
-      "url:https://jobright.ai/jobs/info/6ab56d0c9d4843569fe499d2",
-      "jobright-c3a3d1ffcaa9",
-      "url:https://jobright.ai/jobs/info/6abaec361acb8fc6f09c24e0",
-      "amazon-10563008",
-      "url:https://www.amazon.jobs/en/jobs/10563008/software-development-engineer-aws-ec2-nitro-team",
       "zapply-f34dd0c691be",
       "url:https://zapply.jobs/l/d/greenhouse-spacex-8854394002",
       "zapply-c58835ec2eba",
