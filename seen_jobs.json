@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-a71446766735",
-      "seen_at": "2026-09-29T21:31:33.995791+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-peak6group-apexfintechsolutions-JR105266",
-      "seen_at": "2026-09-29T21:31:33.996619+00:00"
-    },
-    {
-      "id": "zapply-a07a71c4797a",
-      "seen_at": "2026-09-29T21:31:33.997362+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2022318",
-      "seen_at": "2026-09-29T21:31:33.998080+00:00"
-    },
-    {
-      "id": "zapply-b741dfa6317b",
-      "seen_at": "2026-09-29T21:31:33.998800+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-2a928b93-a5d4-4285-a92c-032fb389faa2",
-      "seen_at": "2026-09-29T21:31:33.999483+00:00"
-    },
-    {
-      "id": "zapply-499c776dcf7a",
-      "seen_at": "2026-09-29T21:31:34.000180+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133870",
-      "seen_at": "2026-09-29T21:31:34.000862+00:00"
-    },
-    {
-      "id": "zapply-0d5c113c114c",
-      "seen_at": "2026-09-29T21:31:34.001543+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2022280",
-      "seen_at": "2026-09-29T21:31:34.002214+00:00"
-    },
-    {
-      "id": "zapply-d3ba320062dc",
-      "seen_at": "2026-09-29T21:31:34.002891+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/gem-retool-am9icG9zdDqk4ZpKCO0ylsdFNggW0Qv_",
-      "seen_at": "2026-09-29T21:31:34.003614+00:00"
-    },
-    {
-      "id": "zapply-51cbe1286274",
-      "seen_at": "2026-09-29T21:31:39.823039+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-drweng-8238021",
-      "seen_at": "2026-09-29T21:31:39.823762+00:00"
-    },
-    {
-      "id": "zapply-300bc8196ee1",
-      "seen_at": "2026-09-29T21:31:39.824412+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-drweng-8221691",
-      "seen_at": "2026-09-29T21:31:39.825040+00:00"
-    },
-    {
-      "id": "zapply-b7eda8047443",
-      "seen_at": "2026-09-29T21:31:39.825661+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-Intuitive-744000152536419",
-      "seen_at": "2026-09-29T21:31:39.826268+00:00"
-    },
-    {
       "id": "zapply-ec0ac3784492",
       "seen_at": "2026-09-29T22:01:33.355748+00:00"
     },
@@ -27635,18 +27563,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae3994aeab1f967309758c1",
       "seen_at": "2026-10-29T21:01:24.505908+00:00"
+    },
+    {
+      "id": "jobright-ee930ce75f62",
+      "seen_at": "2026-10-29T21:45:38.198531+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3a171fb2cd420ace52b1d",
+      "seen_at": "2026-10-29T21:45:38.199039+00:00"
+    },
+    {
+      "id": "jobright-c38468e3015c",
+      "seen_at": "2026-10-29T21:45:38.199540+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abadca43db4ca81fc7c4f8d",
+      "seen_at": "2026-10-29T21:45:38.199987+00:00"
     }
   ],
-  "last_run": "2026-10-29T21:31:27.175988+00:00",
-  "total_notified": 10854,
+  "last_run": "2026-10-29T21:45:39.464396+00:00",
+  "total_notified": 10856,
   "channels": {
     "pm-jobs": [
-      "zapply-51cbe1286274",
-      "url:https://zapply.jobs/l/d/greenhouse-drweng-8238021",
-      "zapply-300bc8196ee1",
-      "url:https://zapply.jobs/l/d/greenhouse-drweng-8221691",
-      "zapply-b7eda8047443",
-      "url:https://zapply.jobs/l/d/sr-Intuitive-744000152536419",
       "jobright-3c33ecf6f00f",
       "url:https://jobright.ai/jobs/info/6abc1beb3217d1d13329d2d1",
       "zapply-f1683633554d",
@@ -28810,18 +28748,6 @@
       "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36421"
     ],
     "swe-ai-full-time": [
-      "zapply-a71446766735",
-      "url:https://zapply.jobs/l/d/workday-peak6group-apexfintechsolutions-JR105266",
-      "zapply-a07a71c4797a",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2022318",
-      "zapply-b741dfa6317b",
-      "url:https://zapply.jobs/l/d/ashby-snowflake-2a928b93-a5d4-4285-a92c-032fb389faa2",
-      "zapply-499c776dcf7a",
-      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133870",
-      "zapply-0d5c113c114c",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2022280",
-      "zapply-d3ba320062dc",
-      "url:https://zapply.jobs/l/d/gem-retool-am9icG9zdDqk4ZpKCO0ylsdFNggW0Qv_",
       "zapply-ec0ac3784492",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024219",
       "jobright-454b6f73bfcb",
@@ -34557,7 +34483,11 @@
       "jobright-7e23fec556ce",
       "url:https://jobright.ai/jobs/info/6ae393df77c09cb3bd4a7310",
       "jobright-7e33bf2e7ab3",
-      "url:https://jobright.ai/jobs/info/6ae3994aeab1f967309758c1"
+      "url:https://jobright.ai/jobs/info/6ae3994aeab1f967309758c1",
+      "jobright-ee930ce75f62",
+      "url:https://jobright.ai/jobs/info/6ae3a171fb2cd420ace52b1d",
+      "jobright-c38468e3015c",
+      "url:https://jobright.ai/jobs/info/6abadca43db4ca81fc7c4f8d"
     ]
   }
 }
