@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-c5c2d7f28d96",
-      "seen_at": "2026-09-29T21:01:24.782403+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abc0690d6acfd3dd29fb9fe",
-      "seen_at": "2026-09-29T21:01:24.783124+00:00"
-    },
-    {
-      "id": "jobright-87c7cd608807",
-      "seen_at": "2026-09-29T21:01:24.783705+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abc059e7119e56191ceae39",
-      "seen_at": "2026-09-29T21:01:24.784278+00:00"
-    },
-    {
-      "id": "jobright-3d3b8652894b",
-      "seen_at": "2026-09-29T21:01:24.784848+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abc060a7119e56191ceae57",
-      "seen_at": "2026-09-29T21:01:24.785394+00:00"
-    },
-    {
-      "id": "zapply-1cf59dd329e9",
-      "seen_at": "2026-09-29T21:01:24.785956+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26080140",
-      "seen_at": "2026-09-29T21:01:24.786496+00:00"
-    },
-    {
-      "id": "ashby-snowflake-2a928b93-a5d4-4285-a92c-032fb389faa2",
-      "seen_at": "2026-09-29T21:01:24.787041+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2",
-      "seen_at": "2026-09-29T21:01:24.787566+00:00"
-    },
-    {
-      "id": "greenhouse-drweng-8238021",
-      "seen_at": "2026-09-29T21:01:31.178886+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/drweng/jobs/8238021",
-      "seen_at": "2026-09-29T21:01:31.179451+00:00"
-    },
-    {
-      "id": "greenhouse-drweng-8221691",
-      "seen_at": "2026-09-29T21:01:31.179969+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/drweng/jobs/8221691",
-      "seen_at": "2026-09-29T21:01:31.180457+00:00"
-    },
-    {
       "id": "zapply-a71446766735",
       "seen_at": "2026-09-29T21:31:33.995791+00:00"
     },
@@ -27693,14 +27637,10 @@
       "seen_at": "2026-10-29T21:01:24.505908+00:00"
     }
   ],
-  "last_run": "2026-10-29T21:01:25.662499+00:00",
+  "last_run": "2026-10-29T21:31:27.175988+00:00",
   "total_notified": 10854,
   "channels": {
     "pm-jobs": [
-      "greenhouse-drweng-8238021",
-      "url:https://job-boards.greenhouse.io/drweng/jobs/8238021",
-      "greenhouse-drweng-8221691",
-      "url:https://job-boards.greenhouse.io/drweng/jobs/8221691",
       "zapply-51cbe1286274",
       "url:https://zapply.jobs/l/d/greenhouse-drweng-8238021",
       "zapply-300bc8196ee1",
@@ -28870,16 +28810,6 @@
       "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36421"
     ],
     "swe-ai-full-time": [
-      "jobright-c5c2d7f28d96",
-      "url:https://jobright.ai/jobs/info/6abc0690d6acfd3dd29fb9fe",
-      "jobright-87c7cd608807",
-      "url:https://jobright.ai/jobs/info/6abc059e7119e56191ceae39",
-      "jobright-3d3b8652894b",
-      "url:https://jobright.ai/jobs/info/6abc060a7119e56191ceae57",
-      "zapply-1cf59dd329e9",
-      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26080140",
-      "ashby-snowflake-2a928b93-a5d4-4285-a92c-032fb389faa2",
-      "url:https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2",
       "zapply-a71446766735",
       "url:https://zapply.jobs/l/d/workday-peak6group-apexfintechsolutions-JR105266",
       "zapply-a07a71c4797a",
