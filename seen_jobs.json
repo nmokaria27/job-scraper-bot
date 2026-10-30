@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-756d8c20-649a-47f2-8012-553b5f6cb0c5",
-      "seen_at": "2026-09-30T03:31:15.125232+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/756d8c20-649a-47f2-8012-553b5f6cb0c5",
-      "seen_at": "2026-09-30T03:31:15.126238+00:00"
-    },
-    {
-      "id": "zapply-76e4e74df3bb",
-      "seen_at": "2026-09-30T03:31:15.127176+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-workiva-careers-R12602",
-      "seen_at": "2026-09-30T03:31:15.128077+00:00"
-    },
-    {
       "id": "applyguy-dacc5288-ad54-40f2-b112-5294c61aa4c9",
       "seen_at": "2026-09-30T10:01:28.751340+00:00"
     },
@@ -27715,10 +27699,154 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae3e781d45dc30fb7d2d6de",
       "seen_at": "2026-10-30T03:01:29.431361+00:00"
+    },
+    {
+      "id": "applyguy-2560aa9d-5687-4c22-829a-3f4e84f73392",
+      "seen_at": "2026-10-30T10:01:29.288424+00:00"
+    },
+    {
+      "id": "url:https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Associate-Software-Engineer_R-03377-1",
+      "seen_at": "2026-10-30T10:01:29.289061+00:00"
+    },
+    {
+      "id": "jobright-f78f475e2ca3",
+      "seen_at": "2026-10-30T10:01:29.289556+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae42f4eeab1f967309799f4",
+      "seen_at": "2026-10-30T10:01:29.290041+00:00"
+    },
+    {
+      "id": "jobright-3abe2df289f6",
+      "seen_at": "2026-10-30T10:01:29.290513+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae435d777c09cb3bd4abb0d",
+      "seen_at": "2026-10-30T10:01:29.291004+00:00"
+    },
+    {
+      "id": "jobright-8af573cc312e",
+      "seen_at": "2026-10-30T10:01:29.291481+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae431aad45dc30fb7d2f186",
+      "seen_at": "2026-10-30T10:01:29.291977+00:00"
+    },
+    {
+      "id": "jobright-69aaba68f992",
+      "seen_at": "2026-10-30T10:01:29.292465+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3f807d45dc30fb7d2e068",
+      "seen_at": "2026-10-30T10:01:29.292932+00:00"
+    },
+    {
+      "id": "jobright-db5d4f18d262",
+      "seen_at": "2026-10-30T10:01:29.293402+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae42291d7424a2a828e5504",
+      "seen_at": "2026-10-30T10:01:29.293883+00:00"
+    },
+    {
+      "id": "jobright-91ac431a1e8f",
+      "seen_at": "2026-10-30T10:01:29.294348+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae42156eab1f96730979791",
+      "seen_at": "2026-10-30T10:01:29.294823+00:00"
+    },
+    {
+      "id": "jobright-c865f36fa066",
+      "seen_at": "2026-10-30T10:01:29.295284+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae402efd7424a2a828e4b56",
+      "seen_at": "2026-10-30T10:01:29.295733+00:00"
+    },
+    {
+      "id": "jobright-c32c9e1541e2",
+      "seen_at": "2026-10-30T10:01:29.296221+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abea60f064da25272e01ebb",
+      "seen_at": "2026-10-30T10:01:29.296671+00:00"
+    },
+    {
+      "id": "jobright-22c1cc4d9c71",
+      "seen_at": "2026-10-30T10:01:29.297158+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae4139bd7424a2a828e509c",
+      "seen_at": "2026-10-30T10:01:29.297604+00:00"
+    },
+    {
+      "id": "jobright-00efb752a67e",
+      "seen_at": "2026-10-30T10:01:29.298076+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3f6eec3139b475b5b19c3",
+      "seen_at": "2026-10-30T10:01:29.298545+00:00"
+    },
+    {
+      "id": "jobright-f3bfbbed5b77",
+      "seen_at": "2026-10-30T10:01:29.299020+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae410c3c3139b475b5b23f9",
+      "seen_at": "2026-10-30T10:01:29.299468+00:00"
+    },
+    {
+      "id": "jobright-31d29f159a05",
+      "seen_at": "2026-10-30T10:01:29.299941+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3fd22d7424a2a828e4804",
+      "seen_at": "2026-10-30T10:01:29.300391+00:00"
+    },
+    {
+      "id": "jobright-5dc70ba0f699",
+      "seen_at": "2026-10-30T10:01:29.300866+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae41873d7424a2a828e5250",
+      "seen_at": "2026-10-30T10:01:29.301317+00:00"
+    },
+    {
+      "id": "applyguy-02420761-44db-4978-b66e-199bc07555c2",
+      "seen_at": "2026-10-30T10:01:29.301774+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/captivation/jobs/5467652008",
+      "seen_at": "2026-10-30T10:01:29.302233+00:00"
+    },
+    {
+      "id": "applyguy-27486e1a-f062-44c7-aa01-41299db69665",
+      "seen_at": "2026-10-30T10:01:29.302678+00:00"
+    },
+    {
+      "id": "url:https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896",
+      "seen_at": "2026-10-30T10:01:29.303128+00:00"
+    },
+    {
+      "id": "zapply-ad21b5ba354a",
+      "seen_at": "2026-10-30T10:01:31.098403+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1607970",
+      "seen_at": "2026-10-30T10:01:31.098996+00:00"
+    },
+    {
+      "id": "zapply-b6e0e5327bba",
+      "seen_at": "2026-10-30T10:01:31.099504+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amd-93962",
+      "seen_at": "2026-10-30T10:01:31.099929+00:00"
     }
   ],
-  "last_run": "2026-10-30T03:31:10.528876+00:00",
-  "total_notified": 10917,
+  "last_run": "2026-10-30T10:01:31.272429+00:00",
+  "total_notified": 10935,
   "channels": {
     "pm-jobs": [
       "jobright-7b2e8237c41f",
@@ -28879,13 +29007,13 @@
       "jobright-5f21498790f4",
       "url:https://jobright.ai/jobs/info/6ae3c3b1d7424a2a828e2bbc",
       "jobright-ada438216d55",
-      "url:https://jobright.ai/jobs/info/6ae3e781d45dc30fb7d2d6de"
+      "url:https://jobright.ai/jobs/info/6ae3e781d45dc30fb7d2d6de",
+      "zapply-ad21b5ba354a",
+      "url:https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1607970",
+      "zapply-b6e0e5327bba",
+      "url:https://zapply.jobs/l/d/amd-93962"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-756d8c20-649a-47f2-8012-553b5f6cb0c5",
-      "url:https://jobs.ashbyhq.com/openai/756d8c20-649a-47f2-8012-553b5f6cb0c5",
-      "zapply-76e4e74df3bb",
-      "url:https://zapply.jobs/l/d/workday-workiva-careers-R12602",
       "applyguy-dacc5288-ad54-40f2-b112-5294c61aa4c9",
       "url:https://ats.rippling.com/momentumcareers/jobs/dd4281b8-fa2a-4833-8370-b1859933b612",
       "jobright-09aac3e0153a",
@@ -34657,7 +34785,39 @@
       "jobright-dca172d5b8c4",
       "url:https://jobright.ai/jobs/info/6ae3dfd577c09cb3bd4a9aee",
       "jobright-794a56ffca6d",
-      "url:https://jobright.ai/jobs/info/6ae3efe8c3139b475b5b14af"
+      "url:https://jobright.ai/jobs/info/6ae3efe8c3139b475b5b14af",
+      "applyguy-2560aa9d-5687-4c22-829a-3f4e84f73392",
+      "url:https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Associate-Software-Engineer_R-03377-1",
+      "jobright-f78f475e2ca3",
+      "url:https://jobright.ai/jobs/info/6ae42f4eeab1f967309799f4",
+      "jobright-3abe2df289f6",
+      "url:https://jobright.ai/jobs/info/6ae435d777c09cb3bd4abb0d",
+      "jobright-8af573cc312e",
+      "url:https://jobright.ai/jobs/info/6ae431aad45dc30fb7d2f186",
+      "jobright-69aaba68f992",
+      "url:https://jobright.ai/jobs/info/6ae3f807d45dc30fb7d2e068",
+      "jobright-db5d4f18d262",
+      "url:https://jobright.ai/jobs/info/6ae42291d7424a2a828e5504",
+      "jobright-91ac431a1e8f",
+      "url:https://jobright.ai/jobs/info/6ae42156eab1f96730979791",
+      "jobright-c865f36fa066",
+      "url:https://jobright.ai/jobs/info/6ae402efd7424a2a828e4b56",
+      "jobright-c32c9e1541e2",
+      "url:https://jobright.ai/jobs/info/6abea60f064da25272e01ebb",
+      "jobright-22c1cc4d9c71",
+      "url:https://jobright.ai/jobs/info/6ae4139bd7424a2a828e509c",
+      "jobright-00efb752a67e",
+      "url:https://jobright.ai/jobs/info/6ae3f6eec3139b475b5b19c3",
+      "jobright-f3bfbbed5b77",
+      "url:https://jobright.ai/jobs/info/6ae410c3c3139b475b5b23f9",
+      "jobright-31d29f159a05",
+      "url:https://jobright.ai/jobs/info/6ae3fd22d7424a2a828e4804",
+      "jobright-5dc70ba0f699",
+      "url:https://jobright.ai/jobs/info/6ae41873d7424a2a828e5250",
+      "applyguy-02420761-44db-4978-b66e-199bc07555c2",
+      "url:https://job-boards.greenhouse.io/captivation/jobs/5467652008",
+      "applyguy-27486e1a-f062-44c7-aa01-41299db69665",
+      "url:https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896"
     ]
   }
 }
