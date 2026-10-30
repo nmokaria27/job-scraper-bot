@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-51e23c512e37",
-      "seen_at": "2026-09-30T02:01:19.685193+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abc3d7a92b2612ef0f8dca2",
-      "seen_at": "2026-09-30T02:01:19.686193+00:00"
-    },
-    {
       "id": "jobright-52a393b286c6",
       "seen_at": "2026-09-30T03:01:25.218761+00:00"
     },
@@ -27733,7 +27725,7 @@
       "seen_at": "2026-10-30T01:54:33.336225+00:00"
     }
   ],
-  "last_run": "2026-10-30T02:01:25.255367+00:00",
+  "last_run": "2026-10-30T02:31:07.162042+00:00",
   "total_notified": 10915,
   "channels": {
     "pm-jobs": [
@@ -28898,8 +28890,6 @@
       "url:https://jobright.ai/jobs/info/6ae3c3b1d7424a2a828e2bbc"
     ],
     "swe-ai-full-time": [
-      "jobright-51e23c512e37",
-      "url:https://jobright.ai/jobs/info/6abc3d7a92b2612ef0f8dca2",
       "jobright-52a393b286c6",
       "url:https://jobright.ai/jobs/info/6abc5b8b187b1378d873db8e",
       "jobright-9b03cb7327c2",
