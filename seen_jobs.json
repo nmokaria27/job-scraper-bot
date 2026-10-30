@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-1fa67bc71644",
-      "seen_at": "2026-09-29T23:31:25.882959+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026739",
-      "seen_at": "2026-09-29T23:31:25.884003+00:00"
-    },
-    {
-      "id": "ashby-openai-c7bcdaec-9714-44b0-8ba8-adc824594b54",
-      "seen_at": "2026-09-29T23:31:25.885018+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/c7bcdaec-9714-44b0-8ba8-adc824594b54",
-      "seen_at": "2026-09-29T23:31:25.885920+00:00"
-    },
-    {
-      "id": "simplify-9868e2ad-7703-44a2-9e77-0c36692e4ba3",
-      "seen_at": "2026-09-29T23:31:25.886863+00:00"
-    },
-    {
-      "id": "url:https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs",
-      "seen_at": "2026-09-29T23:31:25.887849+00:00"
-    },
-    {
-      "id": "lever-zoox-63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
-      "seen_at": "2026-09-29T23:31:25.888770+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/zoox/63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
-      "seen_at": "2026-09-29T23:31:25.889673+00:00"
-    },
-    {
-      "id": "simplify-4b8da7bf-da9e-457a-9c7f-e77628d1066e",
-      "seen_at": "2026-09-29T23:31:25.890578+00:00"
-    },
-    {
-      "id": "url:https://careers.na.panasonic.com/jobs/50895",
-      "seen_at": "2026-09-29T23:31:25.891515+00:00"
-    },
-    {
       "id": "gradtracker-0ff2aed66362",
       "seen_at": "2026-09-30T00:01:27.473313+00:00"
     },
@@ -27755,10 +27715,34 @@
     {
       "id": "url:https://apply.workable.com/raydar/j/899876B20C/apply",
       "seen_at": "2026-10-29T23:31:14.858950+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5467099008",
+      "seen_at": "2026-10-30T00:01:31.569352+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5467099008",
+      "seen_at": "2026-10-30T00:01:31.569926+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5467092008",
+      "seen_at": "2026-10-30T00:01:31.570472+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5467092008",
+      "seen_at": "2026-10-30T00:01:31.570933+00:00"
+    },
+    {
+      "id": "jobright-62258a8efa7f",
+      "seen_at": "2026-10-30T00:01:33.412264+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3c5a277c09cb3bd4a8ebe",
+      "seen_at": "2026-10-30T00:01:33.412742+00:00"
     }
   ],
-  "last_run": "2026-10-29T23:31:15.214694+00:00",
-  "total_notified": 10902,
+  "last_run": "2026-10-30T00:01:33.606968+00:00",
+  "total_notified": 10905,
   "channels": {
     "pm-jobs": [
       "jobright-a2973dc1d86d",
@@ -28919,19 +28903,11 @@
       "simplify-50ca81f4-d9ac-4adc-8bc8-76a4a879f365",
       "url:https://apply.workable.com/raydar/j/0D7E553664/apply",
       "simplify-beda6dce-9ed8-4470-86ab-3ba967612923",
-      "url:https://apply.workable.com/raydar/j/899876B20C/apply"
+      "url:https://apply.workable.com/raydar/j/899876B20C/apply",
+      "jobright-62258a8efa7f",
+      "url:https://jobright.ai/jobs/info/6ae3c5a277c09cb3bd4a8ebe"
     ],
     "swe-ai-full-time": [
-      "zapply-1fa67bc71644",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026739",
-      "ashby-openai-c7bcdaec-9714-44b0-8ba8-adc824594b54",
-      "url:https://jobs.ashbyhq.com/openai/c7bcdaec-9714-44b0-8ba8-adc824594b54",
-      "simplify-9868e2ad-7703-44a2-9e77-0c36692e4ba3",
-      "url:https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs",
-      "lever-zoox-63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
-      "url:https://jobs.lever.co/zoox/63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
-      "simplify-4b8da7bf-da9e-457a-9c7f-e77628d1066e",
-      "url:https://careers.na.panasonic.com/jobs/50895",
       "gradtracker-0ff2aed66362",
       "url:https://jobs.smartrecruiters.com/servicenow/744000152540769",
       "gradtracker-96cb6765ba0f",
@@ -34707,7 +34683,11 @@
       "simplify-8ecc9fb7-073b-414e-b15e-430deff72db4",
       "url:https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389-1",
       "simplify-3c0371ef-c2a7-48a7-81ea-f702cbba32f1",
-      "url:https://go.vansh.nyc/10c"
+      "url:https://go.vansh.nyc/10c",
+      "greenhouse-anthropic-5467099008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5467099008",
+      "greenhouse-anthropic-5467092008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5467092008"
     ]
   }
 }
