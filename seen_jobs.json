@@ -27707,10 +27707,26 @@
     {
       "id": "url:https://paypal.eightfold.ai/careers/job/274923067600",
       "seen_at": "2026-10-30T00:31:15.727766+00:00"
+    },
+    {
+      "id": "jobright-ed4187083ec8",
+      "seen_at": "2026-10-30T01:01:18.911081+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3cff8eab1f9673097759b",
+      "seen_at": "2026-10-30T01:01:18.911616+00:00"
+    },
+    {
+      "id": "jobright-4cfa1837b480",
+      "seen_at": "2026-10-30T01:01:18.912151+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3bfd5fb2cd420ace53c97",
+      "seen_at": "2026-10-30T01:01:18.912636+00:00"
     }
   ],
-  "last_run": "2026-10-30T00:31:16.587780+00:00",
-  "total_notified": 10909,
+  "last_run": "2026-10-30T01:01:19.953253+00:00",
+  "total_notified": 10911,
   "channels": {
     "pm-jobs": [
       "zapply-55ebc54ceadd",
@@ -34647,7 +34663,11 @@
       "gradtracker-b5177ba4ccaa",
       "url:https://www.amazon.jobs/en/jobs/10593163/software-development-engineer-embedded-flight-computer-software",
       "gradtracker-adc8a2b20148",
-      "url:https://paypal.eightfold.ai/careers/job/274923067600"
+      "url:https://paypal.eightfold.ai/careers/job/274923067600",
+      "jobright-ed4187083ec8",
+      "url:https://jobright.ai/jobs/info/6ae3cff8eab1f9673097759b",
+      "jobright-4cfa1837b480",
+      "url:https://jobright.ai/jobs/info/6ae3bfd5fb2cd420ace53c97"
     ]
   }
 }
