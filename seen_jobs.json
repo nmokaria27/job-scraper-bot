@@ -27819,10 +27819,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aaa094ea2db131437b605f4",
       "seen_at": "2026-10-30T12:01:37.931955+00:00"
+    },
+    {
+      "id": "jobright-aa22decc5981",
+      "seen_at": "2026-10-30T13:01:46.555741+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae4789beab1f9673097a885",
+      "seen_at": "2026-10-30T13:01:46.556214+00:00"
+    },
+    {
+      "id": "jobright-669215abf519",
+      "seen_at": "2026-10-30T13:01:46.556578+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae47649eab1f9673097a818",
+      "seen_at": "2026-10-30T13:01:46.556914+00:00"
+    },
+    {
+      "id": "jobright-59d50c2f4f39",
+      "seen_at": "2026-10-30T13:01:46.557239+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae47bf877c09cb3bd4ac8d9",
+      "seen_at": "2026-10-30T13:01:46.557560+00:00"
     }
   ],
-  "last_run": "2026-10-30T12:31:31.797996+00:00",
-  "total_notified": 10937,
+  "last_run": "2026-10-30T13:01:47.418291+00:00",
+  "total_notified": 10940,
   "channels": {
     "pm-jobs": [
       "zapply-de08be6aa400",
@@ -34787,7 +34811,13 @@
       "jobright-d4bfff8b8cf8",
       "url:https://jobright.ai/jobs/info/6ae45c8beab1f9673097a31f",
       "jobright-bd82207f928f",
-      "url:https://jobright.ai/jobs/info/6aaa094ea2db131437b605f4"
+      "url:https://jobright.ai/jobs/info/6aaa094ea2db131437b605f4",
+      "jobright-aa22decc5981",
+      "url:https://jobright.ai/jobs/info/6ae4789beab1f9673097a885",
+      "jobright-669215abf519",
+      "url:https://jobright.ai/jobs/info/6ae47649eab1f9673097a818",
+      "jobright-59d50c2f4f39",
+      "url:https://jobright.ai/jobs/info/6ae47bf877c09cb3bd4ac8d9"
     ]
   }
 }
