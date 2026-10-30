@@ -1,142 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-ba67045a-ca8a-4f4a-b1a7-ab42def6be77",
-      "seen_at": "2026-09-30T23:01:23.109644+00:00"
-    },
-    {
-      "id": "url:https://careers-ftidefense.icims.com/jobs/7093/job",
-      "seen_at": "2026-09-30T23:01:23.110650+00:00"
-    },
-    {
-      "id": "simplify-d739b0c1-7de2-4820-8075-fc8cf49855fd",
-      "seen_at": "2026-09-30T23:01:23.111608+00:00"
-    },
-    {
-      "id": "url:https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
-      "seen_at": "2026-09-30T23:01:23.112529+00:00"
-    },
-    {
-      "id": "simplify-2769aa70-1382-4688-a523-01231176c4df",
-      "seen_at": "2026-09-30T23:01:23.113472+00:00"
-    },
-    {
-      "id": "url:https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
-      "seen_at": "2026-09-30T23:01:23.114388+00:00"
-    },
-    {
-      "id": "jobright-f4364f2d91cd",
-      "seen_at": "2026-09-30T23:01:23.115306+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abd71ea4ac55253f5d5d6da",
-      "seen_at": "2026-09-30T23:01:23.116226+00:00"
-    },
-    {
-      "id": "applyguy-a4f33086-4971-420a-8235-700ed4193a4d",
-      "seen_at": "2026-09-30T23:01:23.117179+00:00"
-    },
-    {
-      "id": "url:https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015",
-      "seen_at": "2026-09-30T23:01:23.118100+00:00"
-    },
-    {
-      "id": "simplify-3d00be97-0582-45ae-a8eb-87b75501dddc",
-      "seen_at": "2026-09-30T23:01:23.119026+00:00"
-    },
-    {
-      "id": "url:https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21843",
-      "seen_at": "2026-09-30T23:01:23.119944+00:00"
-    },
-    {
-      "id": "simplify-441e1cb7-e771-4195-8f30-ab85f0750b89",
-      "seen_at": "2026-09-30T23:01:23.120864+00:00"
-    },
-    {
-      "id": "url:https://careers-ftidefense.icims.com/jobs/7095/job",
-      "seen_at": "2026-09-30T23:01:23.121787+00:00"
-    },
-    {
-      "id": "simplify-9a553838-a007-4071-b969-45ccfd1b81cb",
-      "seen_at": "2026-09-30T23:01:23.122701+00:00"
-    },
-    {
-      "id": "url:https://careers-ftidefense.icims.com/jobs/7097/job",
-      "seen_at": "2026-09-30T23:01:23.123617+00:00"
-    },
-    {
-      "id": "applyguy-17c47596-249e-4028-84ce-c3c52991a7fe",
-      "seen_at": "2026-09-30T23:01:23.124536+00:00"
-    },
-    {
-      "id": "url:https://btisolutions.wd12.myworkdayjobs.com/external/job/Remote-TX/Jr-Front-End-Developer_JR102080-1",
-      "seen_at": "2026-09-30T23:01:23.125453+00:00"
-    },
-    {
-      "id": "zapply-6cdcb8c45410",
-      "seen_at": "2026-09-30T23:01:23.126377+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026819",
-      "seen_at": "2026-09-30T23:01:23.127299+00:00"
-    },
-    {
-      "id": "zapply-8792c8009f81",
-      "seen_at": "2026-09-30T23:01:23.128222+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026351",
-      "seen_at": "2026-09-30T23:01:23.129139+00:00"
-    },
-    {
-      "id": "zapply-1ee17cf0b92c",
-      "seen_at": "2026-09-30T23:01:23.130079+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amd-92921",
-      "seen_at": "2026-09-30T23:01:23.130996+00:00"
-    },
-    {
-      "id": "zapply-4782331182d7",
-      "seen_at": "2026-09-30T23:01:23.131915+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-snowflake-16d130a1-4014-4458-829f-ea2ba48d366d",
-      "seen_at": "2026-09-30T23:01:23.132835+00:00"
-    },
-    {
-      "id": "jobright-82ea5a9c8e59",
-      "seen_at": "2026-09-30T23:01:23.133740+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abd78aa0e027c0f3b395da2",
-      "seen_at": "2026-09-30T23:01:23.134656+00:00"
-    },
-    {
-      "id": "zapply-6d0e1e911f8f",
-      "seen_at": "2026-09-30T23:01:23.135581+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR352223",
-      "seen_at": "2026-09-30T23:01:23.136492+00:00"
-    },
-    {
-      "id": "zapply-140e965d118e",
-      "seen_at": "2026-09-30T23:01:30.203974+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-notion-be6e1a35-d467-48e6-96bf-62afc4ad0126",
-      "seen_at": "2026-09-30T23:01:30.204849+00:00"
-    },
-    {
-      "id": "ashby-notion-be6e1a35-d467-48e6-96bf-62afc4ad0126",
-      "seen_at": "2026-09-30T23:01:30.205683+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/notion/be6e1a35-d467-48e6-96bf-62afc4ad0126",
-      "seen_at": "2026-09-30T23:01:30.206507+00:00"
-    },
-    {
       "id": "simplify-9f70bf51-8203-4e85-85f8-f1b6a62f09a1",
       "seen_at": "2026-09-30T23:31:21.841272+00:00"
     },
@@ -27411,16 +27275,100 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae50a5d77c09cb3bd4b1622",
       "seen_at": "2026-10-30T23:01:12.847699+00:00"
+    },
+    {
+      "id": "simplify-b24bfbb9-6921-4686-96cc-68aa3d8a3400",
+      "seen_at": "2026-10-30T23:31:53.085492+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/raydar/j/4C6517AC1B/apply",
+      "seen_at": "2026-10-30T23:31:53.086051+00:00"
+    },
+    {
+      "id": "simplify-49ac054d-6120-45f3-9704-30823f0c902f",
+      "seen_at": "2026-10-30T23:31:53.086585+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us",
+      "seen_at": "2026-10-30T23:31:53.087024+00:00"
+    },
+    {
+      "id": "simplify-05c1ae03-6cd5-4072-ac65-f5bcc17438ed",
+      "seen_at": "2026-10-30T23:31:53.087485+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/11i",
+      "seen_at": "2026-10-30T23:31:53.087926+00:00"
+    },
+    {
+      "id": "zapply-5562e62d6c83",
+      "seen_at": "2026-10-30T23:31:53.088392+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-5ff0199f-83f5-4139-be12-3dc4f8b52bf8",
+      "seen_at": "2026-10-30T23:31:53.088827+00:00"
+    },
+    {
+      "id": "simplify-fa428a84-cc4e-4bd1-a258-d20af2ff146c",
+      "seen_at": "2026-10-30T23:31:53.089286+00:00"
+    },
+    {
+      "id": "url:https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391",
+      "seen_at": "2026-10-30T23:31:53.089724+00:00"
+    },
+    {
+      "id": "simplify-32d3d3e3-69ab-4d15-a0fd-a71e46167a58",
+      "seen_at": "2026-10-30T23:31:53.090160+00:00"
+    },
+    {
+      "id": "url:https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898",
+      "seen_at": "2026-10-30T23:31:53.090615+00:00"
+    },
+    {
+      "id": "amazon-10593916",
+      "seen_at": "2026-10-30T23:31:53.091053+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10593916/data-scientist-music-disco",
+      "seen_at": "2026-10-30T23:31:53.091500+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2010161",
+      "seen_at": "2026-10-30T23:31:53.091939+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161",
+      "seen_at": "2026-10-30T23:31:53.092378+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2011473",
+      "seen_at": "2026-10-30T23:31:53.092813+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473",
+      "seen_at": "2026-10-30T23:31:53.093237+00:00"
+    },
+    {
+      "id": "simplify-379c2dbc-a472-4d71-b0a8-d19e0355d1af",
+      "seen_at": "2026-10-30T23:31:55.282339+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/Wise/744000158848229",
+      "seen_at": "2026-10-30T23:31:55.282809+00:00"
+    },
+    {
+      "id": "simplify-19442303-0bd1-4e50-8ef7-632f6a1c41e2",
+      "seen_at": "2026-10-30T23:31:55.283282+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/11h",
+      "seen_at": "2026-10-30T23:31:55.283703+00:00"
     }
   ],
-  "last_run": "2026-10-30T23:01:14.023917+00:00",
-  "total_notified": 11001,
+  "last_run": "2026-10-30T23:31:55.618654+00:00",
+  "total_notified": 11012,
   "channels": {
     "pm-jobs": [
-      "zapply-140e965d118e",
-      "url:https://zapply.jobs/l/d/ashby-notion-be6e1a35-d467-48e6-96bf-62afc4ad0126",
-      "ashby-notion-be6e1a35-d467-48e6-96bf-62afc4ad0126",
-      "url:https://jobs.ashbyhq.com/notion/be6e1a35-d467-48e6-96bf-62afc4ad0126",
       "zapply-9b576f83875f",
       "url:https://zapply.jobs/l/d/apple-200636743",
       "jobright-5e102a32bce3",
@@ -28565,39 +28513,13 @@
       "zapply-2cdb5eea0eb9",
       "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231533",
       "jobright-e8cc817adc67",
-      "url:https://jobright.ai/jobs/info/6ae4fc07c3139b475b5b7cd7"
+      "url:https://jobright.ai/jobs/info/6ae4fc07c3139b475b5b7cd7",
+      "simplify-379c2dbc-a472-4d71-b0a8-d19e0355d1af",
+      "url:https://jobs.smartrecruiters.com/Wise/744000158848229",
+      "simplify-19442303-0bd1-4e50-8ef7-632f6a1c41e2",
+      "url:https://go.vansh.nyc/11h"
     ],
     "swe-ai-full-time": [
-      "simplify-ba67045a-ca8a-4f4a-b1a7-ab42def6be77",
-      "url:https://careers-ftidefense.icims.com/jobs/7093/job",
-      "simplify-d739b0c1-7de2-4820-8075-fc8cf49855fd",
-      "url:https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
-      "simplify-2769aa70-1382-4688-a523-01231176c4df",
-      "url:https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
-      "jobright-f4364f2d91cd",
-      "url:https://jobright.ai/jobs/info/6abd71ea4ac55253f5d5d6da",
-      "applyguy-a4f33086-4971-420a-8235-700ed4193a4d",
-      "url:https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015",
-      "simplify-3d00be97-0582-45ae-a8eb-87b75501dddc",
-      "url:https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21843",
-      "simplify-441e1cb7-e771-4195-8f30-ab85f0750b89",
-      "url:https://careers-ftidefense.icims.com/jobs/7095/job",
-      "simplify-9a553838-a007-4071-b969-45ccfd1b81cb",
-      "url:https://careers-ftidefense.icims.com/jobs/7097/job",
-      "applyguy-17c47596-249e-4028-84ce-c3c52991a7fe",
-      "url:https://btisolutions.wd12.myworkdayjobs.com/external/job/Remote-TX/Jr-Front-End-Developer_JR102080-1",
-      "zapply-6cdcb8c45410",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026819",
-      "zapply-8792c8009f81",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026351",
-      "zapply-1ee17cf0b92c",
-      "url:https://zapply.jobs/l/d/amd-92921",
-      "zapply-4782331182d7",
-      "url:https://zapply.jobs/l/d/ashby-snowflake-16d130a1-4014-4458-829f-ea2ba48d366d",
-      "jobright-82ea5a9c8e59",
-      "url:https://jobright.ai/jobs/info/6abd78aa0e027c0f3b395da2",
-      "zapply-6d0e1e911f8f",
-      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR352223",
       "simplify-9f70bf51-8203-4e85-85f8-f1b6a62f09a1",
       "url:https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad",
       "zapply-8a9b929118e4",
@@ -34277,7 +34199,25 @@
       "amazon-10593902",
       "url:https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us",
       "jobright-d5d56e384e15",
-      "url:https://jobright.ai/jobs/info/6ae50a5d77c09cb3bd4b1622"
+      "url:https://jobright.ai/jobs/info/6ae50a5d77c09cb3bd4b1622",
+      "simplify-b24bfbb9-6921-4686-96cc-68aa3d8a3400",
+      "url:https://apply.workable.com/raydar/j/4C6517AC1B/apply",
+      "simplify-49ac054d-6120-45f3-9704-30823f0c902f",
+      "url:https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us",
+      "simplify-05c1ae03-6cd5-4072-ac65-f5bcc17438ed",
+      "url:https://go.vansh.nyc/11i",
+      "zapply-5562e62d6c83",
+      "url:https://zapply.jobs/l/d/amazon-5ff0199f-83f5-4139-be12-3dc4f8b52bf8",
+      "simplify-fa428a84-cc4e-4bd1-a258-d20af2ff146c",
+      "url:https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391",
+      "simplify-32d3d3e3-69ab-4d15-a0fd-a71e46167a58",
+      "url:https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898",
+      "amazon-10593916",
+      "url:https://www.amazon.jobs/en/jobs/10593916/data-scientist-music-disco",
+      "workday-nvidia-JR2010161",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161",
+      "workday-nvidia-JR2011473",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473"
     ]
   }
 }
