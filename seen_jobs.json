@@ -1,70 +1,6 @@
 {
   "jobs": [
     {
-      "id": "gradtracker-0ff2aed66362",
-      "seen_at": "2026-09-30T00:01:27.473313+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000152540769",
-      "seen_at": "2026-09-30T00:01:27.474373+00:00"
-    },
-    {
-      "id": "gradtracker-96cb6765ba0f",
-      "seen_at": "2026-09-30T00:01:27.475332+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446720923794",
-      "seen_at": "2026-09-30T00:01:27.476250+00:00"
-    },
-    {
-      "id": "zapply-92629ff157e1",
-      "seen_at": "2026-09-30T00:01:27.477189+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/apple-200686299",
-      "seen_at": "2026-09-30T00:01:27.478111+00:00"
-    },
-    {
-      "id": "jobright-47248574a49c",
-      "seen_at": "2026-09-30T00:01:27.478999+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abc3a9fb23c6fb2b81a5ebf",
-      "seen_at": "2026-09-30T00:01:27.479857+00:00"
-    },
-    {
-      "id": "jobright-a2973dc1d86d",
-      "seen_at": "2026-09-30T00:01:34.527988+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abc321892b2612ef0f8d9c5",
-      "seen_at": "2026-09-30T00:01:34.528868+00:00"
-    },
-    {
-      "id": "workday-nvidia-JR2026477",
-      "seen_at": "2026-09-30T00:22:19.913974+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
-      "seen_at": "2026-09-30T00:22:19.915071+00:00"
-    },
-    {
-      "id": "amazon-10564562",
-      "seen_at": "2026-09-30T00:22:19.916031+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10564562/software-development-engineer-s3-storage-cells",
-      "seen_at": "2026-09-30T00:22:19.916926+00:00"
-    },
-    {
-      "id": "ashby-nousresearch-c5563fb9-303b-40b4-98ad-8ddea722c49b",
-      "seen_at": "2026-09-30T00:22:26.410972+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/nousresearch/c5563fb9-303b-40b4-98ad-8ddea722c49b",
-      "seen_at": "2026-09-30T00:22:26.412088+00:00"
-    },
-    {
       "id": "zapply-c212677df3e5",
       "seen_at": "2026-09-30T01:01:18.768753+00:00"
     },
@@ -27739,16 +27675,44 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae3c5a277c09cb3bd4a8ebe",
       "seen_at": "2026-10-30T00:01:33.412742+00:00"
+    },
+    {
+      "id": "gradtracker-9db92a3dd8dc",
+      "seen_at": "2026-10-30T00:31:15.725941+00:00"
+    },
+    {
+      "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682",
+      "seen_at": "2026-10-30T00:31:15.726296+00:00"
+    },
+    {
+      "id": "gradtracker-49e91ef1665b",
+      "seen_at": "2026-10-30T00:31:15.726570+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10593119/software-development-engineer-mobile-app-foundations-builderworks",
+      "seen_at": "2026-10-30T00:31:15.726819+00:00"
+    },
+    {
+      "id": "gradtracker-b5177ba4ccaa",
+      "seen_at": "2026-10-30T00:31:15.727069+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10593163/software-development-engineer-embedded-flight-computer-software",
+      "seen_at": "2026-10-30T00:31:15.727311+00:00"
+    },
+    {
+      "id": "gradtracker-adc8a2b20148",
+      "seen_at": "2026-10-30T00:31:15.727543+00:00"
+    },
+    {
+      "id": "url:https://paypal.eightfold.ai/careers/job/274923067600",
+      "seen_at": "2026-10-30T00:31:15.727766+00:00"
     }
   ],
-  "last_run": "2026-10-30T00:01:33.606968+00:00",
-  "total_notified": 10905,
+  "last_run": "2026-10-30T00:31:16.587780+00:00",
+  "total_notified": 10909,
   "channels": {
     "pm-jobs": [
-      "jobright-a2973dc1d86d",
-      "url:https://jobright.ai/jobs/info/6abc321892b2612ef0f8d9c5",
-      "ashby-nousresearch-c5563fb9-303b-40b4-98ad-8ddea722c49b",
-      "url:https://jobs.ashbyhq.com/nousresearch/c5563fb9-303b-40b4-98ad-8ddea722c49b",
       "zapply-55ebc54ceadd",
       "url:https://zapply.jobs/l/d/ashby-base-power-1bca5a4f-47a9-49d9-a06d-09f78a2d7469",
       "jobright-7b2e8237c41f",
@@ -28908,18 +28872,6 @@
       "url:https://jobright.ai/jobs/info/6ae3c5a277c09cb3bd4a8ebe"
     ],
     "swe-ai-full-time": [
-      "gradtracker-0ff2aed66362",
-      "url:https://jobs.smartrecruiters.com/servicenow/744000152540769",
-      "gradtracker-96cb6765ba0f",
-      "url:https://careers.qualcomm.com/careers/job/446720923794",
-      "zapply-92629ff157e1",
-      "url:https://zapply.jobs/l/d/apple-200686299",
-      "jobright-47248574a49c",
-      "url:https://jobright.ai/jobs/info/6abc3a9fb23c6fb2b81a5ebf",
-      "workday-nvidia-JR2026477",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
-      "amazon-10564562",
-      "url:https://www.amazon.jobs/en/jobs/10564562/software-development-engineer-s3-storage-cells",
       "zapply-c212677df3e5",
       "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026477",
       "jobright-45669dac710b",
@@ -34687,7 +34639,15 @@
       "greenhouse-anthropic-5467099008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5467099008",
       "greenhouse-anthropic-5467092008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5467092008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5467092008",
+      "gradtracker-9db92a3dd8dc",
+      "url:https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682",
+      "gradtracker-49e91ef1665b",
+      "url:https://www.amazon.jobs/en/jobs/10593119/software-development-engineer-mobile-app-foundations-builderworks",
+      "gradtracker-b5177ba4ccaa",
+      "url:https://www.amazon.jobs/en/jobs/10593163/software-development-engineer-embedded-flight-computer-software",
+      "gradtracker-adc8a2b20148",
+      "url:https://paypal.eightfold.ai/careers/job/274923067600"
     ]
   }
 }
