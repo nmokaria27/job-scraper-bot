@@ -27843,10 +27843,66 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103835",
       "seen_at": "2026-10-30T14:31:20.742289+00:00"
+    },
+    {
+      "id": "jobright-7c4a8a376dc7",
+      "seen_at": "2026-10-30T15:01:44.028019+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae49bb4d7424a2a828e6f5e",
+      "seen_at": "2026-10-30T15:01:44.028519+00:00"
+    },
+    {
+      "id": "jobright-3e0316dcd9f7",
+      "seen_at": "2026-10-30T15:01:44.028996+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae494b3eab1f9673097af27",
+      "seen_at": "2026-10-30T15:01:44.029413+00:00"
+    },
+    {
+      "id": "jobright-118098c9357b",
+      "seen_at": "2026-10-30T15:01:44.029900+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a3aedb4649fdf162930671e",
+      "seen_at": "2026-10-30T15:01:44.030290+00:00"
+    },
+    {
+      "id": "jobright-2be27c3e7d5a",
+      "seen_at": "2026-10-30T15:01:44.030704+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae47c00c3139b475b5b3a84",
+      "seen_at": "2026-10-30T15:01:44.031078+00:00"
+    },
+    {
+      "id": "jobright-771d5b6d3bda",
+      "seen_at": "2026-10-30T15:01:44.031477+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae47c0ad7424a2a828e661c",
+      "seen_at": "2026-10-30T15:01:44.031869+00:00"
+    },
+    {
+      "id": "simplify-5c56c311-5f00-4ba4-bd70-407f32096c97",
+      "seen_at": "2026-10-30T15:01:46.092962+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/Wise/744000158723445",
+      "seen_at": "2026-10-30T15:01:46.093437+00:00"
+    },
+    {
+      "id": "simplify-845412a1-1c75-4a84-831d-5c07eeca5b6d",
+      "seen_at": "2026-10-30T15:01:46.093864+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/10u",
+      "seen_at": "2026-10-30T15:01:46.094224+00:00"
     }
   ],
-  "last_run": "2026-10-30T14:31:21.741799+00:00",
-  "total_notified": 10946,
+  "last_run": "2026-10-30T15:01:46.432219+00:00",
+  "total_notified": 10953,
   "channels": {
     "pm-jobs": [
       "zapply-3c09c4a62406",
@@ -29005,7 +29061,11 @@
       "zapply-99acc3da2f92",
       "url:https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-287179",
       "zapply-cbb4bc75a66d",
-      "url:https://zapply.jobs/l/d/sr-ServiceNow-744000158742369"
+      "url:https://zapply.jobs/l/d/sr-ServiceNow-744000158742369",
+      "simplify-5c56c311-5f00-4ba4-bd70-407f32096c97",
+      "url:https://jobs.smartrecruiters.com/Wise/744000158723445",
+      "simplify-845412a1-1c75-4a84-831d-5c07eeca5b6d",
+      "url:https://go.vansh.nyc/10u"
     ],
     "swe-ai-full-time": [
       "jobright-291e1c6f9e03",
@@ -34817,7 +34877,17 @@
       "jobright-804ade88c46e",
       "url:https://jobright.ai/jobs/info/6aae40202e757fcb5c8bb489",
       "zapply-e232f8c30662",
-      "url:https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103835"
+      "url:https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103835",
+      "jobright-7c4a8a376dc7",
+      "url:https://jobright.ai/jobs/info/6ae49bb4d7424a2a828e6f5e",
+      "jobright-3e0316dcd9f7",
+      "url:https://jobright.ai/jobs/info/6ae494b3eab1f9673097af27",
+      "jobright-118098c9357b",
+      "url:https://jobright.ai/jobs/info/6a3aedb4649fdf162930671e",
+      "jobright-2be27c3e7d5a",
+      "url:https://jobright.ai/jobs/info/6ae47c00c3139b475b5b3a84",
+      "jobright-771d5b6d3bda",
+      "url:https://jobright.ai/jobs/info/6ae47c0ad7424a2a828e661c"
     ]
   }
 }
