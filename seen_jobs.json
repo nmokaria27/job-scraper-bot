@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-291e1c6f9e03",
-      "seen_at": "2026-09-30T15:01:33.222931+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab31e3230340229a3231937",
-      "seen_at": "2026-09-30T15:01:33.224025+00:00"
-    },
-    {
-      "id": "simplify-5d0c84fa-1994-4946-a104-4a9b317a3f9c",
-      "seen_at": "2026-09-30T15:01:33.225052+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application",
-      "seen_at": "2026-09-30T15:01:33.225989+00:00"
-    },
-    {
-      "id": "amazon-10565536",
-      "seen_at": "2026-09-30T15:01:33.226898+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10565536/software-development-engineer-agentcore-aws-agentic-ai",
-      "seen_at": "2026-09-30T15:01:33.227835+00:00"
-    },
-    {
-      "id": "simplify-822b37cc-a0a6-437f-94cb-e1d7221ab0e9",
-      "seen_at": "2026-09-30T15:01:33.228756+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/lucidcomputing/a19cd7c3-6ed2-4659-bf9a-1c27200319d7/application",
-      "seen_at": "2026-09-30T15:01:33.229666+00:00"
-    },
-    {
-      "id": "greenhouse-doordashusa-5635021",
-      "seen_at": "2026-09-30T15:01:33.230589+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/doordashusa/jobs/5635021",
-      "seen_at": "2026-09-30T15:01:33.231482+00:00"
-    },
-    {
       "id": "gradtracker-64bb94f3bce4",
       "seen_at": "2026-09-30T15:31:37.215983+00:00"
     },
@@ -27899,10 +27859,34 @@
     {
       "id": "url:https://go.vansh.nyc/10u",
       "seen_at": "2026-10-30T15:01:46.094224+00:00"
+    },
+    {
+      "id": "simplify-f7888bad-462c-451b-a9e7-6c7506eea223",
+      "seen_at": "2026-10-30T15:31:29.642821+00:00"
+    },
+    {
+      "id": "url:https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer",
+      "seen_at": "2026-10-30T15:31:29.643459+00:00"
+    },
+    {
+      "id": "gradtracker-b6a714555ba3",
+      "seen_at": "2026-10-30T15:31:29.644000+00:00"
+    },
+    {
+      "id": "url:https://morganstanley.eightfold.ai/careers/job/549800249911",
+      "seen_at": "2026-10-30T15:31:29.644446+00:00"
+    },
+    {
+      "id": "zapply-1d2b0d355307",
+      "seen_at": "2026-10-30T15:31:31.428265+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3161657",
+      "seen_at": "2026-10-30T15:31:31.428849+00:00"
     }
   ],
-  "last_run": "2026-10-30T15:01:46.432219+00:00",
-  "total_notified": 10953,
+  "last_run": "2026-10-30T15:31:31.798904+00:00",
+  "total_notified": 10956,
   "channels": {
     "pm-jobs": [
       "zapply-3c09c4a62406",
@@ -29065,19 +29049,11 @@
       "simplify-5c56c311-5f00-4ba4-bd70-407f32096c97",
       "url:https://jobs.smartrecruiters.com/Wise/744000158723445",
       "simplify-845412a1-1c75-4a84-831d-5c07eeca5b6d",
-      "url:https://go.vansh.nyc/10u"
+      "url:https://go.vansh.nyc/10u",
+      "zapply-1d2b0d355307",
+      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3161657"
     ],
     "swe-ai-full-time": [
-      "jobright-291e1c6f9e03",
-      "url:https://jobright.ai/jobs/info/6ab31e3230340229a3231937",
-      "simplify-5d0c84fa-1994-4946-a104-4a9b317a3f9c",
-      "url:https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application",
-      "amazon-10565536",
-      "url:https://www.amazon.jobs/en/jobs/10565536/software-development-engineer-agentcore-aws-agentic-ai",
-      "simplify-822b37cc-a0a6-437f-94cb-e1d7221ab0e9",
-      "url:https://jobs.ashbyhq.com/lucidcomputing/a19cd7c3-6ed2-4659-bf9a-1c27200319d7/application",
-      "greenhouse-doordashusa-5635021",
-      "url:https://job-boards.greenhouse.io/doordashusa/jobs/5635021",
       "gradtracker-64bb94f3bce4",
       "url:https://careers.qualcomm.com/careers/job/446721342586",
       "zapply-656ced0044f5",
@@ -34887,7 +34863,11 @@
       "jobright-2be27c3e7d5a",
       "url:https://jobright.ai/jobs/info/6ae47c00c3139b475b5b3a84",
       "jobright-771d5b6d3bda",
-      "url:https://jobright.ai/jobs/info/6ae47c0ad7424a2a828e661c"
+      "url:https://jobright.ai/jobs/info/6ae47c0ad7424a2a828e661c",
+      "simplify-f7888bad-462c-451b-a9e7-6c7506eea223",
+      "url:https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer",
+      "gradtracker-b6a714555ba3",
+      "url:https://morganstanley.eightfold.ai/careers/job/549800249911"
     ]
   }
 }
