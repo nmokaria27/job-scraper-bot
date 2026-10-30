@@ -27707,10 +27707,34 @@
     {
       "id": "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229",
       "seen_at": "2026-10-30T01:31:11.845150+00:00"
+    },
+    {
+      "id": "jobright-bc34ee5f05cf",
+      "seen_at": "2026-10-30T01:54:31.587817+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abea6128ff3fb9b3bc74df5",
+      "seen_at": "2026-10-30T01:54:31.588413+00:00"
+    },
+    {
+      "id": "jobright-dca172d5b8c4",
+      "seen_at": "2026-10-30T01:54:31.588904+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3dfd577c09cb3bd4a9aee",
+      "seen_at": "2026-10-30T01:54:31.589394+00:00"
+    },
+    {
+      "id": "jobright-5f21498790f4",
+      "seen_at": "2026-10-30T01:54:33.335750+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae3c3b1d7424a2a828e2bbc",
+      "seen_at": "2026-10-30T01:54:33.336225+00:00"
     }
   ],
-  "last_run": "2026-10-30T01:31:12.701454+00:00",
-  "total_notified": 10912,
+  "last_run": "2026-10-30T01:54:33.521153+00:00",
+  "total_notified": 10915,
   "channels": {
     "pm-jobs": [
       "zapply-55ebc54ceadd",
@@ -28869,7 +28893,9 @@
       "simplify-beda6dce-9ed8-4470-86ab-3ba967612923",
       "url:https://apply.workable.com/raydar/j/899876B20C/apply",
       "jobright-62258a8efa7f",
-      "url:https://jobright.ai/jobs/info/6ae3c5a277c09cb3bd4a8ebe"
+      "url:https://jobright.ai/jobs/info/6ae3c5a277c09cb3bd4a8ebe",
+      "jobright-5f21498790f4",
+      "url:https://jobright.ai/jobs/info/6ae3c3b1d7424a2a828e2bbc"
     ],
     "swe-ai-full-time": [
       "jobright-51e23c512e37",
@@ -34647,7 +34673,11 @@
       "jobright-4cfa1837b480",
       "url:https://jobright.ai/jobs/info/6ae3bfd5fb2cd420ace53c97",
       "applyguy-7ddd10b7-3603-4402-8faf-660128e31f77",
-      "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229"
+      "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229",
+      "jobright-bc34ee5f05cf",
+      "url:https://jobright.ai/jobs/info/6abea6128ff3fb9b3bc74df5",
+      "jobright-dca172d5b8c4",
+      "url:https://jobright.ai/jobs/info/6ae3dfd577c09cb3bd4a9aee"
     ]
   }
 }
