@@ -1,70 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-5dce58e80924",
-      "seen_at": "2026-09-30T20:31:21.425100+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157015",
-      "seen_at": "2026-09-30T20:31:21.426137+00:00"
-    },
-    {
-      "id": "zapply-c0e7f819ff26",
-      "seen_at": "2026-09-30T20:31:21.427095+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-eulerity-4718113006",
-      "seen_at": "2026-09-30T20:31:21.428018+00:00"
-    },
-    {
-      "id": "greenhouse-xai-5252714007",
-      "seen_at": "2026-09-30T20:31:21.428958+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/xai/jobs/5252714007",
-      "seen_at": "2026-09-30T20:31:21.429870+00:00"
-    },
-    {
-      "id": "jobright-4925a6701cff",
-      "seen_at": "2026-09-30T20:59:24.030008+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abd57f4d9621c5b2838bb09",
-      "seen_at": "2026-09-30T20:59:24.031064+00:00"
-    },
-    {
-      "id": "jobright-42a63bd05a59",
-      "seen_at": "2026-09-30T20:59:24.032034+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abd57e98ff3fb9b3bc701e3",
-      "seen_at": "2026-09-30T20:59:24.032956+00:00"
-    },
-    {
-      "id": "jobright-2a6f5ac64287",
-      "seen_at": "2026-09-30T20:59:24.033871+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abd552cd9621c5b2838b9f2",
-      "seen_at": "2026-09-30T20:59:24.034746+00:00"
-    },
-    {
-      "id": "jobright-5ce459b4a153",
-      "seen_at": "2026-09-30T20:59:24.035645+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abd615f064da25272dfd456",
-      "seen_at": "2026-09-30T20:59:24.036534+00:00"
-    },
-    {
-      "id": "jobright-93534783de92",
-      "seen_at": "2026-09-30T20:59:24.037427+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abd57f8d9621c5b2838bb0e",
-      "seen_at": "2026-09-30T20:59:24.038322+00:00"
-    },
-    {
       "id": "zapply-b268c82169cd",
       "seen_at": "2026-09-30T21:31:40.442042+00:00"
     },
@@ -27427,10 +27363,34 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10593798/research-scientist-scot-first-inbound",
       "seen_at": "2026-10-30T20:31:29.737717+00:00"
+    },
+    {
+      "id": "jobright-b57c99276fb9",
+      "seen_at": "2026-10-30T21:01:26.884298+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae4ee1477c09cb3bd4b0413",
+      "seen_at": "2026-10-30T21:01:26.884879+00:00"
+    },
+    {
+      "id": "jobright-9a3359413360",
+      "seen_at": "2026-10-30T21:01:26.885420+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae4e925eab1f9673097e0e7",
+      "seen_at": "2026-10-30T21:01:26.885919+00:00"
+    },
+    {
+      "id": "jobright-d1dbcad9a7dd",
+      "seen_at": "2026-10-30T21:01:26.886382+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae4c1b0fb2cd420ace59540",
+      "seen_at": "2026-10-30T21:01:26.886834+00:00"
     }
   ],
-  "last_run": "2026-10-30T20:31:30.642528+00:00",
-  "total_notified": 10984,
+  "last_run": "2026-10-30T21:01:28.112665+00:00",
+  "total_notified": 10987,
   "channels": {
     "pm-jobs": [
       "zapply-933ef44d2322",
@@ -28586,22 +28546,6 @@
       "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36530"
     ],
     "swe-ai-full-time": [
-      "zapply-5dce58e80924",
-      "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157015",
-      "zapply-c0e7f819ff26",
-      "url:https://zapply.jobs/l/d/greenhouse-eulerity-4718113006",
-      "greenhouse-xai-5252714007",
-      "url:https://job-boards.greenhouse.io/xai/jobs/5252714007",
-      "jobright-4925a6701cff",
-      "url:https://jobright.ai/jobs/info/6abd57f4d9621c5b2838bb09",
-      "jobright-42a63bd05a59",
-      "url:https://jobright.ai/jobs/info/6abd57e98ff3fb9b3bc701e3",
-      "jobright-2a6f5ac64287",
-      "url:https://jobright.ai/jobs/info/6abd552cd9621c5b2838b9f2",
-      "jobright-5ce459b4a153",
-      "url:https://jobright.ai/jobs/info/6abd615f064da25272dfd456",
-      "jobright-93534783de92",
-      "url:https://jobright.ai/jobs/info/6abd57f8d9621c5b2838bb0e",
       "zapply-b268c82169cd",
       "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1044328",
       "greenhouse-block-5427880008",
@@ -34297,7 +34241,13 @@
       "greenhouse-gitlab-8922013002",
       "url:https://job-boards.greenhouse.io/gitlab/jobs/8922013002",
       "amazon-10593798",
-      "url:https://www.amazon.jobs/en/jobs/10593798/research-scientist-scot-first-inbound"
+      "url:https://www.amazon.jobs/en/jobs/10593798/research-scientist-scot-first-inbound",
+      "jobright-b57c99276fb9",
+      "url:https://jobright.ai/jobs/info/6ae4ee1477c09cb3bd4b0413",
+      "jobright-9a3359413360",
+      "url:https://jobright.ai/jobs/info/6ae4e925eab1f9673097e0e7",
+      "jobright-d1dbcad9a7dd",
+      "url:https://jobright.ai/jobs/info/6ae4c1b0fb2cd420ace59540"
     ]
   }
 }
