@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "gradtracker-b5f0b7239447",
-      "seen_at": "2026-10-01T00:31:26.282186+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446721346942",
-      "seen_at": "2026-10-01T00:31:26.282810+00:00"
-    },
-    {
-      "id": "gradtracker-130ff3ac305d",
-      "seen_at": "2026-10-01T00:31:26.283349+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10565950/software-development-engineer-amazon-leo",
-      "seen_at": "2026-10-01T00:31:26.283856+00:00"
-    },
-    {
-      "id": "zapply-46aaae2dc9c1",
-      "seen_at": "2026-10-01T00:31:31.519771+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524276",
-      "seen_at": "2026-10-01T00:31:31.520317+00:00"
-    },
-    {
       "id": "simplify-986968af-4a3a-4038-96dc-9caaa8a58066",
       "seen_at": "2026-10-01T02:01:23.334014+00:00"
     },
@@ -27403,14 +27379,84 @@
     {
       "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accelerated-Computing-GPU-Product-Manager_JR2024923",
       "seen_at": "2026-10-31T00:31:23.204135+00:00"
+    },
+    {
+      "id": "ashby-perplexity-32a36cae-ad73-4198-9354-a72b141ff055",
+      "seen_at": "2026-10-31T01:01:06.374592+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/32a36cae-ad73-4198-9354-a72b141ff055",
+      "seen_at": "2026-10-31T01:01:06.375139+00:00"
+    },
+    {
+      "id": "ashby-perplexity-3f800e42-7c48-4f9a-9b12-43ee23e52516",
+      "seen_at": "2026-10-31T01:01:06.375632+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516",
+      "seen_at": "2026-10-31T01:01:06.376063+00:00"
+    },
+    {
+      "id": "ashby-perplexity-f45ba174-7e99-4743-9d19-6e4d3e196458",
+      "seen_at": "2026-10-31T01:01:06.376538+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/perplexity/f45ba174-7e99-4743-9d19-6e4d3e196458",
+      "seen_at": "2026-10-31T01:01:06.376967+00:00"
+    },
+    {
+      "id": "jobright-a8049f53ab84",
+      "seen_at": "2026-10-31T01:01:06.377417+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae528ffc3139b475b5b93ae",
+      "seen_at": "2026-10-31T01:01:06.377854+00:00"
+    },
+    {
+      "id": "jobright-3ebf9bf8b292",
+      "seen_at": "2026-10-31T01:01:06.378367+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae5214deab1f9673097feda",
+      "seen_at": "2026-10-31T01:01:06.378804+00:00"
+    },
+    {
+      "id": "jobright-f4771afb75de",
+      "seen_at": "2026-10-31T01:01:06.379291+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae51d10d45dc30fb7d3549a",
+      "seen_at": "2026-10-31T01:01:06.379728+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2020823",
+      "seen_at": "2026-10-31T01:01:08.260219+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager---BioNeMo-Inference_JR2020823",
+      "seen_at": "2026-10-31T01:01:08.260666+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2026207",
+      "seen_at": "2026-10-31T01:01:08.261111+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager---Open-Models_JR2026207",
+      "seen_at": "2026-10-31T01:01:08.261524+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2022366",
+      "seen_at": "2026-10-31T01:01:08.261931+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Product-Manager_JR2022366",
+      "seen_at": "2026-10-31T01:01:08.262335+00:00"
     }
   ],
-  "last_run": "2026-10-31T00:31:25.457840+00:00",
-  "total_notified": 11025,
+  "last_run": "2026-10-31T01:01:08.521076+00:00",
+  "total_notified": 11034,
   "channels": {
     "pm-jobs": [
-      "zapply-46aaae2dc9c1",
-      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524276",
       "workday-adobe-R172017",
       "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Product-Manager_R172017",
       "zapply-1de18b7d60da",
@@ -28559,13 +28605,15 @@
       "workday-nvidia-JR2020110",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Manager_JR2020110",
       "workday-nvidia-JR2024923",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accelerated-Computing-GPU-Product-Manager_JR2024923"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accelerated-Computing-GPU-Product-Manager_JR2024923",
+      "workday-nvidia-JR2020823",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager---BioNeMo-Inference_JR2020823",
+      "workday-nvidia-JR2026207",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager---Open-Models_JR2026207",
+      "workday-nvidia-JR2022366",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Product-Manager_JR2022366"
     ],
     "swe-ai-full-time": [
-      "gradtracker-b5f0b7239447",
-      "url:https://careers.qualcomm.com/careers/job/446721346942",
-      "gradtracker-130ff3ac305d",
-      "url:https://www.amazon.jobs/en/jobs/10565950/software-development-engineer-amazon-leo",
       "simplify-986968af-4a3a-4038-96dc-9caaa8a58066",
       "url:https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply",
       "simplify-42079b38-2a81-4395-8380-8127f696afaf",
@@ -34267,7 +34315,19 @@
       "zapply-d51d84fb5648",
       "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2011473",
       "gradtracker-555f6a3d63f7",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376"
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376",
+      "ashby-perplexity-32a36cae-ad73-4198-9354-a72b141ff055",
+      "url:https://jobs.ashbyhq.com/perplexity/32a36cae-ad73-4198-9354-a72b141ff055",
+      "ashby-perplexity-3f800e42-7c48-4f9a-9b12-43ee23e52516",
+      "url:https://jobs.ashbyhq.com/perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516",
+      "ashby-perplexity-f45ba174-7e99-4743-9d19-6e4d3e196458",
+      "url:https://jobs.ashbyhq.com/perplexity/f45ba174-7e99-4743-9d19-6e4d3e196458",
+      "jobright-a8049f53ab84",
+      "url:https://jobright.ai/jobs/info/6ae528ffc3139b475b5b93ae",
+      "jobright-3ebf9bf8b292",
+      "url:https://jobright.ai/jobs/info/6ae5214deab1f9673097feda",
+      "jobright-f4771afb75de",
+      "url:https://jobright.ai/jobs/info/6ae51d10d45dc30fb7d3549a"
     ]
   }
 }
