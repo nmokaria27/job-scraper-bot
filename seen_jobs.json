@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "applyguy-97cca630-5598-4d96-9eba-b8890bacafbb",
-      "seen_at": "2026-10-01T00:01:22.792307+00:00"
-    },
-    {
-      "id": "url:https://www.jamf.com/about/careers/jobs",
-      "seen_at": "2026-10-01T00:01:22.793376+00:00"
-    },
-    {
-      "id": "jobright-5e102a32bce3",
-      "seen_at": "2026-10-01T00:01:29.868672+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a6968612a5c103624db4903",
-      "seen_at": "2026-10-01T00:01:29.869585+00:00"
-    },
-    {
       "id": "gradtracker-b5f0b7239447",
       "seen_at": "2026-10-01T00:31:26.282186+00:00"
     },
@@ -27387,14 +27371,44 @@
     {
       "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Manager_JR2020110",
       "seen_at": "2026-10-31T00:01:23.631849+00:00"
+    },
+    {
+      "id": "greenhouse-chime-8922481002",
+      "seen_at": "2026-10-31T00:31:21.151217+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/chime/jobs/8922481002",
+      "seen_at": "2026-10-31T00:31:21.151671+00:00"
+    },
+    {
+      "id": "zapply-d51d84fb5648",
+      "seen_at": "2026-10-31T00:31:21.152037+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2011473",
+      "seen_at": "2026-10-31T00:31:21.152387+00:00"
+    },
+    {
+      "id": "gradtracker-555f6a3d63f7",
+      "seen_at": "2026-10-31T00:31:21.152698+00:00"
+    },
+    {
+      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376",
+      "seen_at": "2026-10-31T00:31:21.152986+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2024923",
+      "seen_at": "2026-10-31T00:31:23.203765+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accelerated-Computing-GPU-Product-Manager_JR2024923",
+      "seen_at": "2026-10-31T00:31:23.204135+00:00"
     }
   ],
-  "last_run": "2026-10-31T00:01:24.130052+00:00",
-  "total_notified": 11021,
+  "last_run": "2026-10-31T00:31:25.457840+00:00",
+  "total_notified": 11025,
   "channels": {
     "pm-jobs": [
-      "jobright-5e102a32bce3",
-      "url:https://jobright.ai/jobs/info/6a6968612a5c103624db4903",
       "zapply-46aaae2dc9c1",
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524276",
       "workday-adobe-R172017",
@@ -28543,11 +28557,11 @@
       "workday-nvidia-JR2016992",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--AI-Platform-SW---Agentic-AI-Kernel-Generation_JR2016992",
       "workday-nvidia-JR2020110",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Manager_JR2020110"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Manager_JR2020110",
+      "workday-nvidia-JR2024923",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accelerated-Computing-GPU-Product-Manager_JR2024923"
     ],
     "swe-ai-full-time": [
-      "applyguy-97cca630-5598-4d96-9eba-b8890bacafbb",
-      "url:https://www.jamf.com/about/careers/jobs",
       "gradtracker-b5f0b7239447",
       "url:https://careers.qualcomm.com/careers/job/446721346942",
       "gradtracker-130ff3ac305d",
@@ -34247,7 +34261,13 @@
       "greenhouse-anthropic-5464234008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5464234008",
       "jobright-07834e1b567c",
-      "url:https://jobright.ai/jobs/info/6ae50f3ad7424a2a828eb51b"
+      "url:https://jobright.ai/jobs/info/6ae50f3ad7424a2a828eb51b",
+      "greenhouse-chime-8922481002",
+      "url:https://boards.greenhouse.io/chime/jobs/8922481002",
+      "zapply-d51d84fb5648",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2011473",
+      "gradtracker-555f6a3d63f7",
+      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376"
     ]
   }
 }
