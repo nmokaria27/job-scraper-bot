@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-6724120186df",
-      "seen_at": "2026-10-01T15:01:43.643612+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abe535e064da25272e003df",
-      "seen_at": "2026-10-01T15:01:43.644527+00:00"
-    },
-    {
-      "id": "jobright-79b0d0244753",
-      "seen_at": "2026-10-01T15:01:43.645309+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abe61140e027c0f3b398685",
-      "seen_at": "2026-10-01T15:01:43.646023+00:00"
-    },
-    {
-      "id": "zapply-6d053e0946f0",
-      "seen_at": "2026-10-01T15:01:43.646750+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-notion-95800771-37a4-4226-b03f-d4fc6ea88f65",
-      "seen_at": "2026-10-01T15:01:43.647472+00:00"
-    },
-    {
-      "id": "jobright-0fc42ec2d029",
-      "seen_at": "2026-10-01T15:01:43.648188+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa1a9e00ffb3d4fea6b662a",
-      "seen_at": "2026-10-01T15:01:43.648880+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5440427008",
       "seen_at": "2026-10-01T15:31:32.101350+00:00"
     },
@@ -27405,7 +27373,7 @@
       "seen_at": "2026-10-31T15:01:23.977829+00:00"
     }
   ],
-  "last_run": "2026-10-31T15:01:24.700142+00:00",
+  "last_run": "2026-10-31T15:31:07.539945+00:00",
   "total_notified": 11063,
   "channels": {
     "pm-jobs": [
@@ -28576,14 +28544,6 @@
       "url:https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892"
     ],
     "swe-ai-full-time": [
-      "jobright-6724120186df",
-      "url:https://jobright.ai/jobs/info/6abe535e064da25272e003df",
-      "jobright-79b0d0244753",
-      "url:https://jobright.ai/jobs/info/6abe61140e027c0f3b398685",
-      "zapply-6d053e0946f0",
-      "url:https://zapply.jobs/l/d/ashby-notion-95800771-37a4-4226-b03f-d4fc6ea88f65",
-      "jobright-0fc42ec2d029",
-      "url:https://jobright.ai/jobs/info/6aa1a9e00ffb3d4fea6b662a",
       "greenhouse-anthropic-5440427008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5440427008",
       "amazon-10566655",
