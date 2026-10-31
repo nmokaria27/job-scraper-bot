@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-aafe354a15ba",
-      "seen_at": "2026-10-01T14:01:50.289763+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025387",
-      "seen_at": "2026-10-01T14:01:50.290818+00:00"
-    },
-    {
-      "id": "ashby-notion-95800771-37a4-4226-b03f-d4fc6ea88f65",
-      "seen_at": "2026-10-01T14:01:50.291767+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/notion/95800771-37a4-4226-b03f-d4fc6ea88f65",
-      "seen_at": "2026-10-01T14:01:50.292686+00:00"
-    },
-    {
       "id": "jobright-6724120186df",
       "seen_at": "2026-10-01T15:01:43.643612+00:00"
     },
@@ -27389,7 +27373,7 @@
       "seen_at": "2026-10-31T13:01:13.665733+00:00"
     }
   ],
-  "last_run": "2026-10-31T14:01:12.881353+00:00",
+  "last_run": "2026-10-31T14:31:10.944716+00:00",
   "total_notified": 11059,
   "channels": {
     "pm-jobs": [
@@ -28560,10 +28544,6 @@
       "url:https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892"
     ],
     "swe-ai-full-time": [
-      "zapply-aafe354a15ba",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025387",
-      "ashby-notion-95800771-37a4-4226-b03f-d4fc6ea88f65",
-      "url:https://jobs.ashbyhq.com/notion/95800771-37a4-4226-b03f-d4fc6ea88f65",
       "jobright-6724120186df",
       "url:https://jobright.ai/jobs/info/6abe535e064da25272e003df",
       "jobright-79b0d0244753",
