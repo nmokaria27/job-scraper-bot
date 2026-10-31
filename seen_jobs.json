@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-nvidia-JR2017083",
-      "seen_at": "2026-10-01T18:31:19.594583+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
-      "seen_at": "2026-10-01T18:31:19.595899+00:00"
-    },
-    {
-      "id": "applyguy-e61b4959-8052-489d-80b4-96a8693ab001",
-      "seen_at": "2026-10-01T18:31:19.596962+00:00"
-    },
-    {
-      "id": "url:https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053889-1",
-      "seen_at": "2026-10-01T18:31:19.597925+00:00"
-    },
-    {
-      "id": "greenhouse-lyft-8856443002",
-      "seen_at": "2026-10-01T18:31:19.598866+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8856443002",
-      "seen_at": "2026-10-01T18:31:19.599773+00:00"
-    },
-    {
       "id": "jobright-f90cff846f8c",
       "seen_at": "2026-10-01T19:01:33.500553+00:00"
     },
@@ -27075,10 +27051,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abe84f8064da25272e01440",
       "seen_at": "2026-10-31T18:31:14.384407+00:00"
+    },
+    {
+      "id": "jobright-d302c5a9e127",
+      "seen_at": "2026-10-31T19:01:32.699457+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae623edc3139b475b5bc1c5",
+      "seen_at": "2026-10-31T19:01:32.700019+00:00"
+    },
+    {
+      "id": "jobright-19f868f9efbf",
+      "seen_at": "2026-10-31T19:01:32.700494+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aac3c952e757fcb5c8b486c",
+      "seen_at": "2026-10-31T19:01:32.700960+00:00"
+    },
+    {
+      "id": "jobright-34711ad5260f",
+      "seen_at": "2026-10-31T19:01:32.701414+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a511bc68d7d3e6cf1cbefff",
+      "seen_at": "2026-10-31T19:01:32.701867+00:00"
+    },
+    {
+      "id": "jobright-6869146bcc60",
+      "seen_at": "2026-10-31T19:01:32.702319+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae38c0cc3139b475b5ae0ea",
+      "seen_at": "2026-10-31T19:01:32.702775+00:00"
+    },
+    {
+      "id": "jobright-29c379288093",
+      "seen_at": "2026-10-31T19:01:34.732767+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae621bbd7424a2a828eed5a",
+      "seen_at": "2026-10-31T19:01:34.733293+00:00"
     }
   ],
-  "last_run": "2026-10-31T18:31:15.355398+00:00",
-  "total_notified": 11066,
+  "last_run": "2026-10-31T19:01:35.175194+00:00",
+  "total_notified": 11071,
   "channels": {
     "pm-jobs": [
       "zapply-e3cce1c34191",
@@ -28225,15 +28241,11 @@
       "zapply-235890ebd77f",
       "url:https://zapply.jobs/l/d/amd-93541",
       "ashby-supabase-85f4d148-4602-4139-802a-962705133892",
-      "url:https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892"
+      "url:https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892",
+      "jobright-29c379288093",
+      "url:https://jobright.ai/jobs/info/6ae621bbd7424a2a828eed5a"
     ],
     "swe-ai-full-time": [
-      "workday-nvidia-JR2017083",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
-      "applyguy-e61b4959-8052-489d-80b4-96a8693ab001",
-      "url:https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053889-1",
-      "greenhouse-lyft-8856443002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8856443002",
       "jobright-f90cff846f8c",
       "url:https://jobright.ai/jobs/info/6abe96900e027c0f3b399b32",
       "jobright-ddf8d0616914",
@@ -33857,7 +33869,15 @@
       "jobright-4a32293d3167",
       "url:https://jobright.ai/jobs/info/6ae4d830c3139b475b5b6802",
       "jobright-b80b1e7a7957",
-      "url:https://jobright.ai/jobs/info/6abe84f8064da25272e01440"
+      "url:https://jobright.ai/jobs/info/6abe84f8064da25272e01440",
+      "jobright-d302c5a9e127",
+      "url:https://jobright.ai/jobs/info/6ae623edc3139b475b5bc1c5",
+      "jobright-19f868f9efbf",
+      "url:https://jobright.ai/jobs/info/6aac3c952e757fcb5c8b486c",
+      "jobright-34711ad5260f",
+      "url:https://jobright.ai/jobs/info/6a511bc68d7d3e6cf1cbefff",
+      "jobright-6869146bcc60",
+      "url:https://jobright.ai/jobs/info/6ae38c0cc3139b475b5ae0ea"
     ]
   }
 }
