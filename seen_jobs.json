@@ -1,126 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-2b9262762442",
-      "seen_at": "2026-10-01T17:31:32.605675+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR361988",
-      "seen_at": "2026-10-01T17:31:32.606708+00:00"
-    },
-    {
-      "id": "zapply-2d09bf250010",
-      "seen_at": "2026-10-01T17:31:32.607663+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000152986948",
-      "seen_at": "2026-10-01T17:31:32.608619+00:00"
-    },
-    {
-      "id": "zapply-1da4aa543add",
-      "seen_at": "2026-10-01T17:31:32.609550+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-visa-visa-REF088720W",
-      "seen_at": "2026-10-01T17:31:32.610464+00:00"
-    },
-    {
-      "id": "zapply-2eb24a379bf6",
-      "seen_at": "2026-10-01T17:31:32.611421+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-19392",
-      "seen_at": "2026-10-01T17:31:32.612331+00:00"
-    },
-    {
-      "id": "zapply-550f5339d8f7",
-      "seen_at": "2026-10-01T17:31:32.613249+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000152973639",
-      "seen_at": "2026-10-01T17:31:32.614162+00:00"
-    },
-    {
-      "id": "zapply-cc54104e2dbd",
-      "seen_at": "2026-10-01T17:31:32.615062+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-anthropic-5440427008",
-      "seen_at": "2026-10-01T17:31:32.615945+00:00"
-    },
-    {
-      "id": "zapply-90728284f801",
-      "seen_at": "2026-10-01T17:31:32.616809+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-a1a4d784-8b7a-4572-873a-3c94b38429fb",
-      "seen_at": "2026-10-01T17:31:32.617676+00:00"
-    },
-    {
-      "id": "amazon-10566956",
-      "seen_at": "2026-10-01T17:31:32.618539+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10566956/software-development-engineer-aws-transactional-services",
-      "seen_at": "2026-10-01T17:31:32.619411+00:00"
-    },
-    {
-      "id": "amazon-10566951",
-      "seen_at": "2026-10-01T17:31:32.620328+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10566951/software-development-engineer-aws-global-accelerator-aws-global-accelerator",
-      "seen_at": "2026-10-01T17:31:32.621227+00:00"
-    },
-    {
-      "id": "zapply-8f466952cbcf",
-      "seen_at": "2026-10-01T17:31:32.622110+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2452498",
-      "seen_at": "2026-10-01T17:31:32.622991+00:00"
-    },
-    {
-      "id": "zapply-06f12f715adb",
-      "seen_at": "2026-10-01T17:31:39.708432+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R172017",
-      "seen_at": "2026-10-01T17:31:39.709322+00:00"
-    },
-    {
-      "id": "zapply-e8049c764786",
-      "seen_at": "2026-10-01T17:31:39.710175+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202609-124548",
-      "seen_at": "2026-10-01T17:31:39.710986+00:00"
-    },
-    {
-      "id": "zapply-d8ecddf4d892",
-      "seen_at": "2026-10-01T17:31:39.711804+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-esri-5250945007",
-      "seen_at": "2026-10-01T17:31:39.712648+00:00"
-    },
-    {
-      "id": "zapply-42497c9fb535",
-      "seen_at": "2026-10-01T17:31:39.713470+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-bloomberg-bloombergindustrygroup-externa-144849",
-      "seen_at": "2026-10-01T17:31:39.714237+00:00"
-    },
-    {
-      "id": "zapply-fef89564265d",
-      "seen_at": "2026-10-01T17:31:39.715015+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-jj-jj-R-096203",
-      "seen_at": "2026-10-01T17:31:39.715756+00:00"
-    },
-    {
       "id": "jobright-8d35aeef6c40",
       "seen_at": "2026-10-01T18:01:38.867631+00:00"
     },
@@ -27235,22 +27115,20 @@
     {
       "id": "url:https://zapply.jobs/l/d/ashby-fireworks-82b41f4a-a945-4aee-a1fd-1ef9ab513e58",
       "seen_at": "2026-10-31T15:43:17.947702+00:00"
+    },
+    {
+      "id": "jobright-4a32293d3167",
+      "seen_at": "2026-10-31T18:01:11.801010+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae4d830c3139b475b5b6802",
+      "seen_at": "2026-10-31T18:01:11.801444+00:00"
     }
   ],
-  "last_run": "2026-10-31T17:31:08.778725+00:00",
-  "total_notified": 11064,
+  "last_run": "2026-10-31T18:01:12.567100+00:00",
+  "total_notified": 11065,
   "channels": {
     "pm-jobs": [
-      "zapply-06f12f715adb",
-      "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R172017",
-      "zapply-e8049c764786",
-      "url:https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202609-124548",
-      "zapply-d8ecddf4d892",
-      "url:https://zapply.jobs/l/d/greenhouse-esri-5250945007",
-      "zapply-42497c9fb535",
-      "url:https://zapply.jobs/l/d/workday-bloomberg-bloombergindustrygroup-externa-144849",
-      "zapply-fef89564265d",
-      "url:https://zapply.jobs/l/d/workday-jj-jj-R-096203",
       "zapply-e3cce1c34191",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023098",
       "zapply-c2fdadbbd8c5",
@@ -28398,26 +28276,6 @@
       "url:https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892"
     ],
     "swe-ai-full-time": [
-      "zapply-2b9262762442",
-      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR361988",
-      "zapply-2d09bf250010",
-      "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000152986948",
-      "zapply-1da4aa543add",
-      "url:https://zapply.jobs/l/d/workday-visa-visa-REF088720W",
-      "zapply-2eb24a379bf6",
-      "url:https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-19392",
-      "zapply-550f5339d8f7",
-      "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000152973639",
-      "zapply-cc54104e2dbd",
-      "url:https://zapply.jobs/l/d/greenhouse-anthropic-5440427008",
-      "zapply-90728284f801",
-      "url:https://zapply.jobs/l/d/amazon-a1a4d784-8b7a-4572-873a-3c94b38429fb",
-      "amazon-10566956",
-      "url:https://www.amazon.jobs/en/jobs/10566956/software-development-engineer-aws-transactional-services",
-      "amazon-10566951",
-      "url:https://www.amazon.jobs/en/jobs/10566951/software-development-engineer-aws-global-accelerator-aws-global-accelerator",
-      "zapply-8f466952cbcf",
-      "url:https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2452498",
       "jobright-8d35aeef6c40",
       "url:https://jobright.ai/jobs/info/6abe7f17d9621c5b2838f93b",
       "greenhouse-reddit-8244082",
@@ -34057,7 +33915,9 @@
       "jobright-6b5a56968ef6",
       "url:https://jobright.ai/jobs/info/6a7f81e319ce4e6e9d938bdd",
       "zapply-0bab893c32aa",
-      "url:https://zapply.jobs/l/d/ashby-fireworks-82b41f4a-a945-4aee-a1fd-1ef9ab513e58"
+      "url:https://zapply.jobs/l/d/ashby-fireworks-82b41f4a-a945-4aee-a1fd-1ef9ab513e58",
+      "jobright-4a32293d3167",
+      "url:https://jobright.ai/jobs/info/6ae4d830c3139b475b5b6802"
     ]
   }
 }
