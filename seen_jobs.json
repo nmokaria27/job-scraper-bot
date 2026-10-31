@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-cc33f8e1a8e4",
-      "seen_at": "2026-10-01T12:31:41.570472+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-openai-2d1785b0-8bfa-485e-97d2-a19ff3e15570",
-      "seen_at": "2026-10-01T12:31:41.571778+00:00"
-    },
-    {
-      "id": "workday-intel-JR0287686",
-      "seen_at": "2026-10-01T12:31:41.572751+00:00"
-    },
-    {
-      "id": "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0287686",
-      "seen_at": "2026-10-01T12:31:41.573578+00:00"
-    },
-    {
       "id": "jobright-8f279eb57beb",
       "seen_at": "2026-10-01T13:01:30.749047+00:00"
     },
@@ -27395,10 +27379,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ab5b4a9d85922de20ce3257",
       "seen_at": "2026-10-31T12:01:12.707801+00:00"
+    },
+    {
+      "id": "jobright-22e65cd78a59",
+      "seen_at": "2026-10-31T13:01:13.664095+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae5c9fbeab1f967309821dc",
+      "seen_at": "2026-10-31T13:01:13.664653+00:00"
+    },
+    {
+      "id": "jobright-e99927869044",
+      "seen_at": "2026-10-31T13:01:13.665154+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae5c718d45dc30fb7d378db",
+      "seen_at": "2026-10-31T13:01:13.665733+00:00"
     }
   ],
-  "last_run": "2026-10-31T12:31:07.593922+00:00",
-  "total_notified": 11057,
+  "last_run": "2026-10-31T13:01:15.054684+00:00",
+  "total_notified": 11059,
   "channels": {
     "pm-jobs": [
       "workday-adobe-R172017",
@@ -28568,10 +28568,6 @@
       "url:https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892"
     ],
     "swe-ai-full-time": [
-      "zapply-cc33f8e1a8e4",
-      "url:https://zapply.jobs/l/d/ashby-openai-2d1785b0-8bfa-485e-97d2-a19ff3e15570",
-      "workday-intel-JR0287686",
-      "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0287686",
       "jobright-8f279eb57beb",
       "url:https://jobright.ai/jobs/info/6abe3721d9621c5b2838e99d",
       "zapply-aafe354a15ba",
@@ -34257,7 +34253,11 @@
       "jobright-3617a1e8f967",
       "url:https://jobright.ai/jobs/info/6ae5adceeab1f96730981ebd",
       "jobright-7c0a7056d51c",
-      "url:https://jobright.ai/jobs/info/6ab5b4a9d85922de20ce3257"
+      "url:https://jobright.ai/jobs/info/6ab5b4a9d85922de20ce3257",
+      "jobright-22e65cd78a59",
+      "url:https://jobright.ai/jobs/info/6ae5c9fbeab1f967309821dc",
+      "jobright-e99927869044",
+      "url:https://jobright.ai/jobs/info/6ae5c718d45dc30fb7d378db"
     ]
   }
 }
