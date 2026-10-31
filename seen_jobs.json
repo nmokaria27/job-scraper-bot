@@ -27387,10 +27387,18 @@
     {
       "id": "url:https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892",
       "seen_at": "2026-10-31T11:01:13.710405+00:00"
+    },
+    {
+      "id": "jobright-7c0a7056d51c",
+      "seen_at": "2026-10-31T12:01:12.707034+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab5b4a9d85922de20ce3257",
+      "seen_at": "2026-10-31T12:01:12.707801+00:00"
     }
   ],
-  "last_run": "2026-10-31T11:31:10.766141+00:00",
-  "total_notified": 11056,
+  "last_run": "2026-10-31T12:01:13.691379+00:00",
+  "total_notified": 11057,
   "channels": {
     "pm-jobs": [
       "workday-adobe-R172017",
@@ -34247,7 +34255,9 @@
       "amazon-10593778",
       "url:https://www.amazon.jobs/en/jobs/10593778/software-development-engineer-pxt-central-science",
       "jobright-3617a1e8f967",
-      "url:https://jobright.ai/jobs/info/6ae5adceeab1f96730981ebd"
+      "url:https://jobright.ai/jobs/info/6ae5adceeab1f96730981ebd",
+      "jobright-7c0a7056d51c",
+      "url:https://jobright.ai/jobs/info/6ab5b4a9d85922de20ce3257"
     ]
   }
 }
