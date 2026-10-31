@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10567501",
-      "seen_at": "2026-10-01T22:31:19.698784+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10567501/applied-scientist-fauna",
-      "seen_at": "2026-10-01T22:31:19.699883+00:00"
-    },
-    {
-      "id": "zapply-f6dea7827eec",
-      "seen_at": "2026-10-01T22:31:19.700854+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-coinbase-8247397",
-      "seen_at": "2026-10-01T22:31:19.701771+00:00"
-    },
-    {
       "id": "zapply-47023af0d14a",
       "seen_at": "2026-10-01T23:01:25.068538+00:00"
     },
@@ -26651,10 +26635,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a57d0aef7517b519ad5d48a",
       "seen_at": "2026-10-31T21:01:18.876153+00:00"
+    },
+    {
+      "id": "jobright-c79210e670ce",
+      "seen_at": "2026-10-31T23:01:09.886056+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae6568eeab1f96730983713",
+      "seen_at": "2026-10-31T23:01:09.886866+00:00"
+    },
+    {
+      "id": "jobright-a8009e0d097f",
+      "seen_at": "2026-10-31T23:01:11.753145+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a4e1218fc327f422fef1ca6",
+      "seen_at": "2026-10-31T23:01:11.753858+00:00"
     }
   ],
-  "last_run": "2026-10-31T22:31:04.933547+00:00",
-  "total_notified": 11076,
+  "last_run": "2026-10-31T23:01:11.919119+00:00",
+  "total_notified": 11078,
   "channels": {
     "pm-jobs": [
       "jobright-d47b91790166",
@@ -27791,13 +27791,11 @@
       "jobright-29c379288093",
       "url:https://jobright.ai/jobs/info/6ae621bbd7424a2a828eed5a",
       "jobright-f13f6bf64a10",
-      "url:https://jobright.ai/jobs/info/6a57d0aef7517b519ad5d48a"
+      "url:https://jobright.ai/jobs/info/6a57d0aef7517b519ad5d48a",
+      "jobright-a8009e0d097f",
+      "url:https://jobright.ai/jobs/info/6a4e1218fc327f422fef1ca6"
     ],
     "swe-ai-full-time": [
-      "amazon-10567501",
-      "url:https://www.amazon.jobs/en/jobs/10567501/applied-scientist-fauna",
-      "zapply-f6dea7827eec",
-      "url:https://zapply.jobs/l/d/greenhouse-coinbase-8247397",
       "zapply-47023af0d14a",
       "url:https://zapply.jobs/l/d/google-123087196289671878",
       "simplify-23452dfd-f110-4218-bbe2-fa3fd2227fc5",
@@ -33327,7 +33325,9 @@
       "jobright-87ff319ded11",
       "url:https://jobright.ai/jobs/info/6a7aaa8fa26ccc369f83f178",
       "jobright-fbbb36e94fb5",
-      "url:https://jobright.ai/jobs/info/6a568ac253b3962b910b0f01"
+      "url:https://jobright.ai/jobs/info/6a568ac253b3962b910b0f01",
+      "jobright-c79210e670ce",
+      "url:https://jobright.ai/jobs/info/6ae6568eeab1f96730983713"
     ]
   }
 }
