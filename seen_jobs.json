@@ -27371,10 +27371,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae5c718d45dc30fb7d378db",
       "seen_at": "2026-10-31T13:01:13.665733+00:00"
+    },
+    {
+      "id": "jobright-cabbdad5e5ce",
+      "seen_at": "2026-10-31T15:01:23.975939+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae5e61ceab1f9673098260e",
+      "seen_at": "2026-10-31T15:01:23.976300+00:00"
+    },
+    {
+      "id": "jobright-7130fb125d2d",
+      "seen_at": "2026-10-31T15:01:23.976583+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aad6dfc0ebc8fb2313e978e",
+      "seen_at": "2026-10-31T15:01:23.976846+00:00"
+    },
+    {
+      "id": "jobright-2c0d160bbede",
+      "seen_at": "2026-10-31T15:01:23.977104+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f8203e2030208f276eefd",
+      "seen_at": "2026-10-31T15:01:23.977354+00:00"
+    },
+    {
+      "id": "jobright-6b5a56968ef6",
+      "seen_at": "2026-10-31T15:01:23.977598+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f81e319ce4e6e9d938bdd",
+      "seen_at": "2026-10-31T15:01:23.977829+00:00"
     }
   ],
-  "last_run": "2026-10-31T14:31:10.944716+00:00",
-  "total_notified": 11059,
+  "last_run": "2026-10-31T15:01:24.700142+00:00",
+  "total_notified": 11063,
   "channels": {
     "pm-jobs": [
       "workday-adobe-R172017",
@@ -34227,7 +34259,15 @@
       "jobright-22e65cd78a59",
       "url:https://jobright.ai/jobs/info/6ae5c9fbeab1f967309821dc",
       "jobright-e99927869044",
-      "url:https://jobright.ai/jobs/info/6ae5c718d45dc30fb7d378db"
+      "url:https://jobright.ai/jobs/info/6ae5c718d45dc30fb7d378db",
+      "jobright-cabbdad5e5ce",
+      "url:https://jobright.ai/jobs/info/6ae5e61ceab1f9673098260e",
+      "jobright-7130fb125d2d",
+      "url:https://jobright.ai/jobs/info/6aad6dfc0ebc8fb2313e978e",
+      "jobright-2c0d160bbede",
+      "url:https://jobright.ai/jobs/info/6a7f8203e2030208f276eefd",
+      "jobright-6b5a56968ef6",
+      "url:https://jobright.ai/jobs/info/6a7f81e319ce4e6e9d938bdd"
     ]
   }
 }
