@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-8f279eb57beb",
-      "seen_at": "2026-10-01T13:01:30.749047+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abe3721d9621c5b2838e99d",
-      "seen_at": "2026-10-01T13:01:30.750194+00:00"
-    },
-    {
       "id": "zapply-aafe354a15ba",
       "seen_at": "2026-10-01T14:01:50.289763+00:00"
     },
@@ -27397,7 +27389,7 @@
       "seen_at": "2026-10-31T13:01:13.665733+00:00"
     }
   ],
-  "last_run": "2026-10-31T13:01:15.054684+00:00",
+  "last_run": "2026-10-31T13:31:07.874744+00:00",
   "total_notified": 11059,
   "channels": {
     "pm-jobs": [
@@ -28568,8 +28560,6 @@
       "url:https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892"
     ],
     "swe-ai-full-time": [
-      "jobright-8f279eb57beb",
-      "url:https://jobright.ai/jobs/info/6abe3721d9621c5b2838e99d",
       "zapply-aafe354a15ba",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025387",
       "ashby-notion-95800771-37a4-4226-b03f-d4fc6ea88f65",
