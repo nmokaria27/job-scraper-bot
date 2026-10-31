@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-coinbase-8247397",
-      "seen_at": "2026-10-01T19:31:40.765545+00:00"
-    },
-    {
-      "id": "url:https://www.coinbase.com/careers/positions/8247397",
-      "seen_at": "2026-10-01T19:31:40.766618+00:00"
-    },
-    {
       "id": "jobright-65ed697ee5e8",
       "seen_at": "2026-10-01T20:01:41.633601+00:00"
     },
@@ -27003,10 +26995,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6abe96900e027c0f3b399b32",
       "seen_at": "2026-10-31T19:31:08.953292+00:00"
+    },
+    {
+      "id": "jobright-f3c50d5926a5",
+      "seen_at": "2026-10-31T19:55:55.225152+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae63264fb2cd420ace602f4",
+      "seen_at": "2026-10-31T19:55:55.225579+00:00"
+    },
+    {
+      "id": "jobright-87ff319ded11",
+      "seen_at": "2026-10-31T19:55:55.225955+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7aaa8fa26ccc369f83f178",
+      "seen_at": "2026-10-31T19:55:55.226271+00:00"
     }
   ],
-  "last_run": "2026-10-31T19:31:09.687037+00:00",
-  "total_notified": 11072,
+  "last_run": "2026-10-31T19:55:55.949760+00:00",
+  "total_notified": 11074,
   "channels": {
     "pm-jobs": [
       "zapply-e3cce1c34191",
@@ -28158,8 +28166,6 @@
       "url:https://jobright.ai/jobs/info/6ae621bbd7424a2a828eed5a"
     ],
     "swe-ai-full-time": [
-      "greenhouse-coinbase-8247397",
-      "url:https://www.coinbase.com/careers/positions/8247397",
       "jobright-65ed697ee5e8",
       "url:https://jobright.ai/jobs/info/6abe9d2b0e027c0f3b399cd1",
       "greenhouse-tenstorrent-5253844007",
@@ -33767,7 +33773,11 @@
       "jobright-6869146bcc60",
       "url:https://jobright.ai/jobs/info/6ae38c0cc3139b475b5ae0ea",
       "jobright-f90cff846f8c",
-      "url:https://jobright.ai/jobs/info/6abe96900e027c0f3b399b32"
+      "url:https://jobright.ai/jobs/info/6abe96900e027c0f3b399b32",
+      "jobright-f3c50d5926a5",
+      "url:https://jobright.ai/jobs/info/6ae63264fb2cd420ace602f4",
+      "jobright-87ff319ded11",
+      "url:https://jobright.ai/jobs/info/6a7aaa8fa26ccc369f83f178"
     ]
   }
 }
