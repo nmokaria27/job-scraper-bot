@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-334df2ae9407",
-      "seen_at": "2026-10-02T17:31:15.394219+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/apple-200686376",
-      "seen_at": "2026-10-02T17:31:15.395225+00:00"
-    },
-    {
-      "id": "hn-49935497",
-      "seen_at": "2026-10-02T17:31:15.396153+00:00"
-    },
-    {
-      "id": "url:https://news.ycombinator.com/item",
-      "seen_at": "2026-10-02T17:31:15.397085+00:00"
-    },
-    {
       "id": "zapply-c464b3b8e6ef",
       "seen_at": "2026-10-02T18:01:15.263832+00:00"
     },
@@ -26909,7 +26893,7 @@
       "seen_at": "2026-11-01T16:47:10.040997+00:00"
     }
   ],
-  "last_run": "2026-11-01T17:31:10.929092+00:00",
+  "last_run": "2026-11-01T18:01:11.711769+00:00",
   "total_notified": 11193,
   "channels": {
     "pm-jobs": [
@@ -28008,10 +27992,6 @@
       "url:https://jobright.ai/jobs/info/6a6ab634394f9d64d8be6ada"
     ],
     "swe-ai-full-time": [
-      "zapply-334df2ae9407",
-      "url:https://zapply.jobs/l/d/apple-200686376",
-      "hn-49935497",
-      "url:https://news.ycombinator.com/item",
       "zapply-c464b3b8e6ef",
       "url:https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01368042",
       "zapply-200a54ed97f5",
