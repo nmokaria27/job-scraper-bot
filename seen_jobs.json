@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097",
-      "seen_at": "2026-10-02T22:31:11.133003+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097",
-      "seen_at": "2026-10-02T22:31:11.133924+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR351508",
-      "seen_at": "2026-10-02T22:31:11.134842+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
-      "seen_at": "2026-10-02T22:31:11.135681+00:00"
-    },
-    {
       "id": "zapply-278effa79fc0",
       "seen_at": "2026-10-02T23:01:11.674147+00:00"
     },
@@ -26397,14 +26381,10 @@
       "seen_at": "2026-11-01T22:01:11.060106+00:00"
     }
   ],
-  "last_run": "2026-11-01T22:31:16.089906+00:00",
+  "last_run": "2026-11-01T23:01:21.201583+00:00",
   "total_notified": 11194,
   "channels": {
     "pm-jobs": [
-      "ashby-perplexity-a8c79425-eb48-40e0-8557-93460fa67097",
-      "url:https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097",
-      "workday-salesforce-JR351508",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
       "zapply-34cf94b70072",
       "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090565",
       "zapply-e090f0f1f062",
