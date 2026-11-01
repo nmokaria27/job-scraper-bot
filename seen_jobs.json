@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-927a36be5e8d",
-      "seen_at": "2026-10-02T15:31:12.010448+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101077",
-      "seen_at": "2026-10-02T15:31:12.011549+00:00"
-    },
-    {
-      "id": "zapply-2fd35d527a87",
-      "seen_at": "2026-10-02T15:31:12.012494+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-statestreet-global-R-794331",
-      "seen_at": "2026-10-02T15:31:12.013414+00:00"
-    },
-    {
-      "id": "zapply-149e3175e780",
-      "seen_at": "2026-10-02T15:31:12.014360+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4702238006",
-      "seen_at": "2026-10-02T15:31:12.015271+00:00"
-    },
-    {
-      "id": "amazon-10567881",
-      "seen_at": "2026-10-02T15:31:12.016173+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10567881/sde-aws-opensearch-service-opensearch",
-      "seen_at": "2026-10-02T15:31:12.017067+00:00"
-    },
-    {
       "id": "zapply-caf1842b5a74",
       "seen_at": "2026-10-02T16:01:44.515719+00:00"
     },
@@ -27051,10 +27019,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a7487e7bb6ca93ae560a772",
       "seen_at": "2026-11-01T15:01:13.336227+00:00"
+    },
+    {
+      "id": "jobright-bf74a9240774",
+      "seen_at": "2026-11-01T16:01:30.612403+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae7441ebad9293a40a41f64",
+      "seen_at": "2026-11-01T16:01:30.613025+00:00"
+    },
+    {
+      "id": "jobright-6e4a17e87289",
+      "seen_at": "2026-11-01T16:01:30.613556+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab5eda2d85922de20ce3c40",
+      "seen_at": "2026-11-01T16:01:30.614053+00:00"
+    },
+    {
+      "id": "jobright-b0ae62c0b81a",
+      "seen_at": "2026-11-01T16:01:32.809866+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acdbe837c7bc52e04f55ba4",
+      "seen_at": "2026-11-01T16:01:32.810413+00:00"
     }
   ],
-  "last_run": "2026-11-01T15:31:05.542166+00:00",
-  "total_notified": 11186,
+  "last_run": "2026-11-01T16:01:33.138866+00:00",
+  "total_notified": 11189,
   "channels": {
     "pm-jobs": [
       "jobright-d0d32adaedbe",
@@ -28159,17 +28151,11 @@
       "jobright-f13f6bf64a10",
       "url:https://jobright.ai/jobs/info/6a57d0aef7517b519ad5d48a",
       "jobright-a8009e0d097f",
-      "url:https://jobright.ai/jobs/info/6a4e1218fc327f422fef1ca6"
+      "url:https://jobright.ai/jobs/info/6a4e1218fc327f422fef1ca6",
+      "jobright-b0ae62c0b81a",
+      "url:https://jobright.ai/jobs/info/6acdbe837c7bc52e04f55ba4"
     ],
     "swe-ai-full-time": [
-      "zapply-927a36be5e8d",
-      "url:https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101077",
-      "zapply-2fd35d527a87",
-      "url:https://zapply.jobs/l/d/workday-statestreet-global-R-794331",
-      "zapply-149e3175e780",
-      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4702238006",
-      "amazon-10567881",
-      "url:https://www.amazon.jobs/en/jobs/10567881/sde-aws-opensearch-service-opensearch",
       "zapply-caf1842b5a74",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024992",
       "zapply-b5225dcd2290",
@@ -33827,7 +33813,11 @@
       "jobright-7433c1c91708",
       "url:https://jobright.ai/jobs/info/6ae73789bad9293a40a418a6",
       "jobright-7acc61a4e27c",
-      "url:https://jobright.ai/jobs/info/6a7487e7bb6ca93ae560a772"
+      "url:https://jobright.ai/jobs/info/6a7487e7bb6ca93ae560a772",
+      "jobright-bf74a9240774",
+      "url:https://jobright.ai/jobs/info/6ae7441ebad9293a40a41f64",
+      "jobright-6e4a17e87289",
+      "url:https://jobright.ai/jobs/info/6ab5eda2d85922de20ce3c40"
     ]
   }
 }
