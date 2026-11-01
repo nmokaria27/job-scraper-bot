@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-5cf33e063d13",
-      "seen_at": "2026-10-02T16:31:13.679429+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-cerebras-89ed36d3-d7e4-4c41-b466-2e39a30a84f4",
-      "seen_at": "2026-10-02T16:31:13.680531+00:00"
-    },
-    {
-      "id": "zapply-128a23253966",
-      "seen_at": "2026-10-02T16:31:13.681488+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-4b99f2c2-50ed-4608-b20d-e6b7b892fca1",
-      "seen_at": "2026-10-02T16:31:13.682419+00:00"
-    },
-    {
-      "id": "amazon-10567987",
-      "seen_at": "2026-10-02T16:31:13.683366+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10567987/software-development-engineer-conversational-ads-experience",
-      "seen_at": "2026-10-02T16:31:13.684288+00:00"
-    },
-    {
-      "id": "zapply-55854acea6ad",
-      "seen_at": "2026-10-02T16:31:16.444857+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-bmo-external-R260028048",
-      "seen_at": "2026-10-02T16:31:16.445768+00:00"
-    },
-    {
       "id": "zapply-24d9d231b0ef",
       "seen_at": "2026-10-02T17:01:23.899840+00:00"
     },
@@ -26955,14 +26923,44 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6acdbe837c7bc52e04f55ba4",
       "seen_at": "2026-11-01T16:01:32.810413+00:00"
+    },
+    {
+      "id": "jobright-776ff92058e9",
+      "seen_at": "2026-11-01T16:47:08.507872+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abb294cee0b348be729dede",
+      "seen_at": "2026-11-01T16:47:08.508408+00:00"
+    },
+    {
+      "id": "jobright-59bd87c5b8cb",
+      "seen_at": "2026-11-01T16:47:08.508920+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae753a9bad9293a40a420e5",
+      "seen_at": "2026-11-01T16:47:08.509358+00:00"
+    },
+    {
+      "id": "jobright-f4a79e39f8f1",
+      "seen_at": "2026-11-01T16:47:10.039667+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a69694b2a5c103624db494d",
+      "seen_at": "2026-11-01T16:47:10.040119+00:00"
+    },
+    {
+      "id": "jobright-d635d5a961aa",
+      "seen_at": "2026-11-01T16:47:10.040585+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6ab634394f9d64d8be6ada",
+      "seen_at": "2026-11-01T16:47:10.040997+00:00"
     }
   ],
-  "last_run": "2026-11-01T16:31:07.668060+00:00",
-  "total_notified": 11189,
+  "last_run": "2026-11-01T16:47:10.246618+00:00",
+  "total_notified": 11193,
   "channels": {
     "pm-jobs": [
-      "zapply-55854acea6ad",
-      "url:https://zapply.jobs/l/d/workday-bmo-external-R260028048",
       "zapply-ec27223d5a38",
       "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42460",
       "zapply-45a09b9688e8",
@@ -28057,15 +28055,13 @@
       "jobright-a8009e0d097f",
       "url:https://jobright.ai/jobs/info/6a4e1218fc327f422fef1ca6",
       "jobright-b0ae62c0b81a",
-      "url:https://jobright.ai/jobs/info/6acdbe837c7bc52e04f55ba4"
+      "url:https://jobright.ai/jobs/info/6acdbe837c7bc52e04f55ba4",
+      "jobright-f4a79e39f8f1",
+      "url:https://jobright.ai/jobs/info/6a69694b2a5c103624db494d",
+      "jobright-d635d5a961aa",
+      "url:https://jobright.ai/jobs/info/6a6ab634394f9d64d8be6ada"
     ],
     "swe-ai-full-time": [
-      "zapply-5cf33e063d13",
-      "url:https://zapply.jobs/l/d/ashby-cerebras-89ed36d3-d7e4-4c41-b466-2e39a30a84f4",
-      "zapply-128a23253966",
-      "url:https://zapply.jobs/l/d/amazon-4b99f2c2-50ed-4608-b20d-e6b7b892fca1",
-      "amazon-10567987",
-      "url:https://www.amazon.jobs/en/jobs/10567987/software-development-engineer-conversational-ads-experience",
       "zapply-24d9d231b0ef",
       "url:https://zapply.jobs/l/d/amazon-2f249e5f-6ad2-4806-9b60-2a18cb38d66b",
       "jobright-4ee4316b1695",
@@ -33707,7 +33703,11 @@
       "jobright-bf74a9240774",
       "url:https://jobright.ai/jobs/info/6ae7441ebad9293a40a41f64",
       "jobright-6e4a17e87289",
-      "url:https://jobright.ai/jobs/info/6ab5eda2d85922de20ce3c40"
+      "url:https://jobright.ai/jobs/info/6ab5eda2d85922de20ce3c40",
+      "jobright-776ff92058e9",
+      "url:https://jobright.ai/jobs/info/6abb294cee0b348be729dede",
+      "jobright-59bd87c5b8cb",
+      "url:https://jobright.ai/jobs/info/6ae753a9bad9293a40a420e5"
     ]
   }
 }
