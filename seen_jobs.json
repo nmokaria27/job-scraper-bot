@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-cc0d2f30b9f0",
-      "seen_at": "2026-10-02T03:01:28.768546+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abeac37064da25272e02119",
-      "seen_at": "2026-10-02T03:01:28.769488+00:00"
-    },
-    {
       "id": "zapply-5ae3035e6f88",
       "seen_at": "2026-10-02T03:31:09.910432+00:00"
     },
@@ -26165,12 +26157,10 @@
       "seen_at": "2026-11-01T03:01:14.077041+00:00"
     }
   ],
-  "last_run": "2026-11-01T03:01:14.847234+00:00",
+  "last_run": "2026-11-01T03:31:04.079348+00:00",
   "total_notified": 11081,
   "channels": {
     "pm-jobs": [
-      "jobright-cc0d2f30b9f0",
-      "url:https://jobright.ai/jobs/info/6abeac37064da25272e02119",
       "greenhouse-anthropic-5439391008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5439391008",
       "zapply-f2ed722b55c2",
