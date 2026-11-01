@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-24d9d231b0ef",
-      "seen_at": "2026-10-02T17:01:23.899840+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-2f249e5f-6ad2-4806-9b60-2a18cb38d66b",
-      "seen_at": "2026-10-02T17:01:23.900850+00:00"
-    },
-    {
-      "id": "jobright-4ee4316b1695",
-      "seen_at": "2026-10-02T17:01:23.901784+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abeda71372c01f6cd7262a7",
-      "seen_at": "2026-10-02T17:01:23.902751+00:00"
-    },
-    {
-      "id": "jobright-e5f863aa246b",
-      "seen_at": "2026-10-02T17:01:23.903710+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abfc71d0e027c0f3b39ddd9",
-      "seen_at": "2026-10-02T17:01:23.904655+00:00"
-    },
-    {
-      "id": "zapply-ec27223d5a38",
-      "seen_at": "2026-10-02T17:01:26.087942+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42460",
-      "seen_at": "2026-10-02T17:01:26.088831+00:00"
-    },
-    {
-      "id": "zapply-45a09b9688e8",
-      "seen_at": "2026-10-02T17:01:26.089678+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210771931",
-      "seen_at": "2026-10-02T17:01:26.090589+00:00"
-    },
-    {
-      "id": "jobright-68166b54785a",
-      "seen_at": "2026-10-02T17:01:26.091494+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abfc987d9621c5b2839468d",
-      "seen_at": "2026-10-02T17:01:26.092333+00:00"
-    },
-    {
       "id": "zapply-334df2ae9407",
       "seen_at": "2026-10-02T17:31:15.394219+00:00"
     },
@@ -26957,16 +26909,10 @@
       "seen_at": "2026-11-01T16:47:10.040997+00:00"
     }
   ],
-  "last_run": "2026-11-01T17:01:16.421053+00:00",
+  "last_run": "2026-11-01T17:31:10.929092+00:00",
   "total_notified": 11193,
   "channels": {
     "pm-jobs": [
-      "zapply-ec27223d5a38",
-      "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42460",
-      "zapply-45a09b9688e8",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210771931",
-      "jobright-68166b54785a",
-      "url:https://jobright.ai/jobs/info/6abfc987d9621c5b2839468d",
       "jobright-9aca989c06b2",
       "url:https://jobright.ai/jobs/info/6abfd1dbd9621c5b2839493e",
       "zapply-a33594cf48aa",
@@ -28062,12 +28008,6 @@
       "url:https://jobright.ai/jobs/info/6a6ab634394f9d64d8be6ada"
     ],
     "swe-ai-full-time": [
-      "zapply-24d9d231b0ef",
-      "url:https://zapply.jobs/l/d/amazon-2f249e5f-6ad2-4806-9b60-2a18cb38d66b",
-      "jobright-4ee4316b1695",
-      "url:https://jobright.ai/jobs/info/6abeda71372c01f6cd7262a7",
-      "jobright-e5f863aa246b",
-      "url:https://jobright.ai/jobs/info/6abfc71d0e027c0f3b39ddd9",
       "zapply-334df2ae9407",
       "url:https://zapply.jobs/l/d/apple-200686376",
       "hn-49935497",
