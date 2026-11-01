@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-b668e880a27f",
-      "seen_at": "2026-10-02T14:31:13.586539+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-remitly-remitly-careers-R_106531",
-      "seen_at": "2026-10-02T14:31:13.587297+00:00"
-    },
-    {
-      "id": "zapply-26d35c7f1c81",
-      "seen_at": "2026-10-02T14:31:13.587986+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/lever-rover-09916cb0-3e1b-47c4-9a7a-eaa4e554c3c2",
-      "seen_at": "2026-10-02T14:31:13.588641+00:00"
-    },
-    {
       "id": "greenhouse-figma-6211910004",
       "seen_at": "2026-10-02T15:01:52.789461+00:00"
     },
@@ -27051,16 +27035,36 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae68861c3139b475b5bcca0",
       "seen_at": "2026-11-01T13:01:27.393526+00:00"
+    },
+    {
+      "id": "jobright-51944b1cf231",
+      "seen_at": "2026-11-01T15:01:13.333729+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad90a0e950ef68d5184d68c",
+      "seen_at": "2026-11-01T15:01:13.334261+00:00"
+    },
+    {
+      "id": "jobright-7433c1c91708",
+      "seen_at": "2026-11-01T15:01:13.334777+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae73789bad9293a40a418a6",
+      "seen_at": "2026-11-01T15:01:13.335229+00:00"
+    },
+    {
+      "id": "jobright-7acc61a4e27c",
+      "seen_at": "2026-11-01T15:01:13.335786+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7487e7bb6ca93ae560a772",
+      "seen_at": "2026-11-01T15:01:13.336227+00:00"
     }
   ],
-  "last_run": "2026-11-01T14:31:09.187571+00:00",
-  "total_notified": 11183,
+  "last_run": "2026-11-01T15:01:13.992496+00:00",
+  "total_notified": 11186,
   "channels": {
     "pm-jobs": [
-      "zapply-b668e880a27f",
-      "url:https://zapply.jobs/l/d/workday-remitly-remitly-careers-R_106531",
-      "zapply-26d35c7f1c81",
-      "url:https://zapply.jobs/l/d/lever-rover-09916cb0-3e1b-47c4-9a7a-eaa4e554c3c2",
       "greenhouse-figma-6211910004",
       "url:https://boards.greenhouse.io/figma/jobs/6211910004",
       "jobright-d0d32adaedbe",
@@ -33827,7 +33831,13 @@
       "jobright-e57ca2f9b799",
       "url:https://jobright.ai/jobs/info/6ae68861c3139b475b5bcca2",
       "jobright-339b8b513f9a",
-      "url:https://jobright.ai/jobs/info/6ae68861c3139b475b5bcca0"
+      "url:https://jobright.ai/jobs/info/6ae68861c3139b475b5bcca0",
+      "jobright-51944b1cf231",
+      "url:https://jobright.ai/jobs/info/6ad90a0e950ef68d5184d68c",
+      "jobright-7433c1c91708",
+      "url:https://jobright.ai/jobs/info/6ae73789bad9293a40a418a6",
+      "jobright-7acc61a4e27c",
+      "url:https://jobright.ai/jobs/info/6a7487e7bb6ca93ae560a772"
     ]
   }
 }
