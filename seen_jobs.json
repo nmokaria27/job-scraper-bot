@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-ab6730318638",
-      "seen_at": "2026-10-02T00:01:23.572748+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abecf7a0e027c0f3b39b31b",
-      "seen_at": "2026-10-02T00:01:23.573877+00:00"
-    },
-    {
-      "id": "jobright-0d6f70af0149",
-      "seen_at": "2026-10-02T00:01:23.574892+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abecbfe8ff3fb9b3bc76039",
-      "seen_at": "2026-10-02T00:01:23.575843+00:00"
-    },
-    {
-      "id": "zapply-0f1858aafc57",
-      "seen_at": "2026-10-02T00:01:23.576822+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/google-110583662801494726",
-      "seen_at": "2026-10-02T00:01:23.577759+00:00"
-    },
-    {
-      "id": "zapply-832fdf8ab26c",
-      "seen_at": "2026-10-02T00:01:23.578700+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8861903002",
-      "seen_at": "2026-10-02T00:01:23.579639+00:00"
-    },
-    {
-      "id": "zapply-cd9c6484f4da",
-      "seen_at": "2026-10-02T00:01:23.580591+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8861902002",
-      "seen_at": "2026-10-02T00:01:23.581526+00:00"
-    },
-    {
-      "id": "zapply-531dc44b85e9",
-      "seen_at": "2026-10-02T00:01:23.582454+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-bostondynamics-boston-dynamics-R3020",
-      "seen_at": "2026-10-02T00:01:23.583376+00:00"
-    },
-    {
       "id": "gradtracker-603129898755",
       "seen_at": "2026-10-02T00:31:12.038814+00:00"
     },
@@ -26293,7 +26245,7 @@
       "seen_at": "2026-10-31T23:01:11.753858+00:00"
     }
   ],
-  "last_run": "2026-11-01T00:01:12.887201+00:00",
+  "last_run": "2026-11-01T00:31:04.694195+00:00",
   "total_notified": 11078,
   "channels": {
     "pm-jobs": [
@@ -27428,18 +27380,6 @@
       "url:https://jobright.ai/jobs/info/6a4e1218fc327f422fef1ca6"
     ],
     "swe-ai-full-time": [
-      "jobright-ab6730318638",
-      "url:https://jobright.ai/jobs/info/6abecf7a0e027c0f3b39b31b",
-      "jobright-0d6f70af0149",
-      "url:https://jobright.ai/jobs/info/6abecbfe8ff3fb9b3bc76039",
-      "zapply-0f1858aafc57",
-      "url:https://zapply.jobs/l/d/google-110583662801494726",
-      "zapply-832fdf8ab26c",
-      "url:https://zapply.jobs/l/d/greenhouse-spacex-8861903002",
-      "zapply-cd9c6484f4da",
-      "url:https://zapply.jobs/l/d/greenhouse-spacex-8861902002",
-      "zapply-531dc44b85e9",
-      "url:https://zapply.jobs/l/d/workday-bostondynamics-boston-dynamics-R3020",
       "gradtracker-603129898755",
       "url:https://morganstanley.eightfold.ai/careers/job/549800007925",
       "zapply-720398a11da4",
