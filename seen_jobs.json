@@ -1,142 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-5ae3035e6f88",
-      "seen_at": "2026-10-02T03:31:09.910432+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01369988",
-      "seen_at": "2026-10-02T03:31:09.911455+00:00"
-    },
-    {
-      "id": "zapply-46da5d450700",
-      "seen_at": "2026-10-02T03:31:09.912393+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229691",
-      "seen_at": "2026-10-02T03:31:09.913307+00:00"
-    },
-    {
-      "id": "ashby-openai-a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
-      "seen_at": "2026-10-02T03:31:09.914242+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
-      "seen_at": "2026-10-02T03:31:09.915117+00:00"
-    },
-    {
-      "id": "jobright-86daefa02c31",
-      "seen_at": "2026-10-02T03:31:09.916054+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abd788b372c01f6cd720a97",
-      "seen_at": "2026-10-02T03:31:09.916950+00:00"
-    },
-    {
-      "id": "jobright-6e4a17e87289",
-      "seen_at": "2026-10-02T03:31:09.917842+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab5eda2d85922de20ce3c40",
-      "seen_at": "2026-10-02T03:31:09.918732+00:00"
-    },
-    {
-      "id": "jobright-67d5db9c2dc4",
-      "seen_at": "2026-10-02T03:31:09.919621+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abd57b84ac55253f5d5ce41",
-      "seen_at": "2026-10-02T03:31:09.920498+00:00"
-    },
-    {
-      "id": "zapply-1ce4c8a1aba1",
-      "seen_at": "2026-10-02T03:31:09.921371+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30307",
-      "seen_at": "2026-10-02T03:31:09.922228+00:00"
-    },
-    {
-      "id": "zapply-01e3f9e92f91",
-      "seen_at": "2026-10-02T03:31:09.923098+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30291",
-      "seen_at": "2026-10-02T03:31:09.923973+00:00"
-    },
-    {
-      "id": "zapply-bfc350d81e80",
-      "seen_at": "2026-10-02T03:31:09.924816+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-selinc-sel-2026-21862",
-      "seen_at": "2026-10-02T03:31:09.925703+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5439391008",
-      "seen_at": "2026-10-02T03:31:11.856963+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5439391008",
-      "seen_at": "2026-10-02T03:31:11.857862+00:00"
-    },
-    {
-      "id": "simplify-169846aa-cf8c-463a-9721-b9826b79a129",
-      "seen_at": "2026-10-02T10:01:18.333554+00:00"
-    },
-    {
-      "id": "url:https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
-      "seen_at": "2026-10-02T10:01:18.334660+00:00"
-    },
-    {
-      "id": "zapply-594f3bdbfa70",
-      "seen_at": "2026-10-02T10:01:18.335682+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-botauto-5441690008",
-      "seen_at": "2026-10-02T10:01:18.336637+00:00"
-    },
-    {
-      "id": "jobright-c341d15c17e9",
-      "seen_at": "2026-10-02T10:01:18.337564+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abee648d9621c5b2839245d",
-      "seen_at": "2026-10-02T10:01:18.338603+00:00"
-    },
-    {
-      "id": "applyguy-3a280089-2bd8-494a-b78e-0de5ad399e1d",
-      "seen_at": "2026-10-02T10:01:18.339559+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
-      "seen_at": "2026-10-02T10:01:18.340488+00:00"
-    },
-    {
-      "id": "zapply-f2ed722b55c2",
-      "seen_at": "2026-10-02T10:01:20.392640+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-anthropic-5439391008",
-      "seen_at": "2026-10-02T10:01:20.393516+00:00"
-    },
-    {
-      "id": "zapply-cac95a64fdc4",
-      "seen_at": "2026-10-02T10:01:20.394372+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31389",
-      "seen_at": "2026-10-02T10:01:20.395194+00:00"
-    },
-    {
-      "id": "zapply-9804b221902d",
-      "seen_at": "2026-10-02T10:01:20.396035+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR30900",
-      "seen_at": "2026-10-02T10:01:20.396845+00:00"
-    },
-    {
       "id": "jobright-033e74af788d",
       "seen_at": "2026-10-02T11:01:17.603413+00:00"
     },
@@ -26155,20 +26019,1116 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae68f5ec3139b475b5bcde3",
       "seen_at": "2026-11-01T03:01:14.077041+00:00"
+    },
+    {
+      "id": "simplify-ab851e0a-c1c8-412d-9992-54ac658c3686",
+      "seen_at": "2026-11-01T11:01:16.373592+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15K",
+      "seen_at": "2026-11-01T11:01:16.374081+00:00"
+    },
+    {
+      "id": "simplify-622b4862-36b8-43a4-bb04-67b6aa5efe4d",
+      "seen_at": "2026-11-01T11:01:16.374569+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15L",
+      "seen_at": "2026-11-01T11:01:16.375024+00:00"
+    },
+    {
+      "id": "simplify-3fffd545-edab-458a-9439-8159265e62e4",
+      "seen_at": "2026-11-01T11:01:16.375461+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15M",
+      "seen_at": "2026-11-01T11:01:16.375871+00:00"
+    },
+    {
+      "id": "simplify-e17e63c5-f646-4750-be24-fc01745ec46b",
+      "seen_at": "2026-11-01T11:01:16.376299+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15N",
+      "seen_at": "2026-11-01T11:01:16.376733+00:00"
+    },
+    {
+      "id": "simplify-0a3a6615-1d28-4191-b285-bef2ece8edfd",
+      "seen_at": "2026-11-01T11:01:16.377153+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15O",
+      "seen_at": "2026-11-01T11:01:16.377590+00:00"
+    },
+    {
+      "id": "simplify-c95e13ae-08a3-4dc2-aa44-a8fcbf543bbf",
+      "seen_at": "2026-11-01T11:01:16.378008+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15P",
+      "seen_at": "2026-11-01T11:01:16.378459+00:00"
+    },
+    {
+      "id": "simplify-fc9c118e-7e8a-4332-a5d9-3db73aa3bb50",
+      "seen_at": "2026-11-01T11:01:16.378874+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15Q",
+      "seen_at": "2026-11-01T11:01:16.379293+00:00"
+    },
+    {
+      "id": "simplify-3d172baf-a1fc-4f1c-b731-5154fe35ff95",
+      "seen_at": "2026-11-01T11:01:16.379704+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15R",
+      "seen_at": "2026-11-01T11:01:16.380109+00:00"
+    },
+    {
+      "id": "simplify-484a3104-de7e-40cd-886c-94672b6ff949",
+      "seen_at": "2026-11-01T11:01:16.380536+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15S",
+      "seen_at": "2026-11-01T11:01:16.380939+00:00"
+    },
+    {
+      "id": "simplify-90d4958c-2d47-4860-a51c-296a58cff621",
+      "seen_at": "2026-11-01T11:01:16.381367+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15U",
+      "seen_at": "2026-11-01T11:01:16.381775+00:00"
+    },
+    {
+      "id": "simplify-d3268f70-b41a-495d-8f98-f93acf4939af",
+      "seen_at": "2026-11-01T11:01:16.382188+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15V",
+      "seen_at": "2026-11-01T11:01:16.382609+00:00"
+    },
+    {
+      "id": "simplify-8f62f583-0033-41b1-9217-4e37e3a43959",
+      "seen_at": "2026-11-01T11:01:16.383026+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15W",
+      "seen_at": "2026-11-01T11:01:16.383444+00:00"
+    },
+    {
+      "id": "simplify-b16b84c5-f7bf-4a2d-a415-1d484332a6be",
+      "seen_at": "2026-11-01T11:01:16.383857+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15X",
+      "seen_at": "2026-11-01T11:01:16.384280+00:00"
+    },
+    {
+      "id": "simplify-5ec291c5-4d7f-4717-b500-08c33492144b",
+      "seen_at": "2026-11-01T11:01:16.384694+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15Y",
+      "seen_at": "2026-11-01T11:01:16.385100+00:00"
+    },
+    {
+      "id": "simplify-6cd55831-f2f8-4658-a078-845792724ea3",
+      "seen_at": "2026-11-01T11:01:16.385522+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15Z",
+      "seen_at": "2026-11-01T11:01:16.385929+00:00"
+    },
+    {
+      "id": "simplify-e0f62ae4-91a8-46b9-8069-5499aaba6187",
+      "seen_at": "2026-11-01T11:01:16.386354+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/160",
+      "seen_at": "2026-11-01T11:01:16.386761+00:00"
+    },
+    {
+      "id": "simplify-a041c2c8-866f-478d-bc41-e4f3ab4aefea",
+      "seen_at": "2026-11-01T11:01:16.387179+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/161",
+      "seen_at": "2026-11-01T11:01:16.387601+00:00"
+    },
+    {
+      "id": "simplify-05139e4d-c774-4c62-b03b-199b08695f40",
+      "seen_at": "2026-11-01T11:01:16.388018+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/162",
+      "seen_at": "2026-11-01T11:01:16.388440+00:00"
+    },
+    {
+      "id": "simplify-50c857c9-355e-4a99-9fa5-b3fb982b2e24",
+      "seen_at": "2026-11-01T11:01:16.388858+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/163",
+      "seen_at": "2026-11-01T11:01:16.389287+00:00"
+    },
+    {
+      "id": "simplify-b92dbb86-d7ca-488a-afa0-dedf0247fc95",
+      "seen_at": "2026-11-01T11:01:16.389722+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/164",
+      "seen_at": "2026-11-01T11:01:16.390144+00:00"
+    },
+    {
+      "id": "simplify-27160a70-16df-4135-83b2-78d5e70fc8ac",
+      "seen_at": "2026-11-01T11:01:16.390576+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/165",
+      "seen_at": "2026-11-01T11:01:16.390981+00:00"
+    },
+    {
+      "id": "simplify-d6a1db67-0bbb-49ce-b477-76174e29a405",
+      "seen_at": "2026-11-01T11:01:16.391403+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/166",
+      "seen_at": "2026-11-01T11:01:16.391809+00:00"
+    },
+    {
+      "id": "simplify-82f61443-6f02-4ebb-ad34-33282b41354f",
+      "seen_at": "2026-11-01T11:01:16.392217+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/167",
+      "seen_at": "2026-11-01T11:01:16.392635+00:00"
+    },
+    {
+      "id": "simplify-302a328b-e9dd-4e7c-b089-4fc10607fc05",
+      "seen_at": "2026-11-01T11:01:16.393045+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/169",
+      "seen_at": "2026-11-01T11:01:16.393463+00:00"
+    },
+    {
+      "id": "simplify-0b1deb63-0009-44bf-9454-a61ed5e9d18f",
+      "seen_at": "2026-11-01T11:01:16.393876+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16a",
+      "seen_at": "2026-11-01T11:01:16.394295+00:00"
+    },
+    {
+      "id": "simplify-a6965183-5b15-4f2d-801f-752f7d3abc3d",
+      "seen_at": "2026-11-01T11:01:16.395975+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16b",
+      "seen_at": "2026-11-01T11:01:16.396423+00:00"
+    },
+    {
+      "id": "simplify-c4952b8d-115e-4b55-b336-449c9808d9c6",
+      "seen_at": "2026-11-01T11:01:16.396847+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16c",
+      "seen_at": "2026-11-01T11:01:16.397293+00:00"
+    },
+    {
+      "id": "simplify-aaa30569-6cc7-4d81-bd33-126ce02d828c",
+      "seen_at": "2026-11-01T11:01:16.397741+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16d",
+      "seen_at": "2026-11-01T11:01:16.398155+00:00"
+    },
+    {
+      "id": "simplify-dca1e9d4-801f-4d8e-a6d4-8f55230de38b",
+      "seen_at": "2026-11-01T11:01:16.398604+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16e",
+      "seen_at": "2026-11-01T11:01:16.399017+00:00"
+    },
+    {
+      "id": "simplify-4aa9e73e-c84b-4037-b9c9-f01a5b104990",
+      "seen_at": "2026-11-01T11:01:16.399449+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16g",
+      "seen_at": "2026-11-01T11:01:16.399860+00:00"
+    },
+    {
+      "id": "simplify-99cdd964-3d80-4200-bd6f-599290deeb63",
+      "seen_at": "2026-11-01T11:01:16.400288+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16h",
+      "seen_at": "2026-11-01T11:01:16.400700+00:00"
+    },
+    {
+      "id": "simplify-74487a32-e6d8-4f93-8116-107cfd22749d",
+      "seen_at": "2026-11-01T11:01:16.401112+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16i",
+      "seen_at": "2026-11-01T11:01:16.401541+00:00"
+    },
+    {
+      "id": "simplify-912c6d1d-7793-4757-ba99-ff8cde0f4be5",
+      "seen_at": "2026-11-01T11:01:16.401964+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16k",
+      "seen_at": "2026-11-01T11:01:16.402395+00:00"
+    },
+    {
+      "id": "simplify-cb784d8a-4523-4e71-af5e-1d2fcf824f5b",
+      "seen_at": "2026-11-01T11:01:16.402813+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16l",
+      "seen_at": "2026-11-01T11:01:16.403235+00:00"
+    },
+    {
+      "id": "simplify-a2de12bd-a675-4643-92f1-1cca635a66b6",
+      "seen_at": "2026-11-01T11:01:16.403664+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16m",
+      "seen_at": "2026-11-01T11:01:16.404078+00:00"
+    },
+    {
+      "id": "simplify-3aec897b-7b09-46b7-943c-01da5588d10b",
+      "seen_at": "2026-11-01T11:01:16.404508+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16n",
+      "seen_at": "2026-11-01T11:01:16.404925+00:00"
+    },
+    {
+      "id": "simplify-fabc53a0-c8c9-4dd1-ba79-0816c2eb65d7",
+      "seen_at": "2026-11-01T11:01:16.405356+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16o",
+      "seen_at": "2026-11-01T11:01:16.405774+00:00"
+    },
+    {
+      "id": "simplify-6bd9fb98-d28d-4b1b-9755-72106164c63c",
+      "seen_at": "2026-11-01T11:01:16.406190+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16p",
+      "seen_at": "2026-11-01T11:01:16.406626+00:00"
+    },
+    {
+      "id": "simplify-1d87de72-ffdb-410f-95a4-608dd716df70",
+      "seen_at": "2026-11-01T11:01:16.407048+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16q",
+      "seen_at": "2026-11-01T11:01:16.407477+00:00"
+    },
+    {
+      "id": "simplify-329d13e8-c506-4848-8165-de736e273df8",
+      "seen_at": "2026-11-01T11:01:16.407896+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16r",
+      "seen_at": "2026-11-01T11:01:16.408326+00:00"
+    },
+    {
+      "id": "simplify-164433a7-8268-4ccb-872e-ff691c7436cd",
+      "seen_at": "2026-11-01T11:01:16.408744+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16s",
+      "seen_at": "2026-11-01T11:01:16.409162+00:00"
+    },
+    {
+      "id": "simplify-76b48c9c-de50-483a-8c0a-50764f2f524e",
+      "seen_at": "2026-11-01T11:01:16.409594+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16u",
+      "seen_at": "2026-11-01T11:01:16.410022+00:00"
+    },
+    {
+      "id": "simplify-050bd27a-b46a-4e3c-b622-b52a6fbd0d12",
+      "seen_at": "2026-11-01T11:01:16.410457+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16v",
+      "seen_at": "2026-11-01T11:01:16.410872+00:00"
+    },
+    {
+      "id": "simplify-94e46154-06a1-4e1a-8d89-9a0202c9366f",
+      "seen_at": "2026-11-01T11:01:16.411301+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16w",
+      "seen_at": "2026-11-01T11:01:16.411715+00:00"
+    },
+    {
+      "id": "simplify-7460209d-4c2d-4e3b-9181-d843f046eace",
+      "seen_at": "2026-11-01T11:01:16.412131+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16x",
+      "seen_at": "2026-11-01T11:01:16.412562+00:00"
+    },
+    {
+      "id": "simplify-085cdf12-f415-41f1-aa86-41149865fde1",
+      "seen_at": "2026-11-01T11:01:16.412982+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16y",
+      "seen_at": "2026-11-01T11:01:16.413413+00:00"
+    },
+    {
+      "id": "simplify-be1f29ea-8398-43c0-bc86-ebecfcd98b65",
+      "seen_at": "2026-11-01T11:01:16.413831+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16z",
+      "seen_at": "2026-11-01T11:01:16.414244+00:00"
+    },
+    {
+      "id": "simplify-4978165e-723b-4bea-b29a-38d1533fdff9",
+      "seen_at": "2026-11-01T11:01:16.414667+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16A",
+      "seen_at": "2026-11-01T11:01:16.415079+00:00"
+    },
+    {
+      "id": "simplify-758159cd-a36c-4cb9-8e66-9ab3f01919c8",
+      "seen_at": "2026-11-01T11:01:16.415505+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16B",
+      "seen_at": "2026-11-01T11:01:16.415919+00:00"
+    },
+    {
+      "id": "simplify-5f14200b-c9ef-4dac-acf3-7538c4f23565",
+      "seen_at": "2026-11-01T11:01:16.416344+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16C",
+      "seen_at": "2026-11-01T11:01:16.416758+00:00"
+    },
+    {
+      "id": "simplify-42892c1b-64ed-4594-b346-879a64097e6b",
+      "seen_at": "2026-11-01T11:01:16.417176+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16D",
+      "seen_at": "2026-11-01T11:01:16.417602+00:00"
+    },
+    {
+      "id": "simplify-75bbcd6d-9579-441c-8f96-6f1d23e15d50",
+      "seen_at": "2026-11-01T11:01:16.418023+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16E",
+      "seen_at": "2026-11-01T11:01:16.418458+00:00"
+    },
+    {
+      "id": "simplify-7c9ec11c-8b8a-40fb-a6c5-1251c7334a0e",
+      "seen_at": "2026-11-01T11:01:16.418877+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16F",
+      "seen_at": "2026-11-01T11:01:16.419307+00:00"
+    },
+    {
+      "id": "simplify-5ade5b5e-0630-4634-952a-5ddd31dc4b2d",
+      "seen_at": "2026-11-01T11:01:16.419726+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16G",
+      "seen_at": "2026-11-01T11:01:16.420137+00:00"
+    },
+    {
+      "id": "simplify-fa0e6fd8-7807-49b1-bcc2-bebaf51e96e0",
+      "seen_at": "2026-11-01T11:01:16.420561+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16I",
+      "seen_at": "2026-11-01T11:01:16.420973+00:00"
+    },
+    {
+      "id": "simplify-2a6f82d4-1182-482d-a4b6-7a4b89425637",
+      "seen_at": "2026-11-01T11:01:16.421397+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16J",
+      "seen_at": "2026-11-01T11:01:16.421811+00:00"
+    },
+    {
+      "id": "simplify-df317231-4b69-43e9-a36f-0a59ec312fd5",
+      "seen_at": "2026-11-01T11:01:16.422224+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16K",
+      "seen_at": "2026-11-01T11:01:16.422647+00:00"
+    },
+    {
+      "id": "simplify-8641e386-1e3e-4dbc-9dea-b093a63363ad",
+      "seen_at": "2026-11-01T11:01:16.423070+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16M",
+      "seen_at": "2026-11-01T11:01:16.423507+00:00"
+    },
+    {
+      "id": "simplify-113f06b0-e59a-445a-b4e8-b7015b806e9f",
+      "seen_at": "2026-11-01T11:01:16.423919+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16N",
+      "seen_at": "2026-11-01T11:01:16.424347+00:00"
+    },
+    {
+      "id": "simplify-8a609826-53e4-4633-b2f2-a73391ff53aa",
+      "seen_at": "2026-11-01T11:01:16.424772+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16O",
+      "seen_at": "2026-11-01T11:01:16.425194+00:00"
+    },
+    {
+      "id": "simplify-823f76e3-99da-43d9-a597-9a608f5de9a8",
+      "seen_at": "2026-11-01T11:01:16.425658+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16R",
+      "seen_at": "2026-11-01T11:01:16.426075+00:00"
+    },
+    {
+      "id": "simplify-4d969c1a-545b-4c2c-ba3e-ceb076e3b107",
+      "seen_at": "2026-11-01T11:01:16.426576+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16S",
+      "seen_at": "2026-11-01T11:01:16.427016+00:00"
+    },
+    {
+      "id": "simplify-792f2acf-1f76-43d2-94b2-6346e423ddb7",
+      "seen_at": "2026-11-01T11:01:16.427491+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16T",
+      "seen_at": "2026-11-01T11:01:16.427908+00:00"
+    },
+    {
+      "id": "simplify-345ea1c0-2320-46bd-96c4-d9068e7296d8",
+      "seen_at": "2026-11-01T11:01:16.428336+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16U",
+      "seen_at": "2026-11-01T11:01:16.428749+00:00"
+    },
+    {
+      "id": "simplify-3cbf6023-38d6-48bc-b87c-10c7588810f5",
+      "seen_at": "2026-11-01T11:01:16.429162+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16V",
+      "seen_at": "2026-11-01T11:01:16.429585+00:00"
+    },
+    {
+      "id": "simplify-fe8e5156-723b-48df-afdd-a8160a89e419",
+      "seen_at": "2026-11-01T11:01:16.429997+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16W",
+      "seen_at": "2026-11-01T11:01:16.430422+00:00"
+    },
+    {
+      "id": "simplify-239ba095-efca-419e-af7b-e3526150b21c",
+      "seen_at": "2026-11-01T11:01:16.430839+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16X",
+      "seen_at": "2026-11-01T11:01:16.431277+00:00"
+    },
+    {
+      "id": "simplify-30107c9f-482e-4c5d-bbb1-af103aaaf0c5",
+      "seen_at": "2026-11-01T11:01:16.431696+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16Y",
+      "seen_at": "2026-11-01T11:01:16.432113+00:00"
+    },
+    {
+      "id": "simplify-936c853a-69f8-4728-8e27-69ceee1950e1",
+      "seen_at": "2026-11-01T11:01:16.432541+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/16Z",
+      "seen_at": "2026-11-01T11:01:16.432956+00:00"
+    },
+    {
+      "id": "simplify-be55ad35-41e4-44c8-b177-a12a3af174dd",
+      "seen_at": "2026-11-01T11:01:16.433387+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/170",
+      "seen_at": "2026-11-01T11:01:16.433804+00:00"
+    },
+    {
+      "id": "simplify-673dfdcf-f7d6-48de-8807-374c4475d726",
+      "seen_at": "2026-11-01T11:01:16.434220+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/171",
+      "seen_at": "2026-11-01T11:01:16.434651+00:00"
+    },
+    {
+      "id": "simplify-a9400cf2-d928-4730-a983-9508df12f357",
+      "seen_at": "2026-11-01T11:01:16.435072+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/172",
+      "seen_at": "2026-11-01T11:01:16.435505+00:00"
+    },
+    {
+      "id": "simplify-bcc6531c-f76c-4f27-90c5-add3f70605e3",
+      "seen_at": "2026-11-01T11:01:16.435927+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/174",
+      "seen_at": "2026-11-01T11:01:16.436360+00:00"
+    },
+    {
+      "id": "simplify-cf3e9f71-b5af-4013-a351-6e283e9da4ad",
+      "seen_at": "2026-11-01T11:01:16.436793+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/175",
+      "seen_at": "2026-11-01T11:01:16.437229+00:00"
+    },
+    {
+      "id": "simplify-6a6699df-b65a-42d1-ad9f-6529084a0ec9",
+      "seen_at": "2026-11-01T11:01:16.437679+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/176",
+      "seen_at": "2026-11-01T11:01:16.438102+00:00"
+    },
+    {
+      "id": "simplify-75916dca-f99b-4e7b-97e0-a96fcc32f0cc",
+      "seen_at": "2026-11-01T11:01:16.438536+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/177",
+      "seen_at": "2026-11-01T11:01:16.438959+00:00"
+    },
+    {
+      "id": "simplify-8d3c3e72-a3a8-4717-8865-811acd3f06c4",
+      "seen_at": "2026-11-01T11:01:16.439394+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/179",
+      "seen_at": "2026-11-01T11:01:16.439823+00:00"
+    },
+    {
+      "id": "simplify-7dea4367-4726-4ca4-883a-7f7ddd8b18c4",
+      "seen_at": "2026-11-01T11:01:16.440245+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17b",
+      "seen_at": "2026-11-01T11:01:16.440675+00:00"
+    },
+    {
+      "id": "simplify-2cd0ebba-7313-44bb-a451-38148691cc05",
+      "seen_at": "2026-11-01T11:01:16.441106+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17c",
+      "seen_at": "2026-11-01T11:01:16.441542+00:00"
+    },
+    {
+      "id": "simplify-55a5f692-52de-4415-afc6-d60e9428ccca",
+      "seen_at": "2026-11-01T11:01:16.441966+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17d",
+      "seen_at": "2026-11-01T11:01:16.442400+00:00"
+    },
+    {
+      "id": "simplify-a6badd68-7a25-4b7c-a5a6-531d893a051c",
+      "seen_at": "2026-11-01T11:01:16.442833+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17f",
+      "seen_at": "2026-11-01T11:01:16.443268+00:00"
+    },
+    {
+      "id": "simplify-9e438b62-934a-4219-8076-925ced270548",
+      "seen_at": "2026-11-01T11:01:16.443691+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17g",
+      "seen_at": "2026-11-01T11:01:16.444115+00:00"
+    },
+    {
+      "id": "simplify-ccdb57f4-8b6b-44dd-835c-24fd79444071",
+      "seen_at": "2026-11-01T11:01:16.444548+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17h",
+      "seen_at": "2026-11-01T11:01:16.444975+00:00"
+    },
+    {
+      "id": "simplify-e9b8b6a2-9340-484b-8996-0a0e576ed773",
+      "seen_at": "2026-11-01T11:01:16.445421+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17i",
+      "seen_at": "2026-11-01T11:01:16.445842+00:00"
+    },
+    {
+      "id": "simplify-cf5849d8-c809-4a4e-a437-5526d0720264",
+      "seen_at": "2026-11-01T11:01:16.446277+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17j",
+      "seen_at": "2026-11-01T11:01:16.446701+00:00"
+    },
+    {
+      "id": "simplify-49f7a6bb-1201-44d5-881c-028f7a97e3fb",
+      "seen_at": "2026-11-01T11:01:16.447127+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17k",
+      "seen_at": "2026-11-01T11:01:16.447558+00:00"
+    },
+    {
+      "id": "simplify-d511eeea-e1f8-41df-8520-95c5c55fd39a",
+      "seen_at": "2026-11-01T11:01:16.447977+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17l",
+      "seen_at": "2026-11-01T11:01:16.448413+00:00"
+    },
+    {
+      "id": "simplify-f2f4a1d7-0400-4364-837c-db28f11d2797",
+      "seen_at": "2026-11-01T11:01:16.448832+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17m",
+      "seen_at": "2026-11-01T11:01:16.449264+00:00"
+    },
+    {
+      "id": "simplify-13ac9e06-5df9-4c70-bf4b-226fef01eca0",
+      "seen_at": "2026-11-01T11:01:16.449686+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17o",
+      "seen_at": "2026-11-01T11:01:16.450107+00:00"
+    },
+    {
+      "id": "simplify-38878537-5293-45cc-9ce0-afa880119561",
+      "seen_at": "2026-11-01T11:01:16.450540+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17p",
+      "seen_at": "2026-11-01T11:01:16.450960+00:00"
+    },
+    {
+      "id": "simplify-9a4d6793-5caf-4fbb-a0b5-4daa41194263",
+      "seen_at": "2026-11-01T11:01:16.451395+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/17q",
+      "seen_at": "2026-11-01T11:01:16.451815+00:00"
+    },
+    {
+      "id": "simplify-46ee2811-6e4d-40d6-8a4b-d40ec9dff269",
+      "seen_at": "2026-11-01T11:01:16.452235+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14H",
+      "seen_at": "2026-11-01T11:01:16.452669+00:00"
+    },
+    {
+      "id": "simplify-3bd92293-37c1-4880-a0f5-ee8459b8327c",
+      "seen_at": "2026-11-01T11:01:16.453100+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14I",
+      "seen_at": "2026-11-01T11:01:16.453541+00:00"
+    },
+    {
+      "id": "simplify-ebe28036-3cfd-4e88-bd0f-c41c1a18a492",
+      "seen_at": "2026-11-01T11:01:16.453978+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14J",
+      "seen_at": "2026-11-01T11:01:16.454422+00:00"
+    },
+    {
+      "id": "simplify-5f119f45-d881-45c9-9079-6099454ee4af",
+      "seen_at": "2026-11-01T11:01:16.454844+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14K",
+      "seen_at": "2026-11-01T11:01:16.455283+00:00"
+    },
+    {
+      "id": "simplify-2c156413-d7a1-48c1-a0a3-1be539abd981",
+      "seen_at": "2026-11-01T11:01:16.455716+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14L",
+      "seen_at": "2026-11-01T11:01:16.456161+00:00"
+    },
+    {
+      "id": "simplify-86c54305-b670-49d8-8ff0-44dbfd16be47",
+      "seen_at": "2026-11-01T11:01:16.456601+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14M",
+      "seen_at": "2026-11-01T11:01:16.457024+00:00"
+    },
+    {
+      "id": "simplify-34cf681d-3b11-4971-b573-0cca4355f067",
+      "seen_at": "2026-11-01T11:01:16.457463+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14N",
+      "seen_at": "2026-11-01T11:01:16.457884+00:00"
+    },
+    {
+      "id": "simplify-288221b5-d327-4316-bfb5-3f5520c9ccfb",
+      "seen_at": "2026-11-01T11:01:16.458321+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14P",
+      "seen_at": "2026-11-01T11:01:16.458741+00:00"
+    },
+    {
+      "id": "simplify-83b131c1-d2d9-4385-a4bd-3266e77ec89f",
+      "seen_at": "2026-11-01T11:01:16.459163+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14Q",
+      "seen_at": "2026-11-01T11:01:16.459594+00:00"
+    },
+    {
+      "id": "simplify-02f5a6be-f355-4fa0-88cf-abc8c0d07495",
+      "seen_at": "2026-11-01T11:01:16.460024+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14R",
+      "seen_at": "2026-11-01T11:01:16.460459+00:00"
+    },
+    {
+      "id": "simplify-bbd25431-7bd4-4599-92ce-979ff70bc8de",
+      "seen_at": "2026-11-01T11:01:16.460887+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14S",
+      "seen_at": "2026-11-01T11:01:16.461331+00:00"
+    },
+    {
+      "id": "simplify-d2779612-0154-436f-91f5-d6e8550cbc3f",
+      "seen_at": "2026-11-01T11:01:16.461756+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14T",
+      "seen_at": "2026-11-01T11:01:16.462180+00:00"
+    },
+    {
+      "id": "simplify-c4fb6296-2c90-4e6f-aa6f-a6045e1aa922",
+      "seen_at": "2026-11-01T11:01:16.462615+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14U",
+      "seen_at": "2026-11-01T11:01:16.463039+00:00"
+    },
+    {
+      "id": "simplify-f274fcf9-d1a2-4191-85b5-123705b95b05",
+      "seen_at": "2026-11-01T11:01:16.463476+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14V",
+      "seen_at": "2026-11-01T11:01:16.463900+00:00"
+    },
+    {
+      "id": "simplify-70e700c4-e949-4f6f-b449-511af4f6753c",
+      "seen_at": "2026-11-01T11:01:16.464358+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14W",
+      "seen_at": "2026-11-01T11:01:16.464785+00:00"
+    },
+    {
+      "id": "simplify-9decabab-5ff3-450e-b586-0f57dd9b24e0",
+      "seen_at": "2026-11-01T11:01:16.465210+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14X",
+      "seen_at": "2026-11-01T11:01:16.465647+00:00"
+    },
+    {
+      "id": "simplify-ccc3ab48-0ff1-4d8c-8683-ab34538bdb33",
+      "seen_at": "2026-11-01T11:01:16.466073+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14Y",
+      "seen_at": "2026-11-01T11:01:16.466511+00:00"
+    },
+    {
+      "id": "simplify-0c62b059-bbc6-495b-86f2-f088652c5828",
+      "seen_at": "2026-11-01T11:01:16.466936+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/14Z",
+      "seen_at": "2026-11-01T11:01:16.467376+00:00"
+    },
+    {
+      "id": "simplify-7fd5e522-1337-412b-a6d4-7b55d283df12",
+      "seen_at": "2026-11-01T11:01:16.467801+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/150",
+      "seen_at": "2026-11-01T11:01:16.468235+00:00"
+    },
+    {
+      "id": "simplify-cc0a3314-15c0-4a48-b145-88495dc4056b",
+      "seen_at": "2026-11-01T11:01:16.468675+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/152",
+      "seen_at": "2026-11-01T11:01:16.469101+00:00"
+    },
+    {
+      "id": "simplify-7c10417c-172b-4a4e-a570-d4275e6c2d1e",
+      "seen_at": "2026-11-01T11:01:16.469539+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/153",
+      "seen_at": "2026-11-01T11:01:16.469965+00:00"
+    },
+    {
+      "id": "simplify-2614ddb4-914d-4c60-8718-19c1c4e08ba7",
+      "seen_at": "2026-11-01T11:01:16.470400+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/154",
+      "seen_at": "2026-11-01T11:01:16.470826+00:00"
+    },
+    {
+      "id": "simplify-96b48f59-6198-4592-b7ba-2babfcbf1cbd",
+      "seen_at": "2026-11-01T11:01:16.471267+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/157",
+      "seen_at": "2026-11-01T11:01:16.471693+00:00"
+    },
+    {
+      "id": "simplify-750e2347-9cef-4026-bbcf-fae63a30029d",
+      "seen_at": "2026-11-01T11:01:16.472117+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/159",
+      "seen_at": "2026-11-01T11:01:16.472557+00:00"
+    },
+    {
+      "id": "simplify-7688e157-9cb0-41b2-b40b-5be0cd878e49",
+      "seen_at": "2026-11-01T11:01:16.472991+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15b",
+      "seen_at": "2026-11-01T11:01:16.473428+00:00"
+    },
+    {
+      "id": "simplify-895fcf81-72b1-4fbd-a925-7bcb08bf3120",
+      "seen_at": "2026-11-01T11:01:16.473855+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15c",
+      "seen_at": "2026-11-01T11:01:16.474295+00:00"
+    },
+    {
+      "id": "simplify-1df7dcb0-4d3b-43cb-9cb7-9ca91074f18d",
+      "seen_at": "2026-11-01T11:01:16.474730+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15d",
+      "seen_at": "2026-11-01T11:01:16.475156+00:00"
+    },
+    {
+      "id": "simplify-aebc06b9-1bff-4889-a0bf-d1be228f7155",
+      "seen_at": "2026-11-01T11:01:16.475602+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15e",
+      "seen_at": "2026-11-01T11:01:16.476030+00:00"
+    },
+    {
+      "id": "simplify-cb818cba-c8f1-45e5-ab3a-621e0140c69a",
+      "seen_at": "2026-11-01T11:01:16.476473+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15f",
+      "seen_at": "2026-11-01T11:01:16.476898+00:00"
+    },
+    {
+      "id": "simplify-9b206892-2139-45cf-9f2a-8ebd812ebbf3",
+      "seen_at": "2026-11-01T11:01:16.477339+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15g",
+      "seen_at": "2026-11-01T11:01:16.477761+00:00"
+    },
+    {
+      "id": "simplify-c2e5a5e6-f5a3-4f27-81ae-452f77f775f2",
+      "seen_at": "2026-11-01T11:01:16.478186+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15h",
+      "seen_at": "2026-11-01T11:01:16.478620+00:00"
+    },
+    {
+      "id": "simplify-7d0ac746-56b3-4320-b2c6-ad1a2b82e95a",
+      "seen_at": "2026-11-01T11:01:16.480220+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15i",
+      "seen_at": "2026-11-01T11:01:16.480680+00:00"
+    },
+    {
+      "id": "simplify-56fa93f8-7e12-4a72-89b5-18f54d9a95ea",
+      "seen_at": "2026-11-01T11:01:16.481122+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15k",
+      "seen_at": "2026-11-01T11:01:16.481570+00:00"
+    },
+    {
+      "id": "simplify-0981ed90-71bd-45ee-bddd-1d9043c67725",
+      "seen_at": "2026-11-01T11:01:16.482013+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15l",
+      "seen_at": "2026-11-01T11:01:16.482469+00:00"
+    },
+    {
+      "id": "simplify-86aa5b0b-0908-4c3a-8dd2-44ee06bc3239",
+      "seen_at": "2026-11-01T11:01:16.482915+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15m",
+      "seen_at": "2026-11-01T11:01:16.483369+00:00"
+    },
+    {
+      "id": "simplify-fc684218-5256-46b2-8cec-451a00db4fdc",
+      "seen_at": "2026-11-01T11:01:16.483805+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15p",
+      "seen_at": "2026-11-01T11:01:16.484239+00:00"
+    },
+    {
+      "id": "simplify-03176a5a-ac86-4e1a-a8a4-9fb2042575dd",
+      "seen_at": "2026-11-01T11:01:16.484695+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15r",
+      "seen_at": "2026-11-01T11:01:16.485124+00:00"
+    },
+    {
+      "id": "simplify-88afa08d-470d-40bb-92e0-f3a43565acd1",
+      "seen_at": "2026-11-01T11:01:16.485563+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15s",
+      "seen_at": "2026-11-01T11:01:16.485988+00:00"
+    },
+    {
+      "id": "simplify-5995fcb3-7cd4-4b68-a588-b84952523a44",
+      "seen_at": "2026-11-01T11:01:16.486427+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15u",
+      "seen_at": "2026-11-01T11:01:16.486854+00:00"
+    },
+    {
+      "id": "simplify-7566bd57-47d7-4e3a-8216-16b4eceb4f4b",
+      "seen_at": "2026-11-01T11:01:16.487298+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15w",
+      "seen_at": "2026-11-01T11:01:16.487726+00:00"
+    },
+    {
+      "id": "simplify-c5f83206-a663-4474-822f-8e7ba0650076",
+      "seen_at": "2026-11-01T11:01:16.488153+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15z",
+      "seen_at": "2026-11-01T11:01:16.488591+00:00"
+    },
+    {
+      "id": "simplify-c26c43fc-3141-415f-a4fe-f86e76741642",
+      "seen_at": "2026-11-01T11:01:16.489027+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/15D",
+      "seen_at": "2026-11-01T11:01:16.489468+00:00"
+    },
+    {
+      "id": "jobright-df89cf429657",
+      "seen_at": "2026-11-01T11:01:16.489909+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae6d08dd7424a2a828f04a2",
+      "seen_at": "2026-11-01T11:01:16.490361+00:00"
+    },
+    {
+      "id": "jobright-6295809f394d",
+      "seen_at": "2026-11-01T11:01:16.490801+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae6cf9677c09cb3bd4b69d9",
+      "seen_at": "2026-11-01T11:01:16.491239+00:00"
+    },
+    {
+      "id": "jobright-aa4c070c2efd",
+      "seen_at": "2026-11-01T11:01:16.491689+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae6c12c77c09cb3bd4b675f",
+      "seen_at": "2026-11-01T11:01:16.492125+00:00"
+    },
+    {
+      "id": "jobright-57a0a654f0f5",
+      "seen_at": "2026-11-01T11:01:16.492580+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae68861c3139b475b5bcca1",
+      "seen_at": "2026-11-01T11:01:16.493019+00:00"
+    },
+    {
+      "id": "jobright-0a32aa65a025",
+      "seen_at": "2026-11-01T11:01:16.493471+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae6ccd777c09cb3bd4b6927",
+      "seen_at": "2026-11-01T11:01:16.493911+00:00"
     }
   ],
-  "last_run": "2026-11-01T03:31:04.079348+00:00",
-  "total_notified": 11081,
+  "last_run": "2026-11-01T11:01:17.188061+00:00",
+  "total_notified": 11106,
   "channels": {
     "pm-jobs": [
-      "greenhouse-anthropic-5439391008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5439391008",
-      "zapply-f2ed722b55c2",
-      "url:https://zapply.jobs/l/d/greenhouse-anthropic-5439391008",
-      "zapply-cac95a64fdc4",
-      "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR31389",
-      "zapply-9804b221902d",
-      "url:https://zapply.jobs/l/d/workday-chamberlain-chamberlain-group-JR30900",
       "jobright-891886524374",
       "url:https://jobright.ai/jobs/info/6aa3abf84233a2201a2b2cb2",
       "zapply-8da69213a645",
@@ -27288,32 +28248,6 @@
       "url:https://jobright.ai/jobs/info/6a4e1218fc327f422fef1ca6"
     ],
     "swe-ai-full-time": [
-      "zapply-5ae3035e6f88",
-      "url:https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01369988",
-      "zapply-46da5d450700",
-      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229691",
-      "ashby-openai-a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
-      "url:https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
-      "jobright-86daefa02c31",
-      "url:https://jobright.ai/jobs/info/6abd788b372c01f6cd720a97",
-      "jobright-6e4a17e87289",
-      "url:https://jobright.ai/jobs/info/6ab5eda2d85922de20ce3c40",
-      "jobright-67d5db9c2dc4",
-      "url:https://jobright.ai/jobs/info/6abd57b84ac55253f5d5ce41",
-      "zapply-1ce4c8a1aba1",
-      "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30307",
-      "zapply-01e3f9e92f91",
-      "url:https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30291",
-      "zapply-bfc350d81e80",
-      "url:https://zapply.jobs/l/d/workday-selinc-sel-2026-21862",
-      "simplify-169846aa-cf8c-463a-9721-b9826b79a129",
-      "url:https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
-      "zapply-594f3bdbfa70",
-      "url:https://zapply.jobs/l/d/greenhouse-botauto-5441690008",
-      "jobright-c341d15c17e9",
-      "url:https://jobright.ai/jobs/info/6abee648d9621c5b2839245d",
-      "applyguy-3a280089-2bd8-494a-b78e-0de5ad399e1d",
-      "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
       "jobright-033e74af788d",
       "url:https://jobright.ai/jobs/info/6abf71670e027c0f3b39d2a2",
       "zapply-a8e46dcb59ac",
@@ -32707,7 +33641,283 @@
       "jobright-db5eec07d31e",
       "url:https://jobright.ai/jobs/info/6ae686c5fb2cd420ace60ba9",
       "jobright-db84e22c48dd",
-      "url:https://jobright.ai/jobs/info/6ae68f5ec3139b475b5bcde3"
+      "url:https://jobright.ai/jobs/info/6ae68f5ec3139b475b5bcde3",
+      "simplify-ab851e0a-c1c8-412d-9992-54ac658c3686",
+      "url:https://go.vansh.nyc/15K",
+      "simplify-622b4862-36b8-43a4-bb04-67b6aa5efe4d",
+      "url:https://go.vansh.nyc/15L",
+      "simplify-3fffd545-edab-458a-9439-8159265e62e4",
+      "url:https://go.vansh.nyc/15M",
+      "simplify-e17e63c5-f646-4750-be24-fc01745ec46b",
+      "url:https://go.vansh.nyc/15N",
+      "simplify-0a3a6615-1d28-4191-b285-bef2ece8edfd",
+      "url:https://go.vansh.nyc/15O",
+      "simplify-c95e13ae-08a3-4dc2-aa44-a8fcbf543bbf",
+      "url:https://go.vansh.nyc/15P",
+      "simplify-fc9c118e-7e8a-4332-a5d9-3db73aa3bb50",
+      "url:https://go.vansh.nyc/15Q",
+      "simplify-3d172baf-a1fc-4f1c-b731-5154fe35ff95",
+      "url:https://go.vansh.nyc/15R",
+      "simplify-484a3104-de7e-40cd-886c-94672b6ff949",
+      "url:https://go.vansh.nyc/15S",
+      "simplify-90d4958c-2d47-4860-a51c-296a58cff621",
+      "url:https://go.vansh.nyc/15U",
+      "simplify-d3268f70-b41a-495d-8f98-f93acf4939af",
+      "url:https://go.vansh.nyc/15V",
+      "simplify-8f62f583-0033-41b1-9217-4e37e3a43959",
+      "url:https://go.vansh.nyc/15W",
+      "simplify-b16b84c5-f7bf-4a2d-a415-1d484332a6be",
+      "url:https://go.vansh.nyc/15X",
+      "simplify-5ec291c5-4d7f-4717-b500-08c33492144b",
+      "url:https://go.vansh.nyc/15Y",
+      "simplify-6cd55831-f2f8-4658-a078-845792724ea3",
+      "url:https://go.vansh.nyc/15Z",
+      "simplify-e0f62ae4-91a8-46b9-8069-5499aaba6187",
+      "url:https://go.vansh.nyc/160",
+      "simplify-a041c2c8-866f-478d-bc41-e4f3ab4aefea",
+      "url:https://go.vansh.nyc/161",
+      "simplify-05139e4d-c774-4c62-b03b-199b08695f40",
+      "url:https://go.vansh.nyc/162",
+      "simplify-50c857c9-355e-4a99-9fa5-b3fb982b2e24",
+      "url:https://go.vansh.nyc/163",
+      "simplify-b92dbb86-d7ca-488a-afa0-dedf0247fc95",
+      "url:https://go.vansh.nyc/164",
+      "simplify-27160a70-16df-4135-83b2-78d5e70fc8ac",
+      "url:https://go.vansh.nyc/165",
+      "simplify-d6a1db67-0bbb-49ce-b477-76174e29a405",
+      "url:https://go.vansh.nyc/166",
+      "simplify-82f61443-6f02-4ebb-ad34-33282b41354f",
+      "url:https://go.vansh.nyc/167",
+      "simplify-302a328b-e9dd-4e7c-b089-4fc10607fc05",
+      "url:https://go.vansh.nyc/169",
+      "simplify-0b1deb63-0009-44bf-9454-a61ed5e9d18f",
+      "url:https://go.vansh.nyc/16a",
+      "simplify-a6965183-5b15-4f2d-801f-752f7d3abc3d",
+      "url:https://go.vansh.nyc/16b",
+      "simplify-c4952b8d-115e-4b55-b336-449c9808d9c6",
+      "url:https://go.vansh.nyc/16c",
+      "simplify-aaa30569-6cc7-4d81-bd33-126ce02d828c",
+      "url:https://go.vansh.nyc/16d",
+      "simplify-dca1e9d4-801f-4d8e-a6d4-8f55230de38b",
+      "url:https://go.vansh.nyc/16e",
+      "simplify-4aa9e73e-c84b-4037-b9c9-f01a5b104990",
+      "url:https://go.vansh.nyc/16g",
+      "simplify-99cdd964-3d80-4200-bd6f-599290deeb63",
+      "url:https://go.vansh.nyc/16h",
+      "simplify-74487a32-e6d8-4f93-8116-107cfd22749d",
+      "url:https://go.vansh.nyc/16i",
+      "simplify-912c6d1d-7793-4757-ba99-ff8cde0f4be5",
+      "url:https://go.vansh.nyc/16k",
+      "simplify-cb784d8a-4523-4e71-af5e-1d2fcf824f5b",
+      "url:https://go.vansh.nyc/16l",
+      "simplify-a2de12bd-a675-4643-92f1-1cca635a66b6",
+      "url:https://go.vansh.nyc/16m",
+      "simplify-3aec897b-7b09-46b7-943c-01da5588d10b",
+      "url:https://go.vansh.nyc/16n",
+      "simplify-fabc53a0-c8c9-4dd1-ba79-0816c2eb65d7",
+      "url:https://go.vansh.nyc/16o",
+      "simplify-6bd9fb98-d28d-4b1b-9755-72106164c63c",
+      "url:https://go.vansh.nyc/16p",
+      "simplify-1d87de72-ffdb-410f-95a4-608dd716df70",
+      "url:https://go.vansh.nyc/16q",
+      "simplify-329d13e8-c506-4848-8165-de736e273df8",
+      "url:https://go.vansh.nyc/16r",
+      "simplify-164433a7-8268-4ccb-872e-ff691c7436cd",
+      "url:https://go.vansh.nyc/16s",
+      "simplify-76b48c9c-de50-483a-8c0a-50764f2f524e",
+      "url:https://go.vansh.nyc/16u",
+      "simplify-050bd27a-b46a-4e3c-b622-b52a6fbd0d12",
+      "url:https://go.vansh.nyc/16v",
+      "simplify-94e46154-06a1-4e1a-8d89-9a0202c9366f",
+      "url:https://go.vansh.nyc/16w",
+      "simplify-7460209d-4c2d-4e3b-9181-d843f046eace",
+      "url:https://go.vansh.nyc/16x",
+      "simplify-085cdf12-f415-41f1-aa86-41149865fde1",
+      "url:https://go.vansh.nyc/16y",
+      "simplify-be1f29ea-8398-43c0-bc86-ebecfcd98b65",
+      "url:https://go.vansh.nyc/16z",
+      "simplify-4978165e-723b-4bea-b29a-38d1533fdff9",
+      "url:https://go.vansh.nyc/16A",
+      "simplify-758159cd-a36c-4cb9-8e66-9ab3f01919c8",
+      "url:https://go.vansh.nyc/16B",
+      "simplify-5f14200b-c9ef-4dac-acf3-7538c4f23565",
+      "url:https://go.vansh.nyc/16C",
+      "simplify-42892c1b-64ed-4594-b346-879a64097e6b",
+      "url:https://go.vansh.nyc/16D",
+      "simplify-75bbcd6d-9579-441c-8f96-6f1d23e15d50",
+      "url:https://go.vansh.nyc/16E",
+      "simplify-7c9ec11c-8b8a-40fb-a6c5-1251c7334a0e",
+      "url:https://go.vansh.nyc/16F",
+      "simplify-5ade5b5e-0630-4634-952a-5ddd31dc4b2d",
+      "url:https://go.vansh.nyc/16G",
+      "simplify-fa0e6fd8-7807-49b1-bcc2-bebaf51e96e0",
+      "url:https://go.vansh.nyc/16I",
+      "simplify-2a6f82d4-1182-482d-a4b6-7a4b89425637",
+      "url:https://go.vansh.nyc/16J",
+      "simplify-df317231-4b69-43e9-a36f-0a59ec312fd5",
+      "url:https://go.vansh.nyc/16K",
+      "simplify-8641e386-1e3e-4dbc-9dea-b093a63363ad",
+      "url:https://go.vansh.nyc/16M",
+      "simplify-113f06b0-e59a-445a-b4e8-b7015b806e9f",
+      "url:https://go.vansh.nyc/16N",
+      "simplify-8a609826-53e4-4633-b2f2-a73391ff53aa",
+      "url:https://go.vansh.nyc/16O",
+      "simplify-823f76e3-99da-43d9-a597-9a608f5de9a8",
+      "url:https://go.vansh.nyc/16R",
+      "simplify-4d969c1a-545b-4c2c-ba3e-ceb076e3b107",
+      "url:https://go.vansh.nyc/16S",
+      "simplify-792f2acf-1f76-43d2-94b2-6346e423ddb7",
+      "url:https://go.vansh.nyc/16T",
+      "simplify-345ea1c0-2320-46bd-96c4-d9068e7296d8",
+      "url:https://go.vansh.nyc/16U",
+      "simplify-3cbf6023-38d6-48bc-b87c-10c7588810f5",
+      "url:https://go.vansh.nyc/16V",
+      "simplify-fe8e5156-723b-48df-afdd-a8160a89e419",
+      "url:https://go.vansh.nyc/16W",
+      "simplify-239ba095-efca-419e-af7b-e3526150b21c",
+      "url:https://go.vansh.nyc/16X",
+      "simplify-30107c9f-482e-4c5d-bbb1-af103aaaf0c5",
+      "url:https://go.vansh.nyc/16Y",
+      "simplify-936c853a-69f8-4728-8e27-69ceee1950e1",
+      "url:https://go.vansh.nyc/16Z",
+      "simplify-be55ad35-41e4-44c8-b177-a12a3af174dd",
+      "url:https://go.vansh.nyc/170",
+      "simplify-673dfdcf-f7d6-48de-8807-374c4475d726",
+      "url:https://go.vansh.nyc/171",
+      "simplify-a9400cf2-d928-4730-a983-9508df12f357",
+      "url:https://go.vansh.nyc/172",
+      "simplify-bcc6531c-f76c-4f27-90c5-add3f70605e3",
+      "url:https://go.vansh.nyc/174",
+      "simplify-cf3e9f71-b5af-4013-a351-6e283e9da4ad",
+      "url:https://go.vansh.nyc/175",
+      "simplify-6a6699df-b65a-42d1-ad9f-6529084a0ec9",
+      "url:https://go.vansh.nyc/176",
+      "simplify-75916dca-f99b-4e7b-97e0-a96fcc32f0cc",
+      "url:https://go.vansh.nyc/177",
+      "simplify-8d3c3e72-a3a8-4717-8865-811acd3f06c4",
+      "url:https://go.vansh.nyc/179",
+      "simplify-7dea4367-4726-4ca4-883a-7f7ddd8b18c4",
+      "url:https://go.vansh.nyc/17b",
+      "simplify-2cd0ebba-7313-44bb-a451-38148691cc05",
+      "url:https://go.vansh.nyc/17c",
+      "simplify-55a5f692-52de-4415-afc6-d60e9428ccca",
+      "url:https://go.vansh.nyc/17d",
+      "simplify-a6badd68-7a25-4b7c-a5a6-531d893a051c",
+      "url:https://go.vansh.nyc/17f",
+      "simplify-9e438b62-934a-4219-8076-925ced270548",
+      "url:https://go.vansh.nyc/17g",
+      "simplify-ccdb57f4-8b6b-44dd-835c-24fd79444071",
+      "url:https://go.vansh.nyc/17h",
+      "simplify-e9b8b6a2-9340-484b-8996-0a0e576ed773",
+      "url:https://go.vansh.nyc/17i",
+      "simplify-cf5849d8-c809-4a4e-a437-5526d0720264",
+      "url:https://go.vansh.nyc/17j",
+      "simplify-49f7a6bb-1201-44d5-881c-028f7a97e3fb",
+      "url:https://go.vansh.nyc/17k",
+      "simplify-d511eeea-e1f8-41df-8520-95c5c55fd39a",
+      "url:https://go.vansh.nyc/17l",
+      "simplify-f2f4a1d7-0400-4364-837c-db28f11d2797",
+      "url:https://go.vansh.nyc/17m",
+      "simplify-13ac9e06-5df9-4c70-bf4b-226fef01eca0",
+      "url:https://go.vansh.nyc/17o",
+      "simplify-38878537-5293-45cc-9ce0-afa880119561",
+      "url:https://go.vansh.nyc/17p",
+      "simplify-9a4d6793-5caf-4fbb-a0b5-4daa41194263",
+      "url:https://go.vansh.nyc/17q",
+      "simplify-46ee2811-6e4d-40d6-8a4b-d40ec9dff269",
+      "url:https://go.vansh.nyc/14H",
+      "simplify-3bd92293-37c1-4880-a0f5-ee8459b8327c",
+      "url:https://go.vansh.nyc/14I",
+      "simplify-ebe28036-3cfd-4e88-bd0f-c41c1a18a492",
+      "url:https://go.vansh.nyc/14J",
+      "simplify-5f119f45-d881-45c9-9079-6099454ee4af",
+      "url:https://go.vansh.nyc/14K",
+      "simplify-2c156413-d7a1-48c1-a0a3-1be539abd981",
+      "url:https://go.vansh.nyc/14L",
+      "simplify-86c54305-b670-49d8-8ff0-44dbfd16be47",
+      "url:https://go.vansh.nyc/14M",
+      "simplify-34cf681d-3b11-4971-b573-0cca4355f067",
+      "url:https://go.vansh.nyc/14N",
+      "simplify-288221b5-d327-4316-bfb5-3f5520c9ccfb",
+      "url:https://go.vansh.nyc/14P",
+      "simplify-83b131c1-d2d9-4385-a4bd-3266e77ec89f",
+      "url:https://go.vansh.nyc/14Q",
+      "simplify-02f5a6be-f355-4fa0-88cf-abc8c0d07495",
+      "url:https://go.vansh.nyc/14R",
+      "simplify-bbd25431-7bd4-4599-92ce-979ff70bc8de",
+      "url:https://go.vansh.nyc/14S",
+      "simplify-d2779612-0154-436f-91f5-d6e8550cbc3f",
+      "url:https://go.vansh.nyc/14T",
+      "simplify-c4fb6296-2c90-4e6f-aa6f-a6045e1aa922",
+      "url:https://go.vansh.nyc/14U",
+      "simplify-f274fcf9-d1a2-4191-85b5-123705b95b05",
+      "url:https://go.vansh.nyc/14V",
+      "simplify-70e700c4-e949-4f6f-b449-511af4f6753c",
+      "url:https://go.vansh.nyc/14W",
+      "simplify-9decabab-5ff3-450e-b586-0f57dd9b24e0",
+      "url:https://go.vansh.nyc/14X",
+      "simplify-ccc3ab48-0ff1-4d8c-8683-ab34538bdb33",
+      "url:https://go.vansh.nyc/14Y",
+      "simplify-0c62b059-bbc6-495b-86f2-f088652c5828",
+      "url:https://go.vansh.nyc/14Z",
+      "simplify-7fd5e522-1337-412b-a6d4-7b55d283df12",
+      "url:https://go.vansh.nyc/150",
+      "simplify-cc0a3314-15c0-4a48-b145-88495dc4056b",
+      "url:https://go.vansh.nyc/152",
+      "simplify-7c10417c-172b-4a4e-a570-d4275e6c2d1e",
+      "url:https://go.vansh.nyc/153",
+      "simplify-2614ddb4-914d-4c60-8718-19c1c4e08ba7",
+      "url:https://go.vansh.nyc/154",
+      "simplify-96b48f59-6198-4592-b7ba-2babfcbf1cbd",
+      "url:https://go.vansh.nyc/157",
+      "simplify-750e2347-9cef-4026-bbcf-fae63a30029d",
+      "url:https://go.vansh.nyc/159",
+      "simplify-7688e157-9cb0-41b2-b40b-5be0cd878e49",
+      "url:https://go.vansh.nyc/15b",
+      "simplify-895fcf81-72b1-4fbd-a925-7bcb08bf3120",
+      "url:https://go.vansh.nyc/15c",
+      "simplify-1df7dcb0-4d3b-43cb-9cb7-9ca91074f18d",
+      "url:https://go.vansh.nyc/15d",
+      "simplify-aebc06b9-1bff-4889-a0bf-d1be228f7155",
+      "url:https://go.vansh.nyc/15e",
+      "simplify-cb818cba-c8f1-45e5-ab3a-621e0140c69a",
+      "url:https://go.vansh.nyc/15f",
+      "simplify-9b206892-2139-45cf-9f2a-8ebd812ebbf3",
+      "url:https://go.vansh.nyc/15g",
+      "simplify-c2e5a5e6-f5a3-4f27-81ae-452f77f775f2",
+      "url:https://go.vansh.nyc/15h",
+      "simplify-7d0ac746-56b3-4320-b2c6-ad1a2b82e95a",
+      "url:https://go.vansh.nyc/15i",
+      "simplify-56fa93f8-7e12-4a72-89b5-18f54d9a95ea",
+      "url:https://go.vansh.nyc/15k",
+      "simplify-0981ed90-71bd-45ee-bddd-1d9043c67725",
+      "url:https://go.vansh.nyc/15l",
+      "simplify-86aa5b0b-0908-4c3a-8dd2-44ee06bc3239",
+      "url:https://go.vansh.nyc/15m",
+      "simplify-fc684218-5256-46b2-8cec-451a00db4fdc",
+      "url:https://go.vansh.nyc/15p",
+      "simplify-03176a5a-ac86-4e1a-a8a4-9fb2042575dd",
+      "url:https://go.vansh.nyc/15r",
+      "simplify-88afa08d-470d-40bb-92e0-f3a43565acd1",
+      "url:https://go.vansh.nyc/15s",
+      "simplify-5995fcb3-7cd4-4b68-a588-b84952523a44",
+      "url:https://go.vansh.nyc/15u",
+      "simplify-7566bd57-47d7-4e3a-8216-16b4eceb4f4b",
+      "url:https://go.vansh.nyc/15w",
+      "simplify-c5f83206-a663-4474-822f-8e7ba0650076",
+      "url:https://go.vansh.nyc/15z",
+      "simplify-c26c43fc-3141-415f-a4fe-f86e76741642",
+      "url:https://go.vansh.nyc/15D",
+      "jobright-df89cf429657",
+      "url:https://jobright.ai/jobs/info/6ae6d08dd7424a2a828f04a2",
+      "jobright-6295809f394d",
+      "url:https://jobright.ai/jobs/info/6ae6cf9677c09cb3bd4b69d9",
+      "jobright-aa4c070c2efd",
+      "url:https://jobright.ai/jobs/info/6ae6c12c77c09cb3bd4b675f",
+      "jobright-57a0a654f0f5",
+      "url:https://jobright.ai/jobs/info/6ae68861c3139b475b5bcca1",
+      "jobright-0a32aa65a025",
+      "url:https://jobright.ai/jobs/info/6ae6ccd777c09cb3bd4b6927"
     ]
   }
 }
