@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-891886524374",
-      "seen_at": "2026-10-02T13:01:16.889904+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa3abf84233a2201a2b2cb2",
-      "seen_at": "2026-10-02T13:01:16.890892+00:00"
-    },
-    {
       "id": "ashby-clickhouse-962f45f3-d8d3-4073-add2-af763f7c3ffb",
       "seen_at": "2026-10-02T13:31:32.188770+00:00"
     },
@@ -27125,12 +27117,10 @@
       "seen_at": "2026-11-01T13:01:27.393526+00:00"
     }
   ],
-  "last_run": "2026-11-01T13:01:28.033148+00:00",
-  "total_notified": 11158,
+  "last_run": "2026-11-01T13:31:10.427227+00:00",
+  "total_notified": 11183,
   "channels": {
     "pm-jobs": [
-      "jobright-891886524374",
-      "url:https://jobright.ai/jobs/info/6aa3abf84233a2201a2b2cb2",
       "zapply-8da69213a645",
       "url:https://zapply.jobs/l/d/workday-broadridge-careers-JR1084119",
       "zapply-cc6bf986b41d",
