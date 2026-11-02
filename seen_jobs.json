@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-612079087533",
-      "seen_at": "2026-10-03T12:01:14.265705+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-abb-external-career-page-JR00039939",
-      "seen_at": "2026-10-03T12:01:14.266957+00:00"
-    },
-    {
-      "id": "jobright-db68636bd1f9",
-      "seen_at": "2026-10-03T12:01:14.267856+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abdc30d372c01f6cd721e14",
-      "seen_at": "2026-10-03T12:01:14.268684+00:00"
-    },
-    {
       "id": "jobright-bf65f6b2cd4d",
       "seen_at": "2026-10-03T17:01:11.352889+00:00"
     },
@@ -26109,7 +26093,7 @@
       "seen_at": "2026-11-02T11:31:37.569774+00:00"
     }
   ],
-  "last_run": "2026-11-02T12:01:27.599569+00:00",
+  "last_run": "2026-11-02T12:31:15.422939+00:00",
   "total_notified": 11212,
   "channels": {
     "pm-jobs": [
@@ -27168,10 +27152,6 @@
       "url:https://jobright.ai/jobs/info/6ae852bf6c51033758f3f9eb"
     ],
     "swe-ai-full-time": [
-      "zapply-612079087533",
-      "url:https://zapply.jobs/l/d/workday-abb-external-career-page-JR00039939",
-      "jobright-db68636bd1f9",
-      "url:https://jobright.ai/jobs/info/6abdc30d372c01f6cd721e14",
       "zapply-3fc0d40eb582",
       "url:https://zapply.jobs/l/d/apple-200682696",
       "jobright-719a0d77ca1d",
