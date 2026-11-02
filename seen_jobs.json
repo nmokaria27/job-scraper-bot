@@ -26555,10 +26555,50 @@
     {
       "id": "url:https://coreweave.com/careers/job",
       "seen_at": "2026-11-02T21:31:26.824581+00:00"
+    },
+    {
+      "id": "zapply-2adc7396fc05",
+      "seen_at": "2026-11-02T22:01:28.996080+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0056062",
+      "seen_at": "2026-11-02T22:01:28.996659+00:00"
+    },
+    {
+      "id": "jobright-169c369b2bf4",
+      "seen_at": "2026-11-02T22:01:28.997183+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8ec29777c336eb6d679de",
+      "seen_at": "2026-11-02T22:01:28.997625+00:00"
+    },
+    {
+      "id": "applyguy-0fc1f2d7-96d4-4eca-b4ef-f7060c152f94",
+      "seen_at": "2026-11-02T22:01:28.998108+00:00"
+    },
+    {
+      "id": "url:https://www.qualtrics.com/careers/us/en/job/8334245",
+      "seen_at": "2026-11-02T22:01:28.998541+00:00"
+    },
+    {
+      "id": "applyguy-99ec9f91-8f2b-4e88-846b-398f2e09f9e1",
+      "seen_at": "2026-11-02T22:01:28.998968+00:00"
+    },
+    {
+      "id": "url:https://www.qualtrics.com/careers/us/en/job/8325652",
+      "seen_at": "2026-11-02T22:01:28.999401+00:00"
+    },
+    {
+      "id": "applyguy-00b0fcb0-c058-4958-a0e5-cef1794061ea",
+      "seen_at": "2026-11-02T22:01:28.999827+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/smartsheet/jobs/8347710",
+      "seen_at": "2026-11-02T22:01:29.000322+00:00"
     }
   ],
-  "last_run": "2026-11-02T21:31:27.790324+00:00",
-  "total_notified": 11280,
+  "last_run": "2026-11-02T22:01:30.140461+00:00",
+  "total_notified": 11285,
   "channels": {
     "pm-jobs": [
       "simplify-1b0ed45f-daff-44e4-96e2-551ed31d329e",
@@ -33207,7 +33247,17 @@
       "jobright-54e638715d71",
       "url:https://jobright.ai/jobs/info/6ae8dc15061d6d7ff3d7ddd2",
       "greenhouse-coreweave-4719916006",
-      "url:https://coreweave.com/careers/job"
+      "url:https://coreweave.com/careers/job",
+      "zapply-2adc7396fc05",
+      "url:https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0056062",
+      "jobright-169c369b2bf4",
+      "url:https://jobright.ai/jobs/info/6ae8ec29777c336eb6d679de",
+      "applyguy-0fc1f2d7-96d4-4eca-b4ef-f7060c152f94",
+      "url:https://www.qualtrics.com/careers/us/en/job/8334245",
+      "applyguy-99ec9f91-8f2b-4e88-846b-398f2e09f9e1",
+      "url:https://www.qualtrics.com/careers/us/en/job/8325652",
+      "applyguy-00b0fcb0-c058-4958-a0e5-cef1794061ea",
+      "url:https://job-boards.greenhouse.io/smartsheet/jobs/8347710"
     ]
   }
 }
