@@ -1,86 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
-      "seen_at": "2026-10-03T10:01:12.553589+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
-      "seen_at": "2026-10-03T10:01:12.554693+00:00"
-    },
-    {
-      "id": "ashby-openai-b94099f6-8418-48b0-82b5-5953a27d636f",
-      "seen_at": "2026-10-03T10:01:12.555665+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/b94099f6-8418-48b0-82b5-5953a27d636f",
-      "seen_at": "2026-10-03T10:01:12.556616+00:00"
-    },
-    {
-      "id": "zapply-e8be6a6fad50",
-      "seen_at": "2026-10-03T10:01:12.557584+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025379",
-      "seen_at": "2026-10-03T10:01:12.558520+00:00"
-    },
-    {
-      "id": "zapply-02288529ad49",
-      "seen_at": "2026-10-03T10:01:12.559486+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-63a6c40e-317d-419a-8e8a-4ca9bcbe5a22",
-      "seen_at": "2026-10-03T10:01:12.560432+00:00"
-    },
-    {
-      "id": "jobright-0a6a8e3f0e2f",
-      "seen_at": "2026-10-03T10:01:12.561397+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac08e25372c01f6cd72c49c",
-      "seen_at": "2026-10-03T10:01:12.562348+00:00"
-    },
-    {
-      "id": "jobright-e43d27b386ec",
-      "seen_at": "2026-10-03T10:01:12.563308+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa3de63f3aa936e2cdae52c",
-      "seen_at": "2026-10-03T10:01:12.564253+00:00"
-    },
-    {
-      "id": "jobright-4406be35e715",
-      "seen_at": "2026-10-03T10:01:12.565211+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac05ef1064da25272e09147",
-      "seen_at": "2026-10-03T10:01:12.566157+00:00"
-    },
-    {
-      "id": "gradtracker-49030b66708f",
-      "seen_at": "2026-10-03T10:01:12.567121+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446718593091",
-      "seen_at": "2026-10-03T10:01:12.568060+00:00"
-    },
-    {
-      "id": "jobright-3091a3aef0df",
-      "seen_at": "2026-10-03T10:01:14.285161+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa3d08a626f9945308b3747",
-      "seen_at": "2026-10-03T10:01:14.286085+00:00"
-    },
-    {
-      "id": "jobright-e0800538aef3",
-      "seen_at": "2026-10-03T10:01:14.287021+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abfba7e0e027c0f3b39da6f",
-      "seen_at": "2026-10-03T10:01:14.287896+00:00"
-    },
-    {
       "id": "jobright-e9cbc696ba45",
       "seen_at": "2026-10-03T11:01:09.992249+00:00"
     },
@@ -26107,16 +26027,92 @@
     {
       "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5468947008",
       "seen_at": "2026-11-02T04:31:15.650258+00:00"
+    },
+    {
+      "id": "ashby-plaid-9d8a139c-8f99-4049-b7bd-8de693820d7b",
+      "seen_at": "2026-11-02T11:01:26.510932+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/plaid/9d8a139c-8f99-4049-b7bd-8de693820d7b",
+      "seen_at": "2026-11-02T11:01:26.511469+00:00"
+    },
+    {
+      "id": "ashby-plaid-8d8378cf-edf2-4c86-afcc-49df91ece2e4",
+      "seen_at": "2026-11-02T11:01:26.511937+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4",
+      "seen_at": "2026-11-02T11:01:26.512373+00:00"
+    },
+    {
+      "id": "jobright-234237b7f7fd",
+      "seen_at": "2026-11-02T11:01:26.512805+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae84d266c51033758f3f822",
+      "seen_at": "2026-11-02T11:01:26.513240+00:00"
+    },
+    {
+      "id": "jobright-37eb177b32ab",
+      "seen_at": "2026-11-02T11:01:26.513690+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae84a77a2a252e21942628f",
+      "seen_at": "2026-11-02T11:01:26.514109+00:00"
+    },
+    {
+      "id": "jobright-86753bba14d6",
+      "seen_at": "2026-11-02T11:01:26.514551+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae846096c51033758f3f685",
+      "seen_at": "2026-11-02T11:01:26.514969+00:00"
+    },
+    {
+      "id": "jobright-f80fb185adcb",
+      "seen_at": "2026-11-02T11:01:26.515426+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae845cb77c09cb3bd4baa61",
+      "seen_at": "2026-11-02T11:01:26.515844+00:00"
+    },
+    {
+      "id": "jobright-05f956cc0645",
+      "seen_at": "2026-11-02T11:01:26.516354+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae82940bad9293a40a44346",
+      "seen_at": "2026-11-02T11:01:26.516776+00:00"
+    },
+    {
+      "id": "jobright-8bb4bc773578",
+      "seen_at": "2026-11-02T11:01:26.517207+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae824ed77c09cb3bd4b9f53",
+      "seen_at": "2026-11-02T11:01:26.517646+00:00"
+    },
+    {
+      "id": "jobright-d7b996ea3c42",
+      "seen_at": "2026-11-02T11:01:26.518074+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae81aec03f4a1104b252306",
+      "seen_at": "2026-11-02T11:01:26.518507+00:00"
+    },
+    {
+      "id": "jobright-f9835182e7a8",
+      "seen_at": "2026-11-02T11:01:27.713937+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae852bf6c51033758f3f9eb",
+      "seen_at": "2026-11-02T11:01:27.714425+00:00"
     }
   ],
-  "last_run": "2026-11-02T04:31:16.109853+00:00",
-  "total_notified": 11201,
+  "last_run": "2026-11-02T11:01:28.020943+00:00",
+  "total_notified": 11211,
   "channels": {
     "pm-jobs": [
-      "jobright-3091a3aef0df",
-      "url:https://jobright.ai/jobs/info/6aa3d08a626f9945308b3747",
-      "jobright-e0800538aef3",
-      "url:https://jobright.ai/jobs/info/6abfba7e0e027c0f3b39da6f",
       "jobright-bf65f6b2cd4d",
       "url:https://jobright.ai/jobs/info/6ac1138f8ff3fb9b3bc7d0ef",
       "zapply-29faded877b7",
@@ -27167,25 +27163,11 @@
       "jobright-f4a79e39f8f1",
       "url:https://jobright.ai/jobs/info/6a69694b2a5c103624db494d",
       "jobright-d635d5a961aa",
-      "url:https://jobright.ai/jobs/info/6a6ab634394f9d64d8be6ada"
+      "url:https://jobright.ai/jobs/info/6a6ab634394f9d64d8be6ada",
+      "jobright-f9835182e7a8",
+      "url:https://jobright.ai/jobs/info/6ae852bf6c51033758f3f9eb"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
-      "url:https://jobs.ashbyhq.com/openai/88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
-      "ashby-openai-b94099f6-8418-48b0-82b5-5953a27d636f",
-      "url:https://jobs.ashbyhq.com/openai/b94099f6-8418-48b0-82b5-5953a27d636f",
-      "zapply-e8be6a6fad50",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025379",
-      "zapply-02288529ad49",
-      "url:https://zapply.jobs/l/d/amazon-63a6c40e-317d-419a-8e8a-4ca9bcbe5a22",
-      "jobright-0a6a8e3f0e2f",
-      "url:https://jobright.ai/jobs/info/6ac08e25372c01f6cd72c49c",
-      "jobright-e43d27b386ec",
-      "url:https://jobright.ai/jobs/info/6aa3de63f3aa936e2cdae52c",
-      "jobright-4406be35e715",
-      "url:https://jobright.ai/jobs/info/6ac05ef1064da25272e09147",
-      "gradtracker-49030b66708f",
-      "url:https://careers.qualcomm.com/careers/job/446718593091",
       "jobright-e9cbc696ba45",
       "url:https://jobright.ai/jobs/info/6aa59269930bff471a29f2d4",
       "zapply-612079087533",
@@ -32647,7 +32629,25 @@
       "jobright-59877b5d9a5a",
       "url:https://jobright.ai/jobs/info/6ae7dc6377c09cb3bd4b8ffd",
       "greenhouse-anthropic-5468947008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5468947008"
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5468947008",
+      "ashby-plaid-9d8a139c-8f99-4049-b7bd-8de693820d7b",
+      "url:https://jobs.ashbyhq.com/plaid/9d8a139c-8f99-4049-b7bd-8de693820d7b",
+      "ashby-plaid-8d8378cf-edf2-4c86-afcc-49df91ece2e4",
+      "url:https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4",
+      "jobright-234237b7f7fd",
+      "url:https://jobright.ai/jobs/info/6ae84d266c51033758f3f822",
+      "jobright-37eb177b32ab",
+      "url:https://jobright.ai/jobs/info/6ae84a77a2a252e21942628f",
+      "jobright-86753bba14d6",
+      "url:https://jobright.ai/jobs/info/6ae846096c51033758f3f685",
+      "jobright-f80fb185adcb",
+      "url:https://jobright.ai/jobs/info/6ae845cb77c09cb3bd4baa61",
+      "jobright-05f956cc0645",
+      "url:https://jobright.ai/jobs/info/6ae82940bad9293a40a44346",
+      "jobright-8bb4bc773578",
+      "url:https://jobright.ai/jobs/info/6ae824ed77c09cb3bd4b9f53",
+      "jobright-d7b996ea3c42",
+      "url:https://jobright.ai/jobs/info/6ae81aec03f4a1104b252306"
     ]
   }
 }
