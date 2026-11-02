@@ -26451,10 +26451,74 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10594688/product-manager-technical-aft-outbound-flow",
       "seen_at": "2026-11-02T19:31:22.760222+00:00"
+    },
+    {
+      "id": "greenhouse-drweng-8328365",
+      "seen_at": "2026-11-02T20:01:52.192307+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/drweng/jobs/8328365",
+      "seen_at": "2026-11-02T20:01:52.193049+00:00"
+    },
+    {
+      "id": "simplify-9ab6e3ea-0469-42ae-9bb6-f2f55696880d",
+      "seen_at": "2026-11-02T20:01:52.193698+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/19H",
+      "seen_at": "2026-11-02T20:01:52.194286+00:00"
+    },
+    {
+      "id": "jobright-8c10b166320a",
+      "seen_at": "2026-11-02T20:01:52.194903+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8d71303f4a1104b256e4f",
+      "seen_at": "2026-11-02T20:01:52.195499+00:00"
+    },
+    {
+      "id": "jobright-88ea69eb18c8",
+      "seen_at": "2026-11-02T20:01:52.196121+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8d617777c336eb6d66b7b",
+      "seen_at": "2026-11-02T20:01:52.196732+00:00"
+    },
+    {
+      "id": "jobright-3332c1b1deca",
+      "seen_at": "2026-11-02T20:01:52.197340+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8d09103f4a1104b2569a9",
+      "seen_at": "2026-11-02T20:01:52.197880+00:00"
+    },
+    {
+      "id": "jobright-8c90e326096c",
+      "seen_at": "2026-11-02T20:01:52.198360+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8cf8a6c51033758f43086",
+      "seen_at": "2026-11-02T20:01:52.198833+00:00"
+    },
+    {
+      "id": "jobright-5ba4bc8f5459",
+      "seen_at": "2026-11-02T20:01:52.199304+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8cb52fb2cd420ace68cf2",
+      "seen_at": "2026-11-02T20:01:52.199775+00:00"
+    },
+    {
+      "id": "jobright-5185c1cc9bce",
+      "seen_at": "2026-11-02T20:01:54.004667+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8d985a2a252e21942a188",
+      "seen_at": "2026-11-02T20:01:54.005266+00:00"
     }
   ],
-  "last_run": "2026-11-02T19:31:22.926615+00:00",
-  "total_notified": 11261,
+  "last_run": "2026-11-02T20:01:54.222912+00:00",
+  "total_notified": 11269,
   "channels": {
     "pm-jobs": [
       "jobright-5f1eb957606d",
@@ -27531,7 +27595,9 @@
       "zapply-5057daa21e11",
       "url:https://zapply.jobs/l/d/sr-Experian-744000159218319",
       "amazon-10594688",
-      "url:https://www.amazon.jobs/en/jobs/10594688/product-manager-technical-aft-outbound-flow"
+      "url:https://www.amazon.jobs/en/jobs/10594688/product-manager-technical-aft-outbound-flow",
+      "jobright-5185c1cc9bce",
+      "url:https://jobright.ai/jobs/info/6ae8d985a2a252e21942a188"
     ],
     "swe-ai-full-time": [
       "jobright-719a0d77ca1d",
@@ -33077,7 +33143,21 @@
       "simplify-7803ce9c-7595-45b1-8288-ee7794d42d92",
       "url:https://go.vansh.nyc/19E",
       "amazon-10594466",
-      "url:https://www.amazon.jobs/en/jobs/10594466/software-development-engineer-aws-inspector"
+      "url:https://www.amazon.jobs/en/jobs/10594466/software-development-engineer-aws-inspector",
+      "greenhouse-drweng-8328365",
+      "url:https://job-boards.greenhouse.io/drweng/jobs/8328365",
+      "simplify-9ab6e3ea-0469-42ae-9bb6-f2f55696880d",
+      "url:https://go.vansh.nyc/19H",
+      "jobright-8c10b166320a",
+      "url:https://jobright.ai/jobs/info/6ae8d71303f4a1104b256e4f",
+      "jobright-88ea69eb18c8",
+      "url:https://jobright.ai/jobs/info/6ae8d617777c336eb6d66b7b",
+      "jobright-3332c1b1deca",
+      "url:https://jobright.ai/jobs/info/6ae8d09103f4a1104b2569a9",
+      "jobright-8c90e326096c",
+      "url:https://jobright.ai/jobs/info/6ae8cf8a6c51033758f43086",
+      "jobright-5ba4bc8f5459",
+      "url:https://jobright.ai/jobs/info/6ae8cb52fb2cd420ace68cf2"
     ]
   }
 }
