@@ -26171,10 +26171,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae88900a2a252e21942728f",
       "seen_at": "2026-11-02T15:01:47.753274+00:00"
+    },
+    {
+      "id": "zapply-cd6f88026ae0",
+      "seen_at": "2026-11-02T15:31:25.375103+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4662",
+      "seen_at": "2026-11-02T15:31:25.375590+00:00"
+    },
+    {
+      "id": "zapply-6b4391d1be30",
+      "seen_at": "2026-11-02T15:31:25.376025+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045819",
+      "seen_at": "2026-11-02T15:31:25.376441+00:00"
     }
   ],
-  "last_run": "2026-11-02T15:01:48.325007+00:00",
-  "total_notified": 11222,
+  "last_run": "2026-11-02T15:31:25.579547+00:00",
+  "total_notified": 11224,
   "channels": {
     "pm-jobs": [
       "jobright-bf65f6b2cd4d",
@@ -27235,7 +27251,11 @@
       "jobright-0680b3d392ff",
       "url:https://jobright.ai/jobs/info/6ae8801a6c51033758f405fc",
       "zapply-4d2ad77b62cc",
-      "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR206565"
+      "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR206565",
+      "zapply-cd6f88026ae0",
+      "url:https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4662",
+      "zapply-6b4391d1be30",
+      "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045819"
     ],
     "swe-ai-full-time": [
       "zapply-3fc0d40eb582",
