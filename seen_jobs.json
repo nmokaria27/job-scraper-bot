@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-135d5fe62d0f",
-      "seen_at": "2026-10-03T02:01:13.677112+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-McLean",
-      "seen_at": "2026-10-03T02:01:13.678169+00:00"
-    },
-    {
-      "id": "simplify-1b4b4857-a0e7-40ae-911b-03e1528c4c9f",
-      "seen_at": "2026-10-03T02:01:13.679132+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application",
-      "seen_at": "2026-10-03T02:01:13.680080+00:00"
-    },
-    {
-      "id": "amazon-10568432",
-      "seen_at": "2026-10-03T02:01:13.681020+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10568432/software-development-engineer-sde2-aws",
-      "seen_at": "2026-10-03T02:01:13.681955+00:00"
-    },
-    {
-      "id": "jobright-c664911159be",
-      "seen_at": "2026-10-03T02:01:13.682890+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac048ab064da25272e08a0d",
-      "seen_at": "2026-10-03T02:01:13.683779+00:00"
-    },
-    {
-      "id": "jobright-5b31286b7c31",
-      "seen_at": "2026-10-03T02:01:13.684700+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac045b6372c01f6cd72b6f0",
-      "seen_at": "2026-10-03T02:01:13.685607+00:00"
-    },
-    {
       "id": "zapply-dc58596e4eea",
       "seen_at": "2026-10-03T02:31:13.067121+00:00"
     },
@@ -26141,7 +26101,7 @@
       "seen_at": "2026-11-02T02:01:14.719690+00:00"
     }
   ],
-  "last_run": "2026-11-02T02:01:15.317251+00:00",
+  "last_run": "2026-11-02T02:31:08.049098+00:00",
   "total_notified": 11198,
   "channels": {
     "pm-jobs": [
@@ -27204,16 +27164,6 @@
       "url:https://jobright.ai/jobs/info/6a6ab634394f9d64d8be6ada"
     ],
     "swe-ai-full-time": [
-      "zapply-135d5fe62d0f",
-      "url:https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-McLean",
-      "simplify-1b4b4857-a0e7-40ae-911b-03e1528c4c9f",
-      "url:https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application",
-      "amazon-10568432",
-      "url:https://www.amazon.jobs/en/jobs/10568432/software-development-engineer-sde2-aws",
-      "jobright-c664911159be",
-      "url:https://jobright.ai/jobs/info/6ac048ab064da25272e08a0d",
-      "jobright-5b31286b7c31",
-      "url:https://jobright.ai/jobs/info/6ac045b6372c01f6cd72b6f0",
       "zapply-dc58596e4eea",
       "url:https://zapply.jobs/l/d/amazon-3b1644e4-b350-47f0-a84f-d966a037de6f",
       "ashby-openai-88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
