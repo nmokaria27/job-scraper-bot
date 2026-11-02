@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-867c063f-636d-4f77-bf08-decee4955762",
-      "seen_at": "2026-10-02T23:31:24.544607+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application",
-      "seen_at": "2026-10-02T23:31:24.545666+00:00"
-    },
-    {
-      "id": "simplify-5993eb6e-3414-429f-86b9-dd467b9ddd1d",
-      "seen_at": "2026-10-02T23:31:24.546616+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application",
-      "seen_at": "2026-10-02T23:31:24.547533+00:00"
-    },
-    {
-      "id": "amazon-10568411",
-      "seen_at": "2026-10-02T23:31:24.548495+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10568411/software-development-engineer-amazon-robotics",
-      "seen_at": "2026-10-02T23:31:24.549403+00:00"
-    },
-    {
-      "id": "zapply-30cd5ea0ad31",
-      "seen_at": "2026-10-02T23:31:26.873889+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002771",
-      "seen_at": "2026-10-02T23:31:26.874812+00:00"
-    },
-    {
       "id": "zapply-3595ac850633",
       "seen_at": "2026-10-03T00:01:13.533264+00:00"
     },
@@ -26291,14 +26259,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ada752c4c3adc437cecd196",
       "seen_at": "2026-11-01T22:01:11.060106+00:00"
+    },
+    {
+      "id": "amazon-10594100",
+      "seen_at": "2026-11-02T00:01:22.147424+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10594100/software-development-engineer-ads-ai-core-infra-aci",
+      "seen_at": "2026-11-02T00:01:22.147932+00:00"
     }
   ],
-  "last_run": "2026-11-01T23:31:10.418984+00:00",
-  "total_notified": 11194,
+  "last_run": "2026-11-02T00:01:22.894627+00:00",
+  "total_notified": 11195,
   "channels": {
     "pm-jobs": [
-      "zapply-30cd5ea0ad31",
-      "url:https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002771",
       "zapply-0147ad911a90",
       "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10401127",
       "jobright-44a7c683d80b",
@@ -27370,12 +27344,6 @@
       "url:https://jobright.ai/jobs/info/6a6ab634394f9d64d8be6ada"
     ],
     "swe-ai-full-time": [
-      "simplify-867c063f-636d-4f77-bf08-decee4955762",
-      "url:https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application",
-      "simplify-5993eb6e-3414-429f-86b9-dd467b9ddd1d",
-      "url:https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application",
-      "amazon-10568411",
-      "url:https://www.amazon.jobs/en/jobs/10568411/software-development-engineer-amazon-robotics",
       "zapply-3595ac850633",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023735",
       "zapply-993c126a55b6",
@@ -32877,7 +32845,9 @@
       "jobright-59bd87c5b8cb",
       "url:https://jobright.ai/jobs/info/6ae753a9bad9293a40a420e5",
       "jobright-40bc2d97f4be",
-      "url:https://jobright.ai/jobs/info/6ada752c4c3adc437cecd196"
+      "url:https://jobright.ai/jobs/info/6ada752c4c3adc437cecd196",
+      "amazon-10594100",
+      "url:https://www.amazon.jobs/en/jobs/10594100/software-development-engineer-ads-ai-core-infra-aci"
     ]
   }
 }
