@@ -26595,10 +26595,42 @@
     {
       "id": "url:https://job-boards.greenhouse.io/smartsheet/jobs/8347710",
       "seen_at": "2026-11-02T22:01:29.000322+00:00"
+    },
+    {
+      "id": "lever-palantir-ca222ecd-b659-4e3e-aee5-d85655c7bbc8",
+      "seen_at": "2026-11-02T22:31:17.155570+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8",
+      "seen_at": "2026-11-02T22:31:17.156190+00:00"
+    },
+    {
+      "id": "lever-palantir-6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+      "seen_at": "2026-11-02T22:31:17.156732+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+      "seen_at": "2026-11-02T22:31:17.157244+00:00"
+    },
+    {
+      "id": "greenhouse-snorkelai-6240913004",
+      "seen_at": "2026-11-02T22:31:17.157765+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/snorkelai/jobs/6240913004",
+      "seen_at": "2026-11-02T22:31:17.158196+00:00"
+    },
+    {
+      "id": "zapply-8062aee1e0fc",
+      "seen_at": "2026-11-02T22:31:19.351433+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0047422",
+      "seen_at": "2026-11-02T22:31:19.352000+00:00"
     }
   ],
-  "last_run": "2026-11-02T22:01:30.140461+00:00",
-  "total_notified": 11285,
+  "last_run": "2026-11-02T22:31:19.581985+00:00",
+  "total_notified": 11289,
   "channels": {
     "pm-jobs": [
       "simplify-1b0ed45f-daff-44e4-96e2-551ed31d329e",
@@ -27681,7 +27713,9 @@
       "zapply-4b6b2d88ceec",
       "url:https://zapply.jobs/l/d/sr-ServiceNow-744000159235840",
       "jobright-99d4f92c5bf5",
-      "url:https://jobright.ai/jobs/info/6ad66b3a67bec1d0d9c6ebf5"
+      "url:https://jobright.ai/jobs/info/6ad66b3a67bec1d0d9c6ebf5",
+      "zapply-8062aee1e0fc",
+      "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0047422"
     ],
     "swe-ai-full-time": [
       "jobright-c57fb374c059",
@@ -33257,7 +33291,13 @@
       "applyguy-99ec9f91-8f2b-4e88-846b-398f2e09f9e1",
       "url:https://www.qualtrics.com/careers/us/en/job/8325652",
       "applyguy-00b0fcb0-c058-4958-a0e5-cef1794061ea",
-      "url:https://job-boards.greenhouse.io/smartsheet/jobs/8347710"
+      "url:https://job-boards.greenhouse.io/smartsheet/jobs/8347710",
+      "lever-palantir-ca222ecd-b659-4e3e-aee5-d85655c7bbc8",
+      "url:https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8",
+      "lever-palantir-6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+      "url:https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+      "greenhouse-snorkelai-6240913004",
+      "url:https://job-boards.greenhouse.io/snorkelai/jobs/6240913004"
     ]
   }
 }
