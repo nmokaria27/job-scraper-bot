@@ -26299,10 +26299,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027580",
       "seen_at": "2026-11-02T17:31:28.152278+00:00"
+    },
+    {
+      "id": "jobright-a09a4c8a078a",
+      "seen_at": "2026-11-02T18:01:46.330886+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8b3aa03f4a1104b255465",
+      "seen_at": "2026-11-02T18:01:46.331279+00:00"
+    },
+    {
+      "id": "amazon-10594578",
+      "seen_at": "2026-11-02T18:01:46.331597+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10594578/software-development-engineer-checkout-applications-team",
+      "seen_at": "2026-11-02T18:01:46.331848+00:00"
+    },
+    {
+      "id": "zapply-1fec89f3fbc4",
+      "seen_at": "2026-11-02T18:01:47.954715+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-method-5343c88c-388c-4188-bcac-3e550c02c04e",
+      "seen_at": "2026-11-02T18:01:47.955004+00:00"
+    },
+    {
+      "id": "jobright-66895fb08137",
+      "seen_at": "2026-11-02T18:01:47.955255+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8b87a777c336eb6d655d8",
+      "seen_at": "2026-11-02T18:01:47.955498+00:00"
+    },
+    {
+      "id": "jobright-7f1d24d280a3",
+      "seen_at": "2026-11-02T18:01:47.955724+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8b86e03f4a1104b2557cf",
+      "seen_at": "2026-11-02T18:01:47.955932+00:00"
     }
   ],
-  "last_run": "2026-11-02T17:31:28.714450+00:00",
-  "total_notified": 11239,
+  "last_run": "2026-11-02T18:01:48.189299+00:00",
+  "total_notified": 11244,
   "channels": {
     "pm-jobs": [
       "zapply-29faded877b7",
@@ -27371,7 +27411,13 @@
       "zapply-e80cd5a3233d",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026341",
       "zapply-548df4b3bfaa",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027580"
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027580",
+      "zapply-1fec89f3fbc4",
+      "url:https://zapply.jobs/l/d/ashby-method-5343c88c-388c-4188-bcac-3e550c02c04e",
+      "jobright-66895fb08137",
+      "url:https://jobright.ai/jobs/info/6ae8b87a777c336eb6d655d8",
+      "jobright-7f1d24d280a3",
+      "url:https://jobright.ai/jobs/info/6ae8b86e03f4a1104b2557cf"
     ],
     "swe-ai-full-time": [
       "zapply-3fc0d40eb582",
@@ -32887,7 +32933,11 @@
       "amazon-10594481",
       "url:https://www.amazon.jobs/en/jobs/10594481/software-development-engineer-autonomous-fleet-services",
       "greenhouse-vercel-6240736004",
-      "url:https://job-boards.greenhouse.io/vercel/jobs/6240736004"
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6240736004",
+      "jobright-a09a4c8a078a",
+      "url:https://jobright.ai/jobs/info/6ae8b3aa03f4a1104b255465",
+      "amazon-10594578",
+      "url:https://www.amazon.jobs/en/jobs/10594578/software-development-engineer-checkout-applications-team"
     ]
   }
 }
