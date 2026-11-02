@@ -26187,10 +26187,66 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045819",
       "seen_at": "2026-11-02T15:31:25.376441+00:00"
+    },
+    {
+      "id": "simplify-10be1db7-3520-4bf0-bf9b-642f5e2f703b",
+      "seen_at": "2026-11-02T16:01:25.272893+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply",
+      "seen_at": "2026-11-02T16:01:25.273635+00:00"
+    },
+    {
+      "id": "simplify-1ffcff00-a92b-4393-850a-1accadb25edc",
+      "seen_at": "2026-11-02T16:01:25.274225+00:00"
+    },
+    {
+      "id": "url:https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Software-Engineer_REQ_0000083537-2",
+      "seen_at": "2026-11-02T16:01:25.274737+00:00"
+    },
+    {
+      "id": "simplify-b2cd045f-1f2b-4cef-8692-5f27dad834bb",
+      "seen_at": "2026-11-02T16:01:25.275179+00:00"
+    },
+    {
+      "id": "url:https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180",
+      "seen_at": "2026-11-02T16:01:25.275626+00:00"
+    },
+    {
+      "id": "jobright-c3cc44959d2e",
+      "seen_at": "2026-11-02T16:01:25.276052+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9e9e0c68f82b403673adc0",
+      "seen_at": "2026-11-02T16:01:25.276480+00:00"
+    },
+    {
+      "id": "jobright-2d675303dcfb",
+      "seen_at": "2026-11-02T16:01:25.276943+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8985f061d6d7ff3d7b217",
+      "seen_at": "2026-11-02T16:01:25.277366+00:00"
+    },
+    {
+      "id": "jobright-2a172d55d27d",
+      "seen_at": "2026-11-02T16:01:25.277822+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae89c28061d6d7ff3d7b369",
+      "seen_at": "2026-11-02T16:01:25.278244+00:00"
+    },
+    {
+      "id": "zapply-0147ad911a90",
+      "seen_at": "2026-11-02T16:01:27.065692+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10401127",
+      "seen_at": "2026-11-02T16:01:27.066298+00:00"
     }
   ],
-  "last_run": "2026-11-02T15:31:25.579547+00:00",
-  "total_notified": 11224,
+  "last_run": "2026-11-02T16:01:27.322747+00:00",
+  "total_notified": 11231,
   "channels": {
     "pm-jobs": [
       "jobright-bf65f6b2cd4d",
@@ -27255,7 +27311,9 @@
       "zapply-cd6f88026ae0",
       "url:https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4662",
       "zapply-6b4391d1be30",
-      "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045819"
+      "url:https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045819",
+      "zapply-0147ad911a90",
+      "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10401127"
     ],
     "swe-ai-full-time": [
       "zapply-3fc0d40eb582",
@@ -32747,7 +32805,19 @@
       "simplify-d79a5d8a-c9ad-45da-9ddc-16d1721176ef",
       "url:https://go.vansh.nyc/19h",
       "jobright-e3211028817f",
-      "url:https://jobright.ai/jobs/info/6ae88900a2a252e21942728f"
+      "url:https://jobright.ai/jobs/info/6ae88900a2a252e21942728f",
+      "simplify-10be1db7-3520-4bf0-bf9b-642f5e2f703b",
+      "url:https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply",
+      "simplify-1ffcff00-a92b-4393-850a-1accadb25edc",
+      "url:https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Software-Engineer_REQ_0000083537-2",
+      "simplify-b2cd045f-1f2b-4cef-8692-5f27dad834bb",
+      "url:https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180",
+      "jobright-c3cc44959d2e",
+      "url:https://jobright.ai/jobs/info/6a9e9e0c68f82b403673adc0",
+      "jobright-2d675303dcfb",
+      "url:https://jobright.ai/jobs/info/6ae8985f061d6d7ff3d7b217",
+      "jobright-2a172d55d27d",
+      "url:https://jobright.ai/jobs/info/6ae89c28061d6d7ff3d7b369"
     ]
   }
 }
