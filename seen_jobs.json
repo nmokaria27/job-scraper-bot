@@ -26475,10 +26475,90 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae8d985a2a252e21942a188",
       "seen_at": "2026-11-02T20:01:54.005266+00:00"
+    },
+    {
+      "id": "zapply-32346d1e0208",
+      "seen_at": "2026-11-02T21:01:33.747126+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-freddiemac-external-JR17779",
+      "seen_at": "2026-11-02T21:01:33.747646+00:00"
+    },
+    {
+      "id": "zapply-0c331f2fa4fc",
+      "seen_at": "2026-11-02T21:01:33.748160+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-smartsheet-8347710",
+      "seen_at": "2026-11-02T21:01:33.748595+00:00"
+    },
+    {
+      "id": "jobright-c59d6d8388fc",
+      "seen_at": "2026-11-02T21:01:33.749040+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8e3b5061d6d7ff3d7e342",
+      "seen_at": "2026-11-02T21:01:33.749468+00:00"
+    },
+    {
+      "id": "jobright-f5776883a004",
+      "seen_at": "2026-11-02T21:01:33.749912+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8de5b061d6d7ff3d7df8b",
+      "seen_at": "2026-11-02T21:01:33.750359+00:00"
+    },
+    {
+      "id": "jobright-bb321af439b2",
+      "seen_at": "2026-11-02T21:01:33.750798+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8dd90a2a252e21942a44a",
+      "seen_at": "2026-11-02T21:01:33.751251+00:00"
+    },
+    {
+      "id": "jobright-129371a7ffaa",
+      "seen_at": "2026-11-02T21:01:33.751718+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8dd7aa2a252e21942a43c",
+      "seen_at": "2026-11-02T21:01:33.752173+00:00"
+    },
+    {
+      "id": "jobright-54e638715d71",
+      "seen_at": "2026-11-02T21:01:33.752612+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8dc15061d6d7ff3d7ddd2",
+      "seen_at": "2026-11-02T21:01:33.753068+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6134770004",
+      "seen_at": "2026-11-02T21:01:35.824765+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6134770004",
+      "seen_at": "2026-11-02T21:01:35.825242+00:00"
+    },
+    {
+      "id": "zapply-4b6b2d88ceec",
+      "seen_at": "2026-11-02T21:01:35.825680+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-ServiceNow-744000159235840",
+      "seen_at": "2026-11-02T21:01:35.826113+00:00"
+    },
+    {
+      "id": "jobright-99d4f92c5bf5",
+      "seen_at": "2026-11-02T21:01:35.826510+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad66b3a67bec1d0d9c6ebf5",
+      "seen_at": "2026-11-02T21:01:35.826889+00:00"
     }
   ],
-  "last_run": "2026-11-02T20:31:22.441579+00:00",
-  "total_notified": 11269,
+  "last_run": "2026-11-02T21:01:36.076471+00:00",
+  "total_notified": 11279,
   "channels": {
     "pm-jobs": [
       "jobright-5f1eb957606d",
@@ -27557,7 +27637,13 @@
       "amazon-10594688",
       "url:https://www.amazon.jobs/en/jobs/10594688/product-manager-technical-aft-outbound-flow",
       "jobright-5185c1cc9bce",
-      "url:https://jobright.ai/jobs/info/6ae8d985a2a252e21942a188"
+      "url:https://jobright.ai/jobs/info/6ae8d985a2a252e21942a188",
+      "greenhouse-figma-6134770004",
+      "url:https://boards.greenhouse.io/figma/jobs/6134770004",
+      "zapply-4b6b2d88ceec",
+      "url:https://zapply.jobs/l/d/sr-ServiceNow-744000159235840",
+      "jobright-99d4f92c5bf5",
+      "url:https://jobright.ai/jobs/info/6ad66b3a67bec1d0d9c6ebf5"
     ],
     "swe-ai-full-time": [
       "jobright-c57fb374c059",
@@ -33107,7 +33193,21 @@
       "jobright-8c90e326096c",
       "url:https://jobright.ai/jobs/info/6ae8cf8a6c51033758f43086",
       "jobright-5ba4bc8f5459",
-      "url:https://jobright.ai/jobs/info/6ae8cb52fb2cd420ace68cf2"
+      "url:https://jobright.ai/jobs/info/6ae8cb52fb2cd420ace68cf2",
+      "zapply-32346d1e0208",
+      "url:https://zapply.jobs/l/d/workday-freddiemac-external-JR17779",
+      "zapply-0c331f2fa4fc",
+      "url:https://zapply.jobs/l/d/greenhouse-smartsheet-8347710",
+      "jobright-c59d6d8388fc",
+      "url:https://jobright.ai/jobs/info/6ae8e3b5061d6d7ff3d7e342",
+      "jobright-f5776883a004",
+      "url:https://jobright.ai/jobs/info/6ae8de5b061d6d7ff3d7df8b",
+      "jobright-bb321af439b2",
+      "url:https://jobright.ai/jobs/info/6ae8dd90a2a252e21942a44a",
+      "jobright-129371a7ffaa",
+      "url:https://jobright.ai/jobs/info/6ae8dd7aa2a252e21942a43c",
+      "jobright-54e638715d71",
+      "url:https://jobright.ai/jobs/info/6ae8dc15061d6d7ff3d7ddd2"
     ]
   }
 }
