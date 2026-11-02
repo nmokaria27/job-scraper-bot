@@ -26123,10 +26123,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029139",
       "seen_at": "2026-11-02T13:31:20.705650+00:00"
+    },
+    {
+      "id": "jobright-cbbb399dc6e6",
+      "seen_at": "2026-11-02T14:01:41.065239+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae88464fb2cd420ace666f5",
+      "seen_at": "2026-11-02T14:01:41.065659+00:00"
+    },
+    {
+      "id": "jobright-0680b3d392ff",
+      "seen_at": "2026-11-02T14:01:42.505693+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8801a6c51033758f405fc",
+      "seen_at": "2026-11-02T14:01:42.506056+00:00"
     }
   ],
-  "last_run": "2026-11-02T13:31:20.974743+00:00",
-  "total_notified": 11216,
+  "last_run": "2026-11-02T14:01:42.726230+00:00",
+  "total_notified": 11218,
   "channels": {
     "pm-jobs": [
       "jobright-bf65f6b2cd4d",
@@ -27183,7 +27199,9 @@
       "jobright-f9835182e7a8",
       "url:https://jobright.ai/jobs/info/6ae852bf6c51033758f3f9eb",
       "zapply-3ca134d2e6e5",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029139"
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029139",
+      "jobright-0680b3d392ff",
+      "url:https://jobright.ai/jobs/info/6ae8801a6c51033758f405fc"
     ],
     "swe-ai-full-time": [
       "zapply-3fc0d40eb582",
@@ -32667,7 +32685,9 @@
       "jobright-78cd776fc0c9",
       "url:https://jobright.ai/jobs/info/6a58193a9f1f56462cf68994",
       "jobright-e07041d96c59",
-      "url:https://jobright.ai/jobs/info/6ae86cefa2a252e219426bef"
+      "url:https://jobright.ai/jobs/info/6ae86cefa2a252e219426bef",
+      "jobright-cbbb399dc6e6",
+      "url:https://jobright.ai/jobs/info/6ae88464fb2cd420ace666f5"
     ]
   }
 }
