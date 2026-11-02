@@ -26099,10 +26099,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae7dc6377c09cb3bd4b8ffd",
       "seen_at": "2026-11-02T03:01:28.854082+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5468947008",
+      "seen_at": "2026-11-02T04:31:15.649934+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5468947008",
+      "seen_at": "2026-11-02T04:31:15.650258+00:00"
     }
   ],
-  "last_run": "2026-11-02T04:01:22.924092+00:00",
-  "total_notified": 11200,
+  "last_run": "2026-11-02T04:31:16.109853+00:00",
+  "total_notified": 11201,
   "channels": {
     "pm-jobs": [
       "jobright-3091a3aef0df",
@@ -32637,7 +32645,9 @@
       "amazon-10594131",
       "url:https://www.amazon.jobs/en/jobs/10594131/applied-scientist-pxt-central-science",
       "jobright-59877b5d9a5a",
-      "url:https://jobright.ai/jobs/info/6ae7dc6377c09cb3bd4b8ffd"
+      "url:https://jobright.ai/jobs/info/6ae7dc6377c09cb3bd4b8ffd",
+      "greenhouse-anthropic-5468947008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5468947008"
     ]
   }
 }
