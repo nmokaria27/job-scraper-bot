@@ -26763,10 +26763,26 @@
     {
       "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--AI-for-Quantum_JR2023411",
       "seen_at": "2026-11-02T23:01:23.338741+00:00"
+    },
+    {
+      "id": "greenhouse-reddit-8337444",
+      "seen_at": "2026-11-02T23:31:11.617620+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8337444",
+      "seen_at": "2026-11-02T23:31:11.618042+00:00"
+    },
+    {
+      "id": "zapply-786d0250a3d0",
+      "seen_at": "2026-11-02T23:31:11.618387+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-verkada-5280545007",
+      "seen_at": "2026-11-02T23:31:11.618711+00:00"
     }
   ],
-  "last_run": "2026-11-02T23:01:23.595745+00:00",
-  "total_notified": 11306,
+  "last_run": "2026-11-02T23:31:13.083909+00:00",
+  "total_notified": 11308,
   "channels": {
     "pm-jobs": [
       "simplify-1b0ed45f-daff-44e4-96e2-551ed31d329e",
@@ -33467,7 +33483,11 @@
       "amazon-10594933",
       "url:https://www.amazon.jobs/en/jobs/10594933/applied-scientist-mobile-manipulation-robotics-i-o",
       "jobright-f4c1b5ad794a",
-      "url:https://jobright.ai/jobs/info/6ae8f7be061d6d7ff3d7f139"
+      "url:https://jobright.ai/jobs/info/6ae8f7be061d6d7ff3d7f139",
+      "greenhouse-reddit-8337444",
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8337444",
+      "zapply-786d0250a3d0",
+      "url:https://zapply.jobs/l/d/greenhouse-verkada-5280545007"
     ]
   }
 }
