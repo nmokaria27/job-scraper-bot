@@ -26091,10 +26091,34 @@
     {
       "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Software-Engineer---Stack--AWS--Java--JavaScript--TypeScript-_R1004484-1",
       "seen_at": "2026-11-02T11:31:37.569774+00:00"
+    },
+    {
+      "id": "jobright-7fcc8cfc44f8",
+      "seen_at": "2026-11-02T13:01:26.353059+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a74b2f4bb6ca93ae560b521",
+      "seen_at": "2026-11-02T13:01:26.353437+00:00"
+    },
+    {
+      "id": "jobright-78cd776fc0c9",
+      "seen_at": "2026-11-02T13:01:26.353770+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a58193a9f1f56462cf68994",
+      "seen_at": "2026-11-02T13:01:26.354085+00:00"
+    },
+    {
+      "id": "jobright-e07041d96c59",
+      "seen_at": "2026-11-02T13:01:26.354392+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae86cefa2a252e219426bef",
+      "seen_at": "2026-11-02T13:01:26.354671+00:00"
     }
   ],
-  "last_run": "2026-11-02T12:31:15.422939+00:00",
-  "total_notified": 11212,
+  "last_run": "2026-11-02T13:01:26.888806+00:00",
+  "total_notified": 11215,
   "channels": {
     "pm-jobs": [
       "jobright-bf65f6b2cd4d",
@@ -32627,7 +32651,13 @@
       "jobright-d7b996ea3c42",
       "url:https://jobright.ai/jobs/info/6ae81aec03f4a1104b252306",
       "workday-capitalone-R1004484",
-      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Software-Engineer---Stack--AWS--Java--JavaScript--TypeScript-_R1004484-1"
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Software-Engineer---Stack--AWS--Java--JavaScript--TypeScript-_R1004484-1",
+      "jobright-7fcc8cfc44f8",
+      "url:https://jobright.ai/jobs/info/6a74b2f4bb6ca93ae560b521",
+      "jobright-78cd776fc0c9",
+      "url:https://jobright.ai/jobs/info/6a58193a9f1f56462cf68994",
+      "jobright-e07041d96c59",
+      "url:https://jobright.ai/jobs/info/6ae86cefa2a252e219426bef"
     ]
   }
 }
