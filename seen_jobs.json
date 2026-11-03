@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-3c5bfb2f8e32",
-      "seen_at": "2026-10-04T18:46:51.610954+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a565d9721f64463ad353f25",
-      "seen_at": "2026-10-04T18:46:51.611850+00:00"
-    },
-    {
-      "id": "jobright-9b398e8ad291",
-      "seen_at": "2026-10-04T18:46:51.612710+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a1d5934e24ef365258375c2",
-      "seen_at": "2026-10-04T18:46:51.613554+00:00"
-    },
-    {
       "id": "jobright-7685abe8321e",
       "seen_at": "2026-10-04T19:31:17.584548+00:00"
     },
@@ -27323,16 +27307,76 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10592712/sde-constellation-operations-amazon-leo",
       "seen_at": "2026-11-03T18:23:44.607176+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5467893008",
+      "seen_at": "2026-11-03T19:01:28.918787+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
+      "seen_at": "2026-11-03T19:01:28.919126+00:00"
+    },
+    {
+      "id": "simplify-01cd3b84-db7b-469d-8f33-e2065ef6fe27",
+      "seen_at": "2026-11-03T19:01:28.919418+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1dT",
+      "seen_at": "2026-11-03T19:01:28.919678+00:00"
+    },
+    {
+      "id": "jobright-f1f85cef05c2",
+      "seen_at": "2026-11-03T19:01:28.919945+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea12e91ba298c77776f201",
+      "seen_at": "2026-11-03T19:01:28.920196+00:00"
+    },
+    {
+      "id": "jobright-e0c387dbab49",
+      "seen_at": "2026-11-03T19:01:28.920452+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea12e6913589212b1f326f",
+      "seen_at": "2026-11-03T19:01:28.920688+00:00"
+    },
+    {
+      "id": "jobright-8894a7044298",
+      "seen_at": "2026-11-03T19:01:28.920926+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea0f0a897466e69e31ae63",
+      "seen_at": "2026-11-03T19:01:28.921152+00:00"
+    },
+    {
+      "id": "jobright-a546a6f46367",
+      "seen_at": "2026-11-03T19:01:30.789264+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea136a4f991d64376ca635",
+      "seen_at": "2026-11-03T19:01:30.789571+00:00"
+    },
+    {
+      "id": "jobright-3c5bfb2f8e32",
+      "seen_at": "2026-11-03T19:01:30.789824+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a565d9721f64463ad353f25",
+      "seen_at": "2026-11-03T19:01:30.790054+00:00"
+    },
+    {
+      "id": "jobright-34ba389baa6c",
+      "seen_at": "2026-11-03T19:01:30.790278+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea137f897466e69e31b462",
+      "seen_at": "2026-11-03T19:01:30.790509+00:00"
     }
   ],
-  "last_run": "2026-11-03T18:31:45.579802+00:00",
-  "total_notified": 11385,
+  "last_run": "2026-11-03T19:01:31.160534+00:00",
+  "total_notified": 11393,
   "channels": {
     "pm-jobs": [
-      "jobright-3c5bfb2f8e32",
-      "url:https://jobright.ai/jobs/info/6a565d9721f64463ad353f25",
-      "jobright-9b398e8ad291",
-      "url:https://jobright.ai/jobs/info/6a1d5934e24ef365258375c2",
       "jobright-d39ef916994b",
       "url:https://jobright.ai/jobs/info/6a98527bc8ed473c5c7634bc",
       "jobright-ec067145e89b",
@@ -28433,7 +28477,13 @@
       "workday-nvidia-JR2019819",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Manager---AI-Infra-Resilience_JR2019819",
       "jobright-1ac9912d600d",
-      "url:https://jobright.ai/jobs/info/6aea02dc897466e69e31a1f0"
+      "url:https://jobright.ai/jobs/info/6aea02dc897466e69e31a1f0",
+      "jobright-a546a6f46367",
+      "url:https://jobright.ai/jobs/info/6aea136a4f991d64376ca635",
+      "jobright-3c5bfb2f8e32",
+      "url:https://jobright.ai/jobs/info/6a565d9721f64463ad353f25",
+      "jobright-34ba389baa6c",
+      "url:https://jobright.ai/jobs/info/6aea137f897466e69e31b462"
     ],
     "swe-ai-full-time": [
       "jobright-7685abe8321e",
@@ -34167,7 +34217,17 @@
       "amazon-10595560",
       "url:https://www.amazon.jobs/en/jobs/10595560/applied-scientist-sponsored-products-and-brands",
       "amazon-10592712",
-      "url:https://www.amazon.jobs/en/jobs/10592712/sde-constellation-operations-amazon-leo"
+      "url:https://www.amazon.jobs/en/jobs/10592712/sde-constellation-operations-amazon-leo",
+      "greenhouse-anthropic-5467893008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
+      "simplify-01cd3b84-db7b-469d-8f33-e2065ef6fe27",
+      "url:https://go.vansh.nyc/1dT",
+      "jobright-f1f85cef05c2",
+      "url:https://jobright.ai/jobs/info/6aea12e91ba298c77776f201",
+      "jobright-e0c387dbab49",
+      "url:https://jobright.ai/jobs/info/6aea12e6913589212b1f326f",
+      "jobright-8894a7044298",
+      "url:https://jobright.ai/jobs/info/6aea0f0a897466e69e31ae63"
     ]
   }
 }
