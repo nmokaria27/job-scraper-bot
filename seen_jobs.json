@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-44f67eb88318",
-      "seen_at": "2026-10-04T23:01:12.531085+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a8d82d125fc4e7ae3dbc21a",
-      "seen_at": "2026-10-04T23:01:12.531815+00:00"
-    },
-    {
       "id": "zapply-5530a658765e",
       "seen_at": "2026-10-04T23:31:42.041088+00:00"
     },
@@ -27683,10 +27675,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aea51aa1ba298c777771d49",
       "seen_at": "2026-11-03T23:02:16.548441+00:00"
+    },
+    {
+      "id": "ashby-applied-ff77f315-2e95-49aa-94e8-84ffd3dcaa09",
+      "seen_at": "2026-11-03T23:31:24.091136+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/ff77f315-2e95-49aa-94e8-84ffd3dcaa09",
+      "seen_at": "2026-11-03T23:31:24.091840+00:00"
+    },
+    {
+      "id": "simplify-fe2e0cd4-e180-442f-8ec3-c0ce348cd4e7",
+      "seen_at": "2026-11-03T23:31:24.092336+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1fu",
+      "seen_at": "2026-11-03T23:31:24.092823+00:00"
+    },
+    {
+      "id": "ashby-applied-f9926b5d-475a-42cc-bd6e-f39bae5d26a8",
+      "seen_at": "2026-11-03T23:31:26.239877+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/f9926b5d-475a-42cc-bd6e-f39bae5d26a8",
+      "seen_at": "2026-11-03T23:31:26.240432+00:00"
     }
   ],
-  "last_run": "2026-11-03T23:02:16.783418+00:00",
-  "total_notified": 11448,
+  "last_run": "2026-11-03T23:31:26.442331+00:00",
+  "total_notified": 11451,
   "channels": {
     "pm-jobs": [
       "zapply-5530a658765e",
@@ -28809,11 +28825,11 @@
       "zapply-7bb047124cbe",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029509",
       "jobright-7fca077b5aa5",
-      "url:https://jobright.ai/jobs/info/6aea51aa1ba298c777771d49"
+      "url:https://jobright.ai/jobs/info/6aea51aa1ba298c777771d49",
+      "ashby-applied-f9926b5d-475a-42cc-bd6e-f39bae5d26a8",
+      "url:https://jobs.ashbyhq.com/applied/f9926b5d-475a-42cc-bd6e-f39bae5d26a8"
     ],
     "swe-ai-full-time": [
-      "jobright-44f67eb88318",
-      "url:https://jobright.ai/jobs/info/6a8d82d125fc4e7ae3dbc21a",
       "zapply-9f417f71a365",
       "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229587",
       "jobright-43e03c200efb",
@@ -34619,7 +34635,11 @@
       "jobright-c46781504c8b",
       "url:https://jobright.ai/jobs/info/6aea4cba440b469a1c0acbb0",
       "jobright-7b03c8866bdc",
-      "url:https://jobright.ai/jobs/info/6aea475f4f991d64376cc7de"
+      "url:https://jobright.ai/jobs/info/6aea475f4f991d64376cc7de",
+      "ashby-applied-ff77f315-2e95-49aa-94e8-84ffd3dcaa09",
+      "url:https://jobs.ashbyhq.com/applied/ff77f315-2e95-49aa-94e8-84ffd3dcaa09",
+      "simplify-fe2e0cd4-e180-442f-8ec3-c0ce348cd4e7",
+      "url:https://go.vansh.nyc/1fu"
     ]
   }
 }
