@@ -27259,10 +27259,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae9fc59fc85f3a39432e911",
       "seen_at": "2026-11-03T17:01:54.779988+00:00"
+    },
+    {
+      "id": "amazon-10595504",
+      "seen_at": "2026-11-03T17:31:19.746323+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10595504/applied-scientist-agi",
+      "seen_at": "2026-11-03T17:31:19.747106+00:00"
+    },
+    {
+      "id": "zapply-c5a429ccc668",
+      "seen_at": "2026-11-03T17:31:21.675199+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-vertiv-20285125",
+      "seen_at": "2026-11-03T17:31:21.675904+00:00"
     }
   ],
-  "last_run": "2026-11-03T17:01:55.061124+00:00",
-  "total_notified": 11375,
+  "last_run": "2026-11-03T17:31:21.880539+00:00",
+  "total_notified": 11377,
   "channels": {
     "pm-jobs": [
       "jobright-b8bd7f65ddc1",
@@ -28361,7 +28377,9 @@
       "jobright-b69f853a8613",
       "url:https://jobright.ai/jobs/info/6ae9fe55440b469a1c0a8f1a",
       "jobright-fb9685d11617",
-      "url:https://jobright.ai/jobs/info/6ae9fc59fc85f3a39432e911"
+      "url:https://jobright.ai/jobs/info/6ae9fc59fc85f3a39432e911",
+      "zapply-c5a429ccc668",
+      "url:https://zapply.jobs/l/d/oracle-vertiv-20285125"
     ],
     "swe-ai-full-time": [
       "jobright-52e5fdee0be6",
@@ -34087,7 +34105,9 @@
       "jobright-0d91d4536635",
       "url:https://jobright.ai/jobs/info/6ae9f19143826864b0fbb802",
       "jobright-e6a7b057dce0",
-      "url:https://jobright.ai/jobs/info/6ae9fb3132411b3e5a2e3474"
+      "url:https://jobright.ai/jobs/info/6ae9fb3132411b3e5a2e3474",
+      "amazon-10595504",
+      "url:https://www.amazon.jobs/en/jobs/10595504/applied-scientist-agi"
     ]
   }
 }
