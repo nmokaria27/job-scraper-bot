@@ -27595,10 +27595,98 @@
     {
       "id": "url:https://zapply.jobs/l/d/eightfold-eaton-687239830943",
       "seen_at": "2026-11-03T22:31:15.029648+00:00"
+    },
+    {
+      "id": "greenhouse-rubrik-8335812",
+      "seen_at": "2026-11-03T23:02:14.332404+00:00"
+    },
+    {
+      "id": "url:https://www.rubrik.com/company/careers/departments/job.8335812",
+      "seen_at": "2026-11-03T23:02:14.332968+00:00"
+    },
+    {
+      "id": "simplify-7b0b288e-23b4-4b36-9e54-eee28d6647ad",
+      "seen_at": "2026-11-03T23:02:14.333408+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1fn",
+      "seen_at": "2026-11-03T23:02:14.333842+00:00"
+    },
+    {
+      "id": "jobright-76d0d552e236",
+      "seen_at": "2026-11-03T23:02:14.334244+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea4f92897466e69e31de48",
+      "seen_at": "2026-11-03T23:02:14.334657+00:00"
+    },
+    {
+      "id": "jobright-f2d0d5aa77c5",
+      "seen_at": "2026-11-03T23:02:14.335048+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea4b4c1ba298c77777192c",
+      "seen_at": "2026-11-03T23:02:14.335422+00:00"
+    },
+    {
+      "id": "jobright-6948b5dce57c",
+      "seen_at": "2026-11-03T23:02:14.335816+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea4b49913589212b1f58eb",
+      "seen_at": "2026-11-03T23:02:14.336191+00:00"
+    },
+    {
+      "id": "jobright-a92df03b9fe5",
+      "seen_at": "2026-11-03T23:02:14.336594+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea4b3e1ba298c777771920",
+      "seen_at": "2026-11-03T23:02:14.336995+00:00"
+    },
+    {
+      "id": "amazon-10595565",
+      "seen_at": "2026-11-03T23:02:14.337397+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10595565/software-development-engineer-data-and-analytics",
+      "seen_at": "2026-11-03T23:02:14.337791+00:00"
+    },
+    {
+      "id": "jobright-c46781504c8b",
+      "seen_at": "2026-11-03T23:02:14.338164+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea4cba440b469a1c0acbb0",
+      "seen_at": "2026-11-03T23:02:14.338568+00:00"
+    },
+    {
+      "id": "jobright-7b03c8866bdc",
+      "seen_at": "2026-11-03T23:02:14.339016+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea475f4f991d64376cc7de",
+      "seen_at": "2026-11-03T23:02:14.339447+00:00"
+    },
+    {
+      "id": "zapply-7bb047124cbe",
+      "seen_at": "2026-11-03T23:02:16.547204+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029509",
+      "seen_at": "2026-11-03T23:02:16.547670+00:00"
+    },
+    {
+      "id": "jobright-7fca077b5aa5",
+      "seen_at": "2026-11-03T23:02:16.548073+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea51aa1ba298c777771d49",
+      "seen_at": "2026-11-03T23:02:16.548441+00:00"
     }
   ],
-  "last_run": "2026-11-03T22:31:15.309511+00:00",
-  "total_notified": 11437,
+  "last_run": "2026-11-03T23:02:16.783418+00:00",
+  "total_notified": 11448,
   "channels": {
     "pm-jobs": [
       "zapply-5530a658765e",
@@ -28717,7 +28805,11 @@
       "jobright-870303c5a2c7",
       "url:https://jobright.ai/jobs/info/6aea38064f991d64376cbd3b",
       "zapply-1cbbe2273cb3",
-      "url:https://zapply.jobs/l/d/eightfold-eaton-687239830943"
+      "url:https://zapply.jobs/l/d/eightfold-eaton-687239830943",
+      "zapply-7bb047124cbe",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029509",
+      "jobright-7fca077b5aa5",
+      "url:https://jobright.ai/jobs/info/6aea51aa1ba298c777771d49"
     ],
     "swe-ai-full-time": [
       "jobright-44f67eb88318",
@@ -34509,7 +34601,25 @@
       "zapply-cd7a47782477",
       "url:https://zapply.jobs/l/d/greenhouse-rocketlab-8182050003",
       "applyguy-514ebcd1-5e20-4df8-8c0c-f6095e5b2d88",
-      "url:https://job-boards.greenhouse.io/captivation/jobs/5471546008"
+      "url:https://job-boards.greenhouse.io/captivation/jobs/5471546008",
+      "greenhouse-rubrik-8335812",
+      "url:https://www.rubrik.com/company/careers/departments/job.8335812",
+      "simplify-7b0b288e-23b4-4b36-9e54-eee28d6647ad",
+      "url:https://go.vansh.nyc/1fn",
+      "jobright-76d0d552e236",
+      "url:https://jobright.ai/jobs/info/6aea4f92897466e69e31de48",
+      "jobright-f2d0d5aa77c5",
+      "url:https://jobright.ai/jobs/info/6aea4b4c1ba298c77777192c",
+      "jobright-6948b5dce57c",
+      "url:https://jobright.ai/jobs/info/6aea4b49913589212b1f58eb",
+      "jobright-a92df03b9fe5",
+      "url:https://jobright.ai/jobs/info/6aea4b3e1ba298c777771920",
+      "amazon-10595565",
+      "url:https://www.amazon.jobs/en/jobs/10595565/software-development-engineer-data-and-analytics",
+      "jobright-c46781504c8b",
+      "url:https://jobright.ai/jobs/info/6aea4cba440b469a1c0acbb0",
+      "jobright-7b03c8866bdc",
+      "url:https://jobright.ai/jobs/info/6aea475f4f991d64376cc7de"
     ]
   }
 }
