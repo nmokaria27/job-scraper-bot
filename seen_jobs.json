@@ -27147,10 +27147,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/google-113412361280201414",
       "seen_at": "2026-11-03T13:01:21.792031+00:00"
+    },
+    {
+      "id": "zapply-13534a0a5441",
+      "seen_at": "2026-11-03T15:01:39.867698+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4966542",
+      "seen_at": "2026-11-03T15:01:39.868281+00:00"
+    },
+    {
+      "id": "jobright-d94b6411a138",
+      "seen_at": "2026-11-03T15:01:39.868785+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf89c59a8c91d5c3586643",
+      "seen_at": "2026-11-03T15:01:39.869282+00:00"
+    },
+    {
+      "id": "jobright-8eaabd658adf",
+      "seen_at": "2026-11-03T15:01:39.869756+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9dab3a291a1db4de25ac5",
+      "seen_at": "2026-11-03T15:01:39.870240+00:00"
+    },
+    {
+      "id": "jobright-e46e6933d1ef",
+      "seen_at": "2026-11-03T15:01:39.870715+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9dab173d24ab055c59038",
+      "seen_at": "2026-11-03T15:01:39.871187+00:00"
+    },
+    {
+      "id": "jobright-40906c371c7d",
+      "seen_at": "2026-11-03T15:01:39.871653+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a70e264cb96192a368463f9",
+      "seen_at": "2026-11-03T15:01:39.872129+00:00"
+    },
+    {
+      "id": "jobright-9107036a126d",
+      "seen_at": "2026-11-03T15:01:39.872596+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9350b32411b3e5a2df708",
+      "seen_at": "2026-11-03T15:01:39.873078+00:00"
     }
   ],
-  "last_run": "2026-11-03T14:31:50.324793+00:00",
-  "total_notified": 11358,
+  "last_run": "2026-11-03T15:01:41.209444+00:00",
+  "total_notified": 11364,
   "channels": {
     "pm-jobs": [
       "jobright-cc6da30a2922",
@@ -33947,7 +33995,19 @@
       "jobright-79d3511fc433",
       "url:https://jobright.ai/jobs/info/6ae9bea5a291a1db4de252be",
       "zapply-2cd4290809b0",
-      "url:https://zapply.jobs/l/d/google-113412361280201414"
+      "url:https://zapply.jobs/l/d/google-113412361280201414",
+      "zapply-13534a0a5441",
+      "url:https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4966542",
+      "jobright-d94b6411a138",
+      "url:https://jobright.ai/jobs/info/6adf89c59a8c91d5c3586643",
+      "jobright-8eaabd658adf",
+      "url:https://jobright.ai/jobs/info/6ae9dab3a291a1db4de25ac5",
+      "jobright-e46e6933d1ef",
+      "url:https://jobright.ai/jobs/info/6ae9dab173d24ab055c59038",
+      "jobright-40906c371c7d",
+      "url:https://jobright.ai/jobs/info/6a70e264cb96192a368463f9",
+      "jobright-9107036a126d",
+      "url:https://jobright.ai/jobs/info/6ae9350b32411b3e5a2df708"
     ]
   }
 }
