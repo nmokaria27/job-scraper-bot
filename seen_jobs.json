@@ -26835,10 +26835,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae90737a2a252e21942c1a0",
       "seen_at": "2026-11-03T00:01:32.302222+00:00"
+    },
+    {
+      "id": "amazon-10594927",
+      "seen_at": "2026-11-03T00:31:14.732915+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10594927/embedded-software-engineer-leo-payload-radio",
+      "seen_at": "2026-11-03T00:31:14.733429+00:00"
+    },
+    {
+      "id": "amazon-10594926",
+      "seen_at": "2026-11-03T00:31:14.733939+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10594926/embedded-sde-payload-radio-gateway",
+      "seen_at": "2026-11-03T00:31:14.734375+00:00"
+    },
+    {
+      "id": "simplify-28dcb8c6-54eb-4643-b3a1-3e88e95fd009",
+      "seen_at": "2026-11-03T00:31:14.734832+00:00"
+    },
+    {
+      "id": "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24852",
+      "seen_at": "2026-11-03T00:31:14.735260+00:00"
     }
   ],
-  "last_run": "2026-11-03T00:01:32.652610+00:00",
-  "total_notified": 11316,
+  "last_run": "2026-11-03T00:31:16.059920+00:00",
+  "total_notified": 11319,
   "channels": {
     "pm-jobs": [
       "jobright-cc6da30a2922",
@@ -33557,7 +33581,13 @@
       "simplify-0a08202a-9ca0-4035-92b3-f5ad8cb3c2fc",
       "url:https://job-boards.greenhouse.io/truveta/jobs/6240727004",
       "jobright-b6ac1c8081f5",
-      "url:https://jobright.ai/jobs/info/6ae90f6f6c51033758f45dd0"
+      "url:https://jobright.ai/jobs/info/6ae90f6f6c51033758f45dd0",
+      "amazon-10594927",
+      "url:https://www.amazon.jobs/en/jobs/10594927/embedded-software-engineer-leo-payload-radio",
+      "amazon-10594926",
+      "url:https://www.amazon.jobs/en/jobs/10594926/embedded-sde-payload-radio-gateway",
+      "simplify-28dcb8c6-54eb-4643-b3a1-3e88e95fd009",
+      "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24852"
     ]
   }
 }
