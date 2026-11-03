@@ -27523,10 +27523,74 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a55d222ec54dd532d814272",
       "seen_at": "2026-11-03T21:31:25.665569+00:00"
+    },
+    {
+      "id": "jobright-3ae31856554e",
+      "seen_at": "2026-11-03T22:01:34.164190+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea44ad4f991d64376cc560",
+      "seen_at": "2026-11-03T22:01:34.164509+00:00"
+    },
+    {
+      "id": "jobright-7219582c5af6",
+      "seen_at": "2026-11-03T22:01:34.164800+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea3fbb913589212b1f4fbc",
+      "seen_at": "2026-11-03T22:01:34.165045+00:00"
+    },
+    {
+      "id": "jobright-be49bae5ae03",
+      "seen_at": "2026-11-03T22:01:34.165289+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0f4a1183d714428981e4d0",
+      "seen_at": "2026-11-03T22:01:34.165515+00:00"
+    },
+    {
+      "id": "jobright-a10569b5f6db",
+      "seen_at": "2026-11-03T22:01:34.165757+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a2762d32056260dd6e86daa",
+      "seen_at": "2026-11-03T22:01:34.165973+00:00"
+    },
+    {
+      "id": "amazon-10595981",
+      "seen_at": "2026-11-03T22:01:34.166190+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10595981/software-development-engineer-sponsored-products-and-brands",
+      "seen_at": "2026-11-03T22:01:34.166390+00:00"
+    },
+    {
+      "id": "amazon-10593247",
+      "seen_at": "2026-11-03T22:01:34.166590+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10593247/software-development-engineer-sports-data-platform-prime-video-sports",
+      "seen_at": "2026-11-03T22:01:34.166793+00:00"
+    },
+    {
+      "id": "zapply-61f19e3af302",
+      "seen_at": "2026-11-03T22:01:36.072892+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_054580",
+      "seen_at": "2026-11-03T22:01:36.073182+00:00"
+    },
+    {
+      "id": "jobright-870303c5a2c7",
+      "seen_at": "2026-11-03T22:01:36.073431+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea38064f991d64376cbd3b",
+      "seen_at": "2026-11-03T22:01:36.073654+00:00"
     }
   ],
-  "last_run": "2026-11-03T21:31:25.830619+00:00",
-  "total_notified": 11424,
+  "last_run": "2026-11-03T22:01:36.361124+00:00",
+  "total_notified": 11432,
   "channels": {
     "pm-jobs": [
       "jobright-389f74dec683",
@@ -28641,7 +28705,11 @@
       "amazon-10595951",
       "url:https://www.amazon.jobs/en/jobs/10595951/data-engineer-advertising-demand-enablement-product-ops-depo",
       "jobright-5c22be94e9fa",
-      "url:https://jobright.ai/jobs/info/6a55d222ec54dd532d814272"
+      "url:https://jobright.ai/jobs/info/6a55d222ec54dd532d814272",
+      "zapply-61f19e3af302",
+      "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_054580",
+      "jobright-870303c5a2c7",
+      "url:https://jobright.ai/jobs/info/6aea38064f991d64376cbd3b"
     ],
     "swe-ai-full-time": [
       "jobright-dd9ec28ad96c",
@@ -34419,7 +34487,19 @@
       "zapply-19762f3bc1fc",
       "url:https://zapply.jobs/l/d/eightfold-bostonscientific-563602813660387",
       "amazon-10595951",
-      "url:https://www.amazon.jobs/en/jobs/10595951/data-engineer-advertising-demand-enablement-product-ops-depo"
+      "url:https://www.amazon.jobs/en/jobs/10595951/data-engineer-advertising-demand-enablement-product-ops-depo",
+      "jobright-3ae31856554e",
+      "url:https://jobright.ai/jobs/info/6aea44ad4f991d64376cc560",
+      "jobright-7219582c5af6",
+      "url:https://jobright.ai/jobs/info/6aea3fbb913589212b1f4fbc",
+      "jobright-be49bae5ae03",
+      "url:https://jobright.ai/jobs/info/6a0f4a1183d714428981e4d0",
+      "jobright-a10569b5f6db",
+      "url:https://jobright.ai/jobs/info/6a2762d32056260dd6e86daa",
+      "amazon-10595981",
+      "url:https://www.amazon.jobs/en/jobs/10595981/software-development-engineer-sponsored-products-and-brands",
+      "amazon-10593247",
+      "url:https://www.amazon.jobs/en/jobs/10593247/software-development-engineer-sports-data-platform-prime-video-sports"
     ]
   }
 }
