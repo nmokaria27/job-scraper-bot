@@ -27115,10 +27115,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae9af9ea291a1db4de24eae",
       "seen_at": "2026-11-03T12:01:20.709046+00:00"
+    },
+    {
+      "id": "jobright-f12b73757bff",
+      "seen_at": "2026-11-03T13:01:21.790290+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd740c002e496d4bef23fe",
+      "seen_at": "2026-11-03T13:01:21.790610+00:00"
+    },
+    {
+      "id": "jobright-4f7d44aee3da",
+      "seen_at": "2026-11-03T13:01:21.790873+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9bf6373d24ab055c58862",
+      "seen_at": "2026-11-03T13:01:21.791125+00:00"
+    },
+    {
+      "id": "jobright-79d3511fc433",
+      "seen_at": "2026-11-03T13:01:21.791362+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9bea5a291a1db4de252be",
+      "seen_at": "2026-11-03T13:01:21.791583+00:00"
+    },
+    {
+      "id": "zapply-2cd4290809b0",
+      "seen_at": "2026-11-03T13:01:21.791805+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-113412361280201414",
+      "seen_at": "2026-11-03T13:01:21.792031+00:00"
     }
   ],
-  "last_run": "2026-11-03T12:31:13.335628+00:00",
-  "total_notified": 11354,
+  "last_run": "2026-11-03T13:01:22.632984+00:00",
+  "total_notified": 11358,
   "channels": {
     "pm-jobs": [
       "jobright-cc6da30a2922",
@@ -33907,7 +33939,15 @@
       "jobright-98c919bd9066",
       "url:https://jobright.ai/jobs/info/6adabb4703d2da7528917c20",
       "jobright-b1902d62da45",
-      "url:https://jobright.ai/jobs/info/6adac01c2dd1bb403060ff4b"
+      "url:https://jobright.ai/jobs/info/6adac01c2dd1bb403060ff4b",
+      "jobright-f12b73757bff",
+      "url:https://jobright.ai/jobs/info/6acd740c002e496d4bef23fe",
+      "jobright-4f7d44aee3da",
+      "url:https://jobright.ai/jobs/info/6ae9bf6373d24ab055c58862",
+      "jobright-79d3511fc433",
+      "url:https://jobright.ai/jobs/info/6ae9bea5a291a1db4de252be",
+      "zapply-2cd4290809b0",
+      "url:https://zapply.jobs/l/d/google-113412361280201414"
     ]
   }
 }
