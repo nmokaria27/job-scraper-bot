@@ -26859,10 +26859,50 @@
     {
       "id": "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24852",
       "seen_at": "2026-11-03T00:31:14.735260+00:00"
+    },
+    {
+      "id": "ashby-ramp-d8925f84-562f-470c-a5bd-4f6c20009361",
+      "seen_at": "2026-11-03T01:01:31.769866+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361",
+      "seen_at": "2026-11-03T01:01:31.770628+00:00"
+    },
+    {
+      "id": "simplify-2c4db35f-a0ef-4e44-a2bf-52f39f2359c6",
+      "seen_at": "2026-11-03T01:01:31.771197+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1bF",
+      "seen_at": "2026-11-03T01:01:31.771759+00:00"
+    },
+    {
+      "id": "amazon-10594998",
+      "seen_at": "2026-11-03T01:01:31.772227+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10594998/software-development-engineer-eva-development-team",
+      "seen_at": "2026-11-03T01:01:31.772697+00:00"
+    },
+    {
+      "id": "jobright-d8db8ee1bd1a",
+      "seen_at": "2026-11-03T01:01:31.773156+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9104cfb2cd420ace6bc71",
+      "seen_at": "2026-11-03T01:01:31.773604+00:00"
+    },
+    {
+      "id": "jobright-6ebebaf71534",
+      "seen_at": "2026-11-03T01:01:31.774092+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae91454061d6d7ff3d804d7",
+      "seen_at": "2026-11-03T01:01:31.774538+00:00"
     }
   ],
-  "last_run": "2026-11-03T00:31:16.059920+00:00",
-  "total_notified": 11319,
+  "last_run": "2026-11-03T01:01:32.945426+00:00",
+  "total_notified": 11324,
   "channels": {
     "pm-jobs": [
       "jobright-cc6da30a2922",
@@ -33587,7 +33627,17 @@
       "amazon-10594926",
       "url:https://www.amazon.jobs/en/jobs/10594926/embedded-sde-payload-radio-gateway",
       "simplify-28dcb8c6-54eb-4643-b3a1-3e88e95fd009",
-      "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24852"
+      "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24852",
+      "ashby-ramp-d8925f84-562f-470c-a5bd-4f6c20009361",
+      "url:https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361",
+      "simplify-2c4db35f-a0ef-4e44-a2bf-52f39f2359c6",
+      "url:https://go.vansh.nyc/1bF",
+      "amazon-10594998",
+      "url:https://www.amazon.jobs/en/jobs/10594998/software-development-engineer-eva-development-team",
+      "jobright-d8db8ee1bd1a",
+      "url:https://jobright.ai/jobs/info/6ae9104cfb2cd420ace6bc71",
+      "jobright-6ebebaf71534",
+      "url:https://jobright.ai/jobs/info/6ae91454061d6d7ff3d804d7"
     ]
   }
 }
