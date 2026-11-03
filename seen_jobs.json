@@ -27187,10 +27187,82 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10595461/pmt-ring-software-engineering",
       "seen_at": "2026-11-03T16:31:38.911109+00:00"
+    },
+    {
+      "id": "greenhouse-gitlab-8922249002",
+      "seen_at": "2026-11-03T17:01:52.780558+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/gitlab/jobs/8922249002",
+      "seen_at": "2026-11-03T17:01:52.781158+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-6242246004",
+      "seen_at": "2026-11-03T17:01:52.781617+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6242246004",
+      "seen_at": "2026-11-03T17:01:52.782089+00:00"
+    },
+    {
+      "id": "jobright-4f9ec2edc5db",
+      "seen_at": "2026-11-03T17:01:52.782522+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9f6e3a5966d341d02bad2",
+      "seen_at": "2026-11-03T17:01:52.782968+00:00"
+    },
+    {
+      "id": "jobright-fbc13af6a67c",
+      "seen_at": "2026-11-03T17:01:52.783409+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9f6d5a291a1db4de26553",
+      "seen_at": "2026-11-03T17:01:52.783851+00:00"
+    },
+    {
+      "id": "jobright-0d91d4536635",
+      "seen_at": "2026-11-03T17:01:52.784290+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9f19143826864b0fbb802",
+      "seen_at": "2026-11-03T17:01:52.784716+00:00"
+    },
+    {
+      "id": "jobright-e6a7b057dce0",
+      "seen_at": "2026-11-03T17:01:52.785189+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9fb3132411b3e5a2e3474",
+      "seen_at": "2026-11-03T17:01:52.785613+00:00"
+    },
+    {
+      "id": "zapply-d863224125c5",
+      "seen_at": "2026-11-03T17:01:54.777676+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801355",
+      "seen_at": "2026-11-03T17:01:54.778249+00:00"
+    },
+    {
+      "id": "jobright-b69f853a8613",
+      "seen_at": "2026-11-03T17:01:54.778726+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9fe55440b469a1c0a8f1a",
+      "seen_at": "2026-11-03T17:01:54.779172+00:00"
+    },
+    {
+      "id": "jobright-fb9685d11617",
+      "seen_at": "2026-11-03T17:01:54.779576+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae9fc59fc85f3a39432e911",
+      "seen_at": "2026-11-03T17:01:54.779988+00:00"
     }
   ],
-  "last_run": "2026-11-03T16:31:39.810652+00:00",
-  "total_notified": 11366,
+  "last_run": "2026-11-03T17:01:55.061124+00:00",
+  "total_notified": 11375,
   "channels": {
     "pm-jobs": [
       "jobright-b8bd7f65ddc1",
@@ -28283,7 +28355,13 @@
       "zapply-41999b9205bf",
       "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000402638",
       "jobright-6b06e9f1d353",
-      "url:https://jobright.ai/jobs/info/6ae9af9ea291a1db4de24eae"
+      "url:https://jobright.ai/jobs/info/6ae9af9ea291a1db4de24eae",
+      "zapply-d863224125c5",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801355",
+      "jobright-b69f853a8613",
+      "url:https://jobright.ai/jobs/info/6ae9fe55440b469a1c0a8f1a",
+      "jobright-fb9685d11617",
+      "url:https://jobright.ai/jobs/info/6ae9fc59fc85f3a39432e911"
     ],
     "swe-ai-full-time": [
       "jobright-52e5fdee0be6",
@@ -33997,7 +34075,19 @@
       "greenhouse-vercel-6242244004",
       "url:https://job-boards.greenhouse.io/vercel/jobs/6242244004",
       "amazon-10595461",
-      "url:https://www.amazon.jobs/en/jobs/10595461/pmt-ring-software-engineering"
+      "url:https://www.amazon.jobs/en/jobs/10595461/pmt-ring-software-engineering",
+      "greenhouse-gitlab-8922249002",
+      "url:https://job-boards.greenhouse.io/gitlab/jobs/8922249002",
+      "greenhouse-vercel-6242246004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6242246004",
+      "jobright-4f9ec2edc5db",
+      "url:https://jobright.ai/jobs/info/6ae9f6e3a5966d341d02bad2",
+      "jobright-fbc13af6a67c",
+      "url:https://jobright.ai/jobs/info/6ae9f6d5a291a1db4de26553",
+      "jobright-0d91d4536635",
+      "url:https://jobright.ai/jobs/info/6ae9f19143826864b0fbb802",
+      "jobright-e6a7b057dce0",
+      "url:https://jobright.ai/jobs/info/6ae9fb3132411b3e5a2e3474"
     ]
   }
 }
