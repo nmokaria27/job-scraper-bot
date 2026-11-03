@@ -26899,10 +26899,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae91454061d6d7ff3d804d7",
       "seen_at": "2026-11-03T01:01:31.774538+00:00"
+    },
+    {
+      "id": "amazon-10595008",
+      "seen_at": "2026-11-03T01:31:09.097796+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10595008/software-development-engineer-promotions-calculations-lifecycle-pcl",
+      "seen_at": "2026-11-03T01:31:09.098116+00:00"
+    },
+    {
+      "id": "zapply-ca4f0086b906",
+      "seen_at": "2026-11-03T01:31:10.769982+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-rb-frs-R-0000033971",
+      "seen_at": "2026-11-03T01:31:10.770247+00:00"
     }
   ],
-  "last_run": "2026-11-03T01:01:32.945426+00:00",
-  "total_notified": 11324,
+  "last_run": "2026-11-03T01:31:10.976413+00:00",
+  "total_notified": 11326,
   "channels": {
     "pm-jobs": [
       "jobright-cc6da30a2922",
@@ -27993,7 +28009,9 @@
       "lever-waabi-f7fb4fdb-b4df-4fbc-8f56-bdcfbf015c26",
       "url:https://jobs.lever.co/waabi/f7fb4fdb-b4df-4fbc-8f56-bdcfbf015c26",
       "jobright-67145f54eea1",
-      "url:https://jobright.ai/jobs/info/6ae90737a2a252e21942c1a0"
+      "url:https://jobright.ai/jobs/info/6ae90737a2a252e21942c1a0",
+      "zapply-ca4f0086b906",
+      "url:https://zapply.jobs/l/d/workday-rb-frs-R-0000033971"
     ],
     "swe-ai-full-time": [
       "jobright-c57fb374c059",
@@ -33637,7 +33655,9 @@
       "jobright-d8db8ee1bd1a",
       "url:https://jobright.ai/jobs/info/6ae9104cfb2cd420ace6bc71",
       "jobright-6ebebaf71534",
-      "url:https://jobright.ai/jobs/info/6ae91454061d6d7ff3d804d7"
+      "url:https://jobright.ai/jobs/info/6ae91454061d6d7ff3d804d7",
+      "amazon-10595008",
+      "url:https://www.amazon.jobs/en/jobs/10595008/software-development-engineer-promotions-calculations-lifecycle-pcl"
     ]
   }
 }
