@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-c57fb374c059",
-      "seen_at": "2026-10-04T02:01:12.547424+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab8fd5662bb1fbd451e0041",
-      "seen_at": "2026-10-04T02:01:12.548727+00:00"
-    },
-    {
       "id": "jobright-5be4dab75671",
       "seen_at": "2026-10-04T10:01:10.399408+00:00"
     },
@@ -26933,7 +26925,7 @@
       "seen_at": "2026-11-03T02:01:28.984284+00:00"
     }
   ],
-  "last_run": "2026-11-03T02:01:30.213234+00:00",
+  "last_run": "2026-11-03T02:31:28.935030+00:00",
   "total_notified": 11328,
   "channels": {
     "pm-jobs": [
@@ -28030,8 +28022,6 @@
       "url:https://zapply.jobs/l/d/workday-rb-frs-R-0000033971"
     ],
     "swe-ai-full-time": [
-      "jobright-c57fb374c059",
-      "url:https://jobright.ai/jobs/info/6ab8fd5662bb1fbd451e0041",
       "jobright-5be4dab75671",
       "url:https://jobright.ai/jobs/info/6a987e4adef18223c854fb87",
       "workday-nvidia-JR2025935",
