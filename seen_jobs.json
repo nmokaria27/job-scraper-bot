@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-4f2c0d142852",
-      "seen_at": "2026-10-05T15:31:18.204103+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229857",
-      "seen_at": "2026-10-05T15:31:18.205044+00:00"
-    },
-    {
-      "id": "zapply-81edb1907acc",
-      "seen_at": "2026-10-05T15:31:18.205901+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/google-82369041234043590",
-      "seen_at": "2026-10-05T15:31:18.206700+00:00"
-    },
-    {
       "id": "zapply-d32f03b1b5a0",
       "seen_at": "2026-10-05T16:02:21.836843+00:00"
     },
@@ -28055,10 +28039,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aeb27ac765815f7d745cbe0",
       "seen_at": "2026-11-04T15:01:40.245439+00:00"
+    },
+    {
+      "id": "greenhouse-lightmatter-5467063008",
+      "seen_at": "2026-11-04T16:01:21.871151+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/lightmatter/jobs/5467063008",
+      "seen_at": "2026-11-04T16:01:21.871742+00:00"
+    },
+    {
+      "id": "jobright-97d4935f4203",
+      "seen_at": "2026-11-04T16:01:21.872225+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb3b20fbe13dfb53df1e98",
+      "seen_at": "2026-11-04T16:01:21.872732+00:00"
+    },
+    {
+      "id": "amazon-10596540",
+      "seen_at": "2026-11-04T16:01:21.873203+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10596540/software-development-engineer-aws-transform",
+      "seen_at": "2026-11-04T16:01:21.873676+00:00"
+    },
+    {
+      "id": "amazon-10596546",
+      "seen_at": "2026-11-04T16:01:21.874140+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10596546/embedded-software-development-engineer-applied-automation-controls-embedded-software",
+      "seen_at": "2026-11-04T16:01:21.874612+00:00"
     }
   ],
-  "last_run": "2026-11-04T15:31:32.272417+00:00",
-  "total_notified": 11514,
+  "last_run": "2026-11-04T16:01:23.090014+00:00",
+  "total_notified": 11518,
   "channels": {
     "pm-jobs": [
       "jobright-b382eef3fc0a",
@@ -29197,10 +29213,6 @@
       "url:https://jobright.ai/jobs/info/6aeb27ac765815f7d745cbe0"
     ],
     "swe-ai-full-time": [
-      "zapply-4f2c0d142852",
-      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229857",
-      "zapply-81edb1907acc",
-      "url:https://zapply.jobs/l/d/google-82369041234043590",
       "zapply-d32f03b1b5a0",
       "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35479",
       "jobright-17652b69071a",
@@ -35084,7 +35096,15 @@
       "jobright-872db7737b6b",
       "url:https://jobright.ai/jobs/info/6aeafba8fbe13dfb53defa64",
       "jobright-5e191f5da738",
-      "url:https://jobright.ai/jobs/info/6ab1573fd2a93d5a97eb9f9c"
+      "url:https://jobright.ai/jobs/info/6ab1573fd2a93d5a97eb9f9c",
+      "greenhouse-lightmatter-5467063008",
+      "url:https://boards.greenhouse.io/lightmatter/jobs/5467063008",
+      "jobright-97d4935f4203",
+      "url:https://jobright.ai/jobs/info/6aeb3b20fbe13dfb53df1e98",
+      "amazon-10596540",
+      "url:https://www.amazon.jobs/en/jobs/10596540/software-development-engineer-aws-transform",
+      "amazon-10596546",
+      "url:https://www.amazon.jobs/en/jobs/10596546/embedded-software-development-engineer-applied-automation-controls-embedded-software"
     ]
   }
 }
