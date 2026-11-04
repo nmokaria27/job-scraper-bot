@@ -27951,10 +27951,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aea803e4f991d64376ce7e7",
       "seen_at": "2026-11-04T03:01:17.836246+00:00"
+    },
+    {
+      "id": "simplify-b9a6c4af-0de6-42ab-bf01-0698fa0f5bf1",
+      "seen_at": "2026-11-04T03:31:13.051947+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/endeavorai/00a6bb4f-fccb-4948-a2e9-71b736c2b0b4/application",
+      "seen_at": "2026-11-04T03:31:13.052485+00:00"
+    },
+    {
+      "id": "simplify-af214ab6-d98e-4772-be80-9392a55c20fd",
+      "seen_at": "2026-11-04T03:31:13.053011+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1fT",
+      "seen_at": "2026-11-04T03:31:13.053469+00:00"
     }
   ],
-  "last_run": "2026-11-04T03:01:19.022018+00:00",
-  "total_notified": 11484,
+  "last_run": "2026-11-04T03:31:14.240343+00:00",
+  "total_notified": 11486,
   "channels": {
     "pm-jobs": [
       "jobright-b382eef3fc0a",
@@ -34954,7 +34970,11 @@
       "jobright-bb60569416c0",
       "url:https://jobright.ai/jobs/info/6aea836e1ba298c7777736f9",
       "jobright-4122a94b1f72",
-      "url:https://jobright.ai/jobs/info/6aea803e4f991d64376ce7e7"
+      "url:https://jobright.ai/jobs/info/6aea803e4f991d64376ce7e7",
+      "simplify-b9a6c4af-0de6-42ab-bf01-0698fa0f5bf1",
+      "url:https://jobs.ashbyhq.com/endeavorai/00a6bb4f-fccb-4948-a2e9-71b736c2b0b4/application",
+      "simplify-af214ab6-d98e-4772-be80-9392a55c20fd",
+      "url:https://go.vansh.nyc/1fT"
     ]
   }
 }
