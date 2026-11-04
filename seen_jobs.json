@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-salesforce-JR361113",
-      "seen_at": "2026-10-05T13:31:20.586121+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/D360-Forward-Deployed-Engineer_JR361113",
-      "seen_at": "2026-10-05T13:31:20.586916+00:00"
-    },
-    {
       "id": "greenhouse-waymo-8249801",
       "seen_at": "2026-10-05T14:01:24.898507+00:00"
     },
@@ -28097,7 +28089,7 @@
       "seen_at": "2026-11-04T12:01:23.914904+00:00"
     }
   ],
-  "last_run": "2026-11-04T13:31:13.546958+00:00",
+  "last_run": "2026-11-04T14:01:20.163377+00:00",
   "total_notified": 11509,
   "channels": {
     "pm-jobs": [
@@ -29229,8 +29221,6 @@
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210804286"
     ],
     "swe-ai-full-time": [
-      "workday-salesforce-JR361113",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/D360-Forward-Deployed-Engineer_JR361113",
       "greenhouse-waymo-8249801",
       "url:https://careers.withwaymo.com/jobs",
       "zapply-c2d47c482ad7",
