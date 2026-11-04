@@ -27899,10 +27899,26 @@
     {
       "id": "url:https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005",
       "seen_at": "2026-11-04T01:31:09.472950+00:00"
+    },
+    {
+      "id": "jobright-56decf3f019f",
+      "seen_at": "2026-11-04T02:01:26.751317+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea7c6c4f991d64376ce516",
+      "seen_at": "2026-11-04T02:01:26.751965+00:00"
+    },
+    {
+      "id": "jobright-915bdf784212",
+      "seen_at": "2026-11-04T02:01:26.752433+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea3f83913589212b1f4f9e",
+      "seen_at": "2026-11-04T02:01:26.752857+00:00"
     }
   ],
-  "last_run": "2026-11-04T01:31:10.262957+00:00",
-  "total_notified": 11477,
+  "last_run": "2026-11-04T02:01:27.938901+00:00",
+  "total_notified": 11479,
   "channels": {
     "pm-jobs": [
       "greenhouse-coreweave-4718789006",
@@ -34889,7 +34905,11 @@
       "zapply-6777bb52c45d",
       "url:https://zapply.jobs/l/d/amd-96903",
       "applyguy-65b8499e-c905-407a-bdb0-8d92e49fc328",
-      "url:https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005"
+      "url:https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005",
+      "jobright-56decf3f019f",
+      "url:https://jobright.ai/jobs/info/6aea7c6c4f991d64376ce516",
+      "jobright-915bdf784212",
+      "url:https://jobright.ai/jobs/info/6aea3f83913589212b1f4f9e"
     ]
   }
 }
