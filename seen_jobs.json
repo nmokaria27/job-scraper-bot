@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-d888895e02ac",
-      "seen_at": "2026-10-05T22:31:14.657397+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/lever-ifm-us-6ef8a25f-786b-4362-a947-b9c1d2878e2b",
-      "seen_at": "2026-10-05T22:31:14.658181+00:00"
-    },
-    {
-      "id": "zapply-83b82fc95665",
-      "seen_at": "2026-10-05T22:31:14.658871+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-physicalintelligence-6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe",
-      "seen_at": "2026-10-05T22:31:14.659464+00:00"
-    },
-    {
-      "id": "zapply-a00ab4226359",
-      "seen_at": "2026-10-05T22:31:14.660075+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19731",
-      "seen_at": "2026-10-05T22:31:14.660687+00:00"
-    },
-    {
-      "id": "zapply-6e9b72ddb9ae",
-      "seen_at": "2026-10-05T22:31:16.664654+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261186",
-      "seen_at": "2026-10-05T22:31:16.665394+00:00"
-    },
-    {
       "id": "ashby-openai-e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
       "seen_at": "2026-10-05T23:01:15.259772+00:00"
     },
@@ -27823,14 +27791,52 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-rb-frs-R-0000033991",
       "seen_at": "2026-11-04T22:31:14.964936+00:00"
+    },
+    {
+      "id": "amazon-10597211",
+      "seen_at": "2026-11-04T23:01:24.499268+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10597211/software-dev-engineer-antenna-calibration-amazon-leo",
+      "seen_at": "2026-11-04T23:01:24.499622+00:00"
+    },
+    {
+      "id": "amazon-10597214",
+      "seen_at": "2026-11-04T23:01:24.499926+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10597214/applied-scientist-fauna-robotics",
+      "seen_at": "2026-11-04T23:01:24.500188+00:00"
+    },
+    {
+      "id": "jobright-5a9a56507005",
+      "seen_at": "2026-11-04T23:01:24.500447+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeba035fbe13dfb53df5f59",
+      "seen_at": "2026-11-04T23:01:24.500711+00:00"
+    },
+    {
+      "id": "jobright-982426f862d9",
+      "seen_at": "2026-11-04T23:01:26.033501+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb9df182f0ac077443b957",
+      "seen_at": "2026-11-04T23:01:26.033830+00:00"
+    },
+    {
+      "id": "jobright-1519b0452e4d",
+      "seen_at": "2026-11-04T23:01:26.034100+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb9718f40efa43f4a18de4",
+      "seen_at": "2026-11-04T23:01:26.034342+00:00"
     }
   ],
-  "last_run": "2026-11-04T22:31:15.205557+00:00",
-  "total_notified": 11567,
+  "last_run": "2026-11-04T23:01:26.321877+00:00",
+  "total_notified": 11572,
   "channels": {
     "pm-jobs": [
-      "zapply-6e9b72ddb9ae",
-      "url:https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261186",
       "jobright-8828dda1d39a",
       "url:https://jobright.ai/jobs/info/6ac40be1064da25272e10e4e",
       "jobright-5b57e2e69558",
@@ -28950,15 +28956,13 @@
       "zapply-742954d01550",
       "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000159723669",
       "zapply-e528e4e60951",
-      "url:https://zapply.jobs/l/d/workday-rb-frs-R-0000033991"
+      "url:https://zapply.jobs/l/d/workday-rb-frs-R-0000033991",
+      "jobright-982426f862d9",
+      "url:https://jobright.ai/jobs/info/6aeb9df182f0ac077443b957",
+      "jobright-1519b0452e4d",
+      "url:https://jobright.ai/jobs/info/6aeb9718f40efa43f4a18de4"
     ],
     "swe-ai-full-time": [
-      "zapply-d888895e02ac",
-      "url:https://zapply.jobs/l/d/lever-ifm-us-6ef8a25f-786b-4362-a947-b9c1d2878e2b",
-      "zapply-83b82fc95665",
-      "url:https://zapply.jobs/l/d/ashby-physicalintelligence-6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe",
-      "zapply-a00ab4226359",
-      "url:https://zapply.jobs/l/d/workday-zoom-zoom-R19731",
       "ashby-openai-e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
       "url:https://jobs.ashbyhq.com/openai/e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
       "simplify-22376e19-d7d9-4048-b3ee-200ec514ad4f",
@@ -34794,7 +34798,13 @@
       "ashby-reflectionai-dea72756-5e23-4a04-813f-5af718605edb",
       "url:https://jobs.ashbyhq.com/reflectionai/dea72756-5e23-4a04-813f-5af718605edb",
       "ashby-reflectionai-8b97b583-3cc6-4834-ae2c-d5aecf22ed7d",
-      "url:https://jobs.ashbyhq.com/reflectionai/8b97b583-3cc6-4834-ae2c-d5aecf22ed7d"
+      "url:https://jobs.ashbyhq.com/reflectionai/8b97b583-3cc6-4834-ae2c-d5aecf22ed7d",
+      "amazon-10597211",
+      "url:https://www.amazon.jobs/en/jobs/10597211/software-dev-engineer-antenna-calibration-amazon-leo",
+      "amazon-10597214",
+      "url:https://www.amazon.jobs/en/jobs/10597214/applied-scientist-fauna-robotics",
+      "jobright-5a9a56507005",
+      "url:https://jobright.ai/jobs/info/6aeba035fbe13dfb53df5f59"
     ]
   }
 }
