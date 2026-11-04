@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-d32f03b1b5a0",
-      "seen_at": "2026-10-05T16:02:21.836843+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35479",
-      "seen_at": "2026-10-05T16:02:21.837601+00:00"
-    },
-    {
-      "id": "jobright-17652b69071a",
-      "seen_at": "2026-10-05T16:02:21.838244+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac3ac00372c01f6cd73176d",
-      "seen_at": "2026-10-05T16:02:21.838819+00:00"
-    },
-    {
-      "id": "zapply-c941cc309b33",
-      "seen_at": "2026-10-05T16:02:21.839414+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/google-137322632390288070",
-      "seen_at": "2026-10-05T16:02:21.840041+00:00"
-    },
-    {
-      "id": "jobright-b382eef3fc0a",
-      "seen_at": "2026-10-05T16:02:23.261041+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac01eaf8ff3fb9b3bc7ad59",
-      "seen_at": "2026-10-05T16:02:23.261897+00:00"
-    },
-    {
       "id": "zapply-f6a11b3cf179",
       "seen_at": "2026-10-05T16:31:21.724677+00:00"
     },
@@ -28071,14 +28039,28 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10596546/embedded-software-development-engineer-applied-automation-controls-embedded-software",
       "seen_at": "2026-11-04T16:01:21.874612+00:00"
+    },
+    {
+      "id": "gradtracker-81d055b70a45",
+      "seen_at": "2026-11-04T16:31:35.500079+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10595864/software-development-engineer-bottlerocket",
+      "seen_at": "2026-11-04T16:31:35.500517+00:00"
+    },
+    {
+      "id": "workday-capitalone-R1005013",
+      "seen_at": "2026-11-04T16:31:37.266671+00:00"
+    },
+    {
+      "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager--Consumer-and-Developer-Experience_R1005013-1",
+      "seen_at": "2026-11-04T16:31:37.267073+00:00"
     }
   ],
-  "last_run": "2026-11-04T16:01:23.090014+00:00",
-  "total_notified": 11518,
+  "last_run": "2026-11-04T16:31:37.808789+00:00",
+  "total_notified": 11520,
   "channels": {
     "pm-jobs": [
-      "jobright-b382eef3fc0a",
-      "url:https://jobright.ai/jobs/info/6ac01eaf8ff3fb9b3bc7ad59",
       "zapply-6d5b70b8193b",
       "url:https://zapply.jobs/l/d/workday-broadridge-careers-JR1084343",
       "zapply-6fa20908f5ae",
@@ -29210,15 +29192,11 @@
       "jobright-3d59ed1825f5",
       "url:https://jobright.ai/jobs/info/6aeb2ebf82f0ac0774437691",
       "jobright-a0d21df7db1c",
-      "url:https://jobright.ai/jobs/info/6aeb27ac765815f7d745cbe0"
+      "url:https://jobright.ai/jobs/info/6aeb27ac765815f7d745cbe0",
+      "workday-capitalone-R1005013",
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager--Consumer-and-Developer-Experience_R1005013-1"
     ],
     "swe-ai-full-time": [
-      "zapply-d32f03b1b5a0",
-      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35479",
-      "jobright-17652b69071a",
-      "url:https://jobright.ai/jobs/info/6ac3ac00372c01f6cd73176d",
-      "zapply-c941cc309b33",
-      "url:https://zapply.jobs/l/d/google-137322632390288070",
       "zapply-f6a11b3cf179",
       "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R172095",
       "jobright-f5ddc2fc28ac",
@@ -35104,7 +35082,9 @@
       "amazon-10596540",
       "url:https://www.amazon.jobs/en/jobs/10596540/software-development-engineer-aws-transform",
       "amazon-10596546",
-      "url:https://www.amazon.jobs/en/jobs/10596546/embedded-software-development-engineer-applied-automation-controls-embedded-software"
+      "url:https://www.amazon.jobs/en/jobs/10596546/embedded-software-development-engineer-applied-automation-controls-embedded-software",
+      "gradtracker-81d055b70a45",
+      "url:https://www.amazon.jobs/en/jobs/10595864/software-development-engineer-bottlerocket"
     ]
   }
 }
