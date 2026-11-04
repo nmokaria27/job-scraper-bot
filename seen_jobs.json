@@ -27763,10 +27763,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aea5b61fc85f3a394332f72",
       "seen_at": "2026-11-04T00:01:25.422578+00:00"
+    },
+    {
+      "id": "ashby-render-a22230e6-803d-4e2e-82f8-ff5f500cdc3d",
+      "seen_at": "2026-11-04T00:31:11.530231+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/render/a22230e6-803d-4e2e-82f8-ff5f500cdc3d",
+      "seen_at": "2026-11-04T00:31:11.530825+00:00"
+    },
+    {
+      "id": "simplify-0cec02b3-ff62-4d80-a261-00b08bf13994",
+      "seen_at": "2026-11-04T00:31:11.531290+00:00"
+    },
+    {
+      "id": "url:https://jobs.bytedance.com/en/position/7704089625815468293/detail",
+      "seen_at": "2026-11-04T00:31:11.531720+00:00"
+    },
+    {
+      "id": "simplify-c9942f0a-e3da-4b00-9ee2-be611a85daca",
+      "seen_at": "2026-11-04T00:31:11.532152+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/LinkedIn3/744000159509679",
+      "seen_at": "2026-11-04T00:31:11.532565+00:00"
     }
   ],
-  "last_run": "2026-11-04T00:01:26.457460+00:00",
-  "total_notified": 11460,
+  "last_run": "2026-11-04T00:31:12.546954+00:00",
+  "total_notified": 11463,
   "channels": {
     "pm-jobs": [
       "greenhouse-coreweave-4718789006",
@@ -34719,7 +34743,13 @@
       "simplify-3d313e4e-23ab-44e1-9e1e-ef320a0028f9",
       "url:https://go.vansh.nyc/1fJ",
       "jobright-8c11057e654a",
-      "url:https://jobright.ai/jobs/info/6aea5b61fc85f3a394332f72"
+      "url:https://jobright.ai/jobs/info/6aea5b61fc85f3a394332f72",
+      "ashby-render-a22230e6-803d-4e2e-82f8-ff5f500cdc3d",
+      "url:https://jobs.ashbyhq.com/render/a22230e6-803d-4e2e-82f8-ff5f500cdc3d",
+      "simplify-0cec02b3-ff62-4d80-a261-00b08bf13994",
+      "url:https://jobs.bytedance.com/en/position/7704089625815468293/detail",
+      "simplify-c9942f0a-e3da-4b00-9ee2-be611a85daca",
+      "url:https://jobs.smartrecruiters.com/LinkedIn3/744000159509679"
     ]
   }
 }
