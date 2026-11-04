@@ -27787,10 +27787,98 @@
     {
       "id": "url:https://jobs.smartrecruiters.com/LinkedIn3/744000159509679",
       "seen_at": "2026-11-04T00:31:11.532565+00:00"
+    },
+    {
+      "id": "simplify-a5cf27fe-80ca-49c4-9a38-0471c67712ba",
+      "seen_at": "2026-11-04T01:01:20.267912+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1fQ",
+      "seen_at": "2026-11-04T01:01:20.268394+00:00"
+    },
+    {
+      "id": "jobright-543af3f9eefa",
+      "seen_at": "2026-11-04T01:01:20.268877+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7d21367bec1d0d9c795c9",
+      "seen_at": "2026-11-04T01:01:20.269318+00:00"
+    },
+    {
+      "id": "jobright-c0f253e90bc6",
+      "seen_at": "2026-11-04T01:01:20.269802+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad7d20867bec1d0d9c795bf",
+      "seen_at": "2026-11-04T01:01:20.270252+00:00"
+    },
+    {
+      "id": "jobright-8ada5c1242f2",
+      "seen_at": "2026-11-04T01:01:20.270720+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea6206fc85f3a3943333a5",
+      "seen_at": "2026-11-04T01:01:20.271157+00:00"
+    },
+    {
+      "id": "jobright-3376aefa2546",
+      "seen_at": "2026-11-04T01:01:20.271631+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea61ca1ba298c777772574",
+      "seen_at": "2026-11-04T01:01:20.272065+00:00"
+    },
+    {
+      "id": "jobright-f86fdfa3369a",
+      "seen_at": "2026-11-04T01:01:20.272522+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea61c7440b469a1c0ad7dc",
+      "seen_at": "2026-11-04T01:01:20.272966+00:00"
+    },
+    {
+      "id": "gradtracker-dd484a7a9a7f",
+      "seen_at": "2026-11-04T01:01:20.273408+00:00"
+    },
+    {
+      "id": "url:https://paypal.eightfold.ai/careers/job/274922421821",
+      "seen_at": "2026-11-04T01:01:20.273860+00:00"
+    },
+    {
+      "id": "gradtracker-4ba6a71868fe",
+      "seen_at": "2026-11-04T01:01:20.274293+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446721948679",
+      "seen_at": "2026-11-04T01:01:20.274727+00:00"
+    },
+    {
+      "id": "gradtracker-d82c85f9ab06",
+      "seen_at": "2026-11-04T01:01:20.275158+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000159509479",
+      "seen_at": "2026-11-04T01:01:20.275592+00:00"
+    },
+    {
+      "id": "zapply-053360737a33",
+      "seen_at": "2026-11-04T01:01:20.276024+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/bytedance-7704089625815468293",
+      "seen_at": "2026-11-04T01:01:20.276455+00:00"
+    },
+    {
+      "id": "jobright-88ecc95c293e",
+      "seen_at": "2026-11-04T01:01:22.322139+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea37f0913589212b1f4acf",
+      "seen_at": "2026-11-04T01:01:22.322601+00:00"
     }
   ],
-  "last_run": "2026-11-04T00:31:12.546954+00:00",
-  "total_notified": 11463,
+  "last_run": "2026-11-04T01:01:22.658914+00:00",
+  "total_notified": 11474,
   "channels": {
     "pm-jobs": [
       "greenhouse-coreweave-4718789006",
@@ -28915,7 +29003,9 @@
       "ashby-applied-f9926b5d-475a-42cc-bd6e-f39bae5d26a8",
       "url:https://jobs.ashbyhq.com/applied/f9926b5d-475a-42cc-bd6e-f39bae5d26a8",
       "simplify-b1b0194a-88c7-43f5-a69c-3ec0133181a7",
-      "url:https://blackhawknetwork.jibeapply.com/jobs/27263"
+      "url:https://blackhawknetwork.jibeapply.com/jobs/27263",
+      "jobright-88ecc95c293e",
+      "url:https://jobright.ai/jobs/info/6aea37f0913589212b1f4acf"
     ],
     "swe-ai-full-time": [
       "zapply-9f417f71a365",
@@ -34749,7 +34839,27 @@
       "simplify-0cec02b3-ff62-4d80-a261-00b08bf13994",
       "url:https://jobs.bytedance.com/en/position/7704089625815468293/detail",
       "simplify-c9942f0a-e3da-4b00-9ee2-be611a85daca",
-      "url:https://jobs.smartrecruiters.com/LinkedIn3/744000159509679"
+      "url:https://jobs.smartrecruiters.com/LinkedIn3/744000159509679",
+      "simplify-a5cf27fe-80ca-49c4-9a38-0471c67712ba",
+      "url:https://go.vansh.nyc/1fQ",
+      "jobright-543af3f9eefa",
+      "url:https://jobright.ai/jobs/info/6ad7d21367bec1d0d9c795c9",
+      "jobright-c0f253e90bc6",
+      "url:https://jobright.ai/jobs/info/6ad7d20867bec1d0d9c795bf",
+      "jobright-8ada5c1242f2",
+      "url:https://jobright.ai/jobs/info/6aea6206fc85f3a3943333a5",
+      "jobright-3376aefa2546",
+      "url:https://jobright.ai/jobs/info/6aea61ca1ba298c777772574",
+      "jobright-f86fdfa3369a",
+      "url:https://jobright.ai/jobs/info/6aea61c7440b469a1c0ad7dc",
+      "gradtracker-dd484a7a9a7f",
+      "url:https://paypal.eightfold.ai/careers/job/274922421821",
+      "gradtracker-4ba6a71868fe",
+      "url:https://careers.qualcomm.com/careers/job/446721948679",
+      "gradtracker-d82c85f9ab06",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000159509479",
+      "zapply-053360737a33",
+      "url:https://zapply.jobs/l/d/bytedance-7704089625815468293"
     ]
   }
 }
