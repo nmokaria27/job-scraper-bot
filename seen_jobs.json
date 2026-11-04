@@ -27731,10 +27731,42 @@
     {
       "id": "url:https://blackhawknetwork.jibeapply.com/jobs/27263",
       "seen_at": "2026-11-03T23:39:18.708947+00:00"
+    },
+    {
+      "id": "simplify-ce683986-a9b6-4a10-9626-0d617282a20e",
+      "seen_at": "2026-11-04T00:01:25.419148+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1fH",
+      "seen_at": "2026-11-04T00:01:25.419728+00:00"
+    },
+    {
+      "id": "simplify-a723def0-2c80-4b17-b37a-96f2e25a438d",
+      "seen_at": "2026-11-04T00:01:25.420215+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1fI",
+      "seen_at": "2026-11-04T00:01:25.420690+00:00"
+    },
+    {
+      "id": "simplify-3d313e4e-23ab-44e1-9e1e-ef320a0028f9",
+      "seen_at": "2026-11-04T00:01:25.421157+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1fJ",
+      "seen_at": "2026-11-04T00:01:25.421611+00:00"
+    },
+    {
+      "id": "jobright-8c11057e654a",
+      "seen_at": "2026-11-04T00:01:25.422113+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea5b61fc85f3a394332f72",
+      "seen_at": "2026-11-04T00:01:25.422578+00:00"
     }
   ],
-  "last_run": "2026-11-03T23:39:19.133039+00:00",
-  "total_notified": 11456,
+  "last_run": "2026-11-04T00:01:26.457460+00:00",
+  "total_notified": 11460,
   "channels": {
     "pm-jobs": [
       "greenhouse-coreweave-4718789006",
@@ -34679,7 +34711,15 @@
       "simplify-35b0df10-483b-41f5-916e-ae22b1d1cdd6",
       "url:https://job-boards.greenhouse.io/rocketlab/jobs/8182050003",
       "simplify-74c3232a-e951-409c-8610-a4da9c34320f",
-      "url:https://jobs.ashbyhq.com/plsn/fc551b74-07b0-4dfe-b830-d4c437995100/application"
+      "url:https://jobs.ashbyhq.com/plsn/fc551b74-07b0-4dfe-b830-d4c437995100/application",
+      "simplify-ce683986-a9b6-4a10-9626-0d617282a20e",
+      "url:https://go.vansh.nyc/1fH",
+      "simplify-a723def0-2c80-4b17-b37a-96f2e25a438d",
+      "url:https://go.vansh.nyc/1fI",
+      "simplify-3d313e4e-23ab-44e1-9e1e-ef320a0028f9",
+      "url:https://go.vansh.nyc/1fJ",
+      "jobright-8c11057e654a",
+      "url:https://jobright.ai/jobs/info/6aea5b61fc85f3a394332f72"
     ]
   }
 }
