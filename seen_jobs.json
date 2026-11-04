@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-f6a11b3cf179",
-      "seen_at": "2026-10-05T16:31:21.724677+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R172095",
-      "seen_at": "2026-10-05T16:31:21.725225+00:00"
-    },
-    {
-      "id": "jobright-f5ddc2fc28ac",
-      "seen_at": "2026-10-05T16:31:21.725698+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a52e53a8ef95364ead904ac",
-      "seen_at": "2026-10-05T16:31:21.726149+00:00"
-    },
-    {
-      "id": "zapply-6d5b70b8193b",
-      "seen_at": "2026-10-05T16:31:23.166712+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-broadridge-careers-JR1084343",
-      "seen_at": "2026-10-05T16:31:23.167220+00:00"
-    },
-    {
-      "id": "zapply-6fa20908f5ae",
-      "seen_at": "2026-10-05T16:31:23.167644+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-ramp-3f4509ad-1858-478b-a7fb-bcd792d9575a",
-      "seen_at": "2026-10-05T16:31:23.168033+00:00"
-    },
-    {
-      "id": "ashby-ramp-3f4509ad-1858-478b-a7fb-bcd792d9575a",
-      "seen_at": "2026-10-05T16:31:23.168409+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a",
-      "seen_at": "2026-10-05T16:31:23.168749+00:00"
-    },
-    {
       "id": "greenhouse-samsara-8141959",
       "seen_at": "2026-10-05T17:01:46.649443+00:00"
     },
@@ -28055,18 +28015,28 @@
     {
       "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager--Consumer-and-Developer-Experience_R1005013-1",
       "seen_at": "2026-11-04T16:31:37.267073+00:00"
+    },
+    {
+      "id": "jobright-841b7332d4d0",
+      "seen_at": "2026-11-04T17:01:32.681425+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb48b7f40efa43f4a15a70",
+      "seen_at": "2026-11-04T17:01:32.682001+00:00"
+    },
+    {
+      "id": "jobright-a23622e9aa8b",
+      "seen_at": "2026-11-04T17:01:32.682519+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb437ff40efa43f4a15805",
+      "seen_at": "2026-11-04T17:01:32.682998+00:00"
     }
   ],
-  "last_run": "2026-11-04T16:31:37.808789+00:00",
-  "total_notified": 11520,
+  "last_run": "2026-11-04T17:01:33.978105+00:00",
+  "total_notified": 11522,
   "channels": {
     "pm-jobs": [
-      "zapply-6d5b70b8193b",
-      "url:https://zapply.jobs/l/d/workday-broadridge-careers-JR1084343",
-      "zapply-6fa20908f5ae",
-      "url:https://zapply.jobs/l/d/ashby-ramp-3f4509ad-1858-478b-a7fb-bcd792d9575a",
-      "ashby-ramp-3f4509ad-1858-478b-a7fb-bcd792d9575a",
-      "url:https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a",
       "ashby-substack-fb45e47d-34ef-43c3-a49f-f0223d943161",
       "url:https://jobs.ashbyhq.com/substack/fb45e47d-34ef-43c3-a49f-f0223d943161",
       "zapply-d69539c35aff",
@@ -29197,10 +29167,6 @@
       "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager--Consumer-and-Developer-Experience_R1005013-1"
     ],
     "swe-ai-full-time": [
-      "zapply-f6a11b3cf179",
-      "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R172095",
-      "jobright-f5ddc2fc28ac",
-      "url:https://jobright.ai/jobs/info/6a52e53a8ef95364ead904ac",
       "greenhouse-samsara-8141959",
       "url:https://www.samsara.com/company/careers/roles/8141959",
       "jobright-d4a4653d881a",
@@ -35084,7 +35050,11 @@
       "amazon-10596546",
       "url:https://www.amazon.jobs/en/jobs/10596546/embedded-software-development-engineer-applied-automation-controls-embedded-software",
       "gradtracker-81d055b70a45",
-      "url:https://www.amazon.jobs/en/jobs/10595864/software-development-engineer-bottlerocket"
+      "url:https://www.amazon.jobs/en/jobs/10595864/software-development-engineer-bottlerocket",
+      "jobright-841b7332d4d0",
+      "url:https://jobright.ai/jobs/info/6aeb48b7f40efa43f4a15a70",
+      "jobright-a23622e9aa8b",
+      "url:https://jobright.ai/jobs/info/6aeb437ff40efa43f4a15805"
     ]
   }
 }
