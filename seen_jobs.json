@@ -27959,10 +27959,106 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aeb765965311d97105b8d3e",
       "seen_at": "2026-11-04T20:01:21.908744+00:00"
+    },
+    {
+      "id": "jobright-ac46da8b52b3",
+      "seen_at": "2026-11-04T21:01:53.847830+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb8b6cfbe13dfb53df517a",
+      "seen_at": "2026-11-04T21:01:53.848366+00:00"
+    },
+    {
+      "id": "jobright-2e5ca6eb2dd3",
+      "seen_at": "2026-11-04T21:01:53.848876+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb873c82f0ac077443aab7",
+      "seen_at": "2026-11-04T21:01:53.849302+00:00"
+    },
+    {
+      "id": "jobright-7f031cb440e8",
+      "seen_at": "2026-11-04T21:01:53.849739+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb7fdca0b134121d99b615",
+      "seen_at": "2026-11-04T21:01:53.850152+00:00"
+    },
+    {
+      "id": "jobright-dc825a7a9503",
+      "seen_at": "2026-11-04T21:01:53.850592+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb7bdf82f0ac077443a3eb",
+      "seen_at": "2026-11-04T21:01:53.851035+00:00"
+    },
+    {
+      "id": "jobright-5407ca17fd87",
+      "seen_at": "2026-11-04T21:01:53.851533+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb78d665311d97105b8f29",
+      "seen_at": "2026-11-04T21:01:53.851992+00:00"
+    },
+    {
+      "id": "jobright-22b007f07317",
+      "seen_at": "2026-11-04T21:01:53.852437+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb76f0f40efa43f4a17a0d",
+      "seen_at": "2026-11-04T21:01:53.852845+00:00"
+    },
+    {
+      "id": "applyguy-49527dd4-7b69-4be4-9cb8-05c7f33e7a16",
+      "seen_at": "2026-11-04T21:01:53.853264+00:00"
+    },
+    {
+      "id": "url:https://careers.empowerpharmacy.com/jobs",
+      "seen_at": "2026-11-04T21:01:53.853675+00:00"
+    },
+    {
+      "id": "gradtracker-9c8ed1019b54",
+      "seen_at": "2026-11-04T21:01:53.854079+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10596657/software-development-engineer-ads-analytics-insights-fixed",
+      "seen_at": "2026-11-04T21:01:53.854510+00:00"
+    },
+    {
+      "id": "amazon-10594986",
+      "seen_at": "2026-11-04T21:01:53.854949+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10594986/software-development-engineer-amazon-msk-managed-streaming-for-kafka",
+      "seen_at": "2026-11-04T21:01:53.855379+00:00"
+    },
+    {
+      "id": "jobright-7a5e707ba9cf",
+      "seen_at": "2026-11-04T21:01:53.855829+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb77c165311d97105b8e37",
+      "seen_at": "2026-11-04T21:01:53.856268+00:00"
+    },
+    {
+      "id": "zapply-6c39a3c85716",
+      "seen_at": "2026-11-04T21:01:56.143148+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000159723360",
+      "seen_at": "2026-11-04T21:01:56.143640+00:00"
+    },
+    {
+      "id": "zapply-742954d01550",
+      "seen_at": "2026-11-04T21:01:56.144037+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000159723669",
+      "seen_at": "2026-11-04T21:01:56.144435+00:00"
     }
   ],
-  "last_run": "2026-11-04T20:31:13.398513+00:00",
-  "total_notified": 11547,
+  "last_run": "2026-11-04T21:01:56.448803+00:00",
+  "total_notified": 11559,
   "channels": {
     "pm-jobs": [
       "zapply-d6f4f88c7f66",
@@ -29088,7 +29184,11 @@
       "jobright-67d2c44b8e99",
       "url:https://jobright.ai/jobs/info/6aeb6044a0b134121d999f1b",
       "jobright-c71bbbc6b2d3",
-      "url:https://jobright.ai/jobs/info/6aeb765965311d97105b8d3e"
+      "url:https://jobright.ai/jobs/info/6aeb765965311d97105b8d3e",
+      "zapply-6c39a3c85716",
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000159723360",
+      "zapply-742954d01550",
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000159723669"
     ],
     "swe-ai-full-time": [
       "zapply-a241ace5a963",
@@ -34964,7 +35064,27 @@
       "jobright-a4aa50fcf9b3",
       "url:https://jobright.ai/jobs/info/6ab1ddeb23005eee3545cd2d",
       "jobright-cb219885c893",
-      "url:https://jobright.ai/jobs/info/6aea37f9440b469a1c0abcd9"
+      "url:https://jobright.ai/jobs/info/6aea37f9440b469a1c0abcd9",
+      "jobright-ac46da8b52b3",
+      "url:https://jobright.ai/jobs/info/6aeb8b6cfbe13dfb53df517a",
+      "jobright-2e5ca6eb2dd3",
+      "url:https://jobright.ai/jobs/info/6aeb873c82f0ac077443aab7",
+      "jobright-7f031cb440e8",
+      "url:https://jobright.ai/jobs/info/6aeb7fdca0b134121d99b615",
+      "jobright-dc825a7a9503",
+      "url:https://jobright.ai/jobs/info/6aeb7bdf82f0ac077443a3eb",
+      "jobright-5407ca17fd87",
+      "url:https://jobright.ai/jobs/info/6aeb78d665311d97105b8f29",
+      "jobright-22b007f07317",
+      "url:https://jobright.ai/jobs/info/6aeb76f0f40efa43f4a17a0d",
+      "applyguy-49527dd4-7b69-4be4-9cb8-05c7f33e7a16",
+      "url:https://careers.empowerpharmacy.com/jobs",
+      "gradtracker-9c8ed1019b54",
+      "url:https://www.amazon.jobs/en/jobs/10596657/software-development-engineer-ads-analytics-insights-fixed",
+      "amazon-10594986",
+      "url:https://www.amazon.jobs/en/jobs/10594986/software-development-engineer-amazon-msk-managed-streaming-for-kafka",
+      "jobright-7a5e707ba9cf",
+      "url:https://jobright.ai/jobs/info/6aeb77c165311d97105b8e37"
     ]
   }
 }
