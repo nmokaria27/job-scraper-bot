@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-9f417f71a365",
-      "seen_at": "2026-10-05T10:01:17.787259+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229587",
-      "seen_at": "2026-10-05T10:01:17.788025+00:00"
-    },
-    {
-      "id": "jobright-43e03c200efb",
-      "seen_at": "2026-10-05T10:01:17.788671+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac314758ff3fb9b3bc809bf",
-      "seen_at": "2026-10-05T10:01:17.789309+00:00"
-    },
-    {
-      "id": "jobright-9dffff17ed91",
-      "seen_at": "2026-10-05T10:01:17.789932+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac307e2064da25272e0db8d",
-      "seen_at": "2026-10-05T10:01:17.790523+00:00"
-    },
-    {
-      "id": "jobright-7190f638a883",
-      "seen_at": "2026-10-05T10:01:17.791153+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac3360e4ac55253f5d6db3a",
-      "seen_at": "2026-10-05T10:01:17.791744+00:00"
-    },
-    {
       "id": "zapply-bae91c2de8e8",
       "seen_at": "2026-10-05T11:01:24.063880+00:00"
     },
@@ -27975,10 +27943,162 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210804286",
       "seen_at": "2026-11-04T04:31:09.485478+00:00"
+    },
+    {
+      "id": "simplify-7c16f1bd-bd39-4a42-a12c-2e49647c85cd",
+      "seen_at": "2026-11-04T11:01:30.826369+00:00"
+    },
+    {
+      "id": "url:https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c",
+      "seen_at": "2026-11-04T11:01:30.826785+00:00"
+    },
+    {
+      "id": "simplify-565009b6-1cb6-4fd4-89c7-b3e817341748",
+      "seen_at": "2026-11-04T11:01:30.827138+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1g7",
+      "seen_at": "2026-11-04T11:01:30.827474+00:00"
+    },
+    {
+      "id": "simplify-2188ec4a-987f-4736-b3c9-2173a826ad74",
+      "seen_at": "2026-11-04T11:01:30.827788+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0/application",
+      "seen_at": "2026-11-04T11:01:30.828095+00:00"
+    },
+    {
+      "id": "simplify-a90f832f-b186-4c8c-91af-64379b708721",
+      "seen_at": "2026-11-04T11:01:30.828410+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1g9",
+      "seen_at": "2026-11-04T11:01:30.828705+00:00"
+    },
+    {
+      "id": "jobright-043134a83450",
+      "seen_at": "2026-11-04T11:01:30.829009+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeab18d913589212b1f8803",
+      "seen_at": "2026-11-04T11:01:30.829324+00:00"
+    },
+    {
+      "id": "jobright-1aab15a9654d",
+      "seen_at": "2026-11-04T11:01:30.829641+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aead326440b469a1c0b02fa",
+      "seen_at": "2026-11-04T11:01:30.829939+00:00"
+    },
+    {
+      "id": "jobright-c31193302cdf",
+      "seen_at": "2026-11-04T11:01:30.830257+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aead326d22d4c08ec60628c",
+      "seen_at": "2026-11-04T11:01:30.830589+00:00"
+    },
+    {
+      "id": "jobright-d2f4ee455d51",
+      "seen_at": "2026-11-04T11:01:30.830911+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aead31a897466e69e32122c",
+      "seen_at": "2026-11-04T11:01:30.831207+00:00"
+    },
+    {
+      "id": "jobright-3007308a7356",
+      "seen_at": "2026-11-04T11:01:30.831523+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aead3131ba298c777774fc1",
+      "seen_at": "2026-11-04T11:01:30.831829+00:00"
+    },
+    {
+      "id": "jobright-7b02d886bfe7",
+      "seen_at": "2026-11-04T11:01:30.832137+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aead30dfc85f3a394335d37",
+      "seen_at": "2026-11-04T11:01:30.832440+00:00"
+    },
+    {
+      "id": "jobright-d237f57add0b",
+      "seen_at": "2026-11-04T11:01:30.832742+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aead30d897466e69e32122a",
+      "seen_at": "2026-11-04T11:01:30.833048+00:00"
+    },
+    {
+      "id": "jobright-59e0dad83b0b",
+      "seen_at": "2026-11-04T11:01:30.833361+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aead308d22d4c08ec606288",
+      "seen_at": "2026-11-04T11:01:30.833655+00:00"
+    },
+    {
+      "id": "jobright-31efe7cdb902",
+      "seen_at": "2026-11-04T11:01:30.833956+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aead308d22d4c08ec606289",
+      "seen_at": "2026-11-04T11:01:30.834248+00:00"
+    },
+    {
+      "id": "jobright-50debb839d3d",
+      "seen_at": "2026-11-04T11:01:30.834566+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aead2c0913589212b1f8ff4",
+      "seen_at": "2026-11-04T11:01:30.834886+00:00"
+    },
+    {
+      "id": "jobright-b88369c27eeb",
+      "seen_at": "2026-11-04T11:01:30.835199+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aea8008913589212b1f7543",
+      "seen_at": "2026-11-04T11:01:30.835500+00:00"
+    },
+    {
+      "id": "jobright-471ef49b930e",
+      "seen_at": "2026-11-04T11:01:30.835802+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeaca5efc85f3a394335b0e",
+      "seen_at": "2026-11-04T11:01:30.836095+00:00"
+    },
+    {
+      "id": "jobright-20964bd4cfe5",
+      "seen_at": "2026-11-04T11:01:30.836405+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeac923fc85f3a394335ae6",
+      "seen_at": "2026-11-04T11:01:30.836697+00:00"
+    },
+    {
+      "id": "jobright-1bf22b543a18",
+      "seen_at": "2026-11-04T11:01:30.837001+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeac60efc85f3a394335a4a",
+      "seen_at": "2026-11-04T11:01:30.837301+00:00"
+    },
+    {
+      "id": "jobright-3c8498ec7c71",
+      "seen_at": "2026-11-04T11:01:30.837601+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeac5eefc85f3a394335a2b",
+      "seen_at": "2026-11-04T11:01:30.837894+00:00"
     }
   ],
-  "last_run": "2026-11-04T04:31:09.797990+00:00",
-  "total_notified": 11487,
+  "last_run": "2026-11-04T11:01:31.681828+00:00",
+  "total_notified": 11506,
   "channels": {
     "pm-jobs": [
       "jobright-b382eef3fc0a",
@@ -29109,14 +29229,6 @@
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210804286"
     ],
     "swe-ai-full-time": [
-      "zapply-9f417f71a365",
-      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229587",
-      "jobright-43e03c200efb",
-      "url:https://jobright.ai/jobs/info/6ac314758ff3fb9b3bc809bf",
-      "jobright-9dffff17ed91",
-      "url:https://jobright.ai/jobs/info/6ac307e2064da25272e0db8d",
-      "jobright-7190f638a883",
-      "url:https://jobright.ai/jobs/info/6ac3360e4ac55253f5d6db3a",
       "zapply-bae91c2de8e8",
       "url:https://zapply.jobs/l/d/google-100630692420821702",
       "zapply-0659a2ae37b6",
@@ -34984,7 +35096,45 @@
       "simplify-b9a6c4af-0de6-42ab-bf01-0698fa0f5bf1",
       "url:https://jobs.ashbyhq.com/endeavorai/00a6bb4f-fccb-4948-a2e9-71b736c2b0b4/application",
       "simplify-af214ab6-d98e-4772-be80-9392a55c20fd",
-      "url:https://go.vansh.nyc/1fT"
+      "url:https://go.vansh.nyc/1fT",
+      "simplify-7c16f1bd-bd39-4a42-a12c-2e49647c85cd",
+      "url:https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c",
+      "simplify-565009b6-1cb6-4fd4-89c7-b3e817341748",
+      "url:https://go.vansh.nyc/1g7",
+      "simplify-2188ec4a-987f-4736-b3c9-2173a826ad74",
+      "url:https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0/application",
+      "simplify-a90f832f-b186-4c8c-91af-64379b708721",
+      "url:https://go.vansh.nyc/1g9",
+      "jobright-043134a83450",
+      "url:https://jobright.ai/jobs/info/6aeab18d913589212b1f8803",
+      "jobright-1aab15a9654d",
+      "url:https://jobright.ai/jobs/info/6aead326440b469a1c0b02fa",
+      "jobright-c31193302cdf",
+      "url:https://jobright.ai/jobs/info/6aead326d22d4c08ec60628c",
+      "jobright-d2f4ee455d51",
+      "url:https://jobright.ai/jobs/info/6aead31a897466e69e32122c",
+      "jobright-3007308a7356",
+      "url:https://jobright.ai/jobs/info/6aead3131ba298c777774fc1",
+      "jobright-7b02d886bfe7",
+      "url:https://jobright.ai/jobs/info/6aead30dfc85f3a394335d37",
+      "jobright-d237f57add0b",
+      "url:https://jobright.ai/jobs/info/6aead30d897466e69e32122a",
+      "jobright-59e0dad83b0b",
+      "url:https://jobright.ai/jobs/info/6aead308d22d4c08ec606288",
+      "jobright-31efe7cdb902",
+      "url:https://jobright.ai/jobs/info/6aead308d22d4c08ec606289",
+      "jobright-50debb839d3d",
+      "url:https://jobright.ai/jobs/info/6aead2c0913589212b1f8ff4",
+      "jobright-b88369c27eeb",
+      "url:https://jobright.ai/jobs/info/6aea8008913589212b1f7543",
+      "jobright-471ef49b930e",
+      "url:https://jobright.ai/jobs/info/6aeaca5efc85f3a394335b0e",
+      "jobright-20964bd4cfe5",
+      "url:https://jobright.ai/jobs/info/6aeac923fc85f3a394335ae6",
+      "jobright-1bf22b543a18",
+      "url:https://jobright.ai/jobs/info/6aeac60efc85f3a394335a4a",
+      "jobright-3c8498ec7c71",
+      "url:https://jobright.ai/jobs/info/6aeac5eefc85f3a394335a2b"
     ]
   }
 }
