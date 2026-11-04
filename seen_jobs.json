@@ -28055,10 +28055,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000159723669",
       "seen_at": "2026-11-04T21:01:56.144435+00:00"
+    },
+    {
+      "id": "ashby-applied-1cba14aa-a69d-4f54-a64b-013c05d24d53",
+      "seen_at": "2026-11-04T21:31:20.562548+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/applied/1cba14aa-a69d-4f54-a64b-013c05d24d53",
+      "seen_at": "2026-11-04T21:31:20.563259+00:00"
+    },
+    {
+      "id": "workday-adobe-R173443",
+      "seen_at": "2026-11-04T21:31:20.563808+00:00"
+    },
+    {
+      "id": "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Mgr--Software-Development_R173443",
+      "seen_at": "2026-11-04T21:31:20.564296+00:00"
     }
   ],
-  "last_run": "2026-11-04T21:01:56.448803+00:00",
-  "total_notified": 11559,
+  "last_run": "2026-11-04T21:31:21.783298+00:00",
+  "total_notified": 11561,
   "channels": {
     "pm-jobs": [
       "zapply-d6f4f88c7f66",
@@ -35084,7 +35100,11 @@
       "amazon-10594986",
       "url:https://www.amazon.jobs/en/jobs/10594986/software-development-engineer-amazon-msk-managed-streaming-for-kafka",
       "jobright-7a5e707ba9cf",
-      "url:https://jobright.ai/jobs/info/6aeb77c165311d97105b8e37"
+      "url:https://jobright.ai/jobs/info/6aeb77c165311d97105b8e37",
+      "ashby-applied-1cba14aa-a69d-4f54-a64b-013c05d24d53",
+      "url:https://jobs.ashbyhq.com/applied/1cba14aa-a69d-4f54-a64b-013c05d24d53",
+      "workday-adobe-R173443",
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Mgr--Software-Development_R173443"
     ]
   }
 }
