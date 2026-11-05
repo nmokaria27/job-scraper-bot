@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-201cb132a298",
-      "seen_at": "2026-10-06T11:01:45.990730+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-muonspace-5257621007",
-      "seen_at": "2026-10-06T11:01:45.991358+00:00"
-    },
-    {
       "id": "zapply-ed1feadcb309",
       "seen_at": "2026-10-06T12:31:14.345264+00:00"
     },
@@ -27721,12 +27713,10 @@
       "seen_at": "2026-11-05T11:01:24.801038+00:00"
     }
   ],
-  "last_run": "2026-11-05T11:01:24.972166+00:00",
+  "last_run": "2026-11-05T11:31:13.950362+00:00",
   "total_notified": 11620,
   "channels": {
     "pm-jobs": [
-      "zapply-201cb132a298",
-      "url:https://zapply.jobs/l/d/greenhouse-muonspace-5257621007",
       "ashby-posthog-3c592b84-8b34-4ae4-ae23-cadce8f2212d",
       "url:https://jobs.ashbyhq.com/posthog/3c592b84-8b34-4ae4-ae23-cadce8f2212d",
       "ashby-substack-e2d93603-449b-4d1d-9545-4c2c1d64ad1a",
