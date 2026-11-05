@@ -1,94 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-a6391eca0cf9",
-      "seen_at": "2026-10-06T22:01:21.221540+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a8de08225fc4e7ae3dbe4ea",
-      "seen_at": "2026-10-06T22:01:21.222451+00:00"
-    },
-    {
-      "id": "jobright-522e62a5c88c",
-      "seen_at": "2026-10-06T22:01:21.223077+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac55719d9621c5b283a4c18",
-      "seen_at": "2026-10-06T22:01:21.223592+00:00"
-    },
-    {
-      "id": "jobright-4f8a874cfdca",
-      "seen_at": "2026-10-06T22:01:21.224131+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac55245d9621c5b283a4ac2",
-      "seen_at": "2026-10-06T22:01:21.224638+00:00"
-    },
-    {
-      "id": "jobright-a99c132c5fbd",
-      "seen_at": "2026-10-06T22:01:21.225159+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac55211372c01f6cd7390d5",
-      "seen_at": "2026-10-06T22:01:21.225666+00:00"
-    },
-    {
-      "id": "jobright-24ddd01bb7a6",
-      "seen_at": "2026-10-06T22:01:21.226204+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac5508e4ac55253f5d75fac",
-      "seen_at": "2026-10-06T22:01:21.226706+00:00"
-    },
-    {
-      "id": "jobright-b651a27f4899",
-      "seen_at": "2026-10-06T22:01:21.227241+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac54e1dd9621c5b283a495c",
-      "seen_at": "2026-10-06T22:01:21.227727+00:00"
-    },
-    {
-      "id": "jobright-8638bef9fcb3",
-      "seen_at": "2026-10-06T22:01:21.228274+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac54c834ac55253f5d75e08",
-      "seen_at": "2026-10-06T22:01:21.228807+00:00"
-    },
-    {
-      "id": "jobright-12fe826b8d79",
-      "seen_at": "2026-10-06T22:01:21.229325+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac54a8f4ac55253f5d75cb4",
-      "seen_at": "2026-10-06T22:01:21.229847+00:00"
-    },
-    {
-      "id": "amazon-10571270",
-      "seen_at": "2026-10-06T22:01:21.230355+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10571270/software-engineer-fauna",
-      "seen_at": "2026-10-06T22:01:21.230865+00:00"
-    },
-    {
-      "id": "jobright-ddd5096510e9",
-      "seen_at": "2026-10-06T22:01:21.231362+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac55154372c01f6cd73908f",
-      "seen_at": "2026-10-06T22:01:21.231866+00:00"
-    },
-    {
-      "id": "greenhouse-asana-8194540",
-      "seen_at": "2026-10-06T22:01:23.065893+00:00"
-    },
-    {
-      "id": "url:https://www.asana.com/jobs/apply/8194540",
-      "seen_at": "2026-10-06T22:01:23.066607+00:00"
-    },
-    {
       "id": "zapply-e4dbbdc03755",
       "seen_at": "2026-10-06T22:31:13.371376+00:00"
     },
@@ -27447,14 +27359,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aece163ab48a7079381f464",
       "seen_at": "2026-11-05T22:01:28.838107+00:00"
+    },
+    {
+      "id": "greenhouse-verkada-5283644007",
+      "seen_at": "2026-11-05T22:31:12.014204+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/verkada/jobs/5283644007",
+      "seen_at": "2026-11-05T22:31:12.014611+00:00"
     }
   ],
-  "last_run": "2026-11-05T22:01:29.079272+00:00",
-  "total_notified": 11696,
+  "last_run": "2026-11-05T22:31:13.025035+00:00",
+  "total_notified": 11697,
   "channels": {
     "pm-jobs": [
-      "greenhouse-asana-8194540",
-      "url:https://www.asana.com/jobs/apply/8194540",
       "simplify-b28c693d-dc9a-4021-9f62-fd2020e5f18f",
       "url:https://job-boards.greenhouse.io/impact/jobs/8871230002",
       "jobright-e6ce34cd7041",
@@ -28577,26 +28495,6 @@
       "url:https://jobright.ai/jobs/info/6aece163ab48a7079381f464"
     ],
     "swe-ai-full-time": [
-      "jobright-a6391eca0cf9",
-      "url:https://jobright.ai/jobs/info/6a8de08225fc4e7ae3dbe4ea",
-      "jobright-522e62a5c88c",
-      "url:https://jobright.ai/jobs/info/6ac55719d9621c5b283a4c18",
-      "jobright-4f8a874cfdca",
-      "url:https://jobright.ai/jobs/info/6ac55245d9621c5b283a4ac2",
-      "jobright-a99c132c5fbd",
-      "url:https://jobright.ai/jobs/info/6ac55211372c01f6cd7390d5",
-      "jobright-24ddd01bb7a6",
-      "url:https://jobright.ai/jobs/info/6ac5508e4ac55253f5d75fac",
-      "jobright-b651a27f4899",
-      "url:https://jobright.ai/jobs/info/6ac54e1dd9621c5b283a495c",
-      "jobright-8638bef9fcb3",
-      "url:https://jobright.ai/jobs/info/6ac54c834ac55253f5d75e08",
-      "jobright-12fe826b8d79",
-      "url:https://jobright.ai/jobs/info/6ac54a8f4ac55253f5d75cb4",
-      "amazon-10571270",
-      "url:https://www.amazon.jobs/en/jobs/10571270/software-engineer-fauna",
-      "jobright-ddd5096510e9",
-      "url:https://jobright.ai/jobs/info/6ac55154372c01f6cd73908f",
       "zapply-e4dbbdc03755",
       "url:https://zapply.jobs/l/d/workday-transunion-transunion-19042717",
       "zapply-6b87e7bbc830",
@@ -34324,7 +34222,9 @@
       "jobright-5f215cb573bd",
       "url:https://jobright.ai/jobs/info/6aece2983967d67f635a091c",
       "jobright-a5f5478f41ea",
-      "url:https://jobright.ai/jobs/info/6aebe495765815f7d7464514"
+      "url:https://jobright.ai/jobs/info/6aebe495765815f7d7464514",
+      "greenhouse-verkada-5283644007",
+      "url:https://job-boards.greenhouse.io/verkada/jobs/5283644007"
     ]
   }
 }
