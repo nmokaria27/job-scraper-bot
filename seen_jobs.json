@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-3f7276a8a8a7",
-      "seen_at": "2026-10-06T19:01:18.180982+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac52da4064da25272e1540c",
-      "seen_at": "2026-10-06T19:01:18.181940+00:00"
-    },
-    {
-      "id": "jobright-2b505856ff4c",
-      "seen_at": "2026-10-06T19:01:18.182819+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac522b8d9621c5b283a35c1",
-      "seen_at": "2026-10-06T19:01:18.183640+00:00"
-    },
-    {
-      "id": "amazon-10570972",
-      "seen_at": "2026-10-06T19:01:18.184489+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10570972/applied-scientist-brp-payment-risk-ml-brp-payment-risk-ml",
-      "seen_at": "2026-10-06T19:01:18.185302+00:00"
-    },
-    {
-      "id": "amazon-10570976",
-      "seen_at": "2026-10-06T19:01:18.186092+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10570976/applied-scientist-brp-payment-risk-ml-brp-payment-risk-ml",
-      "seen_at": "2026-10-06T19:01:18.186755+00:00"
-    },
-    {
-      "id": "jobright-c0a177e9e178",
-      "seen_at": "2026-10-06T19:01:21.744433+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac52bb6d9621c5b283a39eb",
-      "seen_at": "2026-10-06T19:01:21.745307+00:00"
-    },
-    {
-      "id": "amazon-10570958",
-      "seen_at": "2026-10-06T19:01:21.746093+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10570958/product-manager-tech-ring-blink-accessories",
-      "seen_at": "2026-10-06T19:01:21.746826+00:00"
-    },
-    {
       "id": "zapply-ef27cce6d410",
       "seen_at": "2026-10-06T19:31:12.591461+00:00"
     },
@@ -27503,16 +27455,28 @@
     {
       "id": "url:https://zapply.jobs/l/d/eightfold-micron-45374172",
       "seen_at": "2026-11-05T19:01:24.851818+00:00"
+    },
+    {
+      "id": "zapply-aef126dfa11a",
+      "seen_at": "2026-11-05T19:31:34.187122+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-2cae847c-3842-4c98-b3d1-03fe5d938312",
+      "seen_at": "2026-11-05T19:31:34.187843+00:00"
+    },
+    {
+      "id": "amazon-10598028",
+      "seen_at": "2026-11-05T19:31:34.188512+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10598028/applied-scientist-fauna",
+      "seen_at": "2026-11-05T19:31:34.189128+00:00"
     }
   ],
-  "last_run": "2026-11-05T19:01:25.077682+00:00",
-  "total_notified": 11662,
+  "last_run": "2026-11-05T19:31:35.315452+00:00",
+  "total_notified": 11664,
   "channels": {
     "pm-jobs": [
-      "jobright-c0a177e9e178",
-      "url:https://jobright.ai/jobs/info/6ac52bb6d9621c5b283a39eb",
-      "amazon-10570958",
-      "url:https://www.amazon.jobs/en/jobs/10570958/product-manager-tech-ring-blink-accessories",
       "zapply-63c0afcc9a45",
       "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26012015",
       "jobright-a00b73b31059",
@@ -28635,14 +28599,6 @@
       "url:https://zapply.jobs/l/d/eightfold-micron-45374172"
     ],
     "swe-ai-full-time": [
-      "jobright-3f7276a8a8a7",
-      "url:https://jobright.ai/jobs/info/6ac52da4064da25272e1540c",
-      "jobright-2b505856ff4c",
-      "url:https://jobright.ai/jobs/info/6ac522b8d9621c5b283a35c1",
-      "amazon-10570972",
-      "url:https://www.amazon.jobs/en/jobs/10570972/applied-scientist-brp-payment-risk-ml-brp-payment-risk-ml",
-      "amazon-10570976",
-      "url:https://www.amazon.jobs/en/jobs/10570976/applied-scientist-brp-payment-risk-ml-brp-payment-risk-ml",
       "zapply-ef27cce6d410",
       "url:https://zapply.jobs/l/d/workday-nwis-nw-JR102085",
       "greenhouse-affirm-8008649003",
@@ -34394,7 +34350,11 @@
       "amazon-10598021",
       "url:https://www.amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us",
       "jobright-23e9c15c7ee6",
-      "url:https://jobright.ai/jobs/info/6aecb1be3a3fa7f03ea88229"
+      "url:https://jobright.ai/jobs/info/6aecb1be3a3fa7f03ea88229",
+      "zapply-aef126dfa11a",
+      "url:https://zapply.jobs/l/d/amazon-2cae847c-3842-4c98-b3d1-03fe5d938312",
+      "amazon-10598028",
+      "url:https://www.amazon.jobs/en/jobs/10598028/applied-scientist-fauna"
     ]
   }
 }
