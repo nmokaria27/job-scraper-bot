@@ -27791,10 +27791,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad6b3d852aa6152bb697d89",
       "seen_at": "2026-11-05T03:01:14.541404+00:00"
+    },
+    {
+      "id": "jobright-d2db02b46c40",
+      "seen_at": "2026-11-05T03:43:55.045576+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aebe925fbe13dfb53df807e",
+      "seen_at": "2026-11-05T03:43:55.046316+00:00"
+    },
+    {
+      "id": "jobright-099b2711b509",
+      "seen_at": "2026-11-05T03:43:55.046982+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aebe5babf2fc41b316e7c7b",
+      "seen_at": "2026-11-05T03:43:55.047586+00:00"
     }
   ],
-  "last_run": "2026-11-05T03:31:08.386081+00:00",
-  "total_notified": 11601,
+  "last_run": "2026-11-05T03:43:56.008630+00:00",
+  "total_notified": 11603,
   "channels": {
     "pm-jobs": [
       "zapply-4e021fa66409",
@@ -34754,7 +34770,11 @@
       "simplify-d956f4c5-a366-4e0e-800d-bef8b734b9f2",
       "url:https://jobs.keysight.com/jobs/55298",
       "jobright-31c126b75154",
-      "url:https://jobright.ai/jobs/info/6ad6b3d852aa6152bb697d89"
+      "url:https://jobright.ai/jobs/info/6ad6b3d852aa6152bb697d89",
+      "jobright-d2db02b46c40",
+      "url:https://jobright.ai/jobs/info/6aebe925fbe13dfb53df807e",
+      "jobright-099b2711b509",
+      "url:https://jobright.ai/jobs/info/6aebe5babf2fc41b316e7c7b"
     ]
   }
 }
