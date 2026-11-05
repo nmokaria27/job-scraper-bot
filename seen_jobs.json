@@ -27783,10 +27783,50 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10597242/software-development-engineer-mads",
       "seen_at": "2026-11-04T23:31:26.621529+00:00"
+    },
+    {
+      "id": "jobright-d501231bec5e",
+      "seen_at": "2026-11-05T00:01:38.252319+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aebb1daa0b134121d99d364",
+      "seen_at": "2026-11-05T00:01:38.252646+00:00"
+    },
+    {
+      "id": "applyguy-21099638-8951-467e-9497-a44dba92293f",
+      "seen_at": "2026-11-05T00:01:38.252919+00:00"
+    },
+    {
+      "id": "url:https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1",
+      "seen_at": "2026-11-05T00:01:38.253163+00:00"
+    },
+    {
+      "id": "zapply-a5358f1a5a16",
+      "seen_at": "2026-11-05T00:01:43.400232+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35359",
+      "seen_at": "2026-11-05T00:01:43.400503+00:00"
+    },
+    {
+      "id": "jobright-6f1d84d3a0ba",
+      "seen_at": "2026-11-05T00:01:43.400740+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3f10e8ff3fb9b3bc831ad",
+      "seen_at": "2026-11-05T00:01:43.400956+00:00"
+    },
+    {
+      "id": "amazon-10597255",
+      "seen_at": "2026-11-05T00:01:43.401168+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10597255/product-manager-nas-ship-cost-optimization-nas-ship-cost-optimization",
+      "seen_at": "2026-11-05T00:01:43.401374+00:00"
     }
   ],
-  "last_run": "2026-11-04T23:36:48.756770+00:00",
-  "total_notified": 11577,
+  "last_run": "2026-11-05T00:01:43.668346+00:00",
+  "total_notified": 11582,
   "channels": {
     "pm-jobs": [
       "jobright-5b57e2e69558",
@@ -28910,7 +28950,13 @@
       "jobright-982426f862d9",
       "url:https://jobright.ai/jobs/info/6aeb9df182f0ac077443b957",
       "jobright-1519b0452e4d",
-      "url:https://jobright.ai/jobs/info/6aeb9718f40efa43f4a18de4"
+      "url:https://jobright.ai/jobs/info/6aeb9718f40efa43f4a18de4",
+      "zapply-a5358f1a5a16",
+      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35359",
+      "jobright-6f1d84d3a0ba",
+      "url:https://jobright.ai/jobs/info/6ac3f10e8ff3fb9b3bc831ad",
+      "amazon-10597255",
+      "url:https://www.amazon.jobs/en/jobs/10597255/product-manager-nas-ship-cost-optimization-nas-ship-cost-optimization"
     ],
     "swe-ai-full-time": [
       "zapply-443093aeac05",
@@ -34744,7 +34790,11 @@
       "amazon-10597234",
       "url:https://www.amazon.jobs/en/jobs/10597234/software-development-engineer-aws-builder-acceleration",
       "amazon-10597242",
-      "url:https://www.amazon.jobs/en/jobs/10597242/software-development-engineer-mads"
+      "url:https://www.amazon.jobs/en/jobs/10597242/software-development-engineer-mads",
+      "jobright-d501231bec5e",
+      "url:https://jobright.ai/jobs/info/6aebb1daa0b134121d99d364",
+      "applyguy-21099638-8951-467e-9497-a44dba92293f",
+      "url:https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1"
     ]
   }
 }
