@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-ed1feadcb309",
-      "seen_at": "2026-10-06T12:31:14.345264+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397754",
-      "seen_at": "2026-10-06T12:31:14.345758+00:00"
-    },
-    {
-      "id": "ashby-posthog-3c592b84-8b34-4ae4-ae23-cadce8f2212d",
-      "seen_at": "2026-10-06T12:31:15.893129+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/posthog/3c592b84-8b34-4ae4-ae23-cadce8f2212d",
-      "seen_at": "2026-10-06T12:31:15.893583+00:00"
-    },
-    {
       "id": "zapply-4bd705899d66",
       "seen_at": "2026-10-06T13:01:36.045780+00:00"
     },
@@ -27719,14 +27703,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a8e043325fc4e7ae3dbf480",
       "seen_at": "2026-11-05T12:01:29.570617+00:00"
+    },
+    {
+      "id": "jobright-291e1c6f9e03",
+      "seen_at": "2026-11-05T13:01:33.046284+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab31e3230340229a3231937",
+      "seen_at": "2026-11-05T13:01:33.046892+00:00"
     }
   ],
-  "last_run": "2026-11-05T12:31:16.052555+00:00",
-  "total_notified": 11621,
+  "last_run": "2026-11-05T13:01:34.052037+00:00",
+  "total_notified": 11622,
   "channels": {
     "pm-jobs": [
-      "ashby-posthog-3c592b84-8b34-4ae4-ae23-cadce8f2212d",
-      "url:https://jobs.ashbyhq.com/posthog/3c592b84-8b34-4ae4-ae23-cadce8f2212d",
       "ashby-substack-e2d93603-449b-4d1d-9545-4c2c1d64ad1a",
       "url:https://jobs.ashbyhq.com/substack/e2d93603-449b-4d1d-9545-4c2c1d64ad1a",
       "jobright-3a45e0c92af0",
@@ -28865,8 +28855,6 @@
       "url:https://jobright.ai/jobs/info/6a8e043325fc4e7ae3dbf480"
     ],
     "swe-ai-full-time": [
-      "zapply-ed1feadcb309",
-      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397754",
       "zapply-4bd705899d66",
       "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621867",
       "jobright-2d634cb2c503",
@@ -34664,7 +34652,9 @@
       "jobright-0fc840b5ac2b",
       "url:https://jobright.ai/jobs/info/6aec0a60f69ea487dd5d70ae",
       "applyguy-878e25b7-d32b-4ac3-afd0-b70b9e2722c4",
-      "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640828"
+      "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640828",
+      "jobright-291e1c6f9e03",
+      "url:https://jobright.ai/jobs/info/6ab31e3230340229a3231937"
     ]
   }
 }
