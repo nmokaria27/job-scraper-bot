@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10570289",
-      "seen_at": "2026-10-06T13:31:38.761820+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10570289/embedded-software-dev-engineer-ring",
-      "seen_at": "2026-10-06T13:31:38.762320+00:00"
-    },
-    {
       "id": "zapply-686bc5d77f47",
       "seen_at": "2026-10-06T14:01:23.380820+00:00"
     },
@@ -27697,7 +27689,7 @@
       "seen_at": "2026-11-05T13:01:33.046892+00:00"
     }
   ],
-  "last_run": "2026-11-05T13:31:11.294820+00:00",
+  "last_run": "2026-11-05T14:01:54.473868+00:00",
   "total_notified": 11622,
   "channels": {
     "pm-jobs": [
@@ -28839,8 +28831,6 @@
       "url:https://jobright.ai/jobs/info/6a8e043325fc4e7ae3dbf480"
     ],
     "swe-ai-full-time": [
-      "amazon-10570289",
-      "url:https://www.amazon.jobs/en/jobs/10570289/embedded-software-dev-engineer-ring",
       "zapply-686bc5d77f47",
       "url:https://zapply.jobs/l/d/amazon-0d30afdc-c528-4848-8dca-299b3d4fc0b6",
       "jobright-bdd4f35e40fc",
