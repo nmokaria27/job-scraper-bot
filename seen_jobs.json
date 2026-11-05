@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-a26c307fd28f",
-      "seen_at": "2026-10-06T21:36:35.140878+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526261",
-      "seen_at": "2026-10-06T21:36:35.141349+00:00"
-    },
-    {
-      "id": "zapply-e594dd32c96f",
-      "seen_at": "2026-10-06T21:36:36.898439+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0109512",
-      "seen_at": "2026-10-06T21:36:36.898862+00:00"
-    },
-    {
       "id": "jobright-a6391eca0cf9",
       "seen_at": "2026-10-06T22:01:21.221540+00:00"
     },
@@ -27391,14 +27375,84 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22462",
       "seen_at": "2026-11-05T21:31:13.337669+00:00"
+    },
+    {
+      "id": "greenhouse-verkada-5283634007",
+      "seen_at": "2026-11-05T22:01:26.767148+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/verkada/jobs/5283634007",
+      "seen_at": "2026-11-05T22:01:26.767680+00:00"
+    },
+    {
+      "id": "greenhouse-roblox-8243631",
+      "seen_at": "2026-11-05T22:01:26.768199+00:00"
+    },
+    {
+      "id": "url:https://careers.roblox.com/jobs/8243631",
+      "seen_at": "2026-11-05T22:01:26.768649+00:00"
+    },
+    {
+      "id": "greenhouse-verkada-5283655007",
+      "seen_at": "2026-11-05T22:01:26.769125+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/verkada/jobs/5283655007",
+      "seen_at": "2026-11-05T22:01:26.769549+00:00"
+    },
+    {
+      "id": "zapply-fbb34c03012c",
+      "seen_at": "2026-11-05T22:01:26.769995+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amazon-85019a39-8d3c-4ff3-8087-16566aa22ad8",
+      "seen_at": "2026-11-05T22:01:26.770419+00:00"
+    },
+    {
+      "id": "jobright-a2c4d85aa739",
+      "seen_at": "2026-11-05T22:01:26.770851+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aece871a2661405dc2c76e6",
+      "seen_at": "2026-11-05T22:01:26.771314+00:00"
+    },
+    {
+      "id": "jobright-593792f9328d",
+      "seen_at": "2026-11-05T22:01:26.771763+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aece54c465e3d2371382a17",
+      "seen_at": "2026-11-05T22:01:26.772226+00:00"
+    },
+    {
+      "id": "jobright-5f215cb573bd",
+      "seen_at": "2026-11-05T22:01:26.772673+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aece2983967d67f635a091c",
+      "seen_at": "2026-11-05T22:01:26.773138+00:00"
+    },
+    {
+      "id": "jobright-a5f5478f41ea",
+      "seen_at": "2026-11-05T22:01:26.773579+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aebe495765815f7d7464514",
+      "seen_at": "2026-11-05T22:01:26.774025+00:00"
+    },
+    {
+      "id": "jobright-c35b77450e2f",
+      "seen_at": "2026-11-05T22:01:28.837620+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aece163ab48a7079381f464",
+      "seen_at": "2026-11-05T22:01:28.838107+00:00"
     }
   ],
-  "last_run": "2026-11-05T21:31:13.633521+00:00",
-  "total_notified": 11687,
+  "last_run": "2026-11-05T22:01:29.079272+00:00",
+  "total_notified": 11696,
   "channels": {
     "pm-jobs": [
-      "zapply-e594dd32c96f",
-      "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0109512",
       "greenhouse-asana-8194540",
       "url:https://www.asana.com/jobs/apply/8194540",
       "simplify-b28c693d-dc9a-4021-9f62-fd2020e5f18f",
@@ -28518,11 +28572,11 @@
       "jobright-1f07eb72120b",
       "url:https://jobright.ai/jobs/info/6aecca0bab48a7079381e788",
       "zapply-990ed4642ca2",
-      "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22462"
+      "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22462",
+      "jobright-c35b77450e2f",
+      "url:https://jobright.ai/jobs/info/6aece163ab48a7079381f464"
     ],
     "swe-ai-full-time": [
-      "zapply-a26c307fd28f",
-      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526261",
       "jobright-a6391eca0cf9",
       "url:https://jobright.ai/jobs/info/6a8de08225fc4e7ae3dbe4ea",
       "jobright-522e62a5c88c",
@@ -34254,7 +34308,23 @@
       "amazon-10598152",
       "url:https://www.amazon.jobs/en/jobs/10598152/software-development-engineer-embedded-ota-program-team",
       "amazon-10598162",
-      "url:https://www.amazon.jobs/en/jobs/10598162/data-engineer-i-secure-third-party-tools-s3t"
+      "url:https://www.amazon.jobs/en/jobs/10598162/data-engineer-i-secure-third-party-tools-s3t",
+      "greenhouse-verkada-5283634007",
+      "url:https://job-boards.greenhouse.io/verkada/jobs/5283634007",
+      "greenhouse-roblox-8243631",
+      "url:https://careers.roblox.com/jobs/8243631",
+      "greenhouse-verkada-5283655007",
+      "url:https://job-boards.greenhouse.io/verkada/jobs/5283655007",
+      "zapply-fbb34c03012c",
+      "url:https://zapply.jobs/l/d/amazon-85019a39-8d3c-4ff3-8087-16566aa22ad8",
+      "jobright-a2c4d85aa739",
+      "url:https://jobright.ai/jobs/info/6aece871a2661405dc2c76e6",
+      "jobright-593792f9328d",
+      "url:https://jobright.ai/jobs/info/6aece54c465e3d2371382a17",
+      "jobright-5f215cb573bd",
+      "url:https://jobright.ai/jobs/info/6aece2983967d67f635a091c",
+      "jobright-a5f5478f41ea",
+      "url:https://jobright.ai/jobs/info/6aebe495765815f7d7464514"
     ]
   }
 }
