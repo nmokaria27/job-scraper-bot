@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-443093aeac05",
-      "seen_at": "2026-10-06T00:01:19.500952+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-baseten-7cb19a05-8e5b-44cf-b3e7-19949e2eff04",
-      "seen_at": "2026-10-06T00:01:19.501473+00:00"
-    },
-    {
-      "id": "ashby-sierra-ddae4a0c-2f6c-4cc3-80aa-da74a0dd667a",
-      "seen_at": "2026-10-06T00:01:19.501912+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/sierra/ddae4a0c-2f6c-4cc3-80aa-da74a0dd667a",
-      "seen_at": "2026-10-06T00:01:19.502316+00:00"
-    },
-    {
-      "id": "ashby-baseten-14c4a663-0b1f-4c11-93ff-1359741ee456",
-      "seen_at": "2026-10-06T00:01:19.502725+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456",
-      "seen_at": "2026-10-06T00:01:19.503083+00:00"
-    },
-    {
-      "id": "zapply-3fbe52c5f2c1",
-      "seen_at": "2026-10-06T00:01:19.503449+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229928",
-      "seen_at": "2026-10-06T00:01:19.503826+00:00"
-    },
-    {
-      "id": "zapply-b4e89271117b",
-      "seen_at": "2026-10-06T00:01:19.504198+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/qualcomm-3093254",
-      "seen_at": "2026-10-06T00:01:19.504588+00:00"
-    },
-    {
-      "id": "jobright-5b57e2e69558",
-      "seen_at": "2026-10-06T00:01:21.436056+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a8cabbacde3717f9e9be8d9",
-      "seen_at": "2026-10-06T00:01:21.436474+00:00"
-    },
-    {
       "id": "amazon-10569946",
       "seen_at": "2026-10-06T00:56:56.340188+00:00"
     },
@@ -27823,14 +27775,20 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10597255/product-manager-nas-ship-cost-optimization-nas-ship-cost-optimization",
       "seen_at": "2026-11-05T00:01:43.401374+00:00"
+    },
+    {
+      "id": "zapply-d0d57666c24b",
+      "seen_at": "2026-11-05T00:31:10.578165+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10403885",
+      "seen_at": "2026-11-05T00:31:10.578782+00:00"
     }
   ],
-  "last_run": "2026-11-05T00:01:43.668346+00:00",
-  "total_notified": 11582,
+  "last_run": "2026-11-05T00:31:11.498144+00:00",
+  "total_notified": 11583,
   "channels": {
     "pm-jobs": [
-      "jobright-5b57e2e69558",
-      "url:https://jobright.ai/jobs/info/6a8cabbacde3717f9e9be8d9",
       "zapply-c9355d2b96e7",
       "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22984",
       "zapply-4e021fa66409",
@@ -28959,16 +28917,6 @@
       "url:https://www.amazon.jobs/en/jobs/10597255/product-manager-nas-ship-cost-optimization-nas-ship-cost-optimization"
     ],
     "swe-ai-full-time": [
-      "zapply-443093aeac05",
-      "url:https://zapply.jobs/l/d/ashby-baseten-7cb19a05-8e5b-44cf-b3e7-19949e2eff04",
-      "ashby-sierra-ddae4a0c-2f6c-4cc3-80aa-da74a0dd667a",
-      "url:https://jobs.ashbyhq.com/sierra/ddae4a0c-2f6c-4cc3-80aa-da74a0dd667a",
-      "ashby-baseten-14c4a663-0b1f-4c11-93ff-1359741ee456",
-      "url:https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456",
-      "zapply-3fbe52c5f2c1",
-      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229928",
-      "zapply-b4e89271117b",
-      "url:https://zapply.jobs/l/d/qualcomm-3093254",
       "amazon-10569946",
       "url:https://www.amazon.jobs/en/jobs/10569946/software-development-engineer-amazon-leo-for-government",
       "amazon-10569950",
@@ -34794,7 +34742,9 @@
       "jobright-d501231bec5e",
       "url:https://jobright.ai/jobs/info/6aebb1daa0b134121d99d364",
       "applyguy-21099638-8951-467e-9497-a44dba92293f",
-      "url:https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1"
+      "url:https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1",
+      "zapply-d0d57666c24b",
+      "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10403885"
     ]
   }
 }
