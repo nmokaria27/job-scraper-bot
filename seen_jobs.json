@@ -1,126 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-b498dc3e45e3",
-      "seen_at": "2026-10-06T16:31:17.783020+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-purestorage-8249851",
-      "seen_at": "2026-10-06T16:31:17.783459+00:00"
-    },
-    {
-      "id": "zapply-6aae96393693",
-      "seen_at": "2026-10-06T16:31:17.783818+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ220222",
-      "seen_at": "2026-10-06T16:31:17.784156+00:00"
-    },
-    {
-      "id": "zapply-147915f88ca0",
-      "seen_at": "2026-10-06T16:31:17.784495+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000153811630",
-      "seen_at": "2026-10-06T16:31:17.784820+00:00"
-    },
-    {
-      "id": "zapply-3a1b591f2dff",
-      "seen_at": "2026-10-06T16:31:17.785137+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-tenstorrent-5257595007",
-      "seen_at": "2026-10-06T16:31:17.785464+00:00"
-    },
-    {
-      "id": "zapply-c4061a2ad184",
-      "seen_at": "2026-10-06T16:31:17.785774+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-applied-364578da-efcd-4f29-9f9d-8f647502b6ba",
-      "seen_at": "2026-10-06T16:31:17.786084+00:00"
-    },
-    {
-      "id": "zapply-690340355983",
-      "seen_at": "2026-10-06T16:31:17.786393+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-4543563e-11b8-4b7e-9cd0-106a308ef8ef",
-      "seen_at": "2026-10-06T16:31:17.786697+00:00"
-    },
-    {
-      "id": "amazon-10570543",
-      "seen_at": "2026-10-06T16:31:17.786997+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10570543/software-development-engineer-amazon-fulfillment-technologies-aft-platform-engineering-services",
-      "seen_at": "2026-10-06T16:31:17.787319+00:00"
-    },
-    {
-      "id": "amazon-10570563",
-      "seen_at": "2026-10-06T16:31:17.787613+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10570563/software-development-engineer-platform-engineering-and-services-aft-labor-insights",
-      "seen_at": "2026-10-06T16:31:17.787902+00:00"
-    },
-    {
-      "id": "amazon-10570562",
-      "seen_at": "2026-10-06T16:31:17.788202+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10570562/software-development-engineer-platform-engineering-and-services-aft-labor-insights",
-      "seen_at": "2026-10-06T16:31:17.788490+00:00"
-    },
-    {
-      "id": "amazon-10570566",
-      "seen_at": "2026-10-06T16:31:17.788779+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10570566/applied-scientist-neuron-automated-reasoning-group",
-      "seen_at": "2026-10-06T16:31:17.789068+00:00"
-    },
-    {
-      "id": "jobright-75234275ec04",
-      "seen_at": "2026-10-06T16:31:17.789361+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a8878be25fc4e7ae3db087d",
-      "seen_at": "2026-10-06T16:31:17.789652+00:00"
-    },
-    {
-      "id": "zapply-2588e2b5d8f0",
-      "seen_at": "2026-10-06T16:31:19.236771+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023134",
-      "seen_at": "2026-10-06T16:31:19.237106+00:00"
-    },
-    {
-      "id": "ashby-ramp-e0b64893-0459-4d84-ac4f-7b50966ef024",
-      "seen_at": "2026-10-06T16:31:19.237451+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/ramp/e0b64893-0459-4d84-ac4f-7b50966ef024",
-      "seen_at": "2026-10-06T16:31:19.237754+00:00"
-    },
-    {
-      "id": "amazon-10570607",
-      "seen_at": "2026-10-06T16:44:22.753156+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10570607/software-development-engineer-piezo",
-      "seen_at": "2026-10-06T16:44:22.753991+00:00"
-    },
-    {
-      "id": "zapply-0f030e44e6bb",
-      "seen_at": "2026-10-06T16:44:22.754689+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-langchain-e10513d4-1b8d-492f-a6af-94bdae366a1a",
-      "seen_at": "2026-10-06T16:44:22.755341+00:00"
-    },
-    {
       "id": "zapply-933716cf0823",
       "seen_at": "2026-10-06T17:01:55.492261+00:00"
     },
@@ -27655,16 +27535,36 @@
     {
       "id": "url:https://cisive.wd108.myworkdayjobs.com/Cisive/job/Headquarters-MD/Associate-Software-Developer_JR100449-1",
       "seen_at": "2026-11-05T16:31:21.448922+00:00"
+    },
+    {
+      "id": "jobright-ecf4b0dc5a77",
+      "seen_at": "2026-11-05T17:01:34.261612+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeca267ab48a7079381cdbc",
+      "seen_at": "2026-11-05T17:01:34.261986+00:00"
+    },
+    {
+      "id": "jobright-90707f6f6a91",
+      "seen_at": "2026-11-05T17:01:34.262279+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a95c390cabc9f6703e19b1a",
+      "seen_at": "2026-11-05T17:01:34.262543+00:00"
+    },
+    {
+      "id": "workday-intel-JR0288724",
+      "seen_at": "2026-11-05T17:01:34.262812+00:00"
+    },
+    {
+      "id": "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/AI-Software-Development-Engineer_JR0288724",
+      "seen_at": "2026-11-05T17:01:34.263048+00:00"
     }
   ],
-  "last_run": "2026-11-05T16:31:22.329515+00:00",
-  "total_notified": 11636,
+  "last_run": "2026-11-05T17:01:35.075253+00:00",
+  "total_notified": 11639,
   "channels": {
     "pm-jobs": [
-      "zapply-2588e2b5d8f0",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023134",
-      "ashby-ramp-e0b64893-0459-4d84-ac4f-7b50966ef024",
-      "url:https://jobs.ashbyhq.com/ramp/e0b64893-0459-4d84-ac4f-7b50966ef024",
       "zapply-a372397fcdb4",
       "url:https://zapply.jobs/l/d/workday-visa-visa-REF082705W",
       "zapply-992043ad045e",
@@ -28797,32 +28697,6 @@
       "url:https://jobright.ai/jobs/info/6ab4726a0e0ae54eeea488f5"
     ],
     "swe-ai-full-time": [
-      "zapply-b498dc3e45e3",
-      "url:https://zapply.jobs/l/d/greenhouse-purestorage-8249851",
-      "zapply-6aae96393693",
-      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ220222",
-      "zapply-147915f88ca0",
-      "url:https://zapply.jobs/l/d/sr-LinkedIn3-744000153811630",
-      "zapply-3a1b591f2dff",
-      "url:https://zapply.jobs/l/d/greenhouse-tenstorrent-5257595007",
-      "zapply-c4061a2ad184",
-      "url:https://zapply.jobs/l/d/ashby-applied-364578da-efcd-4f29-9f9d-8f647502b6ba",
-      "zapply-690340355983",
-      "url:https://zapply.jobs/l/d/amazon-4543563e-11b8-4b7e-9cd0-106a308ef8ef",
-      "amazon-10570543",
-      "url:https://www.amazon.jobs/en/jobs/10570543/software-development-engineer-amazon-fulfillment-technologies-aft-platform-engineering-services",
-      "amazon-10570563",
-      "url:https://www.amazon.jobs/en/jobs/10570563/software-development-engineer-platform-engineering-and-services-aft-labor-insights",
-      "amazon-10570562",
-      "url:https://www.amazon.jobs/en/jobs/10570562/software-development-engineer-platform-engineering-and-services-aft-labor-insights",
-      "amazon-10570566",
-      "url:https://www.amazon.jobs/en/jobs/10570566/applied-scientist-neuron-automated-reasoning-group",
-      "jobright-75234275ec04",
-      "url:https://jobright.ai/jobs/info/6a8878be25fc4e7ae3db087d",
-      "amazon-10570607",
-      "url:https://www.amazon.jobs/en/jobs/10570607/software-development-engineer-piezo",
-      "zapply-0f030e44e6bb",
-      "url:https://zapply.jobs/l/d/ashby-langchain-e10513d4-1b8d-492f-a6af-94bdae366a1a",
       "zapply-933716cf0823",
       "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000391710",
       "zapply-1302c9105d94",
@@ -34584,7 +34458,13 @@
       "simplify-b0cbe41f-2d97-4abe-ad47-6289dbbcc613",
       "url:https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2915",
       "simplify-8397a6f4-17a0-4389-94e9-190e720abe38",
-      "url:https://cisive.wd108.myworkdayjobs.com/Cisive/job/Headquarters-MD/Associate-Software-Developer_JR100449-1"
+      "url:https://cisive.wd108.myworkdayjobs.com/Cisive/job/Headquarters-MD/Associate-Software-Developer_JR100449-1",
+      "jobright-ecf4b0dc5a77",
+      "url:https://jobright.ai/jobs/info/6aeca267ab48a7079381cdbc",
+      "jobright-90707f6f6a91",
+      "url:https://jobright.ai/jobs/info/6a95c390cabc9f6703e19b1a",
+      "workday-intel-JR0288724",
+      "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/AI-Software-Development-Engineer_JR0288724"
     ]
   }
 }
