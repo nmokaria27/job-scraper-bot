@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-c165147b1c4a",
-      "seen_at": "2026-10-06T14:31:21.768558+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-icapitalnetwork-8802717002",
-      "seen_at": "2026-10-06T14:31:21.769242+00:00"
-    },
-    {
-      "id": "zapply-aaf43e1dc2db",
-      "seen_at": "2026-10-06T14:31:21.769847+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/google-102986499162546886",
-      "seen_at": "2026-10-06T14:31:21.770461+00:00"
-    },
-    {
       "id": "simplify-5b1dcb48-f2c5-4a0e-b2cf-be4285c160f0",
       "seen_at": "2026-10-06T15:01:34.991537+00:00"
     },
@@ -27663,10 +27647,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2629843",
       "seen_at": "2026-11-05T14:31:26.404591+00:00"
+    },
+    {
+      "id": "jobright-90cd4345cee8",
+      "seen_at": "2026-11-05T15:01:20.504960+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aec88f6a2661405dc2c3f3f",
+      "seen_at": "2026-11-05T15:01:20.505491+00:00"
+    },
+    {
+      "id": "jobright-ec5bcf70a0c3",
+      "seen_at": "2026-11-05T15:01:20.506020+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad3bd92f04335fc70eda0f7",
+      "seen_at": "2026-11-05T15:01:20.506471+00:00"
+    },
+    {
+      "id": "jobright-2f29b00db3b2",
+      "seen_at": "2026-11-05T15:01:20.506944+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aec8093a9ea762a0408faca",
+      "seen_at": "2026-11-05T15:01:20.507389+00:00"
+    },
+    {
+      "id": "jobright-3b28a285007b",
+      "seen_at": "2026-11-05T15:01:20.507854+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aec869aa2661405dc2c3ed3",
+      "seen_at": "2026-11-05T15:01:20.508295+00:00"
+    },
+    {
+      "id": "jobright-1535c81d2d04",
+      "seen_at": "2026-11-05T15:01:20.508746+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aec8607ab48a7079381c1da",
+      "seen_at": "2026-11-05T15:01:20.509215+00:00"
     }
   ],
-  "last_run": "2026-11-05T14:31:26.739888+00:00",
-  "total_notified": 11623,
+  "last_run": "2026-11-05T15:01:21.591822+00:00",
+  "total_notified": 11628,
   "channels": {
     "pm-jobs": [
       "jobright-b7871477e1ed",
@@ -28805,10 +28829,6 @@
       "url:https://zapply.jobs/l/d/workday-amat-external-R2629843"
     ],
     "swe-ai-full-time": [
-      "zapply-c165147b1c4a",
-      "url:https://zapply.jobs/l/d/greenhouse-icapitalnetwork-8802717002",
-      "zapply-aaf43e1dc2db",
-      "url:https://zapply.jobs/l/d/google-102986499162546886",
       "simplify-5b1dcb48-f2c5-4a0e-b2cf-be4285c160f0",
       "url:https://apply.workable.com/teserac-inc/j/01F1C3E218/apply",
       "jobright-1f176a61ed47",
@@ -34594,7 +34614,17 @@
       "applyguy-878e25b7-d32b-4ac3-afd0-b70b9e2722c4",
       "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640828",
       "jobright-291e1c6f9e03",
-      "url:https://jobright.ai/jobs/info/6ab31e3230340229a3231937"
+      "url:https://jobright.ai/jobs/info/6ab31e3230340229a3231937",
+      "jobright-90cd4345cee8",
+      "url:https://jobright.ai/jobs/info/6aec88f6a2661405dc2c3f3f",
+      "jobright-ec5bcf70a0c3",
+      "url:https://jobright.ai/jobs/info/6ad3bd92f04335fc70eda0f7",
+      "jobright-2f29b00db3b2",
+      "url:https://jobright.ai/jobs/info/6aec8093a9ea762a0408faca",
+      "jobright-3b28a285007b",
+      "url:https://jobright.ai/jobs/info/6aec869aa2661405dc2c3ed3",
+      "jobright-1535c81d2d04",
+      "url:https://jobright.ai/jobs/info/6aec8607ab48a7079381c1da"
     ]
   }
 }
