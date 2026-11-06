@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-e956d39df841",
-      "seen_at": "2026-10-07T23:01:16.642843+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751481",
-      "seen_at": "2026-10-07T23:01:16.643668+00:00"
-    },
-    {
-      "id": "simplify-9fb89ebd-308d-44a4-801c-466765cbad8c",
-      "seen_at": "2026-10-07T23:01:16.644379+00:00"
-    },
-    {
-      "id": "url:https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Software-Engineer--Building-Automation_R-2037",
-      "seen_at": "2026-10-07T23:01:16.645112+00:00"
-    },
-    {
-      "id": "jobright-745bbb759382",
-      "seen_at": "2026-10-07T23:01:16.645753+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6935cd9621c5b283a997e",
-      "seen_at": "2026-10-07T23:01:16.646407+00:00"
-    },
-    {
-      "id": "jobright-b895d119fb67",
-      "seen_at": "2026-10-07T23:01:18.809315+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6b2d4064da25272e1be51",
-      "seen_at": "2026-10-07T23:01:18.810075+00:00"
-    },
-    {
-      "id": "jobright-dd410611b19c",
-      "seen_at": "2026-10-07T23:01:18.810711+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6b17fd9621c5b283aa401",
-      "seen_at": "2026-10-07T23:01:18.811296+00:00"
-    },
-    {
       "id": "simplify-83ee00b3-b90e-4314-b858-f40404d237a2",
       "seen_at": "2026-10-07T23:31:08.130567+00:00"
     },
@@ -26761,14 +26721,10 @@
       "seen_at": "2026-11-06T23:01:20.262192+00:00"
     }
   ],
-  "last_run": "2026-11-06T23:01:21.331343+00:00",
+  "last_run": "2026-11-06T23:31:09.744263+00:00",
   "total_notified": 11819,
   "channels": {
     "pm-jobs": [
-      "jobright-b895d119fb67",
-      "url:https://jobright.ai/jobs/info/6ac6b2d4064da25272e1be51",
-      "jobright-dd410611b19c",
-      "url:https://jobright.ai/jobs/info/6ac6b17fd9621c5b283aa401",
       "ashby-supabase-bd5ce178-84c9-469e-89f4-493c21b50622",
       "url:https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622",
       "simplify-d7937e10-47e3-4200-8c2e-78a5c770d298",
@@ -27879,12 +27835,6 @@
       "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0047474"
     ],
     "swe-ai-full-time": [
-      "zapply-e956d39df841",
-      "url:https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751481",
-      "simplify-9fb89ebd-308d-44a4-801c-466765cbad8c",
-      "url:https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Software-Engineer--Building-Automation_R-2037",
-      "jobright-745bbb759382",
-      "url:https://jobright.ai/jobs/info/6ac6935cd9621c5b283a997e",
       "simplify-83ee00b3-b90e-4314-b858-f40404d237a2",
       "url:https://www.ixl.com/company/jobs",
       "simplify-88b1fed5-3a2e-4d03-92bb-903b93eb5917",
