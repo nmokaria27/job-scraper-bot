@@ -1,198 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-fd85ce386381",
-      "seen_at": "2026-10-07T10:01:19.447701+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-robinhood-8258305",
-      "seen_at": "2026-10-07T10:01:19.448412+00:00"
-    },
-    {
-      "id": "greenhouse-robinhood-8258305",
-      "seen_at": "2026-10-07T10:01:19.449080+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/robinhood/jobs/8258305",
-      "seen_at": "2026-10-07T10:01:19.449688+00:00"
-    },
-    {
-      "id": "simplify-03a16469-429d-4f34-a718-e27b73e3b992",
-      "seen_at": "2026-10-07T10:01:19.450319+00:00"
-    },
-    {
-      "id": "url:https://jobs.apple.com/en-us/details/200687375",
-      "seen_at": "2026-10-07T10:01:19.450926+00:00"
-    },
-    {
-      "id": "zapply-4c6280c52a10",
-      "seen_at": "2026-10-07T10:01:19.451557+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-81c8f1fd-97d2-48e1-aea5-83fd4918603e",
-      "seen_at": "2026-10-07T10:01:19.452178+00:00"
-    },
-    {
-      "id": "zapply-756df68f830a",
-      "seen_at": "2026-10-07T10:01:19.452793+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-e387f6a5-ffaa-4789-8896-acc7ff4e5d42",
-      "seen_at": "2026-10-07T10:01:19.453434+00:00"
-    },
-    {
-      "id": "zapply-5a7a92267b66",
-      "seen_at": "2026-10-07T10:01:19.454051+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-47d2a261-7989-4a4d-9b0c-9baeb3fcd47e",
-      "seen_at": "2026-10-07T10:01:19.454702+00:00"
-    },
-    {
-      "id": "simplify-bab3c73f-9824-4c77-9ad6-c7450b4e9ed8",
-      "seen_at": "2026-10-07T10:01:19.455339+00:00"
-    },
-    {
-      "id": "url:https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/MD---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1055601",
-      "seen_at": "2026-10-07T10:01:19.455938+00:00"
-    },
-    {
-      "id": "gradtracker-b7cdbd15a673",
-      "seen_at": "2026-10-07T10:01:19.456556+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10571353/software-development-engineer-platform-engineering-emerging-technology",
-      "seen_at": "2026-10-07T10:01:19.457184+00:00"
-    },
-    {
-      "id": "amazon-10571455",
-      "seen_at": "2026-10-07T10:01:19.457796+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10571455/software-development-engineer-dynamodb",
-      "seen_at": "2026-10-07T10:01:19.458413+00:00"
-    },
-    {
-      "id": "amazon-10571445",
-      "seen_at": "2026-10-07T10:01:19.459024+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10571445/software-development-engineer",
-      "seen_at": "2026-10-07T10:01:19.459636+00:00"
-    },
-    {
-      "id": "jobright-b171e99c2c32",
-      "seen_at": "2026-10-07T10:01:19.460268+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7a4f819ee17f276dbf27e8",
-      "seen_at": "2026-10-07T10:01:19.460878+00:00"
-    },
-    {
-      "id": "jobright-73aee6dbe7af",
-      "seen_at": "2026-10-07T10:01:19.461532+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac5ce5f372c01f6cd73b41b",
-      "seen_at": "2026-10-07T10:01:19.462154+00:00"
-    },
-    {
-      "id": "jobright-b20f2cb0b450",
-      "seen_at": "2026-10-07T10:01:19.462781+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac5cda60e027c0f3b3b07c5",
-      "seen_at": "2026-10-07T10:01:19.463403+00:00"
-    },
-    {
-      "id": "jobright-c49645309a08",
-      "seen_at": "2026-10-07T10:01:19.464028+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac5cb174ac55253f5d78277",
-      "seen_at": "2026-10-07T10:01:19.464663+00:00"
-    },
-    {
-      "id": "jobright-a778481b4da5",
-      "seen_at": "2026-10-07T10:01:19.465312+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac5caef8ff3fb9b3bc8b24d",
-      "seen_at": "2026-10-07T10:01:19.465920+00:00"
-    },
-    {
-      "id": "jobright-2f2debd6a248",
-      "seen_at": "2026-10-07T10:01:19.466552+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac5ed448ff3fb9b3bc8b76e",
-      "seen_at": "2026-10-07T10:01:19.467174+00:00"
-    },
-    {
-      "id": "jobright-b595c80573ca",
-      "seen_at": "2026-10-07T10:01:19.467795+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac5ed55372c01f6cd73b7b5",
-      "seen_at": "2026-10-07T10:01:19.468419+00:00"
-    },
-    {
-      "id": "jobright-f29c243fd59e",
-      "seen_at": "2026-10-07T10:01:19.469040+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab4686f64816213f2d9907d",
-      "seen_at": "2026-10-07T10:01:19.469688+00:00"
-    },
-    {
-      "id": "jobright-46cb324e6362",
-      "seen_at": "2026-10-07T10:01:19.470330+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a8ccd1c581f2d7bfdfe5d88",
-      "seen_at": "2026-10-07T10:01:19.470938+00:00"
-    },
-    {
-      "id": "jobright-0499a734493a",
-      "seen_at": "2026-10-07T10:01:19.471573+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac5ce45064da25272e18802",
-      "seen_at": "2026-10-07T10:01:19.472197+00:00"
-    },
-    {
-      "id": "jobright-1b4777c8a87b",
-      "seen_at": "2026-10-07T10:01:19.472820+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aaf424ede327d3e210d6805",
-      "seen_at": "2026-10-07T10:01:19.473453+00:00"
-    },
-    {
-      "id": "gradtracker-bcff7c663059",
-      "seen_at": "2026-10-07T10:01:19.474088+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10571348/software-development-engineer-frontier-amazon-dedicated-cloud-adc",
-      "seen_at": "2026-10-07T10:01:19.474690+00:00"
-    },
-    {
-      "id": "gradtracker-ad428a9129f4",
-      "seen_at": "2026-10-07T10:01:19.475317+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10571349/software-development-engineer-everglades",
-      "seen_at": "2026-10-07T10:01:19.475919+00:00"
-    },
-    {
-      "id": "workday-nvidia-JR2025458",
-      "seen_at": "2026-10-07T10:01:19.476544+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
-      "seen_at": "2026-10-07T10:01:19.477155+00:00"
-    },
-    {
       "id": "jobright-8a772bd5ca7b",
       "seen_at": "2026-10-07T11:01:33.573513+00:00"
     },
@@ -27039,10 +26847,114 @@
     {
       "id": "url:https://zapply.jobs/l/d/google-88601134075126470",
       "seen_at": "2026-11-06T03:01:16.344522+00:00"
+    },
+    {
+      "id": "simplify-8d9f37dc-7e91-4b54-8583-f266af7d0c8a",
+      "seen_at": "2026-11-06T11:01:15.578307+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7704036750285867269",
+      "seen_at": "2026-11-06T11:01:15.578804+00:00"
+    },
+    {
+      "id": "jobright-487bdb58629b",
+      "seen_at": "2026-11-06T11:01:15.579305+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab43f097bd08137133168ce",
+      "seen_at": "2026-11-06T11:01:15.579739+00:00"
+    },
+    {
+      "id": "jobright-99fc39908c65",
+      "seen_at": "2026-11-06T11:01:15.580206+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aed7da32f56743632810490",
+      "seen_at": "2026-11-06T11:01:15.580631+00:00"
+    },
+    {
+      "id": "jobright-33d57363df6f",
+      "seen_at": "2026-11-06T11:01:15.581092+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aed7c83f46c27c797e9cdb6",
+      "seen_at": "2026-11-06T11:01:15.581520+00:00"
+    },
+    {
+      "id": "jobright-e7963ad8ca6e",
+      "seen_at": "2026-11-06T11:01:15.581948+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aed0e253a3fa7f03ea8bb04",
+      "seen_at": "2026-11-06T11:01:15.582391+00:00"
+    },
+    {
+      "id": "jobright-7b01627b9801",
+      "seen_at": "2026-11-06T11:01:15.582867+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aed701ba3da3840d4abb340",
+      "seen_at": "2026-11-06T11:01:15.583316+00:00"
+    },
+    {
+      "id": "jobright-b415b78bf6cd",
+      "seen_at": "2026-11-06T11:01:15.583752+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aed8da4d20350c7a5073c89",
+      "seen_at": "2026-11-06T11:01:15.584190+00:00"
+    },
+    {
+      "id": "jobright-f2d79e831ce4",
+      "seen_at": "2026-11-06T11:01:15.584619+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aed62a1ab48a707938229ef",
+      "seen_at": "2026-11-06T11:01:15.585048+00:00"
+    },
+    {
+      "id": "jobright-eb54e54a2897",
+      "seen_at": "2026-11-06T11:01:15.585473+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aed1c7fa2661405dc2c934b",
+      "seen_at": "2026-11-06T11:01:15.585886+00:00"
+    },
+    {
+      "id": "jobright-b09085a74eb4",
+      "seen_at": "2026-11-06T11:01:15.586322+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aed6d10c3da5933b8136f83",
+      "seen_at": "2026-11-06T11:01:15.586734+00:00"
+    },
+    {
+      "id": "jobright-f7652e4e31da",
+      "seen_at": "2026-11-06T11:01:15.587180+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aed947bc7498922fe0c3602",
+      "seen_at": "2026-11-06T11:01:15.587593+00:00"
+    },
+    {
+      "id": "jobright-9367d96c0f2a",
+      "seen_at": "2026-11-06T11:01:15.588030+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7a4f819ee17f276dbf27e8",
+      "seen_at": "2026-11-06T11:01:15.588443+00:00"
+    },
+    {
+      "id": "ashby-cohere-fe2e2971-e2c0-43fd-9ab1-187571776a5d",
+      "seen_at": "2026-11-06T11:01:17.431416+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cohere/fe2e2971-e2c0-43fd-9ab1-187571776a5d",
+      "seen_at": "2026-11-06T11:01:17.431919+00:00"
     }
   ],
-  "last_run": "2026-11-06T04:31:09.135524+00:00",
-  "total_notified": 11718,
+  "last_run": "2026-11-06T11:01:17.707503+00:00",
+  "total_notified": 11731,
   "channels": {
     "pm-jobs": [
       "greenhouse-cloudflare-8242904",
@@ -28154,57 +28066,11 @@
       "jobright-ee26f94cc311",
       "url:https://jobright.ai/jobs/info/6aed16da3a3fa7f03ea8be91",
       "zapply-826db8a34fb2",
-      "url:https://zapply.jobs/l/d/google-88601134075126470"
+      "url:https://zapply.jobs/l/d/google-88601134075126470",
+      "ashby-cohere-fe2e2971-e2c0-43fd-9ab1-187571776a5d",
+      "url:https://jobs.ashbyhq.com/cohere/fe2e2971-e2c0-43fd-9ab1-187571776a5d"
     ],
     "swe-ai-full-time": [
-      "zapply-fd85ce386381",
-      "url:https://zapply.jobs/l/d/greenhouse-robinhood-8258305",
-      "greenhouse-robinhood-8258305",
-      "url:https://boards.greenhouse.io/robinhood/jobs/8258305",
-      "simplify-03a16469-429d-4f34-a718-e27b73e3b992",
-      "url:https://jobs.apple.com/en-us/details/200687375",
-      "zapply-4c6280c52a10",
-      "url:https://zapply.jobs/l/d/amazon-81c8f1fd-97d2-48e1-aea5-83fd4918603e",
-      "zapply-756df68f830a",
-      "url:https://zapply.jobs/l/d/amazon-e387f6a5-ffaa-4789-8896-acc7ff4e5d42",
-      "zapply-5a7a92267b66",
-      "url:https://zapply.jobs/l/d/amazon-47d2a261-7989-4a4d-9b0c-9baeb3fcd47e",
-      "simplify-bab3c73f-9824-4c77-9ad6-c7450b4e9ed8",
-      "url:https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/MD---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1055601",
-      "gradtracker-b7cdbd15a673",
-      "url:https://www.amazon.jobs/en/jobs/10571353/software-development-engineer-platform-engineering-emerging-technology",
-      "amazon-10571455",
-      "url:https://www.amazon.jobs/en/jobs/10571455/software-development-engineer-dynamodb",
-      "amazon-10571445",
-      "url:https://www.amazon.jobs/en/jobs/10571445/software-development-engineer",
-      "jobright-b171e99c2c32",
-      "url:https://jobright.ai/jobs/info/6a7a4f819ee17f276dbf27e8",
-      "jobright-73aee6dbe7af",
-      "url:https://jobright.ai/jobs/info/6ac5ce5f372c01f6cd73b41b",
-      "jobright-b20f2cb0b450",
-      "url:https://jobright.ai/jobs/info/6ac5cda60e027c0f3b3b07c5",
-      "jobright-c49645309a08",
-      "url:https://jobright.ai/jobs/info/6ac5cb174ac55253f5d78277",
-      "jobright-a778481b4da5",
-      "url:https://jobright.ai/jobs/info/6ac5caef8ff3fb9b3bc8b24d",
-      "jobright-2f2debd6a248",
-      "url:https://jobright.ai/jobs/info/6ac5ed448ff3fb9b3bc8b76e",
-      "jobright-b595c80573ca",
-      "url:https://jobright.ai/jobs/info/6ac5ed55372c01f6cd73b7b5",
-      "jobright-f29c243fd59e",
-      "url:https://jobright.ai/jobs/info/6ab4686f64816213f2d9907d",
-      "jobright-46cb324e6362",
-      "url:https://jobright.ai/jobs/info/6a8ccd1c581f2d7bfdfe5d88",
-      "jobright-0499a734493a",
-      "url:https://jobright.ai/jobs/info/6ac5ce45064da25272e18802",
-      "jobright-1b4777c8a87b",
-      "url:https://jobright.ai/jobs/info/6aaf424ede327d3e210d6805",
-      "gradtracker-bcff7c663059",
-      "url:https://www.amazon.jobs/en/jobs/10571348/software-development-engineer-frontier-amazon-dedicated-cloud-adc",
-      "gradtracker-ad428a9129f4",
-      "url:https://www.amazon.jobs/en/jobs/10571349/software-development-engineer-everglades",
-      "workday-nvidia-JR2025458",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
       "jobright-8a772bd5ca7b",
       "url:https://jobright.ai/jobs/info/6ac60c9d8ff3fb9b3bc8ba96",
       "zapply-f61917acb1bc",
@@ -33814,7 +33680,31 @@
       "jobright-a3cec79550fd",
       "url:https://jobright.ai/jobs/info/6aed0fc9ab48a70793821075",
       "greenhouse-xai-5286889007",
-      "url:https://job-boards.greenhouse.io/xai/jobs/5286889007"
+      "url:https://job-boards.greenhouse.io/xai/jobs/5286889007",
+      "simplify-8d9f37dc-7e91-4b54-8583-f266af7d0c8a",
+      "url:https://lifeattiktok.com/search/7704036750285867269",
+      "jobright-487bdb58629b",
+      "url:https://jobright.ai/jobs/info/6ab43f097bd08137133168ce",
+      "jobright-99fc39908c65",
+      "url:https://jobright.ai/jobs/info/6aed7da32f56743632810490",
+      "jobright-33d57363df6f",
+      "url:https://jobright.ai/jobs/info/6aed7c83f46c27c797e9cdb6",
+      "jobright-e7963ad8ca6e",
+      "url:https://jobright.ai/jobs/info/6aed0e253a3fa7f03ea8bb04",
+      "jobright-7b01627b9801",
+      "url:https://jobright.ai/jobs/info/6aed701ba3da3840d4abb340",
+      "jobright-b415b78bf6cd",
+      "url:https://jobright.ai/jobs/info/6aed8da4d20350c7a5073c89",
+      "jobright-f2d79e831ce4",
+      "url:https://jobright.ai/jobs/info/6aed62a1ab48a707938229ef",
+      "jobright-eb54e54a2897",
+      "url:https://jobright.ai/jobs/info/6aed1c7fa2661405dc2c934b",
+      "jobright-b09085a74eb4",
+      "url:https://jobright.ai/jobs/info/6aed6d10c3da5933b8136f83",
+      "jobright-f7652e4e31da",
+      "url:https://jobright.ai/jobs/info/6aed947bc7498922fe0c3602",
+      "jobright-9367d96c0f2a",
+      "url:https://jobright.ai/jobs/info/6a7a4f819ee17f276dbf27e8"
     ]
   }
 }
