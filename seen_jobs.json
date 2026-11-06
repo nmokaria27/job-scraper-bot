@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10572014",
-      "seen_at": "2026-10-07T16:31:15.517138+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10572014/software-development-engineer-agentic-commerce-buy-for-me",
-      "seen_at": "2026-10-07T16:31:15.517858+00:00"
-    },
-    {
       "id": "zapply-a495ed13acd2",
       "seen_at": "2026-10-07T17:24:47.167161+00:00"
     },
@@ -26831,10 +26823,74 @@
     {
       "id": "url:https://zapply.jobs/l/d/amd-93928",
       "seen_at": "2026-11-06T16:31:33.291093+00:00"
+    },
+    {
+      "id": "greenhouse-imc-4960533101",
+      "seen_at": "2026-11-06T17:01:52.788177+00:00"
+    },
+    {
+      "id": "url:https://job-boards.eu.greenhouse.io/imc/jobs/4960533101",
+      "seen_at": "2026-11-06T17:01:52.788588+00:00"
+    },
+    {
+      "id": "jobright-0dd1d153fa79",
+      "seen_at": "2026-11-06T17:01:52.788928+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aedec67caf8e660b87d871b",
+      "seen_at": "2026-11-06T17:01:52.789241+00:00"
+    },
+    {
+      "id": "jobright-4687a7351e78",
+      "seen_at": "2026-11-06T17:01:52.789552+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aede9ebe0c9de7b05f87ca6",
+      "seen_at": "2026-11-06T17:01:52.789879+00:00"
+    },
+    {
+      "id": "amazon-10598770",
+      "seen_at": "2026-11-06T17:01:52.790213+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10598770/data-scientist-phased-array-antenna-system-validation",
+      "seen_at": "2026-11-06T17:01:52.790497+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR364486",
+      "seen_at": "2026-11-06T17:01:52.790782+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/DevOps-Engineer---Member-of-Technical-Staff--MTS-_JR364486",
+      "seen_at": "2026-11-06T17:01:52.791053+00:00"
+    },
+    {
+      "id": "jobright-62bb1f382319",
+      "seen_at": "2026-11-06T17:01:52.791322+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeded03c7498922fe0c5a2c",
+      "seen_at": "2026-11-06T17:01:52.791595+00:00"
+    },
+    {
+      "id": "jobright-d39ef916994b",
+      "seen_at": "2026-11-06T17:01:54.484109+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a98527bc8ed473c5c7634bc",
+      "seen_at": "2026-11-06T17:01:54.484471+00:00"
+    },
+    {
+      "id": "jobright-a28dcd4f3b5d",
+      "seen_at": "2026-11-06T17:01:54.484781+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abc6c4d73339662c772405e",
+      "seen_at": "2026-11-06T17:01:54.485062+00:00"
     }
   ],
-  "last_run": "2026-11-06T16:31:33.591043+00:00",
-  "total_notified": 11747,
+  "last_run": "2026-11-06T17:01:54.791427+00:00",
+  "total_notified": 11755,
   "channels": {
     "pm-jobs": [
       "greenhouse-anthropic-5434369008",
@@ -27942,11 +27998,13 @@
       "jobright-976ea0e68f18",
       "url:https://jobright.ai/jobs/info/6ae8be36fb2cd420ace6839c",
       "zapply-4e58a913c52b",
-      "url:https://zapply.jobs/l/d/amd-93928"
+      "url:https://zapply.jobs/l/d/amd-93928",
+      "jobright-d39ef916994b",
+      "url:https://jobright.ai/jobs/info/6a98527bc8ed473c5c7634bc",
+      "jobright-a28dcd4f3b5d",
+      "url:https://jobright.ai/jobs/info/6abc6c4d73339662c772405e"
     ],
     "swe-ai-full-time": [
-      "amazon-10572014",
-      "url:https://www.amazon.jobs/en/jobs/10572014/software-development-engineer-agentic-commerce-buy-for-me",
       "zapply-a495ed13acd2",
       "url:https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-18251",
       "zapply-c42383725c8e",
@@ -33554,7 +33612,19 @@
       "jobright-f417498c5d2f",
       "url:https://jobright.ai/jobs/info/6aede7b0e0c9de7b05f87b7d",
       "simplify-3894dc6f-4a40-46a7-a802-6df2df2be783",
-      "url:https://career-schwab.icims.com/jobs/129593/job"
+      "url:https://career-schwab.icims.com/jobs/129593/job",
+      "greenhouse-imc-4960533101",
+      "url:https://job-boards.eu.greenhouse.io/imc/jobs/4960533101",
+      "jobright-0dd1d153fa79",
+      "url:https://jobright.ai/jobs/info/6aedec67caf8e660b87d871b",
+      "jobright-4687a7351e78",
+      "url:https://jobright.ai/jobs/info/6aede9ebe0c9de7b05f87ca6",
+      "amazon-10598770",
+      "url:https://www.amazon.jobs/en/jobs/10598770/data-scientist-phased-array-antenna-system-validation",
+      "workday-salesforce-JR364486",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/DevOps-Engineer---Member-of-Technical-Staff--MTS-_JR364486",
+      "jobright-62bb1f382319",
+      "url:https://jobright.ai/jobs/info/6aeded03c7498922fe0c5a2c"
     ]
   }
 }
