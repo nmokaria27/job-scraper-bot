@@ -26767,10 +26767,58 @@
     {
       "id": "url:https://boards.greenhouse.io/figma/jobs/6242561004",
       "seen_at": "2026-11-06T17:26:38.553290+00:00"
+    },
+    {
+      "id": "jobright-872dfc2671d6",
+      "seen_at": "2026-11-06T18:01:24.490903+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aedfd3ee0c9de7b05f887f1",
+      "seen_at": "2026-11-06T18:01:24.491241+00:00"
+    },
+    {
+      "id": "jobright-8b332b5d50f1",
+      "seen_at": "2026-11-06T18:01:24.491534+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aedf4f2caf8e660b87d8d92",
+      "seen_at": "2026-11-06T18:01:24.491786+00:00"
+    },
+    {
+      "id": "ashby-notion-73b0e05e-317f-4f84-8fb2-58dc8c3790a6",
+      "seen_at": "2026-11-06T18:01:26.043751+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/notion/73b0e05e-317f-4f84-8fb2-58dc8c3790a6",
+      "seen_at": "2026-11-06T18:01:26.044048+00:00"
+    },
+    {
+      "id": "zapply-fd6103298679",
+      "seen_at": "2026-11-06T18:01:26.044297+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-visa-visa-REF090095W",
+      "seen_at": "2026-11-06T18:01:26.044520+00:00"
+    },
+    {
+      "id": "zapply-acc19e984a32",
+      "seen_at": "2026-11-06T18:01:26.044755+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1518745",
+      "seen_at": "2026-11-06T18:01:26.044959+00:00"
+    },
+    {
+      "id": "jobright-c4064b248ddc",
+      "seen_at": "2026-11-06T18:01:26.045160+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aedfe79caf8e660b87d926d",
+      "seen_at": "2026-11-06T18:01:26.045349+00:00"
     }
   ],
-  "last_run": "2026-11-06T17:31:28.373884+00:00",
-  "total_notified": 11756,
+  "last_run": "2026-11-06T18:01:26.332009+00:00",
+  "total_notified": 11762,
   "channels": {
     "pm-jobs": [
       "zapply-648eed608305",
@@ -27876,7 +27924,15 @@
       "jobright-d39ef916994b",
       "url:https://jobright.ai/jobs/info/6a98527bc8ed473c5c7634bc",
       "jobright-a28dcd4f3b5d",
-      "url:https://jobright.ai/jobs/info/6abc6c4d73339662c772405e"
+      "url:https://jobright.ai/jobs/info/6abc6c4d73339662c772405e",
+      "ashby-notion-73b0e05e-317f-4f84-8fb2-58dc8c3790a6",
+      "url:https://jobs.ashbyhq.com/notion/73b0e05e-317f-4f84-8fb2-58dc8c3790a6",
+      "zapply-fd6103298679",
+      "url:https://zapply.jobs/l/d/workday-visa-visa-REF090095W",
+      "zapply-acc19e984a32",
+      "url:https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1518745",
+      "jobright-c4064b248ddc",
+      "url:https://jobright.ai/jobs/info/6aedfe79caf8e660b87d926d"
     ],
     "swe-ai-full-time": [
       "jobright-69c81c90c360",
@@ -33474,7 +33530,11 @@
       "jobright-62bb1f382319",
       "url:https://jobright.ai/jobs/info/6aeded03c7498922fe0c5a2c",
       "greenhouse-figma-6242561004",
-      "url:https://boards.greenhouse.io/figma/jobs/6242561004"
+      "url:https://boards.greenhouse.io/figma/jobs/6242561004",
+      "jobright-872dfc2671d6",
+      "url:https://jobright.ai/jobs/info/6aedfd3ee0c9de7b05f887f1",
+      "jobright-8b332b5d50f1",
+      "url:https://jobright.ai/jobs/info/6aedf4f2caf8e660b87d8d92"
     ]
   }
 }
