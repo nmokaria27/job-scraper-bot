@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-a1371b03fcde",
-      "seen_at": "2026-10-07T02:31:07.818712+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213648",
-      "seen_at": "2026-10-07T02:31:07.819291+00:00"
-    },
-    {
-      "id": "ashby-supabase-9a4c9984-07c7-4b47-982f-371de3f6ff50",
-      "seen_at": "2026-10-07T02:31:09.848800+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50",
-      "seen_at": "2026-10-07T02:31:09.849271+00:00"
-    },
-    {
       "id": "zapply-d1bf55263262",
       "seen_at": "2026-10-07T03:01:33.841696+00:00"
     },
@@ -27079,14 +27063,20 @@
     {
       "id": "url:https://job-boards.greenhouse.io/xai/jobs/5286889007",
       "seen_at": "2026-11-06T02:31:10.780704+00:00"
+    },
+    {
+      "id": "zapply-826db8a34fb2",
+      "seen_at": "2026-11-06T03:01:16.344241+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-88601134075126470",
+      "seen_at": "2026-11-06T03:01:16.344522+00:00"
     }
   ],
-  "last_run": "2026-11-06T02:31:11.858084+00:00",
-  "total_notified": 11717,
+  "last_run": "2026-11-06T03:01:16.594380+00:00",
+  "total_notified": 11718,
   "channels": {
     "pm-jobs": [
-      "ashby-supabase-9a4c9984-07c7-4b47-982f-371de3f6ff50",
-      "url:https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50",
       "zapply-2271a021949e",
       "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621111",
       "greenhouse-cloudflare-8242904",
@@ -28196,11 +28186,11 @@
       "zapply-b2d5894365d5",
       "url:https://zapply.jobs/l/d/sr-RedBull-744000159992289",
       "jobright-ee26f94cc311",
-      "url:https://jobright.ai/jobs/info/6aed16da3a3fa7f03ea8be91"
+      "url:https://jobright.ai/jobs/info/6aed16da3a3fa7f03ea8be91",
+      "zapply-826db8a34fb2",
+      "url:https://zapply.jobs/l/d/google-88601134075126470"
     ],
     "swe-ai-full-time": [
-      "zapply-a1371b03fcde",
-      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213648",
       "zapply-d1bf55263262",
       "url:https://zapply.jobs/l/d/workday-alteryx-alteryxcareers-R12529",
       "jobright-c2b2931e6bd3",
