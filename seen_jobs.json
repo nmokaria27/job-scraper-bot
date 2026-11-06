@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-elevenlabs-77f23be6-16c0-40c5-87b6-29dc2ee752ab",
-      "seen_at": "2026-10-07T15:31:41.517049+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/elevenlabs/77f23be6-16c0-40c5-87b6-29dc2ee752ab",
-      "seen_at": "2026-10-07T15:31:41.517569+00:00"
-    },
-    {
-      "id": "amazon-10571881",
-      "seen_at": "2026-10-07T15:31:41.517982+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10571881/applied-scientist-llm-buy-for-me",
-      "seen_at": "2026-10-07T15:31:41.518359+00:00"
-    },
-    {
-      "id": "zapply-a959bfed7c0c",
-      "seen_at": "2026-10-07T15:31:43.185686+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35096",
-      "seen_at": "2026-10-07T15:31:43.186086+00:00"
-    },
-    {
       "id": "jobright-8ecb79d5fe19",
       "seen_at": "2026-10-07T16:01:45.870080+00:00"
     },
@@ -26815,14 +26791,52 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10598681/system-development-engineer-ots-delivery-software-engineering",
       "seen_at": "2026-11-06T15:31:15.525438+00:00"
+    },
+    {
+      "id": "simplify-85aaae64-e026-46d9-aeab-35b8a7fc44f6",
+      "seen_at": "2026-11-06T16:01:22.620815+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/neurohire-dot-a-i/j/FC707275E0/apply",
+      "seen_at": "2026-11-06T16:01:22.621142+00:00"
+    },
+    {
+      "id": "jobright-b7dd861cb453",
+      "seen_at": "2026-11-06T16:01:22.621406+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeddf03e0c9de7b05f87838",
+      "seen_at": "2026-11-06T16:01:22.621652+00:00"
+    },
+    {
+      "id": "jobright-f417498c5d2f",
+      "seen_at": "2026-11-06T16:01:22.621897+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aede7b0e0c9de7b05f87b7d",
+      "seen_at": "2026-11-06T16:01:22.622138+00:00"
+    },
+    {
+      "id": "jobright-cb434dd43679",
+      "seen_at": "2026-11-06T16:01:24.258699+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab5865ed85922de20ce19bd",
+      "seen_at": "2026-11-06T16:01:24.259022+00:00"
+    },
+    {
+      "id": "jobright-976ea0e68f18",
+      "seen_at": "2026-11-06T16:01:24.259280+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8be36fb2cd420ace6839c",
+      "seen_at": "2026-11-06T16:01:24.259508+00:00"
     }
   ],
-  "last_run": "2026-11-06T15:31:16.594716+00:00",
-  "total_notified": 11740,
+  "last_run": "2026-11-06T16:01:25.159469+00:00",
+  "total_notified": 11745,
   "channels": {
     "pm-jobs": [
-      "zapply-a959bfed7c0c",
-      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35096",
       "greenhouse-anthropic-5434369008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5434369008",
       "zapply-8fa9da372845",
@@ -27922,13 +27936,13 @@
       "ashby-cohere-fe2e2971-e2c0-43fd-9ab1-187571776a5d",
       "url:https://jobs.ashbyhq.com/cohere/fe2e2971-e2c0-43fd-9ab1-187571776a5d",
       "jobright-9632b28ef61e",
-      "url:https://jobright.ai/jobs/info/6aedcf345c81f621d310e87e"
+      "url:https://jobright.ai/jobs/info/6aedcf345c81f621d310e87e",
+      "jobright-cb434dd43679",
+      "url:https://jobright.ai/jobs/info/6ab5865ed85922de20ce19bd",
+      "jobright-976ea0e68f18",
+      "url:https://jobright.ai/jobs/info/6ae8be36fb2cd420ace6839c"
     ],
     "swe-ai-full-time": [
-      "ashby-elevenlabs-77f23be6-16c0-40c5-87b6-29dc2ee752ab",
-      "url:https://jobs.ashbyhq.com/elevenlabs/77f23be6-16c0-40c5-87b6-29dc2ee752ab",
-      "amazon-10571881",
-      "url:https://www.amazon.jobs/en/jobs/10571881/applied-scientist-llm-buy-for-me",
       "jobright-8ecb79d5fe19",
       "url:https://jobright.ai/jobs/info/6ac652d2d9621c5b283a8395",
       "gradtracker-a3dd5bfe7d26",
@@ -33534,7 +33548,13 @@
       "ashby-openai-bd1ac97f-20f9-4727-9f92-7064035a416f",
       "url:https://jobs.ashbyhq.com/openai/bd1ac97f-20f9-4727-9f92-7064035a416f",
       "amazon-10598681",
-      "url:https://www.amazon.jobs/en/jobs/10598681/system-development-engineer-ots-delivery-software-engineering"
+      "url:https://www.amazon.jobs/en/jobs/10598681/system-development-engineer-ots-delivery-software-engineering",
+      "simplify-85aaae64-e026-46d9-aeab-35b8a7fc44f6",
+      "url:https://apply.workable.com/neurohire-dot-a-i/j/FC707275E0/apply",
+      "jobright-b7dd861cb453",
+      "url:https://jobright.ai/jobs/info/6aeddf03e0c9de7b05f87838",
+      "jobright-f417498c5d2f",
+      "url:https://jobright.ai/jobs/info/6aede7b0e0c9de7b05f87b7d"
     ]
   }
 }
