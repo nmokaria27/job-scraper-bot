@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-e2b0d83d49ff",
-      "seen_at": "2026-10-07T21:31:16.894235+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525833",
-      "seen_at": "2026-10-07T21:31:16.894746+00:00"
-    },
-    {
-      "id": "zapply-3da8edd4593c",
-      "seen_at": "2026-10-07T21:31:16.895148+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-4ecdad53-c099-48a2-ba87-cbd83f410c2c",
-      "seen_at": "2026-10-07T21:31:16.895536+00:00"
-    },
-    {
-      "id": "zapply-eaafc77450db",
-      "seen_at": "2026-10-07T21:31:18.586404+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35966",
-      "seen_at": "2026-10-07T21:31:18.586871+00:00"
-    },
-    {
-      "id": "greenhouse-mixpanel-8263237",
-      "seen_at": "2026-10-07T21:31:18.587230+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/mixpanel/jobs/8263237",
-      "seen_at": "2026-10-07T21:31:18.587575+00:00"
-    },
-    {
       "id": "jobright-cd91bff7f4b6",
       "seen_at": "2026-10-07T22:01:29.156302+00:00"
     },
@@ -26735,16 +26703,68 @@
     {
       "id": "url:https://jobs.ashbyhq.com/applied/1593a478-6c36-44b5-8c84-b2184380c14a",
       "seen_at": "2026-11-06T21:31:16.842326+00:00"
+    },
+    {
+      "id": "jobright-c000b51e2053",
+      "seen_at": "2026-11-06T22:01:19.926396+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aee30d1c7498922fe0c9bcb",
+      "seen_at": "2026-11-06T22:01:19.926725+00:00"
+    },
+    {
+      "id": "jobright-dfb8e7793d51",
+      "seen_at": "2026-11-06T22:01:19.927002+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aee3070d20350c7a507a285",
+      "seen_at": "2026-11-06T22:01:19.927257+00:00"
+    },
+    {
+      "id": "jobright-f186e83bd886",
+      "seen_at": "2026-11-06T22:01:19.927525+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aee32e85c81f621d3113a34",
+      "seen_at": "2026-11-06T22:01:19.927757+00:00"
+    },
+    {
+      "id": "jobright-ca2cc0ff4c2e",
+      "seen_at": "2026-11-06T22:01:19.927990+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aed7785a3da3840d4abb4f8",
+      "seen_at": "2026-11-06T22:01:19.928210+00:00"
+    },
+    {
+      "id": "jobright-53f543b56ea1",
+      "seen_at": "2026-11-06T22:01:19.928442+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aee14cf5c81f621d31114f0",
+      "seen_at": "2026-11-06T22:01:19.928653+00:00"
+    },
+    {
+      "id": "zapply-945a66e15b2f",
+      "seen_at": "2026-11-06T22:01:22.167493+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029543",
+      "seen_at": "2026-11-06T22:01:22.167772+00:00"
+    },
+    {
+      "id": "jobright-efd777b97897",
+      "seen_at": "2026-11-06T22:01:22.168010+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aee36765c81f621d3113f95",
+      "seen_at": "2026-11-06T22:01:22.168222+00:00"
     }
   ],
-  "last_run": "2026-11-06T21:31:17.125109+00:00",
-  "total_notified": 11802,
+  "last_run": "2026-11-06T22:01:22.382958+00:00",
+  "total_notified": 11809,
   "channels": {
     "pm-jobs": [
-      "zapply-eaafc77450db",
-      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35966",
-      "greenhouse-mixpanel-8263237",
-      "url:https://job-boards.greenhouse.io/mixpanel/jobs/8263237",
       "zapply-9bc20ec67802",
       "url:https://zapply.jobs/l/d/greenhouse-ixllearning-8862211002",
       "zapply-177db33a0cd3",
@@ -27852,13 +27872,13 @@
       "jobright-8374e43d7c33",
       "url:https://jobright.ai/jobs/info/6aee20ac5c81f621d31121ae",
       "ashby-applied-1593a478-6c36-44b5-8c84-b2184380c14a",
-      "url:https://jobs.ashbyhq.com/applied/1593a478-6c36-44b5-8c84-b2184380c14a"
+      "url:https://jobs.ashbyhq.com/applied/1593a478-6c36-44b5-8c84-b2184380c14a",
+      "zapply-945a66e15b2f",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029543",
+      "jobright-efd777b97897",
+      "url:https://jobright.ai/jobs/info/6aee36765c81f621d3113f95"
     ],
     "swe-ai-full-time": [
-      "zapply-e2b0d83d49ff",
-      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525833",
-      "zapply-3da8edd4593c",
-      "url:https://zapply.jobs/l/d/amazon-4ecdad53-c099-48a2-ba87-cbd83f410c2c",
       "jobright-cd91bff7f4b6",
       "url:https://jobright.ai/jobs/info/6ac6a7a34ac55253f5d7b627",
       "jobright-4485014e259e",
@@ -33434,7 +33454,17 @@
       "jobright-09b7aef4537a",
       "url:https://jobright.ai/jobs/info/6aee2925c7498922fe0c90cc",
       "amazon-10595562",
-      "url:https://www.amazon.jobs/en/jobs/10595562/machine-learning-engineer"
+      "url:https://www.amazon.jobs/en/jobs/10595562/machine-learning-engineer",
+      "jobright-c000b51e2053",
+      "url:https://jobright.ai/jobs/info/6aee30d1c7498922fe0c9bcb",
+      "jobright-dfb8e7793d51",
+      "url:https://jobright.ai/jobs/info/6aee3070d20350c7a507a285",
+      "jobright-f186e83bd886",
+      "url:https://jobright.ai/jobs/info/6aee32e85c81f621d3113a34",
+      "jobright-ca2cc0ff4c2e",
+      "url:https://jobright.ai/jobs/info/6aed7785a3da3840d4abb4f8",
+      "jobright-53f543b56ea1",
+      "url:https://jobright.ai/jobs/info/6aee14cf5c81f621d31114f0"
     ]
   }
 }
