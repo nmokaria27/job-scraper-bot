@@ -27127,10 +27127,58 @@
     {
       "id": "url:https://www.coinbase.com/careers/positions/8356838",
       "seen_at": "2026-11-05T23:31:30.676214+00:00"
+    },
+    {
+      "id": "ashby-openai-c90cfa58-7513-4998-a1ce-f6168dd8fc95",
+      "seen_at": "2026-11-06T00:01:41.259699+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/c90cfa58-7513-4998-a1ce-f6168dd8fc95",
+      "seen_at": "2026-11-06T00:01:41.260267+00:00"
+    },
+    {
+      "id": "simplify-e286c81e-9d91-47e7-9629-9185635680de",
+      "seen_at": "2026-11-06T00:01:41.260689+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/neurohire-dot-a-i/j/E5A5756725/apply",
+      "seen_at": "2026-11-06T00:01:41.261053+00:00"
+    },
+    {
+      "id": "simplify-02f41834-2a2e-4964-8780-2ad1148d6a18",
+      "seen_at": "2026-11-06T00:01:41.261445+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us",
+      "seen_at": "2026-11-06T00:01:41.261796+00:00"
+    },
+    {
+      "id": "simplify-28567561-232e-4d86-bb31-e684aa7ae533",
+      "seen_at": "2026-11-06T00:01:41.262175+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us",
+      "seen_at": "2026-11-06T00:01:41.262542+00:00"
+    },
+    {
+      "id": "simplify-c510e8f8-0e9e-41bd-aabc-52d797769f82",
+      "seen_at": "2026-11-06T00:01:41.262905+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1jB",
+      "seen_at": "2026-11-06T00:01:41.263289+00:00"
+    },
+    {
+      "id": "jobright-0cf4c0081717",
+      "seen_at": "2026-11-06T00:01:41.263653+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aecf91e3967d67f635a1769",
+      "seen_at": "2026-11-06T00:01:41.264006+00:00"
     }
   ],
-  "last_run": "2026-11-05T23:35:28.682598+00:00",
-  "total_notified": 11699,
+  "last_run": "2026-11-06T00:01:42.123643+00:00",
+  "total_notified": 11705,
   "channels": {
     "pm-jobs": [
       "zapply-9991568c87e7",
@@ -33924,7 +33972,19 @@
       "greenhouse-verkada-5283644007",
       "url:https://job-boards.greenhouse.io/verkada/jobs/5283644007",
       "amazon-10597320",
-      "url:https://www.amazon.jobs/en/jobs/10597320/software-development-engineer"
+      "url:https://www.amazon.jobs/en/jobs/10597320/software-development-engineer",
+      "ashby-openai-c90cfa58-7513-4998-a1ce-f6168dd8fc95",
+      "url:https://jobs.ashbyhq.com/openai/c90cfa58-7513-4998-a1ce-f6168dd8fc95",
+      "simplify-e286c81e-9d91-47e7-9629-9185635680de",
+      "url:https://apply.workable.com/neurohire-dot-a-i/j/E5A5756725/apply",
+      "simplify-02f41834-2a2e-4964-8780-2ad1148d6a18",
+      "url:https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us",
+      "simplify-28567561-232e-4d86-bb31-e684aa7ae533",
+      "url:https://amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us",
+      "simplify-c510e8f8-0e9e-41bd-aabc-52d797769f82",
+      "url:https://go.vansh.nyc/1jB",
+      "jobright-0cf4c0081717",
+      "url:https://jobright.ai/jobs/info/6aecf91e3967d67f635a1769"
     ]
   }
 }
