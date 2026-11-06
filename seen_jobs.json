@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-8ecb79d5fe19",
-      "seen_at": "2026-10-07T16:01:45.870080+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac652d2d9621c5b283a8395",
-      "seen_at": "2026-10-07T16:01:45.870892+00:00"
-    },
-    {
-      "id": "gradtracker-a3dd5bfe7d26",
-      "seen_at": "2026-10-07T16:01:45.871570+00:00"
-    },
-    {
-      "id": "url:https://paypal.eightfold.ai/careers/job/274922740164",
-      "seen_at": "2026-10-07T16:01:45.872206+00:00"
-    },
-    {
       "id": "amazon-10572014",
       "seen_at": "2026-10-07T16:31:15.517138+00:00"
     },
@@ -26831,10 +26815,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae8be36fb2cd420ace6839c",
       "seen_at": "2026-11-06T16:01:24.259508+00:00"
+    },
+    {
+      "id": "simplify-3894dc6f-4a40-46a7-a802-6df2df2be783",
+      "seen_at": "2026-11-06T16:31:30.998347+00:00"
+    },
+    {
+      "id": "url:https://career-schwab.icims.com/jobs/129593/job",
+      "seen_at": "2026-11-06T16:31:30.998998+00:00"
+    },
+    {
+      "id": "zapply-4e58a913c52b",
+      "seen_at": "2026-11-06T16:31:33.289763+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amd-93928",
+      "seen_at": "2026-11-06T16:31:33.291093+00:00"
     }
   ],
-  "last_run": "2026-11-06T16:01:25.159469+00:00",
-  "total_notified": 11745,
+  "last_run": "2026-11-06T16:31:33.591043+00:00",
+  "total_notified": 11747,
   "channels": {
     "pm-jobs": [
       "greenhouse-anthropic-5434369008",
@@ -27940,13 +27940,11 @@
       "jobright-cb434dd43679",
       "url:https://jobright.ai/jobs/info/6ab5865ed85922de20ce19bd",
       "jobright-976ea0e68f18",
-      "url:https://jobright.ai/jobs/info/6ae8be36fb2cd420ace6839c"
+      "url:https://jobright.ai/jobs/info/6ae8be36fb2cd420ace6839c",
+      "zapply-4e58a913c52b",
+      "url:https://zapply.jobs/l/d/amd-93928"
     ],
     "swe-ai-full-time": [
-      "jobright-8ecb79d5fe19",
-      "url:https://jobright.ai/jobs/info/6ac652d2d9621c5b283a8395",
-      "gradtracker-a3dd5bfe7d26",
-      "url:https://paypal.eightfold.ai/careers/job/274922740164",
       "amazon-10572014",
       "url:https://www.amazon.jobs/en/jobs/10572014/software-development-engineer-agentic-commerce-buy-for-me",
       "zapply-a495ed13acd2",
@@ -33554,7 +33552,9 @@
       "jobright-b7dd861cb453",
       "url:https://jobright.ai/jobs/info/6aeddf03e0c9de7b05f87838",
       "jobright-f417498c5d2f",
-      "url:https://jobright.ai/jobs/info/6aede7b0e0c9de7b05f87b7d"
+      "url:https://jobright.ai/jobs/info/6aede7b0e0c9de7b05f87b7d",
+      "simplify-3894dc6f-4a40-46a7-a802-6df2df2be783",
+      "url:https://career-schwab.icims.com/jobs/129593/job"
     ]
   }
 }
