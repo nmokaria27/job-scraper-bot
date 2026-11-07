@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-bafb4a89ecf4",
-      "seen_at": "2026-10-08T01:01:18.199613+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-dexcom-dexcom-JR120540",
-      "seen_at": "2026-10-08T01:01:18.200418+00:00"
-    },
-    {
-      "id": "workday-intel-JR0285592",
-      "seen_at": "2026-10-08T01:01:18.201151+00:00"
-    },
-    {
-      "id": "url:https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/Software-Development-Engineer_JR0285592",
-      "seen_at": "2026-10-08T01:01:18.201771+00:00"
-    },
-    {
-      "id": "jobright-d0206cd1029a",
-      "seen_at": "2026-10-08T01:01:18.202379+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6cb1bd9621c5b283aade8",
-      "seen_at": "2026-10-08T01:01:18.202990+00:00"
-    },
-    {
-      "id": "jobright-0240a5f80896",
-      "seen_at": "2026-10-08T01:01:18.203605+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6c9bf8ff3fb9b3bc8f2df",
-      "seen_at": "2026-10-08T01:01:18.204241+00:00"
-    },
-    {
-      "id": "jobright-0ee6fc7a6f61",
-      "seen_at": "2026-10-08T01:01:18.204876+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6c64a372c01f6cd73f108",
-      "seen_at": "2026-10-08T01:01:18.205469+00:00"
-    },
-    {
-      "id": "jobright-ee0c682ebdd4",
-      "seen_at": "2026-10-08T01:01:18.206097+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6bd04372c01f6cd73ed88",
-      "seen_at": "2026-10-08T01:01:18.206690+00:00"
-    },
-    {
-      "id": "jobright-32523ad0e000",
-      "seen_at": "2026-10-08T01:01:18.207304+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6bd02064da25272e1c179",
-      "seen_at": "2026-10-08T01:01:18.207987+00:00"
-    },
-    {
-      "id": "applyguy-05bad1af-9630-46a2-94af-49dd26825599",
-      "seen_at": "2026-10-08T01:01:18.208597+00:00"
-    },
-    {
-      "id": "url:https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
-      "seen_at": "2026-10-08T01:01:18.209197+00:00"
-    },
-    {
-      "id": "jobright-2a8da72542e7",
-      "seen_at": "2026-10-08T01:01:20.218216+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6bd040e027c0f3b3b416f",
-      "seen_at": "2026-10-08T01:01:20.218900+00:00"
-    },
-    {
       "id": "simplify-30d31584-e527-4263-b462-ed87f955068d",
       "seen_at": "2026-10-08T02:01:23.015583+00:00"
     },
@@ -26757,12 +26685,10 @@
       "seen_at": "2026-11-07T01:01:24.527136+00:00"
     }
   ],
-  "last_run": "2026-11-07T01:01:25.658795+00:00",
+  "last_run": "2026-11-07T01:31:04.774099+00:00",
   "total_notified": 11839,
   "channels": {
     "pm-jobs": [
-      "jobright-2a8da72542e7",
-      "url:https://jobright.ai/jobs/info/6ac6bd040e027c0f3b3b416f",
       "zapply-971b8dddda1d",
       "url:https://zapply.jobs/l/d/greenhouse-figma-6180116004",
       "jobright-0121ff9cc9bb",
@@ -27869,22 +27795,6 @@
       "url:https://job-boards.greenhouse.io/tintai/jobs/4751433005"
     ],
     "swe-ai-full-time": [
-      "zapply-bafb4a89ecf4",
-      "url:https://zapply.jobs/l/d/workday-dexcom-dexcom-JR120540",
-      "workday-intel-JR0285592",
-      "url:https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/Software-Development-Engineer_JR0285592",
-      "jobright-d0206cd1029a",
-      "url:https://jobright.ai/jobs/info/6ac6cb1bd9621c5b283aade8",
-      "jobright-0240a5f80896",
-      "url:https://jobright.ai/jobs/info/6ac6c9bf8ff3fb9b3bc8f2df",
-      "jobright-0ee6fc7a6f61",
-      "url:https://jobright.ai/jobs/info/6ac6c64a372c01f6cd73f108",
-      "jobright-ee0c682ebdd4",
-      "url:https://jobright.ai/jobs/info/6ac6bd04372c01f6cd73ed88",
-      "jobright-32523ad0e000",
-      "url:https://jobright.ai/jobs/info/6ac6bd02064da25272e1c179",
-      "applyguy-05bad1af-9630-46a2-94af-49dd26825599",
-      "url:https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
       "simplify-30d31584-e527-4263-b462-ed87f955068d",
       "url:https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application",
       "simplify-aeab73a2-30a9-4a0b-a25d-d708a9901f29",
