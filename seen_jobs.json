@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-30d31584-e527-4263-b462-ed87f955068d",
-      "seen_at": "2026-10-08T02:01:23.015583+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application",
-      "seen_at": "2026-10-08T02:01:23.016270+00:00"
-    },
-    {
-      "id": "simplify-aeab73a2-30a9-4a0b-a25d-d708a9901f29",
-      "seen_at": "2026-10-08T02:01:23.016947+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/niantic-spatial/aa5cac58-e677-4238-9d90-f05f3da9cd4f/application",
-      "seen_at": "2026-10-08T02:01:23.017552+00:00"
-    },
-    {
-      "id": "simplify-edc4278f-b222-4879-adc6-0a1a97a007a6",
-      "seen_at": "2026-10-08T02:01:23.018173+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7694054165508557109",
-      "seen_at": "2026-10-08T02:01:23.018779+00:00"
-    },
-    {
-      "id": "simplify-54109d7b-e383-4172-8aba-eda5ce54188b",
-      "seen_at": "2026-10-08T02:01:23.019418+00:00"
-    },
-    {
-      "id": "url:https://wholesale-harborfoods.icims.com/jobs/7921/job",
-      "seen_at": "2026-10-08T02:01:23.020032+00:00"
-    },
-    {
-      "id": "zapply-181828a80321",
-      "seen_at": "2026-10-08T02:01:23.020638+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/jazzhr-omnisciusconsulting-x5W2n0Eadq",
-      "seen_at": "2026-10-08T02:01:23.021250+00:00"
-    },
-    {
-      "id": "jobright-c5016c6b8b17",
-      "seen_at": "2026-10-08T02:01:23.021858+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6c13b064da25272e1c287",
-      "seen_at": "2026-10-08T02:01:23.022453+00:00"
-    },
-    {
-      "id": "jobright-a35d31956f90",
-      "seen_at": "2026-10-08T02:01:23.023085+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6c5dad9621c5b283aab38",
-      "seen_at": "2026-10-08T02:01:23.023690+00:00"
-    },
-    {
-      "id": "jobright-06e7395103e7",
-      "seen_at": "2026-10-08T02:01:23.024339+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6e05cd9621c5b283ab17b",
-      "seen_at": "2026-10-08T02:01:23.024969+00:00"
-    },
-    {
-      "id": "jobright-3151f8483717",
-      "seen_at": "2026-10-08T02:01:23.025579+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a56ce6ce9b77f668bd65ce2",
-      "seen_at": "2026-10-08T02:01:23.026188+00:00"
-    },
-    {
       "id": "zapply-b161f6e9d1d6",
       "seen_at": "2026-10-08T03:01:53.767183+00:00"
     },
@@ -26715,10 +26643,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aedfc2c5c81f621d3110013",
       "seen_at": "2026-11-07T02:01:17.210180+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2028908",
+      "seen_at": "2026-11-07T02:20:14.355477+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--Data-Curation---Autonomous-Vehicles_JR2028908",
+      "seen_at": "2026-11-07T02:20:14.355803+00:00"
     }
   ],
-  "last_run": "2026-11-07T02:01:18.292708+00:00",
-  "total_notified": 11843,
+  "last_run": "2026-11-07T02:20:15.101247+00:00",
+  "total_notified": 11844,
   "channels": {
     "pm-jobs": [
       "zapply-971b8dddda1d",
@@ -27827,24 +27763,6 @@
       "url:https://job-boards.greenhouse.io/tintai/jobs/4751433005"
     ],
     "swe-ai-full-time": [
-      "simplify-30d31584-e527-4263-b462-ed87f955068d",
-      "url:https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application",
-      "simplify-aeab73a2-30a9-4a0b-a25d-d708a9901f29",
-      "url:https://jobs.ashbyhq.com/niantic-spatial/aa5cac58-e677-4238-9d90-f05f3da9cd4f/application",
-      "simplify-edc4278f-b222-4879-adc6-0a1a97a007a6",
-      "url:https://lifeattiktok.com/search/7694054165508557109",
-      "simplify-54109d7b-e383-4172-8aba-eda5ce54188b",
-      "url:https://wholesale-harborfoods.icims.com/jobs/7921/job",
-      "zapply-181828a80321",
-      "url:https://zapply.jobs/l/d/jazzhr-omnisciusconsulting-x5W2n0Eadq",
-      "jobright-c5016c6b8b17",
-      "url:https://jobright.ai/jobs/info/6ac6c13b064da25272e1c287",
-      "jobright-a35d31956f90",
-      "url:https://jobright.ai/jobs/info/6ac6c5dad9621c5b283aab38",
-      "jobright-06e7395103e7",
-      "url:https://jobright.ai/jobs/info/6ac6e05cd9621c5b283ab17b",
-      "jobright-3151f8483717",
-      "url:https://jobright.ai/jobs/info/6a56ce6ce9b77f668bd65ce2",
       "zapply-b161f6e9d1d6",
       "url:https://zapply.jobs/l/d/amazon-7f615981-78d6-420c-b8c2-a9f51d505a25",
       "jobright-098ef6490018",
@@ -33408,7 +33326,9 @@
       "jobright-675f1ab77f6c",
       "url:https://jobright.ai/jobs/info/6aee6116bd2f33eea72dbb08",
       "jobright-23b388dcf19d",
-      "url:https://jobright.ai/jobs/info/6aedfc2c5c81f621d3110013"
+      "url:https://jobright.ai/jobs/info/6aedfc2c5c81f621d3110013",
+      "workday-nvidia-JR2028908",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--Data-Curation---Autonomous-Vehicles_JR2028908"
     ]
   }
 }
