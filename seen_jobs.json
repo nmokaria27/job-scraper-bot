@@ -26651,10 +26651,66 @@
     {
       "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--Data-Curation---Autonomous-Vehicles_JR2028908",
       "seen_at": "2026-11-07T02:20:14.355803+00:00"
+    },
+    {
+      "id": "simplify-4b5a24bb-4cb3-4d79-95d7-860287cc32b8",
+      "seen_at": "2026-11-07T03:01:17.637368+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/AbbVie/3743990016715126",
+      "seen_at": "2026-11-07T03:01:17.637777+00:00"
+    },
+    {
+      "id": "simplify-ace4e9cd-7570-4e01-9270-0686dce912d3",
+      "seen_at": "2026-11-07T03:01:17.638125+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/AbbVie/3743990016714871",
+      "seen_at": "2026-11-07T03:01:17.638429+00:00"
+    },
+    {
+      "id": "jobright-ad0b2b8a05a8",
+      "seen_at": "2026-11-07T03:01:17.638718+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aee3446e0c9de7b05f8c40b",
+      "seen_at": "2026-11-07T03:01:17.639026+00:00"
+    },
+    {
+      "id": "jobright-26438f04cbe0",
+      "seen_at": "2026-11-07T03:01:17.639326+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aee7c60d20350c7a507db05",
+      "seen_at": "2026-11-07T03:01:17.639612+00:00"
+    },
+    {
+      "id": "jobright-19e9d5bf03a1",
+      "seen_at": "2026-11-07T03:01:17.639928+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aee79d2e0c9de7b05f8f46f",
+      "seen_at": "2026-11-07T03:01:17.640211+00:00"
+    },
+    {
+      "id": "jobright-f6b9d198bc09",
+      "seen_at": "2026-11-07T03:01:17.640501+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5b4324856af468ab00c617",
+      "seen_at": "2026-11-07T03:01:17.640776+00:00"
+    },
+    {
+      "id": "jobright-c1867ebae852",
+      "seen_at": "2026-11-07T03:01:17.641081+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aedfd3ebd2f33eea72d5a9b",
+      "seen_at": "2026-11-07T03:01:17.641351+00:00"
     }
   ],
-  "last_run": "2026-11-07T02:31:43.647740+00:00",
-  "total_notified": 11844,
+  "last_run": "2026-11-07T03:01:18.504803+00:00",
+  "total_notified": 11851,
   "channels": {
     "pm-jobs": [
       "zapply-971b8dddda1d",
@@ -33328,7 +33384,21 @@
       "jobright-23b388dcf19d",
       "url:https://jobright.ai/jobs/info/6aedfc2c5c81f621d3110013",
       "workday-nvidia-JR2028908",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--Data-Curation---Autonomous-Vehicles_JR2028908"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--Data-Curation---Autonomous-Vehicles_JR2028908",
+      "simplify-4b5a24bb-4cb3-4d79-95d7-860287cc32b8",
+      "url:https://jobs.smartrecruiters.com/AbbVie/3743990016715126",
+      "simplify-ace4e9cd-7570-4e01-9270-0686dce912d3",
+      "url:https://jobs.smartrecruiters.com/AbbVie/3743990016714871",
+      "jobright-ad0b2b8a05a8",
+      "url:https://jobright.ai/jobs/info/6aee3446e0c9de7b05f8c40b",
+      "jobright-26438f04cbe0",
+      "url:https://jobright.ai/jobs/info/6aee7c60d20350c7a507db05",
+      "jobright-19e9d5bf03a1",
+      "url:https://jobright.ai/jobs/info/6aee79d2e0c9de7b05f8f46f",
+      "jobright-f6b9d198bc09",
+      "url:https://jobright.ai/jobs/info/6a5b4324856af468ab00c617",
+      "jobright-c1867ebae852",
+      "url:https://jobright.ai/jobs/info/6aedfd3ebd2f33eea72d5a9b"
     ]
   }
 }
