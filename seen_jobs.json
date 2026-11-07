@@ -26683,10 +26683,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aee564fd20350c7a507c2cc",
       "seen_at": "2026-11-07T01:01:24.527136+00:00"
+    },
+    {
+      "id": "zapply-96147a072ba8",
+      "seen_at": "2026-11-07T02:01:17.206510+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-AbbVie-3743990016715126",
+      "seen_at": "2026-11-07T02:01:17.207164+00:00"
+    },
+    {
+      "id": "jobright-b051a73c8fc3",
+      "seen_at": "2026-11-07T02:01:17.207698+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aee6dcb5c81f621d3116741",
+      "seen_at": "2026-11-07T02:01:17.208212+00:00"
+    },
+    {
+      "id": "jobright-675f1ab77f6c",
+      "seen_at": "2026-11-07T02:01:17.208746+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aee6116bd2f33eea72dbb08",
+      "seen_at": "2026-11-07T02:01:17.209203+00:00"
+    },
+    {
+      "id": "jobright-23b388dcf19d",
+      "seen_at": "2026-11-07T02:01:17.209690+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aedfc2c5c81f621d3110013",
+      "seen_at": "2026-11-07T02:01:17.210180+00:00"
     }
   ],
-  "last_run": "2026-11-07T01:31:04.774099+00:00",
-  "total_notified": 11839,
+  "last_run": "2026-11-07T02:01:18.292708+00:00",
+  "total_notified": 11843,
   "channels": {
     "pm-jobs": [
       "zapply-971b8dddda1d",
@@ -33368,7 +33400,15 @@
       "jobright-05d2e8eaa362",
       "url:https://jobright.ai/jobs/info/6aee56585c81f621d31155f9",
       "jobright-f81ae4706e75",
-      "url:https://jobright.ai/jobs/info/6aee564fd20350c7a507c2cc"
+      "url:https://jobright.ai/jobs/info/6aee564fd20350c7a507c2cc",
+      "zapply-96147a072ba8",
+      "url:https://zapply.jobs/l/d/sr-AbbVie-3743990016715126",
+      "jobright-b051a73c8fc3",
+      "url:https://jobright.ai/jobs/info/6aee6dcb5c81f621d3116741",
+      "jobright-675f1ab77f6c",
+      "url:https://jobright.ai/jobs/info/6aee6116bd2f33eea72dbb08",
+      "jobright-23b388dcf19d",
+      "url:https://jobright.ai/jobs/info/6aedfc2c5c81f621d3110013"
     ]
   }
 }
