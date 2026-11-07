@@ -1,86 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-b13241037ccb",
-      "seen_at": "2026-10-08T20:01:27.507042+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-ServiceNow-744000154515244",
-      "seen_at": "2026-10-08T20:01:27.507816+00:00"
-    },
-    {
-      "id": "zapply-c2ecdf871cd4",
-      "seen_at": "2026-10-08T20:01:27.508566+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-botauto-5448119008",
-      "seen_at": "2026-10-08T20:01:27.509222+00:00"
-    },
-    {
-      "id": "jobright-641d07b9118b",
-      "seen_at": "2026-10-08T20:01:27.509897+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac7dcd944d6e65604a04ccc",
-      "seen_at": "2026-10-08T20:01:27.510523+00:00"
-    },
-    {
-      "id": "jobright-8ae1830d0067",
-      "seen_at": "2026-10-08T20:01:27.511196+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac7dc9aa444ac5d36f864d1",
-      "seen_at": "2026-10-08T20:01:27.511830+00:00"
-    },
-    {
-      "id": "jobright-4beeff7ea97f",
-      "seen_at": "2026-10-08T20:01:27.512470+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac7d237a444ac5d36f85fde",
-      "seen_at": "2026-10-08T20:01:27.513113+00:00"
-    },
-    {
-      "id": "zapply-f4629fc7cda8",
-      "seen_at": "2026-10-08T20:01:29.625806+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052851",
-      "seen_at": "2026-10-08T20:01:29.626451+00:00"
-    },
-    {
-      "id": "zapply-a862db9254c8",
-      "seen_at": "2026-10-08T20:01:29.627063+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-jj-jj-R-102895",
-      "seen_at": "2026-10-08T20:01:29.627634+00:00"
-    },
-    {
-      "id": "jobright-a35205f4e09f",
-      "seen_at": "2026-10-08T20:01:29.628199+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac7dd920e573df8adc74cf0",
-      "seen_at": "2026-10-08T20:01:29.628762+00:00"
-    },
-    {
-      "id": "jobright-76171efbeb34",
-      "seen_at": "2026-10-08T20:01:29.629326+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac7d809fcdafb60c6a462c6",
-      "seen_at": "2026-10-08T20:01:29.629906+00:00"
-    },
-    {
-      "id": "jobright-d9581e5885e3",
-      "seen_at": "2026-10-08T20:01:29.630479+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac7e28251a1b3e4219ef2fa",
-      "seen_at": "2026-10-08T20:01:29.631127+00:00"
-    },
-    {
       "id": "zapply-589bc8714522",
       "seen_at": "2026-10-08T20:31:12.810596+00:00"
     },
@@ -26235,22 +26155,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ab69867c6fe0dec811a55e7",
       "seen_at": "2026-11-07T20:01:26.372910+00:00"
+    },
+    {
+      "id": "ashby-perplexity-1056951e-8a42-4330-b72c-90162b3cd1c9",
+      "seen_at": "2026-11-07T20:28:57.133378+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9",
+      "seen_at": "2026-11-07T20:28:57.133730+00:00"
     }
   ],
-  "last_run": "2026-11-07T20:01:26.602811+00:00",
-  "total_notified": 11893,
+  "last_run": "2026-11-07T20:28:57.757101+00:00",
+  "total_notified": 11894,
   "channels": {
     "pm-jobs": [
-      "zapply-f4629fc7cda8",
-      "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052851",
-      "zapply-a862db9254c8",
-      "url:https://zapply.jobs/l/d/workday-jj-jj-R-102895",
-      "jobright-a35205f4e09f",
-      "url:https://jobright.ai/jobs/info/6ac7dd920e573df8adc74cf0",
-      "jobright-76171efbeb34",
-      "url:https://jobright.ai/jobs/info/6ac7d809fcdafb60c6a462c6",
-      "jobright-d9581e5885e3",
-      "url:https://jobright.ai/jobs/info/6ac7e28251a1b3e4219ef2fa",
       "zapply-cf75cbe552b5",
       "url:https://zapply.jobs/l/d/workday-zayo-zayo-careers-R0017247",
       "jobright-96096bd44d77",
@@ -27334,16 +27252,6 @@
       "url:https://jobright.ai/jobs/info/6ab69867c6fe0dec811a55e7"
     ],
     "swe-ai-full-time": [
-      "zapply-b13241037ccb",
-      "url:https://zapply.jobs/l/d/sr-ServiceNow-744000154515244",
-      "zapply-c2ecdf871cd4",
-      "url:https://zapply.jobs/l/d/greenhouse-botauto-5448119008",
-      "jobright-641d07b9118b",
-      "url:https://jobright.ai/jobs/info/6ac7dcd944d6e65604a04ccc",
-      "jobright-8ae1830d0067",
-      "url:https://jobright.ai/jobs/info/6ac7dc9aa444ac5d36f864d1",
-      "jobright-4beeff7ea97f",
-      "url:https://jobright.ai/jobs/info/6ac7d237a444ac5d36f85fde",
       "zapply-589bc8714522",
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522010",
       "greenhouse-roblox-8159854",
@@ -32807,7 +32715,9 @@
       "jobright-33eec196c954",
       "url:https://jobright.ai/jobs/info/6a72950802d93145bf895468",
       "jobright-bd07a23fc73d",
-      "url:https://jobright.ai/jobs/info/6ab6d51cba1c25652c610239"
+      "url:https://jobright.ai/jobs/info/6ab6d51cba1c25652c610239",
+      "ashby-perplexity-1056951e-8a42-4330-b72c-90162b3cd1c9",
+      "url:https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9"
     ]
   }
 }
