@@ -1,102 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-5f39772a72f1",
-      "seen_at": "2026-10-08T10:01:19.633842+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023750",
-      "seen_at": "2026-10-08T10:01:19.634560+00:00"
-    },
-    {
-      "id": "zapply-7108fc65618b",
-      "seen_at": "2026-10-08T10:01:19.635233+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025504",
-      "seen_at": "2026-10-08T10:01:19.635867+00:00"
-    },
-    {
-      "id": "zapply-c63c8e737531",
-      "seen_at": "2026-10-08T10:01:19.636483+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229866",
-      "seen_at": "2026-10-08T10:01:19.637157+00:00"
-    },
-    {
-      "id": "zapply-2cf4058fd640",
-      "seen_at": "2026-10-08T10:01:19.637855+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2628997",
-      "seen_at": "2026-10-08T10:01:19.638469+00:00"
-    },
-    {
-      "id": "zapply-86eb77e6c088",
-      "seen_at": "2026-10-08T10:01:19.639116+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2628998",
-      "seen_at": "2026-10-08T10:01:19.639742+00:00"
-    },
-    {
-      "id": "jobright-c6ecd03d4a7c",
-      "seen_at": "2026-10-08T10:01:19.640366+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac7580c4ac55253f5d7da14",
-      "seen_at": "2026-10-08T10:01:19.640987+00:00"
-    },
-    {
-      "id": "gradtracker-c849bfea5402",
-      "seen_at": "2026-10-08T10:01:19.641639+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10572862/software-development-engineer-fees-tech",
-      "seen_at": "2026-10-08T10:01:19.642241+00:00"
-    },
-    {
-      "id": "jobright-25b2ba6ee15b",
-      "seen_at": "2026-10-08T10:01:19.642872+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6eca58ff3fb9b3bc8f935",
-      "seen_at": "2026-10-08T10:01:19.643489+00:00"
-    },
-    {
-      "id": "gradtracker-bf17fdaeacbe",
-      "seen_at": "2026-10-08T10:01:19.644124+00:00"
-    },
-    {
-      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
-      "seen_at": "2026-10-08T10:01:19.644740+00:00"
-    },
-    {
-      "id": "gradtracker-436f8afa72a8",
-      "seen_at": "2026-10-08T10:01:19.645349+00:00"
-    },
-    {
-      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
-      "seen_at": "2026-10-08T10:01:19.645959+00:00"
-    },
-    {
-      "id": "zapply-971b8dddda1d",
-      "seen_at": "2026-10-08T10:01:21.531690+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-figma-6180116004",
-      "seen_at": "2026-10-08T10:01:21.532293+00:00"
-    },
-    {
-      "id": "jobright-0121ff9cc9bb",
-      "seen_at": "2026-10-08T10:01:21.532887+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6f97c8ff3fb9b3bc8fae1",
-      "seen_at": "2026-10-08T10:01:21.533443+00:00"
-    },
-    {
       "id": "zapply-bb4a8086aee9",
       "seen_at": "2026-10-08T11:31:25.185179+00:00"
     },
@@ -26675,16 +26579,116 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aee84315c81f621d3117003",
       "seen_at": "2026-11-07T04:01:10.727979+00:00"
+    },
+    {
+      "id": "jobright-287f26720433",
+      "seen_at": "2026-11-07T11:01:11.730888+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeef1269f8e479a8bcfaf5b",
+      "seen_at": "2026-11-07T11:01:11.731222+00:00"
+    },
+    {
+      "id": "jobright-3f9ec376bc3b",
+      "seen_at": "2026-11-07T11:01:11.731491+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab680f44873fd3fd852d7b6",
+      "seen_at": "2026-11-07T11:01:11.731753+00:00"
+    },
+    {
+      "id": "jobright-d44800394828",
+      "seen_at": "2026-11-07T11:01:11.731993+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aed19fe3a3fa7f03ea8bfee",
+      "seen_at": "2026-11-07T11:01:11.732216+00:00"
+    },
+    {
+      "id": "jobright-3c34f77262c6",
+      "seen_at": "2026-11-07T11:01:11.732438+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab1263d32552369083e07a4",
+      "seen_at": "2026-11-07T11:01:11.732669+00:00"
+    },
+    {
+      "id": "gradtracker-324f62f4adfe",
+      "seen_at": "2026-11-07T11:01:11.732886+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10599299/software-development-engineer-amazon-leo-embedded-platform",
+      "seen_at": "2026-11-07T11:01:11.733081+00:00"
+    },
+    {
+      "id": "amazon-10597677",
+      "seen_at": "2026-11-07T11:01:11.733281+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10597677/software-development-engineer-platform-engineering-emerging-technology",
+      "seen_at": "2026-11-07T11:01:11.733480+00:00"
+    },
+    {
+      "id": "jobright-3d89e10b897d",
+      "seen_at": "2026-11-07T11:01:11.733687+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeedff59f8e479a8bcface1",
+      "seen_at": "2026-11-07T11:01:11.733888+00:00"
+    },
+    {
+      "id": "jobright-13528e19a709",
+      "seen_at": "2026-11-07T11:01:11.734098+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeec22a9f8e479a8bcfa9e7",
+      "seen_at": "2026-11-07T11:01:11.734306+00:00"
+    },
+    {
+      "id": "jobright-d7028499bc42",
+      "seen_at": "2026-11-07T11:01:11.734530+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeec0ba40b5de2d2b30e5e4",
+      "seen_at": "2026-11-07T11:01:11.734768+00:00"
+    },
+    {
+      "id": "jobright-b6d9553c4735",
+      "seen_at": "2026-11-07T11:01:11.734990+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeeacff9f8e479a8bcfa19d",
+      "seen_at": "2026-11-07T11:01:11.735192+00:00"
+    },
+    {
+      "id": "jobright-4c5d44225511",
+      "seen_at": "2026-11-07T11:01:11.735406+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae438e9eab1f96730979d17",
+      "seen_at": "2026-11-07T11:01:11.735654+00:00"
+    },
+    {
+      "id": "workday-intel-JR0288917",
+      "seen_at": "2026-11-07T11:01:11.735869+00:00"
+    },
+    {
+      "id": "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0288917",
+      "seen_at": "2026-11-07T11:01:11.736073+00:00"
+    },
+    {
+      "id": "jobright-0d5214dab0e9",
+      "seen_at": "2026-11-07T11:01:13.284932+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeecdba40b5de2d2b30e7c6",
+      "seen_at": "2026-11-07T11:01:13.285202+00:00"
     }
   ],
-  "last_run": "2026-11-07T04:31:09.003219+00:00",
-  "total_notified": 11852,
+  "last_run": "2026-11-07T11:01:13.617158+00:00",
+  "total_notified": 11865,
   "channels": {
     "pm-jobs": [
-      "zapply-971b8dddda1d",
-      "url:https://zapply.jobs/l/d/greenhouse-figma-6180116004",
-      "jobright-0121ff9cc9bb",
-      "url:https://jobright.ai/jobs/info/6ac6f97c8ff3fb9b3bc8fae1",
       "jobright-55bdd337d78a",
       "url:https://jobright.ai/jobs/info/6a9e2a2875edfa11b47106cc",
       "jobright-33951b8fe795",
@@ -27784,29 +27788,11 @@
       "zapply-9eb3883c5a04",
       "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0047474",
       "simplify-a70aef59-61dd-4987-8190-8823e44a4c0d",
-      "url:https://job-boards.greenhouse.io/tintai/jobs/4751433005"
+      "url:https://job-boards.greenhouse.io/tintai/jobs/4751433005",
+      "jobright-0d5214dab0e9",
+      "url:https://jobright.ai/jobs/info/6aeecdba40b5de2d2b30e7c6"
     ],
     "swe-ai-full-time": [
-      "zapply-5f39772a72f1",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023750",
-      "zapply-7108fc65618b",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025504",
-      "zapply-c63c8e737531",
-      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229866",
-      "zapply-2cf4058fd640",
-      "url:https://zapply.jobs/l/d/workday-amat-external-R2628997",
-      "zapply-86eb77e6c088",
-      "url:https://zapply.jobs/l/d/workday-amat-external-R2628998",
-      "jobright-c6ecd03d4a7c",
-      "url:https://jobright.ai/jobs/info/6ac7580c4ac55253f5d7da14",
-      "gradtracker-c849bfea5402",
-      "url:https://www.amazon.jobs/en/jobs/10572862/software-development-engineer-fees-tech",
-      "jobright-25b2ba6ee15b",
-      "url:https://jobright.ai/jobs/info/6ac6eca58ff3fb9b3bc8f935",
-      "gradtracker-bf17fdaeacbe",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
-      "gradtracker-436f8afa72a8",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
       "zapply-bb4a8086aee9",
       "url:https://zapply.jobs/l/d/phenom-cisco-2025504",
       "applyguy-cb2aa156-0344-4105-bb18-ac0434baaaa9",
@@ -33358,7 +33344,31 @@
       "jobright-c1867ebae852",
       "url:https://jobright.ai/jobs/info/6aedfd3ebd2f33eea72d5a9b",
       "jobright-005345ff154a",
-      "url:https://jobright.ai/jobs/info/6aee84315c81f621d3117003"
+      "url:https://jobright.ai/jobs/info/6aee84315c81f621d3117003",
+      "jobright-287f26720433",
+      "url:https://jobright.ai/jobs/info/6aeef1269f8e479a8bcfaf5b",
+      "jobright-3f9ec376bc3b",
+      "url:https://jobright.ai/jobs/info/6ab680f44873fd3fd852d7b6",
+      "jobright-d44800394828",
+      "url:https://jobright.ai/jobs/info/6aed19fe3a3fa7f03ea8bfee",
+      "jobright-3c34f77262c6",
+      "url:https://jobright.ai/jobs/info/6ab1263d32552369083e07a4",
+      "gradtracker-324f62f4adfe",
+      "url:https://www.amazon.jobs/en/jobs/10599299/software-development-engineer-amazon-leo-embedded-platform",
+      "amazon-10597677",
+      "url:https://www.amazon.jobs/en/jobs/10597677/software-development-engineer-platform-engineering-emerging-technology",
+      "jobright-3d89e10b897d",
+      "url:https://jobright.ai/jobs/info/6aeedff59f8e479a8bcface1",
+      "jobright-13528e19a709",
+      "url:https://jobright.ai/jobs/info/6aeec22a9f8e479a8bcfa9e7",
+      "jobright-d7028499bc42",
+      "url:https://jobright.ai/jobs/info/6aeec0ba40b5de2d2b30e5e4",
+      "jobright-b6d9553c4735",
+      "url:https://jobright.ai/jobs/info/6aeeacff9f8e479a8bcfa19d",
+      "jobright-4c5d44225511",
+      "url:https://jobright.ai/jobs/info/6ae438e9eab1f96730979d17",
+      "workday-intel-JR0288917",
+      "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0288917"
     ]
   }
 }
