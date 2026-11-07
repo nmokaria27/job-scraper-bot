@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-2451f3298268",
-      "seen_at": "2026-10-08T19:31:22.939824+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-analogdevices-external-R266702",
-      "seen_at": "2026-10-08T19:31:22.940388+00:00"
-    },
-    {
-      "id": "zapply-45915dd5edad",
-      "seen_at": "2026-10-08T19:31:22.940872+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525674",
-      "seen_at": "2026-10-08T19:31:22.941339+00:00"
-    },
-    {
-      "id": "amazon-10573921",
-      "seen_at": "2026-10-08T19:31:22.941790+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs",
-      "seen_at": "2026-10-08T19:31:22.942250+00:00"
-    },
-    {
       "id": "zapply-b13241037ccb",
       "seen_at": "2026-10-08T20:01:27.507042+00:00"
     },
@@ -26243,10 +26219,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a72950802d93145bf895468",
       "seen_at": "2026-11-07T19:31:06.685467+00:00"
+    },
+    {
+      "id": "jobright-bd07a23fc73d",
+      "seen_at": "2026-11-07T20:01:25.041743+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6d51cba1c25652c610239",
+      "seen_at": "2026-11-07T20:01:25.042051+00:00"
+    },
+    {
+      "id": "jobright-372ed875eee6",
+      "seen_at": "2026-11-07T20:01:26.372651+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab69867c6fe0dec811a55e7",
+      "seen_at": "2026-11-07T20:01:26.372910+00:00"
     }
   ],
-  "last_run": "2026-11-07T19:31:07.475670+00:00",
-  "total_notified": 11891,
+  "last_run": "2026-11-07T20:01:26.602811+00:00",
+  "total_notified": 11893,
   "channels": {
     "pm-jobs": [
       "zapply-f4629fc7cda8",
@@ -27337,15 +27329,11 @@
       "jobright-8f8d1f9bb0dd",
       "url:https://jobright.ai/jobs/info/6a4618034f64ba41dcb4fd12",
       "jobright-1c3e23633035",
-      "url:https://jobright.ai/jobs/info/6aef3a0b0fe787d00ed1a0c0"
+      "url:https://jobright.ai/jobs/info/6aef3a0b0fe787d00ed1a0c0",
+      "jobright-372ed875eee6",
+      "url:https://jobright.ai/jobs/info/6ab69867c6fe0dec811a55e7"
     ],
     "swe-ai-full-time": [
-      "zapply-2451f3298268",
-      "url:https://zapply.jobs/l/d/workday-analogdevices-external-R266702",
-      "zapply-45915dd5edad",
-      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525674",
-      "amazon-10573921",
-      "url:https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs",
       "zapply-b13241037ccb",
       "url:https://zapply.jobs/l/d/sr-ServiceNow-744000154515244",
       "zapply-c2ecdf871cd4",
@@ -32817,7 +32805,9 @@
       "jobright-190031aa4369",
       "url:https://jobright.ai/jobs/info/6aef55889f8e479a8bcfc7a8",
       "jobright-33eec196c954",
-      "url:https://jobright.ai/jobs/info/6a72950802d93145bf895468"
+      "url:https://jobright.ai/jobs/info/6a72950802d93145bf895468",
+      "jobright-bd07a23fc73d",
+      "url:https://jobright.ai/jobs/info/6ab6d51cba1c25652c610239"
     ]
   }
 }
