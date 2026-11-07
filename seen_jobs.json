@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-589bc8714522",
-      "seen_at": "2026-10-08T20:31:12.810596+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522010",
-      "seen_at": "2026-10-08T20:31:12.811329+00:00"
-    },
-    {
-      "id": "greenhouse-roblox-8159854",
-      "seen_at": "2026-10-08T20:31:12.811982+00:00"
-    },
-    {
-      "id": "url:https://careers.roblox.com/jobs/8159854",
-      "seen_at": "2026-10-08T20:31:12.812619+00:00"
-    },
-    {
-      "id": "zapply-5ae017d4df98",
-      "seen_at": "2026-10-08T20:31:12.813287+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226307",
-      "seen_at": "2026-10-08T20:31:12.813921+00:00"
-    },
-    {
-      "id": "zapply-f4cd84a0b4ae",
-      "seen_at": "2026-10-08T20:31:12.814576+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR361861",
-      "seen_at": "2026-10-08T20:31:12.815217+00:00"
-    },
-    {
-      "id": "gradtracker-c4336e9c54e9",
-      "seen_at": "2026-10-08T20:31:12.815844+00:00"
-    },
-    {
-      "id": "url:https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1",
-      "seen_at": "2026-10-08T20:31:12.816469+00:00"
-    },
-    {
-      "id": "gradtracker-56ecdf2cfad5",
-      "seen_at": "2026-10-08T20:31:12.817101+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000154515244",
-      "seen_at": "2026-10-08T20:31:12.817715+00:00"
-    },
-    {
-      "id": "amazon-10573523",
-      "seen_at": "2026-10-08T20:31:12.818369+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10573523/software-development-engineer-developer-experience",
-      "seen_at": "2026-10-08T20:31:12.818981+00:00"
-    },
-    {
       "id": "ashby-handshake-42aca7f5-2f58-40ef-a6ce-19027d32a12f",
       "seen_at": "2026-10-08T21:01:23.376930+00:00"
     },
@@ -26163,10 +26107,50 @@
     {
       "id": "url:https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9",
       "seen_at": "2026-11-07T20:28:57.133730+00:00"
+    },
+    {
+      "id": "jobright-113331c0f4ce",
+      "seen_at": "2026-11-07T21:01:30.348181+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aef77b59f8e479a8bcfd7ca",
+      "seen_at": "2026-11-07T21:01:30.348681+00:00"
+    },
+    {
+      "id": "jobright-9c60af292850",
+      "seen_at": "2026-11-07T21:01:30.349044+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aef77b20fe787d00ed1b6de",
+      "seen_at": "2026-11-07T21:01:30.349346+00:00"
+    },
+    {
+      "id": "jobright-d220ff14ccad",
+      "seen_at": "2026-11-07T21:01:30.349648+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aef77af7bf8e8b9eaf7fbe4",
+      "seen_at": "2026-11-07T21:01:30.349925+00:00"
+    },
+    {
+      "id": "jobright-b280a38ee015",
+      "seen_at": "2026-11-07T21:01:30.350236+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aef77af676e3f91d326ca10",
+      "seen_at": "2026-11-07T21:01:30.350562+00:00"
+    },
+    {
+      "id": "jobright-9f9a7a2d6cb7",
+      "seen_at": "2026-11-07T21:01:30.350856+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aef77a440b5de2d2b311407",
+      "seen_at": "2026-11-07T21:01:30.351153+00:00"
     }
   ],
-  "last_run": "2026-11-07T20:31:06.948619+00:00",
-  "total_notified": 11894,
+  "last_run": "2026-11-07T21:01:31.041136+00:00",
+  "total_notified": 11899,
   "channels": {
     "pm-jobs": [
       "zapply-cf75cbe552b5",
@@ -27252,20 +27236,6 @@
       "url:https://jobright.ai/jobs/info/6ab69867c6fe0dec811a55e7"
     ],
     "swe-ai-full-time": [
-      "zapply-589bc8714522",
-      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522010",
-      "greenhouse-roblox-8159854",
-      "url:https://careers.roblox.com/jobs/8159854",
-      "zapply-5ae017d4df98",
-      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226307",
-      "zapply-f4cd84a0b4ae",
-      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR361861",
-      "gradtracker-c4336e9c54e9",
-      "url:https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1",
-      "gradtracker-56ecdf2cfad5",
-      "url:https://jobs.smartrecruiters.com/servicenow/744000154515244",
-      "amazon-10573523",
-      "url:https://www.amazon.jobs/en/jobs/10573523/software-development-engineer-developer-experience",
       "ashby-handshake-42aca7f5-2f58-40ef-a6ce-19027d32a12f",
       "url:https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f",
       "zapply-540926c4bd10",
@@ -32717,7 +32687,17 @@
       "jobright-bd07a23fc73d",
       "url:https://jobright.ai/jobs/info/6ab6d51cba1c25652c610239",
       "ashby-perplexity-1056951e-8a42-4330-b72c-90162b3cd1c9",
-      "url:https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9"
+      "url:https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9",
+      "jobright-113331c0f4ce",
+      "url:https://jobright.ai/jobs/info/6aef77b59f8e479a8bcfd7ca",
+      "jobright-9c60af292850",
+      "url:https://jobright.ai/jobs/info/6aef77b20fe787d00ed1b6de",
+      "jobright-d220ff14ccad",
+      "url:https://jobright.ai/jobs/info/6aef77af7bf8e8b9eaf7fbe4",
+      "jobright-b280a38ee015",
+      "url:https://jobright.ai/jobs/info/6aef77af676e3f91d326ca10",
+      "jobright-9f9a7a2d6cb7",
+      "url:https://jobright.ai/jobs/info/6aef77a440b5de2d2b311407"
     ]
   }
 }
