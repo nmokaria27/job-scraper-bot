@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-ea3c62eddc67",
-      "seen_at": "2026-10-08T14:01:39.002334+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027450",
-      "seen_at": "2026-10-08T14:01:39.003360+00:00"
-    },
-    {
-      "id": "zapply-5384307c7972",
-      "seen_at": "2026-10-08T14:01:39.004140+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42585",
-      "seen_at": "2026-10-08T14:01:39.004801+00:00"
-    },
-    {
-      "id": "jobright-677859e4d5da",
-      "seen_at": "2026-10-08T14:01:39.005457+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7cb7c583621355407ab728",
-      "seen_at": "2026-10-08T14:01:39.006095+00:00"
-    },
-    {
-      "id": "zapply-bbfea5beb42d",
-      "seen_at": "2026-10-08T14:01:41.032280+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30252",
-      "seen_at": "2026-10-08T14:01:41.033017+00:00"
-    },
-    {
       "id": "greenhouse-doordashusa-8263726",
       "seen_at": "2026-10-08T14:31:18.150179+00:00"
     },
@@ -26621,12 +26589,10 @@
       "seen_at": "2026-11-07T14:01:23.858588+00:00"
     }
   ],
-  "last_run": "2026-11-07T14:01:24.591510+00:00",
+  "last_run": "2026-11-07T14:31:06.985139+00:00",
   "total_notified": 11872,
   "channels": {
     "pm-jobs": [
-      "zapply-bbfea5beb42d",
-      "url:https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30252",
       "zapply-9c57eb728ebd",
       "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R33972",
       "zapply-38f5138aaaa5",
@@ -27723,12 +27689,6 @@
       "url:https://jobright.ai/jobs/info/6a4618034f64ba41dcb4fd12"
     ],
     "swe-ai-full-time": [
-      "zapply-ea3c62eddc67",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027450",
-      "zapply-5384307c7972",
-      "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42585",
-      "jobright-677859e4d5da",
-      "url:https://jobright.ai/jobs/info/6a7cb7c583621355407ab728",
       "greenhouse-doordashusa-8263726",
       "url:https://job-boards.greenhouse.io/doordashusa/jobs/8263726",
       "greenhouse-doordashusa-8264534",
