@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-702ada9bb658",
-      "seen_at": "2026-10-08T17:31:12.212907+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-ed7b7cd3-b07b-48d6-8f47-d02b93b67c28",
-      "seen_at": "2026-10-08T17:31:12.213513+00:00"
-    },
-    {
       "id": "greenhouse-twitch-8872835002",
       "seen_at": "2026-10-08T18:01:37.327356+00:00"
     },
@@ -26403,10 +26395,50 @@
     {
       "id": "url:https://go.vansh.nyc/1mk",
       "seen_at": "2026-11-07T17:31:08.020843+00:00"
+    },
+    {
+      "id": "jobright-7d0a033cb9e5",
+      "seen_at": "2026-11-07T18:01:18.518446+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aef4bb440b5de2d2b310181",
+      "seen_at": "2026-11-07T18:01:18.518769+00:00"
+    },
+    {
+      "id": "jobright-c678e8535b18",
+      "seen_at": "2026-11-07T18:01:18.519057+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aef4aa87bf8e8b9eaf7e908",
+      "seen_at": "2026-11-07T18:01:18.519290+00:00"
+    },
+    {
+      "id": "jobright-df73a7a17d8b",
+      "seen_at": "2026-11-07T18:01:18.519519+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aef4aa6676e3f91d326b69d",
+      "seen_at": "2026-11-07T18:01:18.519733+00:00"
+    },
+    {
+      "id": "jobright-90b06b5361b5",
+      "seen_at": "2026-11-07T18:01:18.519964+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aef48a90fe787d00ed1a437",
+      "seen_at": "2026-11-07T18:01:18.520166+00:00"
+    },
+    {
+      "id": "jobright-ca2892f05574",
+      "seen_at": "2026-11-07T18:01:18.520371+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab6d7dbba1c25652c610379",
+      "seen_at": "2026-11-07T18:01:18.520566+00:00"
     }
   ],
-  "last_run": "2026-11-07T17:31:09.026093+00:00",
-  "total_notified": 11883,
+  "last_run": "2026-11-07T18:01:19.196893+00:00",
+  "total_notified": 11888,
   "channels": {
     "pm-jobs": [
       "zapply-f4629fc7cda8",
@@ -27501,8 +27533,6 @@
       "url:https://jobright.ai/jobs/info/6aef3a0b0fe787d00ed1a0c0"
     ],
     "swe-ai-full-time": [
-      "zapply-702ada9bb658",
-      "url:https://zapply.jobs/l/d/amazon-ed7b7cd3-b07b-48d6-8f47-d02b93b67c28",
       "greenhouse-twitch-8872835002",
       "url:https://job-boards.greenhouse.io/twitch/jobs/8872835002",
       "zapply-951948687a62",
@@ -33018,7 +33048,17 @@
       "simplify-cc160e77-55ac-4bdf-8ab7-31e78a8ee0bc",
       "url:https://go.vansh.nyc/1mi",
       "simplify-830e3711-d2c4-46fb-8771-ada440f1d884",
-      "url:https://go.vansh.nyc/1mk"
+      "url:https://go.vansh.nyc/1mk",
+      "jobright-7d0a033cb9e5",
+      "url:https://jobright.ai/jobs/info/6aef4bb440b5de2d2b310181",
+      "jobright-c678e8535b18",
+      "url:https://jobright.ai/jobs/info/6aef4aa87bf8e8b9eaf7e908",
+      "jobright-df73a7a17d8b",
+      "url:https://jobright.ai/jobs/info/6aef4aa6676e3f91d326b69d",
+      "jobright-90b06b5361b5",
+      "url:https://jobright.ai/jobs/info/6aef48a90fe787d00ed1a437",
+      "jobright-ca2892f05574",
+      "url:https://jobright.ai/jobs/info/6ab6d7dbba1c25652c610379"
     ]
   }
 }
