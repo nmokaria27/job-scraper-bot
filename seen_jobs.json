@@ -1,70 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-a6ab3111-7092-4da2-a7a6-71e01351bfda",
-      "seen_at": "2026-10-09T21:01:20.751882+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda",
-      "seen_at": "2026-10-09T21:01:20.752632+00:00"
-    },
-    {
-      "id": "zapply-8db3975e1131",
-      "seen_at": "2026-10-09T21:01:20.753352+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-4cb20a97-22f4-49ad-88d2-cf81d14d4a14",
-      "seen_at": "2026-10-09T21:01:20.754008+00:00"
-    },
-    {
-      "id": "jobright-89b00e8aba0b",
-      "seen_at": "2026-10-09T21:01:20.754622+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac93e9dc3a8af9c54a09ddd",
-      "seen_at": "2026-10-09T21:01:20.755239+00:00"
-    },
-    {
-      "id": "jobright-9bf73097ae10",
-      "seen_at": "2026-10-09T21:01:20.755874+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a53be0d8ef95364ead93254",
-      "seen_at": "2026-10-09T21:01:20.756488+00:00"
-    },
-    {
-      "id": "applyguy-f4c42e75-9fa2-41cb-a46d-48c0b0dbced6",
-      "seen_at": "2026-10-09T21:01:20.757116+00:00"
-    },
-    {
-      "id": "url:https://troweprice.wd5.myworkdayjobs.com/troweprice/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1",
-      "seen_at": "2026-10-09T21:01:20.757708+00:00"
-    },
-    {
-      "id": "jobright-7825e0aef9d2",
-      "seen_at": "2026-10-09T21:01:20.758318+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac93a0dfcdafb60c6a4b7af",
-      "seen_at": "2026-10-09T21:01:20.758927+00:00"
-    },
-    {
-      "id": "zapply-586a8728c24c",
-      "seen_at": "2026-10-09T21:01:20.759538+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/pinpoint-impulsespace-596087",
-      "seen_at": "2026-10-09T21:01:20.760184+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8262207",
-      "seen_at": "2026-10-09T21:01:22.987141+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8262207",
-      "seen_at": "2026-10-09T21:01:22.987816+00:00"
-    },
-    {
       "id": "ashby-physicalintelligence-14586c10-d913-43c5-8f7c-c77b5c438e4c",
       "seen_at": "2026-10-09T21:31:14.931928+00:00"
     },
@@ -24893,12 +24829,10 @@
       "seen_at": "2026-11-08T20:01:11.495567+00:00"
     }
   ],
-  "last_run": "2026-11-08T21:01:09.885752+00:00",
+  "last_run": "2026-11-08T21:06:22.403904+00:00",
   "total_notified": 11919,
   "channels": {
     "pm-jobs": [
-      "greenhouse-airbnb-8262207",
-      "url:https://careers.airbnb.com/positions/8262207",
       "jobright-c4718511093e",
       "url:https://jobright.ai/jobs/info/6ac9537ac3a8af9c54a0a4a6",
       "jobright-497e14af102f",
@@ -25928,20 +25862,6 @@
       "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDqWpbmzGWugEb4ii-7D4l8b"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-a6ab3111-7092-4da2-a7a6-71e01351bfda",
-      "url:https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda",
-      "zapply-8db3975e1131",
-      "url:https://zapply.jobs/l/d/amazon-4cb20a97-22f4-49ad-88d2-cf81d14d4a14",
-      "jobright-89b00e8aba0b",
-      "url:https://jobright.ai/jobs/info/6ac93e9dc3a8af9c54a09ddd",
-      "jobright-9bf73097ae10",
-      "url:https://jobright.ai/jobs/info/6a53be0d8ef95364ead93254",
-      "applyguy-f4c42e75-9fa2-41cb-a46d-48c0b0dbced6",
-      "url:https://troweprice.wd5.myworkdayjobs.com/troweprice/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1",
-      "jobright-7825e0aef9d2",
-      "url:https://jobright.ai/jobs/info/6ac93a0dfcdafb60c6a4b7af",
-      "zapply-586a8728c24c",
-      "url:https://zapply.jobs/l/d/pinpoint-impulsespace-596087",
       "ashby-physicalintelligence-14586c10-d913-43c5-8f7c-c77b5c438e4c",
       "url:https://jobs.ashbyhq.com/physicalintelligence/14586c10-d913-43c5-8f7c-c77b5c438e4c",
       "jobright-f5bedce8cc8d",
