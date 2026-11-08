@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-e348059c6169",
-      "seen_at": "2026-10-09T15:31:26.319596+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/lever-pointclickcare-96d77b19-2396-4f9e-9513-59471b3e28ed",
-      "seen_at": "2026-10-09T15:31:26.320590+00:00"
-    },
-    {
-      "id": "simplify-e2216fd3-a972-4f1f-be6c-56a736fc3dc1",
-      "seen_at": "2026-10-09T15:31:26.321417+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007",
-      "seen_at": "2026-10-09T15:31:26.322092+00:00"
-    },
-    {
-      "id": "zapply-de10b9b1297f",
-      "seen_at": "2026-10-09T15:31:26.322725+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/phenom-cisco-2022318",
-      "seen_at": "2026-10-09T15:31:26.323371+00:00"
-    },
-    {
-      "id": "amazon-10574795",
-      "seen_at": "2026-10-09T15:31:26.323994+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10574795/software-development-engineer-aws-transform-migrations",
-      "seen_at": "2026-10-09T15:31:26.324610+00:00"
-    },
-    {
-      "id": "zapply-79015a5f0189",
-      "seen_at": "2026-10-09T15:31:26.325239+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-asana-8227390",
-      "seen_at": "2026-10-09T15:31:26.325885+00:00"
-    },
-    {
       "id": "zapply-fb7ef360aa8e",
       "seen_at": "2026-10-09T16:01:28.300106+00:00"
     },
@@ -25405,7 +25365,7 @@
       "seen_at": "2026-11-08T15:01:11.559157+00:00"
     }
   ],
-  "last_run": "2026-11-08T15:31:14.112888+00:00",
+  "last_run": "2026-11-08T16:01:32.233516+00:00",
   "total_notified": 11914,
   "channels": {
     "pm-jobs": [
@@ -26460,16 +26420,6 @@
       "url:https://jobright.ai/jobs/info/6aef97138022f8ddd319f203"
     ],
     "swe-ai-full-time": [
-      "zapply-e348059c6169",
-      "url:https://zapply.jobs/l/d/lever-pointclickcare-96d77b19-2396-4f9e-9513-59471b3e28ed",
-      "simplify-e2216fd3-a972-4f1f-be6c-56a736fc3dc1",
-      "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007",
-      "zapply-de10b9b1297f",
-      "url:https://zapply.jobs/l/d/phenom-cisco-2022318",
-      "amazon-10574795",
-      "url:https://www.amazon.jobs/en/jobs/10574795/software-development-engineer-aws-transform-migrations",
-      "zapply-79015a5f0189",
-      "url:https://zapply.jobs/l/d/greenhouse-asana-8227390",
       "zapply-fb7ef360aa8e",
       "url:https://zapply.jobs/l/d/amazon-39cec8cc-c2d4-4b31-8b55-c3af69fe42de",
       "jobright-ad2b1543207e",
