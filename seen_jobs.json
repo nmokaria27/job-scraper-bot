@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-af2b3ba11682",
-      "seen_at": "2026-10-09T14:31:36.006069+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-freedomconsulting-5248064007",
-      "seen_at": "2026-10-09T14:31:36.006594+00:00"
-    },
-    {
-      "id": "zapply-2ddafefc74fe",
-      "seen_at": "2026-10-09T14:31:36.007027+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-motional-8016805003",
-      "seen_at": "2026-10-09T14:31:36.007438+00:00"
-    },
-    {
       "id": "zapply-a3c7e9c51b43",
       "seen_at": "2026-10-09T15:01:48.508189+00:00"
     },
@@ -25427,10 +25411,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af06f2a40b5de2d2b313fb3",
       "seen_at": "2026-11-08T14:01:14.638470+00:00"
+    },
+    {
+      "id": "jobright-f5ddc2fc28ac",
+      "seen_at": "2026-11-08T15:01:11.558338+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a52e53a8ef95364ead904ac",
+      "seen_at": "2026-11-08T15:01:11.559157+00:00"
     }
   ],
-  "last_run": "2026-11-08T14:31:04.862239+00:00",
-  "total_notified": 11913,
+  "last_run": "2026-11-08T15:01:11.994084+00:00",
+  "total_notified": 11914,
   "channels": {
     "pm-jobs": [
       "zapply-b2fba5a67014",
@@ -26484,10 +26476,6 @@
       "url:https://jobright.ai/jobs/info/6aef97138022f8ddd319f203"
     ],
     "swe-ai-full-time": [
-      "zapply-af2b3ba11682",
-      "url:https://zapply.jobs/l/d/greenhouse-freedomconsulting-5248064007",
-      "zapply-2ddafefc74fe",
-      "url:https://zapply.jobs/l/d/greenhouse-motional-8016805003",
       "zapply-a3c7e9c51b43",
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526520",
       "amazon-10574713",
@@ -31797,7 +31785,9 @@
       "simplify-65ab575c-06c1-40fa-b34d-097c1bdb1fa2",
       "url:https://go.vansh.nyc/1mS",
       "jobright-1ccc0d4bb537",
-      "url:https://jobright.ai/jobs/info/6af06f2a40b5de2d2b313fb3"
+      "url:https://jobright.ai/jobs/info/6af06f2a40b5de2d2b313fb3",
+      "jobright-f5ddc2fc28ac",
+      "url:https://jobright.ai/jobs/info/6a52e53a8ef95364ead904ac"
     ]
   }
 }
