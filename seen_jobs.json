@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-a7c1d3286bb4",
-      "seen_at": "2026-10-09T11:01:35.184561+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230023",
-      "seen_at": "2026-10-09T11:01:35.185113+00:00"
-    },
-    {
       "id": "jobright-531943f5bf27",
       "seen_at": "2026-10-09T12:01:28.244302+00:00"
     },
@@ -25485,7 +25477,7 @@
       "seen_at": "2026-11-08T11:01:18.490333+00:00"
     }
   ],
-  "last_run": "2026-11-08T11:01:19.229122+00:00",
+  "last_run": "2026-11-08T11:31:05.169490+00:00",
   "total_notified": 11909,
   "channels": {
     "pm-jobs": [
@@ -26544,8 +26536,6 @@
       "url:https://jobright.ai/jobs/info/6aef97138022f8ddd319f203"
     ],
     "swe-ai-full-time": [
-      "zapply-a7c1d3286bb4",
-      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230023",
       "jobright-531943f5bf27",
       "url:https://jobright.ai/jobs/info/6ac8bdcac3a8af9c54a07930",
       "jobright-8c4a9395f5d8",
