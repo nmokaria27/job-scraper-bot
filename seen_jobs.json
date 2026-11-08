@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "applyguy-04c64431-8bf4-4b09-9ec1-051d01c136c8",
-      "seen_at": "2026-10-09T01:31:09.525429+00:00"
-    },
-    {
-      "id": "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606",
-      "seen_at": "2026-10-09T01:31:09.526149+00:00"
-    },
-    {
       "id": "simplify-7aabe808-d12f-4399-b2f0-e348094fa171",
       "seen_at": "2026-10-09T02:01:15.671131+00:00"
     },
@@ -25677,7 +25669,7 @@
       "seen_at": "2026-11-07T23:55:55.213193+00:00"
     }
   ],
-  "last_run": "2026-11-08T01:31:05.368202+00:00",
+  "last_run": "2026-11-08T02:01:23.536056+00:00",
   "total_notified": 11904,
   "channels": {
     "pm-jobs": [
@@ -26742,8 +26734,6 @@
       "url:https://jobright.ai/jobs/info/6aef97138022f8ddd319f203"
     ],
     "swe-ai-full-time": [
-      "applyguy-04c64431-8bf4-4b09-9ec1-051d01c136c8",
-      "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606",
       "simplify-7aabe808-d12f-4399-b2f0-e348094fa171",
       "url:https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application",
       "simplify-07705204-70be-436b-85af-c48fd1f5e63d",
