@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-6ca1f0ee6a12",
-      "seen_at": "2026-10-09T03:01:14.571588+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-a5f6eeed-4bb0-4712-a610-6ad8e3536243",
-      "seen_at": "2026-10-09T03:01:14.572125+00:00"
-    },
-    {
-      "id": "amazon-10574268",
-      "seen_at": "2026-10-09T03:01:14.572609+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10574268/software-development-engineer-ads-ai-core-infra",
-      "seen_at": "2026-10-09T03:01:14.573063+00:00"
-    },
-    {
       "id": "ashby-elevenlabs-a1c86d02-e9df-4580-87e4-1333f2b83e94",
       "seen_at": "2026-10-09T10:01:19.438008+00:00"
     },
@@ -25613,7 +25597,7 @@
       "seen_at": "2026-11-08T03:01:10.579323+00:00"
     }
   ],
-  "last_run": "2026-11-08T03:01:11.962233+00:00",
+  "last_run": "2026-11-08T03:31:05.357235+00:00",
   "total_notified": 11905,
   "channels": {
     "pm-jobs": [
@@ -26674,10 +26658,6 @@
       "url:https://jobright.ai/jobs/info/6aef97138022f8ddd319f203"
     ],
     "swe-ai-full-time": [
-      "zapply-6ca1f0ee6a12",
-      "url:https://zapply.jobs/l/d/amazon-a5f6eeed-4bb0-4712-a610-6ad8e3536243",
-      "amazon-10574268",
-      "url:https://www.amazon.jobs/en/jobs/10574268/software-development-engineer-ads-ai-core-infra",
       "ashby-elevenlabs-a1c86d02-e9df-4580-87e4-1333f2b83e94",
       "url:https://jobs.ashbyhq.com/elevenlabs/a1c86d02-e9df-4580-87e4-1333f2b83e94",
       "zapply-f5d817c672c7",
