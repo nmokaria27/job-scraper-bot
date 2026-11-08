@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-129e70d36a23",
-      "seen_at": "2026-10-09T19:31:17.258568+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0109646",
-      "seen_at": "2026-10-09T19:31:17.259081+00:00"
-    },
-    {
       "id": "zapply-58f1ef2e9dfe",
       "seen_at": "2026-10-09T20:01:18.942629+00:00"
     },
@@ -24963,10 +24955,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDouGGLoOqW-NEgGwON_zoIo",
       "seen_at": "2026-11-08T19:31:07.170178+00:00"
+    },
+    {
+      "id": "jobright-44f67eb88318",
+      "seen_at": "2026-11-08T20:01:10.023425+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8d82d125fc4e7ae3dbc21a",
+      "seen_at": "2026-11-08T20:01:10.023793+00:00"
+    },
+    {
+      "id": "zapply-1e70a0a9bf84",
+      "seen_at": "2026-11-08T20:01:11.494157+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDqN28cT7_e6YCJqh8u7r9kP",
+      "seen_at": "2026-11-08T20:01:11.494507+00:00"
+    },
+    {
+      "id": "zapply-aa3c003f448b",
+      "seen_at": "2026-11-08T20:01:11.494796+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDrrEmHlqGoAfKZDgzC8QXEU",
+      "seen_at": "2026-11-08T20:01:11.495050+00:00"
+    },
+    {
+      "id": "zapply-05c1f72350ef",
+      "seen_at": "2026-11-08T20:01:11.495300+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDqWpbmzGWugEb4ii-7D4l8b",
+      "seen_at": "2026-11-08T20:01:11.495567+00:00"
     }
   ],
-  "last_run": "2026-11-08T19:31:07.419747+00:00",
-  "total_notified": 11915,
+  "last_run": "2026-11-08T20:01:11.712051+00:00",
+  "total_notified": 11919,
   "channels": {
     "pm-jobs": [
       "zapply-8b01b9a464e9",
@@ -25995,11 +26019,15 @@
       "jobright-b3f9dd1523e2",
       "url:https://jobright.ai/jobs/info/6aef97138022f8ddd319f203",
       "zapply-17ad50558258",
-      "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDouGGLoOqW-NEgGwON_zoIo"
+      "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDouGGLoOqW-NEgGwON_zoIo",
+      "zapply-1e70a0a9bf84",
+      "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDqN28cT7_e6YCJqh8u7r9kP",
+      "zapply-aa3c003f448b",
+      "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDrrEmHlqGoAfKZDgzC8QXEU",
+      "zapply-05c1f72350ef",
+      "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDqWpbmzGWugEb4ii-7D4l8b"
     ],
     "swe-ai-full-time": [
-      "zapply-129e70d36a23",
-      "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0109646",
       "zapply-58f1ef2e9dfe",
       "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604100",
       "zapply-3a2f9f08d93c",
@@ -31217,7 +31245,9 @@
       "jobright-1ccc0d4bb537",
       "url:https://jobright.ai/jobs/info/6af06f2a40b5de2d2b313fb3",
       "jobright-f5ddc2fc28ac",
-      "url:https://jobright.ai/jobs/info/6a52e53a8ef95364ead904ac"
+      "url:https://jobright.ai/jobs/info/6a52e53a8ef95364ead904ac",
+      "jobright-44f67eb88318",
+      "url:https://jobright.ai/jobs/info/6a8d82d125fc4e7ae3dbc21a"
     ]
   }
 }
