@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-handshake-fb47a304-2ea1-4971-81cd-5183619f9a81",
-      "seen_at": "2026-10-09T20:31:12.686232+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/handshake/fb47a304-2ea1-4971-81cd-5183619f9a81",
-      "seen_at": "2026-10-09T20:31:12.687087+00:00"
-    },
-    {
-      "id": "zapply-a0c076e7b87d",
-      "seen_at": "2026-10-09T20:31:12.687761+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/apple-200687765",
-      "seen_at": "2026-10-09T20:31:12.688410+00:00"
-    },
-    {
-      "id": "jobright-5849b6e49f10",
-      "seen_at": "2026-10-09T20:31:12.689031+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac7f97e0e573df8adc755e6",
-      "seen_at": "2026-10-09T20:31:12.689662+00:00"
-    },
-    {
-      "id": "zapply-8b01b9a464e9",
-      "seen_at": "2026-10-09T20:31:14.868979+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-jj-jj-R-103400",
-      "seen_at": "2026-10-09T20:31:14.870030+00:00"
-    },
-    {
-      "id": "zapply-2555d7229389",
-      "seen_at": "2026-10-09T20:31:14.870949+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2018299",
-      "seen_at": "2026-10-09T20:31:14.871830+00:00"
-    },
-    {
       "id": "ashby-openai-a6ab3111-7092-4da2-a7a6-71e01351bfda",
       "seen_at": "2026-10-09T21:01:20.751882+00:00"
     },
@@ -24933,14 +24893,10 @@
       "seen_at": "2026-11-08T20:01:11.495567+00:00"
     }
   ],
-  "last_run": "2026-11-08T20:31:04.916895+00:00",
+  "last_run": "2026-11-08T21:01:09.885752+00:00",
   "total_notified": 11919,
   "channels": {
     "pm-jobs": [
-      "zapply-8b01b9a464e9",
-      "url:https://zapply.jobs/l/d/workday-jj-jj-R-103400",
-      "zapply-2555d7229389",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2018299",
       "greenhouse-airbnb-8262207",
       "url:https://careers.airbnb.com/positions/8262207",
       "jobright-c4718511093e",
@@ -25972,12 +25928,6 @@
       "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDqWpbmzGWugEb4ii-7D4l8b"
     ],
     "swe-ai-full-time": [
-      "ashby-handshake-fb47a304-2ea1-4971-81cd-5183619f9a81",
-      "url:https://jobs.ashbyhq.com/handshake/fb47a304-2ea1-4971-81cd-5183619f9a81",
-      "zapply-a0c076e7b87d",
-      "url:https://zapply.jobs/l/d/apple-200687765",
-      "jobright-5849b6e49f10",
-      "url:https://jobright.ai/jobs/info/6ac7f97e0e573df8adc755e6",
       "ashby-openai-a6ab3111-7092-4da2-a7a6-71e01351bfda",
       "url:https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda",
       "zapply-8db3975e1131",
