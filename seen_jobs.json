@@ -1,70 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-6ad78d172cf1",
-      "seen_at": "2026-10-09T18:01:22.221767+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-siftstack-6de6e754-b953-4e8d-a2ce-f56fcfd3031f",
-      "seen_at": "2026-10-09T18:01:22.222624+00:00"
-    },
-    {
-      "id": "zapply-81c6e3b1d3c3",
-      "seen_at": "2026-10-09T18:01:22.223298+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-642483ec-8167-4ec7-986b-434154417822",
-      "seen_at": "2026-10-09T18:01:22.223925+00:00"
-    },
-    {
-      "id": "jobright-59149fa41875",
-      "seen_at": "2026-10-09T18:01:22.224558+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac90c19fe8f33a85d501ebd",
-      "seen_at": "2026-10-09T18:01:22.225185+00:00"
-    },
-    {
-      "id": "jobright-ab2f039de55d",
-      "seen_at": "2026-10-09T18:01:22.225819+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac90c12fe8f33a85d501eb8",
-      "seen_at": "2026-10-09T18:01:22.226441+00:00"
-    },
-    {
-      "id": "amazon-10575014",
-      "seen_at": "2026-10-09T18:01:22.227062+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10575014/software-development-engineer-virtsat-team",
-      "seen_at": "2026-10-09T18:01:22.227686+00:00"
-    },
-    {
-      "id": "jobright-f1417757ccca",
-      "seen_at": "2026-10-09T18:01:22.228306+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a0704809f57175bd581ef5d",
-      "seen_at": "2026-10-09T18:01:22.228913+00:00"
-    },
-    {
-      "id": "zapply-406e7d6953c8",
-      "seen_at": "2026-10-09T18:01:24.207203+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-applied-566714d0-5a25-4680-9d51-d6eaca520635",
-      "seen_at": "2026-10-09T18:01:24.207945+00:00"
-    },
-    {
-      "id": "ashby-applied-566714d0-5a25-4680-9d51-d6eaca520635",
-      "seen_at": "2026-10-09T18:01:24.208575+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/applied/566714d0-5a25-4680-9d51-d6eaca520635",
-      "seen_at": "2026-10-09T18:01:24.209135+00:00"
-    },
-    {
       "id": "zapply-fd1bcfd2afd6",
       "seen_at": "2026-10-09T18:31:19.860119+00:00"
     },
@@ -25165,14 +25101,10 @@
       "seen_at": "2026-11-08T15:01:11.559157+00:00"
     }
   ],
-  "last_run": "2026-11-08T18:01:14.577344+00:00",
+  "last_run": "2026-11-08T18:31:05.360438+00:00",
   "total_notified": 11914,
   "channels": {
     "pm-jobs": [
-      "zapply-406e7d6953c8",
-      "url:https://zapply.jobs/l/d/ashby-applied-566714d0-5a25-4680-9d51-d6eaca520635",
-      "ashby-applied-566714d0-5a25-4680-9d51-d6eaca520635",
-      "url:https://jobs.ashbyhq.com/applied/566714d0-5a25-4680-9d51-d6eaca520635",
       "zapply-448bf897585e",
       "url:https://zapply.jobs/l/d/workday-visa-visa-REF087798W",
       "zapply-5e621788ddb3",
@@ -26208,18 +26140,6 @@
       "url:https://jobright.ai/jobs/info/6aef97138022f8ddd319f203"
     ],
     "swe-ai-full-time": [
-      "zapply-6ad78d172cf1",
-      "url:https://zapply.jobs/l/d/ashby-siftstack-6de6e754-b953-4e8d-a2ce-f56fcfd3031f",
-      "zapply-81c6e3b1d3c3",
-      "url:https://zapply.jobs/l/d/amazon-642483ec-8167-4ec7-986b-434154417822",
-      "jobright-59149fa41875",
-      "url:https://jobright.ai/jobs/info/6ac90c19fe8f33a85d501ebd",
-      "jobright-ab2f039de55d",
-      "url:https://jobright.ai/jobs/info/6ac90c12fe8f33a85d501eb8",
-      "amazon-10575014",
-      "url:https://www.amazon.jobs/en/jobs/10575014/software-development-engineer-virtsat-team",
-      "jobright-f1417757ccca",
-      "url:https://jobright.ai/jobs/info/6a0704809f57175bd581ef5d",
       "zapply-fd1bcfd2afd6",
       "url:https://zapply.jobs/l/d/greenhouse-sonyinteractiveentertainmentglobal-6147057004",
       "amazon-10575067",
