@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-a3c7e9c51b43",
-      "seen_at": "2026-10-09T15:01:48.508189+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526520",
-      "seen_at": "2026-10-09T15:01:48.509065+00:00"
-    },
-    {
-      "id": "amazon-10574713",
-      "seen_at": "2026-10-09T15:01:48.509744+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10574713/software-development-engineer-dynamodb-index-and-search",
-      "seen_at": "2026-10-09T15:01:48.510383+00:00"
-    },
-    {
       "id": "zapply-e348059c6169",
       "seen_at": "2026-10-09T15:31:26.319596+00:00"
     },
@@ -25421,7 +25405,7 @@
       "seen_at": "2026-11-08T15:01:11.559157+00:00"
     }
   ],
-  "last_run": "2026-11-08T15:01:11.994084+00:00",
+  "last_run": "2026-11-08T15:31:14.112888+00:00",
   "total_notified": 11914,
   "channels": {
     "pm-jobs": [
@@ -26476,10 +26460,6 @@
       "url:https://jobright.ai/jobs/info/6aef97138022f8ddd319f203"
     ],
     "swe-ai-full-time": [
-      "zapply-a3c7e9c51b43",
-      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526520",
-      "amazon-10574713",
-      "url:https://www.amazon.jobs/en/jobs/10574713/software-development-engineer-dynamodb-index-and-search",
       "zapply-e348059c6169",
       "url:https://zapply.jobs/l/d/lever-pointclickcare-96d77b19-2396-4f9e-9513-59471b3e28ed",
       "simplify-e2216fd3-a972-4f1f-be6c-56a736fc3dc1",
