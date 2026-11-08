@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-f1e60bd727cc",
-      "seen_at": "2026-10-09T02:31:11.827853+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1215626",
-      "seen_at": "2026-10-09T02:31:11.828662+00:00"
-    },
-    {
-      "id": "zapply-ada63e220130",
-      "seen_at": "2026-10-09T02:31:11.829346+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215626",
-      "seen_at": "2026-10-09T02:31:11.829975+00:00"
-    },
-    {
-      "id": "zapply-3c025295d2c5",
-      "seen_at": "2026-10-09T02:31:13.622040+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090562",
-      "seen_at": "2026-10-09T02:31:13.622739+00:00"
-    },
-    {
-      "id": "zapply-fb90223507c4",
-      "seen_at": "2026-10-09T02:31:13.623358+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1215784",
-      "seen_at": "2026-10-09T02:31:13.623909+00:00"
-    },
-    {
       "id": "zapply-6ca1f0ee6a12",
       "seen_at": "2026-10-09T03:01:14.571588+00:00"
     },
@@ -25635,16 +25603,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aefa55e40b5de2d2b311d41",
       "seen_at": "2026-11-07T23:55:55.213193+00:00"
+    },
+    {
+      "id": "jobright-45c40279b653",
+      "seen_at": "2026-11-08T03:01:10.578823+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aefce0c40b5de2d2b3129d1",
+      "seen_at": "2026-11-08T03:01:10.579323+00:00"
     }
   ],
-  "last_run": "2026-11-08T02:31:05.088284+00:00",
-  "total_notified": 11904,
+  "last_run": "2026-11-08T03:01:11.962233+00:00",
+  "total_notified": 11905,
   "channels": {
     "pm-jobs": [
-      "zapply-3c025295d2c5",
-      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090562",
-      "zapply-fb90223507c4",
-      "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1215784",
       "jobright-373824bcbc48",
       "url:https://jobright.ai/jobs/info/6a4feaa4397d8d353c28d233",
       "jobright-2cbcd9e53da7",
@@ -26702,10 +26674,6 @@
       "url:https://jobright.ai/jobs/info/6aef97138022f8ddd319f203"
     ],
     "swe-ai-full-time": [
-      "zapply-f1e60bd727cc",
-      "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1215626",
-      "zapply-ada63e220130",
-      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215626",
       "zapply-6ca1f0ee6a12",
       "url:https://zapply.jobs/l/d/amazon-a5f6eeed-4bb0-4712-a610-6ad8e3536243",
       "amazon-10574268",
@@ -32057,7 +32025,9 @@
       "jobright-b28c68c28bdc",
       "url:https://jobright.ai/jobs/info/6ac7f02bfe8f33a85d4fe20d",
       "jobright-b8146d8bc4b6",
-      "url:https://jobright.ai/jobs/info/6aefa55e40b5de2d2b311d41"
+      "url:https://jobright.ai/jobs/info/6aefa55e40b5de2d2b311d41",
+      "jobright-45c40279b653",
+      "url:https://jobright.ai/jobs/info/6aefce0c40b5de2d2b3129d1"
     ]
   }
 }
