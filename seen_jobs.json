@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-2cbcd9e53da7",
-      "seen_at": "2026-10-09T13:01:30.933480+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac8ced0c3a8af9c54a07c25",
-      "seen_at": "2026-10-09T13:01:30.934258+00:00"
-    },
-    {
-      "id": "jobright-ef4de9e85eb4",
-      "seen_at": "2026-10-09T13:01:30.934815+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5bbf7a856af468ab00d850",
-      "seen_at": "2026-10-09T13:01:30.935273+00:00"
-    },
-    {
       "id": "zapply-b92c7e8a4098",
       "seen_at": "2026-10-09T13:31:17.220728+00:00"
     },
@@ -25435,16 +25419,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af058c540b5de2d2b313d01",
       "seen_at": "2026-11-08T13:01:16.953196+00:00"
+    },
+    {
+      "id": "simplify-f4bcdc3a-3cfc-45f6-b92e-4b18961afb5b",
+      "seen_at": "2026-11-08T13:31:06.179025+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1mR",
+      "seen_at": "2026-11-08T13:31:06.179688+00:00"
+    },
+    {
+      "id": "simplify-65ab575c-06c1-40fa-b34d-097c1bdb1fa2",
+      "seen_at": "2026-11-08T13:31:06.180255+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1mS",
+      "seen_at": "2026-11-08T13:31:06.180700+00:00"
     }
   ],
-  "last_run": "2026-11-08T13:01:17.431300+00:00",
-  "total_notified": 11910,
+  "last_run": "2026-11-08T13:31:06.566962+00:00",
+  "total_notified": 11912,
   "channels": {
     "pm-jobs": [
-      "jobright-2cbcd9e53da7",
-      "url:https://jobright.ai/jobs/info/6ac8ced0c3a8af9c54a07c25",
-      "jobright-ef4de9e85eb4",
-      "url:https://jobright.ai/jobs/info/6a5bbf7a856af468ab00d850",
       "zapply-b2fba5a67014",
       "url:https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-023151",
       "zapply-7fa0dcc89e46",
@@ -31807,7 +31803,11 @@
       "jobright-7cde80c914e8",
       "url:https://jobright.ai/jobs/info/6af004d640b5de2d2b31305f",
       "jobright-4fc17af36b50",
-      "url:https://jobright.ai/jobs/info/6af058c540b5de2d2b313d01"
+      "url:https://jobright.ai/jobs/info/6af058c540b5de2d2b313d01",
+      "simplify-f4bcdc3a-3cfc-45f6-b92e-4b18961afb5b",
+      "url:https://go.vansh.nyc/1mR",
+      "simplify-65ab575c-06c1-40fa-b34d-097c1bdb1fa2",
+      "url:https://go.vansh.nyc/1mS"
     ]
   }
 }
