@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-142d21e35e93",
-      "seen_at": "2026-10-09T01:01:35.562477+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-avav-avav-8655",
-      "seen_at": "2026-10-09T01:01:35.562973+00:00"
-    },
-    {
-      "id": "zapply-005f11480a5e",
-      "seen_at": "2026-10-09T01:01:35.563366+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-spacex-8880868002",
-      "seen_at": "2026-10-09T01:01:35.563738+00:00"
-    },
-    {
-      "id": "jobright-8ac621f3f2ac",
-      "seen_at": "2026-10-09T01:01:35.564110+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac8249644d6e65604a06597",
-      "seen_at": "2026-10-09T01:01:35.564470+00:00"
-    },
-    {
-      "id": "gradtracker-2ec0ff7943a1",
-      "seen_at": "2026-10-09T01:01:35.564841+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446721429496",
-      "seen_at": "2026-10-09T01:01:35.565184+00:00"
-    },
-    {
-      "id": "gradtracker-4946e5db3981",
-      "seen_at": "2026-10-09T01:01:35.565530+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446721477865",
-      "seen_at": "2026-10-09T01:01:35.565888+00:00"
-    },
-    {
-      "id": "zapply-a82caf9503de",
-      "seen_at": "2026-10-09T01:01:37.091817+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2022755",
-      "seen_at": "2026-10-09T01:01:37.092286+00:00"
-    },
-    {
       "id": "applyguy-04c64431-8bf4-4b09-9ec1-051d01c136c8",
       "seen_at": "2026-10-09T01:31:09.525429+00:00"
     },
@@ -25725,12 +25677,10 @@
       "seen_at": "2026-11-07T23:55:55.213193+00:00"
     }
   ],
-  "last_run": "2026-11-08T01:01:22.020914+00:00",
+  "last_run": "2026-11-08T01:31:05.368202+00:00",
   "total_notified": 11904,
   "channels": {
     "pm-jobs": [
-      "zapply-a82caf9503de",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2022755",
       "zapply-3c025295d2c5",
       "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090562",
       "zapply-fb90223507c4",
@@ -26792,16 +26742,6 @@
       "url:https://jobright.ai/jobs/info/6aef97138022f8ddd319f203"
     ],
     "swe-ai-full-time": [
-      "zapply-142d21e35e93",
-      "url:https://zapply.jobs/l/d/workday-avav-avav-8655",
-      "zapply-005f11480a5e",
-      "url:https://zapply.jobs/l/d/greenhouse-spacex-8880868002",
-      "jobright-8ac621f3f2ac",
-      "url:https://jobright.ai/jobs/info/6ac8249644d6e65604a06597",
-      "gradtracker-2ec0ff7943a1",
-      "url:https://careers.qualcomm.com/careers/job/446721429496",
-      "gradtracker-4946e5db3981",
-      "url:https://careers.qualcomm.com/careers/job/446721477865",
       "applyguy-04c64431-8bf4-4b09-9ec1-051d01c136c8",
       "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606",
       "simplify-7aabe808-d12f-4399-b2f0-e348094fa171",
