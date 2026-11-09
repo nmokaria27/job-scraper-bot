@@ -24955,10 +24955,34 @@
     {
       "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/OEM-Product-Manager--Networking_JR2029425",
       "seen_at": "2026-11-09T22:01:18.546857+00:00"
+    },
+    {
+      "id": "zapply-c89d1274306e",
+      "seen_at": "2026-11-09T22:31:09.564970+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R173455",
+      "seen_at": "2026-11-09T22:31:09.565281+00:00"
+    },
+    {
+      "id": "applyguy-d9beae8a-db21-41e4-9573-ea489acd3759",
+      "seen_at": "2026-11-09T22:31:09.565533+00:00"
+    },
+    {
+      "id": "url:https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W",
+      "seen_at": "2026-11-09T22:31:09.565760+00:00"
+    },
+    {
+      "id": "zapply-04986f176e42",
+      "seen_at": "2026-11-09T22:31:11.081188+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/phenom-cisco-2027604",
+      "seen_at": "2026-11-09T22:31:11.081444+00:00"
     }
   ],
-  "last_run": "2026-11-09T22:01:18.916967+00:00",
-  "total_notified": 12008,
+  "last_run": "2026-11-09T22:31:11.689352+00:00",
+  "total_notified": 12011,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -26019,7 +26043,9 @@
       "jobright-38556f516efc",
       "url:https://jobright.ai/jobs/info/6af22b301aaffa49f738239a",
       "workday-nvidia-JR2029425",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/OEM-Product-Manager--Networking_JR2029425"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/OEM-Product-Manager--Networking_JR2029425",
+      "zapply-04986f176e42",
+      "url:https://zapply.jobs/l/d/phenom-cisco-2027604"
     ],
     "swe-ai-full-time": [
       "zapply-482d29ca3bfb",
@@ -31207,7 +31233,11 @@
       "jobright-69e275a434c0",
       "url:https://jobright.ai/jobs/info/6af225c062fb9f5fcd895171",
       "jobright-2403686ddef8",
-      "url:https://jobright.ai/jobs/info/6af22e921116f6f0a0766fbf"
+      "url:https://jobright.ai/jobs/info/6af22e921116f6f0a0766fbf",
+      "zapply-c89d1274306e",
+      "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R173455",
+      "applyguy-d9beae8a-db21-41e4-9573-ea489acd3759",
+      "url:https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W"
     ]
   }
 }
