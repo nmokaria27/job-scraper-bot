@@ -24851,10 +24851,114 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030428",
       "seen_at": "2026-11-09T21:31:39.631707+00:00"
+    },
+    {
+      "id": "jobright-7be8bd00e7ed",
+      "seen_at": "2026-11-09T22:01:16.414292+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af22dae1aaffa49f7382590",
+      "seen_at": "2026-11-09T22:01:16.414828+00:00"
+    },
+    {
+      "id": "jobright-94431b2c4eb9",
+      "seen_at": "2026-11-09T22:01:16.415274+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af22c900cb834dad9324990",
+      "seen_at": "2026-11-09T22:01:16.415686+00:00"
+    },
+    {
+      "id": "jobright-d7411106fd3d",
+      "seen_at": "2026-11-09T22:01:16.416118+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af229510cb834dad9324798",
+      "seen_at": "2026-11-09T22:01:16.416516+00:00"
+    },
+    {
+      "id": "jobright-af8374e42eab",
+      "seen_at": "2026-11-09T22:01:16.417009+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd2532d113c967e3c7c6fb",
+      "seen_at": "2026-11-09T22:01:16.417427+00:00"
+    },
+    {
+      "id": "jobright-fcea65a8577e",
+      "seen_at": "2026-11-09T22:01:16.417941+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af220550cb834dad9323f6c",
+      "seen_at": "2026-11-09T22:01:16.418354+00:00"
+    },
+    {
+      "id": "jobright-3aad8cf6a240",
+      "seen_at": "2026-11-09T22:01:16.418768+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae83e94fb2cd420ace65494",
+      "seen_at": "2026-11-09T22:01:16.419206+00:00"
+    },
+    {
+      "id": "amazon-10600530",
+      "seen_at": "2026-11-09T22:01:16.419616+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10600530/software-development-engineer-aio-visualization-and-reporting",
+      "seen_at": "2026-11-09T22:01:16.420020+00:00"
+    },
+    {
+      "id": "amazon-10600537",
+      "seen_at": "2026-11-09T22:01:16.420414+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10600537/software-development-engineer",
+      "seen_at": "2026-11-09T22:01:16.420813+00:00"
+    },
+    {
+      "id": "jobright-69e275a434c0",
+      "seen_at": "2026-11-09T22:01:16.421208+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af225c062fb9f5fcd895171",
+      "seen_at": "2026-11-09T22:01:16.421603+00:00"
+    },
+    {
+      "id": "jobright-2403686ddef8",
+      "seen_at": "2026-11-09T22:01:16.422020+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af22e921116f6f0a0766fbf",
+      "seen_at": "2026-11-09T22:01:16.422411+00:00"
+    },
+    {
+      "id": "jobright-6eda572d665c",
+      "seen_at": "2026-11-09T22:01:18.544752+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af22f851116f6f0a0767099",
+      "seen_at": "2026-11-09T22:01:18.545230+00:00"
+    },
+    {
+      "id": "jobright-38556f516efc",
+      "seen_at": "2026-11-09T22:01:18.545705+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af22b301aaffa49f738239a",
+      "seen_at": "2026-11-09T22:01:18.546095+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2029425",
+      "seen_at": "2026-11-09T22:01:18.546478+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/OEM-Product-Manager--Networking_JR2029425",
+      "seen_at": "2026-11-09T22:01:18.546857+00:00"
     }
   ],
-  "last_run": "2026-11-09T21:31:39.921706+00:00",
-  "total_notified": 11995,
+  "last_run": "2026-11-09T22:01:18.916967+00:00",
+  "total_notified": 12008,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -25909,7 +26013,13 @@
       "zapply-8a27c72fb949",
       "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R246557",
       "zapply-cf1f37ed8a41",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030428"
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030428",
+      "jobright-6eda572d665c",
+      "url:https://jobright.ai/jobs/info/6af22f851116f6f0a0767099",
+      "jobright-38556f516efc",
+      "url:https://jobright.ai/jobs/info/6af22b301aaffa49f738239a",
+      "workday-nvidia-JR2029425",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/OEM-Product-Manager--Networking_JR2029425"
     ],
     "swe-ai-full-time": [
       "zapply-482d29ca3bfb",
@@ -31077,7 +31187,27 @@
       "ashby-cohere-02f07484-8de8-4f3b-800d-5a2291aa27a3",
       "url:https://jobs.ashbyhq.com/cohere/02f07484-8de8-4f3b-800d-5a2291aa27a3",
       "amazon-10600471",
-      "url:https://www.amazon.jobs/en/jobs/10600471/software-engineer-worldwide-amazon-stores-finance-technology-controllership-engineering"
+      "url:https://www.amazon.jobs/en/jobs/10600471/software-engineer-worldwide-amazon-stores-finance-technology-controllership-engineering",
+      "jobright-7be8bd00e7ed",
+      "url:https://jobright.ai/jobs/info/6af22dae1aaffa49f7382590",
+      "jobright-94431b2c4eb9",
+      "url:https://jobright.ai/jobs/info/6af22c900cb834dad9324990",
+      "jobright-d7411106fd3d",
+      "url:https://jobright.ai/jobs/info/6af229510cb834dad9324798",
+      "jobright-af8374e42eab",
+      "url:https://jobright.ai/jobs/info/6acd2532d113c967e3c7c6fb",
+      "jobright-fcea65a8577e",
+      "url:https://jobright.ai/jobs/info/6af220550cb834dad9323f6c",
+      "jobright-3aad8cf6a240",
+      "url:https://jobright.ai/jobs/info/6ae83e94fb2cd420ace65494",
+      "amazon-10600530",
+      "url:https://www.amazon.jobs/en/jobs/10600530/software-development-engineer-aio-visualization-and-reporting",
+      "amazon-10600537",
+      "url:https://www.amazon.jobs/en/jobs/10600537/software-development-engineer",
+      "jobright-69e275a434c0",
+      "url:https://jobright.ai/jobs/info/6af225c062fb9f5fcd895171",
+      "jobright-2403686ddef8",
+      "url:https://jobright.ai/jobs/info/6af22e921116f6f0a0766fbf"
     ]
   }
 }
