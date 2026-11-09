@@ -1,94 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-0a0f1f314509",
-      "seen_at": "2026-10-09T23:31:11.552769+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-runpod-b64a3935-931a-4b7f-9899-7ebe152164c5",
-      "seen_at": "2026-10-09T23:31:11.553299+00:00"
-    },
-    {
-      "id": "zapply-35326d85e7e2",
-      "seen_at": "2026-10-09T23:31:11.553782+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4720790006",
-      "seen_at": "2026-10-09T23:31:11.554228+00:00"
-    },
-    {
-      "id": "simplify-a26c7b74-1550-4e9f-bc9a-ed3c7465b92e",
-      "seen_at": "2026-10-09T23:31:11.554666+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b/application",
-      "seen_at": "2026-10-09T23:31:11.555093+00:00"
-    },
-    {
-      "id": "simplify-26c69754-b42a-4afd-807e-41e2dfe8b206",
-      "seen_at": "2026-10-09T23:31:11.555515+00:00"
-    },
-    {
-      "id": "url:https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35387R-1",
-      "seen_at": "2026-10-09T23:31:11.555913+00:00"
-    },
-    {
-      "id": "simplify-4badb0b9-0e92-4dab-98dc-1d7afc1476a3",
-      "seen_at": "2026-10-09T23:31:11.556359+00:00"
-    },
-    {
-      "id": "url:https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
-      "seen_at": "2026-10-09T23:31:11.556779+00:00"
-    },
-    {
-      "id": "amazon-10575302",
-      "seen_at": "2026-10-09T23:31:11.557186+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10575302/software-dev-engineer-antenna-system-validation-amazon-leo",
-      "seen_at": "2026-10-09T23:31:11.557606+00:00"
-    },
-    {
-      "id": "jobright-4d95a60bad30",
-      "seen_at": "2026-10-09T23:31:11.558016+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5852203330ca6f993c3f98",
-      "seen_at": "2026-10-09T23:31:11.558410+00:00"
-    },
-    {
-      "id": "jobright-64a01653a03f",
-      "seen_at": "2026-10-09T23:31:11.558829+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/698c183c0f6f7e7a2ce7aad3",
-      "seen_at": "2026-10-09T23:31:11.559221+00:00"
-    },
-    {
-      "id": "jobright-02701991bb4f",
-      "seen_at": "2026-10-09T23:31:11.559650+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a427c50a5e15b1068379165",
-      "seen_at": "2026-10-09T23:31:11.560058+00:00"
-    },
-    {
-      "id": "jobright-40f2a248dc2e",
-      "seen_at": "2026-10-09T23:31:11.560478+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a4298466c326942b4e835ad",
-      "seen_at": "2026-10-09T23:31:11.560895+00:00"
-    },
-    {
-      "id": "jobright-a2219508495d",
-      "seen_at": "2026-10-09T23:31:11.561321+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a57938ea791c6211befedb5",
-      "seen_at": "2026-10-09T23:31:11.561720+00:00"
-    },
-    {
       "id": "jobright-0d85337064c7",
       "seen_at": "2026-10-10T00:01:19.410995+00:00"
     },
@@ -24661,7 +24573,7 @@
       "seen_at": "2026-11-08T23:31:05.183405+00:00"
     }
   ],
-  "last_run": "2026-11-08T23:31:05.705096+00:00",
+  "last_run": "2026-11-09T00:01:09.800071+00:00",
   "total_notified": 11921,
   "channels": {
     "pm-jobs": [
@@ -25688,28 +25600,6 @@
       "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDqWpbmzGWugEb4ii-7D4l8b"
     ],
     "swe-ai-full-time": [
-      "zapply-0a0f1f314509",
-      "url:https://zapply.jobs/l/d/ashby-runpod-b64a3935-931a-4b7f-9899-7ebe152164c5",
-      "zapply-35326d85e7e2",
-      "url:https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4720790006",
-      "simplify-a26c7b74-1550-4e9f-bc9a-ed3c7465b92e",
-      "url:https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b/application",
-      "simplify-26c69754-b42a-4afd-807e-41e2dfe8b206",
-      "url:https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35387R-1",
-      "simplify-4badb0b9-0e92-4dab-98dc-1d7afc1476a3",
-      "url:https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
-      "amazon-10575302",
-      "url:https://www.amazon.jobs/en/jobs/10575302/software-dev-engineer-antenna-system-validation-amazon-leo",
-      "jobright-4d95a60bad30",
-      "url:https://jobright.ai/jobs/info/6a5852203330ca6f993c3f98",
-      "jobright-64a01653a03f",
-      "url:https://jobright.ai/jobs/info/698c183c0f6f7e7a2ce7aad3",
-      "jobright-02701991bb4f",
-      "url:https://jobright.ai/jobs/info/6a427c50a5e15b1068379165",
-      "jobright-40f2a248dc2e",
-      "url:https://jobright.ai/jobs/info/6a4298466c326942b4e835ad",
-      "jobright-a2219508495d",
-      "url:https://jobright.ai/jobs/info/6a57938ea791c6211befedb5",
       "jobright-0d85337064c7",
       "url:https://jobright.ai/jobs/info/6a534f5d8576ec69c014f57f",
       "amazon-10575303",
