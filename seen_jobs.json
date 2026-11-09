@@ -24755,10 +24755,42 @@
     {
       "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Manager_R246557-1",
       "seen_at": "2026-11-09T20:31:16.340065+00:00"
+    },
+    {
+      "id": "jobright-98997d10869c",
+      "seen_at": "2026-11-09T20:40:27.837676+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adf97c1065c4e77efaf9432",
+      "seen_at": "2026-11-09T20:40:27.838214+00:00"
+    },
+    {
+      "id": "jobright-2bfb900e9afe",
+      "seen_at": "2026-11-09T20:40:27.838654+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af216b962fb9f5fcd89364a",
+      "seen_at": "2026-11-09T20:40:27.839046+00:00"
+    },
+    {
+      "id": "jobright-8118a2addc1a",
+      "seen_at": "2026-11-09T20:40:27.839439+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af216b362fb9f5fcd89362c",
+      "seen_at": "2026-11-09T20:40:27.839804+00:00"
+    },
+    {
+      "id": "jobright-0a2ffcabaacb",
+      "seen_at": "2026-11-09T20:40:27.840201+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af21c468cbcfef4a59d8eb5",
+      "seen_at": "2026-11-09T20:40:27.840569+00:00"
     }
   ],
-  "last_run": "2026-11-09T20:31:16.618128+00:00",
-  "total_notified": 11982,
+  "last_run": "2026-11-09T20:40:28.493869+00:00",
+  "total_notified": 11986,
   "channels": {
     "pm-jobs": [
       "zapply-5e3fb8faf019",
@@ -30957,7 +30989,15 @@
       "greenhouse-gusto-8360497",
       "url:https://job-boards.greenhouse.io/gusto/jobs/8360497",
       "amazon-10598228",
-      "url:https://www.amazon.jobs/en/jobs/10598228/software-development-engineer-aws-route-53-aws-route-53-frontier-resolver"
+      "url:https://www.amazon.jobs/en/jobs/10598228/software-development-engineer-aws-route-53-aws-route-53-frontier-resolver",
+      "jobright-98997d10869c",
+      "url:https://jobright.ai/jobs/info/6adf97c1065c4e77efaf9432",
+      "jobright-2bfb900e9afe",
+      "url:https://jobright.ai/jobs/info/6af216b962fb9f5fcd89364a",
+      "jobright-8118a2addc1a",
+      "url:https://jobright.ai/jobs/info/6af216b362fb9f5fcd89362c",
+      "jobright-0a2ffcabaacb",
+      "url:https://jobright.ai/jobs/info/6af21c468cbcfef4a59d8eb5"
     ]
   }
 }
