@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-00f8edff5e66",
-      "seen_at": "2026-10-10T16:31:08.550808+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-cursor-5afc044a-00ed-4392-8759-59c7effe179d",
-      "seen_at": "2026-10-10T16:31:08.551709+00:00"
-    },
-    {
       "id": "jobright-45a015177f65",
       "seen_at": "2026-10-10T18:01:12.352380+00:00"
     },
@@ -24483,10 +24475,34 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10598764/applied-scientist-ads-measurement-science",
       "seen_at": "2026-11-09T16:31:24.942067+00:00"
+    },
+    {
+      "id": "ashby-notion-06c2599d-4dd5-4f97-843f-7194b546f042",
+      "seen_at": "2026-11-09T17:01:41.426001+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042",
+      "seen_at": "2026-11-09T17:01:41.426729+00:00"
+    },
+    {
+      "id": "jobright-ed733ef692e5",
+      "seen_at": "2026-11-09T17:01:41.427329+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af1e1e40cb834dad9320db1",
+      "seen_at": "2026-11-09T17:01:41.427832+00:00"
+    },
+    {
+      "id": "greenhouse-oscar-8312402",
+      "seen_at": "2026-11-09T17:01:43.233076+00:00"
+    },
+    {
+      "id": "url:https://oscarhealth.com/careers/jobs",
+      "seen_at": "2026-11-09T17:01:43.233868+00:00"
     }
   ],
-  "last_run": "2026-11-09T16:31:25.568785+00:00",
-  "total_notified": 11945,
+  "last_run": "2026-11-09T17:01:43.517772+00:00",
+  "total_notified": 11948,
   "channels": {
     "pm-jobs": [
       "zapply-5e3fb8faf019",
@@ -25521,11 +25537,11 @@
       "jobright-f08dbbb5ec2d",
       "url:https://jobright.ai/jobs/info/6af16b1c260114b1b45ec962",
       "jobright-16198d8e1be0",
-      "url:https://jobright.ai/jobs/info/6af16b182a5aac445563fbae"
+      "url:https://jobright.ai/jobs/info/6af16b182a5aac445563fbae",
+      "greenhouse-oscar-8312402",
+      "url:https://oscarhealth.com/careers/jobs"
     ],
     "swe-ai-full-time": [
-      "zapply-00f8edff5e66",
-      "url:https://zapply.jobs/l/d/ashby-cursor-5afc044a-00ed-4392-8759-59c7effe179d",
       "jobright-45a015177f65",
       "url:https://jobright.ai/jobs/info/6a714fee02d93145bf88ef63",
       "jobright-7e7a53366bbf",
@@ -30617,7 +30633,11 @@
       "simplify-6f424929-8ec3-4853-902f-a11ffcc2f277",
       "url:https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application",
       "amazon-10598764",
-      "url:https://www.amazon.jobs/en/jobs/10598764/applied-scientist-ads-measurement-science"
+      "url:https://www.amazon.jobs/en/jobs/10598764/applied-scientist-ads-measurement-science",
+      "ashby-notion-06c2599d-4dd5-4f97-843f-7194b546f042",
+      "url:https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042",
+      "jobright-ed733ef692e5",
+      "url:https://jobright.ai/jobs/info/6af1e1e40cb834dad9320db1"
     ]
   }
 }
