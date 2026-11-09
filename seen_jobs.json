@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-d24959043cf7",
-      "seen_at": "2026-10-10T15:52:03.643045+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-tailscale-4733404005",
-      "seen_at": "2026-10-10T15:52:03.643853+00:00"
-    },
-    {
-      "id": "jobright-51981668839c",
-      "seen_at": "2026-10-10T15:52:03.644547+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac92163c3a8af9c54a09479",
-      "seen_at": "2026-10-10T15:52:03.645156+00:00"
-    },
-    {
       "id": "zapply-00f8edff5e66",
       "seen_at": "2026-10-10T16:31:08.550808+00:00"
     },
@@ -24451,10 +24435,34 @@
     {
       "id": "url:https://jobs.ashbyhq.com/applied/a2ddad24-2147-406f-81c9-a88f8acc77c2",
       "seen_at": "2026-11-09T15:31:32.869906+00:00"
+    },
+    {
+      "id": "greenhouse-chime-8904126002",
+      "seen_at": "2026-11-09T16:01:41.630536+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/chime/jobs/8904126002",
+      "seen_at": "2026-11-09T16:01:41.631148+00:00"
+    },
+    {
+      "id": "jobright-0397bac00be7",
+      "seen_at": "2026-11-09T16:01:41.631641+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af1da890cb834dad9320aa1",
+      "seen_at": "2026-11-09T16:01:41.632077+00:00"
+    },
+    {
+      "id": "jobright-a55336f964c1",
+      "seen_at": "2026-11-09T16:01:41.632555+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af1d5a60cb834dad9320834",
+      "seen_at": "2026-11-09T16:01:41.632990+00:00"
     }
   ],
-  "last_run": "2026-11-09T15:31:33.401930+00:00",
-  "total_notified": 11939,
+  "last_run": "2026-11-09T16:01:42.350796+00:00",
+  "total_notified": 11942,
   "channels": {
     "pm-jobs": [
       "zapply-5e3fb8faf019",
@@ -25492,10 +25500,6 @@
       "url:https://jobright.ai/jobs/info/6af16b182a5aac445563fbae"
     ],
     "swe-ai-full-time": [
-      "zapply-d24959043cf7",
-      "url:https://zapply.jobs/l/d/greenhouse-tailscale-4733404005",
-      "jobright-51981668839c",
-      "url:https://jobright.ai/jobs/info/6ac92163c3a8af9c54a09479",
       "zapply-00f8edff5e66",
       "url:https://zapply.jobs/l/d/ashby-cursor-5afc044a-00ed-4392-8759-59c7effe179d",
       "jobright-45a015177f65",
@@ -30577,7 +30581,13 @@
       "jobright-660fe921a73a",
       "url:https://jobright.ai/jobs/info/6af1c55e905985ccaa405d3b",
       "ashby-applied-a2ddad24-2147-406f-81c9-a88f8acc77c2",
-      "url:https://jobs.ashbyhq.com/applied/a2ddad24-2147-406f-81c9-a88f8acc77c2"
+      "url:https://jobs.ashbyhq.com/applied/a2ddad24-2147-406f-81c9-a88f8acc77c2",
+      "greenhouse-chime-8904126002",
+      "url:https://boards.greenhouse.io/chime/jobs/8904126002",
+      "jobright-0397bac00be7",
+      "url:https://jobright.ai/jobs/info/6af1da890cb834dad9320aa1",
+      "jobright-a55336f964c1",
+      "url:https://jobright.ai/jobs/info/6af1d5a60cb834dad9320834"
     ]
   }
 }
