@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-079c154b7793",
-      "seen_at": "2026-10-10T02:31:12.244274+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157372",
-      "seen_at": "2026-10-10T02:31:12.244928+00:00"
-    },
-    {
       "id": "zapply-8db4eb87f77e",
       "seen_at": "2026-10-10T03:01:14.319434+00:00"
     },
@@ -24411,10 +24403,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ab6d884d7fde2c08ec89bc8",
       "seen_at": "2026-11-08T23:31:05.183405+00:00"
+    },
+    {
+      "id": "jobright-2920714c9ede",
+      "seen_at": "2026-11-09T03:01:38.282995+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af11edb9f8e479a8bd02303",
+      "seen_at": "2026-11-09T03:01:38.283472+00:00"
     }
   ],
-  "last_run": "2026-11-09T02:31:04.214396+00:00",
-  "total_notified": 11921,
+  "last_run": "2026-11-09T03:01:38.749436+00:00",
+  "total_notified": 11922,
   "channels": {
     "pm-jobs": [
       "zapply-5e3fb8faf019",
@@ -25440,8 +25440,6 @@
       "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDqWpbmzGWugEb4ii-7D4l8b"
     ],
     "swe-ai-full-time": [
-      "zapply-079c154b7793",
-      "url:https://zapply.jobs/l/d/workday-disney-disneycareer-10157372",
       "zapply-8db4eb87f77e",
       "url:https://zapply.jobs/l/d/amazon-eb9fda9e-4fd1-4f7f-ba6a-55f181feebb5",
       "amazon-10575340",
@@ -30527,7 +30525,9 @@
       "jobright-df7ab0d8d635",
       "url:https://jobright.ai/jobs/info/6ab6dbf081e327c4bf20187e",
       "jobright-3dce9aa0dbbf",
-      "url:https://jobright.ai/jobs/info/6ab6d884d7fde2c08ec89bc8"
+      "url:https://jobright.ai/jobs/info/6ab6d884d7fde2c08ec89bc8",
+      "jobright-2920714c9ede",
+      "url:https://jobright.ai/jobs/info/6af11edb9f8e479a8bd02303"
     ]
   }
 }
