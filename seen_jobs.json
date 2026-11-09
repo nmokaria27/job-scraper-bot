@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-8db4eb87f77e",
-      "seen_at": "2026-10-10T03:01:14.319434+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-eb9fda9e-4fd1-4f7f-ba6a-55f181feebb5",
-      "seen_at": "2026-10-10T03:01:14.320215+00:00"
-    },
-    {
-      "id": "amazon-10575340",
-      "seen_at": "2026-10-10T03:01:14.320893+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10575340/software-development-engineer",
-      "seen_at": "2026-10-10T03:01:14.321484+00:00"
-    },
-    {
-      "id": "jobright-7ef0d482fb3f",
-      "seen_at": "2026-10-10T03:01:14.322094+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac98c51d4a5a03707412b37",
-      "seen_at": "2026-10-10T03:01:14.322705+00:00"
-    },
-    {
       "id": "jobright-1d764bbfe8e4",
       "seen_at": "2026-10-10T10:01:14.776478+00:00"
     },
@@ -24413,7 +24389,7 @@
       "seen_at": "2026-11-09T03:01:38.283472+00:00"
     }
   ],
-  "last_run": "2026-11-09T03:01:38.749436+00:00",
+  "last_run": "2026-11-09T03:31:12.729309+00:00",
   "total_notified": 11922,
   "channels": {
     "pm-jobs": [
@@ -25440,12 +25416,6 @@
       "url:https://zapply.jobs/l/d/gem-nominal-am9icG9zdDqWpbmzGWugEb4ii-7D4l8b"
     ],
     "swe-ai-full-time": [
-      "zapply-8db4eb87f77e",
-      "url:https://zapply.jobs/l/d/amazon-eb9fda9e-4fd1-4f7f-ba6a-55f181feebb5",
-      "amazon-10575340",
-      "url:https://www.amazon.jobs/en/jobs/10575340/software-development-engineer",
-      "jobright-7ef0d482fb3f",
-      "url:https://jobright.ai/jobs/info/6ac98c51d4a5a03707412b37",
       "jobright-1d764bbfe8e4",
       "url:https://jobright.ai/jobs/info/6ac9b238896bdc43a05ac708",
       "jobright-e1111f2e361f",
