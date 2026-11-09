@@ -24459,10 +24459,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af1d5a60cb834dad9320834",
       "seen_at": "2026-11-09T16:01:41.632990+00:00"
+    },
+    {
+      "id": "greenhouse-coinbase-8139750",
+      "seen_at": "2026-11-09T16:31:24.939776+00:00"
+    },
+    {
+      "id": "url:https://www.coinbase.com/careers/positions/8139750",
+      "seen_at": "2026-11-09T16:31:24.940281+00:00"
+    },
+    {
+      "id": "simplify-6f424929-8ec3-4853-902f-a11ffcc2f277",
+      "seen_at": "2026-11-09T16:31:24.940734+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application",
+      "seen_at": "2026-11-09T16:31:24.941171+00:00"
+    },
+    {
+      "id": "amazon-10598764",
+      "seen_at": "2026-11-09T16:31:24.941641+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10598764/applied-scientist-ads-measurement-science",
+      "seen_at": "2026-11-09T16:31:24.942067+00:00"
     }
   ],
-  "last_run": "2026-11-09T16:01:42.350796+00:00",
-  "total_notified": 11942,
+  "last_run": "2026-11-09T16:31:25.568785+00:00",
+  "total_notified": 11945,
   "channels": {
     "pm-jobs": [
       "zapply-5e3fb8faf019",
@@ -30587,7 +30611,13 @@
       "jobright-0397bac00be7",
       "url:https://jobright.ai/jobs/info/6af1da890cb834dad9320aa1",
       "jobright-a55336f964c1",
-      "url:https://jobright.ai/jobs/info/6af1d5a60cb834dad9320834"
+      "url:https://jobright.ai/jobs/info/6af1d5a60cb834dad9320834",
+      "greenhouse-coinbase-8139750",
+      "url:https://www.coinbase.com/careers/positions/8139750",
+      "simplify-6f424929-8ec3-4853-902f-a11ffcc2f277",
+      "url:https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application",
+      "amazon-10598764",
+      "url:https://www.amazon.jobs/en/jobs/10598764/applied-scientist-ads-measurement-science"
     ]
   }
 }
