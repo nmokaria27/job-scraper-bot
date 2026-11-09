@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-1ef77dad8f9c",
-      "seen_at": "2026-10-10T23:01:14.267442+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac96bad6355f8776ff18f79",
-      "seen_at": "2026-10-10T23:01:14.268192+00:00"
-    },
-    {
       "id": "jobright-a94dd51114d0",
       "seen_at": "2026-10-11T01:01:10.701898+00:00"
     },
@@ -25043,10 +25035,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-bmo-external-R260031182",
       "seen_at": "2026-11-09T23:01:23.163709+00:00"
+    },
+    {
+      "id": "ashby-sentry-9b759583-60d2-4673-9da6-026731956300",
+      "seen_at": "2026-11-09T23:31:40.894472+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/sentry/9b759583-60d2-4673-9da6-026731956300",
+      "seen_at": "2026-11-09T23:31:40.894807+00:00"
+    },
+    {
+      "id": "zapply-c08c9f7d3905",
+      "seen_at": "2026-11-09T23:31:40.895079+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-eliseai-2c7b711e-2fd2-439f-a3da-f9ac435e900a",
+      "seen_at": "2026-11-09T23:31:40.895327+00:00"
+    },
+    {
+      "id": "zapply-a8c4d3bb2153",
+      "seen_at": "2026-11-09T23:31:40.895561+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-rocketlab-8057246003",
+      "seen_at": "2026-11-09T23:31:40.895779+00:00"
     }
   ],
-  "last_run": "2026-11-09T23:01:23.399187+00:00",
-  "total_notified": 12021,
+  "last_run": "2026-11-09T23:31:41.642590+00:00",
+  "total_notified": 12024,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -26116,8 +26132,6 @@
       "url:https://zapply.jobs/l/d/workday-bmo-external-R260031182"
     ],
     "swe-ai-full-time": [
-      "jobright-1ef77dad8f9c",
-      "url:https://jobright.ai/jobs/info/6ac96bad6355f8776ff18f79",
       "jobright-a94dd51114d0",
       "url:https://jobright.ai/jobs/info/6ac99a0448c3d015e4212b29",
       "jobright-45b28fda1b44",
@@ -31317,7 +31331,13 @@
       "amazon-10600616",
       "url:https://www.amazon.jobs/en/jobs/10600616/data-scientist-i-nest",
       "jobright-6afca6912009",
-      "url:https://jobright.ai/jobs/info/6af2342c0cb834dad9324f74"
+      "url:https://jobright.ai/jobs/info/6af2342c0cb834dad9324f74",
+      "ashby-sentry-9b759583-60d2-4673-9da6-026731956300",
+      "url:https://jobs.ashbyhq.com/sentry/9b759583-60d2-4673-9da6-026731956300",
+      "zapply-c08c9f7d3905",
+      "url:https://zapply.jobs/l/d/ashby-eliseai-2c7b711e-2fd2-439f-a3da-f9ac435e900a",
+      "zapply-a8c4d3bb2153",
+      "url:https://zapply.jobs/l/d/greenhouse-rocketlab-8057246003"
     ]
   }
 }
