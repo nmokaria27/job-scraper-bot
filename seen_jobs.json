@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-7e7a53366bbf",
-      "seen_at": "2026-10-10T19:01:15.462363+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aca6b54002e496d4beec149",
-      "seen_at": "2026-10-10T19:01:15.463135+00:00"
-    },
-    {
       "id": "zapply-5e3fb8faf019",
       "seen_at": "2026-10-10T21:01:08.902234+00:00"
     },
@@ -24659,10 +24651,34 @@
     {
       "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8331370",
       "seen_at": "2026-11-09T19:02:01.538659+00:00"
+    },
+    {
+      "id": "simplify-4291cc71-c375-469b-b519-64f791e98a7b",
+      "seen_at": "2026-11-09T19:31:12.117304+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1p1",
+      "seen_at": "2026-11-09T19:31:12.117632+00:00"
+    },
+    {
+      "id": "amazon-10600201",
+      "seen_at": "2026-11-09T19:31:12.117885+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10600201/applied-scientist-trust-and-store-integrity-science",
+      "seen_at": "2026-11-09T19:31:12.118115+00:00"
+    },
+    {
+      "id": "workday-adobe-R173455",
+      "seen_at": "2026-11-09T19:31:12.118338+00:00"
+    },
+    {
+      "id": "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
+      "seen_at": "2026-11-09T19:31:12.118564+00:00"
     }
   ],
-  "last_run": "2026-11-09T19:02:01.724712+00:00",
-  "total_notified": 11969,
+  "last_run": "2026-11-09T19:31:12.669023+00:00",
+  "total_notified": 11972,
   "channels": {
     "pm-jobs": [
       "zapply-5e3fb8faf019",
@@ -25712,8 +25728,6 @@
       "url:https://job-boards.greenhouse.io/reddit/jobs/8331370"
     ],
     "swe-ai-full-time": [
-      "jobright-7e7a53366bbf",
-      "url:https://jobright.ai/jobs/info/6aca6b54002e496d4beec149",
       "zapply-482d29ca3bfb",
       "url:https://zapply.jobs/l/d/ashby-suno-f19de1aa-0965-43db-acbe-b6917e268ff0",
       "zapply-d2fabb88b19b",
@@ -30837,7 +30851,13 @@
       "jobright-b0bab86569a4",
       "url:https://jobright.ai/jobs/info/6af1f6770cb834dad9321716",
       "jobright-8c7e0c559718",
-      "url:https://jobright.ai/jobs/info/6af1fcb4905985ccaa4075b2"
+      "url:https://jobright.ai/jobs/info/6af1fcb4905985ccaa4075b2",
+      "simplify-4291cc71-c375-469b-b519-64f791e98a7b",
+      "url:https://go.vansh.nyc/1p1",
+      "amazon-10600201",
+      "url:https://www.amazon.jobs/en/jobs/10600201/applied-scientist-trust-and-store-integrity-science",
+      "workday-adobe-R173455",
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455"
     ]
   }
 }
