@@ -24675,10 +24675,58 @@
     {
       "id": "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
       "seen_at": "2026-11-09T19:31:12.118564+00:00"
+    },
+    {
+      "id": "greenhouse-coinbase-8278991",
+      "seen_at": "2026-11-09T20:01:22.218115+00:00"
+    },
+    {
+      "id": "url:https://www.coinbase.com/careers/positions/8278991",
+      "seen_at": "2026-11-09T20:01:22.218609+00:00"
+    },
+    {
+      "id": "simplify-8f1a3e3b-9081-4212-8c51-544821eaafe6",
+      "seen_at": "2026-11-09T20:01:22.219050+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1p4",
+      "seen_at": "2026-11-09T20:01:22.219418+00:00"
+    },
+    {
+      "id": "jobright-628075a07d62",
+      "seen_at": "2026-11-09T20:01:22.219803+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af208c962fb9f5fcd892fe7",
+      "seen_at": "2026-11-09T20:01:22.220194+00:00"
+    },
+    {
+      "id": "jobright-081089ad2564",
+      "seen_at": "2026-11-09T20:01:22.220588+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae83e99bad9293a40a44c1c",
+      "seen_at": "2026-11-09T20:01:22.220976+00:00"
+    },
+    {
+      "id": "amazon-10600252",
+      "seen_at": "2026-11-09T20:01:22.221362+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10600252/software-development-engineer-amazon-leo-leo-pop-control-plane",
+      "seen_at": "2026-11-09T20:01:22.221720+00:00"
+    },
+    {
+      "id": "jobright-99df059ef95b",
+      "seen_at": "2026-11-09T20:01:24.027144+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af2071d8cbcfef4a59d77ec",
+      "seen_at": "2026-11-09T20:01:24.027574+00:00"
     }
   ],
-  "last_run": "2026-11-09T19:31:12.669023+00:00",
-  "total_notified": 11972,
+  "last_run": "2026-11-09T20:01:24.368911+00:00",
+  "total_notified": 11978,
   "channels": {
     "pm-jobs": [
       "zapply-5e3fb8faf019",
@@ -25725,7 +25773,9 @@
       "jobright-89a95a23d2ba",
       "url:https://jobright.ai/jobs/info/6af1f1ed1aaffa49f737eed6",
       "greenhouse-reddit-8331370",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8331370"
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8331370",
+      "jobright-99df059ef95b",
+      "url:https://jobright.ai/jobs/info/6af2071d8cbcfef4a59d77ec"
     ],
     "swe-ai-full-time": [
       "zapply-482d29ca3bfb",
@@ -30857,7 +30907,17 @@
       "amazon-10600201",
       "url:https://www.amazon.jobs/en/jobs/10600201/applied-scientist-trust-and-store-integrity-science",
       "workday-adobe-R173455",
-      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455"
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
+      "greenhouse-coinbase-8278991",
+      "url:https://www.coinbase.com/careers/positions/8278991",
+      "simplify-8f1a3e3b-9081-4212-8c51-544821eaafe6",
+      "url:https://go.vansh.nyc/1p4",
+      "jobright-628075a07d62",
+      "url:https://jobright.ai/jobs/info/6af208c962fb9f5fcd892fe7",
+      "jobright-081089ad2564",
+      "url:https://jobright.ai/jobs/info/6ae83e99bad9293a40a44c1c",
+      "amazon-10600252",
+      "url:https://www.amazon.jobs/en/jobs/10600252/software-development-engineer-amazon-leo-leo-pop-control-plane"
     ]
   }
 }
