@@ -25467,10 +25467,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aa5e83242411952ff9aa61c",
       "seen_at": "2026-11-10T11:01:17.652381+00:00"
+    },
+    {
+      "id": "simplify-fb423ebc-8446-4ede-a5d2-7142d03e548f",
+      "seen_at": "2026-11-10T11:31:18.933028+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1qj",
+      "seen_at": "2026-11-10T11:31:18.933556+00:00"
+    },
+    {
+      "id": "simplify-f9b5c3bd-1531-4e19-99aa-9f38164add27",
+      "seen_at": "2026-11-10T11:31:18.934066+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1qk",
+      "seen_at": "2026-11-10T11:31:18.934469+00:00"
+    },
+    {
+      "id": "simplify-bfeb1b0f-cfff-49ae-9e46-beab7029bbe4",
+      "seen_at": "2026-11-10T11:31:18.934951+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1qm",
+      "seen_at": "2026-11-10T11:31:18.935349+00:00"
+    },
+    {
+      "id": "simplify-7f0254fe-9c00-438d-a6d2-293fb21c6dc4",
+      "seen_at": "2026-11-10T11:31:18.935758+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1qn",
+      "seen_at": "2026-11-10T11:31:18.936168+00:00"
+    },
+    {
+      "id": "simplify-1d0612f6-6b43-47c4-9a7f-65017afa789c",
+      "seen_at": "2026-11-10T11:31:18.936579+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application",
+      "seen_at": "2026-11-10T11:31:18.937007+00:00"
     }
   ],
-  "last_run": "2026-11-10T11:01:17.899265+00:00",
-  "total_notified": 12079,
+  "last_run": "2026-11-10T11:31:20.092510+00:00",
+  "total_notified": 12084,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -31847,7 +31887,17 @@
       "jobright-b48560e270c9",
       "url:https://jobright.ai/jobs/info/6ad98370e4b94611ab8562c5",
       "jobright-305b1c88e628",
-      "url:https://jobright.ai/jobs/info/6af2c62b48b371d7c021717e"
+      "url:https://jobright.ai/jobs/info/6af2c62b48b371d7c021717e",
+      "simplify-fb423ebc-8446-4ede-a5d2-7142d03e548f",
+      "url:https://go.vansh.nyc/1qj",
+      "simplify-f9b5c3bd-1531-4e19-99aa-9f38164add27",
+      "url:https://go.vansh.nyc/1qk",
+      "simplify-bfeb1b0f-cfff-49ae-9e46-beab7029bbe4",
+      "url:https://go.vansh.nyc/1qm",
+      "simplify-7f0254fe-9c00-438d-a6d2-293fb21c6dc4",
+      "url:https://go.vansh.nyc/1qn",
+      "simplify-1d0612f6-6b43-47c4-9a7f-65017afa789c",
+      "url:https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application"
     ]
   }
 }
