@@ -1,6 +1,49 @@
 {
   "channels": {
-    "swe-ai-full-time": []
+    "swe-ai-full-time": [
+      {
+        "id": "jobright-fbecbc8e249f",
+        "seen_keys": [
+          "jobright-fbecbc8e249f",
+          "url:https://jobright.ai/jobs/info/6af273410cb834dad932701f"
+        ],
+        "title": "Software Engineer - Risk Systems",
+        "company": "Regions Bank",
+        "location": "Hoover, AL, United States",
+        "url": "https://jobright.ai/jobs/info/6af273410cb834dad932701f?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-11-09",
+        "queued_at": "2026-11-10T11:01:15.751462+00:00"
+      },
+      {
+        "id": "jobright-b48560e270c9",
+        "seen_keys": [
+          "jobright-b48560e270c9",
+          "url:https://jobright.ai/jobs/info/6ad98370e4b94611ab8562c5"
+        ],
+        "title": "2026 Early Career Embedded Software Engineer",
+        "company": "TP-Link Systems Inc.",
+        "location": "10 Mauchly, United States",
+        "url": "https://jobright.ai/jobs/info/6ad98370e4b94611ab8562c5?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-11-09",
+        "queued_at": "2026-11-10T11:01:15.751479+00:00"
+      },
+      {
+        "id": "jobright-305b1c88e628",
+        "seen_keys": [
+          "jobright-305b1c88e628",
+          "url:https://jobright.ai/jobs/info/6af2c62b48b371d7c021717e"
+        ],
+        "title": "Embedded Software Engineer",
+        "company": "Apogee Research, LLC",
+        "location": "Arlington, VA, United States",
+        "url": "https://jobright.ai/jobs/info/6af2c62b48b371d7c021717e?utm_campaign=Software%20Engineering&utm_source=1103",
+        "platform": "jobright",
+        "posted_at": "2026-11-09",
+        "queued_at": "2026-11-10T11:01:15.751488+00:00"
+      }
+    ]
   },
-  "last_run": "2026-11-10T04:31:10.798348+00:00"
+  "last_run": "2026-11-10T11:01:17.899277+00:00"
 }
