@@ -25059,10 +25059,74 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-rocketlab-8057246003",
       "seen_at": "2026-11-09T23:31:40.895779+00:00"
+    },
+    {
+      "id": "simplify-7c4d202a-5223-4dae-849f-21fa7489315e",
+      "seen_at": "2026-11-10T00:01:52.681973+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply",
+      "seen_at": "2026-11-10T00:01:52.682503+00:00"
+    },
+    {
+      "id": "simplify-7e76f4ab-d701-446b-b1ee-ec844bfc91eb",
+      "seen_at": "2026-11-10T00:01:52.683058+00:00"
+    },
+    {
+      "id": "url:https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870-1",
+      "seen_at": "2026-11-10T00:01:52.683494+00:00"
+    },
+    {
+      "id": "simplify-102184b9-d71f-4afa-8f8e-48699a21e735",
+      "seen_at": "2026-11-10T00:01:52.683972+00:00"
+    },
+    {
+      "id": "url:https://drhorton.taleo.net/careersection/2/jobdetail.ftl",
+      "seen_at": "2026-11-10T00:01:52.684406+00:00"
+    },
+    {
+      "id": "simplify-3dbb6972-d6ac-421f-a585-0e73f702f92a",
+      "seen_at": "2026-11-10T00:01:52.684857+00:00"
+    },
+    {
+      "id": "url:https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c",
+      "seen_at": "2026-11-10T00:01:52.685294+00:00"
+    },
+    {
+      "id": "jobright-f2dc3dfd97c4",
+      "seen_at": "2026-11-10T00:01:52.685759+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af243d70cb834dad93258d5",
+      "seen_at": "2026-11-10T00:01:52.686207+00:00"
+    },
+    {
+      "id": "jobright-d5ccd5dfb5f4",
+      "seen_at": "2026-11-10T00:01:52.686672+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af2416d8cbcfef4a59dac02",
+      "seen_at": "2026-11-10T00:01:52.687122+00:00"
+    },
+    {
+      "id": "gradtracker-752250fb7a0f",
+      "seen_at": "2026-11-10T00:01:52.687587+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10599298/software-development-engineer-embedded-amazon-leo-amazon-leo",
+      "seen_at": "2026-11-10T00:01:52.688020+00:00"
+    },
+    {
+      "id": "ashby-cursor-2f568bb6-9a03-4f45-9392-0c62127011c6",
+      "seen_at": "2026-11-10T00:01:54.632473+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cursor/2f568bb6-9a03-4f45-9392-0c62127011c6",
+      "seen_at": "2026-11-10T00:01:54.633028+00:00"
     }
   ],
-  "last_run": "2026-11-09T23:31:41.642590+00:00",
-  "total_notified": 12024,
+  "last_run": "2026-11-10T00:01:55.360996+00:00",
+  "total_notified": 12032,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -26129,7 +26193,9 @@
       "greenhouse-waymo-8360841",
       "url:https://careers.withwaymo.com/jobs",
       "zapply-a45c184d16a2",
-      "url:https://zapply.jobs/l/d/workday-bmo-external-R260031182"
+      "url:https://zapply.jobs/l/d/workday-bmo-external-R260031182",
+      "ashby-cursor-2f568bb6-9a03-4f45-9392-0c62127011c6",
+      "url:https://jobs.ashbyhq.com/cursor/2f568bb6-9a03-4f45-9392-0c62127011c6"
     ],
     "swe-ai-full-time": [
       "jobright-a94dd51114d0",
@@ -31337,7 +31403,21 @@
       "zapply-c08c9f7d3905",
       "url:https://zapply.jobs/l/d/ashby-eliseai-2c7b711e-2fd2-439f-a3da-f9ac435e900a",
       "zapply-a8c4d3bb2153",
-      "url:https://zapply.jobs/l/d/greenhouse-rocketlab-8057246003"
+      "url:https://zapply.jobs/l/d/greenhouse-rocketlab-8057246003",
+      "simplify-7c4d202a-5223-4dae-849f-21fa7489315e",
+      "url:https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply",
+      "simplify-7e76f4ab-d701-446b-b1ee-ec844bfc91eb",
+      "url:https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870-1",
+      "simplify-102184b9-d71f-4afa-8f8e-48699a21e735",
+      "url:https://drhorton.taleo.net/careersection/2/jobdetail.ftl",
+      "simplify-3dbb6972-d6ac-421f-a585-0e73f702f92a",
+      "url:https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c",
+      "jobright-f2dc3dfd97c4",
+      "url:https://jobright.ai/jobs/info/6af243d70cb834dad93258d5",
+      "jobright-d5ccd5dfb5f4",
+      "url:https://jobright.ai/jobs/info/6af2416d8cbcfef4a59dac02",
+      "gradtracker-752250fb7a0f",
+      "url:https://www.amazon.jobs/en/jobs/10599298/software-development-engineer-embedded-amazon-leo-amazon-leo"
     ]
   }
 }
