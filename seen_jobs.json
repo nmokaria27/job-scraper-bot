@@ -25619,10 +25619,50 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10601102/software-development-engineer",
       "seen_at": "2026-11-10T15:31:16.439237+00:00"
+    },
+    {
+      "id": "ashby-perplexity-b85c4547-fa75-41a8-bd36-6f2c70117764",
+      "seen_at": "2026-11-10T16:01:50.479272+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Perplexity/b85c4547-fa75-41a8-bd36-6f2c70117764",
+      "seen_at": "2026-11-10T16:01:50.479597+00:00"
+    },
+    {
+      "id": "greenhouse-stripe-8187574",
+      "seen_at": "2026-11-10T16:01:50.479845+00:00"
+    },
+    {
+      "id": "url:https://stripe.com/jobs/search",
+      "seen_at": "2026-11-10T16:01:50.480061+00:00"
+    },
+    {
+      "id": "jobright-ed40e258b5db",
+      "seen_at": "2026-11-10T16:01:50.480275+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af3249a10c7aed77861756e",
+      "seen_at": "2026-11-10T16:01:50.480482+00:00"
+    },
+    {
+      "id": "zapply-4c1bdf46cb3f",
+      "seen_at": "2026-11-10T16:01:52.017709+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-BoschGroup-744000160905288",
+      "seen_at": "2026-11-10T16:01:52.017978+00:00"
+    },
+    {
+      "id": "zapply-67e4e2d0f0c1",
+      "seen_at": "2026-11-10T16:01:52.018204+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0045839",
+      "seen_at": "2026-11-10T16:01:52.018404+00:00"
     }
   ],
-  "last_run": "2026-11-10T15:31:17.478654+00:00",
-  "total_notified": 12102,
+  "last_run": "2026-11-10T16:01:52.280259+00:00",
+  "total_notified": 12107,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -26711,7 +26751,11 @@
       "zapply-364c38660f09",
       "url:https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR6117",
       "zapply-58a884f78a79",
-      "url:https://zapply.jobs/l/d/amd-97342"
+      "url:https://zapply.jobs/l/d/amd-97342",
+      "zapply-4c1bdf46cb3f",
+      "url:https://zapply.jobs/l/d/sr-BoschGroup-744000160905288",
+      "zapply-67e4e2d0f0c1",
+      "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0045839"
     ],
     "swe-ai-full-time": [
       "ashby-elevenlabs-3d650946-5ac2-4729-9ae4-129c43fcd0b5",
@@ -32037,7 +32081,13 @@
       "jobright-a1de85dd0772",
       "url:https://jobright.ai/jobs/info/6af313b080020ca3a897226a",
       "amazon-10601102",
-      "url:https://www.amazon.jobs/en/jobs/10601102/software-development-engineer"
+      "url:https://www.amazon.jobs/en/jobs/10601102/software-development-engineer",
+      "ashby-perplexity-b85c4547-fa75-41a8-bd36-6f2c70117764",
+      "url:https://jobs.ashbyhq.com/Perplexity/b85c4547-fa75-41a8-bd36-6f2c70117764",
+      "greenhouse-stripe-8187574",
+      "url:https://stripe.com/jobs/search",
+      "jobright-ed40e258b5db",
+      "url:https://jobright.ai/jobs/info/6af3249a10c7aed77861756e"
     ]
   }
 }
