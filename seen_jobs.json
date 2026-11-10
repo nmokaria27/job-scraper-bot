@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-3bebdafb39ee",
-      "seen_at": "2026-10-11T12:01:13.483913+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7f5feeb56bea5779c0a9a8",
-      "seen_at": "2026-10-11T12:01:13.484365+00:00"
-    },
-    {
       "id": "jobright-4b052727e240",
       "seen_at": "2026-10-11T13:01:15.805271+00:00"
     },
@@ -25531,10 +25523,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af2ee3f80020ca3a89716da",
       "seen_at": "2026-11-10T11:43:17.898357+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5467305008",
+      "seen_at": "2026-11-10T12:31:31.820755+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5467305008",
+      "seen_at": "2026-11-10T12:31:31.821128+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR334858",
+      "seen_at": "2026-11-10T12:31:31.821451+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-AMTS_JR334858",
+      "seen_at": "2026-11-10T12:31:31.821757+00:00"
     }
   ],
-  "last_run": "2026-11-10T12:01:13.434106+00:00",
-  "total_notified": 12087,
+  "last_run": "2026-11-10T12:31:32.673968+00:00",
+  "total_notified": 12089,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -26620,8 +26628,6 @@
       "url:https://jobright.ai/jobs/info/6af2ee3f80020ca3a89716da"
     ],
     "swe-ai-full-time": [
-      "jobright-3bebdafb39ee",
-      "url:https://jobright.ai/jobs/info/6a7f5feeb56bea5779c0a9a8",
       "jobright-4b052727e240",
       "url:https://jobright.ai/jobs/info/6a523a538a74e077472f3a93",
       "jobright-f02e8df3cceb",
@@ -31927,7 +31933,11 @@
       "jobright-23041bd4e384",
       "url:https://jobright.ai/jobs/info/6af2f3eaf6053e296fc78761",
       "jobright-9480117f889e",
-      "url:https://jobright.ai/jobs/info/6abac1eb1acb8fc6f09c15dc"
+      "url:https://jobright.ai/jobs/info/6abac1eb1acb8fc6f09c15dc",
+      "greenhouse-anthropic-5467305008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5467305008",
+      "workday-salesforce-JR334858",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-AMTS_JR334858"
     ]
   }
 }
