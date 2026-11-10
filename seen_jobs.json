@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-264e1920660a",
-      "seen_at": "2026-10-11T20:31:08.644779+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/google-79244322603442886",
-      "seen_at": "2026-10-11T20:31:08.645597+00:00"
-    },
-    {
       "id": "workday-nvidia-JR2027549",
       "seen_at": "2026-10-11T22:01:08.392127+00:00"
     },
@@ -25843,10 +25835,82 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10598014/software-development-engineer-amazon-leo-commerce",
       "seen_at": "2026-11-10T20:31:13.004376+00:00"
+    },
+    {
+      "id": "jobright-916136d9009a",
+      "seen_at": "2026-11-10T21:01:41.138967+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af3698880020ca3a8975743",
+      "seen_at": "2026-11-10T21:01:41.139258+00:00"
+    },
+    {
+      "id": "applyguy-f734144f-fd20-4d90-9624-e04e62a0ac3e",
+      "seen_at": "2026-11-10T21:01:41.139508+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/abacusinsights/jobs/8917380002",
+      "seen_at": "2026-11-10T21:01:41.139728+00:00"
+    },
+    {
+      "id": "gradtracker-65e615d6edae",
+      "seen_at": "2026-11-10T21:01:41.139939+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10601162/software-development-engineer",
+      "seen_at": "2026-11-10T21:01:41.140147+00:00"
+    },
+    {
+      "id": "gradtracker-3ffc1fa886ef",
+      "seen_at": "2026-11-10T21:01:41.140344+00:00"
+    },
+    {
+      "id": "url:https://morganstanley.eightfold.ai/careers/job/549801018692",
+      "seen_at": "2026-11-10T21:01:41.140531+00:00"
+    },
+    {
+      "id": "amazon-10601775",
+      "seen_at": "2026-11-10T21:01:41.140730+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10601775/software-dev-engineer-aws-identity-analytics",
+      "seen_at": "2026-11-10T21:01:41.140920+00:00"
+    },
+    {
+      "id": "amazon-10599519",
+      "seen_at": "2026-11-10T21:01:41.141116+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10599519/software-engineer-aws-applied-ai-solutions",
+      "seen_at": "2026-11-10T21:01:41.141301+00:00"
+    },
+    {
+      "id": "amazon-10598019",
+      "seen_at": "2026-11-10T21:01:41.141488+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10598019/software-development-engineer-amazon-leo-commerce",
+      "seen_at": "2026-11-10T21:01:41.141671+00:00"
+    },
+    {
+      "id": "jobright-64d8414a3c8f",
+      "seen_at": "2026-11-10T21:01:41.141857+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af371387c81de7a524bfa28",
+      "seen_at": "2026-11-10T21:01:41.142056+00:00"
+    },
+    {
+      "id": "jobright-a82d32f063bf",
+      "seen_at": "2026-11-10T21:01:41.142252+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af368b77c81de7a524bf2d1",
+      "seen_at": "2026-11-10T21:01:41.142442+00:00"
     }
   ],
-  "last_run": "2026-11-10T20:31:13.788981+00:00",
-  "total_notified": 12140,
+  "last_run": "2026-11-10T21:01:44.258251+00:00",
+  "total_notified": 12149,
   "channels": {
     "pm-jobs": [
       "workday-nvidia-JR2027549",
@@ -26966,8 +27030,6 @@
       "url:https://www.amazon.jobs/en/jobs/10600830/product-manager-aws-battery-team"
     ],
     "swe-ai-full-time": [
-      "zapply-264e1920660a",
-      "url:https://zapply.jobs/l/d/google-79244322603442886",
       "zapply-bde387ffa8a2",
       "url:https://zapply.jobs/l/d/ashby-simple-ai-1dbaca6f-92cd-4ad9-ac3f-8fe6dce7e20c",
       "workday-nvidia-JR2027337",
@@ -32317,7 +32379,25 @@
       "amazon-10599520",
       "url:https://www.amazon.jobs/en/jobs/10599520/software-engineer-aws-applied-ai-solutions",
       "amazon-10598014",
-      "url:https://www.amazon.jobs/en/jobs/10598014/software-development-engineer-amazon-leo-commerce"
+      "url:https://www.amazon.jobs/en/jobs/10598014/software-development-engineer-amazon-leo-commerce",
+      "jobright-916136d9009a",
+      "url:https://jobright.ai/jobs/info/6af3698880020ca3a8975743",
+      "applyguy-f734144f-fd20-4d90-9624-e04e62a0ac3e",
+      "url:https://boards.greenhouse.io/abacusinsights/jobs/8917380002",
+      "gradtracker-65e615d6edae",
+      "url:https://www.amazon.jobs/en/jobs/10601162/software-development-engineer",
+      "gradtracker-3ffc1fa886ef",
+      "url:https://morganstanley.eightfold.ai/careers/job/549801018692",
+      "amazon-10601775",
+      "url:https://www.amazon.jobs/en/jobs/10601775/software-dev-engineer-aws-identity-analytics",
+      "amazon-10599519",
+      "url:https://www.amazon.jobs/en/jobs/10599519/software-engineer-aws-applied-ai-solutions",
+      "amazon-10598019",
+      "url:https://www.amazon.jobs/en/jobs/10598019/software-development-engineer-amazon-leo-commerce",
+      "jobright-64d8414a3c8f",
+      "url:https://jobright.ai/jobs/info/6af371387c81de7a524bfa28",
+      "jobright-a82d32f063bf",
+      "url:https://jobright.ai/jobs/info/6af368b77c81de7a524bf2d1"
     ]
   }
 }
