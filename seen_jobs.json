@@ -25675,10 +25675,50 @@
     {
       "id": "url:https://job-boards.greenhouse.io/tenstorrent/jobs/4969360007",
       "seen_at": "2026-11-10T16:31:34.365450+00:00"
+    },
+    {
+      "id": "simplify-4b10cd29-777b-498b-9f03-e36ff08bf591",
+      "seen_at": "2026-11-10T17:01:43.092605+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1rp",
+      "seen_at": "2026-11-10T17:01:43.093015+00:00"
+    },
+    {
+      "id": "gradtracker-793354cbc86c",
+      "seen_at": "2026-11-10T17:01:43.093339+00:00"
+    },
+    {
+      "id": "url:https://morganstanley.eightfold.ai/careers/job/549794721569",
+      "seen_at": "2026-11-10T17:01:43.093624+00:00"
+    },
+    {
+      "id": "gradtracker-1340ee2f0c6f",
+      "seen_at": "2026-11-10T17:01:43.093919+00:00"
+    },
+    {
+      "id": "url:https://paypal.eightfold.ai/careers/job/274923348283",
+      "seen_at": "2026-11-10T17:01:43.094180+00:00"
+    },
+    {
+      "id": "zapply-7cd63dbbc752",
+      "seen_at": "2026-11-10T17:01:44.685796+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-talentmanagementsolution-jonassoftwareus-R55099",
+      "seen_at": "2026-11-10T17:01:44.686133+00:00"
+    },
+    {
+      "id": "amazon-10601217",
+      "seen_at": "2026-11-10T17:01:44.686427+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10601217/technical-program-manager-aws-availability-product-team",
+      "seen_at": "2026-11-10T17:01:44.686703+00:00"
     }
   ],
-  "last_run": "2026-11-10T16:31:34.638541+00:00",
-  "total_notified": 12113,
+  "last_run": "2026-11-10T17:01:44.884182+00:00",
+  "total_notified": 12118,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -26779,7 +26819,11 @@
       "greenhouse-tenstorrent-5227997007",
       "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5227997007",
       "greenhouse-tenstorrent-4969360007",
-      "url:https://job-boards.greenhouse.io/tenstorrent/jobs/4969360007"
+      "url:https://job-boards.greenhouse.io/tenstorrent/jobs/4969360007",
+      "zapply-7cd63dbbc752",
+      "url:https://zapply.jobs/l/d/workday-talentmanagementsolution-jonassoftwareus-R55099",
+      "amazon-10601217",
+      "url:https://www.amazon.jobs/en/jobs/10601217/technical-program-manager-aws-availability-product-team"
     ],
     "swe-ai-full-time": [
       "jobright-264a356797f6",
@@ -32107,7 +32151,13 @@
       "simplify-4eb69d88-9d79-4e01-80a1-bd85252cc29f",
       "url:https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R",
       "simplify-e5ddb274-9f36-4709-abfb-02a004dccbc1",
-      "url:https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e/application"
+      "url:https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e/application",
+      "simplify-4b10cd29-777b-498b-9f03-e36ff08bf591",
+      "url:https://go.vansh.nyc/1rp",
+      "gradtracker-793354cbc86c",
+      "url:https://morganstanley.eightfold.ai/careers/job/549794721569",
+      "gradtracker-1340ee2f0c6f",
+      "url:https://paypal.eightfold.ai/careers/job/274923348283"
     ]
   }
 }
