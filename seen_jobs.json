@@ -25795,10 +25795,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028051",
       "seen_at": "2026-11-10T19:31:26.422824+00:00"
+    },
+    {
+      "id": "jobright-0e682bad4229",
+      "seen_at": "2026-11-10T19:39:50.281728+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af34bb8f6053e296fc7b14f",
+      "seen_at": "2026-11-10T19:39:50.282228+00:00"
+    },
+    {
+      "id": "jobright-d89c0785632e",
+      "seen_at": "2026-11-10T19:39:52.249380+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af35b7780020ca3a8974ccb",
+      "seen_at": "2026-11-10T19:39:52.249858+00:00"
     }
   ],
-  "last_run": "2026-11-10T19:31:26.626419+00:00",
-  "total_notified": 12134,
+  "last_run": "2026-11-10T19:39:52.486170+00:00",
+  "total_notified": 12136,
   "channels": {
     "pm-jobs": [
       "workday-nvidia-JR2027549",
@@ -26911,7 +26927,9 @@
       "zapply-dbdf4783c306",
       "url:https://zapply.jobs/l/d/ashby-eliseai-ace2ba35-b2fa-41a2-a3da-e9279241d3da",
       "zapply-77e18012520d",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028051"
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028051",
+      "jobright-d89c0785632e",
+      "url:https://jobright.ai/jobs/info/6af35b7780020ca3a8974ccb"
     ],
     "swe-ai-full-time": [
       "zapply-264e1920660a",
@@ -32257,7 +32275,9 @@
       "amazon-10601553",
       "url:https://www.amazon.jobs/en/jobs/10601553/software-development-engineer-adc2s",
       "amazon-10599518",
-      "url:https://www.amazon.jobs/en/jobs/10599518/software-engineer-aws-applied-ai-solutions"
+      "url:https://www.amazon.jobs/en/jobs/10599518/software-engineer-aws-applied-ai-solutions",
+      "jobright-0e682bad4229",
+      "url:https://jobright.ai/jobs/info/6af34bb8f6053e296fc7b14f"
     ]
   }
 }
