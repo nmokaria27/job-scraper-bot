@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-4353b94891de",
-      "seen_at": "2026-10-11T23:01:09.603288+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-simple-ai-9a5f5694-e066-4087-9a13-b1a62d8d8025",
-      "seen_at": "2026-10-11T23:01:09.603993+00:00"
-    },
-    {
       "id": "zapply-ae4d9173e8a6",
       "seen_at": "2026-10-11T23:57:59.195055+00:00"
     },
@@ -25971,10 +25963,26 @@
     {
       "id": "url:https://sofi.com/careers/job/8198207003",
       "seen_at": "2026-11-10T23:01:14.926913+00:00"
+    },
+    {
+      "id": "amazon-10601926",
+      "seen_at": "2026-11-10T23:31:09.472469+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10601926/software-development-engineer-global-tax-services-data",
+      "seen_at": "2026-11-10T23:31:09.473067+00:00"
+    },
+    {
+      "id": "ashby-snowflake-45fd2192-852d-4cf4-bffe-b0fcc46b7426",
+      "seen_at": "2026-11-10T23:31:11.356991+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/snowflake/45fd2192-852d-4cf4-bffe-b0fcc46b7426",
+      "seen_at": "2026-11-10T23:31:11.357545+00:00"
     }
   ],
-  "last_run": "2026-11-10T23:01:15.705388+00:00",
-  "total_notified": 12160,
+  "last_run": "2026-11-10T23:31:11.762601+00:00",
+  "total_notified": 12162,
   "channels": {
     "pm-jobs": [
       "zapply-c142cbf94bc3",
@@ -27097,11 +27105,11 @@
       "zapply-1376363a6087",
       "url:https://zapply.jobs/l/d/greenhouse-fanduel-8349863",
       "zapply-1cc2e8c6df14",
-      "url:https://zapply.jobs/l/d/greenhouse-fanduel-8374991"
+      "url:https://zapply.jobs/l/d/greenhouse-fanduel-8374991",
+      "ashby-snowflake-45fd2192-852d-4cf4-bffe-b0fcc46b7426",
+      "url:https://jobs.ashbyhq.com/snowflake/45fd2192-852d-4cf4-bffe-b0fcc46b7426"
     ],
     "swe-ai-full-time": [
-      "zapply-4353b94891de",
-      "url:https://zapply.jobs/l/d/ashby-simple-ai-9a5f5694-e066-4087-9a13-b1a62d8d8025",
       "zapply-ae4d9173e8a6",
       "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027337",
       "jobright-3b44ac5dbae1",
@@ -32477,7 +32485,9 @@
       "amazon-10601749",
       "url:https://www.amazon.jobs/en/jobs/10601749/software-development-engineer-aws-elastic-disaster-recovery",
       "greenhouse-sofi-8198207003",
-      "url:https://sofi.com/careers/job/8198207003"
+      "url:https://sofi.com/careers/job/8198207003",
+      "amazon-10601926",
+      "url:https://www.amazon.jobs/en/jobs/10601926/software-development-engineer-global-tax-services-data"
     ]
   }
 }
