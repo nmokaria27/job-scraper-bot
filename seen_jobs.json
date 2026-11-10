@@ -25187,10 +25187,26 @@
     {
       "id": "url:https://jobs.ashbyhq.com/supabase/a9ad80ae-4514-41c0-8062-35963d33748e",
       "seen_at": "2026-11-10T02:01:18.246311+00:00"
+    },
+    {
+      "id": "jobright-306704c467d3",
+      "seen_at": "2026-11-10T03:01:16.162354+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af26b6e905985ccaa40c68e",
+      "seen_at": "2026-11-10T03:01:16.162948+00:00"
+    },
+    {
+      "id": "jobright-f25925f44606",
+      "seen_at": "2026-11-10T03:01:17.713327+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af24d1f62fb9f5fcd896c7d",
+      "seen_at": "2026-11-10T03:01:17.713816+00:00"
     }
   ],
-  "last_run": "2026-11-10T02:31:08.018957+00:00",
-  "total_notified": 12042,
+  "last_run": "2026-11-10T03:01:18.074182+00:00",
+  "total_notified": 12044,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -26263,7 +26279,9 @@
       "jobright-e386059f6dbf",
       "url:https://jobright.ai/jobs/info/6af24e661aaffa49f7383cd7",
       "ashby-supabase-a9ad80ae-4514-41c0-8062-35963d33748e",
-      "url:https://jobs.ashbyhq.com/supabase/a9ad80ae-4514-41c0-8062-35963d33748e"
+      "url:https://jobs.ashbyhq.com/supabase/a9ad80ae-4514-41c0-8062-35963d33748e",
+      "jobright-f25925f44606",
+      "url:https://jobright.ai/jobs/info/6af24d1f62fb9f5fcd896c7d"
     ],
     "swe-ai-full-time": [
       "jobright-11e5406aa95d",
@@ -31497,7 +31515,9 @@
       "jobright-75ceae8a6c1b",
       "url:https://jobright.ai/jobs/info/6af24fb662fb9f5fcd896e7a",
       "jobright-d6fb29105360",
-      "url:https://jobright.ai/jobs/info/6af25e3b1116f6f0a0768c60"
+      "url:https://jobright.ai/jobs/info/6af25e3b1116f6f0a0768c60",
+      "jobright-306704c467d3",
+      "url:https://jobright.ai/jobs/info/6af26b6e905985ccaa40c68e"
     ]
   }
 }
