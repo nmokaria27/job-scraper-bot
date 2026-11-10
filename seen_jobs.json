@@ -25507,10 +25507,34 @@
     {
       "id": "url:https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application",
       "seen_at": "2026-11-10T11:31:18.937007+00:00"
+    },
+    {
+      "id": "jobright-23041bd4e384",
+      "seen_at": "2026-11-10T11:43:16.072682+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af2f3eaf6053e296fc78761",
+      "seen_at": "2026-11-10T11:43:16.073251+00:00"
+    },
+    {
+      "id": "jobright-9480117f889e",
+      "seen_at": "2026-11-10T11:43:16.073806+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abac1eb1acb8fc6f09c15dc",
+      "seen_at": "2026-11-10T11:43:16.074268+00:00"
+    },
+    {
+      "id": "jobright-2a46edbbd468",
+      "seen_at": "2026-11-10T11:43:17.897834+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af2ee3f80020ca3a89716da",
+      "seen_at": "2026-11-10T11:43:17.898357+00:00"
     }
   ],
-  "last_run": "2026-11-10T11:31:20.092510+00:00",
-  "total_notified": 12084,
+  "last_run": "2026-11-10T11:43:18.323443+00:00",
+  "total_notified": 12087,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -26591,7 +26615,9 @@
       "amazon-10600829",
       "url:https://www.amazon.jobs/en/jobs/10600829/supply-chain-product-manager-new-product-introductions",
       "jobright-adc622db2d11",
-      "url:https://jobright.ai/jobs/info/6aa5e83242411952ff9aa61c"
+      "url:https://jobright.ai/jobs/info/6aa5e83242411952ff9aa61c",
+      "jobright-2a46edbbd468",
+      "url:https://jobright.ai/jobs/info/6af2ee3f80020ca3a89716da"
     ],
     "swe-ai-full-time": [
       "jobright-3bebdafb39ee",
@@ -31897,7 +31923,11 @@
       "simplify-7f0254fe-9c00-438d-a6d2-293fb21c6dc4",
       "url:https://go.vansh.nyc/1qn",
       "simplify-1d0612f6-6b43-47c4-9a7f-65017afa789c",
-      "url:https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application"
+      "url:https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application",
+      "jobright-23041bd4e384",
+      "url:https://jobright.ai/jobs/info/6af2f3eaf6053e296fc78761",
+      "jobright-9480117f889e",
+      "url:https://jobright.ai/jobs/info/6abac1eb1acb8fc6f09c15dc"
     ]
   }
 }
