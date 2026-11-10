@@ -25811,10 +25811,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af35b7780020ca3a8974ccb",
       "seen_at": "2026-11-10T19:39:52.249858+00:00"
+    },
+    {
+      "id": "simplify-b752819d-38fe-4910-841d-b071c3969f93",
+      "seen_at": "2026-11-10T20:01:46.150475+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1s0",
+      "seen_at": "2026-11-10T20:01:46.150905+00:00"
+    },
+    {
+      "id": "amazon-10599520",
+      "seen_at": "2026-11-10T20:01:46.151239+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10599520/software-engineer-aws-applied-ai-solutions",
+      "seen_at": "2026-11-10T20:01:46.151535+00:00"
+    },
+    {
+      "id": "amazon-10600830",
+      "seen_at": "2026-11-10T20:01:47.850403+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10600830/product-manager-aws-battery-team",
+      "seen_at": "2026-11-10T20:01:47.850757+00:00"
     }
   ],
-  "last_run": "2026-11-10T19:39:52.486170+00:00",
-  "total_notified": 12136,
+  "last_run": "2026-11-10T20:01:48.199685+00:00",
+  "total_notified": 12139,
   "channels": {
     "pm-jobs": [
       "workday-nvidia-JR2027549",
@@ -26929,7 +26953,9 @@
       "zapply-77e18012520d",
       "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028051",
       "jobright-d89c0785632e",
-      "url:https://jobright.ai/jobs/info/6af35b7780020ca3a8974ccb"
+      "url:https://jobright.ai/jobs/info/6af35b7780020ca3a8974ccb",
+      "amazon-10600830",
+      "url:https://www.amazon.jobs/en/jobs/10600830/product-manager-aws-battery-team"
     ],
     "swe-ai-full-time": [
       "zapply-264e1920660a",
@@ -32277,7 +32303,11 @@
       "amazon-10599518",
       "url:https://www.amazon.jobs/en/jobs/10599518/software-engineer-aws-applied-ai-solutions",
       "jobright-0e682bad4229",
-      "url:https://jobright.ai/jobs/info/6af34bb8f6053e296fc7b14f"
+      "url:https://jobright.ai/jobs/info/6af34bb8f6053e296fc7b14f",
+      "simplify-b752819d-38fe-4910-841d-b071c3969f93",
+      "url:https://go.vansh.nyc/1s0",
+      "amazon-10599520",
+      "url:https://www.amazon.jobs/en/jobs/10599520/software-engineer-aws-applied-ai-solutions"
     ]
   }
 }
