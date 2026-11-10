@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-elevenlabs-3d650946-5ac2-4729-9ae4-129c43fcd0b5",
-      "seen_at": "2026-10-11T16:01:13.582143+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/elevenlabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5",
-      "seen_at": "2026-10-11T16:01:13.582939+00:00"
-    },
-    {
-      "id": "jobright-4ad35607df4d",
-      "seen_at": "2026-10-11T16:01:13.583626+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc",
-      "seen_at": "2026-10-11T16:01:13.584358+00:00"
-    },
-    {
-      "id": "jobright-70432e00f114",
-      "seen_at": "2026-10-11T16:01:13.585037+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acb972bd113c967e3c78e1e",
-      "seen_at": "2026-10-11T16:01:13.585684+00:00"
-    },
-    {
-      "id": "zapply-501494a0df57",
-      "seen_at": "2026-10-11T16:17:52.574544+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/apple-200688305",
-      "seen_at": "2026-10-11T16:17:52.575300+00:00"
-    },
-    {
       "id": "jobright-264a356797f6",
       "seen_at": "2026-10-11T18:01:12.819466+00:00"
     },
@@ -25659,10 +25627,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0045839",
       "seen_at": "2026-11-10T16:01:52.018404+00:00"
+    },
+    {
+      "id": "simplify-4eb69d88-9d79-4e01-80a1-bd85252cc29f",
+      "seen_at": "2026-11-10T16:31:32.775071+00:00"
+    },
+    {
+      "id": "url:https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R",
+      "seen_at": "2026-11-10T16:31:32.775397+00:00"
+    },
+    {
+      "id": "simplify-e5ddb274-9f36-4709-abfb-02a004dccbc1",
+      "seen_at": "2026-11-10T16:31:32.775656+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e/application",
+      "seen_at": "2026-11-10T16:31:32.775889+00:00"
+    },
+    {
+      "id": "ashby-plaid-bd39ffbf-8722-440f-a4aa-4aefc8049b97",
+      "seen_at": "2026-11-10T16:31:34.363936+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/plaid/bd39ffbf-8722-440f-a4aa-4aefc8049b97",
+      "seen_at": "2026-11-10T16:31:34.364216+00:00"
+    },
+    {
+      "id": "zapply-498d39a1bfcc",
+      "seen_at": "2026-11-10T16:31:34.364457+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-tenstorrent-4969360007",
+      "seen_at": "2026-11-10T16:31:34.364673+00:00"
+    },
+    {
+      "id": "greenhouse-tenstorrent-5227997007",
+      "seen_at": "2026-11-10T16:31:34.364882+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5227997007",
+      "seen_at": "2026-11-10T16:31:34.365084+00:00"
+    },
+    {
+      "id": "greenhouse-tenstorrent-4969360007",
+      "seen_at": "2026-11-10T16:31:34.365274+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/tenstorrent/jobs/4969360007",
+      "seen_at": "2026-11-10T16:31:34.365450+00:00"
     }
   ],
-  "last_run": "2026-11-10T16:01:52.280259+00:00",
-  "total_notified": 12107,
+  "last_run": "2026-11-10T16:31:34.638541+00:00",
+  "total_notified": 12113,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -26755,17 +26771,17 @@
       "zapply-4c1bdf46cb3f",
       "url:https://zapply.jobs/l/d/sr-BoschGroup-744000160905288",
       "zapply-67e4e2d0f0c1",
-      "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0045839"
+      "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0045839",
+      "ashby-plaid-bd39ffbf-8722-440f-a4aa-4aefc8049b97",
+      "url:https://jobs.ashbyhq.com/plaid/bd39ffbf-8722-440f-a4aa-4aefc8049b97",
+      "zapply-498d39a1bfcc",
+      "url:https://zapply.jobs/l/d/greenhouse-tenstorrent-4969360007",
+      "greenhouse-tenstorrent-5227997007",
+      "url:https://job-boards.greenhouse.io/tenstorrent/jobs/5227997007",
+      "greenhouse-tenstorrent-4969360007",
+      "url:https://job-boards.greenhouse.io/tenstorrent/jobs/4969360007"
     ],
     "swe-ai-full-time": [
-      "ashby-elevenlabs-3d650946-5ac2-4729-9ae4-129c43fcd0b5",
-      "url:https://jobs.ashbyhq.com/elevenlabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5",
-      "jobright-4ad35607df4d",
-      "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc",
-      "jobright-70432e00f114",
-      "url:https://jobright.ai/jobs/info/6acb972bd113c967e3c78e1e",
-      "zapply-501494a0df57",
-      "url:https://zapply.jobs/l/d/apple-200688305",
       "jobright-264a356797f6",
       "url:https://jobright.ai/jobs/info/6a93c868c12c90443efccb0e",
       "jobright-2244f7f31609",
@@ -32087,7 +32103,11 @@
       "greenhouse-stripe-8187574",
       "url:https://stripe.com/jobs/search",
       "jobright-ed40e258b5db",
-      "url:https://jobright.ai/jobs/info/6af3249a10c7aed77861756e"
+      "url:https://jobright.ai/jobs/info/6af3249a10c7aed77861756e",
+      "simplify-4eb69d88-9d79-4e01-80a1-bd85252cc29f",
+      "url:https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R",
+      "simplify-e5ddb274-9f36-4709-abfb-02a004dccbc1",
+      "url:https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e/application"
     ]
   }
 }
