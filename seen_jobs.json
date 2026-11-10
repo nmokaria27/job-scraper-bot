@@ -25123,10 +25123,50 @@
     {
       "id": "url:https://jobs.ashbyhq.com/cursor/2f568bb6-9a03-4f45-9392-0c62127011c6",
       "seen_at": "2026-11-10T00:01:54.633028+00:00"
+    },
+    {
+      "id": "ashby-cursor-5b744208-cb2c-4c31-9217-e0cbbf8ad7af",
+      "seen_at": "2026-11-10T00:31:09.391980+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cursor/5b744208-cb2c-4c31-9217-e0cbbf8ad7af",
+      "seen_at": "2026-11-10T00:31:09.392603+00:00"
+    },
+    {
+      "id": "simplify-3097d488-c16e-41c4-a289-2d7d160860ba",
+      "seen_at": "2026-11-10T00:31:09.393136+00:00"
+    },
+    {
+      "id": "url:https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107444",
+      "seen_at": "2026-11-10T00:31:09.393572+00:00"
+    },
+    {
+      "id": "simplify-c2d2ad15-8c15-41f3-a588-da205f5d342a",
+      "seen_at": "2026-11-10T00:31:09.393996+00:00"
+    },
+    {
+      "id": "url:https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870",
+      "seen_at": "2026-11-10T00:31:09.394405+00:00"
+    },
+    {
+      "id": "simplify-32755385-4e39-4831-be00-6c5108c7b72e",
+      "seen_at": "2026-11-10T00:31:09.394808+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/rocketlab/jobs/8057246003",
+      "seen_at": "2026-11-10T00:31:09.395206+00:00"
+    },
+    {
+      "id": "simplify-4db68403-cd75-4370-8b2b-304162a154ba",
+      "seen_at": "2026-11-10T00:31:09.395649+00:00"
+    },
+    {
+      "id": "url:https://careers.planview.com/jobs/5149",
+      "seen_at": "2026-11-10T00:31:09.396053+00:00"
     }
   ],
-  "last_run": "2026-11-10T00:01:55.360996+00:00",
-  "total_notified": 12032,
+  "last_run": "2026-11-10T00:31:10.355066+00:00",
+  "total_notified": 12037,
   "channels": {
     "pm-jobs": [
       "jobright-c42e3f72b122",
@@ -31417,7 +31457,17 @@
       "jobright-d5ccd5dfb5f4",
       "url:https://jobright.ai/jobs/info/6af2416d8cbcfef4a59dac02",
       "gradtracker-752250fb7a0f",
-      "url:https://www.amazon.jobs/en/jobs/10599298/software-development-engineer-embedded-amazon-leo-amazon-leo"
+      "url:https://www.amazon.jobs/en/jobs/10599298/software-development-engineer-embedded-amazon-leo-amazon-leo",
+      "ashby-cursor-5b744208-cb2c-4c31-9217-e0cbbf8ad7af",
+      "url:https://jobs.ashbyhq.com/cursor/5b744208-cb2c-4c31-9217-e0cbbf8ad7af",
+      "simplify-3097d488-c16e-41c4-a289-2d7d160860ba",
+      "url:https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107444",
+      "simplify-c2d2ad15-8c15-41f3-a588-da205f5d342a",
+      "url:https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870",
+      "simplify-32755385-4e39-4831-be00-6c5108c7b72e",
+      "url:https://job-boards.greenhouse.io/rocketlab/jobs/8057246003",
+      "simplify-4db68403-cd75-4370-8b2b-304162a154ba",
+      "url:https://careers.planview.com/jobs/5149"
     ]
   }
 }
