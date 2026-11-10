@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-c2377e0fa3d3",
-      "seen_at": "2026-10-11T19:01:11.876920+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a52c0efe726ec56126a450c",
-      "seen_at": "2026-10-11T19:01:11.877788+00:00"
-    },
-    {
-      "id": "jobright-8e924dba4c5f",
-      "seen_at": "2026-10-11T19:01:11.878522+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aca6ab1d113c967e3c77acb",
-      "seen_at": "2026-10-11T19:01:11.879185+00:00"
-    },
-    {
-      "id": "jobright-c42e3f72b122",
-      "seen_at": "2026-10-11T19:01:13.861866+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acbc4453c831dc4086bd736",
-      "seen_at": "2026-10-11T19:01:13.862743+00:00"
-    },
-    {
       "id": "zapply-264e1920660a",
       "seen_at": "2026-10-11T20:31:08.644779+00:00"
     },
@@ -25795,14 +25771,36 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aee52e3caf8e660b87de4c7",
       "seen_at": "2026-11-10T19:01:38.472271+00:00"
+    },
+    {
+      "id": "amazon-10601553",
+      "seen_at": "2026-11-10T19:31:24.721229+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10601553/software-development-engineer-adc2s",
+      "seen_at": "2026-11-10T19:31:24.721959+00:00"
+    },
+    {
+      "id": "amazon-10599518",
+      "seen_at": "2026-11-10T19:31:24.722657+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10599518/software-engineer-aws-applied-ai-solutions",
+      "seen_at": "2026-11-10T19:31:24.723237+00:00"
+    },
+    {
+      "id": "zapply-77e18012520d",
+      "seen_at": "2026-11-10T19:31:26.422126+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028051",
+      "seen_at": "2026-11-10T19:31:26.422824+00:00"
     }
   ],
-  "last_run": "2026-11-10T19:01:39.426392+00:00",
-  "total_notified": 12131,
+  "last_run": "2026-11-10T19:31:26.626419+00:00",
+  "total_notified": 12134,
   "channels": {
     "pm-jobs": [
-      "jobright-c42e3f72b122",
-      "url:https://jobright.ai/jobs/info/6acbc4453c831dc4086bd736",
       "workday-nvidia-JR2027549",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Technical-Product-Manager---Enterprise-Products_JR2027549",
       "zapply-c142cbf94bc3",
@@ -26911,13 +26909,11 @@
       "zapply-30bf77dd025d",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028004",
       "zapply-dbdf4783c306",
-      "url:https://zapply.jobs/l/d/ashby-eliseai-ace2ba35-b2fa-41a2-a3da-e9279241d3da"
+      "url:https://zapply.jobs/l/d/ashby-eliseai-ace2ba35-b2fa-41a2-a3da-e9279241d3da",
+      "zapply-77e18012520d",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028051"
     ],
     "swe-ai-full-time": [
-      "jobright-c2377e0fa3d3",
-      "url:https://jobright.ai/jobs/info/6a52c0efe726ec56126a450c",
-      "jobright-8e924dba4c5f",
-      "url:https://jobright.ai/jobs/info/6aca6ab1d113c967e3c77acb",
       "zapply-264e1920660a",
       "url:https://zapply.jobs/l/d/google-79244322603442886",
       "zapply-bde387ffa8a2",
@@ -32257,7 +32253,11 @@
       "workday-salesforce-JR360316",
       "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Senior-Software-Engineer_JR360316",
       "jobright-36b7b410a6dc",
-      "url:https://jobright.ai/jobs/info/6aee52e3caf8e660b87de4c7"
+      "url:https://jobright.ai/jobs/info/6aee52e3caf8e660b87de4c7",
+      "amazon-10601553",
+      "url:https://www.amazon.jobs/en/jobs/10601553/software-development-engineer-adc2s",
+      "amazon-10599518",
+      "url:https://www.amazon.jobs/en/jobs/10599518/software-engineer-aws-applied-ai-solutions"
     ]
   }
 }
