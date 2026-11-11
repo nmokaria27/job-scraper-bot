@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10576037",
-      "seen_at": "2026-10-12T17:32:00.098131+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10576037/product-manager-tech-neighbors",
-      "seen_at": "2026-10-12T17:32:00.098545+00:00"
-    },
-    {
       "id": "jobright-81c87073fc66",
       "seen_at": "2026-10-12T18:01:23.542265+00:00"
     },
@@ -26251,14 +26243,60 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-ixllearning-8936808002",
       "seen_at": "2026-11-11T17:31:14.501119+00:00"
+    },
+    {
+      "id": "jobright-a82e72bd7236",
+      "seen_at": "2026-11-11T17:52:07.652577+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acf9cc878d51ae69ce071c7",
+      "seen_at": "2026-11-11T17:52:07.653136+00:00"
+    },
+    {
+      "id": "jobright-bf10bbaf12c9",
+      "seen_at": "2026-11-11T17:52:07.653659+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af496019144106c56a1f509",
+      "seen_at": "2026-11-11T17:52:07.654146+00:00"
+    },
+    {
+      "id": "jobright-54d48341cfaa",
+      "seen_at": "2026-11-11T17:52:07.654591+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af493851b2c5dcbbcd61ff2",
+      "seen_at": "2026-11-11T17:52:07.655021+00:00"
+    },
+    {
+      "id": "amazon-10602517",
+      "seen_at": "2026-11-11T17:52:07.655471+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602517/data-scientist-amazon-private-brands-pbi-selection-guidance",
+      "seen_at": "2026-11-11T17:52:07.655878+00:00"
+    },
+    {
+      "id": "ashby-snowflake-1817e4bb-be4a-45ac-8a9f-60b314f0962a",
+      "seen_at": "2026-11-11T17:52:09.605510+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/snowflake/1817e4bb-be4a-45ac-8a9f-60b314f0962a",
+      "seen_at": "2026-11-11T17:52:09.606035+00:00"
+    },
+    {
+      "id": "jobright-204263666c36",
+      "seen_at": "2026-11-11T17:52:09.606576+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abac06b7220f52e62ae8090",
+      "seen_at": "2026-11-11T17:52:09.606968+00:00"
     }
   ],
-  "last_run": "2026-11-11T17:31:14.725929+00:00",
-  "total_notified": 12232,
+  "last_run": "2026-11-11T17:52:09.889165+00:00",
+  "total_notified": 12238,
   "channels": {
     "pm-jobs": [
-      "amazon-10576037",
-      "url:https://www.amazon.jobs/en/jobs/10576037/product-manager-tech-neighbors",
       "zapply-fb4c140b98d3",
       "url:https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603465",
       "zapply-cac94bfd0d27",
@@ -27391,7 +27429,11 @@
       "zapply-061b1d0b9a3e",
       "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_054954",
       "zapply-105d4702a896",
-      "url:https://zapply.jobs/l/d/greenhouse-ixllearning-8936808002"
+      "url:https://zapply.jobs/l/d/greenhouse-ixllearning-8936808002",
+      "ashby-snowflake-1817e4bb-be4a-45ac-8a9f-60b314f0962a",
+      "url:https://jobs.ashbyhq.com/snowflake/1817e4bb-be4a-45ac-8a9f-60b314f0962a",
+      "jobright-204263666c36",
+      "url:https://jobright.ai/jobs/info/6abac06b7220f52e62ae8090"
     ],
     "swe-ai-full-time": [
       "jobright-81c87073fc66",
@@ -32827,7 +32869,15 @@
       "amazon-10602474",
       "url:https://www.amazon.jobs/en/jobs/10602474/sde-rust-or-c-c-device-cloud-core-services",
       "amazon-10602475",
-      "url:https://www.amazon.jobs/en/jobs/10602475/applied-scientist-pxt-central-science"
+      "url:https://www.amazon.jobs/en/jobs/10602475/applied-scientist-pxt-central-science",
+      "jobright-a82e72bd7236",
+      "url:https://jobright.ai/jobs/info/6acf9cc878d51ae69ce071c7",
+      "jobright-bf10bbaf12c9",
+      "url:https://jobright.ai/jobs/info/6af496019144106c56a1f509",
+      "jobright-54d48341cfaa",
+      "url:https://jobright.ai/jobs/info/6af493851b2c5dcbbcd61ff2",
+      "amazon-10602517",
+      "url:https://www.amazon.jobs/en/jobs/10602517/data-scientist-amazon-private-brands-pbi-selection-guidance"
     ]
   }
 }
