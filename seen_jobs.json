@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-1935c5df-770d-45f2-bbde-4d4a462ad5cb",
-      "seen_at": "2026-10-12T15:01:30.533118+00:00"
-    },
-    {
-      "id": "url:https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648",
-      "seen_at": "2026-10-12T15:01:30.533633+00:00"
-    },
-    {
-      "id": "amazon-10575779",
-      "seen_at": "2026-10-12T15:01:30.534056+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10575779/applied-scientist-labs-scot-forecasting-and-labs",
-      "seen_at": "2026-10-12T15:01:30.534459+00:00"
-    },
-    {
-      "id": "jobright-f28be8193f4f",
-      "seen_at": "2026-10-12T15:01:30.534837+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6accdec3e7a1d9333210ed91",
-      "seen_at": "2026-10-12T15:01:30.535200+00:00"
-    },
-    {
       "id": "amazon-10575853",
       "seen_at": "2026-10-12T15:31:11.980363+00:00"
     },
@@ -26283,10 +26259,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc",
       "seen_at": "2026-11-11T15:01:29.083339+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR368047",
+      "seen_at": "2026-11-11T15:31:16.953362+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1",
+      "seen_at": "2026-11-11T15:31:16.953698+00:00"
+    },
+    {
+      "id": "ashby-snowflake-44a8bfd1-593c-4024-8745-a01cca587cb6",
+      "seen_at": "2026-11-11T15:31:20.657364+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/snowflake/44a8bfd1-593c-4024-8745-a01cca587cb6",
+      "seen_at": "2026-11-11T15:31:20.657638+00:00"
     }
   ],
-  "last_run": "2026-11-11T15:01:30.312553+00:00",
-  "total_notified": 12214,
+  "last_run": "2026-11-11T15:31:20.892942+00:00",
+  "total_notified": 12216,
   "channels": {
     "pm-jobs": [
       "zapply-f3118f8891b0",
@@ -27423,15 +27415,11 @@
       "jobright-8faf3bec5d90",
       "url:https://jobright.ai/jobs/info/6a7e7e470cd4a070325805df",
       "zapply-603f70084a15",
-      "url:https://zapply.jobs/l/d/google-81255526670705350"
+      "url:https://zapply.jobs/l/d/google-81255526670705350",
+      "ashby-snowflake-44a8bfd1-593c-4024-8745-a01cca587cb6",
+      "url:https://jobs.ashbyhq.com/snowflake/44a8bfd1-593c-4024-8745-a01cca587cb6"
     ],
     "swe-ai-full-time": [
-      "simplify-1935c5df-770d-45f2-bbde-4d4a462ad5cb",
-      "url:https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648",
-      "amazon-10575779",
-      "url:https://www.amazon.jobs/en/jobs/10575779/applied-scientist-labs-scot-forecasting-and-labs",
-      "jobright-f28be8193f4f",
-      "url:https://jobright.ai/jobs/info/6accdec3e7a1d9333210ed91",
       "amazon-10575853",
       "url:https://www.amazon.jobs/en/jobs/10575853/software-engineer-sso-intelligence",
       "greenhouse-duolingo-8881612002",
@@ -32867,7 +32855,9 @@
       "jobright-e9b82ef5a8e7",
       "url:https://jobright.ai/jobs/info/6af46cee9144106c56a1e242",
       "jobright-4ad35607df4d",
-      "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc"
+      "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc",
+      "workday-salesforce-JR368047",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1"
     ]
   }
 }
