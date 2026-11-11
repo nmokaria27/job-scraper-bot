@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5450099008",
-      "seen_at": "2026-10-12T19:31:18.974766+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
-      "seen_at": "2026-10-12T19:31:18.975168+00:00"
-    },
-    {
-      "id": "amazon-10576272",
-      "seen_at": "2026-10-12T19:31:18.975519+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10576272/software-development-engineer-technology-enablement-services",
-      "seen_at": "2026-10-12T19:31:18.975827+00:00"
-    },
-    {
-      "id": "zapply-22b17ef91c9e",
-      "seen_at": "2026-10-12T19:31:20.538387+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230303",
-      "seen_at": "2026-10-12T19:31:20.538738+00:00"
-    },
-    {
-      "id": "jobright-45de4bc3eb22",
-      "seen_at": "2026-10-12T19:47:25.594676+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd1cddddd23cce28a10b0b",
-      "seen_at": "2026-10-12T19:47:25.595126+00:00"
-    },
-    {
       "id": "zapply-e9f9239413a8",
       "seen_at": "2026-10-12T20:31:23.486726+00:00"
     },
@@ -26291,16 +26259,76 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10602625/supply-chain-product-manager-power-and-cooling",
       "seen_at": "2026-11-11T19:01:35.713869+00:00"
+    },
+    {
+      "id": "simplify-9a8defc0-b26b-42ec-9116-695ab2078099",
+      "seen_at": "2026-11-11T20:01:33.143488+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1v8",
+      "seen_at": "2026-11-11T20:01:33.144077+00:00"
+    },
+    {
+      "id": "jobright-5351b380ad1c",
+      "seen_at": "2026-11-11T20:01:33.144613+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4ae6f9144106c56a2080d",
+      "seen_at": "2026-11-11T20:01:33.145072+00:00"
+    },
+    {
+      "id": "jobright-2e6e806c2418",
+      "seen_at": "2026-11-11T20:01:33.145508+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4adeecbd2ee75d155c309",
+      "seen_at": "2026-11-11T20:01:33.145948+00:00"
+    },
+    {
+      "id": "jobright-ab608a55c45d",
+      "seen_at": "2026-11-11T20:01:33.146378+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4ac863a9a26aee709f93c",
+      "seen_at": "2026-11-11T20:01:33.146809+00:00"
+    },
+    {
+      "id": "jobright-1808807ebccb",
+      "seen_at": "2026-11-11T20:01:33.147250+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af49196cd7be4db20d862fa",
+      "seen_at": "2026-11-11T20:01:33.147684+00:00"
+    },
+    {
+      "id": "amazon-10602674",
+      "seen_at": "2026-11-11T20:01:33.148120+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602674/software-development-engineer-special-projects",
+      "seen_at": "2026-11-11T20:01:33.148529+00:00"
+    },
+    {
+      "id": "jobright-ad561e3e9731",
+      "seen_at": "2026-11-11T20:01:33.148965+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4a42bcd7be4db20d87219",
+      "seen_at": "2026-11-11T20:01:33.149379+00:00"
+    },
+    {
+      "id": "jobright-51c44dabb8f1",
+      "seen_at": "2026-11-11T20:01:35.187517+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a50f65e57513b72e0c629cc",
+      "seen_at": "2026-11-11T20:01:35.188073+00:00"
     }
   ],
-  "last_run": "2026-11-11T19:31:25.214126+00:00",
-  "total_notified": 12255,
+  "last_run": "2026-11-11T20:01:35.420064+00:00",
+  "total_notified": 12263,
   "channels": {
     "pm-jobs": [
-      "zapply-22b17ef91c9e",
-      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230303",
-      "jobright-45de4bc3eb22",
-      "url:https://jobright.ai/jobs/info/6acd1cddddd23cce28a10b0b",
       "zapply-7060a2a1899d",
       "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155106187",
       "zapply-836e714a376b",
@@ -27447,13 +27475,11 @@
       "jobright-efea4c846eb7",
       "url:https://jobright.ai/jobs/info/6af49e4ccbd2ee75d155b867",
       "amazon-10602625",
-      "url:https://www.amazon.jobs/en/jobs/10602625/supply-chain-product-manager-power-and-cooling"
+      "url:https://www.amazon.jobs/en/jobs/10602625/supply-chain-product-manager-power-and-cooling",
+      "jobright-51c44dabb8f1",
+      "url:https://jobright.ai/jobs/info/6a50f65e57513b72e0c629cc"
     ],
     "swe-ai-full-time": [
-      "greenhouse-anthropic-5450099008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
-      "amazon-10576272",
-      "url:https://www.amazon.jobs/en/jobs/10576272/software-development-engineer-technology-enablement-services",
       "zapply-e9f9239413a8",
       "url:https://zapply.jobs/l/d/greenhouse-esri-5220093007",
       "ashby-cursor-aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
@@ -32877,7 +32903,21 @@
       "amazon-10602611",
       "url:https://www.amazon.jobs/en/jobs/10602611/software-development-engineer-ground-control-console-gc2",
       "amazon-10598223",
-      "url:https://www.amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference"
+      "url:https://www.amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference",
+      "simplify-9a8defc0-b26b-42ec-9116-695ab2078099",
+      "url:https://go.vansh.nyc/1v8",
+      "jobright-5351b380ad1c",
+      "url:https://jobright.ai/jobs/info/6af4ae6f9144106c56a2080d",
+      "jobright-2e6e806c2418",
+      "url:https://jobright.ai/jobs/info/6af4adeecbd2ee75d155c309",
+      "jobright-ab608a55c45d",
+      "url:https://jobright.ai/jobs/info/6af4ac863a9a26aee709f93c",
+      "jobright-1808807ebccb",
+      "url:https://jobright.ai/jobs/info/6af49196cd7be4db20d862fa",
+      "amazon-10602674",
+      "url:https://www.amazon.jobs/en/jobs/10602674/software-development-engineer-special-projects",
+      "jobright-ad561e3e9731",
+      "url:https://jobright.ai/jobs/info/6af4a42bcd7be4db20d87219"
     ]
   }
 }
