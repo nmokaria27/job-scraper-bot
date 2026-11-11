@@ -1,86 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-duolingo-8881612002",
-      "seen_at": "2026-10-12T16:01:20.751373+00:00"
-    },
-    {
-      "id": "url:https://careers.duolingo.com/jobs/8881612002",
-      "seen_at": "2026-10-12T16:01:20.752001+00:00"
-    },
-    {
-      "id": "zapply-62cc82ac8172",
-      "seen_at": "2026-10-12T16:01:20.752588+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20153",
-      "seen_at": "2026-10-12T16:01:20.753206+00:00"
-    },
-    {
-      "id": "zapply-5f9a6f723b52",
-      "seen_at": "2026-10-12T16:01:20.753780+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621769",
-      "seen_at": "2026-10-12T16:01:20.754325+00:00"
-    },
-    {
-      "id": "jobright-84c16fd932c8",
-      "seen_at": "2026-10-12T16:01:20.754897+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6accf1bed113c967e3c7b469",
-      "seen_at": "2026-10-12T16:01:20.755437+00:00"
-    },
-    {
-      "id": "jobright-37a5993812e8",
-      "seen_at": "2026-10-12T16:01:20.756002+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5c6f864da96a42cfd9c8e8",
-      "seen_at": "2026-10-12T16:01:20.756533+00:00"
-    },
-    {
-      "id": "jobright-64e72fe2b623",
-      "seen_at": "2026-10-12T16:01:20.757097+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a4ffe7e1544d7246c0d73f9",
-      "seen_at": "2026-10-12T16:01:20.757630+00:00"
-    },
-    {
-      "id": "jobright-a1d286a4db6d",
-      "seen_at": "2026-10-12T16:01:20.758186+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a16011fdc845f4be5bdb776",
-      "seen_at": "2026-10-12T16:01:20.758717+00:00"
-    },
-    {
-      "id": "jobright-0449e1026019",
-      "seen_at": "2026-10-12T16:01:20.759293+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acce2e4d113c967e3c7b109",
-      "seen_at": "2026-10-12T16:01:20.759845+00:00"
-    },
-    {
-      "id": "jobright-0a688299d2e6",
-      "seen_at": "2026-10-12T16:01:20.760401+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6accdf04d113c967e3c7af6d",
-      "seen_at": "2026-10-12T16:01:20.760945+00:00"
-    },
-    {
-      "id": "jobright-cdfce3979599",
-      "seen_at": "2026-10-12T16:01:20.761566+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6accdf4e3c831dc4086bf687",
-      "seen_at": "2026-10-12T16:01:20.762129+00:00"
-    },
-    {
       "id": "zapply-c7ef32534ce9",
       "seen_at": "2026-10-12T16:31:11.361171+00:00"
     },
@@ -26291,10 +26211,42 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10602358/software-development-engineer-platform-engineering-emerging-technology",
       "seen_at": "2026-11-11T16:01:54.290740+00:00"
+    },
+    {
+      "id": "zapply-7f3cffb601c7",
+      "seen_at": "2026-11-11T16:31:30.674399+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026527992",
+      "seen_at": "2026-11-11T16:31:30.674737+00:00"
+    },
+    {
+      "id": "zapply-4488e213d894",
+      "seen_at": "2026-11-11T16:31:30.674992+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR368047",
+      "seen_at": "2026-11-11T16:31:30.675220+00:00"
+    },
+    {
+      "id": "simplify-040ae0b9-6d76-4faf-9fbb-83d3353f714f",
+      "seen_at": "2026-11-11T16:31:30.675443+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1uI",
+      "seen_at": "2026-11-11T16:31:30.675670+00:00"
+    },
+    {
+      "id": "jobright-a1d286a4db6d",
+      "seen_at": "2026-11-11T16:31:30.675880+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a16011fdc845f4be5bdb776",
+      "seen_at": "2026-11-11T16:31:30.676085+00:00"
     }
   ],
-  "last_run": "2026-11-11T16:01:55.109829+00:00",
-  "total_notified": 12220,
+  "last_run": "2026-11-11T16:31:31.573170+00:00",
+  "total_notified": 12224,
   "channels": {
     "pm-jobs": [
       "zapply-3dc1f7b2cb34",
@@ -27434,26 +27386,6 @@
       "url:https://jobs.ashbyhq.com/snowflake/44a8bfd1-593c-4024-8745-a01cca587cb6"
     ],
     "swe-ai-full-time": [
-      "greenhouse-duolingo-8881612002",
-      "url:https://careers.duolingo.com/jobs/8881612002",
-      "zapply-62cc82ac8172",
-      "url:https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20153",
-      "zapply-5f9a6f723b52",
-      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621769",
-      "jobright-84c16fd932c8",
-      "url:https://jobright.ai/jobs/info/6accf1bed113c967e3c7b469",
-      "jobright-37a5993812e8",
-      "url:https://jobright.ai/jobs/info/6a5c6f864da96a42cfd9c8e8",
-      "jobright-64e72fe2b623",
-      "url:https://jobright.ai/jobs/info/6a4ffe7e1544d7246c0d73f9",
-      "jobright-a1d286a4db6d",
-      "url:https://jobright.ai/jobs/info/6a16011fdc845f4be5bdb776",
-      "jobright-0449e1026019",
-      "url:https://jobright.ai/jobs/info/6acce2e4d113c967e3c7b109",
-      "jobright-0a688299d2e6",
-      "url:https://jobright.ai/jobs/info/6accdf04d113c967e3c7af6d",
-      "jobright-cdfce3979599",
-      "url:https://jobright.ai/jobs/info/6accdf4e3c831dc4086bf687",
       "zapply-c7ef32534ce9",
       "url:https://zapply.jobs/l/d/greenhouse-duolingo-8881612002",
       "jobright-3522003876be",
@@ -32877,7 +32809,15 @@
       "jobright-7f1801cb8086",
       "url:https://jobright.ai/jobs/info/6af47a329144106c56a1e672",
       "amazon-10602358",
-      "url:https://www.amazon.jobs/en/jobs/10602358/software-development-engineer-platform-engineering-emerging-technology"
+      "url:https://www.amazon.jobs/en/jobs/10602358/software-development-engineer-platform-engineering-emerging-technology",
+      "zapply-7f3cffb601c7",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026527992",
+      "zapply-4488e213d894",
+      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR368047",
+      "simplify-040ae0b9-6d76-4faf-9fbb-83d3353f714f",
+      "url:https://go.vansh.nyc/1uI",
+      "jobright-a1d286a4db6d",
+      "url:https://jobright.ai/jobs/info/6a16011fdc845f4be5bdb776"
     ]
   }
 }
