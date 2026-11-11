@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-b2923a29-715c-4b61-b190-c00f11a10529",
-      "seen_at": "2026-10-12T23:01:16.362013+00:00"
-    },
-    {
-      "id": "url:https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087",
-      "seen_at": "2026-10-12T23:01:16.362504+00:00"
-    },
-    {
-      "id": "simplify-bc3e53cc-9c7a-49fa-afa7-8bede1da1df5",
-      "seen_at": "2026-10-12T23:01:16.362916+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/AbbVie/3743990016054796",
-      "seen_at": "2026-10-12T23:01:16.363321+00:00"
-    },
-    {
-      "id": "lever-zoox-2347453a-f11f-4dc2-ad14-572bc1f6247f",
-      "seen_at": "2026-10-12T23:01:16.363724+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
-      "seen_at": "2026-10-12T23:01:16.364092+00:00"
-    },
-    {
-      "id": "simplify-c5f0ccae-5750-4c3e-9954-d45d8150a0a2",
-      "seen_at": "2026-10-12T23:01:16.364480+00:00"
-    },
-    {
-      "id": "url:https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121427",
-      "seen_at": "2026-10-12T23:01:16.364835+00:00"
-    },
-    {
-      "id": "jobright-60d0a8cacc9f",
-      "seen_at": "2026-10-12T23:01:16.365194+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd52623c831dc4086c1bc8",
-      "seen_at": "2026-10-12T23:01:16.365558+00:00"
-    },
-    {
-      "id": "jobright-53ddd3aee28f",
-      "seen_at": "2026-10-12T23:01:16.365926+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd51f2e7a1d93332111319",
-      "seen_at": "2026-10-12T23:01:16.366306+00:00"
-    },
-    {
-      "id": "jobright-c99181bb16e4",
-      "seen_at": "2026-10-12T23:01:16.366678+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd4d283c831dc4086c1a6e",
-      "seen_at": "2026-10-12T23:01:16.367029+00:00"
-    },
-    {
-      "id": "jobright-6a6072718b39",
-      "seen_at": "2026-10-12T23:01:16.367395+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd4880d113c967e3c7d1b3",
-      "seen_at": "2026-10-12T23:01:16.367734+00:00"
-    },
-    {
-      "id": "ashby-snowflake-34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
-      "seen_at": "2026-10-12T23:01:17.896534+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/snowflake/34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
-      "seen_at": "2026-10-12T23:01:17.896942+00:00"
-    },
-    {
       "id": "simplify-62ab028d-331e-41a8-95de-eb17fc746284",
       "seen_at": "2026-10-12T23:31:18.119660+00:00"
     },
@@ -26427,14 +26355,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af4d5871b2c5dcbbcd649df",
       "seen_at": "2026-11-11T23:01:45.485722+00:00"
+    },
+    {
+      "id": "applyguy-cfa01228-4121-42f0-b992-bf3e66010f38",
+      "seen_at": "2026-11-11T23:31:11.579192+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/selffinancial/jobs/6255478004",
+      "seen_at": "2026-11-11T23:31:11.579560+00:00"
     }
   ],
-  "last_run": "2026-11-11T23:01:45.972704+00:00",
-  "total_notified": 12294,
+  "last_run": "2026-11-11T23:31:12.402919+00:00",
+  "total_notified": 12295,
   "channels": {
     "pm-jobs": [
-      "ashby-snowflake-34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
-      "url:https://jobs.ashbyhq.com/snowflake/34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
       "workday-nvidia-JR2027364",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Developer-Experience_JR2027364",
       "zapply-f7c0d8b3b0e4",
@@ -27588,22 +27522,6 @@
       "url:https://jobright.ai/jobs/info/6af4d5871b2c5dcbbcd649df"
     ],
     "swe-ai-full-time": [
-      "simplify-b2923a29-715c-4b61-b190-c00f11a10529",
-      "url:https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087",
-      "simplify-bc3e53cc-9c7a-49fa-afa7-8bede1da1df5",
-      "url:https://jobs.smartrecruiters.com/AbbVie/3743990016054796",
-      "lever-zoox-2347453a-f11f-4dc2-ad14-572bc1f6247f",
-      "url:https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
-      "simplify-c5f0ccae-5750-4c3e-9954-d45d8150a0a2",
-      "url:https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121427",
-      "jobright-60d0a8cacc9f",
-      "url:https://jobright.ai/jobs/info/6acd52623c831dc4086c1bc8",
-      "jobright-53ddd3aee28f",
-      "url:https://jobright.ai/jobs/info/6acd51f2e7a1d93332111319",
-      "jobright-c99181bb16e4",
-      "url:https://jobright.ai/jobs/info/6acd4d283c831dc4086c1a6e",
-      "jobright-6a6072718b39",
-      "url:https://jobright.ai/jobs/info/6acd4880d113c967e3c7d1b3",
       "simplify-62ab028d-331e-41a8-95de-eb17fc746284",
       "url:https://ats.rippling.com/momentumcareers/jobs/dbcd3c46-e2fa-4d75-8da1-ac8d15d3771e",
       "simplify-db15cdd6-f533-4bb9-a03f-e98157fb9df0",
@@ -33047,7 +32965,9 @@
       "jobright-997d7b115336",
       "url:https://jobright.ai/jobs/info/6af4db062278454e18c3908a",
       "jobright-ff622bec0833",
-      "url:https://jobright.ai/jobs/info/6af4dce13a9a26aee70a1307"
+      "url:https://jobright.ai/jobs/info/6af4dce13a9a26aee70a1307",
+      "applyguy-cfa01228-4121-42f0-b992-bf3e66010f38",
+      "url:https://job-boards.greenhouse.io/selffinancial/jobs/6255478004"
     ]
   }
 }
