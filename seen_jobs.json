@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-ebcb8ed8f30e",
-      "seen_at": "2026-10-12T18:31:18.841945+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621753",
-      "seen_at": "2026-10-12T18:31:18.842427+00:00"
-    },
-    {
-      "id": "gradtracker-35b8dd5283af",
-      "seen_at": "2026-10-12T18:31:18.842862+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10575898/sde-aws-opensearch-service-opensearch",
-      "seen_at": "2026-10-12T18:31:18.843251+00:00"
-    },
-    {
-      "id": "amazon-10576161",
-      "seen_at": "2026-10-12T18:31:18.843659+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery",
-      "seen_at": "2026-10-12T18:31:18.844040+00:00"
-    },
-    {
-      "id": "amazon-10576206",
-      "seen_at": "2026-10-12T18:31:18.844408+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10576206/software-development-engineer-amazon-fulfillment-technologies-aft-platform-engineering-services",
-      "seen_at": "2026-10-12T18:31:18.844799+00:00"
-    },
-    {
       "id": "zapply-87098f18749e",
       "seen_at": "2026-10-12T19:01:22.112950+00:00"
     },
@@ -26283,10 +26251,90 @@
     {
       "id": "url:https://jobs.ashbyhq.com/baseten/36f9e1be-a876-478b-b7ce-fa216ba12972",
       "seen_at": "2026-11-11T18:31:17.620938+00:00"
+    },
+    {
+      "id": "greenhouse-twitch-8934067002",
+      "seen_at": "2026-11-11T19:01:33.824715+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/twitch/jobs/8934067002",
+      "seen_at": "2026-11-11T19:01:33.825295+00:00"
+    },
+    {
+      "id": "jobright-451cf25716c3",
+      "seen_at": "2026-11-11T19:01:33.825785+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af49dae2278454e18c36c79",
+      "seen_at": "2026-11-11T19:01:33.826226+00:00"
+    },
+    {
+      "id": "jobright-46e7a07136cb",
+      "seen_at": "2026-11-11T19:01:33.826691+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af49c3bcbd2ee75d155b63a",
+      "seen_at": "2026-11-11T19:01:33.827119+00:00"
+    },
+    {
+      "id": "jobright-b6fe8c2e780f",
+      "seen_at": "2026-11-11T19:01:33.827556+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af49666cd7be4db20d866b7",
+      "seen_at": "2026-11-11T19:01:33.827993+00:00"
+    },
+    {
+      "id": "amazon-10602611",
+      "seen_at": "2026-11-11T19:01:33.828426+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602611/software-development-engineer-ground-control-console-gc2",
+      "seen_at": "2026-11-11T19:01:33.828868+00:00"
+    },
+    {
+      "id": "amazon-10598223",
+      "seen_at": "2026-11-11T19:01:33.829286+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference",
+      "seen_at": "2026-11-11T19:01:33.829719+00:00"
+    },
+    {
+      "id": "zapply-e462d5a680ea",
+      "seen_at": "2026-11-11T19:01:35.710983+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-baseten-0a6f7d46-a0c3-4020-a697-e1bf1a8aeafa",
+      "seen_at": "2026-11-11T19:01:35.711466+00:00"
+    },
+    {
+      "id": "zapply-bc49ad8c5897",
+      "seen_at": "2026-11-11T19:01:35.711949+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-vertiv-20285979",
+      "seen_at": "2026-11-11T19:01:35.712328+00:00"
+    },
+    {
+      "id": "jobright-efea4c846eb7",
+      "seen_at": "2026-11-11T19:01:35.712726+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af49e4ccbd2ee75d155b867",
+      "seen_at": "2026-11-11T19:01:35.713098+00:00"
+    },
+    {
+      "id": "amazon-10602625",
+      "seen_at": "2026-11-11T19:01:35.713481+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602625/supply-chain-product-manager-power-and-cooling",
+      "seen_at": "2026-11-11T19:01:35.713869+00:00"
     }
   ],
-  "last_run": "2026-11-11T18:31:17.795914+00:00",
-  "total_notified": 12245,
+  "last_run": "2026-11-11T19:01:35.996152+00:00",
+  "total_notified": 12255,
   "channels": {
     "pm-jobs": [
       "zapply-cac94bfd0d27",
@@ -27433,17 +27481,17 @@
       "zapply-ba56b53a8ba7",
       "url:https://zapply.jobs/l/d/ashby-baseten-36f9e1be-a876-478b-b7ce-fa216ba12972",
       "ashby-baseten-36f9e1be-a876-478b-b7ce-fa216ba12972",
-      "url:https://jobs.ashbyhq.com/baseten/36f9e1be-a876-478b-b7ce-fa216ba12972"
+      "url:https://jobs.ashbyhq.com/baseten/36f9e1be-a876-478b-b7ce-fa216ba12972",
+      "zapply-e462d5a680ea",
+      "url:https://zapply.jobs/l/d/ashby-baseten-0a6f7d46-a0c3-4020-a697-e1bf1a8aeafa",
+      "zapply-bc49ad8c5897",
+      "url:https://zapply.jobs/l/d/oracle-vertiv-20285979",
+      "jobright-efea4c846eb7",
+      "url:https://jobright.ai/jobs/info/6af49e4ccbd2ee75d155b867",
+      "amazon-10602625",
+      "url:https://www.amazon.jobs/en/jobs/10602625/supply-chain-product-manager-power-and-cooling"
     ],
     "swe-ai-full-time": [
-      "zapply-ebcb8ed8f30e",
-      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621753",
-      "gradtracker-35b8dd5283af",
-      "url:https://www.amazon.jobs/en/jobs/10575898/sde-aws-opensearch-service-opensearch",
-      "amazon-10576161",
-      "url:https://www.amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery",
-      "amazon-10576206",
-      "url:https://www.amazon.jobs/en/jobs/10576206/software-development-engineer-amazon-fulfillment-technologies-aft-platform-engineering-services",
       "zapply-87098f18749e",
       "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027083",
       "workday-nvidia-JR2027083",
@@ -32867,7 +32915,19 @@
       "amazon-10602535",
       "url:https://www.amazon.jobs/en/jobs/10602535/software-development-engineer-customer-experience-and-business-trends",
       "amazon-10602570",
-      "url:https://www.amazon.jobs/en/jobs/10602570/applied-scientist-sp-agentic-intelligence"
+      "url:https://www.amazon.jobs/en/jobs/10602570/applied-scientist-sp-agentic-intelligence",
+      "greenhouse-twitch-8934067002",
+      "url:https://job-boards.greenhouse.io/twitch/jobs/8934067002",
+      "jobright-451cf25716c3",
+      "url:https://jobright.ai/jobs/info/6af49dae2278454e18c36c79",
+      "jobright-46e7a07136cb",
+      "url:https://jobright.ai/jobs/info/6af49c3bcbd2ee75d155b63a",
+      "jobright-b6fe8c2e780f",
+      "url:https://jobright.ai/jobs/info/6af49666cd7be4db20d866b7",
+      "amazon-10602611",
+      "url:https://www.amazon.jobs/en/jobs/10602611/software-development-engineer-ground-control-console-gc2",
+      "amazon-10598223",
+      "url:https://www.amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference"
     ]
   }
 }
