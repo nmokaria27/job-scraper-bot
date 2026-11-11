@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-8466d237523f",
-      "seen_at": "2026-10-12T14:31:16.396081+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04623",
-      "seen_at": "2026-10-12T14:31:16.396958+00:00"
-    },
-    {
-      "id": "zapply-d2a9009c07e5",
-      "seen_at": "2026-10-12T14:31:17.643354+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155033294",
-      "seen_at": "2026-10-12T14:31:17.644127+00:00"
-    },
-    {
       "id": "simplify-1935c5df-770d-45f2-bbde-4d4a462ad5cb",
       "seen_at": "2026-10-12T15:01:30.533118+00:00"
     },
@@ -26267,14 +26251,44 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a83c40f2dbaf907b076a8b1",
       "seen_at": "2026-11-11T14:01:19.076582+00:00"
+    },
+    {
+      "id": "zapply-119aa21f8aff",
+      "seen_at": "2026-11-11T15:01:29.079927+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4728305006",
+      "seen_at": "2026-11-11T15:01:29.080534+00:00"
+    },
+    {
+      "id": "jobright-daf4d47c6e8a",
+      "seen_at": "2026-11-11T15:01:29.081047+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abb01f7d2914e9273eee50b",
+      "seen_at": "2026-11-11T15:01:29.081600+00:00"
+    },
+    {
+      "id": "jobright-e9b82ef5a8e7",
+      "seen_at": "2026-11-11T15:01:29.082041+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af46cee9144106c56a1e242",
+      "seen_at": "2026-11-11T15:01:29.082485+00:00"
+    },
+    {
+      "id": "jobright-4ad35607df4d",
+      "seen_at": "2026-11-11T15:01:29.082909+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc",
+      "seen_at": "2026-11-11T15:01:29.083339+00:00"
     }
   ],
-  "last_run": "2026-11-11T14:31:25.852856+00:00",
-  "total_notified": 12210,
+  "last_run": "2026-11-11T15:01:30.312553+00:00",
+  "total_notified": 12214,
   "channels": {
     "pm-jobs": [
-      "zapply-d2a9009c07e5",
-      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155033294",
       "zapply-f3118f8891b0",
       "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622205",
       "zapply-3dc1f7b2cb34",
@@ -27412,8 +27426,6 @@
       "url:https://zapply.jobs/l/d/google-81255526670705350"
     ],
     "swe-ai-full-time": [
-      "zapply-8466d237523f",
-      "url:https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04623",
       "simplify-1935c5df-770d-45f2-bbde-4d4a462ad5cb",
       "url:https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648",
       "amazon-10575779",
@@ -32847,7 +32859,15 @@
       "jobright-9fee9be565e8",
       "url:https://jobright.ai/jobs/info/6ae9d2ed43826864b0fbac99",
       "jobright-0ba01b0f5124",
-      "url:https://jobright.ai/jobs/info/6a83c40f2dbaf907b076a8b1"
+      "url:https://jobright.ai/jobs/info/6a83c40f2dbaf907b076a8b1",
+      "zapply-119aa21f8aff",
+      "url:https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4728305006",
+      "jobright-daf4d47c6e8a",
+      "url:https://jobright.ai/jobs/info/6abb01f7d2914e9273eee50b",
+      "jobright-e9b82ef5a8e7",
+      "url:https://jobright.ai/jobs/info/6af46cee9144106c56a1e242",
+      "jobright-4ad35607df4d",
+      "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc"
     ]
   }
 }
