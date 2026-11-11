@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "lever-palantir-5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-      "seen_at": "2026-10-12T21:31:14.672302+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-      "seen_at": "2026-10-12T21:31:14.672920+00:00"
-    },
-    {
-      "id": "amazon-10576418",
-      "seen_at": "2026-10-12T21:31:14.673509+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10576418/applied-scientist-safe-control-amazon-robotics-compass",
-      "seen_at": "2026-10-12T21:31:14.674065+00:00"
-    },
-    {
       "id": "ashby-benchling-a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
       "seen_at": "2026-10-12T22:01:19.065517+00:00"
     },
@@ -26363,10 +26347,90 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-alarmcom-8916792002",
       "seen_at": "2026-11-11T21:31:16.594972+00:00"
+    },
+    {
+      "id": "simplify-5c3120be-1000-4564-b946-44523735e697",
+      "seen_at": "2026-11-11T22:01:22.016734+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1vk",
+      "seen_at": "2026-11-11T22:01:22.017315+00:00"
+    },
+    {
+      "id": "zapply-17f1b25189c0",
+      "seen_at": "2026-11-11T22:01:22.017780+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R173462",
+      "seen_at": "2026-11-11T22:01:22.018200+00:00"
+    },
+    {
+      "id": "jobright-9631112d32a9",
+      "seen_at": "2026-11-11T22:01:22.018656+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4b8a92278454e18c37e84",
+      "seen_at": "2026-11-11T22:01:22.019088+00:00"
+    },
+    {
+      "id": "jobright-8c7dc601e21d",
+      "seen_at": "2026-11-11T22:01:22.019551+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4cbae1b2c5dcbbcd64245",
+      "seen_at": "2026-11-11T22:01:22.019980+00:00"
+    },
+    {
+      "id": "jobright-8cf2eeeedac6",
+      "seen_at": "2026-11-11T22:01:22.020450+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4c7bf3a9a26aee70a0720",
+      "seen_at": "2026-11-11T22:01:22.020882+00:00"
+    },
+    {
+      "id": "jobright-25a996a3e6a9",
+      "seen_at": "2026-11-11T22:01:22.021363+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4c7bc3a9a26aee70a071d",
+      "seen_at": "2026-11-11T22:01:22.021789+00:00"
+    },
+    {
+      "id": "jobright-737e7939c491",
+      "seen_at": "2026-11-11T22:01:22.022230+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4c689cbd2ee75d155cffa",
+      "seen_at": "2026-11-11T22:01:22.022638+00:00"
+    },
+    {
+      "id": "gradtracker-f4d1ce72c8ca",
+      "seen_at": "2026-11-11T22:01:22.023081+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10593632/software-development-engineer-3p-measurement-tech",
+      "seen_at": "2026-11-11T22:01:22.023504+00:00"
+    },
+    {
+      "id": "gradtracker-38eb1e009541",
+      "seen_at": "2026-11-11T22:01:22.023937+00:00"
+    },
+    {
+      "id": "url:https://paypal.eightfold.ai/careers/job/274923311654",
+      "seen_at": "2026-11-11T22:01:22.024361+00:00"
+    },
+    {
+      "id": "jobright-ed92d51d3331",
+      "seen_at": "2026-11-11T22:01:22.024791+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4bf773a9a26aee70a0388",
+      "seen_at": "2026-11-11T22:01:22.025214+00:00"
     }
   ],
-  "last_run": "2026-11-11T21:31:16.835777+00:00",
-  "total_notified": 12276,
+  "last_run": "2026-11-11T22:01:23.075279+00:00",
+  "total_notified": 12286,
   "channels": {
     "pm-jobs": [
       "ashby-snowflake-34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
@@ -27520,10 +27584,6 @@
       "url:https://zapply.jobs/l/d/greenhouse-alarmcom-8916792002"
     ],
     "swe-ai-full-time": [
-      "lever-palantir-5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-      "url:https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-      "amazon-10576418",
-      "url:https://www.amazon.jobs/en/jobs/10576418/applied-scientist-safe-control-amazon-robotics-compass",
       "ashby-benchling-a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
       "url:https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
       "jobright-303dfb1777fd",
@@ -32967,7 +33027,27 @@
       "amazon-10602773",
       "url:https://www.amazon.jobs/en/jobs/10602773/software-development-engineer-checkout-applications-team",
       "gradtracker-0d9fcfd7a48a",
-      "url:https://www.amazon.jobs/en/jobs/10599517/software-engineer-aws-applied-ai-solutions"
+      "url:https://www.amazon.jobs/en/jobs/10599517/software-engineer-aws-applied-ai-solutions",
+      "simplify-5c3120be-1000-4564-b946-44523735e697",
+      "url:https://go.vansh.nyc/1vk",
+      "zapply-17f1b25189c0",
+      "url:https://zapply.jobs/l/d/workday-adobe-external-experienced-R173462",
+      "jobright-9631112d32a9",
+      "url:https://jobright.ai/jobs/info/6af4b8a92278454e18c37e84",
+      "jobright-8c7dc601e21d",
+      "url:https://jobright.ai/jobs/info/6af4cbae1b2c5dcbbcd64245",
+      "jobright-8cf2eeeedac6",
+      "url:https://jobright.ai/jobs/info/6af4c7bf3a9a26aee70a0720",
+      "jobright-25a996a3e6a9",
+      "url:https://jobright.ai/jobs/info/6af4c7bc3a9a26aee70a071d",
+      "jobright-737e7939c491",
+      "url:https://jobright.ai/jobs/info/6af4c689cbd2ee75d155cffa",
+      "gradtracker-f4d1ce72c8ca",
+      "url:https://www.amazon.jobs/en/jobs/10593632/software-development-engineer-3p-measurement-tech",
+      "gradtracker-38eb1e009541",
+      "url:https://paypal.eightfold.ai/careers/job/274923311654",
+      "jobright-ed92d51d3331",
+      "url:https://jobright.ai/jobs/info/6af4bf773a9a26aee70a0388"
     ]
   }
 }
