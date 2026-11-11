@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-8405756c6a6a",
-      "seen_at": "2026-10-12T13:01:34.033076+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6accb9893c831dc4086bf1b9",
-      "seen_at": "2026-10-12T13:01:34.033834+00:00"
-    },
-    {
-      "id": "jobright-55077171799a",
-      "seen_at": "2026-10-12T13:01:34.034484+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6accb983e7a1d9333210e91a",
-      "seen_at": "2026-10-12T13:01:34.035067+00:00"
-    },
-    {
       "id": "zapply-b1ada13f4463",
       "seen_at": "2026-10-12T14:01:26.536139+00:00"
     },
@@ -26269,7 +26253,7 @@
       "seen_at": "2026-11-11T13:01:18.532845+00:00"
     }
   ],
-  "last_run": "2026-11-11T13:01:18.813779+00:00",
+  "last_run": "2026-11-11T13:31:10.996496+00:00",
   "total_notified": 12207,
   "channels": {
     "pm-jobs": [
@@ -27414,10 +27398,6 @@
       "url:https://zapply.jobs/l/d/google-81255526670705350"
     ],
     "swe-ai-full-time": [
-      "jobright-8405756c6a6a",
-      "url:https://jobright.ai/jobs/info/6accb9893c831dc4086bf1b9",
-      "jobright-55077171799a",
-      "url:https://jobright.ai/jobs/info/6accb983e7a1d9333210e91a",
       "zapply-8466d237523f",
       "url:https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04623",
       "simplify-1935c5df-770d-45f2-bbde-4d4a462ad5cb",
