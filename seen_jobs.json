@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-benchling-a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
-      "seen_at": "2026-10-12T22:01:19.065517+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
-      "seen_at": "2026-10-12T22:01:19.066159+00:00"
-    },
-    {
-      "id": "jobright-303dfb1777fd",
-      "seen_at": "2026-10-12T22:01:19.066750+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd3b7bddd23cce28a1155c",
-      "seen_at": "2026-10-12T22:01:19.067315+00:00"
-    },
-    {
-      "id": "jobright-8a696e31753b",
-      "seen_at": "2026-10-12T22:01:19.067893+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd1ab3ddd23cce28a109f0",
-      "seen_at": "2026-10-12T22:01:19.068450+00:00"
-    },
-    {
-      "id": "jobright-364f08092afe",
-      "seen_at": "2026-10-12T22:01:19.069033+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd36533c831dc4086c1223",
-      "seen_at": "2026-10-12T22:01:19.069566+00:00"
-    },
-    {
-      "id": "jobright-b0a535b1da32",
-      "seen_at": "2026-10-12T22:01:19.070140+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd4023a56e5406e57c0649",
-      "seen_at": "2026-10-12T22:01:19.070669+00:00"
-    },
-    {
       "id": "greenhouse-gleanwork-4742959005",
       "seen_at": "2026-10-12T22:31:16.189455+00:00"
     },
@@ -26427,10 +26387,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af4bf773a9a26aee70a0388",
       "seen_at": "2026-11-11T22:01:22.025214+00:00"
+    },
+    {
+      "id": "applyguy-32399a2d-68be-4ed0-b803-a61afa4eeac1",
+      "seen_at": "2026-11-11T22:31:10.503348+00:00"
+    },
+    {
+      "id": "url:https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
+      "seen_at": "2026-11-11T22:31:10.503724+00:00"
     }
   ],
-  "last_run": "2026-11-11T22:01:23.075279+00:00",
-  "total_notified": 12286,
+  "last_run": "2026-11-11T22:31:11.455818+00:00",
+  "total_notified": 12287,
   "channels": {
     "pm-jobs": [
       "ashby-snowflake-34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
@@ -27584,16 +27552,6 @@
       "url:https://zapply.jobs/l/d/greenhouse-alarmcom-8916792002"
     ],
     "swe-ai-full-time": [
-      "ashby-benchling-a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
-      "url:https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
-      "jobright-303dfb1777fd",
-      "url:https://jobright.ai/jobs/info/6acd3b7bddd23cce28a1155c",
-      "jobright-8a696e31753b",
-      "url:https://jobright.ai/jobs/info/6acd1ab3ddd23cce28a109f0",
-      "jobright-364f08092afe",
-      "url:https://jobright.ai/jobs/info/6acd36533c831dc4086c1223",
-      "jobright-b0a535b1da32",
-      "url:https://jobright.ai/jobs/info/6acd4023a56e5406e57c0649",
       "greenhouse-gleanwork-4742959005",
       "url:https://job-boards.greenhouse.io/gleanwork/jobs/4742959005",
       "zapply-c06d30fc0036",
@@ -33047,7 +33005,9 @@
       "gradtracker-38eb1e009541",
       "url:https://paypal.eightfold.ai/careers/job/274923311654",
       "jobright-ed92d51d3331",
-      "url:https://jobright.ai/jobs/info/6af4bf773a9a26aee70a0388"
+      "url:https://jobright.ai/jobs/info/6af4bf773a9a26aee70a0388",
+      "applyguy-32399a2d-68be-4ed0-b803-a61afa4eeac1",
+      "url:https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496"
     ]
   }
 }
