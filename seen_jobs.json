@@ -26131,10 +26131,34 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10602003/product-manager-tech-adoption-enablement-comms-tech",
       "seen_at": "2026-11-11T02:31:27.323750+00:00"
+    },
+    {
+      "id": "simplify-fc9a2814-e6ac-4198-a6bd-4f77d7941d78",
+      "seen_at": "2026-11-11T03:01:15.546562+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/bask-health-1/j/10419258C9/apply",
+      "seen_at": "2026-11-11T03:01:15.546892+00:00"
+    },
+    {
+      "id": "simplify-700d3a35-4abc-4ee4-b603-d2547a1f716f",
+      "seen_at": "2026-11-11T03:01:15.547208+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/bask-health-1/j/E3BA07B52A/apply",
+      "seen_at": "2026-11-11T03:01:15.547478+00:00"
+    },
+    {
+      "id": "simplify-d456430e-26c6-4f0f-9034-ee47bfe3d1ab",
+      "seen_at": "2026-11-11T03:01:15.547740+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/bask-health-1/j/EB2C2D9268/apply",
+      "seen_at": "2026-11-11T03:01:15.547994+00:00"
     }
   ],
-  "last_run": "2026-11-11T02:31:27.982348+00:00",
-  "total_notified": 12184,
+  "last_run": "2026-11-11T03:01:15.782796+00:00",
+  "total_notified": 12187,
   "channels": {
     "pm-jobs": [
       "zapply-c142cbf94bc3",
@@ -27265,7 +27289,13 @@
       "zapply-a7eaf91cdbd4",
       "url:https://zapply.jobs/l/d/workday-cadence-external-careers-R56838",
       "amazon-10602003",
-      "url:https://www.amazon.jobs/en/jobs/10602003/product-manager-tech-adoption-enablement-comms-tech"
+      "url:https://www.amazon.jobs/en/jobs/10602003/product-manager-tech-adoption-enablement-comms-tech",
+      "simplify-fc9a2814-e6ac-4198-a6bd-4f77d7941d78",
+      "url:https://apply.workable.com/bask-health-1/j/10419258C9/apply",
+      "simplify-700d3a35-4abc-4ee4-b603-d2547a1f716f",
+      "url:https://apply.workable.com/bask-health-1/j/E3BA07B52A/apply",
+      "simplify-d456430e-26c6-4f0f-9034-ee47bfe3d1ab",
+      "url:https://apply.workable.com/bask-health-1/j/EB2C2D9268/apply"
     ],
     "swe-ai-full-time": [
       "jobright-b87fbed32d93",
