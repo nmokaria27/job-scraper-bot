@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-cursor-aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
-      "seen_at": "2026-10-12T21:01:23.365461+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
-      "seen_at": "2026-10-12T21:01:23.365996+00:00"
-    },
-    {
-      "id": "jobright-1a7e42830f6b",
-      "seen_at": "2026-10-12T21:01:23.366360+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd2587002e496d4bef0e09",
-      "seen_at": "2026-10-12T21:01:23.366706+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR357929",
-      "seen_at": "2026-10-12T21:01:23.367033+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR357929",
-      "seen_at": "2026-10-12T21:01:23.367337+00:00"
-    },
-    {
-      "id": "jobright-1a0633851c85",
-      "seen_at": "2026-10-12T21:01:23.367654+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd3455ddd23cce28a1131c",
-      "seen_at": "2026-10-12T21:01:23.367943+00:00"
-    },
-    {
-      "id": "jobright-fccf52e2af17",
-      "seen_at": "2026-10-12T21:01:23.368244+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd2a09ddd23cce28a110ac",
-      "seen_at": "2026-10-12T21:01:23.368538+00:00"
-    },
-    {
       "id": "lever-palantir-5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
       "seen_at": "2026-10-12T21:31:14.672302+00:00"
     },
@@ -26363,10 +26323,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af4bca9cbd2ee75d155cb80",
       "seen_at": "2026-11-11T21:01:17.126118+00:00"
+    },
+    {
+      "id": "zapply-7b14f0f7fb04",
+      "seen_at": "2026-11-11T21:31:14.816142+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026529463",
+      "seen_at": "2026-11-11T21:31:14.816972+00:00"
+    },
+    {
+      "id": "amazon-10602773",
+      "seen_at": "2026-11-11T21:31:14.817524+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602773/software-development-engineer-checkout-applications-team",
+      "seen_at": "2026-11-11T21:31:14.817973+00:00"
+    },
+    {
+      "id": "gradtracker-0d9fcfd7a48a",
+      "seen_at": "2026-11-11T21:31:14.818478+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10599517/software-engineer-aws-applied-ai-solutions",
+      "seen_at": "2026-11-11T21:31:14.818921+00:00"
+    },
+    {
+      "id": "zapply-95ff419bd3be",
+      "seen_at": "2026-11-11T21:31:16.593408+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-autostore-autostore-JR102793",
+      "seen_at": "2026-11-11T21:31:16.594062+00:00"
+    },
+    {
+      "id": "zapply-bf2735710bb5",
+      "seen_at": "2026-11-11T21:31:16.594552+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-alarmcom-8916792002",
+      "seen_at": "2026-11-11T21:31:16.594972+00:00"
     }
   ],
-  "last_run": "2026-11-11T21:01:18.253450+00:00",
-  "total_notified": 12271,
+  "last_run": "2026-11-11T21:31:16.835777+00:00",
+  "total_notified": 12276,
   "channels": {
     "pm-jobs": [
       "ashby-snowflake-34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
@@ -27513,19 +27513,13 @@
       "amazon-10602625",
       "url:https://www.amazon.jobs/en/jobs/10602625/supply-chain-product-manager-power-and-cooling",
       "jobright-51c44dabb8f1",
-      "url:https://jobright.ai/jobs/info/6a50f65e57513b72e0c629cc"
+      "url:https://jobright.ai/jobs/info/6a50f65e57513b72e0c629cc",
+      "zapply-95ff419bd3be",
+      "url:https://zapply.jobs/l/d/workday-autostore-autostore-JR102793",
+      "zapply-bf2735710bb5",
+      "url:https://zapply.jobs/l/d/greenhouse-alarmcom-8916792002"
     ],
     "swe-ai-full-time": [
-      "ashby-cursor-aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
-      "url:https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
-      "jobright-1a7e42830f6b",
-      "url:https://jobright.ai/jobs/info/6acd2587002e496d4bef0e09",
-      "workday-salesforce-JR357929",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR357929",
-      "jobright-1a0633851c85",
-      "url:https://jobright.ai/jobs/info/6acd3455ddd23cce28a1131c",
-      "jobright-fccf52e2af17",
-      "url:https://jobright.ai/jobs/info/6acd2a09ddd23cce28a110ac",
       "lever-palantir-5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
       "url:https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
       "amazon-10576418",
@@ -32967,7 +32961,13 @@
       "workday-adobe-R173462",
       "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462",
       "jobright-7b3b47d5ecd5",
-      "url:https://jobright.ai/jobs/info/6af4bca9cbd2ee75d155cb80"
+      "url:https://jobright.ai/jobs/info/6af4bca9cbd2ee75d155cb80",
+      "zapply-7b14f0f7fb04",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026529463",
+      "amazon-10602773",
+      "url:https://www.amazon.jobs/en/jobs/10602773/software-development-engineer-checkout-applications-team",
+      "gradtracker-0d9fcfd7a48a",
+      "url:https://www.amazon.jobs/en/jobs/10599517/software-engineer-aws-applied-ai-solutions"
     ]
   }
 }
