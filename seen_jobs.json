@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-3522003876be",
-      "seen_at": "2026-10-12T17:01:28.633267+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6accfeebe7a1d9333210f69f",
-      "seen_at": "2026-10-12T17:01:28.633942+00:00"
-    },
-    {
-      "id": "jobright-79ff082d6aaf",
-      "seen_at": "2026-10-12T17:01:28.634535+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6accf5cce7a1d9333210f37f",
-      "seen_at": "2026-10-12T17:01:28.635102+00:00"
-    },
-    {
-      "id": "amazon-10575952",
-      "seen_at": "2026-10-12T17:01:28.635659+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10575952/software-development-engineer-amazon-connect-interapps-aws",
-      "seen_at": "2026-10-12T17:01:28.636207+00:00"
-    },
-    {
-      "id": "jobright-1b434a8ecdcc",
-      "seen_at": "2026-10-12T17:01:28.636791+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6accf631002e496d4beefc12",
-      "seen_at": "2026-10-12T17:01:28.637346+00:00"
-    },
-    {
-      "id": "zapply-3dc1f7b2cb34",
-      "seen_at": "2026-10-12T17:01:30.375329+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000399448",
-      "seen_at": "2026-10-12T17:01:30.375932+00:00"
-    },
-    {
-      "id": "jobright-169c0a70def1",
-      "seen_at": "2026-10-12T17:01:30.376471+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6accf4a4ddd23cce28a0fd52",
-      "seen_at": "2026-10-12T17:01:30.376971+00:00"
-    },
-    {
       "id": "amazon-10576037",
       "seen_at": "2026-10-12T17:32:00.098131+00:00"
     },
@@ -26251,16 +26203,60 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af48707cbd2ee75d155a860",
       "seen_at": "2026-11-11T17:01:46.368778+00:00"
+    },
+    {
+      "id": "zapply-e0dff8860d7b",
+      "seen_at": "2026-11-11T17:31:12.422082+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-symbotic-symbotic-R8496",
+      "seen_at": "2026-11-11T17:31:12.422577+00:00"
+    },
+    {
+      "id": "simplify-96035d05-03e8-447e-9a04-d5d178737803",
+      "seen_at": "2026-11-11T17:31:12.423019+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1uP",
+      "seen_at": "2026-11-11T17:31:12.423429+00:00"
+    },
+    {
+      "id": "amazon-10602474",
+      "seen_at": "2026-11-11T17:31:12.423820+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602474/sde-rust-or-c-c-device-cloud-core-services",
+      "seen_at": "2026-11-11T17:31:12.424198+00:00"
+    },
+    {
+      "id": "amazon-10602475",
+      "seen_at": "2026-11-11T17:31:12.424556+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602475/applied-scientist-pxt-central-science",
+      "seen_at": "2026-11-11T17:31:12.424957+00:00"
+    },
+    {
+      "id": "zapply-061b1d0b9a3e",
+      "seen_at": "2026-11-11T17:31:14.499958+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_054954",
+      "seen_at": "2026-11-11T17:31:14.500396+00:00"
+    },
+    {
+      "id": "zapply-105d4702a896",
+      "seen_at": "2026-11-11T17:31:14.500778+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-ixllearning-8936808002",
+      "seen_at": "2026-11-11T17:31:14.501119+00:00"
     }
   ],
-  "last_run": "2026-11-11T17:01:47.237007+00:00",
-  "total_notified": 12226,
+  "last_run": "2026-11-11T17:31:14.725929+00:00",
+  "total_notified": 12232,
   "channels": {
     "pm-jobs": [
-      "zapply-3dc1f7b2cb34",
-      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000399448",
-      "jobright-169c0a70def1",
-      "url:https://jobright.ai/jobs/info/6accf4a4ddd23cce28a0fd52",
       "amazon-10576037",
       "url:https://www.amazon.jobs/en/jobs/10576037/product-manager-tech-neighbors",
       "zapply-fb4c140b98d3",
@@ -27391,17 +27387,13 @@
       "zapply-603f70084a15",
       "url:https://zapply.jobs/l/d/google-81255526670705350",
       "ashby-snowflake-44a8bfd1-593c-4024-8745-a01cca587cb6",
-      "url:https://jobs.ashbyhq.com/snowflake/44a8bfd1-593c-4024-8745-a01cca587cb6"
+      "url:https://jobs.ashbyhq.com/snowflake/44a8bfd1-593c-4024-8745-a01cca587cb6",
+      "zapply-061b1d0b9a3e",
+      "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_054954",
+      "zapply-105d4702a896",
+      "url:https://zapply.jobs/l/d/greenhouse-ixllearning-8936808002"
     ],
     "swe-ai-full-time": [
-      "jobright-3522003876be",
-      "url:https://jobright.ai/jobs/info/6accfeebe7a1d9333210f69f",
-      "jobright-79ff082d6aaf",
-      "url:https://jobright.ai/jobs/info/6accf5cce7a1d9333210f37f",
-      "amazon-10575952",
-      "url:https://www.amazon.jobs/en/jobs/10575952/software-development-engineer-amazon-connect-interapps-aws",
-      "jobright-1b434a8ecdcc",
-      "url:https://jobright.ai/jobs/info/6accf631002e496d4beefc12",
       "jobright-81c87073fc66",
       "url:https://jobright.ai/jobs/info/6acd0f023c831dc4086c052a",
       "jobright-0059d1a2d5ea",
@@ -32827,7 +32819,15 @@
       "zapply-a11960d8d41d",
       "url:https://zapply.jobs/l/d/workday-generac-external-JR15240",
       "jobright-30f9f2dd30f1",
-      "url:https://jobright.ai/jobs/info/6af48707cbd2ee75d155a860"
+      "url:https://jobright.ai/jobs/info/6af48707cbd2ee75d155a860",
+      "zapply-e0dff8860d7b",
+      "url:https://zapply.jobs/l/d/workday-symbotic-symbotic-R8496",
+      "simplify-96035d05-03e8-447e-9a04-d5d178737803",
+      "url:https://go.vansh.nyc/1uP",
+      "amazon-10602474",
+      "url:https://www.amazon.jobs/en/jobs/10602474/sde-rust-or-c-c-device-cloud-core-services",
+      "amazon-10602475",
+      "url:https://www.amazon.jobs/en/jobs/10602475/applied-scientist-pxt-central-science"
     ]
   }
 }
