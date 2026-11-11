@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-e9f9239413a8",
-      "seen_at": "2026-10-12T20:31:23.486726+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-esri-5220093007",
-      "seen_at": "2026-10-12T20:31:23.487471+00:00"
-    },
-    {
-      "id": "zapply-7060a2a1899d",
-      "seen_at": "2026-10-12T20:31:25.693266+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155106187",
-      "seen_at": "2026-10-12T20:31:25.693966+00:00"
-    },
-    {
-      "id": "zapply-836e714a376b",
-      "seen_at": "2026-10-12T20:31:25.694544+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-cummins-2438046",
-      "seen_at": "2026-10-12T20:31:25.695072+00:00"
-    },
-    {
       "id": "ashby-cursor-aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
       "seen_at": "2026-10-12T21:01:23.365461+00:00"
     },
@@ -26323,16 +26299,76 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a50f65e57513b72e0c629cc",
       "seen_at": "2026-11-11T20:01:35.188073+00:00"
+    },
+    {
+      "id": "jobright-7b1a6d9f93b9",
+      "seen_at": "2026-11-11T21:01:17.120708+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4c0802278454e18c381b8",
+      "seen_at": "2026-11-11T21:01:17.121151+00:00"
+    },
+    {
+      "id": "jobright-35fb6dc21951",
+      "seen_at": "2026-11-11T21:01:17.121544+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4bbdf1b2c5dcbbcd63c5c",
+      "seen_at": "2026-11-11T21:01:17.121904+00:00"
+    },
+    {
+      "id": "jobright-c42df4b1609a",
+      "seen_at": "2026-11-11T21:01:17.122251+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4bb153a9a26aee70a01f6",
+      "seen_at": "2026-11-11T21:01:17.122570+00:00"
+    },
+    {
+      "id": "jobright-f378ff720a9e",
+      "seen_at": "2026-11-11T21:01:17.122913+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4b7519144106c56a20d70",
+      "seen_at": "2026-11-11T21:01:17.123229+00:00"
+    },
+    {
+      "id": "amazon-10602707",
+      "seen_at": "2026-11-11T21:01:17.123630+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602707/robotics-sde-safe-autonomy-compass",
+      "seen_at": "2026-11-11T21:01:17.124038+00:00"
+    },
+    {
+      "id": "amazon-10595564",
+      "seen_at": "2026-11-11T21:01:17.124408+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10595564/machine-learning-engineer-ad-response-prediction",
+      "seen_at": "2026-11-11T21:01:17.124793+00:00"
+    },
+    {
+      "id": "workday-adobe-R173462",
+      "seen_at": "2026-11-11T21:01:17.125140+00:00"
+    },
+    {
+      "id": "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462",
+      "seen_at": "2026-11-11T21:01:17.125459+00:00"
+    },
+    {
+      "id": "jobright-7b3b47d5ecd5",
+      "seen_at": "2026-11-11T21:01:17.125799+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4bca9cbd2ee75d155cb80",
+      "seen_at": "2026-11-11T21:01:17.126118+00:00"
     }
   ],
-  "last_run": "2026-11-11T20:01:35.420064+00:00",
-  "total_notified": 12263,
+  "last_run": "2026-11-11T21:01:18.253450+00:00",
+  "total_notified": 12271,
   "channels": {
     "pm-jobs": [
-      "zapply-7060a2a1899d",
-      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155106187",
-      "zapply-836e714a376b",
-      "url:https://zapply.jobs/l/d/oracle-cummins-2438046",
       "ashby-snowflake-34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
       "url:https://jobs.ashbyhq.com/snowflake/34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
       "workday-nvidia-JR2027364",
@@ -27480,8 +27516,6 @@
       "url:https://jobright.ai/jobs/info/6a50f65e57513b72e0c629cc"
     ],
     "swe-ai-full-time": [
-      "zapply-e9f9239413a8",
-      "url:https://zapply.jobs/l/d/greenhouse-esri-5220093007",
       "ashby-cursor-aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
       "url:https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
       "jobright-1a7e42830f6b",
@@ -32917,7 +32951,23 @@
       "amazon-10602674",
       "url:https://www.amazon.jobs/en/jobs/10602674/software-development-engineer-special-projects",
       "jobright-ad561e3e9731",
-      "url:https://jobright.ai/jobs/info/6af4a42bcd7be4db20d87219"
+      "url:https://jobright.ai/jobs/info/6af4a42bcd7be4db20d87219",
+      "jobright-7b1a6d9f93b9",
+      "url:https://jobright.ai/jobs/info/6af4c0802278454e18c381b8",
+      "jobright-35fb6dc21951",
+      "url:https://jobright.ai/jobs/info/6af4bbdf1b2c5dcbbcd63c5c",
+      "jobright-c42df4b1609a",
+      "url:https://jobright.ai/jobs/info/6af4bb153a9a26aee70a01f6",
+      "jobright-f378ff720a9e",
+      "url:https://jobright.ai/jobs/info/6af4b7519144106c56a20d70",
+      "amazon-10602707",
+      "url:https://www.amazon.jobs/en/jobs/10602707/robotics-sde-safe-autonomy-compass",
+      "amazon-10595564",
+      "url:https://www.amazon.jobs/en/jobs/10595564/machine-learning-engineer-ad-response-prediction",
+      "workday-adobe-R173462",
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462",
+      "jobright-7b3b47d5ecd5",
+      "url:https://jobright.ai/jobs/info/6af4bca9cbd2ee75d155cb80"
     ]
   }
 }
