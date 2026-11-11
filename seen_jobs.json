@@ -26011,10 +26011,74 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10601943/applied-scientist-i-tablet-product-software",
       "seen_at": "2026-11-11T00:01:19.068836+00:00"
+    },
+    {
+      "id": "greenhouse-roblox-8356764",
+      "seen_at": "2026-11-11T00:31:29.002492+00:00"
+    },
+    {
+      "id": "url:https://careers.roblox.com/jobs/8356764",
+      "seen_at": "2026-11-11T00:31:29.003002+00:00"
+    },
+    {
+      "id": "simplify-c4d7ab6c-a1c8-427a-9a75-340e78062307",
+      "seen_at": "2026-11-11T00:31:29.003414+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1sv",
+      "seen_at": "2026-11-11T00:31:29.003797+00:00"
+    },
+    {
+      "id": "amazon-10601959",
+      "seen_at": "2026-11-11T00:31:29.004164+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10601959/software-development-engineer-provisioning-amazon-leo",
+      "seen_at": "2026-11-11T00:31:29.004505+00:00"
+    },
+    {
+      "id": "amazon-10601961",
+      "seen_at": "2026-11-11T00:31:29.004886+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10601961/software-development-engineer-customer-experience-and-business-trends",
+      "seen_at": "2026-11-11T00:31:29.005218+00:00"
+    },
+    {
+      "id": "simplify-efa1db1a-d7a2-4ae6-a61f-8f2d63fd7607",
+      "seen_at": "2026-11-11T00:31:29.005561+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/Mirantis/744000160982204",
+      "seen_at": "2026-11-11T00:31:29.005909+00:00"
+    },
+    {
+      "id": "simplify-60ba5d46-1da9-4411-9d8c-797c4a1811f2",
+      "seen_at": "2026-11-11T00:31:29.006242+00:00"
+    },
+    {
+      "id": "url:https://higher.gs.com/roles/188640",
+      "seen_at": "2026-11-11T00:31:29.006594+00:00"
+    },
+    {
+      "id": "simplify-58592855-2044-4be6-8626-a6671a22102c",
+      "seen_at": "2026-11-11T00:31:29.006923+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/Wise/744000160933600",
+      "seen_at": "2026-11-11T00:31:29.007245+00:00"
+    },
+    {
+      "id": "simplify-cf6019bf-adbe-4a03-9a0f-2b68d19fe04f",
+      "seen_at": "2026-11-11T00:31:29.007594+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1su",
+      "seen_at": "2026-11-11T00:31:29.007950+00:00"
     }
   ],
-  "last_run": "2026-11-11T00:01:20.141497+00:00",
-  "total_notified": 12168,
+  "last_run": "2026-11-11T00:31:29.960145+00:00",
+  "total_notified": 12176,
   "channels": {
     "pm-jobs": [
       "zapply-c142cbf94bc3",
@@ -32527,7 +32591,23 @@
       "amazon-10601956",
       "url:https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
       "amazon-10601943",
-      "url:https://www.amazon.jobs/en/jobs/10601943/applied-scientist-i-tablet-product-software"
+      "url:https://www.amazon.jobs/en/jobs/10601943/applied-scientist-i-tablet-product-software",
+      "greenhouse-roblox-8356764",
+      "url:https://careers.roblox.com/jobs/8356764",
+      "simplify-c4d7ab6c-a1c8-427a-9a75-340e78062307",
+      "url:https://go.vansh.nyc/1sv",
+      "amazon-10601959",
+      "url:https://www.amazon.jobs/en/jobs/10601959/software-development-engineer-provisioning-amazon-leo",
+      "amazon-10601961",
+      "url:https://www.amazon.jobs/en/jobs/10601961/software-development-engineer-customer-experience-and-business-trends",
+      "simplify-efa1db1a-d7a2-4ae6-a61f-8f2d63fd7607",
+      "url:https://jobs.smartrecruiters.com/Mirantis/744000160982204",
+      "simplify-60ba5d46-1da9-4411-9d8c-797c4a1811f2",
+      "url:https://higher.gs.com/roles/188640",
+      "simplify-58592855-2044-4be6-8626-a6671a22102c",
+      "url:https://jobs.smartrecruiters.com/Wise/744000160933600",
+      "simplify-cf6019bf-adbe-4a03-9a0f-2b68d19fe04f",
+      "url:https://go.vansh.nyc/1su"
     ]
   }
 }
