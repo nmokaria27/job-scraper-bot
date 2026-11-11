@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10575853",
-      "seen_at": "2026-10-12T15:31:11.980363+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10575853/software-engineer-sso-intelligence",
-      "seen_at": "2026-10-12T15:31:11.981027+00:00"
-    },
-    {
-      "id": "zapply-f3118f8891b0",
-      "seen_at": "2026-10-12T15:31:13.162957+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622205",
-      "seen_at": "2026-10-12T15:31:13.163613+00:00"
-    },
-    {
       "id": "greenhouse-duolingo-8881612002",
       "seen_at": "2026-10-12T16:01:20.751373+00:00"
     },
@@ -26275,14 +26259,44 @@
     {
       "id": "url:https://jobs.ashbyhq.com/snowflake/44a8bfd1-593c-4024-8745-a01cca587cb6",
       "seen_at": "2026-11-11T15:31:20.657638+00:00"
+    },
+    {
+      "id": "simplify-1712cac2-b710-4c41-a381-3eb6e3155972",
+      "seen_at": "2026-11-11T16:01:54.288517+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728305006",
+      "seen_at": "2026-11-11T16:01:54.288941+00:00"
+    },
+    {
+      "id": "simplify-5d1a3f0e-ab9b-430a-affb-25361ff9d644",
+      "seen_at": "2026-11-11T16:01:54.289269+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047",
+      "seen_at": "2026-11-11T16:01:54.289564+00:00"
+    },
+    {
+      "id": "jobright-7f1801cb8086",
+      "seen_at": "2026-11-11T16:01:54.289850+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af47a329144106c56a1e672",
+      "seen_at": "2026-11-11T16:01:54.290168+00:00"
+    },
+    {
+      "id": "amazon-10602358",
+      "seen_at": "2026-11-11T16:01:54.290471+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602358/software-development-engineer-platform-engineering-emerging-technology",
+      "seen_at": "2026-11-11T16:01:54.290740+00:00"
     }
   ],
-  "last_run": "2026-11-11T15:31:20.892942+00:00",
-  "total_notified": 12216,
+  "last_run": "2026-11-11T16:01:55.109829+00:00",
+  "total_notified": 12220,
   "channels": {
     "pm-jobs": [
-      "zapply-f3118f8891b0",
-      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622205",
       "zapply-3dc1f7b2cb34",
       "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000399448",
       "jobright-169c0a70def1",
@@ -27420,8 +27434,6 @@
       "url:https://jobs.ashbyhq.com/snowflake/44a8bfd1-593c-4024-8745-a01cca587cb6"
     ],
     "swe-ai-full-time": [
-      "amazon-10575853",
-      "url:https://www.amazon.jobs/en/jobs/10575853/software-engineer-sso-intelligence",
       "greenhouse-duolingo-8881612002",
       "url:https://careers.duolingo.com/jobs/8881612002",
       "zapply-62cc82ac8172",
@@ -32857,7 +32869,15 @@
       "jobright-4ad35607df4d",
       "url:https://jobright.ai/jobs/info/6a7f602119ce4e6e9d9374dc",
       "workday-salesforce-JR368047",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1",
+      "simplify-1712cac2-b710-4c41-a381-3eb6e3155972",
+      "url:https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728305006",
+      "simplify-5d1a3f0e-ab9b-430a-affb-25361ff9d644",
+      "url:https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047",
+      "jobright-7f1801cb8086",
+      "url:https://jobright.ai/jobs/info/6af47a329144106c56a1e672",
+      "amazon-10602358",
+      "url:https://www.amazon.jobs/en/jobs/10602358/software-development-engineer-platform-engineering-emerging-technology"
     ]
   }
 }
