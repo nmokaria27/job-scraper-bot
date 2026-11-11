@@ -26219,10 +26219,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/ashby-baseten-9b71cb02-d82c-421c-b73b-4b783076409e",
       "seen_at": "2026-11-11T11:01:24.784686+00:00"
+    },
+    {
+      "id": "jobright-3191c0915f1b",
+      "seen_at": "2026-11-11T12:01:18.542232+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af446b755dfd18e245c3c2b",
+      "seen_at": "2026-11-11T12:01:18.542553+00:00"
+    },
+    {
+      "id": "jobright-d974d607e320",
+      "seen_at": "2026-11-11T12:01:18.542890+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adb10c091f93f4b05716613",
+      "seen_at": "2026-11-11T12:01:18.543141+00:00"
+    },
+    {
+      "id": "jobright-5aaaca153be8",
+      "seen_at": "2026-11-11T12:01:18.543380+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa7e3c6930bff471a2a43b9",
+      "seen_at": "2026-11-11T12:01:18.543601+00:00"
+    },
+    {
+      "id": "jobright-f1ddacb354aa",
+      "seen_at": "2026-11-11T12:01:18.543823+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac599ead9621c5b283a60be",
+      "seen_at": "2026-11-11T12:01:18.544040+00:00"
+    },
+    {
+      "id": "jobright-1b6652485853",
+      "seen_at": "2026-11-11T12:01:18.544252+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7cf4b2a346cb6c8d5f1132",
+      "seen_at": "2026-11-11T12:01:18.544453+00:00"
+    },
+    {
+      "id": "jobright-8faf3bec5d90",
+      "seen_at": "2026-11-11T12:01:20.050535+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7e7e470cd4a070325805df",
+      "seen_at": "2026-11-11T12:01:20.050812+00:00"
     }
   ],
-  "last_run": "2026-11-11T11:31:09.852309+00:00",
-  "total_notified": 12200,
+  "last_run": "2026-11-11T12:01:20.357572+00:00",
+  "total_notified": 12206,
   "channels": {
     "pm-jobs": [
       "zapply-b1ada13f4463",
@@ -27359,7 +27407,9 @@
       "ashby-baseten-9b71cb02-d82c-421c-b73b-4b783076409e",
       "url:https://jobs.ashbyhq.com/baseten/9b71cb02-d82c-421c-b73b-4b783076409e",
       "zapply-9fbbf865d38f",
-      "url:https://zapply.jobs/l/d/ashby-baseten-9b71cb02-d82c-421c-b73b-4b783076409e"
+      "url:https://zapply.jobs/l/d/ashby-baseten-9b71cb02-d82c-421c-b73b-4b783076409e",
+      "jobright-8faf3bec5d90",
+      "url:https://jobright.ai/jobs/info/6a7e7e470cd4a070325805df"
     ],
     "swe-ai-full-time": [
       "jobright-3e6c3750d151",
@@ -32787,7 +32837,17 @@
       "applyguy-f335954a-2b7d-4d4c-a001-0d74b314e3e6",
       "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040",
       "applyguy-c18bb249-f588-4f7a-a8a4-e03d1675ac85",
-      "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096"
+      "url:https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096",
+      "jobright-3191c0915f1b",
+      "url:https://jobright.ai/jobs/info/6af446b755dfd18e245c3c2b",
+      "jobright-d974d607e320",
+      "url:https://jobright.ai/jobs/info/6adb10c091f93f4b05716613",
+      "jobright-5aaaca153be8",
+      "url:https://jobright.ai/jobs/info/6aa7e3c6930bff471a2a43b9",
+      "jobright-f1ddacb354aa",
+      "url:https://jobright.ai/jobs/info/6ac599ead9621c5b283a60be",
+      "jobright-1b6652485853",
+      "url:https://jobright.ai/jobs/info/6a7cf4b2a346cb6c8d5f1132"
     ]
   }
 }
