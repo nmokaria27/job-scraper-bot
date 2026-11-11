@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-gleanwork-4742959005",
-      "seen_at": "2026-10-12T22:31:16.189455+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/gleanwork/jobs/4742959005",
-      "seen_at": "2026-10-12T22:31:16.190128+00:00"
-    },
-    {
-      "id": "zapply-c06d30fc0036",
-      "seen_at": "2026-10-12T22:31:16.190717+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-AbbVie-3743990016070676",
-      "seen_at": "2026-10-12T22:31:16.191308+00:00"
-    },
-    {
-      "id": "amazon-10576475",
-      "seen_at": "2026-10-12T22:31:16.191862+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10576475/software-development-engineer-sable",
-      "seen_at": "2026-10-12T22:31:16.192439+00:00"
-    },
-    {
       "id": "simplify-b2923a29-715c-4b61-b190-c00f11a10529",
       "seen_at": "2026-10-12T23:01:16.362013+00:00"
     },
@@ -26395,10 +26371,66 @@
     {
       "id": "url:https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
       "seen_at": "2026-11-11T22:31:10.503724+00:00"
+    },
+    {
+      "id": "greenhouse-rubrik-8351288",
+      "seen_at": "2026-11-11T23:01:43.708922+00:00"
+    },
+    {
+      "id": "url:https://www.rubrik.com/company/careers/departments/job.8351288",
+      "seen_at": "2026-11-11T23:01:43.709299+00:00"
+    },
+    {
+      "id": "jobright-2c33372cf4d5",
+      "seen_at": "2026-11-11T23:01:43.709643+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4db779144106c56a22168",
+      "seen_at": "2026-11-11T23:01:43.709944+00:00"
+    },
+    {
+      "id": "amazon-10598778",
+      "seen_at": "2026-11-11T23:01:43.710250+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10598778/software-development-engineer-netos-observability",
+      "seen_at": "2026-11-11T23:01:43.710528+00:00"
+    },
+    {
+      "id": "jobright-997d7b115336",
+      "seen_at": "2026-11-11T23:01:43.710796+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4db062278454e18c3908a",
+      "seen_at": "2026-11-11T23:01:43.711067+00:00"
+    },
+    {
+      "id": "jobright-ff622bec0833",
+      "seen_at": "2026-11-11T23:01:43.711371+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4dce13a9a26aee70a1307",
+      "seen_at": "2026-11-11T23:01:43.711685+00:00"
+    },
+    {
+      "id": "zapply-c419ab8b87fe",
+      "seen_at": "2026-11-11T23:01:45.484776+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42649",
+      "seen_at": "2026-11-11T23:01:45.485130+00:00"
+    },
+    {
+      "id": "jobright-ef13c5f09b20",
+      "seen_at": "2026-11-11T23:01:45.485451+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4d5871b2c5dcbbcd649df",
+      "seen_at": "2026-11-11T23:01:45.485722+00:00"
     }
   ],
-  "last_run": "2026-11-11T22:31:11.455818+00:00",
-  "total_notified": 12287,
+  "last_run": "2026-11-11T23:01:45.972704+00:00",
+  "total_notified": 12294,
   "channels": {
     "pm-jobs": [
       "ashby-snowflake-34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
@@ -27549,15 +27581,13 @@
       "zapply-95ff419bd3be",
       "url:https://zapply.jobs/l/d/workday-autostore-autostore-JR102793",
       "zapply-bf2735710bb5",
-      "url:https://zapply.jobs/l/d/greenhouse-alarmcom-8916792002"
+      "url:https://zapply.jobs/l/d/greenhouse-alarmcom-8916792002",
+      "zapply-c419ab8b87fe",
+      "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42649",
+      "jobright-ef13c5f09b20",
+      "url:https://jobright.ai/jobs/info/6af4d5871b2c5dcbbcd649df"
     ],
     "swe-ai-full-time": [
-      "greenhouse-gleanwork-4742959005",
-      "url:https://job-boards.greenhouse.io/gleanwork/jobs/4742959005",
-      "zapply-c06d30fc0036",
-      "url:https://zapply.jobs/l/d/sr-AbbVie-3743990016070676",
-      "amazon-10576475",
-      "url:https://www.amazon.jobs/en/jobs/10576475/software-development-engineer-sable",
       "simplify-b2923a29-715c-4b61-b190-c00f11a10529",
       "url:https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087",
       "simplify-bc3e53cc-9c7a-49fa-afa7-8bede1da1df5",
@@ -33007,7 +33037,17 @@
       "jobright-ed92d51d3331",
       "url:https://jobright.ai/jobs/info/6af4bf773a9a26aee70a0388",
       "applyguy-32399a2d-68be-4ed0-b803-a61afa4eeac1",
-      "url:https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496"
+      "url:https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
+      "greenhouse-rubrik-8351288",
+      "url:https://www.rubrik.com/company/careers/departments/job.8351288",
+      "jobright-2c33372cf4d5",
+      "url:https://jobright.ai/jobs/info/6af4db779144106c56a22168",
+      "amazon-10598778",
+      "url:https://www.amazon.jobs/en/jobs/10598778/software-development-engineer-netos-observability",
+      "jobright-997d7b115336",
+      "url:https://jobright.ai/jobs/info/6af4db062278454e18c3908a",
+      "jobright-ff622bec0833",
+      "url:https://jobright.ai/jobs/info/6af4dce13a9a26aee70a1307"
     ]
   }
 }
