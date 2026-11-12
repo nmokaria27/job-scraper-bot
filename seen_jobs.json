@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-replit-1066b974-3cd8-42cf-a11c-a4217c06f70f",
-      "seen_at": "2026-10-13T22:31:10.179945+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/replit/1066b974-3cd8-42cf-a11c-a4217c06f70f",
-      "seen_at": "2026-10-13T22:31:10.180720+00:00"
-    },
-    {
-      "id": "zapply-6ed1b794cb4e",
-      "seen_at": "2026-10-13T22:31:13.017130+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-oneapp-3139d69b-43a2-4dbd-811b-81b300bd8cef",
-      "seen_at": "2026-10-13T22:31:13.017774+00:00"
-    },
-    {
       "id": "simplify-23c01852-0f91-4386-9039-e28c1e73fbd7",
       "seen_at": "2026-10-13T23:01:16.666389+00:00"
     },
@@ -26439,14 +26423,52 @@
     {
       "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8148055",
       "seen_at": "2026-11-12T22:31:22.393533+00:00"
+    },
+    {
+      "id": "jobright-9bdaea42af5a",
+      "seen_at": "2026-11-12T23:01:19.851800+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af62936f10ae27369e1744a",
+      "seen_at": "2026-11-12T23:01:19.852287+00:00"
+    },
+    {
+      "id": "jobright-c5531b4ca484",
+      "seen_at": "2026-11-12T23:01:19.852774+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af621e4a4a5218a07e837c0",
+      "seen_at": "2026-11-12T23:01:19.853196+00:00"
+    },
+    {
+      "id": "jobright-3280fb6e1ae1",
+      "seen_at": "2026-11-12T23:01:19.853643+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4f8f0cd7be4db20d8a35b",
+      "seen_at": "2026-11-12T23:01:19.854101+00:00"
+    },
+    {
+      "id": "amazon-10603879",
+      "seen_at": "2026-11-12T23:01:19.854556+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10603879/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+      "seen_at": "2026-11-12T23:01:19.854967+00:00"
+    },
+    {
+      "id": "zapply-b8ae4efc4c8a",
+      "seen_at": "2026-11-12T23:01:22.768698+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/eightfold-micron-45500942",
+      "seen_at": "2026-11-12T23:01:22.769123+00:00"
     }
   ],
-  "last_run": "2026-11-12T22:31:22.841269+00:00",
-  "total_notified": 12422,
+  "last_run": "2026-11-12T23:01:22.920643+00:00",
+  "total_notified": 12427,
   "channels": {
     "pm-jobs": [
-      "zapply-6ed1b794cb4e",
-      "url:https://zapply.jobs/l/d/ashby-oneapp-3139d69b-43a2-4dbd-811b-81b300bd8cef",
       "zapply-fe60bdf1769a",
       "url:https://zapply.jobs/l/d/ashby-crusoe-0801c21d-8c99-47b5-8830-fe81449fb69f",
       "simplify-41d4076b-45b4-4575-aa3c-b9f857a79843",
@@ -27607,11 +27629,11 @@
       "greenhouse-reddit-8367400",
       "url:https://job-boards.greenhouse.io/reddit/jobs/8367400",
       "greenhouse-reddit-8148055",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8148055"
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8148055",
+      "zapply-b8ae4efc4c8a",
+      "url:https://zapply.jobs/l/d/eightfold-micron-45500942"
     ],
     "swe-ai-full-time": [
-      "ashby-replit-1066b974-3cd8-42cf-a11c-a4217c06f70f",
-      "url:https://jobs.ashbyhq.com/replit/1066b974-3cd8-42cf-a11c-a4217c06f70f",
       "simplify-23c01852-0f91-4386-9039-e28c1e73fbd7",
       "url:https://apply.workable.com/tmeic-corporation-americas/j/C4B8B72648/apply",
       "simplify-f3eaddd9-fdad-4fa6-9d9b-7f7026783526",
@@ -33063,7 +33085,15 @@
       "amazon-10597836",
       "url:https://www.amazon.jobs/en/jobs/10597836/software-development-engineer-ec2-capacity-telemetry-and-autonomous-systems",
       "jobright-8d6be1565efc",
-      "url:https://jobright.ai/jobs/info/6af61fbca4a5218a07e83672"
+      "url:https://jobright.ai/jobs/info/6af61fbca4a5218a07e83672",
+      "jobright-9bdaea42af5a",
+      "url:https://jobright.ai/jobs/info/6af62936f10ae27369e1744a",
+      "jobright-c5531b4ca484",
+      "url:https://jobright.ai/jobs/info/6af621e4a4a5218a07e837c0",
+      "jobright-3280fb6e1ae1",
+      "url:https://jobright.ai/jobs/info/6af4f8f0cd7be4db20d8a35b",
+      "amazon-10603879",
+      "url:https://www.amazon.jobs/en/jobs/10603879/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid"
     ]
   }
 }
