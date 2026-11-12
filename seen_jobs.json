@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-d7d57ff1154e",
-      "seen_at": "2026-10-13T20:01:22.428319+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ace787abb78de94580d62fe",
-      "seen_at": "2026-10-13T20:01:22.429058+00:00"
-    },
-    {
-      "id": "jobright-5458a7b95634",
-      "seen_at": "2026-10-13T20:01:22.429694+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ace7689ba99f15ef4124df0",
-      "seen_at": "2026-10-13T20:01:22.430264+00:00"
-    },
-    {
-      "id": "jobright-fb800fb53c8b",
-      "seen_at": "2026-10-13T20:01:22.430853+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5bb47d856af468ab00d7aa",
-      "seen_at": "2026-10-13T20:01:22.431434+00:00"
-    },
-    {
-      "id": "jobright-2fc8953245f1",
-      "seen_at": "2026-10-13T20:01:22.432013+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a0f08ae619335383fb28cce",
-      "seen_at": "2026-10-13T20:01:22.432590+00:00"
-    },
-    {
-      "id": "zapply-cf244a277c96",
-      "seen_at": "2026-10-13T20:01:24.381075+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-pentair-pentair-careers-R23942",
-      "seen_at": "2026-10-13T20:01:24.381669+00:00"
-    },
-    {
       "id": "greenhouse-doordashusa-8192116",
       "seen_at": "2026-10-13T20:31:17.847105+00:00"
     },
@@ -26475,14 +26435,44 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af5fe3c323c531f31e2ea90",
       "seen_at": "2026-11-12T20:01:25.390372+00:00"
+    },
+    {
+      "id": "zapply-cab32c75ceca",
+      "seen_at": "2026-11-12T20:31:15.632394+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215821",
+      "seen_at": "2026-11-12T20:31:15.633125+00:00"
+    },
+    {
+      "id": "zapply-a16c26c6cf8f",
+      "seen_at": "2026-11-12T20:31:15.633760+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1215821",
+      "seen_at": "2026-11-12T20:31:15.634343+00:00"
+    },
+    {
+      "id": "ashby-openai-e70a2b94-17d7-4083-a028-943bae53d126",
+      "seen_at": "2026-11-12T20:31:15.634950+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/e70a2b94-17d7-4083-a028-943bae53d126",
+      "seen_at": "2026-11-12T20:31:15.635541+00:00"
+    },
+    {
+      "id": "zapply-dc58848b85be",
+      "seen_at": "2026-11-12T20:31:17.438562+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3157641",
+      "seen_at": "2026-11-12T20:31:17.439190+00:00"
     }
   ],
-  "last_run": "2026-11-12T20:01:26.350936+00:00",
-  "total_notified": 12394,
+  "last_run": "2026-11-12T20:31:17.715821+00:00",
+  "total_notified": 12398,
   "channels": {
     "pm-jobs": [
-      "zapply-cf244a277c96",
-      "url:https://zapply.jobs/l/d/workday-pentair-pentair-careers-R23942",
       "zapply-9c92ca2be8c8",
       "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000382896",
       "zapply-98b91505701c",
@@ -27637,17 +27627,11 @@
       "jobright-14792a9d8731",
       "url:https://jobright.ai/jobs/info/6ace59ab680c80c8753bc256",
       "ashby-benchling-bafdc1eb-9742-4769-9d93-13f59d0af75d",
-      "url:https://jobs.ashbyhq.com/benchling/bafdc1eb-9742-4769-9d93-13f59d0af75d"
+      "url:https://jobs.ashbyhq.com/benchling/bafdc1eb-9742-4769-9d93-13f59d0af75d",
+      "zapply-dc58848b85be",
+      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3157641"
     ],
     "swe-ai-full-time": [
-      "jobright-d7d57ff1154e",
-      "url:https://jobright.ai/jobs/info/6ace787abb78de94580d62fe",
-      "jobright-5458a7b95634",
-      "url:https://jobright.ai/jobs/info/6ace7689ba99f15ef4124df0",
-      "jobright-fb800fb53c8b",
-      "url:https://jobright.ai/jobs/info/6a5bb47d856af468ab00d7aa",
-      "jobright-2fc8953245f1",
-      "url:https://jobright.ai/jobs/info/6a0f08ae619335383fb28cce",
       "greenhouse-doordashusa-8192116",
       "url:https://job-boards.greenhouse.io/doordashusa/jobs/8192116",
       "greenhouse-doordashusa-8192190",
@@ -33107,7 +33091,13 @@
       "jobright-8b4ec59fdf70",
       "url:https://jobright.ai/jobs/info/6abbccd0d6acfd3dd29f9f08",
       "jobright-91aab4d9793b",
-      "url:https://jobright.ai/jobs/info/6af5fe3c323c531f31e2ea90"
+      "url:https://jobright.ai/jobs/info/6af5fe3c323c531f31e2ea90",
+      "zapply-cab32c75ceca",
+      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215821",
+      "zapply-a16c26c6cf8f",
+      "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1215821",
+      "ashby-openai-e70a2b94-17d7-4083-a028-943bae53d126",
+      "url:https://jobs.ashbyhq.com/openai/e70a2b94-17d7-4083-a028-943bae53d126"
     ]
   }
 }
