@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-62ab028d-331e-41a8-95de-eb17fc746284",
-      "seen_at": "2026-10-12T23:31:18.119660+00:00"
-    },
-    {
-      "id": "url:https://ats.rippling.com/momentumcareers/jobs/dbcd3c46-e2fa-4d75-8da1-ac8d15d3771e",
-      "seen_at": "2026-10-12T23:31:18.120330+00:00"
-    },
-    {
-      "id": "simplify-db15cdd6-f533-4bb9-a03f-e98157fb9df0",
-      "seen_at": "2026-10-12T23:31:18.120949+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/datacor/jobs/5257433007",
-      "seen_at": "2026-10-12T23:31:18.121512+00:00"
-    },
-    {
-      "id": "simplify-4f0098a5-8b39-4eb8-bced-1938179eed05",
-      "seen_at": "2026-10-12T23:31:18.122074+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2/apply",
-      "seen_at": "2026-10-12T23:31:18.122631+00:00"
-    },
-    {
-      "id": "simplify-2568859c-6383-4f07-a5dc-5350765a1d3a",
-      "seen_at": "2026-10-12T23:31:18.123181+00:00"
-    },
-    {
-      "id": "url:https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487",
-      "seen_at": "2026-10-12T23:31:18.123757+00:00"
-    },
-    {
-      "id": "simplify-ac9da20f-eebb-47fc-bed4-d2f4cfcfa386",
-      "seen_at": "2026-10-12T23:31:18.124307+00:00"
-    },
-    {
-      "id": "url:https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753",
-      "seen_at": "2026-10-12T23:31:18.124859+00:00"
-    },
-    {
       "id": "greenhouse-gleanwork-4742953005",
       "seen_at": "2026-10-13T00:01:26.890570+00:00"
     },
@@ -26363,10 +26323,74 @@
     {
       "id": "url:https://job-boards.greenhouse.io/selffinancial/jobs/6255478004",
       "seen_at": "2026-11-11T23:31:11.579560+00:00"
+    },
+    {
+      "id": "simplify-958aaf69-42ec-4bd2-8555-d96382f1c021",
+      "seen_at": "2026-11-12T00:01:23.588675+00:00"
+    },
+    {
+      "id": "url:https://www.jamf.com/about/careers/jobs",
+      "seen_at": "2026-11-12T00:01:23.589242+00:00"
+    },
+    {
+      "id": "simplify-f2780a21-a21c-43d2-97ce-2c496ab82c90",
+      "seen_at": "2026-11-12T00:01:23.589693+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/bask-health-1/j/3AC4353728/apply",
+      "seen_at": "2026-11-12T00:01:23.590154+00:00"
+    },
+    {
+      "id": "simplify-74d82beb-3517-4872-9c8b-d941ed96a360",
+      "seen_at": "2026-11-12T00:01:23.590592+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/bask-health-1/j/DFC51193B4/apply",
+      "seen_at": "2026-11-12T00:01:23.591108+00:00"
+    },
+    {
+      "id": "simplify-c23aab68-23dc-4a16-8eb3-ccc62a259ab3",
+      "seen_at": "2026-11-12T00:01:23.591558+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/bask-health-1/j/472CF47F60/apply",
+      "seen_at": "2026-11-12T00:01:23.592010+00:00"
+    },
+    {
+      "id": "simplify-71bb8b85-79c8-4fba-af9b-ff7cba137689",
+      "seen_at": "2026-11-12T00:01:23.592448+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1vF",
+      "seen_at": "2026-11-12T00:01:23.592902+00:00"
+    },
+    {
+      "id": "simplify-42c18703-03b0-4206-9280-c89c414cffec",
+      "seen_at": "2026-11-12T00:01:23.593344+00:00"
+    },
+    {
+      "id": "url:https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference",
+      "seen_at": "2026-11-12T00:01:23.593768+00:00"
+    },
+    {
+      "id": "applyguy-388a45fc-6d91-4804-8675-6c0f3850a0fc",
+      "seen_at": "2026-11-12T00:01:23.594221+00:00"
+    },
+    {
+      "id": "url:https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1",
+      "seen_at": "2026-11-12T00:01:23.594642+00:00"
+    },
+    {
+      "id": "amazon-10602900",
+      "seen_at": "2026-11-12T00:01:23.595092+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602900/software-development-engineer-ec2-ultraserver-delivery-team",
+      "seen_at": "2026-11-12T00:01:23.595516+00:00"
     }
   ],
-  "last_run": "2026-11-11T23:31:12.402919+00:00",
-  "total_notified": 12295,
+  "last_run": "2026-11-12T00:01:24.535557+00:00",
+  "total_notified": 12303,
   "channels": {
     "pm-jobs": [
       "workday-nvidia-JR2027364",
@@ -27522,16 +27546,6 @@
       "url:https://jobright.ai/jobs/info/6af4d5871b2c5dcbbcd649df"
     ],
     "swe-ai-full-time": [
-      "simplify-62ab028d-331e-41a8-95de-eb17fc746284",
-      "url:https://ats.rippling.com/momentumcareers/jobs/dbcd3c46-e2fa-4d75-8da1-ac8d15d3771e",
-      "simplify-db15cdd6-f533-4bb9-a03f-e98157fb9df0",
-      "url:https://job-boards.greenhouse.io/datacor/jobs/5257433007",
-      "simplify-4f0098a5-8b39-4eb8-bced-1938179eed05",
-      "url:https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2/apply",
-      "simplify-2568859c-6383-4f07-a5dc-5350765a1d3a",
-      "url:https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487",
-      "simplify-ac9da20f-eebb-47fc-bed4-d2f4cfcfa386",
-      "url:https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753",
       "greenhouse-gleanwork-4742953005",
       "url:https://job-boards.greenhouse.io/gleanwork/jobs/4742953005",
       "jobright-bc549f42f0a1",
@@ -32967,7 +32981,23 @@
       "jobright-ff622bec0833",
       "url:https://jobright.ai/jobs/info/6af4dce13a9a26aee70a1307",
       "applyguy-cfa01228-4121-42f0-b992-bf3e66010f38",
-      "url:https://job-boards.greenhouse.io/selffinancial/jobs/6255478004"
+      "url:https://job-boards.greenhouse.io/selffinancial/jobs/6255478004",
+      "simplify-958aaf69-42ec-4bd2-8555-d96382f1c021",
+      "url:https://www.jamf.com/about/careers/jobs",
+      "simplify-f2780a21-a21c-43d2-97ce-2c496ab82c90",
+      "url:https://apply.workable.com/bask-health-1/j/3AC4353728/apply",
+      "simplify-74d82beb-3517-4872-9c8b-d941ed96a360",
+      "url:https://apply.workable.com/bask-health-1/j/DFC51193B4/apply",
+      "simplify-c23aab68-23dc-4a16-8eb3-ccc62a259ab3",
+      "url:https://apply.workable.com/bask-health-1/j/472CF47F60/apply",
+      "simplify-71bb8b85-79c8-4fba-af9b-ff7cba137689",
+      "url:https://go.vansh.nyc/1vF",
+      "simplify-42c18703-03b0-4206-9280-c89c414cffec",
+      "url:https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference",
+      "applyguy-388a45fc-6d91-4804-8675-6c0f3850a0fc",
+      "url:https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1",
+      "amazon-10602900",
+      "url:https://www.amazon.jobs/en/jobs/10602900/software-development-engineer-ec2-ultraserver-delivery-team"
     ]
   }
 }
