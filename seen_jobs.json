@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-openai-eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
-      "seen_at": "2026-10-13T17:31:19.603468+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
-      "seen_at": "2026-10-13T17:31:19.604116+00:00"
-    },
-    {
-      "id": "ashby-openai-a01fc9ed-de08-4326-9206-4ee3f08000dc",
-      "seen_at": "2026-10-13T17:31:19.604728+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc",
-      "seen_at": "2026-10-13T17:31:19.605290+00:00"
-    },
-    {
-      "id": "ashby-substack-64738c2b-f929-4f4e-b9c4-4adc1dc14097",
-      "seen_at": "2026-10-13T17:31:19.605844+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097",
-      "seen_at": "2026-10-13T17:31:19.606395+00:00"
-    },
-    {
-      "id": "ashby-reflectionai-5c9835ae-4424-41ab-8585-16aefcce5a7a",
-      "seen_at": "2026-10-13T17:31:19.606954+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/reflectionai/5c9835ae-4424-41ab-8585-16aefcce5a7a",
-      "seen_at": "2026-10-13T17:31:19.607520+00:00"
-    },
-    {
-      "id": "zapply-07a85d0bedb1",
-      "seen_at": "2026-10-13T17:31:19.608068+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621474",
-      "seen_at": "2026-10-13T17:31:19.608632+00:00"
-    },
-    {
-      "id": "amazon-10577327",
-      "seen_at": "2026-10-13T17:34:13.697822+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10577327/software-development-engineer-fintech-entity-data-service",
-      "seen_at": "2026-10-13T17:34:13.698686+00:00"
-    },
-    {
       "id": "greenhouse-doordashusa-8161616",
       "seen_at": "2026-10-13T18:01:26.390332+00:00"
     },
@@ -26523,10 +26475,58 @@
     {
       "id": "url:https://jobs.ashbyhq.com/ramp/a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb",
       "seen_at": "2026-11-12T17:31:29.581093+00:00"
+    },
+    {
+      "id": "zapply-dca4333c8a33",
+      "seen_at": "2026-11-12T18:02:16.272232+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34824",
+      "seen_at": "2026-11-12T18:02:16.272622+00:00"
+    },
+    {
+      "id": "jobright-0de5da39cce9",
+      "seen_at": "2026-11-12T18:02:16.272998+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af5e67679862a378dceea21",
+      "seen_at": "2026-11-12T18:02:16.273326+00:00"
+    },
+    {
+      "id": "jobright-3dfc2f8e2eca",
+      "seen_at": "2026-11-12T18:02:16.273654+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af5e5bcf10ae27369e14814",
+      "seen_at": "2026-11-12T18:02:16.273969+00:00"
+    },
+    {
+      "id": "jobright-aca5bcb6405e",
+      "seen_at": "2026-11-12T18:02:16.274299+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af5d16a80054650a5e79204",
+      "seen_at": "2026-11-12T18:02:16.274598+00:00"
+    },
+    {
+      "id": "jobright-1655b55d449c",
+      "seen_at": "2026-11-12T18:02:16.274901+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af5e31e323c531f31e2da80",
+      "seen_at": "2026-11-12T18:02:16.275225+00:00"
+    },
+    {
+      "id": "applyguy-3bee0401-1060-4488-a935-e049b0ad5712",
+      "seen_at": "2026-11-12T18:02:16.275561+00:00"
+    },
+    {
+      "id": "url:https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864",
+      "seen_at": "2026-11-12T18:02:16.275863+00:00"
     }
   ],
-  "last_run": "2026-11-12T17:31:29.763927+00:00",
-  "total_notified": 12370,
+  "last_run": "2026-11-12T18:02:17.242036+00:00",
+  "total_notified": 12376,
   "channels": {
     "pm-jobs": [
       "zapply-c5d488c1994b",
@@ -27692,18 +27692,6 @@
       "url:https://jobs.ashbyhq.com/ramp/a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb"
     ],
     "swe-ai-full-time": [
-      "ashby-openai-eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
-      "url:https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
-      "ashby-openai-a01fc9ed-de08-4326-9206-4ee3f08000dc",
-      "url:https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc",
-      "ashby-substack-64738c2b-f929-4f4e-b9c4-4adc1dc14097",
-      "url:https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097",
-      "ashby-reflectionai-5c9835ae-4424-41ab-8585-16aefcce5a7a",
-      "url:https://jobs.ashbyhq.com/reflectionai/5c9835ae-4424-41ab-8585-16aefcce5a7a",
-      "zapply-07a85d0bedb1",
-      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621474",
-      "amazon-10577327",
-      "url:https://www.amazon.jobs/en/jobs/10577327/software-development-engineer-fintech-entity-data-service",
       "greenhouse-doordashusa-8161616",
       "url:https://job-boards.greenhouse.io/doordashusa/jobs/8161616",
       "jobright-652e623268cb",
@@ -33167,7 +33155,19 @@
       "jobright-8a30abf208e3",
       "url:https://jobright.ai/jobs/info/6a7c2ec7d77e8156a8e31545",
       "amazon-10602901",
-      "url:https://www.amazon.jobs/en/jobs/10602901/software-development-engineer-ec2-ultraserver-delivery-team"
+      "url:https://www.amazon.jobs/en/jobs/10602901/software-development-engineer-ec2-ultraserver-delivery-team",
+      "zapply-dca4333c8a33",
+      "url:https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34824",
+      "jobright-0de5da39cce9",
+      "url:https://jobright.ai/jobs/info/6af5e67679862a378dceea21",
+      "jobright-3dfc2f8e2eca",
+      "url:https://jobright.ai/jobs/info/6af5e5bcf10ae27369e14814",
+      "jobright-aca5bcb6405e",
+      "url:https://jobright.ai/jobs/info/6af5d16a80054650a5e79204",
+      "jobright-1655b55d449c",
+      "url:https://jobright.ai/jobs/info/6af5e31e323c531f31e2da80",
+      "applyguy-3bee0401-1060-4488-a935-e049b0ad5712",
+      "url:https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864"
     ]
   }
 }
