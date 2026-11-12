@@ -26419,10 +26419,30 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-copart-copart-JR112795",
       "seen_at": "2026-11-12T22:01:25.620743+00:00"
+    },
+    {
+      "id": "greenhouse-stripe-8384438",
+      "seen_at": "2026-11-12T22:31:22.392099+00:00"
+    },
+    {
+      "id": "greenhouse-reddit-8367400",
+      "seen_at": "2026-11-12T22:31:22.392771+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8367400",
+      "seen_at": "2026-11-12T22:31:22.393038+00:00"
+    },
+    {
+      "id": "greenhouse-reddit-8148055",
+      "seen_at": "2026-11-12T22:31:22.393298+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8148055",
+      "seen_at": "2026-11-12T22:31:22.393533+00:00"
     }
   ],
-  "last_run": "2026-11-12T22:01:26.048623+00:00",
-  "total_notified": 12419,
+  "last_run": "2026-11-12T22:31:22.841269+00:00",
+  "total_notified": 12422,
   "channels": {
     "pm-jobs": [
       "zapply-6ed1b794cb4e",
@@ -27581,7 +27601,13 @@
       "jobright-64236019273d",
       "url:https://jobright.ai/jobs/info/6af60f3580054650a5e7ba6b",
       "zapply-052b6c8d74d6",
-      "url:https://zapply.jobs/l/d/workday-copart-copart-JR112795"
+      "url:https://zapply.jobs/l/d/workday-copart-copart-JR112795",
+      "greenhouse-stripe-8384438",
+      "url:https://stripe.com/jobs/search",
+      "greenhouse-reddit-8367400",
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8367400",
+      "greenhouse-reddit-8148055",
+      "url:https://job-boards.greenhouse.io/reddit/jobs/8148055"
     ],
     "swe-ai-full-time": [
       "ashby-replit-1066b974-3cd8-42cf-a11c-a4217c06f70f",
