@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-elevenlabs-3abf96ca-2937-4290-9d23-5208aece08b2",
-      "seen_at": "2026-10-13T11:31:16.435704+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2",
-      "seen_at": "2026-10-13T11:31:16.436389+00:00"
-    },
-    {
-      "id": "ashby-elevenlabs-34dbe44c-9815-40b2-81f4-91c607fd84b2",
-      "seen_at": "2026-10-13T11:31:16.436979+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2",
-      "seen_at": "2026-10-13T11:31:16.437529+00:00"
-    },
-    {
       "id": "ashby-elevenlabs-108c99e6-ba2b-44a0-b830-7d535e14a152",
       "seen_at": "2026-10-13T12:01:24.425164+00:00"
     },
@@ -26675,10 +26659,42 @@
     {
       "id": "url:https://jobs.ashbyhq.com/perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a/application",
       "seen_at": "2026-11-12T11:01:25.852368+00:00"
+    },
+    {
+      "id": "jobright-0059d1a2d5ea",
+      "seen_at": "2026-11-12T12:01:23.201882+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a701a3dcd3bac13d3709853",
+      "seen_at": "2026-11-12T12:01:23.202536+00:00"
+    },
+    {
+      "id": "jobright-d65848e27bdc",
+      "seen_at": "2026-11-12T12:01:23.203058+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f6074ad9ff00c26badd02",
+      "seen_at": "2026-11-12T12:01:23.203511+00:00"
+    },
+    {
+      "id": "jobright-3bebdafb39ee",
+      "seen_at": "2026-11-12T12:01:23.204052+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7f5feeb56bea5779c0a9a8",
+      "seen_at": "2026-11-12T12:01:23.204504+00:00"
+    },
+    {
+      "id": "jobright-b87fbed32d93",
+      "seen_at": "2026-11-12T12:01:23.204988+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a6ffdc6160eda5948e8d14c",
+      "seen_at": "2026-11-12T12:01:23.205437+00:00"
     }
   ],
-  "last_run": "2026-11-12T11:31:07.961004+00:00",
-  "total_notified": 12353,
+  "last_run": "2026-11-12T12:01:24.010836+00:00",
+  "total_notified": 12357,
   "channels": {
     "pm-jobs": [
       "zapply-f7c0d8b3b0e4",
@@ -27852,10 +27868,6 @@
       "url:https://jobs.ashbyhq.com/perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a/application"
     ],
     "swe-ai-full-time": [
-      "ashby-elevenlabs-3abf96ca-2937-4290-9d23-5208aece08b2",
-      "url:https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2",
-      "ashby-elevenlabs-34dbe44c-9815-40b2-81f4-91c607fd84b2",
-      "url:https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2",
       "ashby-elevenlabs-108c99e6-ba2b-44a0-b830-7d535e14a152",
       "url:https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152",
       "ashby-elevenlabs-1b90a2b2-1352-458d-b2b7-3900f6e02df5",
@@ -33357,7 +33369,15 @@
       "jobright-2d06236ba9c3",
       "url:https://jobright.ai/jobs/info/6a2d8018fc0644749054c588",
       "jobright-9ed24eb47ffd",
-      "url:https://jobright.ai/jobs/info/6af54443cd7be4db20d8b947"
+      "url:https://jobright.ai/jobs/info/6af54443cd7be4db20d8b947",
+      "jobright-0059d1a2d5ea",
+      "url:https://jobright.ai/jobs/info/6a701a3dcd3bac13d3709853",
+      "jobright-d65848e27bdc",
+      "url:https://jobright.ai/jobs/info/6a7f6074ad9ff00c26badd02",
+      "jobright-3bebdafb39ee",
+      "url:https://jobright.ai/jobs/info/6a7f5feeb56bea5779c0a9a8",
+      "jobright-b87fbed32d93",
+      "url:https://jobright.ai/jobs/info/6a6ffdc6160eda5948e8d14c"
     ]
   }
 }
