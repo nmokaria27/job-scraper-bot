@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-3965b7ed84de",
-      "seen_at": "2026-10-13T16:01:43.683681+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a968cf5e4e60e4b8da595bb",
-      "seen_at": "2026-10-13T16:01:43.684086+00:00"
-    },
-    {
-      "id": "jobright-d76c123b5528",
-      "seen_at": "2026-10-13T16:01:43.684426+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ace3bfd4391691a335ab5a2",
-      "seen_at": "2026-10-13T16:01:43.684749+00:00"
-    },
-    {
-      "id": "simplify-f466d67b-9634-442d-ab44-147c27ae3808",
-      "seen_at": "2026-10-13T16:01:43.685068+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002",
-      "seen_at": "2026-10-13T16:01:43.685364+00:00"
-    },
-    {
       "id": "greenhouse-doordashusa-8138486",
       "seen_at": "2026-10-13T16:31:39.904853+00:00"
     },
@@ -26571,10 +26547,26 @@
     {
       "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1",
       "seen_at": "2026-11-12T15:31:29.590270+00:00"
+    },
+    {
+      "id": "simplify-a8dc959c-a131-4ab3-8ebf-3a97642af63b",
+      "seen_at": "2026-11-12T16:31:37.316575+00:00"
+    },
+    {
+      "id": "url:https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905",
+      "seen_at": "2026-11-12T16:31:37.317164+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR350067",
+      "seen_at": "2026-11-12T16:31:37.317714+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Barcelona/Forward-Deployed-Engineer_JR350067",
+      "seen_at": "2026-11-12T16:31:37.318130+00:00"
     }
   ],
-  "last_run": "2026-11-12T16:01:41.408881+00:00",
-  "total_notified": 12362,
+  "last_run": "2026-11-12T16:31:38.338631+00:00",
+  "total_notified": 12364,
   "channels": {
     "pm-jobs": [
       "workday-capitalone-R999403",
@@ -27740,12 +27732,6 @@
       "url:https://jobs.ashbyhq.com/perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a/application"
     ],
     "swe-ai-full-time": [
-      "jobright-3965b7ed84de",
-      "url:https://jobright.ai/jobs/info/6a968cf5e4e60e4b8da595bb",
-      "jobright-d76c123b5528",
-      "url:https://jobright.ai/jobs/info/6ace3bfd4391691a335ab5a2",
-      "simplify-f466d67b-9634-442d-ab44-147c27ae3808",
-      "url:https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002",
       "greenhouse-doordashusa-8138486",
       "url:https://job-boards.greenhouse.io/doordashusa/jobs/8138486",
       "zapply-73e9df151f7c",
@@ -33227,7 +33213,11 @@
       "jobright-66edb66328c6",
       "url:https://jobright.ai/jobs/info/6ac69737064da25272e1b55a",
       "workday-capitalone-R1005289",
-      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1"
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1",
+      "simplify-a8dc959c-a131-4ab3-8ebf-3a97642af63b",
+      "url:https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905",
+      "workday-salesforce-JR350067",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Barcelona/Forward-Deployed-Engineer_JR350067"
     ]
   }
 }
