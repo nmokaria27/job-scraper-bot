@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "lever-palantir-29630180-0f10-4826-801f-12e226d3c7f1",
-      "seen_at": "2026-10-13T17:01:23.479164+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1",
-      "seen_at": "2026-10-13T17:01:23.479752+00:00"
-    },
-    {
-      "id": "jobright-53aa5f146a63",
-      "seen_at": "2026-10-13T17:01:23.480257+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a950e359864261ccd2a4dd6",
-      "seen_at": "2026-10-13T17:01:23.480752+00:00"
-    },
-    {
-      "id": "jobright-f73573430e71",
-      "seen_at": "2026-10-13T17:01:23.481223+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5c6f91856af468ab00f10a",
-      "seen_at": "2026-10-13T17:01:23.481676+00:00"
-    },
-    {
-      "id": "jobright-708eb3636427",
-      "seen_at": "2026-10-13T17:01:23.482127+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ace426f680c80c8753bb9c6",
-      "seen_at": "2026-10-13T17:01:23.482541+00:00"
-    },
-    {
-      "id": "jobright-8a30abf208e3",
-      "seen_at": "2026-10-13T17:01:23.483014+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7c2ec7d77e8156a8e31545",
-      "seen_at": "2026-10-13T17:01:23.483445+00:00"
-    },
-    {
-      "id": "workday-capitalone-R999403",
-      "seen_at": "2026-10-13T17:01:25.275779+00:00"
-    },
-    {
-      "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Card-Integrations_R999403-1",
-      "seen_at": "2026-10-13T17:01:25.276268+00:00"
-    },
-    {
       "id": "ashby-openai-eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
       "seen_at": "2026-10-13T17:31:19.603468+00:00"
     },
@@ -26547,14 +26499,36 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10603409/machine-learning-engineer-sponsored-products-and-brands",
       "seen_at": "2026-11-12T17:02:20.029114+00:00"
+    },
+    {
+      "id": "jobright-8a30abf208e3",
+      "seen_at": "2026-11-12T17:31:25.582965+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a7c2ec7d77e8156a8e31545",
+      "seen_at": "2026-11-12T17:31:25.583344+00:00"
+    },
+    {
+      "id": "amazon-10602901",
+      "seen_at": "2026-11-12T17:31:25.583683+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602901/software-development-engineer-ec2-ultraserver-delivery-team",
+      "seen_at": "2026-11-12T17:31:25.583991+00:00"
+    },
+    {
+      "id": "ashby-ramp-a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb",
+      "seen_at": "2026-11-12T17:31:29.580734+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/ramp/a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb",
+      "seen_at": "2026-11-12T17:31:29.581093+00:00"
     }
   ],
-  "last_run": "2026-11-12T17:02:21.168095+00:00",
-  "total_notified": 12367,
+  "last_run": "2026-11-12T17:31:29.763927+00:00",
+  "total_notified": 12370,
   "channels": {
     "pm-jobs": [
-      "workday-capitalone-R999403",
-      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Product-Manager---Card-Integrations_R999403-1",
       "zapply-c5d488c1994b",
       "url:https://zapply.jobs/l/d/greenhouse-formlabs-8279127",
       "jobright-14792a9d8731",
@@ -27713,19 +27687,11 @@
       "zapply-60f44684a8dc",
       "url:https://zapply.jobs/l/d/hightouch-4fe7dade-b9ab-4923-9ef8-064409ffb61c",
       "simplify-37efe65e-5561-4755-9359-8c696108b7fb",
-      "url:https://jobs.ashbyhq.com/perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a/application"
+      "url:https://jobs.ashbyhq.com/perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a/application",
+      "ashby-ramp-a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb",
+      "url:https://jobs.ashbyhq.com/ramp/a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb"
     ],
     "swe-ai-full-time": [
-      "lever-palantir-29630180-0f10-4826-801f-12e226d3c7f1",
-      "url:https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1",
-      "jobright-53aa5f146a63",
-      "url:https://jobright.ai/jobs/info/6a950e359864261ccd2a4dd6",
-      "jobright-f73573430e71",
-      "url:https://jobright.ai/jobs/info/6a5c6f91856af468ab00f10a",
-      "jobright-708eb3636427",
-      "url:https://jobright.ai/jobs/info/6ace426f680c80c8753bb9c6",
-      "jobright-8a30abf208e3",
-      "url:https://jobright.ai/jobs/info/6a7c2ec7d77e8156a8e31545",
       "ashby-openai-eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
       "url:https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
       "ashby-openai-a01fc9ed-de08-4326-9206-4ee3f08000dc",
@@ -33197,7 +33163,11 @@
       "amazon-10603380",
       "url:https://www.amazon.jobs/en/jobs/10603380/software-development-engineer-frontier-core-platform-team",
       "amazon-10603409",
-      "url:https://www.amazon.jobs/en/jobs/10603409/machine-learning-engineer-sponsored-products-and-brands"
+      "url:https://www.amazon.jobs/en/jobs/10603409/machine-learning-engineer-sponsored-products-and-brands",
+      "jobright-8a30abf208e3",
+      "url:https://jobright.ai/jobs/info/6a7c2ec7d77e8156a8e31545",
+      "amazon-10602901",
+      "url:https://www.amazon.jobs/en/jobs/10602901/software-development-engineer-ec2-ultraserver-delivery-team"
     ]
   }
 }
