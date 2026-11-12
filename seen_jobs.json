@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-gleanwork-4742953005",
-      "seen_at": "2026-10-13T00:01:26.890570+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/gleanwork/jobs/4742953005",
-      "seen_at": "2026-10-13T00:01:26.891454+00:00"
-    },
-    {
-      "id": "jobright-bc549f42f0a1",
-      "seen_at": "2026-10-13T00:01:26.892246+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acd5c5fa56e5406e57c10d0",
-      "seen_at": "2026-10-13T00:01:26.892990+00:00"
-    },
-    {
       "id": "jobright-aa0440a22bfb",
       "seen_at": "2026-10-13T01:01:16.042518+00:00"
     },
@@ -26387,10 +26371,74 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10602900/software-development-engineer-ec2-ultraserver-delivery-team",
       "seen_at": "2026-11-12T00:01:23.595516+00:00"
+    },
+    {
+      "id": "amazon-10602351",
+      "seen_at": "2026-11-12T00:31:12.452132+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602351/software-development-engineer-ads-ai-core-infra",
+      "seen_at": "2026-11-12T00:31:12.452767+00:00"
+    },
+    {
+      "id": "simplify-c189aa66-c9c8-469f-ba67-3b1adf8bebc9",
+      "seen_at": "2026-11-12T00:31:12.453273+00:00"
+    },
+    {
+      "id": "url:https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153873",
+      "seen_at": "2026-11-12T00:31:12.453748+00:00"
+    },
+    {
+      "id": "simplify-a432dd27-2a8c-429e-aaab-8c63d4132ef5",
+      "seen_at": "2026-11-12T00:31:12.454218+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1vO",
+      "seen_at": "2026-11-12T00:31:12.454672+00:00"
+    },
+    {
+      "id": "simplify-56be81ef-fbd1-4642-a0ad-c830b36a8e70",
+      "seen_at": "2026-11-12T00:31:12.455158+00:00"
+    },
+    {
+      "id": "url:https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153878",
+      "seen_at": "2026-11-12T00:31:12.455610+00:00"
+    },
+    {
+      "id": "simplify-356907c3-9720-4359-ab11-6d64deb43267",
+      "seen_at": "2026-11-12T00:31:12.456177+00:00"
+    },
+    {
+      "id": "url:https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153877",
+      "seen_at": "2026-11-12T00:31:12.456644+00:00"
+    },
+    {
+      "id": "simplify-318aef66-c06b-44af-aaa1-fb5e89fae8cc",
+      "seen_at": "2026-11-12T00:31:12.457150+00:00"
+    },
+    {
+      "id": "url:https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153874",
+      "seen_at": "2026-11-12T00:31:12.457606+00:00"
+    },
+    {
+      "id": "simplify-2ef7437a-69c6-4f9f-a3b1-bf81f8a54c49",
+      "seen_at": "2026-11-12T00:31:12.458114+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1vM",
+      "seen_at": "2026-11-12T00:31:12.458562+00:00"
+    },
+    {
+      "id": "simplify-7fcdda00-c9d9-4fd7-804d-46589d32cdf4",
+      "seen_at": "2026-11-12T00:31:12.459064+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1vP",
+      "seen_at": "2026-11-12T00:31:12.459541+00:00"
     }
   ],
-  "last_run": "2026-11-12T00:01:24.535557+00:00",
-  "total_notified": 12303,
+  "last_run": "2026-11-12T00:31:13.524921+00:00",
+  "total_notified": 12311,
   "channels": {
     "pm-jobs": [
       "workday-nvidia-JR2027364",
@@ -27546,10 +27594,6 @@
       "url:https://jobright.ai/jobs/info/6af4d5871b2c5dcbbcd649df"
     ],
     "swe-ai-full-time": [
-      "greenhouse-gleanwork-4742953005",
-      "url:https://job-boards.greenhouse.io/gleanwork/jobs/4742953005",
-      "jobright-bc549f42f0a1",
-      "url:https://jobright.ai/jobs/info/6acd5c5fa56e5406e57c10d0",
       "jobright-aa0440a22bfb",
       "url:https://jobright.ai/jobs/info/6acd5f82a56e5406e57c1184",
       "jobright-9929a0336a01",
@@ -32997,7 +33041,23 @@
       "applyguy-388a45fc-6d91-4804-8675-6c0f3850a0fc",
       "url:https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1",
       "amazon-10602900",
-      "url:https://www.amazon.jobs/en/jobs/10602900/software-development-engineer-ec2-ultraserver-delivery-team"
+      "url:https://www.amazon.jobs/en/jobs/10602900/software-development-engineer-ec2-ultraserver-delivery-team",
+      "amazon-10602351",
+      "url:https://www.amazon.jobs/en/jobs/10602351/software-development-engineer-ads-ai-core-infra",
+      "simplify-c189aa66-c9c8-469f-ba67-3b1adf8bebc9",
+      "url:https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153873",
+      "simplify-a432dd27-2a8c-429e-aaab-8c63d4132ef5",
+      "url:https://go.vansh.nyc/1vO",
+      "simplify-56be81ef-fbd1-4642-a0ad-c830b36a8e70",
+      "url:https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153878",
+      "simplify-356907c3-9720-4359-ab11-6d64deb43267",
+      "url:https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153877",
+      "simplify-318aef66-c06b-44af-aaa1-fb5e89fae8cc",
+      "url:https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153874",
+      "simplify-2ef7437a-69c6-4f9f-a3b1-bf81f8a54c49",
+      "url:https://go.vansh.nyc/1vM",
+      "simplify-7fcdda00-c9d9-4fd7-804d-46589d32cdf4",
+      "url:https://go.vansh.nyc/1vP"
     ]
   }
 }
