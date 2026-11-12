@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-f474e4f35383",
-      "seen_at": "2026-10-13T03:01:20.331212+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a960ae23843db01599092de",
-      "seen_at": "2026-10-13T03:01:20.331959+00:00"
-    },
-    {
-      "id": "jobright-b7c6465e0198",
-      "seen_at": "2026-10-13T03:01:20.332533+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6abb10603db4ca81fc7c5b41",
-      "seen_at": "2026-10-13T03:01:20.333072+00:00"
-    },
-    {
-      "id": "workday-nvidia-JR2027364",
-      "seen_at": "2026-10-13T03:01:21.837036+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Developer-Experience_JR2027364",
-      "seen_at": "2026-10-13T03:01:21.837676+00:00"
-    },
-    {
       "id": "jobright-c9ce522f9a5f",
       "seen_at": "2026-10-13T10:01:16.260411+00:00"
     },
@@ -26555,14 +26531,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af5147f3a9a26aee70a2e08",
       "seen_at": "2026-11-12T03:01:14.657827+00:00"
+    },
+    {
+      "id": "jobright-b7c6465e0198",
+      "seen_at": "2026-11-12T03:31:14.682491+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abb10603db4ca81fc7c5b41",
+      "seen_at": "2026-11-12T03:31:14.683018+00:00"
+    },
+    {
+      "id": "ashby-perplexity-f4312e0a-7d39-4af9-9a7d-b0fe041a228a",
+      "seen_at": "2026-11-12T03:31:16.254160+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a",
+      "seen_at": "2026-11-12T03:31:16.254652+00:00"
     }
   ],
-  "last_run": "2026-11-12T03:01:15.640879+00:00",
-  "total_notified": 12331,
+  "last_run": "2026-11-12T03:31:16.489203+00:00",
+  "total_notified": 12333,
   "channels": {
     "pm-jobs": [
-      "workday-nvidia-JR2027364",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Developer-Experience_JR2027364",
       "zapply-f7c0d8b3b0e4",
       "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622283",
       "zapply-b982329ce3e3",
@@ -27713,13 +27703,11 @@
       "jobright-ef13c5f09b20",
       "url:https://jobright.ai/jobs/info/6af4d5871b2c5dcbbcd649df",
       "jobright-1fd26dd04c8e",
-      "url:https://jobright.ai/jobs/info/6af5020b2278454e18c3a536"
+      "url:https://jobright.ai/jobs/info/6af5020b2278454e18c3a536",
+      "ashby-perplexity-f4312e0a-7d39-4af9-9a7d-b0fe041a228a",
+      "url:https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a"
     ],
     "swe-ai-full-time": [
-      "jobright-f474e4f35383",
-      "url:https://jobright.ai/jobs/info/6a960ae23843db01599092de",
-      "jobright-b7c6465e0198",
-      "url:https://jobright.ai/jobs/info/6abb10603db4ca81fc7c5b41",
       "jobright-c9ce522f9a5f",
       "url:https://jobright.ai/jobs/info/6a7f90bbb56bea5779c0cdd7",
       "jobright-e0e734fac557",
@@ -33207,7 +33195,9 @@
       "zapply-4a06d98fb40b",
       "url:https://zapply.jobs/l/d/apple-200694656",
       "jobright-2443f2a0dae1",
-      "url:https://jobright.ai/jobs/info/6af5147f3a9a26aee70a2e08"
+      "url:https://jobright.ai/jobs/info/6af5147f3a9a26aee70a2e08",
+      "jobright-b7c6465e0198",
+      "url:https://jobright.ai/jobs/info/6abb10603db4ca81fc7c5b41"
     ]
   }
 }
