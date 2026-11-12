@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-c44348ab-171d-4478-a512-7114f6e00ca0",
-      "seen_at": "2026-10-13T02:31:12.897827+00:00"
-    },
-    {
-      "id": "url:https://lifeattiktok.com/search/7695927144126253317",
-      "seen_at": "2026-10-13T02:31:12.898649+00:00"
-    },
-    {
       "id": "jobright-f474e4f35383",
       "seen_at": "2026-10-13T03:01:20.331212+00:00"
     },
@@ -26539,10 +26531,34 @@
     {
       "id": "url:https://careers.qualcomm.com/careers/job/446721614073",
       "seen_at": "2026-11-12T02:31:28.439288+00:00"
+    },
+    {
+      "id": "simplify-313bd68b-d18b-43ab-b3df-d8486aeb24ba",
+      "seen_at": "2026-11-12T03:01:14.655338+00:00"
+    },
+    {
+      "id": "url:https://careers.viasat.com/jobs/7147",
+      "seen_at": "2026-11-12T03:01:14.655922+00:00"
+    },
+    {
+      "id": "zapply-4a06d98fb40b",
+      "seen_at": "2026-11-12T03:01:14.656394+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200694656",
+      "seen_at": "2026-11-12T03:01:14.656893+00:00"
+    },
+    {
+      "id": "jobright-2443f2a0dae1",
+      "seen_at": "2026-11-12T03:01:14.657354+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af5147f3a9a26aee70a2e08",
+      "seen_at": "2026-11-12T03:01:14.657827+00:00"
     }
   ],
-  "last_run": "2026-11-12T02:31:29.194127+00:00",
-  "total_notified": 12328,
+  "last_run": "2026-11-12T03:01:15.640879+00:00",
+  "total_notified": 12331,
   "channels": {
     "pm-jobs": [
       "workday-nvidia-JR2027364",
@@ -27700,8 +27716,6 @@
       "url:https://jobright.ai/jobs/info/6af5020b2278454e18c3a536"
     ],
     "swe-ai-full-time": [
-      "simplify-c44348ab-171d-4478-a512-7114f6e00ca0",
-      "url:https://lifeattiktok.com/search/7695927144126253317",
       "jobright-f474e4f35383",
       "url:https://jobright.ai/jobs/info/6a960ae23843db01599092de",
       "jobright-b7c6465e0198",
@@ -33187,7 +33201,13 @@
       "jobright-309694308264",
       "url:https://jobright.ai/jobs/info/6af4fb8f1b2c5dcbbcd66057",
       "gradtracker-a5322cfc9c21",
-      "url:https://careers.qualcomm.com/careers/job/446721614073"
+      "url:https://careers.qualcomm.com/careers/job/446721614073",
+      "simplify-313bd68b-d18b-43ab-b3df-d8486aeb24ba",
+      "url:https://careers.viasat.com/jobs/7147",
+      "zapply-4a06d98fb40b",
+      "url:https://zapply.jobs/l/d/apple-200694656",
+      "jobright-2443f2a0dae1",
+      "url:https://jobright.ai/jobs/info/6af5147f3a9a26aee70a2e08"
     ]
   }
 }
