@@ -26435,10 +26435,82 @@
     {
       "id": "url:https://go.vansh.nyc/1vP",
       "seen_at": "2026-11-12T00:31:12.459541+00:00"
+    },
+    {
+      "id": "amazon-10602944",
+      "seen_at": "2026-11-12T01:01:14.057514+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602944/applied-scientist-search-ranking-and-exploration",
+      "seen_at": "2026-11-12T01:01:14.057925+00:00"
+    },
+    {
+      "id": "jobright-8bf85cc0b38d",
+      "seen_at": "2026-11-12T01:01:14.058253+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4f7ffcd7be4db20d8a2dd",
+      "seen_at": "2026-11-12T01:01:14.058553+00:00"
+    },
+    {
+      "id": "jobright-79531075d92d",
+      "seen_at": "2026-11-12T01:01:14.058868+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4f7cd1b2c5dcbbcd65e7b",
+      "seen_at": "2026-11-12T01:01:14.059148+00:00"
+    },
+    {
+      "id": "jobright-4072ee935985",
+      "seen_at": "2026-11-12T01:01:14.059431+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4f73bcd7be4db20d8a26d",
+      "seen_at": "2026-11-12T01:01:14.059700+00:00"
+    },
+    {
+      "id": "jobright-e5c8999b2144",
+      "seen_at": "2026-11-12T01:01:14.059989+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4f6101b2c5dcbbcd65d9e",
+      "seen_at": "2026-11-12T01:01:14.060263+00:00"
+    },
+    {
+      "id": "jobright-c8a85761254e",
+      "seen_at": "2026-11-12T01:01:14.060568+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4dea13a9a26aee70a13ef",
+      "seen_at": "2026-11-12T01:01:14.060865+00:00"
+    },
+    {
+      "id": "jobright-46404d4ef76f",
+      "seen_at": "2026-11-12T01:01:14.061155+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4f2bb1b2c5dcbbcd65be4",
+      "seen_at": "2026-11-12T01:01:14.061431+00:00"
+    },
+    {
+      "id": "jobright-2f73975bffa1",
+      "seen_at": "2026-11-12T01:01:14.061715+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4ef363a9a26aee70a1ee4",
+      "seen_at": "2026-11-12T01:01:14.062012+00:00"
+    },
+    {
+      "id": "jobright-e2d548254e02",
+      "seen_at": "2026-11-12T01:01:14.062292+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af4eb812278454e18c399b9",
+      "seen_at": "2026-11-12T01:01:14.062569+00:00"
     }
   ],
-  "last_run": "2026-11-12T00:34:24.195934+00:00",
-  "total_notified": 12311,
+  "last_run": "2026-11-12T01:01:14.923842+00:00",
+  "total_notified": 12320,
   "channels": {
     "pm-jobs": [
       "workday-nvidia-JR2027364",
@@ -33057,7 +33129,25 @@
       "simplify-2ef7437a-69c6-4f9f-a3b1-bf81f8a54c49",
       "url:https://go.vansh.nyc/1vM",
       "simplify-7fcdda00-c9d9-4fd7-804d-46589d32cdf4",
-      "url:https://go.vansh.nyc/1vP"
+      "url:https://go.vansh.nyc/1vP",
+      "amazon-10602944",
+      "url:https://www.amazon.jobs/en/jobs/10602944/applied-scientist-search-ranking-and-exploration",
+      "jobright-8bf85cc0b38d",
+      "url:https://jobright.ai/jobs/info/6af4f7ffcd7be4db20d8a2dd",
+      "jobright-79531075d92d",
+      "url:https://jobright.ai/jobs/info/6af4f7cd1b2c5dcbbcd65e7b",
+      "jobright-4072ee935985",
+      "url:https://jobright.ai/jobs/info/6af4f73bcd7be4db20d8a26d",
+      "jobright-e5c8999b2144",
+      "url:https://jobright.ai/jobs/info/6af4f6101b2c5dcbbcd65d9e",
+      "jobright-c8a85761254e",
+      "url:https://jobright.ai/jobs/info/6af4dea13a9a26aee70a13ef",
+      "jobright-46404d4ef76f",
+      "url:https://jobright.ai/jobs/info/6af4f2bb1b2c5dcbbcd65be4",
+      "jobright-2f73975bffa1",
+      "url:https://jobright.ai/jobs/info/6af4ef363a9a26aee70a1ee4",
+      "jobright-e2d548254e02",
+      "url:https://jobright.ai/jobs/info/6af4eb812278454e18c399b9"
     ]
   }
 }
