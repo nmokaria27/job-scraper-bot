@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-doordashusa-8141072",
-      "seen_at": "2026-10-13T18:31:25.812637+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/doordashusa/jobs/8141072",
-      "seen_at": "2026-10-13T18:31:25.813272+00:00"
-    },
-    {
-      "id": "amazon-10577556",
-      "seen_at": "2026-10-13T18:31:25.813843+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10577556/software-development-engineer-bigmesh-traffic-engineering",
-      "seen_at": "2026-10-13T18:31:25.814357+00:00"
-    },
-    {
       "id": "jobright-7cdd79fd8085",
       "seen_at": "2026-10-13T19:01:38.977893+00:00"
     },
@@ -26467,10 +26451,90 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ace59ab680c80c8753bc256",
       "seen_at": "2026-11-12T18:12:56.781367+00:00"
+    },
+    {
+      "id": "greenhouse-optiverus-8226163002",
+      "seen_at": "2026-11-12T19:01:53.057491+00:00"
+    },
+    {
+      "id": "url:https://www.optiver.com/join-us/jobs/8226163002",
+      "seen_at": "2026-11-12T19:01:53.057994+00:00"
+    },
+    {
+      "id": "jobright-20c71325a195",
+      "seen_at": "2026-11-12T19:01:53.058417+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af515ffcd7be4db20d8adfa",
+      "seen_at": "2026-11-12T19:01:53.058784+00:00"
+    },
+    {
+      "id": "jobright-7405a8f6d218",
+      "seen_at": "2026-11-12T19:01:53.059290+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af5f203f10ae27369e15034",
+      "seen_at": "2026-11-12T19:01:53.059666+00:00"
+    },
+    {
+      "id": "jobright-d19c059f32b6",
+      "seen_at": "2026-11-12T19:01:53.060048+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af5f0738cc703bba47ae40f",
+      "seen_at": "2026-11-12T19:01:53.060435+00:00"
+    },
+    {
+      "id": "jobright-8378383407c9",
+      "seen_at": "2026-11-12T19:01:53.060817+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af5ef8e79862a378dcef06c",
+      "seen_at": "2026-11-12T19:01:53.061174+00:00"
+    },
+    {
+      "id": "amazon-10603660",
+      "seen_at": "2026-11-12T19:01:53.061578+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10603660/software-development-engineer-embedded-flight-computer-software",
+      "seen_at": "2026-11-12T19:01:53.061931+00:00"
+    },
+    {
+      "id": "amazon-10603659",
+      "seen_at": "2026-11-12T19:01:53.062316+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10603659/software-development-engineer-amazon-leo-live",
+      "seen_at": "2026-11-12T19:01:53.062661+00:00"
+    },
+    {
+      "id": "amazon-10603651",
+      "seen_at": "2026-11-12T19:01:53.063038+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10603651/software-dev-engineer-antenna-calibration-amazon-leo",
+      "seen_at": "2026-11-12T19:01:53.063419+00:00"
+    },
+    {
+      "id": "jobright-5c4dfaae0d63",
+      "seen_at": "2026-11-12T19:01:53.063792+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af5efd6f10ae27369e14eb4",
+      "seen_at": "2026-11-12T19:01:53.064155+00:00"
+    },
+    {
+      "id": "jobright-b58feae8b15f",
+      "seen_at": "2026-11-12T19:01:53.064559+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af5efe0323c531f31e2e2d4",
+      "seen_at": "2026-11-12T19:01:53.064922+00:00"
     }
   ],
-  "last_run": "2026-11-12T18:31:40.986649+00:00",
-  "total_notified": 12378,
+  "last_run": "2026-11-12T19:01:53.795190+00:00",
+  "total_notified": 12388,
   "channels": {
     "pm-jobs": [
       "jobright-70791493aea4",
@@ -27636,10 +27700,6 @@
       "url:https://jobright.ai/jobs/info/6ace59ab680c80c8753bc256"
     ],
     "swe-ai-full-time": [
-      "greenhouse-doordashusa-8141072",
-      "url:https://job-boards.greenhouse.io/doordashusa/jobs/8141072",
-      "amazon-10577556",
-      "url:https://www.amazon.jobs/en/jobs/10577556/software-development-engineer-bigmesh-traffic-engineering",
       "jobright-7cdd79fd8085",
       "url:https://jobright.ai/jobs/info/6ace6e77a0453f9ba6248987",
       "jobright-7f633588b384",
@@ -33097,7 +33157,27 @@
       "jobright-1655b55d449c",
       "url:https://jobright.ai/jobs/info/6af5e31e323c531f31e2da80",
       "applyguy-3bee0401-1060-4488-a935-e049b0ad5712",
-      "url:https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864"
+      "url:https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864",
+      "greenhouse-optiverus-8226163002",
+      "url:https://www.optiver.com/join-us/jobs/8226163002",
+      "jobright-20c71325a195",
+      "url:https://jobright.ai/jobs/info/6af515ffcd7be4db20d8adfa",
+      "jobright-7405a8f6d218",
+      "url:https://jobright.ai/jobs/info/6af5f203f10ae27369e15034",
+      "jobright-d19c059f32b6",
+      "url:https://jobright.ai/jobs/info/6af5f0738cc703bba47ae40f",
+      "jobright-8378383407c9",
+      "url:https://jobright.ai/jobs/info/6af5ef8e79862a378dcef06c",
+      "amazon-10603660",
+      "url:https://www.amazon.jobs/en/jobs/10603660/software-development-engineer-embedded-flight-computer-software",
+      "amazon-10603659",
+      "url:https://www.amazon.jobs/en/jobs/10603659/software-development-engineer-amazon-leo-live",
+      "amazon-10603651",
+      "url:https://www.amazon.jobs/en/jobs/10603651/software-dev-engineer-antenna-calibration-amazon-leo",
+      "jobright-5c4dfaae0d63",
+      "url:https://jobright.ai/jobs/info/6af5efd6f10ae27369e14eb4",
+      "jobright-b58feae8b15f",
+      "url:https://jobright.ai/jobs/info/6af5efe0323c531f31e2e2d4"
     ]
   }
 }
