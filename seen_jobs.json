@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-189403b37172",
-      "seen_at": "2026-10-14T21:31:20.431476+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522577",
-      "seen_at": "2026-10-14T21:31:20.432278+00:00"
-    },
-    {
-      "id": "greenhouse-asana-8194522",
-      "seen_at": "2026-10-14T21:31:20.432954+00:00"
-    },
-    {
-      "id": "url:https://www.asana.com/jobs/apply/8194522",
-      "seen_at": "2026-10-14T21:31:20.433552+00:00"
-    },
-    {
-      "id": "zapply-2952eba7b19c",
-      "seen_at": "2026-10-14T21:31:20.434144+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-freedomconsulting-5265949007",
-      "seen_at": "2026-10-14T21:31:20.434739+00:00"
-    },
-    {
-      "id": "amazon-10579277",
-      "seen_at": "2026-10-14T21:31:20.435320+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10579277/software-development-engineer-amazon-quick",
-      "seen_at": "2026-10-14T21:31:20.435912+00:00"
-    },
-    {
-      "id": "zapply-2df46bf2a453",
-      "seen_at": "2026-10-14T21:31:23.171035+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-cummins-2436136",
-      "seen_at": "2026-10-14T21:31:23.171727+00:00"
-    },
-    {
       "id": "jobright-e3bd34af18c7",
       "seen_at": "2026-10-14T22:01:24.550101+00:00"
     },
@@ -26199,14 +26159,68 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-43234",
       "seen_at": "2026-11-13T21:32:21.180678+00:00"
+    },
+    {
+      "id": "ashby-ramp-6e717b06-6613-42ad-a1ee-f852a305fa37",
+      "seen_at": "2026-11-13T22:02:51.765065+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37",
+      "seen_at": "2026-11-13T22:02:51.765558+00:00"
+    },
+    {
+      "id": "zapply-21ba8f906609",
+      "seen_at": "2026-11-13T22:02:51.765990+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nwis-nw-01677525",
+      "seen_at": "2026-11-13T22:02:51.766392+00:00"
+    },
+    {
+      "id": "jobright-3fabf59c88ee",
+      "seen_at": "2026-11-13T22:02:51.766823+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af76c71e3d8d612bf4233cd",
+      "seen_at": "2026-11-13T22:02:51.767231+00:00"
+    },
+    {
+      "id": "jobright-ebdccfba85f7",
+      "seen_at": "2026-11-13T22:02:51.767662+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af7698141166cab7564b374",
+      "seen_at": "2026-11-13T22:02:51.768069+00:00"
+    },
+    {
+      "id": "jobright-394fa1eeb186",
+      "seen_at": "2026-11-13T22:02:51.768496+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adbfe7c46a8cabdc1ff5e6b",
+      "seen_at": "2026-11-13T22:02:51.768915+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5481980008",
+      "seen_at": "2026-11-13T22:02:53.742618+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5481980008",
+      "seen_at": "2026-11-13T22:02:53.743037+00:00"
+    },
+    {
+      "id": "jobright-643c4e6e1725",
+      "seen_at": "2026-11-13T22:02:53.743457+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af76e5341166cab7564b661",
+      "seen_at": "2026-11-13T22:02:53.743833+00:00"
     }
   ],
-  "last_run": "2026-11-13T21:32:21.541640+00:00",
-  "total_notified": 12522,
+  "last_run": "2026-11-13T22:02:54.126594+00:00",
+  "total_notified": 12529,
   "channels": {
     "pm-jobs": [
-      "zapply-2df46bf2a453",
-      "url:https://zapply.jobs/l/d/oracle-cummins-2436136",
       "zapply-77fe0feb6fca",
       "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0047185",
       "zapply-0fe912ebff98",
@@ -27360,17 +27374,13 @@
       "jobright-3090d54cfbf1",
       "url:https://jobright.ai/jobs/info/6af757a6d0eefb7d11b8b681",
       "zapply-41fafdcd361d",
-      "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-43234"
+      "url:https://zapply.jobs/l/d/workday-keybank-external-career-site-R-43234",
+      "greenhouse-anthropic-5481980008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5481980008",
+      "jobright-643c4e6e1725",
+      "url:https://jobright.ai/jobs/info/6af76e5341166cab7564b661"
     ],
     "swe-ai-full-time": [
-      "zapply-189403b37172",
-      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522577",
-      "greenhouse-asana-8194522",
-      "url:https://www.asana.com/jobs/apply/8194522",
-      "zapply-2952eba7b19c",
-      "url:https://zapply.jobs/l/d/greenhouse-freedomconsulting-5265949007",
-      "amazon-10579277",
-      "url:https://www.amazon.jobs/en/jobs/10579277/software-development-engineer-amazon-quick",
       "jobright-e3bd34af18c7",
       "url:https://jobright.ai/jobs/info/6acfe4c178d51ae69ce08a79",
       "jobright-0e964a099c41",
@@ -32762,7 +32772,17 @@
       "ashby-openai-cc1ea124-47ad-4b81-9e4e-0c69e525b62a",
       "url:https://jobs.ashbyhq.com/openai/cc1ea124-47ad-4b81-9e4e-0c69e525b62a",
       "amazon-10604977",
-      "url:https://www.amazon.jobs/en/jobs/10604977/software-development-engineer-core-shopping"
+      "url:https://www.amazon.jobs/en/jobs/10604977/software-development-engineer-core-shopping",
+      "ashby-ramp-6e717b06-6613-42ad-a1ee-f852a305fa37",
+      "url:https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37",
+      "zapply-21ba8f906609",
+      "url:https://zapply.jobs/l/d/workday-nwis-nw-01677525",
+      "jobright-3fabf59c88ee",
+      "url:https://jobright.ai/jobs/info/6af76c71e3d8d612bf4233cd",
+      "jobright-ebdccfba85f7",
+      "url:https://jobright.ai/jobs/info/6af7698141166cab7564b374",
+      "jobright-394fa1eeb186",
+      "url:https://jobright.ai/jobs/info/6adbfe7c46a8cabdc1ff5e6b"
     ]
   }
 }
