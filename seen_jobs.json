@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-2a8dfb9589d5",
-      "seen_at": "2026-10-14T18:31:16.623827+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-pnc-external-R217025",
-      "seen_at": "2026-10-14T18:31:16.624462+00:00"
-    },
-    {
-      "id": "zapply-1e911dd34441",
-      "seen_at": "2026-10-14T18:31:16.625014+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR330400",
-      "seen_at": "2026-10-14T18:31:16.625559+00:00"
-    },
-    {
-      "id": "zapply-44ffd0e00a7c",
-      "seen_at": "2026-10-14T18:31:18.564569+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155581974",
-      "seen_at": "2026-10-14T18:31:18.565106+00:00"
-    },
-    {
-      "id": "zapply-11426cd29afa",
-      "seen_at": "2026-10-14T18:31:18.565620+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155582733",
-      "seen_at": "2026-10-14T18:31:18.566093+00:00"
-    },
-    {
-      "id": "zapply-3ca12b0d00a9",
-      "seen_at": "2026-10-14T18:31:18.566558+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797788",
-      "seen_at": "2026-10-14T18:31:18.566977+00:00"
-    },
-    {
-      "id": "zapply-c238eef3c90c",
-      "seen_at": "2026-10-14T18:31:18.567401+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797640",
-      "seen_at": "2026-10-14T18:31:18.567798+00:00"
-    },
-    {
       "id": "zapply-15b01c2e7f6d",
       "seen_at": "2026-10-14T19:01:31.299729+00:00"
     },
@@ -26279,20 +26231,36 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-envista-envistacareers-R5027893",
       "seen_at": "2026-11-13T18:31:38.084170+00:00"
+    },
+    {
+      "id": "jobright-ba6dbc4c598e",
+      "seen_at": "2026-11-13T19:01:39.622590+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af73be4c7349029d7093688",
+      "seen_at": "2026-11-13T19:01:39.622943+00:00"
+    },
+    {
+      "id": "jobright-15ad83d5c663",
+      "seen_at": "2026-11-13T19:01:39.623202+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af73b4ed0eefb7d11b8a14b",
+      "seen_at": "2026-11-13T19:01:39.623433+00:00"
+    },
+    {
+      "id": "zapply-8ff09568f923",
+      "seen_at": "2026-11-13T19:01:41.188704+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-deluxe-usa-can-261315WD",
+      "seen_at": "2026-11-13T19:01:41.188981+00:00"
     }
   ],
-  "last_run": "2026-11-13T18:31:38.290914+00:00",
-  "total_notified": 12500,
+  "last_run": "2026-11-13T19:01:41.476302+00:00",
+  "total_notified": 12503,
   "channels": {
     "pm-jobs": [
-      "zapply-44ffd0e00a7c",
-      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155581974",
-      "zapply-11426cd29afa",
-      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000155582733",
-      "zapply-3ca12b0d00a9",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797788",
-      "zapply-c238eef3c90c",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210797640",
       "jobright-1c6f88fc4574",
       "url:https://jobright.ai/jobs/info/6acfb15778d51ae69ce077ae",
       "jobright-31181a19dcf6",
@@ -27442,13 +27410,11 @@
       "zapply-11b285a443cd",
       "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22984",
       "zapply-b257c841ba6d",
-      "url:https://zapply.jobs/l/d/workday-envista-envistacareers-R5027893"
+      "url:https://zapply.jobs/l/d/workday-envista-envistacareers-R5027893",
+      "zapply-8ff09568f923",
+      "url:https://zapply.jobs/l/d/workday-deluxe-usa-can-261315WD"
     ],
     "swe-ai-full-time": [
-      "zapply-2a8dfb9589d5",
-      "url:https://zapply.jobs/l/d/workday-pnc-external-R217025",
-      "zapply-1e911dd34441",
-      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR330400",
       "zapply-15b01c2e7f6d",
       "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1216553",
       "zapply-778869fa50c2",
@@ -32862,7 +32828,11 @@
       "applyguy-eae12d76-4048-4074-9183-f35831361606",
       "url:https://job-boards.greenhouse.io/cmt/jobs/8385978",
       "amazon-10604684",
-      "url:https://www.amazon.jobs/en/jobs/10604684/software-development-engineer-aws-iam"
+      "url:https://www.amazon.jobs/en/jobs/10604684/software-development-engineer-aws-iam",
+      "jobright-ba6dbc4c598e",
+      "url:https://jobright.ai/jobs/info/6af73be4c7349029d7093688",
+      "jobright-15ad83d5c663",
+      "url:https://jobright.ai/jobs/info/6af73b4ed0eefb7d11b8a14b"
     ]
   }
 }
