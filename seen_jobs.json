@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-reddit-8282760",
-      "seen_at": "2026-10-14T22:31:18.947352+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8282760",
-      "seen_at": "2026-10-14T22:31:18.947996+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR357681",
-      "seen_at": "2026-10-14T22:31:18.948569+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/GovCloud-Software-Engineer_JR357681",
-      "seen_at": "2026-10-14T22:31:18.949145+00:00"
-    },
-    {
-      "id": "zapply-77fe0feb6fca",
-      "seen_at": "2026-10-14T22:31:20.850810+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0047185",
-      "seen_at": "2026-10-14T22:31:20.851388+00:00"
-    },
-    {
-      "id": "zapply-0fe912ebff98",
-      "seen_at": "2026-10-14T22:31:20.851948+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R65464",
-      "seen_at": "2026-10-14T22:31:20.852456+00:00"
-    },
-    {
       "id": "greenhouse-gitlab-8889193002",
       "seen_at": "2026-10-14T23:01:28.027360+00:00"
     },
@@ -26215,16 +26183,44 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-stripe-8384438",
       "seen_at": "2026-11-13T22:31:25.005078+00:00"
+    },
+    {
+      "id": "jobright-0145e436169e",
+      "seen_at": "2026-11-13T23:01:55.813919+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af77a7f3ba46d7b6c1672ff",
+      "seen_at": "2026-11-13T23:01:55.814520+00:00"
+    },
+    {
+      "id": "jobright-ba479b3e8f29",
+      "seen_at": "2026-11-13T23:01:55.814949+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af77b9c3ba46d7b6c167452",
+      "seen_at": "2026-11-13T23:01:55.815355+00:00"
+    },
+    {
+      "id": "jobright-2280672f6db8",
+      "seen_at": "2026-11-13T23:01:55.815752+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af777583ba46d7b6c1670b2",
+      "seen_at": "2026-11-13T23:01:55.816119+00:00"
+    },
+    {
+      "id": "jobright-399d242cd8bf",
+      "seen_at": "2026-11-13T23:01:57.283108+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af77e0f8242286400645f30",
+      "seen_at": "2026-11-13T23:01:57.283627+00:00"
     }
   ],
-  "last_run": "2026-11-13T22:31:25.316469+00:00",
-  "total_notified": 12533,
+  "last_run": "2026-11-13T23:01:57.461867+00:00",
+  "total_notified": 12537,
   "channels": {
     "pm-jobs": [
-      "zapply-77fe0feb6fca",
-      "url:https://zapply.jobs/l/d/workday-snapchat-snap-R0047185",
-      "zapply-0fe912ebff98",
-      "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R65464",
       "jobright-f3d360e4603c",
       "url:https://jobright.ai/jobs/info/6acff248c0dd9da253cf57f2",
       "simplify-006605a5-8ff8-4cbe-bcb2-dd5ac6499c5f",
@@ -27380,13 +27376,11 @@
       "jobright-643c4e6e1725",
       "url:https://jobright.ai/jobs/info/6af76e5341166cab7564b661",
       "zapply-a6b99c806295",
-      "url:https://zapply.jobs/l/d/greenhouse-stripe-8384438"
+      "url:https://zapply.jobs/l/d/greenhouse-stripe-8384438",
+      "jobright-399d242cd8bf",
+      "url:https://jobright.ai/jobs/info/6af77e0f8242286400645f30"
     ],
     "swe-ai-full-time": [
-      "greenhouse-reddit-8282760",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8282760",
-      "workday-salesforce-JR357681",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/GovCloud-Software-Engineer_JR357681",
       "greenhouse-gitlab-8889193002",
       "url:https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
       "simplify-5d0dbdb8-b861-4502-b305-6cbb3852de5a",
@@ -32782,7 +32776,13 @@
       "amazon-10605024",
       "url:https://www.amazon.jobs/en/jobs/10605024/software-development-engineer-pv-ads-gem",
       "amazon-10604970",
-      "url:https://www.amazon.jobs/en/jobs/10604970/software-development-engineer-ml-prime-video-personalization-harmonia-optimizer"
+      "url:https://www.amazon.jobs/en/jobs/10604970/software-development-engineer-ml-prime-video-personalization-harmonia-optimizer",
+      "jobright-0145e436169e",
+      "url:https://jobright.ai/jobs/info/6af77a7f3ba46d7b6c1672ff",
+      "jobright-ba479b3e8f29",
+      "url:https://jobright.ai/jobs/info/6af77b9c3ba46d7b6c167452",
+      "jobright-2280672f6db8",
+      "url:https://jobright.ai/jobs/info/6af777583ba46d7b6c1670b2"
     ]
   }
 }
