@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-bad27c46c611",
-      "seen_at": "2026-10-14T00:01:16.359567+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acea80b4391691a335adff6",
-      "seen_at": "2026-10-14T00:01:16.360281+00:00"
-    },
-    {
-      "id": "jobright-779142920b6f",
-      "seen_at": "2026-10-14T00:01:16.360869+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acea9b44391691a335ae05e",
-      "seen_at": "2026-10-14T00:01:16.361443+00:00"
-    },
-    {
-      "id": "gradtracker-cce50193635c",
-      "seen_at": "2026-10-14T00:01:16.362019+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000155364528",
-      "seen_at": "2026-10-14T00:01:16.362562+00:00"
-    },
-    {
       "id": "ashby-snowflake-b6fed204-3317-43ba-b87b-f045e4cf8d68",
       "seen_at": "2026-10-14T00:31:09.280228+00:00"
     },
@@ -26439,10 +26415,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000161395829",
       "seen_at": "2026-11-13T00:01:21.196316+00:00"
+    },
+    {
+      "id": "amazon-10603920",
+      "seen_at": "2026-11-13T00:31:13.477684+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10603920/software-dev-engineer-antenna-calibration-amazon-leo",
+      "seen_at": "2026-11-13T00:31:13.478416+00:00"
+    },
+    {
+      "id": "zapply-c96997326020",
+      "seen_at": "2026-11-13T00:31:13.479057+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-affirm-8181183003",
+      "seen_at": "2026-11-13T00:31:13.479939+00:00"
     }
   ],
-  "last_run": "2026-11-13T00:01:21.540309+00:00",
-  "total_notified": 12440,
+  "last_run": "2026-11-13T00:31:14.447397+00:00",
+  "total_notified": 12442,
   "channels": {
     "pm-jobs": [
       "workday-adobe-R172087",
@@ -27600,12 +27592,6 @@
       "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000161395829"
     ],
     "swe-ai-full-time": [
-      "jobright-bad27c46c611",
-      "url:https://jobright.ai/jobs/info/6acea80b4391691a335adff6",
-      "jobright-779142920b6f",
-      "url:https://jobright.ai/jobs/info/6acea9b44391691a335ae05e",
-      "gradtracker-cce50193635c",
-      "url:https://jobs.smartrecruiters.com/servicenow/744000155364528",
       "ashby-snowflake-b6fed204-3317-43ba-b87b-f045e4cf8d68",
       "url:https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68",
       "amazon-10578122",
@@ -33061,7 +33047,11 @@
       "jobright-253f27fdc3ce",
       "url:https://jobright.ai/jobs/info/6af63263f10ae27369e1796a",
       "jobright-21ec3957382c",
-      "url:https://jobright.ai/jobs/info/6af6362ca4a5218a07e84599"
+      "url:https://jobright.ai/jobs/info/6af6362ca4a5218a07e84599",
+      "amazon-10603920",
+      "url:https://www.amazon.jobs/en/jobs/10603920/software-dev-engineer-antenna-calibration-amazon-leo",
+      "zapply-c96997326020",
+      "url:https://zapply.jobs/l/d/greenhouse-affirm-8181183003"
     ]
   }
 }
