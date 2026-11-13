@@ -26423,10 +26423,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af6362ca4a5218a07e84599",
       "seen_at": "2026-11-12T23:51:58.173456+00:00"
+    },
+    {
+      "id": "zapply-1bbe97728fe0",
+      "seen_at": "2026-11-13T00:01:21.194220+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050962",
+      "seen_at": "2026-11-13T00:01:21.195024+00:00"
+    },
+    {
+      "id": "zapply-c02489434509",
+      "seen_at": "2026-11-13T00:01:21.195716+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000161395829",
+      "seen_at": "2026-11-13T00:01:21.196316+00:00"
     }
   ],
-  "last_run": "2026-11-12T23:51:59.268158+00:00",
-  "total_notified": 12438,
+  "last_run": "2026-11-13T00:01:21.540309+00:00",
+  "total_notified": 12440,
   "channels": {
     "pm-jobs": [
       "workday-adobe-R172087",
@@ -27577,7 +27593,11 @@
       "greenhouse-reddit-8148055",
       "url:https://job-boards.greenhouse.io/reddit/jobs/8148055",
       "zapply-b8ae4efc4c8a",
-      "url:https://zapply.jobs/l/d/eightfold-micron-45500942"
+      "url:https://zapply.jobs/l/d/eightfold-micron-45500942",
+      "zapply-1bbe97728fe0",
+      "url:https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050962",
+      "zapply-c02489434509",
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000161395829"
     ],
     "swe-ai-full-time": [
       "jobright-bad27c46c611",
