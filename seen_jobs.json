@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-langchain-ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
-      "seen_at": "2026-10-14T15:31:33.871334+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
-      "seen_at": "2026-10-14T15:31:33.872137+00:00"
-    },
-    {
-      "id": "zapply-6e16da9ae12c",
-      "seen_at": "2026-10-14T15:31:35.518392+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799794",
-      "seen_at": "2026-10-14T15:31:35.519223+00:00"
-    },
-    {
       "id": "zapply-cc6f7e722e79",
       "seen_at": "2026-10-14T16:01:19.346238+00:00"
     },
@@ -26355,14 +26339,28 @@
     {
       "id": "greenhouse-coreweave-4729321006",
       "seen_at": "2026-11-13T15:31:18.451545+00:00"
+    },
+    {
+      "id": "jobright-0cc4fe0e4cfc",
+      "seen_at": "2026-11-13T16:01:50.685579+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abee88bd9621c5b283924b1",
+      "seen_at": "2026-11-13T16:01:50.685972+00:00"
+    },
+    {
+      "id": "zapply-c051756e527d",
+      "seen_at": "2026-11-13T16:01:52.227197+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801809",
+      "seen_at": "2026-11-13T16:01:52.227519+00:00"
     }
   ],
-  "last_run": "2026-11-13T15:31:18.592064+00:00",
-  "total_notified": 12473,
+  "last_run": "2026-11-13T16:01:52.550089+00:00",
+  "total_notified": 12475,
   "channels": {
     "pm-jobs": [
-      "zapply-6e16da9ae12c",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799794",
       "zapply-e987c2dd8744",
       "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-556765",
       "ashby-applied-6e43c9d2-0cf7-44c3-8cac-0339f1386724",
@@ -27517,11 +27515,11 @@
       "ashby-fireworks-b6ed8557-1fd1-4ffa-ac43-bdf52cb0ced9",
       "url:https://jobs.ashbyhq.com/fireworks/b6ed8557-1fd1-4ffa-ac43-bdf52cb0ced9",
       "greenhouse-coreweave-4729321006",
-      "url:https://coreweave.com/careers/job"
+      "url:https://coreweave.com/careers/job",
+      "zapply-c051756e527d",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801809"
     ],
     "swe-ai-full-time": [
-      "ashby-langchain-ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
-      "url:https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
       "zapply-cc6f7e722e79",
       "url:https://zapply.jobs/l/d/greenhouse-clear-8241829",
       "jobright-e32d694f2d9f",
@@ -32957,7 +32955,9 @@
       "jobright-39cc8c9ae464",
       "url:https://jobright.ai/jobs/info/6af7133041166cab75647cdf",
       "jobright-4712aa12ce89",
-      "url:https://jobright.ai/jobs/info/6af710ea3ba46d7b6c163030"
+      "url:https://jobright.ai/jobs/info/6af710ea3ba46d7b6c163030",
+      "jobright-0cc4fe0e4cfc",
+      "url:https://jobright.ai/jobs/info/6abee88bd9621c5b283924b1"
     ]
   }
 }
