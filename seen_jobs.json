@@ -1,70 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10578733",
-      "seen_at": "2026-10-14T16:31:18.723061+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10578733/software-development-engineer-navigation-experiences-navx",
-      "seen_at": "2026-10-14T16:31:18.723569+00:00"
-    },
-    {
-      "id": "amazon-10578757",
-      "seen_at": "2026-10-14T16:31:18.724015+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10578757/software-development-engineer-ec2-ultraserver-availability",
-      "seen_at": "2026-10-14T16:31:18.724405+00:00"
-    },
-    {
-      "id": "amazon-10578719",
-      "seen_at": "2026-10-14T16:31:18.724794+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10578719/software-development-engineer-aws-cognito-aws-cognito",
-      "seen_at": "2026-10-14T16:31:18.725160+00:00"
-    },
-    {
-      "id": "amazon-10578749",
-      "seen_at": "2026-10-14T16:31:18.725527+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10578749/applied-scientist-avm-builder-enablement",
-      "seen_at": "2026-10-14T16:31:18.725903+00:00"
-    },
-    {
-      "id": "applyguy-4fe75012-df5e-4c0a-b080-fe0c374b9a98",
-      "seen_at": "2026-10-14T16:31:18.726268+00:00"
-    },
-    {
-      "id": "url:https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1",
-      "seen_at": "2026-10-14T16:31:18.726630+00:00"
-    },
-    {
-      "id": "ashby-applied-6e43c9d2-0cf7-44c3-8cac-0339f1386724",
-      "seen_at": "2026-10-14T16:31:20.336609+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/applied/6e43c9d2-0cf7-44c3-8cac-0339f1386724",
-      "seen_at": "2026-10-14T16:31:20.337078+00:00"
-    },
-    {
-      "id": "ashby-applied-aa4c40d9-500f-42a7-b03a-f94bd42955fb",
-      "seen_at": "2026-10-14T16:31:20.337458+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/applied/aa4c40d9-500f-42a7-b03a-f94bd42955fb",
-      "seen_at": "2026-10-14T16:31:20.337828+00:00"
-    },
-    {
-      "id": "zapply-c69b603de078",
-      "seen_at": "2026-10-14T16:31:20.338166+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-defenseunicorns-5265580007",
-      "seen_at": "2026-10-14T16:31:20.338492+00:00"
-    },
-    {
       "id": "zapply-2d4a5b29cc55",
       "seen_at": "2026-10-14T17:01:44.343837+00:00"
     },
@@ -26339,18 +26275,84 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10603911/data-scientist-leo-customer-terminal",
       "seen_at": "2026-11-13T16:31:31.012348+00:00"
+    },
+    {
+      "id": "zapply-34406d962c15",
+      "seen_at": "2026-11-13T17:01:26.191604+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/phenom-cisco-2031593",
+      "seen_at": "2026-11-13T17:01:26.192342+00:00"
+    },
+    {
+      "id": "jobright-017b62337368",
+      "seen_at": "2026-11-13T17:01:26.192990+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af72cb941166cab7564896b",
+      "seen_at": "2026-11-13T17:01:26.193505+00:00"
+    },
+    {
+      "id": "jobright-6ef0eec9a900",
+      "seen_at": "2026-11-13T17:01:26.193980+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af72b5bc7349029d7092cd1",
+      "seen_at": "2026-11-13T17:01:26.194419+00:00"
+    },
+    {
+      "id": "jobright-dce15e3b06b8",
+      "seen_at": "2026-11-13T17:01:26.194856+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af72b1141166cab756488d5",
+      "seen_at": "2026-11-13T17:01:26.195314+00:00"
+    },
+    {
+      "id": "jobright-0fc42ec2d029",
+      "seen_at": "2026-11-13T17:01:26.195741+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa1a9e00ffb3d4fea6b662a",
+      "seen_at": "2026-11-13T17:01:26.196187+00:00"
+    },
+    {
+      "id": "jobright-6cfbf9a07243",
+      "seen_at": "2026-11-13T17:01:26.196610+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af72d4a41166cab756489e3",
+      "seen_at": "2026-11-13T17:01:26.197033+00:00"
+    },
+    {
+      "id": "zapply-dc90b4611a2e",
+      "seen_at": "2026-11-13T17:01:28.140803+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nwis-nw-JR102237",
+      "seen_at": "2026-11-13T17:01:28.141502+00:00"
+    },
+    {
+      "id": "zapply-b5927fcdaf48",
+      "seen_at": "2026-11-13T17:01:28.142110+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-emerson-electric-26008597",
+      "seen_at": "2026-11-13T17:01:28.142596+00:00"
+    },
+    {
+      "id": "jobright-508607085869",
+      "seen_at": "2026-11-13T17:01:28.143083+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af72e94e3d8d612bf420b3b",
+      "seen_at": "2026-11-13T17:01:28.143489+00:00"
     }
   ],
-  "last_run": "2026-11-13T16:31:31.830685+00:00",
-  "total_notified": 12480,
+  "last_run": "2026-11-13T17:01:28.370238+00:00",
+  "total_notified": 12489,
   "channels": {
     "pm-jobs": [
-      "ashby-applied-6e43c9d2-0cf7-44c3-8cac-0339f1386724",
-      "url:https://jobs.ashbyhq.com/applied/6e43c9d2-0cf7-44c3-8cac-0339f1386724",
-      "ashby-applied-aa4c40d9-500f-42a7-b03a-f94bd42955fb",
-      "url:https://jobs.ashbyhq.com/applied/aa4c40d9-500f-42a7-b03a-f94bd42955fb",
-      "zapply-c69b603de078",
-      "url:https://zapply.jobs/l/d/greenhouse-defenseunicorns-5265580007",
       "greenhouse-stripe-8275556",
       "zapply-66b826f541c2",
       "url:https://zapply.jobs/l/d/workday-asml-asmlext1-J-00350120",
@@ -27499,19 +27501,15 @@
       "greenhouse-coreweave-4729321006",
       "url:https://coreweave.com/careers/job",
       "zapply-c051756e527d",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801809"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801809",
+      "zapply-dc90b4611a2e",
+      "url:https://zapply.jobs/l/d/workday-nwis-nw-JR102237",
+      "zapply-b5927fcdaf48",
+      "url:https://zapply.jobs/l/d/oracle-emerson-electric-26008597",
+      "jobright-508607085869",
+      "url:https://jobright.ai/jobs/info/6af72e94e3d8d612bf420b3b"
     ],
     "swe-ai-full-time": [
-      "amazon-10578733",
-      "url:https://www.amazon.jobs/en/jobs/10578733/software-development-engineer-navigation-experiences-navx",
-      "amazon-10578757",
-      "url:https://www.amazon.jobs/en/jobs/10578757/software-development-engineer-ec2-ultraserver-availability",
-      "amazon-10578719",
-      "url:https://www.amazon.jobs/en/jobs/10578719/software-development-engineer-aws-cognito-aws-cognito",
-      "amazon-10578749",
-      "url:https://www.amazon.jobs/en/jobs/10578749/applied-scientist-avm-builder-enablement",
-      "applyguy-4fe75012-df5e-4c0a-b080-fe0c374b9a98",
-      "url:https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1",
       "zapply-2d4a5b29cc55",
       "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522764",
       "greenhouse-twitch-8887222002",
@@ -32937,7 +32935,19 @@
       "amazon-10603921",
       "url:https://www.amazon.jobs/en/jobs/10603921/robotics-software-development-engineer-fauna",
       "amazon-10603911",
-      "url:https://www.amazon.jobs/en/jobs/10603911/data-scientist-leo-customer-terminal"
+      "url:https://www.amazon.jobs/en/jobs/10603911/data-scientist-leo-customer-terminal",
+      "zapply-34406d962c15",
+      "url:https://zapply.jobs/l/d/phenom-cisco-2031593",
+      "jobright-017b62337368",
+      "url:https://jobright.ai/jobs/info/6af72cb941166cab7564896b",
+      "jobright-6ef0eec9a900",
+      "url:https://jobright.ai/jobs/info/6af72b5bc7349029d7092cd1",
+      "jobright-dce15e3b06b8",
+      "url:https://jobright.ai/jobs/info/6af72b1141166cab756488d5",
+      "jobright-0fc42ec2d029",
+      "url:https://jobright.ai/jobs/info/6aa1a9e00ffb3d4fea6b662a",
+      "jobright-6cfbf9a07243",
+      "url:https://jobright.ai/jobs/info/6af72d4a41166cab756489e3"
     ]
   }
 }
