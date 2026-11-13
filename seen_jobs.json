@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-a754bf7be7bf",
-      "seen_at": "2026-10-14T15:01:30.397066+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-51461fb5-932b-4a22-805f-23b73773a433",
-      "seen_at": "2026-10-14T15:01:30.397731+00:00"
-    },
-    {
-      "id": "simplify-d40d3812-f19c-401b-b283-a95fecf03462",
-      "seen_at": "2026-10-14T15:01:30.398305+00:00"
-    },
-    {
-      "id": "url:https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1",
-      "seen_at": "2026-10-14T15:01:30.398839+00:00"
-    },
-    {
-      "id": "jobright-2c08423f1f47",
-      "seen_at": "2026-10-14T15:01:30.399343+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a600d3133ef5c58b40018be",
-      "seen_at": "2026-10-14T15:01:30.399846+00:00"
-    },
-    {
-      "id": "jobright-dec2dbe9323c",
-      "seen_at": "2026-10-14T15:01:30.400346+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acec93770e50ec1b37f1d02",
-      "seen_at": "2026-10-14T15:01:30.400834+00:00"
-    },
-    {
-      "id": "simplify-fe8f92c8-cf1e-4d48-a2fa-65d895096b5a",
-      "seen_at": "2026-10-14T15:03:47.574488+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/check-technologies/1647b178-a07b-4e62-b2e1-122e6fdbd134/application",
-      "seen_at": "2026-10-14T15:03:47.574927+00:00"
-    },
-    {
       "id": "ashby-langchain-ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
       "seen_at": "2026-10-14T15:31:33.871334+00:00"
     },
@@ -26391,10 +26351,14 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af710ea3ba46d7b6c163030",
       "seen_at": "2026-11-13T15:01:36.165737+00:00"
+    },
+    {
+      "id": "greenhouse-coreweave-4729321006",
+      "seen_at": "2026-11-13T15:31:18.451545+00:00"
     }
   ],
-  "last_run": "2026-11-13T15:01:37.210480+00:00",
-  "total_notified": 12472,
+  "last_run": "2026-11-13T15:31:18.592064+00:00",
+  "total_notified": 12473,
   "channels": {
     "pm-jobs": [
       "zapply-6e16da9ae12c",
@@ -27551,19 +27515,11 @@
       "jobright-a247b0c7b1ef",
       "url:https://jobright.ai/jobs/info/6a84f9b158ded76ad8fea2cf",
       "ashby-fireworks-b6ed8557-1fd1-4ffa-ac43-bdf52cb0ced9",
-      "url:https://jobs.ashbyhq.com/fireworks/b6ed8557-1fd1-4ffa-ac43-bdf52cb0ced9"
+      "url:https://jobs.ashbyhq.com/fireworks/b6ed8557-1fd1-4ffa-ac43-bdf52cb0ced9",
+      "greenhouse-coreweave-4729321006",
+      "url:https://coreweave.com/careers/job"
     ],
     "swe-ai-full-time": [
-      "zapply-a754bf7be7bf",
-      "url:https://zapply.jobs/l/d/amazon-51461fb5-932b-4a22-805f-23b73773a433",
-      "simplify-d40d3812-f19c-401b-b283-a95fecf03462",
-      "url:https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1",
-      "jobright-2c08423f1f47",
-      "url:https://jobright.ai/jobs/info/6a600d3133ef5c58b40018be",
-      "jobright-dec2dbe9323c",
-      "url:https://jobright.ai/jobs/info/6acec93770e50ec1b37f1d02",
-      "simplify-fe8f92c8-cf1e-4d48-a2fa-65d895096b5a",
-      "url:https://jobs.ashbyhq.com/check-technologies/1647b178-a07b-4e62-b2e1-122e6fdbd134/application",
       "ashby-langchain-ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
       "url:https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
       "zapply-cc6f7e722e79",
