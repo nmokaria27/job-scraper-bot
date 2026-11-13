@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-gitlab-8889193002",
-      "seen_at": "2026-10-14T23:01:28.027360+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
-      "seen_at": "2026-10-14T23:01:28.028015+00:00"
-    },
-    {
-      "id": "simplify-5d0dbdb8-b861-4502-b305-6cbb3852de5a",
-      "seen_at": "2026-10-14T23:01:28.028576+00:00"
-    },
-    {
-      "id": "url:https://ats.rippling.com/gofishdigital/jobs/38101c5d-0279-4f4b-83b0-dd176bff7fc2",
-      "seen_at": "2026-10-14T23:01:28.029101+00:00"
-    },
-    {
-      "id": "jobright-2534d81756e4",
-      "seen_at": "2026-10-14T23:01:28.029601+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acfcb1ec9f40bec907fe39a",
-      "seen_at": "2026-10-14T23:01:28.030093+00:00"
-    },
-    {
-      "id": "jobright-f3d360e4603c",
-      "seen_at": "2026-10-14T23:01:29.956270+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acff248c0dd9da253cf57f2",
-      "seen_at": "2026-10-14T23:01:29.956814+00:00"
-    },
-    {
       "id": "simplify-c440c071-0612-4db0-b149-50dcb1876b45",
       "seen_at": "2026-10-14T23:31:07.772754+00:00"
     },
@@ -26215,14 +26183,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af77e0f8242286400645f30",
       "seen_at": "2026-11-13T23:01:57.283627+00:00"
+    },
+    {
+      "id": "greenhouse-twitch-8943553002",
+      "seen_at": "2026-11-13T23:28:58.427079+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/twitch/jobs/8943553002",
+      "seen_at": "2026-11-13T23:28:58.427651+00:00"
     }
   ],
-  "last_run": "2026-11-13T23:01:57.461867+00:00",
-  "total_notified": 12537,
+  "last_run": "2026-11-13T23:28:59.184665+00:00",
+  "total_notified": 12538,
   "channels": {
     "pm-jobs": [
-      "jobright-f3d360e4603c",
-      "url:https://jobright.ai/jobs/info/6acff248c0dd9da253cf57f2",
       "simplify-006605a5-8ff8-4cbe-bcb2-dd5ac6499c5f",
       "url:https://jobs.ashbyhq.com/normalcomputing/acc80301-3574-4cc8-904a-fb66a346ebd4/application",
       "workday-nvidia-JR2027838",
@@ -27381,12 +27355,6 @@
       "url:https://jobright.ai/jobs/info/6af77e0f8242286400645f30"
     ],
     "swe-ai-full-time": [
-      "greenhouse-gitlab-8889193002",
-      "url:https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
-      "simplify-5d0dbdb8-b861-4502-b305-6cbb3852de5a",
-      "url:https://ats.rippling.com/gofishdigital/jobs/38101c5d-0279-4f4b-83b0-dd176bff7fc2",
-      "jobright-2534d81756e4",
-      "url:https://jobright.ai/jobs/info/6acfcb1ec9f40bec907fe39a",
       "simplify-c440c071-0612-4db0-b149-50dcb1876b45",
       "url:https://lifeattiktok.com/search/7685769994391832837",
       "simplify-be8360f1-7c95-458e-8ada-6f6d4a2a31b8",
@@ -32782,7 +32750,9 @@
       "jobright-ba479b3e8f29",
       "url:https://jobright.ai/jobs/info/6af77b9c3ba46d7b6c167452",
       "jobright-2280672f6db8",
-      "url:https://jobright.ai/jobs/info/6af777583ba46d7b6c1670b2"
+      "url:https://jobright.ai/jobs/info/6af777583ba46d7b6c1670b2",
+      "greenhouse-twitch-8943553002",
+      "url:https://job-boards.greenhouse.io/twitch/jobs/8943553002"
     ]
   }
 }
