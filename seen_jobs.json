@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-15b01c2e7f6d",
-      "seen_at": "2026-10-14T19:01:31.299729+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1216553",
-      "seen_at": "2026-10-14T19:01:31.300491+00:00"
-    },
-    {
-      "id": "zapply-778869fa50c2",
-      "seen_at": "2026-10-14T19:01:31.301119+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1216553",
-      "seen_at": "2026-10-14T19:01:31.301749+00:00"
-    },
-    {
-      "id": "ashby-modal-34858ff6-aecf-4c58-9574-ed67ebf700c8",
-      "seen_at": "2026-10-14T19:01:31.302327+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/modal/34858ff6-aecf-4c58-9574-ed67ebf700c8",
-      "seen_at": "2026-10-14T19:01:31.302934+00:00"
-    },
-    {
-      "id": "jobright-72b77a19ce89",
-      "seen_at": "2026-10-14T19:01:31.303515+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acfaeb82cc4e9d17e909c6c",
-      "seen_at": "2026-10-14T19:01:31.304104+00:00"
-    },
-    {
-      "id": "gradtracker-a4f28d44a425",
-      "seen_at": "2026-10-14T19:01:31.304695+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000155582891",
-      "seen_at": "2026-10-14T19:01:31.305255+00:00"
-    },
-    {
-      "id": "amazon-10578861",
-      "seen_at": "2026-10-14T19:01:31.305848+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10578861/software-development-engineer-building-connectivity-engineering",
-      "seen_at": "2026-10-14T19:01:31.306406+00:00"
-    },
-    {
-      "id": "jobright-b867d6eb7fd1",
-      "seen_at": "2026-10-14T19:01:31.306991+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acfba5312303667b989fd95",
-      "seen_at": "2026-10-14T19:01:31.307568+00:00"
-    },
-    {
-      "id": "jobright-1c6f88fc4574",
-      "seen_at": "2026-10-14T19:01:34.256492+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acfb15778d51ae69ce077ae",
-      "seen_at": "2026-10-14T19:01:34.257126+00:00"
-    },
-    {
-      "id": "zapply-4454c5af5bf3",
-      "seen_at": "2026-10-14T19:19:38.402186+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523155",
-      "seen_at": "2026-10-14T19:19:38.402856+00:00"
-    },
-    {
       "id": "ashby-harvey-45c49e6b-a7b5-40f9-812f-daa038b81bb3",
       "seen_at": "2026-10-14T20:01:25.248920+00:00"
     },
@@ -26257,12 +26185,10 @@
       "seen_at": "2026-11-13T19:01:41.188981+00:00"
     }
   ],
-  "last_run": "2026-11-13T19:01:41.476302+00:00",
+  "last_run": "2026-11-13T19:31:21.026509+00:00",
   "total_notified": 12503,
   "channels": {
     "pm-jobs": [
-      "jobright-1c6f88fc4574",
-      "url:https://jobright.ai/jobs/info/6acfb15778d51ae69ce077ae",
       "jobright-31181a19dcf6",
       "url:https://jobright.ai/jobs/info/6a976553e4e60e4b8da5de12",
       "jobright-d6042478e5a1",
@@ -27415,22 +27341,6 @@
       "url:https://zapply.jobs/l/d/workday-deluxe-usa-can-261315WD"
     ],
     "swe-ai-full-time": [
-      "zapply-15b01c2e7f6d",
-      "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1216553",
-      "zapply-778869fa50c2",
-      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1216553",
-      "ashby-modal-34858ff6-aecf-4c58-9574-ed67ebf700c8",
-      "url:https://jobs.ashbyhq.com/modal/34858ff6-aecf-4c58-9574-ed67ebf700c8",
-      "jobright-72b77a19ce89",
-      "url:https://jobright.ai/jobs/info/6acfaeb82cc4e9d17e909c6c",
-      "gradtracker-a4f28d44a425",
-      "url:https://jobs.smartrecruiters.com/servicenow/744000155582891",
-      "amazon-10578861",
-      "url:https://www.amazon.jobs/en/jobs/10578861/software-development-engineer-building-connectivity-engineering",
-      "jobright-b867d6eb7fd1",
-      "url:https://jobright.ai/jobs/info/6acfba5312303667b989fd95",
-      "zapply-4454c5af5bf3",
-      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523155",
       "ashby-harvey-45c49e6b-a7b5-40f9-812f-daa038b81bb3",
       "url:https://jobs.ashbyhq.com/harvey/45c49e6b-a7b5-40f9-812f-daa038b81bb3",
       "jobright-83d737a70a84",
