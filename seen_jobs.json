@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-bc6a61975ef2",
-      "seen_at": "2026-10-14T14:01:36.305752+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a95fac04c22023a079373ee",
-      "seen_at": "2026-10-14T14:01:36.306223+00:00"
-    },
-    {
-      "id": "zapply-0d78bdeaba2f",
-      "seen_at": "2026-10-14T14:01:37.805552+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000050261",
-      "seen_at": "2026-10-14T14:01:37.805932+00:00"
-    },
-    {
-      "id": "zapply-26e3cb017a13",
-      "seen_at": "2026-10-14T14:01:37.806259+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605668",
-      "seen_at": "2026-10-14T14:01:37.806565+00:00"
-    },
-    {
-      "id": "zapply-55c40cc556aa",
-      "seen_at": "2026-10-14T14:01:37.806875+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000703071",
-      "seen_at": "2026-10-14T14:01:37.807165+00:00"
-    },
-    {
-      "id": "zapply-fe298e8643bb",
-      "seen_at": "2026-10-14T14:01:37.807455+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799135",
-      "seen_at": "2026-10-14T14:01:37.807734+00:00"
-    },
-    {
       "id": "amazon-10578558",
       "seen_at": "2026-10-14T14:31:15.801686+00:00"
     },
@@ -26425,18 +26385,10 @@
       "seen_at": "2026-11-13T14:01:36.925201+00:00"
     }
   ],
-  "last_run": "2026-11-13T14:01:37.184708+00:00",
+  "last_run": "2026-11-13T14:31:42.389486+00:00",
   "total_notified": 12470,
   "channels": {
     "pm-jobs": [
-      "zapply-0d78bdeaba2f",
-      "url:https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000050261",
-      "zapply-26e3cb017a13",
-      "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605668",
-      "zapply-55c40cc556aa",
-      "url:https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000703071",
-      "zapply-fe298e8643bb",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799135",
       "zapply-6e16da9ae12c",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210799794",
       "zapply-e987c2dd8744",
@@ -27594,8 +27546,6 @@
       "url:https://jobs.ashbyhq.com/fireworks/b6ed8557-1fd1-4ffa-ac43-bdf52cb0ced9"
     ],
     "swe-ai-full-time": [
-      "jobright-bc6a61975ef2",
-      "url:https://jobright.ai/jobs/info/6a95fac04c22023a079373ee",
       "amazon-10578558",
       "url:https://www.amazon.jobs/en/jobs/10578558/software-engineer-i",
       "zapply-a754bf7be7bf",
