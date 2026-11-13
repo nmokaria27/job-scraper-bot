@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-6de3ed38367f",
-      "seen_at": "2026-10-14T18:01:40.155746+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acfad00c0dd9da253cf3dfe",
-      "seen_at": "2026-10-14T18:01:40.156188+00:00"
-    },
-    {
-      "id": "jobright-252eee4244bf",
-      "seen_at": "2026-10-14T18:01:40.156558+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acfaba7c9f40bec907fd659",
-      "seen_at": "2026-10-14T18:01:40.156886+00:00"
-    },
-    {
-      "id": "jobright-7bda4c2b482f",
-      "seen_at": "2026-10-14T18:01:40.157214+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acfaa2ec0dd9da253cf3d2e",
-      "seen_at": "2026-10-14T18:01:40.157536+00:00"
-    },
-    {
-      "id": "jobright-1cd6f13576f9",
-      "seen_at": "2026-10-14T18:01:40.157851+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acfa98d78d51ae69ce074ce",
-      "seen_at": "2026-10-14T18:01:40.158155+00:00"
-    },
-    {
-      "id": "jobright-0d8b10529256",
-      "seen_at": "2026-10-14T18:01:40.158471+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a2d6349f1751b183c81ad54",
-      "seen_at": "2026-10-14T18:01:40.158766+00:00"
-    },
-    {
-      "id": "jobright-599745f5acfa",
-      "seen_at": "2026-10-14T18:01:40.159066+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6acf995012303667b989f3ed",
-      "seen_at": "2026-10-14T18:01:40.159369+00:00"
-    },
-    {
       "id": "zapply-2a8dfb9589d5",
       "seen_at": "2026-10-14T18:31:16.623827+00:00"
     },
@@ -26287,10 +26239,50 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10603912/software-development-engineer-data-analytics-integration-ai-and-platform-excellence",
       "seen_at": "2026-11-13T18:01:40.186899+00:00"
+    },
+    {
+      "id": "greenhouse-labelbox-5294769007",
+      "seen_at": "2026-11-13T18:31:36.486409+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/labelbox/jobs/5294769007",
+      "seen_at": "2026-11-13T18:31:36.486757+00:00"
+    },
+    {
+      "id": "applyguy-eae12d76-4048-4074-9183-f35831361606",
+      "seen_at": "2026-11-13T18:31:36.487017+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/cmt/jobs/8385978",
+      "seen_at": "2026-11-13T18:31:36.487255+00:00"
+    },
+    {
+      "id": "amazon-10604684",
+      "seen_at": "2026-11-13T18:31:36.487485+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10604684/software-development-engineer-aws-iam",
+      "seen_at": "2026-11-13T18:31:36.487710+00:00"
+    },
+    {
+      "id": "zapply-11b285a443cd",
+      "seen_at": "2026-11-13T18:31:38.083408+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22984",
+      "seen_at": "2026-11-13T18:31:38.083716+00:00"
+    },
+    {
+      "id": "zapply-b257c841ba6d",
+      "seen_at": "2026-11-13T18:31:38.083957+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-envista-envistacareers-R5027893",
+      "seen_at": "2026-11-13T18:31:38.084170+00:00"
     }
   ],
-  "last_run": "2026-11-13T18:01:41.167463+00:00",
-  "total_notified": 12495,
+  "last_run": "2026-11-13T18:31:38.290914+00:00",
+  "total_notified": 12500,
   "channels": {
     "pm-jobs": [
       "zapply-44ffd0e00a7c",
@@ -27446,21 +27438,13 @@
       "jobright-508607085869",
       "url:https://jobright.ai/jobs/info/6af72e94e3d8d612bf420b3b",
       "zapply-c5df5e4bae91",
-      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000387651"
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000387651",
+      "zapply-11b285a443cd",
+      "url:https://zapply.jobs/l/d/workday-wexinc-wexinc-R22984",
+      "zapply-b257c841ba6d",
+      "url:https://zapply.jobs/l/d/workday-envista-envistacareers-R5027893"
     ],
     "swe-ai-full-time": [
-      "jobright-6de3ed38367f",
-      "url:https://jobright.ai/jobs/info/6acfad00c0dd9da253cf3dfe",
-      "jobright-252eee4244bf",
-      "url:https://jobright.ai/jobs/info/6acfaba7c9f40bec907fd659",
-      "jobright-7bda4c2b482f",
-      "url:https://jobright.ai/jobs/info/6acfaa2ec0dd9da253cf3d2e",
-      "jobright-1cd6f13576f9",
-      "url:https://jobright.ai/jobs/info/6acfa98d78d51ae69ce074ce",
-      "jobright-0d8b10529256",
-      "url:https://jobright.ai/jobs/info/6a2d6349f1751b183c81ad54",
-      "jobright-599745f5acfa",
-      "url:https://jobright.ai/jobs/info/6acf995012303667b989f3ed",
       "zapply-2a8dfb9589d5",
       "url:https://zapply.jobs/l/d/workday-pnc-external-R217025",
       "zapply-1e911dd34441",
@@ -32872,7 +32856,13 @@
       "greenhouse-airbnb-8386083",
       "url:https://careers.airbnb.com/positions/8386083",
       "amazon-10603912",
-      "url:https://www.amazon.jobs/en/jobs/10603912/software-development-engineer-data-analytics-integration-ai-and-platform-excellence"
+      "url:https://www.amazon.jobs/en/jobs/10603912/software-development-engineer-data-analytics-integration-ai-and-platform-excellence",
+      "greenhouse-labelbox-5294769007",
+      "url:https://job-boards.greenhouse.io/labelbox/jobs/5294769007",
+      "applyguy-eae12d76-4048-4074-9183-f35831361606",
+      "url:https://job-boards.greenhouse.io/cmt/jobs/8385978",
+      "amazon-10604684",
+      "url:https://www.amazon.jobs/en/jobs/10604684/software-development-engineer-aws-iam"
     ]
   }
 }
