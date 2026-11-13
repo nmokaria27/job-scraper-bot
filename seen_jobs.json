@@ -26399,10 +26399,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/google-143005757543981766",
       "seen_at": "2026-11-13T11:01:35.972818+00:00"
+    },
+    {
+      "id": "jobright-c0cc834640e4",
+      "seen_at": "2026-11-13T12:01:28.603049+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a71a4159a0ca4480c7d4eee",
+      "seen_at": "2026-11-13T12:01:28.603452+00:00"
+    },
+    {
+      "id": "jobright-45a015177f65",
+      "seen_at": "2026-11-13T12:01:28.603799+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a714fee02d93145bf88ef63",
+      "seen_at": "2026-11-13T12:01:28.604125+00:00"
+    },
+    {
+      "id": "amazon-10604047",
+      "seen_at": "2026-11-13T12:01:28.604457+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10604047/software-development-engineer-selection-economics-tech",
+      "seen_at": "2026-11-13T12:01:28.604751+00:00"
+    },
+    {
+      "id": "jobright-a5973af4b05a",
+      "seen_at": "2026-11-13T12:01:30.290552+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a96a957246d697dcee00ea7",
+      "seen_at": "2026-11-13T12:01:30.290888+00:00"
+    },
+    {
+      "id": "jobright-a247b0c7b1ef",
+      "seen_at": "2026-11-13T12:01:30.291233+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a84f9b158ded76ad8fea2cf",
+      "seen_at": "2026-11-13T12:01:30.291513+00:00"
     }
   ],
-  "last_run": "2026-11-13T11:31:08.604306+00:00",
-  "total_notified": 12463,
+  "last_run": "2026-11-13T12:01:30.590564+00:00",
+  "total_notified": 12468,
   "channels": {
     "pm-jobs": [
       "zapply-0d78bdeaba2f",
@@ -27561,7 +27601,11 @@
       "zapply-df818ed2db35",
       "url:https://zapply.jobs/l/d/google-134484035622576838",
       "zapply-ecfaaaa2c01d",
-      "url:https://zapply.jobs/l/d/google-143005757543981766"
+      "url:https://zapply.jobs/l/d/google-143005757543981766",
+      "jobright-a5973af4b05a",
+      "url:https://jobright.ai/jobs/info/6a96a957246d697dcee00ea7",
+      "jobright-a247b0c7b1ef",
+      "url:https://jobright.ai/jobs/info/6a84f9b158ded76ad8fea2cf"
     ],
     "swe-ai-full-time": [
       "zapply-285ad63c58c8",
@@ -33011,7 +33055,13 @@
       "jobright-a3028206b676",
       "url:https://jobright.ai/jobs/info/6abc21ffb23c6fb2b81a5559",
       "jobright-4c93a87f8eca",
-      "url:https://jobright.ai/jobs/info/6af69b4680054650a5e7f7b2"
+      "url:https://jobright.ai/jobs/info/6af69b4680054650a5e7f7b2",
+      "jobright-c0cc834640e4",
+      "url:https://jobright.ai/jobs/info/6a71a4159a0ca4480c7d4eee",
+      "jobright-45a015177f65",
+      "url:https://jobright.ai/jobs/info/6a714fee02d93145bf88ef63",
+      "amazon-10604047",
+      "url:https://www.amazon.jobs/en/jobs/10604047/software-development-engineer-selection-economics-tech"
     ]
   }
 }
