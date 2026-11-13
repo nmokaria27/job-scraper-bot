@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-thumbtack-3efb1a7b-cfaf-475a-86a9-abff37581b4b",
-      "seen_at": "2026-10-14T17:31:18.607581+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b",
-      "seen_at": "2026-10-14T17:31:18.607965+00:00"
-    },
-    {
-      "id": "ashby-supabase-73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
-      "seen_at": "2026-10-14T17:31:18.608297+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/supabase/73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
-      "seen_at": "2026-10-14T17:31:18.608592+00:00"
-    },
-    {
-      "id": "amazon-10578859",
-      "seen_at": "2026-10-14T17:31:18.608891+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10578859/software-development-engineer-building-connectivity-engineering",
-      "seen_at": "2026-10-14T17:31:18.609184+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR330400",
-      "seen_at": "2026-10-14T17:31:18.609469+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
-      "seen_at": "2026-10-14T17:31:18.609744+00:00"
-    },
-    {
       "id": "jobright-6de3ed38367f",
       "seen_at": "2026-10-14T18:01:40.155746+00:00"
     },
@@ -26271,10 +26239,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af72e94e3d8d612bf420b3b",
       "seen_at": "2026-11-13T17:01:28.143489+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-8386065",
+      "seen_at": "2026-11-13T17:40:25.792734+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/8386065",
+      "seen_at": "2026-11-13T17:40:25.793144+00:00"
+    },
+    {
+      "id": "jobright-3f18f2d17bd8",
+      "seen_at": "2026-11-13T17:40:25.793471+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af73a058242286400642e24",
+      "seen_at": "2026-11-13T17:40:25.793772+00:00"
+    },
+    {
+      "id": "jobright-4a1f578780ad",
+      "seen_at": "2026-11-13T17:40:25.794080+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af73318e3d8d612bf420ce2",
+      "seen_at": "2026-11-13T17:40:25.794358+00:00"
+    },
+    {
+      "id": "zapply-c5df5e4bae91",
+      "seen_at": "2026-11-13T17:40:27.645699+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000387651",
+      "seen_at": "2026-11-13T17:40:27.646067+00:00"
     }
   ],
-  "last_run": "2026-11-13T17:31:23.203921+00:00",
-  "total_notified": 12489,
+  "last_run": "2026-11-13T17:40:27.861551+00:00",
+  "total_notified": 12493,
   "channels": {
     "pm-jobs": [
       "zapply-44ffd0e00a7c",
@@ -27428,17 +27428,11 @@
       "zapply-b5927fcdaf48",
       "url:https://zapply.jobs/l/d/oracle-emerson-electric-26008597",
       "jobright-508607085869",
-      "url:https://jobright.ai/jobs/info/6af72e94e3d8d612bf420b3b"
+      "url:https://jobright.ai/jobs/info/6af72e94e3d8d612bf420b3b",
+      "zapply-c5df5e4bae91",
+      "url:https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000387651"
     ],
     "swe-ai-full-time": [
-      "ashby-thumbtack-3efb1a7b-cfaf-475a-86a9-abff37581b4b",
-      "url:https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b",
-      "ashby-supabase-73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
-      "url:https://jobs.ashbyhq.com/supabase/73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
-      "amazon-10578859",
-      "url:https://www.amazon.jobs/en/jobs/10578859/software-development-engineer-building-connectivity-engineering",
-      "workday-salesforce-JR330400",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
       "jobright-6de3ed38367f",
       "url:https://jobright.ai/jobs/info/6acfad00c0dd9da253cf3dfe",
       "jobright-252eee4244bf",
@@ -32852,7 +32846,13 @@
       "jobright-0fc42ec2d029",
       "url:https://jobright.ai/jobs/info/6aa1a9e00ffb3d4fea6b662a",
       "jobright-6cfbf9a07243",
-      "url:https://jobright.ai/jobs/info/6af72d4a41166cab756489e3"
+      "url:https://jobright.ai/jobs/info/6af72d4a41166cab756489e3",
+      "greenhouse-airbnb-8386065",
+      "url:https://careers.airbnb.com/positions/8386065",
+      "jobright-3f18f2d17bd8",
+      "url:https://jobright.ai/jobs/info/6af73a058242286400642e24",
+      "jobright-4a1f578780ad",
+      "url:https://jobright.ai/jobs/info/6af73318e3d8d612bf420ce2"
     ]
   }
 }
