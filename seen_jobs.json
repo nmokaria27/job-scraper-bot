@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-snowflake-b6fed204-3317-43ba-b87b-f045e4cf8d68",
-      "seen_at": "2026-10-14T00:31:09.280228+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68",
-      "seen_at": "2026-10-14T00:31:09.281095+00:00"
-    },
-    {
-      "id": "amazon-10578122",
-      "seen_at": "2026-10-14T00:31:09.281668+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10578122/software-development-engineer-amazon-leo-gbo-engineering",
-      "seen_at": "2026-10-14T00:31:09.282133+00:00"
-    },
-    {
       "id": "jobright-ee54e774c218",
       "seen_at": "2026-10-14T01:01:17.846858+00:00"
     },
@@ -26431,10 +26415,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-affirm-8181183003",
       "seen_at": "2026-11-13T00:31:13.479939+00:00"
+    },
+    {
+      "id": "amazon-10602771",
+      "seen_at": "2026-11-13T01:01:54.919127+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10602771/applied-scientist-sponsored-products-and-brands",
+      "seen_at": "2026-11-13T01:01:54.919458+00:00"
+    },
+    {
+      "id": "jobright-dbb31354e394",
+      "seen_at": "2026-11-13T01:01:54.919722+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af648d7323c531f31e31de3",
+      "seen_at": "2026-11-13T01:01:54.919982+00:00"
+    },
+    {
+      "id": "zapply-66ad573327e1",
+      "seen_at": "2026-11-13T01:01:56.468423+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/apple-200694612",
+      "seen_at": "2026-11-13T01:01:56.468729+00:00"
     }
   ],
-  "last_run": "2026-11-13T00:31:14.447397+00:00",
-  "total_notified": 12442,
+  "last_run": "2026-11-13T01:01:57.103464+00:00",
+  "total_notified": 12445,
   "channels": {
     "pm-jobs": [
       "workday-adobe-R172087",
@@ -27589,13 +27597,11 @@
       "zapply-1bbe97728fe0",
       "url:https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050962",
       "zapply-c02489434509",
-      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000161395829"
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000161395829",
+      "zapply-66ad573327e1",
+      "url:https://zapply.jobs/l/d/apple-200694612"
     ],
     "swe-ai-full-time": [
-      "ashby-snowflake-b6fed204-3317-43ba-b87b-f045e4cf8d68",
-      "url:https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68",
-      "amazon-10578122",
-      "url:https://www.amazon.jobs/en/jobs/10578122/software-development-engineer-amazon-leo-gbo-engineering",
       "jobright-ee54e774c218",
       "url:https://jobright.ai/jobs/info/6acebc5f4391691a335ae620",
       "ashby-elevenlabs-6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
@@ -33051,7 +33057,11 @@
       "amazon-10603920",
       "url:https://www.amazon.jobs/en/jobs/10603920/software-dev-engineer-antenna-calibration-amazon-leo",
       "zapply-c96997326020",
-      "url:https://zapply.jobs/l/d/greenhouse-affirm-8181183003"
+      "url:https://zapply.jobs/l/d/greenhouse-affirm-8181183003",
+      "amazon-10602771",
+      "url:https://www.amazon.jobs/en/jobs/10602771/applied-scientist-sponsored-products-and-brands",
+      "jobright-dbb31354e394",
+      "url:https://jobright.ai/jobs/info/6af648d7323c531f31e31de3"
     ]
   }
 }
