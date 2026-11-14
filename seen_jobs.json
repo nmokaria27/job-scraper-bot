@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-7c4768777023",
-      "seen_at": "2026-10-15T15:01:29.333175+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa8ee5a6d0edc2d91b07f62",
-      "seen_at": "2026-10-15T15:01:29.333517+00:00"
-    },
-    {
       "id": "zapply-16b7bf96a113",
       "seen_at": "2026-10-15T15:31:16.002762+00:00"
     },
@@ -26009,12 +26001,10 @@
       "seen_at": "2026-11-14T14:01:02.052002+00:00"
     }
   ],
-  "last_run": "2026-11-14T15:00:51.544369+00:00",
+  "last_run": "2026-11-14T15:31:09.138550+00:00",
   "total_notified": 12573,
   "channels": {
     "pm-jobs": [
-      "jobright-7c4768777023",
-      "url:https://jobright.ai/jobs/info/6aa8ee5a6d0edc2d91b07f62",
       "zapply-d0a99e653653",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026192",
       "greenhouse-datadog-8268065",
