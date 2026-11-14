@@ -26135,10 +26135,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af7935ec7349029d709765b",
       "seen_at": "2026-11-14T01:01:02.481379+00:00"
+    },
+    {
+      "id": "zapply-06c0317120fe",
+      "seen_at": "2026-11-14T01:31:02.736467+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050116",
+      "seen_at": "2026-11-14T01:31:02.736998+00:00"
+    },
+    {
+      "id": "ashby-baseten-bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0",
+      "seen_at": "2026-11-14T01:31:02.737427+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0",
+      "seen_at": "2026-11-14T01:31:02.737781+00:00"
+    },
+    {
+      "id": "amazon-10605142",
+      "seen_at": "2026-11-14T01:31:02.738145+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10605142/software-development-engineer-aws",
+      "seen_at": "2026-11-14T01:31:02.738517+00:00"
     }
   ],
-  "last_run": "2026-11-14T01:01:03.221797+00:00",
-  "total_notified": 12551,
+  "last_run": "2026-11-14T01:31:03.464372+00:00",
+  "total_notified": 12554,
   "channels": {
     "pm-jobs": [
       "greenhouse-anthropic-5453262008",
@@ -32682,7 +32706,13 @@
       "jobright-95141a1eefc3",
       "url:https://jobright.ai/jobs/info/6af79a7dd0eefb7d11b8e623",
       "jobright-cde6d8301785",
-      "url:https://jobright.ai/jobs/info/6af798dd824228640064715f"
+      "url:https://jobright.ai/jobs/info/6af798dd824228640064715f",
+      "zapply-06c0317120fe",
+      "url:https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050116",
+      "ashby-baseten-bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0",
+      "url:https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0",
+      "amazon-10605142",
+      "url:https://www.amazon.jobs/en/jobs/10605142/software-development-engineer-aws"
     ]
   }
 }
