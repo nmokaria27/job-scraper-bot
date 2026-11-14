@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-nvidia-JR2019685",
-      "seen_at": "2026-10-15T22:31:09.612026+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685",
-      "seen_at": "2026-10-15T22:31:09.612492+00:00"
-    },
-    {
       "id": "greenhouse-anthropic-5454673008",
       "seen_at": "2026-10-15T23:01:18.801364+00:00"
     },
@@ -25519,10 +25511,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a96f255e4e60e4b8da5ad8b",
       "seen_at": "2026-11-14T21:01:08.679137+00:00"
+    },
+    {
+      "id": "jobright-26ddfa0412d1",
+      "seen_at": "2026-11-14T23:01:07.160227+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af501f41b2c5dcbbcd66242",
+      "seen_at": "2026-11-14T23:01:07.161140+00:00"
     }
   ],
-  "last_run": "2026-11-14T22:31:04.628791+00:00",
-  "total_notified": 12577,
+  "last_run": "2026-11-14T23:01:07.835273+00:00",
+  "total_notified": 12578,
   "channels": {
     "pm-jobs": [
       "ashby-benchling-33c6c504-9ca4-4cae-8ebc-cfc55127b2bf",
@@ -26641,8 +26641,6 @@
       "url:https://jobright.ai/jobs/info/6af7e7f54ddfc50167b94b91"
     ],
     "swe-ai-full-time": [
-      "workday-nvidia-JR2019685",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685",
       "greenhouse-anthropic-5454673008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
       "greenhouse-anthropic-5454650008",
@@ -31912,7 +31910,9 @@
       "jobright-86379d7a20a9",
       "url:https://jobright.ai/jobs/info/6af861c8cb5a5d4a77fcbbcc",
       "jobright-c743511498fc",
-      "url:https://jobright.ai/jobs/info/6a96f255e4e60e4b8da5ad8b"
+      "url:https://jobright.ai/jobs/info/6a96f255e4e60e4b8da5ad8b",
+      "jobright-26ddfa0412d1",
+      "url:https://jobright.ai/jobs/info/6af501f41b2c5dcbbcd66242"
     ]
   }
 }
