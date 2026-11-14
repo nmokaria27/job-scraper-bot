@@ -1,86 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-nousresearch-170e061a-5df1-420c-84df-c2d20ef93dbd",
-      "seen_at": "2026-10-15T19:01:26.200605+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/nousresearch/170e061a-5df1-420c-84df-c2d20ef93dbd",
-      "seen_at": "2026-10-15T19:01:26.201476+00:00"
-    },
-    {
-      "id": "jobright-259fec3c1a5e",
-      "seen_at": "2026-10-15T19:01:26.202239+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad105f0e2d41540d4a6d7c5",
-      "seen_at": "2026-10-15T19:01:26.202954+00:00"
-    },
-    {
-      "id": "jobright-4ea5a176e92b",
-      "seen_at": "2026-10-15T19:01:26.203678+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad10220256e49282e651ad0",
-      "seen_at": "2026-10-15T19:01:26.204382+00:00"
-    },
-    {
-      "id": "jobright-bb903c8d0fab",
-      "seen_at": "2026-10-15T19:01:26.205129+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a541bca8ef95364ead9484e",
-      "seen_at": "2026-10-15T19:01:26.205814+00:00"
-    },
-    {
-      "id": "jobright-1f13f6f4352e",
-      "seen_at": "2026-10-15T19:01:26.206402+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7cf5eadc3dff2d1c0ca254",
-      "seen_at": "2026-10-15T19:01:26.206969+00:00"
-    },
-    {
-      "id": "jobright-f3fd740f3943",
-      "seen_at": "2026-10-15T19:01:26.207542+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a974d59f5337b2cf7321665",
-      "seen_at": "2026-10-15T19:01:26.208110+00:00"
-    },
-    {
-      "id": "jobright-1caf2a5e085e",
-      "seen_at": "2026-10-15T19:01:26.208680+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a972026f5337b2cf73202ab",
-      "seen_at": "2026-10-15T19:01:26.209252+00:00"
-    },
-    {
-      "id": "amazon-10580426",
-      "seen_at": "2026-10-15T19:01:26.209839+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10580426/software-development-engineer-customer-experience-improvement-defect-enrichment",
-      "seen_at": "2026-10-15T19:01:26.210384+00:00"
-    },
-    {
-      "id": "ashby-decagon-63face0d-b26a-4ea7-b03d-2fa842013063",
-      "seen_at": "2026-10-15T19:01:28.155139+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/decagon/63face0d-b26a-4ea7-b03d-2fa842013063",
-      "seen_at": "2026-10-15T19:01:28.155903+00:00"
-    },
-    {
-      "id": "zapply-87346ab8d72e",
-      "seen_at": "2026-10-15T19:01:28.156577+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230266",
-      "seen_at": "2026-10-15T19:01:28.157221+00:00"
-    },
-    {
       "id": "amazon-10580456",
       "seen_at": "2026-10-15T19:31:19.115822+00:00"
     },
@@ -25833,14 +25753,10 @@
       "seen_at": "2026-11-14T19:01:25.908863+00:00"
     }
   ],
-  "last_run": "2026-11-14T19:01:26.619220+00:00",
+  "last_run": "2026-11-14T19:31:12.414135+00:00",
   "total_notified": 12576,
   "channels": {
     "pm-jobs": [
-      "ashby-decagon-63face0d-b26a-4ea7-b03d-2fa842013063",
-      "url:https://jobs.ashbyhq.com/decagon/63face0d-b26a-4ea7-b03d-2fa842013063",
-      "zapply-87346ab8d72e",
-      "url:https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230266",
       "zapply-0435b9f4bcfb",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800051",
       "zapply-b74efc8adb6d",
@@ -26969,22 +26885,6 @@
       "url:https://jobright.ai/jobs/info/6af7e7f54ddfc50167b94b91"
     ],
     "swe-ai-full-time": [
-      "ashby-nousresearch-170e061a-5df1-420c-84df-c2d20ef93dbd",
-      "url:https://jobs.ashbyhq.com/nousresearch/170e061a-5df1-420c-84df-c2d20ef93dbd",
-      "jobright-259fec3c1a5e",
-      "url:https://jobright.ai/jobs/info/6ad105f0e2d41540d4a6d7c5",
-      "jobright-4ea5a176e92b",
-      "url:https://jobright.ai/jobs/info/6ad10220256e49282e651ad0",
-      "jobright-bb903c8d0fab",
-      "url:https://jobright.ai/jobs/info/6a541bca8ef95364ead9484e",
-      "jobright-1f13f6f4352e",
-      "url:https://jobright.ai/jobs/info/6a7cf5eadc3dff2d1c0ca254",
-      "jobright-f3fd740f3943",
-      "url:https://jobright.ai/jobs/info/6a974d59f5337b2cf7321665",
-      "jobright-1caf2a5e085e",
-      "url:https://jobright.ai/jobs/info/6a972026f5337b2cf73202ab",
-      "amazon-10580426",
-      "url:https://www.amazon.jobs/en/jobs/10580426/software-development-engineer-customer-experience-improvement-defect-enrichment",
       "amazon-10580456",
       "url:https://www.amazon.jobs/en/jobs/10580456/software-development-engineer-aws-fraud-prevention",
       "jobright-6d015114670a",
