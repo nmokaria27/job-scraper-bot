@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-4fa84a64afcb",
-      "seen_at": "2026-10-15T16:31:26.344921+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-twitch-8887222002",
-      "seen_at": "2026-10-15T16:31:26.345404+00:00"
-    },
-    {
       "id": "jobright-c38a10b08da8",
       "seen_at": "2026-10-15T17:01:22.944152+00:00"
     },
@@ -25935,10 +25927,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af84b83cb5a5d4a77fcac75",
       "seen_at": "2026-11-14T14:01:02.052002+00:00"
+    },
+    {
+      "id": "ashby-openai-73875295-889e-4373-b20f-654e85c66ba4",
+      "seen_at": "2026-11-14T17:00:36.828215+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/73875295-889e-4373-b20f-654e85c66ba4",
+      "seen_at": "2026-11-14T17:00:36.828628+00:00"
+    },
+    {
+      "id": "jobright-72b94573b0d3",
+      "seen_at": "2026-11-14T17:00:36.828975+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af7921dd0eefb7d11b8e147",
+      "seen_at": "2026-11-14T17:00:36.829282+00:00"
     }
   ],
-  "last_run": "2026-11-14T16:30:54.045158+00:00",
-  "total_notified": 12573,
+  "last_run": "2026-11-14T17:00:37.669470+00:00",
+  "total_notified": 12575,
   "channels": {
     "pm-jobs": [
       "zapply-b76b356627b1",
@@ -27083,8 +27091,6 @@
       "url:https://jobright.ai/jobs/info/6af7e7f54ddfc50167b94b91"
     ],
     "swe-ai-full-time": [
-      "zapply-4fa84a64afcb",
-      "url:https://zapply.jobs/l/d/greenhouse-twitch-8887222002",
       "jobright-c38a10b08da8",
       "url:https://jobright.ai/jobs/info/6aa854b4930bff471a2a68a4",
       "jobright-c1fd7a7ab9e3",
@@ -32432,7 +32438,11 @@
       "jobright-d42d3a1b2380",
       "url:https://jobright.ai/jobs/info/6a86674ccc81eb647e9f2b59",
       "jobright-cefb6448141c",
-      "url:https://jobright.ai/jobs/info/6af84b83cb5a5d4a77fcac75"
+      "url:https://jobright.ai/jobs/info/6af84b83cb5a5d4a77fcac75",
+      "ashby-openai-73875295-889e-4373-b20f-654e85c66ba4",
+      "url:https://jobs.ashbyhq.com/openai/73875295-889e-4373-b20f-654e85c66ba4",
+      "jobright-72b94573b0d3",
+      "url:https://jobright.ai/jobs/info/6af7921dd0eefb7d11b8e147"
     ]
   }
 }
