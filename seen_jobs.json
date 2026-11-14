@@ -1,70 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-affirm-8017340003",
-      "seen_at": "2026-10-15T22:01:30.659342+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/affirm/jobs/8017340003",
-      "seen_at": "2026-10-15T22:01:30.660006+00:00"
-    },
-    {
-      "id": "jobright-7c921353c76c",
-      "seen_at": "2026-10-15T22:01:30.660602+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad13223e2d41540d4a6eea9",
-      "seen_at": "2026-10-15T22:01:30.661130+00:00"
-    },
-    {
-      "id": "jobright-b52ac824f9dd",
-      "seen_at": "2026-10-15T22:01:30.661740+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad13103256e49282e653541",
-      "seen_at": "2026-10-15T22:01:30.662267+00:00"
-    },
-    {
-      "id": "jobright-d74b6a1a5c68",
-      "seen_at": "2026-10-15T22:01:30.662817+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad12bb0e2d41540d4a6ec85",
-      "seen_at": "2026-10-15T22:01:30.663338+00:00"
-    },
-    {
-      "id": "jobright-c097f2fb630d",
-      "seen_at": "2026-10-15T22:01:30.663902+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad132493d3a5aa909b3892f",
-      "seen_at": "2026-10-15T22:01:30.664438+00:00"
-    },
-    {
-      "id": "zapply-52c5ccf4d9ff",
-      "seen_at": "2026-10-15T22:01:32.636036+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210785811",
-      "seen_at": "2026-10-15T22:01:32.636621+00:00"
-    },
-    {
-      "id": "ashby-etched-85731463-f580-48dc-870b-5ba305a22fe4",
-      "seen_at": "2026-10-15T22:13:24.460884+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/etched/85731463-f580-48dc-870b-5ba305a22fe4",
-      "seen_at": "2026-10-15T22:13:24.461378+00:00"
-    },
-    {
-      "id": "jobright-185820e7d26a",
-      "seen_at": "2026-10-15T22:13:26.173475+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa9925e6d0edc2d91b0a341",
-      "seen_at": "2026-10-15T22:13:26.173875+00:00"
-    },
-    {
       "id": "workday-nvidia-JR2019685",
       "seen_at": "2026-10-15T22:31:09.612026+00:00"
     },
@@ -25585,14 +25521,10 @@
       "seen_at": "2026-11-14T21:01:08.679137+00:00"
     }
   ],
-  "last_run": "2026-11-14T22:01:15.803518+00:00",
+  "last_run": "2026-11-14T22:31:04.628791+00:00",
   "total_notified": 12577,
   "channels": {
     "pm-jobs": [
-      "zapply-52c5ccf4d9ff",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210785811",
-      "jobright-185820e7d26a",
-      "url:https://jobright.ai/jobs/info/6aa9925e6d0edc2d91b0a341",
       "ashby-benchling-33c6c504-9ca4-4cae-8ebc-cfc55127b2bf",
       "url:https://jobs.ashbyhq.com/benchling/33c6c504-9ca4-4cae-8ebc-cfc55127b2bf",
       "ashby-Ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a",
@@ -26709,18 +26641,6 @@
       "url:https://jobright.ai/jobs/info/6af7e7f54ddfc50167b94b91"
     ],
     "swe-ai-full-time": [
-      "greenhouse-affirm-8017340003",
-      "url:https://job-boards.greenhouse.io/affirm/jobs/8017340003",
-      "jobright-7c921353c76c",
-      "url:https://jobright.ai/jobs/info/6ad13223e2d41540d4a6eea9",
-      "jobright-b52ac824f9dd",
-      "url:https://jobright.ai/jobs/info/6ad13103256e49282e653541",
-      "jobright-d74b6a1a5c68",
-      "url:https://jobright.ai/jobs/info/6ad12bb0e2d41540d4a6ec85",
-      "jobright-c097f2fb630d",
-      "url:https://jobright.ai/jobs/info/6ad132493d3a5aa909b3892f",
-      "ashby-etched-85731463-f580-48dc-870b-5ba305a22fe4",
-      "url:https://jobs.ashbyhq.com/etched/85731463-f580-48dc-870b-5ba305a22fe4",
       "workday-nvidia-JR2019685",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685",
       "greenhouse-anthropic-5454673008",
