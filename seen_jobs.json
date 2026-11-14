@@ -26087,10 +26087,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af7e7f54ddfc50167b94b91",
       "seen_at": "2026-11-14T11:00:52.048312+00:00"
+    },
+    {
+      "id": "jobright-8405756c6a6a",
+      "seen_at": "2026-11-14T12:00:51.067052+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6accb9893c831dc4086bf1b9",
+      "seen_at": "2026-11-14T12:00:51.067543+00:00"
+    },
+    {
+      "id": "jobright-5cced2661f37",
+      "seen_at": "2026-11-14T12:00:51.068038+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af78d863ba46d7b6c167edf",
+      "seen_at": "2026-11-14T12:00:51.068458+00:00"
     }
   ],
-  "last_run": "2026-11-14T11:31:09.659606+00:00",
-  "total_notified": 12568,
+  "last_run": "2026-11-14T12:00:52.008593+00:00",
+  "total_notified": 12570,
   "channels": {
     "pm-jobs": [
       "zapply-b9d384c7874a",
@@ -32622,7 +32638,11 @@
       "jobright-759d379497cf",
       "url:https://jobright.ai/jobs/info/6af781b741166cab7564c576",
       "gradtracker-49030b66708f",
-      "url:https://careers.qualcomm.com/careers/job/446718593091"
+      "url:https://careers.qualcomm.com/careers/job/446718593091",
+      "jobright-8405756c6a6a",
+      "url:https://jobright.ai/jobs/info/6accb9893c831dc4086bf1b9",
+      "jobright-5cced2661f37",
+      "url:https://jobright.ai/jobs/info/6af78d863ba46d7b6c167edf"
     ]
   }
 }
