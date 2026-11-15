@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-Ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a",
-      "seen_at": "2026-10-16T00:43:17.352164+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/Ashby/390e266b-4b6c-4490-ad74-05ff5e0bb36a",
-      "seen_at": "2026-10-16T00:43:17.352505+00:00"
-    },
-    {
       "id": "jobright-3f2dd3d3063f",
       "seen_at": "2026-10-16T01:01:17.143914+00:00"
     },
@@ -25399,14 +25391,20 @@
     {
       "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
       "seen_at": "2026-11-15T00:31:09.743002+00:00"
+    },
+    {
+      "id": "jobright-f535c7479f9f",
+      "seen_at": "2026-11-15T01:01:24.045533+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af8ef641465de0d45f83711",
+      "seen_at": "2026-11-15T01:01:24.045986+00:00"
     }
   ],
-  "last_run": "2026-11-15T00:31:10.207867+00:00",
-  "total_notified": 12580,
+  "last_run": "2026-11-15T01:01:24.414721+00:00",
+  "total_notified": 12581,
   "channels": {
     "pm-jobs": [
-      "ashby-Ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a",
-      "url:https://jobs.ashbyhq.com/Ashby/390e266b-4b6c-4490-ad74-05ff5e0bb36a",
       "zapply-8df272faa44a",
       "url:https://zapply.jobs/l/d/ashby-ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a",
       "greenhouse-doordashusa-8289029",
@@ -31762,7 +31760,9 @@
       "zapply-b2bc10e6d07e",
       "url:https://zapply.jobs/l/d/greenhouse-twitch-8943553002",
       "workday-nvidia-JR2026129",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
+      "jobright-f535c7479f9f",
+      "url:https://jobright.ai/jobs/info/6af8ef641465de0d45f83711"
     ]
   }
 }
