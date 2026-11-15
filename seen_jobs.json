@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-1f3fca318a7c",
-      "seen_at": "2026-10-16T10:01:36.787666+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cmegroup-cme-careers-33119",
-      "seen_at": "2026-10-16T10:01:36.788096+00:00"
-    },
-    {
-      "id": "jobright-60b291515ee7",
-      "seen_at": "2026-10-16T10:01:36.788448+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad17b0be2d41540d4a70f47",
-      "seen_at": "2026-10-16T10:01:36.788795+00:00"
-    },
-    {
-      "id": "jobright-b2ad4a50c6ae",
-      "seen_at": "2026-10-16T10:01:36.789130+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad1d846097baf4fb049e28a",
-      "seen_at": "2026-10-16T10:01:36.789449+00:00"
-    },
-    {
-      "id": "jobright-967ecae10eb2",
-      "seen_at": "2026-10-16T10:01:36.789780+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad158033d3a5aa909b39ee7",
-      "seen_at": "2026-10-16T10:01:36.790088+00:00"
-    },
-    {
-      "id": "jobright-d527a748efdc",
-      "seen_at": "2026-10-16T10:01:36.790401+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad18d16c24514d0596ccf99",
-      "seen_at": "2026-10-16T10:01:36.790710+00:00"
-    },
-    {
       "id": "zapply-81b244e227d9",
       "seen_at": "2026-10-16T11:01:25.390071+00:00"
     },
@@ -25319,10 +25279,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6acfaba7c9f40bec907fd659",
       "seen_at": "2026-11-15T03:01:49.131124+00:00"
+    },
+    {
+      "id": "jobright-ed1a81b9f4db",
+      "seen_at": "2026-11-15T11:01:06.590192+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af77cf1e3d8d612bf424156",
+      "seen_at": "2026-11-15T11:01:06.590815+00:00"
+    },
+    {
+      "id": "jobright-5ee96f1fd675",
+      "seen_at": "2026-11-15T11:01:06.591322+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af974d71465de0d45f8444c",
+      "seen_at": "2026-11-15T11:01:06.591818+00:00"
+    },
+    {
+      "id": "amazon-10605448",
+      "seen_at": "2026-11-15T11:01:06.592282+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10605448/software-development-engineer-live-and-linear-catalog",
+      "seen_at": "2026-11-15T11:01:06.592694+00:00"
+    },
+    {
+      "id": "amazon-10605453",
+      "seen_at": "2026-11-15T11:01:06.593112+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10605453/machine-learning-engineer-creativeflux-ai-studios",
+      "seen_at": "2026-11-15T11:01:06.593537+00:00"
+    },
+    {
+      "id": "jobright-8f31edf70162",
+      "seen_at": "2026-11-15T11:01:06.593956+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af920d65c0a9086f3614611",
+      "seen_at": "2026-11-15T11:01:06.594386+00:00"
     }
   ],
-  "last_run": "2026-11-15T04:31:08.314485+00:00",
-  "total_notified": 12585,
+  "last_run": "2026-11-15T11:01:06.921012+00:00",
+  "total_notified": 12590,
   "channels": {
     "pm-jobs": [
       "greenhouse-doordashusa-8289029",
@@ -26435,16 +26435,6 @@
       "url:https://jobright.ai/jobs/info/6af7e7f54ddfc50167b94b91"
     ],
     "swe-ai-full-time": [
-      "zapply-1f3fca318a7c",
-      "url:https://zapply.jobs/l/d/workday-cmegroup-cme-careers-33119",
-      "jobright-60b291515ee7",
-      "url:https://jobright.ai/jobs/info/6ad17b0be2d41540d4a70f47",
-      "jobright-b2ad4a50c6ae",
-      "url:https://jobright.ai/jobs/info/6ad1d846097baf4fb049e28a",
-      "jobright-967ecae10eb2",
-      "url:https://jobright.ai/jobs/info/6ad158033d3a5aa909b39ee7",
-      "jobright-d527a748efdc",
-      "url:https://jobright.ai/jobs/info/6ad18d16c24514d0596ccf99",
       "zapply-81b244e227d9",
       "url:https://zapply.jobs/l/d/greenhouse-spacex-8893406002",
       "jobright-c51f4849015c",
@@ -31662,7 +31652,17 @@
       "jobright-ffcee497c3c4",
       "url:https://jobright.ai/jobs/info/6ac14c8cd9621c5b28398f04",
       "jobright-252eee4244bf",
-      "url:https://jobright.ai/jobs/info/6acfaba7c9f40bec907fd659"
+      "url:https://jobright.ai/jobs/info/6acfaba7c9f40bec907fd659",
+      "jobright-ed1a81b9f4db",
+      "url:https://jobright.ai/jobs/info/6af77cf1e3d8d612bf424156",
+      "jobright-5ee96f1fd675",
+      "url:https://jobright.ai/jobs/info/6af974d71465de0d45f8444c",
+      "amazon-10605448",
+      "url:https://www.amazon.jobs/en/jobs/10605448/software-development-engineer-live-and-linear-catalog",
+      "amazon-10605453",
+      "url:https://www.amazon.jobs/en/jobs/10605453/machine-learning-engineer-creativeflux-ai-studios",
+      "jobright-8f31edf70162",
+      "url:https://jobright.ai/jobs/info/6af920d65c0a9086f3614611"
     ]
   }
 }
