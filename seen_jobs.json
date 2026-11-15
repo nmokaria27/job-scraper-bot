@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-413d6cf6126b",
-      "seen_at": "2026-10-16T13:01:40.619528+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5216648576ec69c014a596",
-      "seen_at": "2026-10-16T13:01:40.620253+00:00"
-    },
-    {
       "id": "workday-salesforce-JR362928",
       "seen_at": "2026-10-16T13:31:18.173206+00:00"
     },
@@ -25297,7 +25289,7 @@
       "seen_at": "2026-11-15T13:01:12.139734+00:00"
     }
   ],
-  "last_run": "2026-11-15T13:01:12.554186+00:00",
+  "last_run": "2026-11-15T13:31:04.051859+00:00",
   "total_notified": 12591,
   "channels": {
     "pm-jobs": [
@@ -26411,8 +26403,6 @@
       "url:https://jobright.ai/jobs/info/6af7e7f54ddfc50167b94b91"
     ],
     "swe-ai-full-time": [
-      "jobright-413d6cf6126b",
-      "url:https://jobright.ai/jobs/info/6a5216648576ec69c014a596",
       "workday-salesforce-JR362928",
       "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Austin/Digital-Success-Analytics-Engineer_JR362928-1",
       "amazon-10581340",
