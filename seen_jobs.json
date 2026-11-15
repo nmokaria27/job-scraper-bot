@@ -25343,10 +25343,26 @@
     {
       "id": "url:https://go.vansh.nyc/1zO",
       "seen_at": "2026-11-15T01:31:07.172202+00:00"
+    },
+    {
+      "id": "jobright-ffcee497c3c4",
+      "seen_at": "2026-11-15T03:01:49.129637+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac14c8cd9621c5b28398f04",
+      "seen_at": "2026-11-15T03:01:49.130206+00:00"
+    },
+    {
+      "id": "jobright-252eee4244bf",
+      "seen_at": "2026-11-15T03:01:49.130668+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfaba7c9f40bec907fd659",
+      "seen_at": "2026-11-15T03:01:49.131124+00:00"
     }
   ],
-  "last_run": "2026-11-15T02:31:01.676366+00:00",
-  "total_notified": 12583,
+  "last_run": "2026-11-15T03:01:49.563326+00:00",
+  "total_notified": 12585,
   "channels": {
     "pm-jobs": [
       "greenhouse-doordashusa-8289029",
@@ -31692,7 +31708,11 @@
       "ashby-perplexity-10a51134-6741-40ec-8cca-a8ac1534673b",
       "url:https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b",
       "simplify-1c056340-a057-4f3e-a0c6-a22b4280495c",
-      "url:https://go.vansh.nyc/1zO"
+      "url:https://go.vansh.nyc/1zO",
+      "jobright-ffcee497c3c4",
+      "url:https://jobright.ai/jobs/info/6ac14c8cd9621c5b28398f04",
+      "jobright-252eee4244bf",
+      "url:https://jobright.ai/jobs/info/6acfaba7c9f40bec907fd659"
     ]
   }
 }
