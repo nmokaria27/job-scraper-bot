@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10581465",
-      "seen_at": "2026-10-16T16:31:38.347998+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10581465/supply-chain-product-manager-ee",
-      "seen_at": "2026-10-16T16:31:38.348626+00:00"
-    },
-    {
       "id": "amazon-10581525",
       "seen_at": "2026-10-16T17:31:19.774073+00:00"
     },
@@ -25257,12 +25249,10 @@
       "seen_at": "2026-11-15T16:31:12.906044+00:00"
     }
   ],
-  "last_run": "2026-11-15T16:31:13.330446+00:00",
+  "last_run": "2026-11-15T17:00:59.901965+00:00",
   "total_notified": 12596,
   "channels": {
     "pm-jobs": [
-      "amazon-10581465",
-      "url:https://www.amazon.jobs/en/jobs/10581465/supply-chain-product-manager-ee",
       "jobright-77ff453be64c",
       "url:https://jobright.ai/jobs/info/6ad24d61f04335fc70ed47af",
       "zapply-7fcc75e8a6f8",
