@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-3f2dd3d3063f",
-      "seen_at": "2026-10-16T01:01:17.143914+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad15be0e2d41540d4a7062f",
-      "seen_at": "2026-10-16T01:01:17.144290+00:00"
-    },
-    {
-      "id": "jobright-8bb47a57669c",
-      "seen_at": "2026-10-16T01:01:17.144604+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a8fe7e88ffa38557e6ca964",
-      "seen_at": "2026-10-16T01:01:17.144895+00:00"
-    },
-    {
-      "id": "zapply-8df272faa44a",
-      "seen_at": "2026-10-16T01:01:21.962598+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a",
-      "seen_at": "2026-10-16T01:01:21.962938+00:00"
-    },
-    {
       "id": "simplify-d1f50127-9dc7-4b88-a4ae-bffdc7c84812",
       "seen_at": "2026-10-16T02:01:20.603090+00:00"
     },
@@ -25399,14 +25375,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af8ef641465de0d45f83711",
       "seen_at": "2026-11-15T01:01:24.045986+00:00"
+    },
+    {
+      "id": "ashby-perplexity-10a51134-6741-40ec-8cca-a8ac1534673b",
+      "seen_at": "2026-11-15T01:17:36.834583+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b",
+      "seen_at": "2026-11-15T01:17:36.835102+00:00"
     }
   ],
-  "last_run": "2026-11-15T01:01:24.414721+00:00",
-  "total_notified": 12581,
+  "last_run": "2026-11-15T01:17:37.346597+00:00",
+  "total_notified": 12582,
   "channels": {
     "pm-jobs": [
-      "zapply-8df272faa44a",
-      "url:https://zapply.jobs/l/d/ashby-ashby-390e266b-4b6c-4490-ad74-05ff5e0bb36a",
       "greenhouse-doordashusa-8289029",
       "url:https://job-boards.greenhouse.io/doordashusa/jobs/8289029",
       "ashby-clickhouse-adf52ecd-e075-4a65-89b9-d129960b67f5",
@@ -26517,10 +26499,6 @@
       "url:https://jobright.ai/jobs/info/6af7e7f54ddfc50167b94b91"
     ],
     "swe-ai-full-time": [
-      "jobright-3f2dd3d3063f",
-      "url:https://jobright.ai/jobs/info/6ad15be0e2d41540d4a7062f",
-      "jobright-8bb47a57669c",
-      "url:https://jobright.ai/jobs/info/6a8fe7e88ffa38557e6ca964",
       "simplify-d1f50127-9dc7-4b88-a4ae-bffdc7c84812",
       "url:https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
       "applyguy-76520ed8-44e4-4518-94dc-d3430c7fb4a7",
@@ -31762,7 +31740,9 @@
       "workday-nvidia-JR2026129",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
       "jobright-f535c7479f9f",
-      "url:https://jobright.ai/jobs/info/6af8ef641465de0d45f83711"
+      "url:https://jobright.ai/jobs/info/6af8ef641465de0d45f83711",
+      "ashby-perplexity-10a51134-6741-40ec-8cca-a8ac1534673b",
+      "url:https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b"
     ]
   }
 }
