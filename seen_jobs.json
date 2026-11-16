@@ -24751,10 +24751,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202623833",
       "seen_at": "2026-11-16T12:01:19.101237+00:00"
+    },
+    {
+      "id": "jobright-a05430bec2d4",
+      "seen_at": "2026-11-16T15:02:04.473089+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a91dc73c12c90443efc8936",
+      "seen_at": "2026-11-16T15:02:04.473536+00:00"
+    },
+    {
+      "id": "jobright-a1b52e9b92c1",
+      "seen_at": "2026-11-16T15:02:04.473919+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab715e5ba1c25652c6112d1",
+      "seen_at": "2026-11-16T15:02:04.474246+00:00"
+    },
+    {
+      "id": "jobright-7b4fb7b83847",
+      "seen_at": "2026-11-16T15:02:04.474560+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a88c600d34f700f87fca7d2",
+      "seen_at": "2026-11-16T15:02:04.474864+00:00"
+    },
+    {
+      "id": "jobright-753f61ce18fc",
+      "seen_at": "2026-11-16T15:02:08.009657+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab7165d62bb1fbd451dd0df",
+      "seen_at": "2026-11-16T15:02:08.010032+00:00"
+    },
+    {
+      "id": "jobright-de0597e81850",
+      "seen_at": "2026-11-16T15:02:08.010357+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a91e328a27a2d3c9848a81f",
+      "seen_at": "2026-11-16T15:02:08.010643+00:00"
+    },
+    {
+      "id": "jobright-647a5cae1e41",
+      "seen_at": "2026-11-16T15:02:08.010923+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afa6e3b1465de0d45f864d0",
+      "seen_at": "2026-11-16T15:02:08.011204+00:00"
     }
   ],
-  "last_run": "2026-11-16T14:31:18.698581+00:00",
-  "total_notified": 12607,
+  "last_run": "2026-11-16T15:02:08.201064+00:00",
+  "total_notified": 12613,
   "channels": {
     "pm-jobs": [
       "zapply-2e43c9e47989",
@@ -25846,7 +25894,13 @@
       "zapply-a67f2b4b2664",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027352",
       "zapply-a47a765ffbaf",
-      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202623833"
+      "url:https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202623833",
+      "jobright-753f61ce18fc",
+      "url:https://jobright.ai/jobs/info/6ab7165d62bb1fbd451dd0df",
+      "jobright-de0597e81850",
+      "url:https://jobright.ai/jobs/info/6a91e328a27a2d3c9848a81f",
+      "jobright-647a5cae1e41",
+      "url:https://jobright.ai/jobs/info/6afa6e3b1465de0d45f864d0"
     ],
     "swe-ai-full-time": [
       "jobright-4b9320f7227e",
@@ -30952,7 +31006,13 @@
       "simplify-6bbdf60e-d9e3-4db2-ae28-9e16027401bc",
       "url:https://ats.rippling.com/ams/jobs/26e20c0b-d1ba-4a4e-8a04-707855517f49",
       "ashby-reflectionai-5c614820-83b4-49ad-bb6d-0d49f09c078b",
-      "url:https://jobs.ashbyhq.com/reflectionai/5c614820-83b4-49ad-bb6d-0d49f09c078b"
+      "url:https://jobs.ashbyhq.com/reflectionai/5c614820-83b4-49ad-bb6d-0d49f09c078b",
+      "jobright-a05430bec2d4",
+      "url:https://jobright.ai/jobs/info/6a91dc73c12c90443efc8936",
+      "jobright-a1b52e9b92c1",
+      "url:https://jobright.ai/jobs/info/6ab715e5ba1c25652c6112d1",
+      "jobright-7b4fb7b83847",
+      "url:https://jobright.ai/jobs/info/6a88c600d34f700f87fca7d2"
     ]
   }
 }
