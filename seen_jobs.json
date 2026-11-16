@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-2e43c9e47989",
-      "seen_at": "2026-10-17T15:31:19.821345+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amd-93245",
-      "seen_at": "2026-10-17T15:31:19.822004+00:00"
-    },
-    {
       "id": "jobright-22a1d4b6922a",
       "seen_at": "2026-10-17T16:01:16.853821+00:00"
     },
@@ -24775,14 +24767,60 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6afa6e3b1465de0d45f864d0",
       "seen_at": "2026-11-16T15:02:08.011204+00:00"
+    },
+    {
+      "id": "simplify-2c3c2dfb-3211-41b2-90ef-c2472e6b2742",
+      "seen_at": "2026-11-16T16:01:27.141968+00:00"
+    },
+    {
+      "id": "url:https://unique.careers.hibob.com/jobs/e59dfdc2-da9d-4715-af0c-ed9512885d8d",
+      "seen_at": "2026-11-16T16:01:27.142340+00:00"
+    },
+    {
+      "id": "jobright-e37806c00be5",
+      "seen_at": "2026-11-16T16:01:27.142691+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb0edb7d1820d918c25f65",
+      "seen_at": "2026-11-16T16:01:27.142995+00:00"
+    },
+    {
+      "id": "ashby-perplexity-849874fd-ccb4-4d7e-8551-29c5a418e2c7",
+      "seen_at": "2026-11-16T16:01:27.143296+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Perplexity/849874fd-ccb4-4d7e-8551-29c5a418e2c7",
+      "seen_at": "2026-11-16T16:01:27.143569+00:00"
+    },
+    {
+      "id": "jobright-47f31b7799e7",
+      "seen_at": "2026-11-16T16:01:31.703470+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a91dc609864261ccd29f607",
+      "seen_at": "2026-11-16T16:01:31.703841+00:00"
+    },
+    {
+      "id": "jobright-81192b659e75",
+      "seen_at": "2026-11-16T16:01:31.704156+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb11a7317abe715a260423",
+      "seen_at": "2026-11-16T16:01:31.704422+00:00"
+    },
+    {
+      "id": "jobright-7b23ebf33982",
+      "seen_at": "2026-11-16T16:01:31.704704+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb12737f9ead6668e9de87",
+      "seen_at": "2026-11-16T16:01:31.704938+00:00"
     }
   ],
-  "last_run": "2026-11-16T15:31:35.318385+00:00",
-  "total_notified": 12613,
+  "last_run": "2026-11-16T16:01:31.927343+00:00",
+  "total_notified": 12619,
   "channels": {
     "pm-jobs": [
-      "zapply-2e43c9e47989",
-      "url:https://zapply.jobs/l/d/amd-93245",
       "jobright-17184716ee00",
       "url:https://jobright.ai/jobs/info/6a29a802c07d4b6ae1c41fd7",
       "jobright-f771c3c098e9",
@@ -25876,7 +25914,13 @@
       "jobright-de0597e81850",
       "url:https://jobright.ai/jobs/info/6a91e328a27a2d3c9848a81f",
       "jobright-647a5cae1e41",
-      "url:https://jobright.ai/jobs/info/6afa6e3b1465de0d45f864d0"
+      "url:https://jobright.ai/jobs/info/6afa6e3b1465de0d45f864d0",
+      "jobright-47f31b7799e7",
+      "url:https://jobright.ai/jobs/info/6a91dc609864261ccd29f607",
+      "jobright-81192b659e75",
+      "url:https://jobright.ai/jobs/info/6afb11a7317abe715a260423",
+      "jobright-7b23ebf33982",
+      "url:https://jobright.ai/jobs/info/6afb12737f9ead6668e9de87"
     ],
     "swe-ai-full-time": [
       "jobright-22a1d4b6922a",
@@ -30982,7 +31026,13 @@
       "jobright-a1b52e9b92c1",
       "url:https://jobright.ai/jobs/info/6ab715e5ba1c25652c6112d1",
       "jobright-7b4fb7b83847",
-      "url:https://jobright.ai/jobs/info/6a88c600d34f700f87fca7d2"
+      "url:https://jobright.ai/jobs/info/6a88c600d34f700f87fca7d2",
+      "simplify-2c3c2dfb-3211-41b2-90ef-c2472e6b2742",
+      "url:https://unique.careers.hibob.com/jobs/e59dfdc2-da9d-4715-af0c-ed9512885d8d",
+      "jobright-e37806c00be5",
+      "url:https://jobright.ai/jobs/info/6afb0edb7d1820d918c25f65",
+      "ashby-perplexity-849874fd-ccb4-4d7e-8551-29c5a418e2c7",
+      "url:https://jobs.ashbyhq.com/Perplexity/849874fd-ccb4-4d7e-8551-29c5a418e2c7"
     ]
   }
 }
