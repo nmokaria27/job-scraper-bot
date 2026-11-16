@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-7ce72bb79f7e",
-      "seen_at": "2026-10-17T18:01:16.476683+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7f77ac927c79391ad0958a",
-      "seen_at": "2026-10-17T18:01:16.477267+00:00"
-    },
-    {
-      "id": "jobright-62ebc7ec41aa",
-      "seen_at": "2026-10-17T18:01:16.477810+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9b255690a313642c658bef",
-      "seen_at": "2026-10-17T18:01:16.478280+00:00"
-    },
-    {
       "id": "jobright-2c6e31f7ff63",
       "seen_at": "2026-10-17T19:01:22.753799+00:00"
     },
@@ -24913,7 +24897,7 @@
       "seen_at": "2026-11-16T18:01:41.702438+00:00"
     }
   ],
-  "last_run": "2026-11-16T18:01:42.048264+00:00",
+  "last_run": "2026-11-16T18:31:46.795306+00:00",
   "total_notified": 12636,
   "channels": {
     "pm-jobs": [
@@ -26029,10 +26013,6 @@
       "url:https://zapply.jobs/l/d/workday-jci-jci-WD30285095"
     ],
     "swe-ai-full-time": [
-      "jobright-7ce72bb79f7e",
-      "url:https://jobright.ai/jobs/info/6a7f77ac927c79391ad0958a",
-      "jobright-62ebc7ec41aa",
-      "url:https://jobright.ai/jobs/info/6a9b255690a313642c658bef",
       "jobright-2c6e31f7ff63",
       "url:https://jobright.ai/jobs/info/6ac96277c3a8af9c54a0a927",
       "jobright-9cd0b0fce461",
