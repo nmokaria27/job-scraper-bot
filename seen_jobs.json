@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-applied-6b3d1aa5-a987-4350-9b79-b14c6e297cdf",
-      "seen_at": "2026-10-17T01:01:14.270301+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/applied/6b3d1aa5-a987-4350-9b79-b14c6e297cdf",
-      "seen_at": "2026-10-17T01:01:14.270923+00:00"
-    },
-    {
       "id": "jobright-6adef72e0ccd",
       "seen_at": "2026-10-17T02:01:26.845646+00:00"
     },
@@ -24897,7 +24889,7 @@
       "seen_at": "2026-11-16T00:31:22.801916+00:00"
     }
   ],
-  "last_run": "2026-11-16T01:01:14.894682+00:00",
+  "last_run": "2026-11-16T01:31:07.518393+00:00",
   "total_notified": 12602,
   "channels": {
     "pm-jobs": [
@@ -25991,8 +25983,6 @@
       "url:https://zapply.jobs/l/d/google-92324973799973574"
     ],
     "swe-ai-full-time": [
-      "ashby-applied-6b3d1aa5-a987-4350-9b79-b14c6e297cdf",
-      "url:https://jobs.ashbyhq.com/applied/6b3d1aa5-a987-4350-9b79-b14c6e297cdf",
       "jobright-6adef72e0ccd",
       "url:https://jobright.ai/jobs/info/6ad2bf6b810010ec72f59bdc",
       "simplify-4b7d9212-ac43-4c9a-8377-465403c23615",
