@@ -24863,10 +24863,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aa9925e6d0edc2d91b0a341",
       "seen_at": "2026-11-16T17:01:47.489531+00:00"
+    },
+    {
+      "id": "jobright-881233fcb4d5",
+      "seen_at": "2026-11-16T18:01:37.075557+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb2b01317abe715a26144b",
+      "seen_at": "2026-11-16T18:01:37.075882+00:00"
+    },
+    {
+      "id": "zapply-147a89a891ef",
+      "seen_at": "2026-11-16T18:01:37.076166+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amd-91795",
+      "seen_at": "2026-11-16T18:01:37.076411+00:00"
+    },
+    {
+      "id": "amazon-10606199",
+      "seen_at": "2026-11-16T18:01:37.076655+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10606199/software-development-engineer-aws",
+      "seen_at": "2026-11-16T18:01:37.076875+00:00"
+    },
+    {
+      "id": "jobright-ea947549befc",
+      "seen_at": "2026-11-16T18:01:37.077087+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb27585305ed998d91a43a",
+      "seen_at": "2026-11-16T18:01:37.077294+00:00"
+    },
+    {
+      "id": "jobright-4e0d67d0cecd",
+      "seen_at": "2026-11-16T18:01:41.701643+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac99313fcdafb60c6a4cc51",
+      "seen_at": "2026-11-16T18:01:41.701931+00:00"
+    },
+    {
+      "id": "zapply-9f8c8e1d146c",
+      "seen_at": "2026-11-16T18:01:41.702194+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-jci-jci-WD30285095",
+      "seen_at": "2026-11-16T18:01:41.702438+00:00"
     }
   ],
-  "last_run": "2026-11-16T17:31:26.117049+00:00",
-  "total_notified": 12630,
+  "last_run": "2026-11-16T18:01:42.048264+00:00",
+  "total_notified": 12636,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -25974,7 +26022,11 @@
       "jobright-fc94faf4fa25",
       "url:https://jobright.ai/jobs/info/6ad00d94c9f40bec907ffa41",
       "jobright-185820e7d26a",
-      "url:https://jobright.ai/jobs/info/6aa9925e6d0edc2d91b0a341"
+      "url:https://jobright.ai/jobs/info/6aa9925e6d0edc2d91b0a341",
+      "jobright-4e0d67d0cecd",
+      "url:https://jobright.ai/jobs/info/6ac99313fcdafb60c6a4cc51",
+      "zapply-9f8c8e1d146c",
+      "url:https://zapply.jobs/l/d/workday-jci-jci-WD30285095"
     ],
     "swe-ai-full-time": [
       "jobright-7ce72bb79f7e",
@@ -31092,7 +31144,15 @@
       "jobright-502af5a31df9",
       "url:https://jobright.ai/jobs/info/6afb17437f9ead6668e9e212",
       "ashby-replit-b7f12834-78d2-424d-bf83-0c942815fbf7",
-      "url:https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7"
+      "url:https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7",
+      "jobright-881233fcb4d5",
+      "url:https://jobright.ai/jobs/info/6afb2b01317abe715a26144b",
+      "zapply-147a89a891ef",
+      "url:https://zapply.jobs/l/d/amd-91795",
+      "amazon-10606199",
+      "url:https://www.amazon.jobs/en/jobs/10606199/software-development-engineer-aws",
+      "jobright-ea947549befc",
+      "url:https://jobright.ai/jobs/info/6afb27585305ed998d91a43a"
     ]
   }
 }
