@@ -24975,10 +24975,66 @@
     {
       "id": "url:https://job-boards.greenhouse.io/verkada/jobs/5296748007",
       "seen_at": "2026-11-16T20:31:17.159457+00:00"
+    },
+    {
+      "id": "jobright-7d2488098aca",
+      "seen_at": "2026-11-16T21:01:33.238593+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb59f37d1820d918c293d3",
+      "seen_at": "2026-11-16T21:01:33.239093+00:00"
+    },
+    {
+      "id": "jobright-5786452b1427",
+      "seen_at": "2026-11-16T21:01:33.239472+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb5118317abe715a2632a5",
+      "seen_at": "2026-11-16T21:01:33.239839+00:00"
+    },
+    {
+      "id": "jobright-3095213a4b8f",
+      "seen_at": "2026-11-16T21:01:33.240195+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb4bed7d1820d918c288d8",
+      "seen_at": "2026-11-16T21:01:33.240544+00:00"
+    },
+    {
+      "id": "amazon-10606549",
+      "seen_at": "2026-11-16T21:01:33.240894+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10606549/data-scientist-multi-channel-fulfillment",
+      "seen_at": "2026-11-16T21:01:33.241203+00:00"
+    },
+    {
+      "id": "jobright-b869feb51187",
+      "seen_at": "2026-11-16T21:01:33.241545+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb59e4484fef921e04a83e",
+      "seen_at": "2026-11-16T21:01:33.241856+00:00"
+    },
+    {
+      "id": "zapply-a862db9254c8",
+      "seen_at": "2026-11-16T21:01:38.178053+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-jj-jj-R-102895",
+      "seen_at": "2026-11-16T21:01:38.178539+00:00"
+    },
+    {
+      "id": "zapply-237cb1712d81",
+      "seen_at": "2026-11-16T21:01:38.178886+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1320858",
+      "seen_at": "2026-11-16T21:01:38.179187+00:00"
     }
   ],
-  "last_run": "2026-11-16T20:31:21.479427+00:00",
-  "total_notified": 12648,
+  "last_run": "2026-11-16T21:01:38.514926+00:00",
+  "total_notified": 12655,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -26092,7 +26148,11 @@
       "zapply-9f8c8e1d146c",
       "url:https://zapply.jobs/l/d/workday-jci-jci-WD30285095",
       "jobright-715bbc338e44",
-      "url:https://jobright.ai/jobs/info/6aa96b6f28e24cb38513a512"
+      "url:https://jobright.ai/jobs/info/6aa96b6f28e24cb38513a512",
+      "zapply-a862db9254c8",
+      "url:https://zapply.jobs/l/d/workday-jj-jj-R-102895",
+      "zapply-237cb1712d81",
+      "url:https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1320858"
     ],
     "swe-ai-full-time": [
       "jobright-bda5b2f49e83",
@@ -31232,7 +31292,17 @@
       "zapply-d6dba8924b0a",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030323",
       "greenhouse-verkada-5296748007",
-      "url:https://job-boards.greenhouse.io/verkada/jobs/5296748007"
+      "url:https://job-boards.greenhouse.io/verkada/jobs/5296748007",
+      "jobright-7d2488098aca",
+      "url:https://jobright.ai/jobs/info/6afb59f37d1820d918c293d3",
+      "jobright-5786452b1427",
+      "url:https://jobright.ai/jobs/info/6afb5118317abe715a2632a5",
+      "jobright-3095213a4b8f",
+      "url:https://jobright.ai/jobs/info/6afb4bed7d1820d918c288d8",
+      "amazon-10606549",
+      "url:https://www.amazon.jobs/en/jobs/10606549/data-scientist-multi-channel-fulfillment",
+      "jobright-b869feb51187",
+      "url:https://jobright.ai/jobs/info/6afb59e4484fef921e04a83e"
     ]
   }
 }
