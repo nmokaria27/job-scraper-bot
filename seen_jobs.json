@@ -24807,10 +24807,82 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2018963",
       "seen_at": "2026-11-16T16:31:17.863084+00:00"
+    },
+    {
+      "id": "jobright-063bd395acde",
+      "seen_at": "2026-11-16T17:01:44.211141+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a91e328a27a2d3c9848a81e",
+      "seen_at": "2026-11-16T17:01:44.211626+00:00"
+    },
+    {
+      "id": "zapply-a0ed16cf4a5a",
+      "seen_at": "2026-11-16T17:01:44.212109+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-avav-avav-9055",
+      "seen_at": "2026-11-16T17:01:44.212455+00:00"
+    },
+    {
+      "id": "zapply-03cc1344c153",
+      "seen_at": "2026-11-16T17:01:44.212801+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-avav-avav-9054",
+      "seen_at": "2026-11-16T17:01:44.213156+00:00"
+    },
+    {
+      "id": "amazon-10606081",
+      "seen_at": "2026-11-16T17:01:44.213497+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10606081/software-development-engineer-trainium-systems",
+      "seen_at": "2026-11-16T17:01:44.213812+00:00"
+    },
+    {
+      "id": "jobright-502af5a31df9",
+      "seen_at": "2026-11-16T17:01:44.214162+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb17437f9ead6668e9e212",
+      "seen_at": "2026-11-16T17:01:44.214514+00:00"
+    },
+    {
+      "id": "ashby-replit-b7f12834-78d2-424d-bf83-0c942815fbf7",
+      "seen_at": "2026-11-16T17:01:44.214863+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7",
+      "seen_at": "2026-11-16T17:01:44.215206+00:00"
+    },
+    {
+      "id": "zapply-0d51415bf6dc",
+      "seen_at": "2026-11-16T17:01:47.487746+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-nokia-41980",
+      "seen_at": "2026-11-16T17:01:47.488217+00:00"
+    },
+    {
+      "id": "jobright-fc94faf4fa25",
+      "seen_at": "2026-11-16T17:01:47.488580+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad00d94c9f40bec907ffa41",
+      "seen_at": "2026-11-16T17:01:47.488893+00:00"
+    },
+    {
+      "id": "jobright-185820e7d26a",
+      "seen_at": "2026-11-16T17:01:47.489235+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9925e6d0edc2d91b0a341",
+      "seen_at": "2026-11-16T17:01:47.489531+00:00"
     }
   ],
-  "last_run": "2026-11-16T16:31:18.022033+00:00",
-  "total_notified": 12621,
+  "last_run": "2026-11-16T17:01:47.787711+00:00",
+  "total_notified": 12630,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -25912,7 +25984,13 @@
       "jobright-7b23ebf33982",
       "url:https://jobright.ai/jobs/info/6afb12737f9ead6668e9de87",
       "zapply-8b6d83e2d09e",
-      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2018963"
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2018963",
+      "zapply-0d51415bf6dc",
+      "url:https://zapply.jobs/l/d/oracle-nokia-41980",
+      "jobright-fc94faf4fa25",
+      "url:https://jobright.ai/jobs/info/6ad00d94c9f40bec907ffa41",
+      "jobright-185820e7d26a",
+      "url:https://jobright.ai/jobs/info/6aa9925e6d0edc2d91b0a341"
     ],
     "swe-ai-full-time": [
       "jobright-2ef1b75bf9de",
@@ -31022,7 +31100,19 @@
       "ashby-perplexity-849874fd-ccb4-4d7e-8551-29c5a418e2c7",
       "url:https://jobs.ashbyhq.com/Perplexity/849874fd-ccb4-4d7e-8551-29c5a418e2c7",
       "zapply-142d21e35e93",
-      "url:https://zapply.jobs/l/d/workday-avav-avav-8655"
+      "url:https://zapply.jobs/l/d/workday-avav-avav-8655",
+      "jobright-063bd395acde",
+      "url:https://jobright.ai/jobs/info/6a91e328a27a2d3c9848a81e",
+      "zapply-a0ed16cf4a5a",
+      "url:https://zapply.jobs/l/d/workday-avav-avav-9055",
+      "zapply-03cc1344c153",
+      "url:https://zapply.jobs/l/d/workday-avav-avav-9054",
+      "amazon-10606081",
+      "url:https://www.amazon.jobs/en/jobs/10606081/software-development-engineer-trainium-systems",
+      "jobright-502af5a31df9",
+      "url:https://jobright.ai/jobs/info/6afb17437f9ead6668e9e212",
+      "ashby-replit-b7f12834-78d2-424d-bf83-0c942815fbf7",
+      "url:https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7"
     ]
   }
 }
