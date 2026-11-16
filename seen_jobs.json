@@ -24959,10 +24959,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26014175",
       "seen_at": "2026-11-16T20:22:33.950070+00:00"
+    },
+    {
+      "id": "zapply-d6dba8924b0a",
+      "seen_at": "2026-11-16T20:31:17.158133+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030323",
+      "seen_at": "2026-11-16T20:31:17.158630+00:00"
+    },
+    {
+      "id": "greenhouse-verkada-5296748007",
+      "seen_at": "2026-11-16T20:31:17.159069+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/verkada/jobs/5296748007",
+      "seen_at": "2026-11-16T20:31:17.159457+00:00"
     }
   ],
-  "last_run": "2026-11-16T20:22:37.637209+00:00",
-  "total_notified": 12646,
+  "last_run": "2026-11-16T20:31:21.479427+00:00",
+  "total_notified": 12648,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -31212,7 +31228,11 @@
       "amazon-10606503",
       "url:https://www.amazon.jobs/en/jobs/10606503/software-dev-engineer-amazon-leo-customer-terminal-software",
       "zapply-2da487a13146",
-      "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26014175"
+      "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26014175",
+      "zapply-d6dba8924b0a",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030323",
+      "greenhouse-verkada-5296748007",
+      "url:https://job-boards.greenhouse.io/verkada/jobs/5296748007"
     ]
   }
 }
