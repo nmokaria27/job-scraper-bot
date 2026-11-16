@@ -25103,10 +25103,26 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-marvell-marvellcareers-2605261",
       "seen_at": "2026-11-16T22:01:35.590864+00:00"
+    },
+    {
+      "id": "amazon-10606680",
+      "seen_at": "2026-11-16T22:31:14.562578+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10606680/software-development-engineer-neuron-developer-experiences-team",
+      "seen_at": "2026-11-16T22:31:14.562980+00:00"
+    },
+    {
+      "id": "zapply-bef9575f1afe",
+      "seen_at": "2026-11-16T22:31:20.001441+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3169058",
+      "seen_at": "2026-11-16T22:31:20.001763+00:00"
     }
   ],
-  "last_run": "2026-11-16T22:01:35.864781+00:00",
-  "total_notified": 12665,
+  "last_run": "2026-11-16T22:31:20.239240+00:00",
+  "total_notified": 12667,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -26230,7 +26246,9 @@
       "zapply-4a090aad2163",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210807783",
       "zapply-52486e3d6a32",
-      "url:https://zapply.jobs/l/d/workday-marvell-marvellcareers-2605261"
+      "url:https://zapply.jobs/l/d/workday-marvell-marvellcareers-2605261",
+      "zapply-bef9575f1afe",
+      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3169058"
     ],
     "swe-ai-full-time": [
       "jobright-3faf1be94e63",
@@ -31392,7 +31410,9 @@
       "jobright-6a5e20aa3076",
       "url:https://jobright.ai/jobs/info/6afb5dfb317abe715a263cb4",
       "jobright-40e42b129da4",
-      "url:https://jobright.ai/jobs/info/6afb5dfb04af1c9f075c724d"
+      "url:https://jobright.ai/jobs/info/6afb5dfb04af1c9f075c724d",
+      "amazon-10606680",
+      "url:https://www.amazon.jobs/en/jobs/10606680/software-development-engineer-neuron-developer-experiences-team"
     ]
   }
 }
