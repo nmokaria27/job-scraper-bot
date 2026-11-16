@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-9cd0b0fce461",
-      "seen_at": "2026-10-17T20:01:14.036285+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7f484fe2030208f276cd13",
-      "seen_at": "2026-10-17T20:01:14.037022+00:00"
-    },
-    {
       "id": "jobright-bda5b2f49e83",
       "seen_at": "2026-10-17T21:43:17.134125+00:00"
     },
@@ -24943,10 +24935,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6afb3931484fef921e04908b",
       "seen_at": "2026-11-16T20:01:31.481761+00:00"
+    },
+    {
+      "id": "amazon-10606504",
+      "seen_at": "2026-11-16T20:22:33.948537+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10606504/software-dev-engineer-amazon-leo-customer-terminal-software",
+      "seen_at": "2026-11-16T20:22:33.948896+00:00"
+    },
+    {
+      "id": "amazon-10606503",
+      "seen_at": "2026-11-16T20:22:33.949223+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10606503/software-dev-engineer-amazon-leo-customer-terminal-software",
+      "seen_at": "2026-11-16T20:22:33.949526+00:00"
+    },
+    {
+      "id": "zapply-2da487a13146",
+      "seen_at": "2026-11-16T20:22:33.949806+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26014175",
+      "seen_at": "2026-11-16T20:22:33.950070+00:00"
     }
   ],
-  "last_run": "2026-11-16T20:01:35.499200+00:00",
-  "total_notified": 12643,
+  "last_run": "2026-11-16T20:22:37.637209+00:00",
+  "total_notified": 12646,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -26063,8 +26079,6 @@
       "url:https://jobright.ai/jobs/info/6aa96b6f28e24cb38513a512"
     ],
     "swe-ai-full-time": [
-      "jobright-9cd0b0fce461",
-      "url:https://jobright.ai/jobs/info/6a7f484fe2030208f276cd13",
       "jobright-bda5b2f49e83",
       "url:https://jobright.ai/jobs/info/6a7f795ce2030208f276e6d6",
       "jobright-3faf1be94e63",
@@ -31192,7 +31206,13 @@
       "jobright-c69aa24133b8",
       "url:https://jobright.ai/jobs/info/6afb3eec7f9ead6668ea002f",
       "jobright-7921dae8d1a0",
-      "url:https://jobright.ai/jobs/info/6afb3931484fef921e04908b"
+      "url:https://jobright.ai/jobs/info/6afb3931484fef921e04908b",
+      "amazon-10606504",
+      "url:https://www.amazon.jobs/en/jobs/10606504/software-dev-engineer-amazon-leo-customer-terminal-software",
+      "amazon-10606503",
+      "url:https://www.amazon.jobs/en/jobs/10606503/software-dev-engineer-amazon-leo-customer-terminal-software",
+      "zapply-2da487a13146",
+      "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26014175"
     ]
   }
 }
