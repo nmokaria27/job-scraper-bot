@@ -24895,10 +24895,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-jci-jci-WD30285095",
       "seen_at": "2026-11-16T18:01:41.702438+00:00"
+    },
+    {
+      "id": "jobright-82b65891ac72",
+      "seen_at": "2026-11-16T19:01:30.139595+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac993146355f8776ff196ac",
+      "seen_at": "2026-11-16T19:01:30.139920+00:00"
+    },
+    {
+      "id": "jobright-20a9c6b22440",
+      "seen_at": "2026-11-16T19:01:30.140183+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb3e355305ed998d91b832",
+      "seen_at": "2026-11-16T19:01:30.140433+00:00"
+    },
+    {
+      "id": "amazon-10604721",
+      "seen_at": "2026-11-16T19:01:30.140662+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10604721/software-dev-engineer-amazon-ai-at-work",
+      "seen_at": "2026-11-16T19:01:30.140868+00:00"
+    },
+    {
+      "id": "greenhouse-robinhood-8385931",
+      "seen_at": "2026-11-16T19:01:30.141067+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/robinhood/jobs/8385931",
+      "seen_at": "2026-11-16T19:01:30.141251+00:00"
+    },
+    {
+      "id": "jobright-c69aa24133b8",
+      "seen_at": "2026-11-16T19:01:30.141450+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb3eec7f9ead6668ea002f",
+      "seen_at": "2026-11-16T19:01:30.141635+00:00"
+    },
+    {
+      "id": "jobright-715bbc338e44",
+      "seen_at": "2026-11-16T19:01:35.563496+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa96b6f28e24cb38513a512",
+      "seen_at": "2026-11-16T19:01:35.563756+00:00"
     }
   ],
-  "last_run": "2026-11-16T18:31:46.795306+00:00",
-  "total_notified": 12636,
+  "last_run": "2026-11-16T19:01:35.874051+00:00",
+  "total_notified": 12642,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -26010,7 +26058,9 @@
       "jobright-4e0d67d0cecd",
       "url:https://jobright.ai/jobs/info/6ac99313fcdafb60c6a4cc51",
       "zapply-9f8c8e1d146c",
-      "url:https://zapply.jobs/l/d/workday-jci-jci-WD30285095"
+      "url:https://zapply.jobs/l/d/workday-jci-jci-WD30285095",
+      "jobright-715bbc338e44",
+      "url:https://jobright.ai/jobs/info/6aa96b6f28e24cb38513a512"
     ],
     "swe-ai-full-time": [
       "jobright-2c6e31f7ff63",
@@ -31132,7 +31182,17 @@
       "amazon-10606199",
       "url:https://www.amazon.jobs/en/jobs/10606199/software-development-engineer-aws",
       "jobright-ea947549befc",
-      "url:https://jobright.ai/jobs/info/6afb27585305ed998d91a43a"
+      "url:https://jobright.ai/jobs/info/6afb27585305ed998d91a43a",
+      "jobright-82b65891ac72",
+      "url:https://jobright.ai/jobs/info/6ac993146355f8776ff196ac",
+      "jobright-20a9c6b22440",
+      "url:https://jobright.ai/jobs/info/6afb3e355305ed998d91b832",
+      "amazon-10604721",
+      "url:https://www.amazon.jobs/en/jobs/10604721/software-dev-engineer-amazon-ai-at-work",
+      "greenhouse-robinhood-8385931",
+      "url:https://boards.greenhouse.io/robinhood/jobs/8385931",
+      "jobright-c69aa24133b8",
+      "url:https://jobright.ai/jobs/info/6afb3eec7f9ead6668ea002f"
     ]
   }
 }
