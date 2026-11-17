@@ -25463,10 +25463,42 @@
     {
       "id": "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000161990226",
       "seen_at": "2026-11-17T12:25:00.994372+00:00"
+    },
+    {
+      "id": "jobright-7c7ddbb45ead",
+      "seen_at": "2026-11-17T13:01:34.473619+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc3ab529e5a8844e657187",
+      "seen_at": "2026-11-17T13:01:34.473929+00:00"
+    },
+    {
+      "id": "jobright-9c9f82addb34",
+      "seen_at": "2026-11-17T13:01:34.474208+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc33c629e5a8844e65708f",
+      "seen_at": "2026-11-17T13:01:34.474441+00:00"
+    },
+    {
+      "id": "jobright-eed844e78d50",
+      "seen_at": "2026-11-17T13:01:34.474669+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb8c5ac5917ce34b5dc2d3",
+      "seen_at": "2026-11-17T13:01:34.474878+00:00"
+    },
+    {
+      "id": "jobright-da253ebbd628",
+      "seen_at": "2026-11-17T13:01:34.475090+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9b1e1bd5ff1f3f1c39db6c",
+      "seen_at": "2026-11-17T13:01:34.475284+00:00"
     }
   ],
-  "last_run": "2026-11-17T12:31:16.922144+00:00",
-  "total_notified": 12718,
+  "last_run": "2026-11-17T13:01:37.171882+00:00",
+  "total_notified": 12722,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -31842,7 +31874,15 @@
       "jobright-93eeeff37a66",
       "url:https://jobright.ai/jobs/info/6afc1d0b1e98d304ea7ef286",
       "jobright-58a652b792e1",
-      "url:https://jobright.ai/jobs/info/6afc2f7529e5a8844e656f71"
+      "url:https://jobright.ai/jobs/info/6afc2f7529e5a8844e656f71",
+      "jobright-7c7ddbb45ead",
+      "url:https://jobright.ai/jobs/info/6afc3ab529e5a8844e657187",
+      "jobright-9c9f82addb34",
+      "url:https://jobright.ai/jobs/info/6afc33c629e5a8844e65708f",
+      "jobright-eed844e78d50",
+      "url:https://jobright.ai/jobs/info/6afb8c5ac5917ce34b5dc2d3",
+      "jobright-da253ebbd628",
+      "url:https://jobright.ai/jobs/info/6a9b1e1bd5ff1f3f1c39db6c"
     ]
   }
 }
