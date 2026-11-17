@@ -25743,10 +25743,38 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10607515/software-development-engineer-sponsored-products",
       "seen_at": "2026-11-17T20:31:26.774518+00:00"
+    },
+    {
+      "id": "jobright-9d723fde6e25",
+      "seen_at": "2026-11-17T21:01:21.419303+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc9de7e0cdcfc91142dda1",
+      "seen_at": "2026-11-17T21:01:21.419782+00:00"
+    },
+    {
+      "id": "greenhouse-toast-8359240",
+      "seen_at": "2026-11-17T21:01:21.420268+00:00"
+    },
+    {
+      "id": "jobright-ef564501b92d",
+      "seen_at": "2026-11-17T21:01:21.421098+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae66c1cfb2cd420ace609d6",
+      "seen_at": "2026-11-17T21:01:21.421507+00:00"
+    },
+    {
+      "id": "amazon-10607531",
+      "seen_at": "2026-11-17T21:01:21.421926+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10607531/applied-scientist-quantum-device-integration-amazon-s-center-for-quantum-computing-device-team",
+      "seen_at": "2026-11-17T21:01:21.422338+00:00"
     }
   ],
-  "last_run": "2026-11-17T20:31:30.574103+00:00",
-  "total_notified": 12766,
+  "last_run": "2026-11-17T21:01:25.999179+00:00",
+  "total_notified": 12770,
   "channels": {
     "pm-jobs": [
       "jobright-d458f63fb0a5",
@@ -32192,7 +32220,15 @@
       "ashby-benchling-7b1ffaaf-2374-4b09-8495-899cc4847862",
       "url:https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862",
       "amazon-10607515",
-      "url:https://www.amazon.jobs/en/jobs/10607515/software-development-engineer-sponsored-products"
+      "url:https://www.amazon.jobs/en/jobs/10607515/software-development-engineer-sponsored-products",
+      "jobright-9d723fde6e25",
+      "url:https://jobright.ai/jobs/info/6afc9de7e0cdcfc91142dda1",
+      "greenhouse-toast-8359240",
+      "url:https://careers.toasttab.com/jobs",
+      "jobright-ef564501b92d",
+      "url:https://jobright.ai/jobs/info/6ae66c1cfb2cd420ace609d6",
+      "amazon-10607531",
+      "url:https://www.amazon.jobs/en/jobs/10607531/applied-scientist-quantum-device-integration-amazon-s-center-for-quantum-computing-device-team"
     ]
   }
 }
