@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-6e27e6a00ea3",
-      "seen_at": "2026-10-18T10:01:15.730457+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a714fdee2b7476e7b20da64",
-      "seen_at": "2026-10-18T10:01:15.730993+00:00"
-    },
-    {
-      "id": "jobright-929c49c115f3",
-      "seen_at": "2026-10-18T10:01:15.731484+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a83c45f3eeac101cfaa19d7",
-      "seen_at": "2026-10-18T10:01:15.731930+00:00"
-    },
-    {
       "id": "jobright-fd5ae5a19bca",
       "seen_at": "2026-10-18T12:01:25.607118+00:00"
     },
@@ -25399,10 +25383,74 @@
     {
       "id": "url:https://job-boards.greenhouse.io/xai/jobs/5297316007",
       "seen_at": "2026-11-17T04:31:21.362409+00:00"
+    },
+    {
+      "id": "jobright-bffea1353797",
+      "seen_at": "2026-11-17T11:02:32.540260+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb81cfc5917ce34b5db8c4",
+      "seen_at": "2026-11-17T11:02:32.540935+00:00"
+    },
+    {
+      "id": "simplify-ae1ec61d-333f-47da-8b9c-8bf931b6d07b",
+      "seen_at": "2026-11-17T11:02:32.541451+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/fantom-corporation/814d8302-21a4-420c-90d2-925644524af7/apply",
+      "seen_at": "2026-11-17T11:02:32.541932+00:00"
+    },
+    {
+      "id": "jobright-803c786784c5",
+      "seen_at": "2026-11-17T11:02:32.542348+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb8eb5c2bd7db01b882dc6",
+      "seen_at": "2026-11-17T11:02:32.542765+00:00"
+    },
+    {
+      "id": "simplify-43c1dd60-2b0a-4941-a9a6-c7262801c850",
+      "seen_at": "2026-11-17T11:02:32.543182+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1B9",
+      "seen_at": "2026-11-17T11:02:32.543570+00:00"
+    },
+    {
+      "id": "simplify-d9f6c287-7df3-4748-9a8a-87c8f7c2cafb",
+      "seen_at": "2026-11-17T11:02:32.543997+00:00"
+    },
+    {
+      "id": "url:https://contextlabs.bamboohr.com/careers/187",
+      "seen_at": "2026-11-17T11:02:32.544388+00:00"
+    },
+    {
+      "id": "jobright-984bad204fa7",
+      "seen_at": "2026-11-17T11:02:32.544817+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9c0adba7ba386c5d66ddd8",
+      "seen_at": "2026-11-17T11:02:32.545222+00:00"
+    },
+    {
+      "id": "ashby-cohere-d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
+      "seen_at": "2026-11-17T11:02:32.545645+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
+      "seen_at": "2026-11-17T11:02:32.546054+00:00"
+    },
+    {
+      "id": "jobright-ee07443fde34",
+      "seen_at": "2026-11-17T11:02:32.546464+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afbe19907bef169f5ffeb8c",
+      "seen_at": "2026-11-17T11:02:32.546897+00:00"
     }
   ],
-  "last_run": "2026-11-17T04:31:25.276662+00:00",
-  "total_notified": 12705,
+  "last_run": "2026-11-17T11:02:37.471250+00:00",
+  "total_notified": 12713,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -26545,10 +26593,6 @@
       "url:https://zapply.jobs/l/d/phenom-danaher-R1320858"
     ],
     "swe-ai-full-time": [
-      "jobright-6e27e6a00ea3",
-      "url:https://jobright.ai/jobs/info/6a714fdee2b7476e7b20da64",
-      "jobright-929c49c115f3",
-      "url:https://jobright.ai/jobs/info/6a83c45f3eeac101cfaa19d7",
       "jobright-fd5ae5a19bca",
       "url:https://jobright.ai/jobs/info/6a71a42bee751e0c7934463e",
       "jobright-abe5a9ea3629",
@@ -31762,7 +31806,23 @@
       "jobright-f798acd0076b",
       "url:https://jobright.ai/jobs/info/6afbb576c96cba79575c151c",
       "greenhouse-xai-5297316007",
-      "url:https://job-boards.greenhouse.io/xai/jobs/5297316007"
+      "url:https://job-boards.greenhouse.io/xai/jobs/5297316007",
+      "jobright-bffea1353797",
+      "url:https://jobright.ai/jobs/info/6afb81cfc5917ce34b5db8c4",
+      "simplify-ae1ec61d-333f-47da-8b9c-8bf931b6d07b",
+      "url:https://jobs.lever.co/fantom-corporation/814d8302-21a4-420c-90d2-925644524af7/apply",
+      "jobright-803c786784c5",
+      "url:https://jobright.ai/jobs/info/6afb8eb5c2bd7db01b882dc6",
+      "simplify-43c1dd60-2b0a-4941-a9a6-c7262801c850",
+      "url:https://go.vansh.nyc/1B9",
+      "simplify-d9f6c287-7df3-4748-9a8a-87c8f7c2cafb",
+      "url:https://contextlabs.bamboohr.com/careers/187",
+      "jobright-984bad204fa7",
+      "url:https://jobright.ai/jobs/info/6a9c0adba7ba386c5d66ddd8",
+      "ashby-cohere-d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
+      "url:https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
+      "jobright-ee07443fde34",
+      "url:https://jobright.ai/jobs/info/6afbe19907bef169f5ffeb8c"
     ]
   }
 }
