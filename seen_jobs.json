@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9",
-      "seen_at": "2026-10-18T23:01:24.932240+00:00"
-    },
-    {
-      "id": "url:https://careers.vtgdefense.com/jobs/9669",
-      "seen_at": "2026-10-18T23:01:24.932737+00:00"
-    },
-    {
-      "id": "jobright-315a46bd1bd1",
-      "seen_at": "2026-10-18T23:01:24.933177+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad5342483ada13a9da0dc10",
-      "seen_at": "2026-10-18T23:01:24.933552+00:00"
-    },
-    {
       "id": "greenhouse-reddit-8299781",
       "seen_at": "2026-10-19T00:01:44.711224+00:00"
     },
@@ -25891,10 +25875,58 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36818",
       "seen_at": "2026-11-17T23:01:40.873510+00:00"
+    },
+    {
+      "id": "zapply-c3d1526b5d6b",
+      "seen_at": "2026-11-17T23:31:17.335141+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213068",
+      "seen_at": "2026-11-17T23:31:17.335719+00:00"
+    },
+    {
+      "id": "zapply-4d12cf33bb6a",
+      "seen_at": "2026-11-17T23:31:17.336128+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1213068",
+      "seen_at": "2026-11-17T23:31:17.336466+00:00"
+    },
+    {
+      "id": "greenhouse-airbnb-8397762",
+      "seen_at": "2026-11-17T23:31:17.336851+00:00"
+    },
+    {
+      "id": "url:https://careers.airbnb.com/positions/8397762",
+      "seen_at": "2026-11-17T23:31:17.337193+00:00"
+    },
+    {
+      "id": "zapply-459f19b47356",
+      "seen_at": "2026-11-17T23:31:20.501053+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10105256",
+      "seen_at": "2026-11-17T23:31:20.501496+00:00"
+    },
+    {
+      "id": "zapply-569fd01c1d50",
+      "seen_at": "2026-11-17T23:31:20.501868+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-ServiceNow-744000162182430",
+      "seen_at": "2026-11-17T23:31:20.502174+00:00"
+    },
+    {
+      "id": "zapply-f0dfc8b98bcc",
+      "seen_at": "2026-11-17T23:31:20.502489+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-559518",
+      "seen_at": "2026-11-17T23:31:20.502820+00:00"
     }
   ],
-  "last_run": "2026-11-17T23:01:41.097029+00:00",
-  "total_notified": 12787,
+  "last_run": "2026-11-17T23:31:20.765414+00:00",
+  "total_notified": 12793,
   "channels": {
     "pm-jobs": [
       "jobright-13d860532946",
@@ -27062,13 +27094,15 @@
       "zapply-06429e4d376f",
       "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0110789",
       "zapply-9cb3eaf4d040",
-      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36818"
+      "url:https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36818",
+      "zapply-459f19b47356",
+      "url:https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10105256",
+      "zapply-569fd01c1d50",
+      "url:https://zapply.jobs/l/d/sr-ServiceNow-744000162182430",
+      "zapply-f0dfc8b98bcc",
+      "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-559518"
     ],
     "swe-ai-full-time": [
-      "simplify-22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9",
-      "url:https://careers.vtgdefense.com/jobs/9669",
-      "jobright-315a46bd1bd1",
-      "url:https://jobright.ai/jobs/info/6ad5342483ada13a9da0dc10",
       "greenhouse-reddit-8299781",
       "url:https://job-boards.greenhouse.io/reddit/jobs/8299781",
       "ashby-perplexity-f3814af2-55a3-49a5-b0cb-67199a2a45fb",
@@ -32378,7 +32412,13 @@
       "workday-intel-JR0288433",
       "url:https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Compiler-Engineer-for-AI-DSLs_JR0288433",
       "amazon-10607646",
-      "url:https://www.amazon.jobs/en/jobs/10607646/software-development-engineer-aws-managed-prometheus"
+      "url:https://www.amazon.jobs/en/jobs/10607646/software-development-engineer-aws-managed-prometheus",
+      "zapply-c3d1526b5d6b",
+      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213068",
+      "zapply-4d12cf33bb6a",
+      "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1213068",
+      "greenhouse-airbnb-8397762",
+      "url:https://careers.airbnb.com/positions/8397762"
     ]
   }
 }
