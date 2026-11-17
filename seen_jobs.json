@@ -25231,10 +25231,74 @@
     {
       "id": "url:https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply",
       "seen_at": "2026-11-17T00:31:20.692947+00:00"
+    },
+    {
+      "id": "jobright-a6168d307e84",
+      "seen_at": "2026-11-17T01:01:26.018581+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb9108c96cba79575c05af",
+      "seen_at": "2026-11-17T01:01:26.018941+00:00"
+    },
+    {
+      "id": "jobright-534789782b2e",
+      "seen_at": "2026-11-17T01:01:26.019229+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb90f9c5917ce34b5dc55c",
+      "seen_at": "2026-11-17T01:01:26.019484+00:00"
+    },
+    {
+      "id": "jobright-f27c0e52cc60",
+      "seen_at": "2026-11-17T01:01:26.019757+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb901906c0aac84dd970db",
+      "seen_at": "2026-11-17T01:01:26.019992+00:00"
+    },
+    {
+      "id": "jobright-b1c4b1109672",
+      "seen_at": "2026-11-17T01:01:26.020220+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb8ff606c0aac84dd970bb",
+      "seen_at": "2026-11-17T01:01:26.020432+00:00"
+    },
+    {
+      "id": "jobright-67eb9f1e568a",
+      "seen_at": "2026-11-17T01:01:26.020655+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb8451c5917ce34b5dba4d",
+      "seen_at": "2026-11-17T01:01:26.020858+00:00"
+    },
+    {
+      "id": "jobright-a20f57562f19",
+      "seen_at": "2026-11-17T01:01:26.021064+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb8b24be8589f0b74bf164",
+      "seen_at": "2026-11-17T01:01:26.021267+00:00"
+    },
+    {
+      "id": "jobright-9c3c7e1bffa6",
+      "seen_at": "2026-11-17T01:01:26.021472+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb8c50c5917ce34b5dc2c8",
+      "seen_at": "2026-11-17T01:01:26.021679+00:00"
+    },
+    {
+      "id": "jobright-6fa0cf3071b8",
+      "seen_at": "2026-11-17T01:01:31.065214+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb8d77c5917ce34b5dc329",
+      "seen_at": "2026-11-17T01:01:31.065511+00:00"
     }
   ],
-  "last_run": "2026-11-17T00:31:23.675362+00:00",
-  "total_notified": 12683,
+  "last_run": "2026-11-17T01:01:31.280382+00:00",
+  "total_notified": 12691,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -26364,7 +26428,9 @@
       "jobright-e2bcb18e04b3",
       "url:https://jobright.ai/jobs/info/6a5908d5c8e3a473cb8a4916",
       "jobright-108e130f3cb2",
-      "url:https://jobright.ai/jobs/info/6afb6f8306c0aac84dd95a6d"
+      "url:https://jobright.ai/jobs/info/6afb6f8306c0aac84dd95a6d",
+      "jobright-6fa0cf3071b8",
+      "url:https://jobright.ai/jobs/info/6afb8d77c5917ce34b5dc329"
     ],
     "swe-ai-full-time": [
       "jobright-0c99bdcf113e",
@@ -31552,7 +31618,21 @@
       "simplify-1efbbe00-3419-4e1e-8db8-ae31e660ddbc",
       "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960",
       "simplify-240c8b54-b581-4a55-8ff5-c992035db71d",
-      "url:https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply"
+      "url:https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply",
+      "jobright-a6168d307e84",
+      "url:https://jobright.ai/jobs/info/6afb9108c96cba79575c05af",
+      "jobright-534789782b2e",
+      "url:https://jobright.ai/jobs/info/6afb90f9c5917ce34b5dc55c",
+      "jobright-f27c0e52cc60",
+      "url:https://jobright.ai/jobs/info/6afb901906c0aac84dd970db",
+      "jobright-b1c4b1109672",
+      "url:https://jobright.ai/jobs/info/6afb8ff606c0aac84dd970bb",
+      "jobright-67eb9f1e568a",
+      "url:https://jobright.ai/jobs/info/6afb8451c5917ce34b5dba4d",
+      "jobright-a20f57562f19",
+      "url:https://jobright.ai/jobs/info/6afb8b24be8589f0b74bf164",
+      "jobright-9c3c7e1bffa6",
+      "url:https://jobright.ai/jobs/info/6afb8c50c5917ce34b5dc2c8"
     ]
   }
 }
