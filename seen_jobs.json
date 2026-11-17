@@ -25303,10 +25303,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/greenhouse-intrinsicrobotics-6214763004",
       "seen_at": "2026-11-17T01:31:20.735470+00:00"
+    },
+    {
+      "id": "jobright-2e646ed09121",
+      "seen_at": "2026-11-17T02:01:21.712975+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb868cbe8589f0b74bed83",
+      "seen_at": "2026-11-17T02:01:21.713310+00:00"
+    },
+    {
+      "id": "jobright-3748feb8d155",
+      "seen_at": "2026-11-17T02:01:21.713608+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afb8681c5917ce34b5dbe09",
+      "seen_at": "2026-11-17T02:01:21.713860+00:00"
+    },
+    {
+      "id": "jobright-5458a7b95634",
+      "seen_at": "2026-11-17T02:01:21.714105+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ace7689ba99f15ef4124df0",
+      "seen_at": "2026-11-17T02:01:21.714330+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5484171008",
+      "seen_at": "2026-11-17T02:01:21.714558+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5484171008",
+      "seen_at": "2026-11-17T02:01:21.714756+00:00"
+    },
+    {
+      "id": "zapply-98fe1aa7a9f7",
+      "seen_at": "2026-11-17T02:01:26.460085+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/sr-BoschGroup-744000161951863",
+      "seen_at": "2026-11-17T02:01:26.460373+00:00"
     }
   ],
-  "last_run": "2026-11-17T01:31:20.930598+00:00",
-  "total_notified": 12692,
+  "last_run": "2026-11-17T02:01:26.767664+00:00",
+  "total_notified": 12697,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -26440,7 +26480,9 @@
       "jobright-6fa0cf3071b8",
       "url:https://jobright.ai/jobs/info/6afb8d77c5917ce34b5dc329",
       "zapply-9c7eb73b1c6b",
-      "url:https://zapply.jobs/l/d/greenhouse-intrinsicrobotics-6214763004"
+      "url:https://zapply.jobs/l/d/greenhouse-intrinsicrobotics-6214763004",
+      "zapply-98fe1aa7a9f7",
+      "url:https://zapply.jobs/l/d/sr-BoschGroup-744000161951863"
     ],
     "swe-ai-full-time": [
       "jobright-0c99bdcf113e",
@@ -31642,7 +31684,15 @@
       "jobright-a20f57562f19",
       "url:https://jobright.ai/jobs/info/6afb8b24be8589f0b74bf164",
       "jobright-9c3c7e1bffa6",
-      "url:https://jobright.ai/jobs/info/6afb8c50c5917ce34b5dc2c8"
+      "url:https://jobright.ai/jobs/info/6afb8c50c5917ce34b5dc2c8",
+      "jobright-2e646ed09121",
+      "url:https://jobright.ai/jobs/info/6afb868cbe8589f0b74bed83",
+      "jobright-3748feb8d155",
+      "url:https://jobright.ai/jobs/info/6afb8681c5917ce34b5dbe09",
+      "jobright-5458a7b95634",
+      "url:https://jobright.ai/jobs/info/6ace7689ba99f15ef4124df0",
+      "greenhouse-anthropic-5484171008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5484171008"
     ]
   }
 }
