@@ -25367,10 +25367,34 @@
     {
       "id": "url:https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1",
       "seen_at": "2026-11-17T03:08:00.379133+00:00"
+    },
+    {
+      "id": "greenhouse-xai-5297311007",
+      "seen_at": "2026-11-17T04:01:15.115422+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/xai/jobs/5297311007",
+      "seen_at": "2026-11-17T04:01:15.115961+00:00"
+    },
+    {
+      "id": "jobright-f798acd0076b",
+      "seen_at": "2026-11-17T04:01:15.116424+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afbb576c96cba79575c151c",
+      "seen_at": "2026-11-17T04:01:15.116850+00:00"
+    },
+    {
+      "id": "zapply-55754848f68c",
+      "seen_at": "2026-11-17T04:01:20.584503+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/phenom-danaher-R1320858",
+      "seen_at": "2026-11-17T04:01:20.584961+00:00"
     }
   ],
-  "last_run": "2026-11-17T03:31:22.500199+00:00",
-  "total_notified": 12701,
+  "last_run": "2026-11-17T04:01:20.882374+00:00",
+  "total_notified": 12704,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -26508,7 +26532,9 @@
       "zapply-98fe1aa7a9f7",
       "url:https://zapply.jobs/l/d/sr-BoschGroup-744000161951863",
       "jobright-838d0148359b",
-      "url:https://jobright.ai/jobs/info/6afb638a04af1c9f075c781e"
+      "url:https://jobright.ai/jobs/info/6afb638a04af1c9f075c781e",
+      "zapply-55754848f68c",
+      "url:https://zapply.jobs/l/d/phenom-danaher-R1320858"
     ],
     "swe-ai-full-time": [
       "jobright-6e27e6a00ea3",
@@ -31722,7 +31748,11 @@
       "jobright-c38a10b08da8",
       "url:https://jobright.ai/jobs/info/6aa854b4930bff471a2a68a4",
       "simplify-d679fa04-c74e-4987-a9aa-2e381ad6fa52",
-      "url:https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1"
+      "url:https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1",
+      "greenhouse-xai-5297311007",
+      "url:https://job-boards.greenhouse.io/xai/jobs/5297311007",
+      "jobright-f798acd0076b",
+      "url:https://jobright.ai/jobs/info/6afbb576c96cba79575c151c"
     ]
   }
 }
