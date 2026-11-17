@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-0c99bdcf113e",
-      "seen_at": "2026-10-18T02:01:16.227297+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5b71fc856af468ab00cd9d",
-      "seen_at": "2026-10-18T02:01:16.228022+00:00"
-    },
-    {
       "id": "jobright-6e27e6a00ea3",
       "seen_at": "2026-10-18T10:01:15.730457+00:00"
     },
@@ -25345,7 +25337,7 @@
       "seen_at": "2026-11-17T02:01:26.460373+00:00"
     }
   ],
-  "last_run": "2026-11-17T02:01:26.767664+00:00",
+  "last_run": "2026-11-17T02:31:14.411948+00:00",
   "total_notified": 12697,
   "channels": {
     "pm-jobs": [
@@ -26485,8 +26477,6 @@
       "url:https://zapply.jobs/l/d/sr-BoschGroup-744000161951863"
     ],
     "swe-ai-full-time": [
-      "jobright-0c99bdcf113e",
-      "url:https://jobright.ai/jobs/info/6a5b71fc856af468ab00cd9d",
       "jobright-6e27e6a00ea3",
       "url:https://jobright.ai/jobs/info/6a714fdee2b7476e7b20da64",
       "jobright-929c49c115f3",
