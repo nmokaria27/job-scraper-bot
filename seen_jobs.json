@@ -25495,10 +25495,58 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineer_JR367393",
       "seen_at": "2026-11-17T16:31:35.606161+00:00"
+    },
+    {
+      "id": "jobright-bd13f282b244",
+      "seen_at": "2026-11-17T17:01:37.325427+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acfe928c9f40bec907fed4a",
+      "seen_at": "2026-11-17T17:01:37.325761+00:00"
+    },
+    {
+      "id": "jobright-61eac1f626e7",
+      "seen_at": "2026-11-17T17:01:37.326050+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc6cb340b855eb290caba8",
+      "seen_at": "2026-11-17T17:01:37.326327+00:00"
+    },
+    {
+      "id": "jobright-2d4a4a73d3de",
+      "seen_at": "2026-11-17T17:01:37.326590+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc69d91e98d304ea7f09d6",
+      "seen_at": "2026-11-17T17:01:37.326829+00:00"
+    },
+    {
+      "id": "jobright-27a3333e5d5b",
+      "seen_at": "2026-11-17T17:01:37.327064+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc706c29e5a8844e6585ac",
+      "seen_at": "2026-11-17T17:01:37.327291+00:00"
+    },
+    {
+      "id": "jobright-cc6da30a2922",
+      "seen_at": "2026-11-17T17:01:42.365687+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0ad6e8a203b1052e44f280",
+      "seen_at": "2026-11-17T17:01:42.365969+00:00"
+    },
+    {
+      "id": "jobright-b8bd7f65ddc1",
+      "seen_at": "2026-11-17T17:01:42.366239+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a0ad6e9ef3b13362e7d6d19",
+      "seen_at": "2026-11-17T17:01:42.366478+00:00"
     }
   ],
-  "last_run": "2026-11-17T16:31:38.860449+00:00",
-  "total_notified": 12731,
+  "last_run": "2026-11-17T17:01:42.820547+00:00",
+  "total_notified": 12737,
   "channels": {
     "pm-jobs": [
       "jobright-54f18fd5b6fa",
@@ -26640,7 +26688,11 @@
       "zapply-b061084c3f48",
       "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000161990226",
       "jobright-1d2573f2f7e8",
-      "url:https://jobright.ai/jobs/info/6afc3da47df9c4ceafeb8ddb"
+      "url:https://jobright.ai/jobs/info/6afc3da47df9c4ceafeb8ddb",
+      "jobright-cc6da30a2922",
+      "url:https://jobright.ai/jobs/info/6a0ad6e8a203b1052e44f280",
+      "jobright-b8bd7f65ddc1",
+      "url:https://jobright.ai/jobs/info/6a0ad6e9ef3b13362e7d6d19"
     ],
     "swe-ai-full-time": [
       "jobright-6b7ac2ad464e",
@@ -31882,7 +31934,15 @@
       "simplify-108f8361-3490-48b9-8adb-90224c6628f4",
       "url:https://ats.rippling.com/pathos/jobs/9e3f9d30-9b33-412a-9ebd-97e69539489a",
       "workday-salesforce-JR367393",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineer_JR367393"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineer_JR367393",
+      "jobright-bd13f282b244",
+      "url:https://jobright.ai/jobs/info/6acfe928c9f40bec907fed4a",
+      "jobright-61eac1f626e7",
+      "url:https://jobright.ai/jobs/info/6afc6cb340b855eb290caba8",
+      "jobright-2d4a4a73d3de",
+      "url:https://jobright.ai/jobs/info/6afc69d91e98d304ea7f09d6",
+      "jobright-27a3333e5d5b",
+      "url:https://jobright.ai/jobs/info/6afc706c29e5a8844e6585ac"
     ]
   }
 }
