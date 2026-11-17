@@ -25207,10 +25207,34 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10606737/software-development-engineer-customer-experience-and-business-trends",
       "seen_at": "2026-11-17T00:01:14.959354+00:00"
+    },
+    {
+      "id": "simplify-333b9ad5-4fc1-4f10-98d9-51e89662d322",
+      "seen_at": "2026-11-17T00:31:20.691376+00:00"
+    },
+    {
+      "id": "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24969",
+      "seen_at": "2026-11-17T00:31:20.691755+00:00"
+    },
+    {
+      "id": "simplify-1efbbe00-3419-4e1e-8db8-ae31e660ddbc",
+      "seen_at": "2026-11-17T00:31:20.692087+00:00"
+    },
+    {
+      "id": "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960",
+      "seen_at": "2026-11-17T00:31:20.692394+00:00"
+    },
+    {
+      "id": "simplify-240c8b54-b581-4a55-8ff5-c992035db71d",
+      "seen_at": "2026-11-17T00:31:20.692677+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply",
+      "seen_at": "2026-11-17T00:31:20.692947+00:00"
     }
   ],
-  "last_run": "2026-11-17T00:01:19.571556+00:00",
-  "total_notified": 12680,
+  "last_run": "2026-11-17T00:31:23.675362+00:00",
+  "total_notified": 12683,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -31522,7 +31546,13 @@
       "gradtracker-d8880bdf7bd0",
       "url:https://www.amazon.jobs/en/jobs/10606497/software-development-engineer-transactional-services-database-distributed-systems",
       "amazon-10606737",
-      "url:https://www.amazon.jobs/en/jobs/10606737/software-development-engineer-customer-experience-and-business-trends"
+      "url:https://www.amazon.jobs/en/jobs/10606737/software-development-engineer-customer-experience-and-business-trends",
+      "simplify-333b9ad5-4fc1-4f10-98d9-51e89662d322",
+      "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24969",
+      "simplify-1efbbe00-3419-4e1e-8db8-ae31e660ddbc",
+      "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960",
+      "simplify-240c8b54-b581-4a55-8ff5-c992035db71d",
+      "url:https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply"
     ]
   }
 }
