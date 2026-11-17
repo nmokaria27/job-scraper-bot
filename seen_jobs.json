@@ -25479,10 +25479,58 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6afc3da47df9c4ceafeb8ddb",
       "seen_at": "2026-11-17T14:01:28.935741+00:00"
+    },
+    {
+      "id": "jobright-c9d094674526",
+      "seen_at": "2026-11-17T16:01:18.598276+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc68b640b855eb290ca945",
+      "seen_at": "2026-11-17T16:01:18.598879+00:00"
+    },
+    {
+      "id": "jobright-50a26f3d55be",
+      "seen_at": "2026-11-17T16:01:18.599482+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac3c4a98ff3fb9b3bc82078",
+      "seen_at": "2026-11-17T16:01:18.599918+00:00"
+    },
+    {
+      "id": "jobright-916918d2acc2",
+      "seen_at": "2026-11-17T16:01:18.600400+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc68327df9c4ceafeb9d4f",
+      "seen_at": "2026-11-17T16:01:18.600819+00:00"
+    },
+    {
+      "id": "simplify-9d85e1dd-dd78-4128-9da0-f6f57c3ab6bf",
+      "seen_at": "2026-11-17T16:01:18.601256+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/interimage/j/89601AD3BE/apply",
+      "seen_at": "2026-11-17T16:01:18.601657+00:00"
+    },
+    {
+      "id": "jobright-55744a38a4b5",
+      "seen_at": "2026-11-17T16:01:18.602074+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc6804755d7cdf658003c0",
+      "seen_at": "2026-11-17T16:01:18.602501+00:00"
+    },
+    {
+      "id": "simplify-108f8361-3490-48b9-8adb-90224c6628f4",
+      "seen_at": "2026-11-17T16:01:18.602909+00:00"
+    },
+    {
+      "id": "url:https://ats.rippling.com/pathos/jobs/9e3f9d30-9b33-412a-9ebd-97e69539489a",
+      "seen_at": "2026-11-17T16:01:18.603313+00:00"
     }
   ],
-  "last_run": "2026-11-17T15:31:15.503610+00:00",
-  "total_notified": 12724,
+  "last_run": "2026-11-17T16:01:22.368452+00:00",
+  "total_notified": 12730,
   "channels": {
     "pm-jobs": [
       "jobright-54f18fd5b6fa",
@@ -31862,7 +31910,19 @@
       "jobright-da253ebbd628",
       "url:https://jobright.ai/jobs/info/6a9b1e1bd5ff1f3f1c39db6c",
       "greenhouse-point72-8945315002",
-      "url:https://boards.greenhouse.io/point72/jobs/8945315002"
+      "url:https://boards.greenhouse.io/point72/jobs/8945315002",
+      "jobright-c9d094674526",
+      "url:https://jobright.ai/jobs/info/6afc68b640b855eb290ca945",
+      "jobright-50a26f3d55be",
+      "url:https://jobright.ai/jobs/info/6ac3c4a98ff3fb9b3bc82078",
+      "jobright-916918d2acc2",
+      "url:https://jobright.ai/jobs/info/6afc68327df9c4ceafeb9d4f",
+      "simplify-9d85e1dd-dd78-4128-9da0-f6f57c3ab6bf",
+      "url:https://apply.workable.com/interimage/j/89601AD3BE/apply",
+      "jobright-55744a38a4b5",
+      "url:https://jobright.ai/jobs/info/6afc6804755d7cdf658003c0",
+      "simplify-108f8361-3490-48b9-8adb-90224c6628f4",
+      "url:https://ats.rippling.com/pathos/jobs/9e3f9d30-9b33-412a-9ebd-97e69539489a"
     ]
   }
 }
