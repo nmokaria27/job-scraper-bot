@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-54f18fd5b6fa",
-      "seen_at": "2026-10-18T19:39:18.980291+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9d5d7568f82b40367379af",
-      "seen_at": "2026-10-18T19:39:18.980932+00:00"
-    },
-    {
       "id": "jobright-07e75f5ab901",
       "seen_at": "2026-10-18T22:01:18.230305+00:00"
     },
@@ -25695,14 +25687,60 @@
     {
       "id": "url:https://jobs.ashbyhq.com/langchain/86ba410e-2625-41e4-b430-3f0d7c7477a5",
       "seen_at": "2026-11-17T19:31:34.842770+00:00"
+    },
+    {
+      "id": "jobright-87b2d56ae563",
+      "seen_at": "2026-11-17T20:01:21.972562+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc9489bc723850cf8355b9",
+      "seen_at": "2026-11-17T20:01:21.973075+00:00"
+    },
+    {
+      "id": "jobright-a53557a3ceb9",
+      "seen_at": "2026-11-17T20:01:21.973571+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a96fa2c246d697dcee02555",
+      "seen_at": "2026-11-17T20:01:21.974005+00:00"
+    },
+    {
+      "id": "ashby-benchling-6183438d-1ff6-4389-aff9-a0128ff3a407",
+      "seen_at": "2026-11-17T20:01:21.974440+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407",
+      "seen_at": "2026-11-17T20:01:21.974834+00:00"
+    },
+    {
+      "id": "jobright-970a44e54306",
+      "seen_at": "2026-11-17T20:01:21.975298+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc924893c0a36328a8cca9",
+      "seen_at": "2026-11-17T20:01:21.975713+00:00"
+    },
+    {
+      "id": "ashby-benchling-7b1ffaaf-2374-4b09-8495-899cc4847862",
+      "seen_at": "2026-11-17T20:01:21.976124+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862",
+      "seen_at": "2026-11-17T20:01:21.976539+00:00"
+    },
+    {
+      "id": "jobright-047f0f797384",
+      "seen_at": "2026-11-17T20:01:25.616757+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a1d59496b135014dbc95dc8",
+      "seen_at": "2026-11-17T20:01:25.617194+00:00"
     }
   ],
-  "last_run": "2026-11-17T19:31:35.122496+00:00",
-  "total_notified": 12759,
+  "last_run": "2026-11-17T20:01:25.794791+00:00",
+  "total_notified": 12765,
   "channels": {
     "pm-jobs": [
-      "jobright-54f18fd5b6fa",
-      "url:https://jobright.ai/jobs/info/6a9d5d7568f82b40367379af",
       "jobright-d458f63fb0a5",
       "url:https://jobright.ai/jobs/info/6a976553b22f636c81417a95",
       "jobright-13d860532946",
@@ -26852,7 +26890,9 @@
       "jobright-389f74dec683",
       "url:https://jobright.ai/jobs/info/6a0ad6e26186f46859892bff",
       "ashby-langchain-86ba410e-2625-41e4-b430-3f0d7c7477a5",
-      "url:https://jobs.ashbyhq.com/langchain/86ba410e-2625-41e4-b430-3f0d7c7477a5"
+      "url:https://jobs.ashbyhq.com/langchain/86ba410e-2625-41e4-b430-3f0d7c7477a5",
+      "jobright-047f0f797384",
+      "url:https://jobright.ai/jobs/info/6a1d59496b135014dbc95dc8"
     ],
     "swe-ai-full-time": [
       "jobright-07e75f5ab901",
@@ -32132,7 +32172,17 @@
       "greenhouse-akunacapital-8359204",
       "url:https://www.akunacapital.com/careers/job/8359204",
       "amazon-10607204",
-      "url:https://www.amazon.jobs/en/jobs/10607204/simulation-modeling-applied-scientist-prime-air-flight-sciences-high-fidelity-methods"
+      "url:https://www.amazon.jobs/en/jobs/10607204/simulation-modeling-applied-scientist-prime-air-flight-sciences-high-fidelity-methods",
+      "jobright-87b2d56ae563",
+      "url:https://jobright.ai/jobs/info/6afc9489bc723850cf8355b9",
+      "jobright-a53557a3ceb9",
+      "url:https://jobright.ai/jobs/info/6a96fa2c246d697dcee02555",
+      "ashby-benchling-6183438d-1ff6-4389-aff9-a0128ff3a407",
+      "url:https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407",
+      "jobright-970a44e54306",
+      "url:https://jobright.ai/jobs/info/6afc924893c0a36328a8cca9",
+      "ashby-benchling-7b1ffaaf-2374-4b09-8495-899cc4847862",
+      "url:https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862"
     ]
   }
 }
