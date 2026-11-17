@@ -25495,10 +25495,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a9b1e1bd5ff1f3f1c39db6c",
       "seen_at": "2026-11-17T13:01:34.475284+00:00"
+    },
+    {
+      "id": "greenhouse-point72-8945315002",
+      "seen_at": "2026-11-17T14:01:23.985026+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/point72/jobs/8945315002",
+      "seen_at": "2026-11-17T14:01:23.985598+00:00"
+    },
+    {
+      "id": "jobright-1d2573f2f7e8",
+      "seen_at": "2026-11-17T14:01:28.935208+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afc3da47df9c4ceafeb8ddb",
+      "seen_at": "2026-11-17T14:01:28.935741+00:00"
     }
   ],
-  "last_run": "2026-11-17T13:31:15.915807+00:00",
-  "total_notified": 12722,
+  "last_run": "2026-11-17T14:01:29.152104+00:00",
+  "total_notified": 12724,
   "channels": {
     "pm-jobs": [
       "jobright-f771c3c098e9",
@@ -26640,7 +26656,9 @@
       "zapply-55754848f68c",
       "url:https://zapply.jobs/l/d/phenom-danaher-R1320858",
       "zapply-b061084c3f48",
-      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000161990226"
+      "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000161990226",
+      "jobright-1d2573f2f7e8",
+      "url:https://jobright.ai/jobs/info/6afc3da47df9c4ceafeb8ddb"
     ],
     "swe-ai-full-time": [
       "jobright-09e36409068e",
@@ -31882,7 +31900,9 @@
       "jobright-eed844e78d50",
       "url:https://jobright.ai/jobs/info/6afb8c5ac5917ce34b5dc2d3",
       "jobright-da253ebbd628",
-      "url:https://jobright.ai/jobs/info/6a9b1e1bd5ff1f3f1c39db6c"
+      "url:https://jobright.ai/jobs/info/6a9b1e1bd5ff1f3f1c39db6c",
+      "greenhouse-point72-8945315002",
+      "url:https://boards.greenhouse.io/point72/jobs/8945315002"
     ]
   }
 }
