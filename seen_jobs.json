@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-55239fcbe9f9",
-      "seen_at": "2026-10-19T19:31:33.485359+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-citi-2-26999296",
-      "seen_at": "2026-10-19T19:31:33.485753+00:00"
-    },
-    {
-      "id": "amazon-10583203",
-      "seen_at": "2026-10-19T19:31:33.486086+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10583203/software-development-engineer-amazon-quick",
-      "seen_at": "2026-10-19T19:31:33.486423+00:00"
-    },
-    {
       "id": "jobright-02ca78cd1ce6",
       "seen_at": "2026-10-19T20:01:36.765983+00:00"
     },
@@ -26229,7 +26213,7 @@
       "seen_at": "2026-11-18T19:31:45.495786+00:00"
     }
   ],
-  "last_run": "2026-11-18T19:31:45.711940+00:00",
+  "last_run": "2026-11-18T19:34:40.921651+00:00",
   "total_notified": 12883,
   "channels": {
     "pm-jobs": [
@@ -27431,10 +27415,6 @@
       "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2603917"
     ],
     "swe-ai-full-time": [
-      "zapply-55239fcbe9f9",
-      "url:https://zapply.jobs/l/d/workday-citi-2-26999296",
-      "amazon-10583203",
-      "url:https://www.amazon.jobs/en/jobs/10583203/software-development-engineer-amazon-quick",
       "jobright-02ca78cd1ce6",
       "url:https://jobright.ai/jobs/info/6a55b6b1ef22935f2e3f5e86",
       "jobright-a43da94c9cbb",
