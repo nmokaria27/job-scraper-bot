@@ -26099,10 +26099,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a600ec933ef5c58b4001949",
       "seen_at": "2026-11-18T21:31:16.213023+00:00"
+    },
+    {
+      "id": "jobright-51e1f557cb0e",
+      "seen_at": "2026-11-18T22:01:16.227337+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af825ea42ae65e2c8f3b2fa",
+      "seen_at": "2026-11-18T22:01:16.227737+00:00"
+    },
+    {
+      "id": "amazon-10607759",
+      "seen_at": "2026-11-18T22:01:16.228118+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10607759/software-development-engineer-luna-sips",
+      "seen_at": "2026-11-18T22:01:16.228430+00:00"
+    },
+    {
+      "id": "jobright-5976081adc7b",
+      "seen_at": "2026-11-18T22:01:16.228732+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afe0c3f0cde47528ec11429",
+      "seen_at": "2026-11-18T22:01:16.229036+00:00"
+    },
+    {
+      "id": "jobright-b4a08dd7f6bf",
+      "seen_at": "2026-11-18T22:01:20.766454+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afe0d76f170d82b39670d96",
+      "seen_at": "2026-11-18T22:01:20.766789+00:00"
+    },
+    {
+      "id": "jobright-035132d3adad",
+      "seen_at": "2026-11-18T22:01:20.767131+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afe0b04758942b6422b6c60",
+      "seen_at": "2026-11-18T22:01:20.767412+00:00"
     }
   ],
-  "last_run": "2026-11-18T21:31:20.444374+00:00",
-  "total_notified": 12892,
+  "last_run": "2026-11-18T22:01:20.984751+00:00",
+  "total_notified": 12897,
   "channels": {
     "pm-jobs": [
       "zapply-1733b37173e6",
@@ -27300,7 +27340,11 @@
       "zapply-77df927df945",
       "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2603917",
       "jobright-062bd84913e7",
-      "url:https://jobright.ai/jobs/info/6afde4fa0324c008a17e24b1"
+      "url:https://jobright.ai/jobs/info/6afde4fa0324c008a17e24b1",
+      "jobright-b4a08dd7f6bf",
+      "url:https://jobright.ai/jobs/info/6afe0d76f170d82b39670d96",
+      "jobright-035132d3adad",
+      "url:https://jobright.ai/jobs/info/6afe0b04758942b6422b6c60"
     ],
     "swe-ai-full-time": [
       "zapply-7ebec958632a",
@@ -32638,7 +32682,13 @@
       "ashby-ramp-f90d32c1-7c10-4161-8913-075e1b423697",
       "url:https://jobs.ashbyhq.com/ramp/f90d32c1-7c10-4161-8913-075e1b423697",
       "jobright-9ce312fc89a4",
-      "url:https://jobright.ai/jobs/info/6a600ec933ef5c58b4001949"
+      "url:https://jobright.ai/jobs/info/6a600ec933ef5c58b4001949",
+      "jobright-51e1f557cb0e",
+      "url:https://jobright.ai/jobs/info/6af825ea42ae65e2c8f3b2fa",
+      "amazon-10607759",
+      "url:https://www.amazon.jobs/en/jobs/10607759/software-development-engineer-luna-sips",
+      "jobright-5976081adc7b",
+      "url:https://jobright.ai/jobs/info/6afe0c3f0cde47528ec11429"
     ]
   }
 }
