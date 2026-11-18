@@ -26115,10 +26115,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af85e5935427cce9bb2d061",
       "seen_at": "2026-11-18T12:01:13.810899+00:00"
+    },
+    {
+      "id": "jobright-f1c50cf44c90",
+      "seen_at": "2026-11-18T15:01:42.469203+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af85ded42ae65e2c8f3c515",
+      "seen_at": "2026-11-18T15:01:42.469723+00:00"
+    },
+    {
+      "id": "greenhouse-twilio-8385593",
+      "seen_at": "2026-11-18T15:01:42.470182+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/twilio/jobs/8385593",
+      "seen_at": "2026-11-18T15:01:42.470582+00:00"
     }
   ],
-  "last_run": "2026-11-18T14:31:18.433275+00:00",
-  "total_notified": 12846,
+  "last_run": "2026-11-18T15:01:46.289340+00:00",
+  "total_notified": 12848,
   "channels": {
     "pm-jobs": [
       "jobright-9510ac8e9378",
@@ -32658,7 +32674,11 @@
       "jobright-5ce443a990bd",
       "url:https://jobright.ai/jobs/info/6afd316bc9f7ca2bdfb20ed9",
       "jobright-f63de4880810",
-      "url:https://jobright.ai/jobs/info/6af85e5935427cce9bb2d061"
+      "url:https://jobright.ai/jobs/info/6af85e5935427cce9bb2d061",
+      "jobright-f1c50cf44c90",
+      "url:https://jobright.ai/jobs/info/6af85ded42ae65e2c8f3c515",
+      "greenhouse-twilio-8385593",
+      "url:https://job-boards.greenhouse.io/twilio/jobs/8385593"
     ]
   }
 }
