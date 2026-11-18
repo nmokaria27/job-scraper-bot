@@ -1,158 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-1f1bc4008f25",
-      "seen_at": "2026-10-19T10:01:33.396367+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a73f26c1ce9647cdbcaa9c2",
-      "seen_at": "2026-10-19T10:01:33.396993+00:00"
-    },
-    {
-      "id": "jobright-0872f8229d4d",
-      "seen_at": "2026-10-19T10:01:33.397473+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7cf4c0d77e8156a8e35419",
-      "seen_at": "2026-10-19T10:01:33.397916+00:00"
-    },
-    {
-      "id": "jobright-24c0b4154d04",
-      "seen_at": "2026-10-19T10:01:33.398382+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a8bd807680f314a29d41fe4",
-      "seen_at": "2026-10-19T10:01:33.398818+00:00"
-    },
-    {
-      "id": "jobright-1d466ee00675",
-      "seen_at": "2026-10-19T10:01:33.399292+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad5c270cfd70948fba471e7",
-      "seen_at": "2026-10-19T10:01:33.399731+00:00"
-    },
-    {
-      "id": "jobright-a79687ae956f",
-      "seen_at": "2026-10-19T10:01:33.400208+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad5b72aebd52f378af908d3",
-      "seen_at": "2026-10-19T10:01:33.400650+00:00"
-    },
-    {
-      "id": "simplify-5a59f0ee-1571-4abb-9f4a-04fb4914313a",
-      "seen_at": "2026-10-19T10:01:33.401112+00:00"
-    },
-    {
-      "id": "url:https://www.osfcareers.org/jobs/112750",
-      "seen_at": "2026-10-19T10:01:33.401543+00:00"
-    },
-    {
-      "id": "jobright-ca11ee7cdfb3",
-      "seen_at": "2026-10-19T10:01:33.401989+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad5b739f04335fc70ede5b1",
-      "seen_at": "2026-10-19T10:01:33.402424+00:00"
-    },
-    {
-      "id": "jobright-c281e42fdf4b",
-      "seen_at": "2026-10-19T10:01:33.402871+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad5b72c83ada13a9da0edd1",
-      "seen_at": "2026-10-19T10:01:33.403335+00:00"
-    },
-    {
-      "id": "jobright-a8f20cbafa99",
-      "seen_at": "2026-10-19T10:01:33.403786+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad5b72c810010ec72f60fc9",
-      "seen_at": "2026-10-19T10:01:33.404289+00:00"
-    },
-    {
-      "id": "jobright-abf5b12adeb5",
-      "seen_at": "2026-10-19T10:01:33.404754+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad5b725ebd52f378af908d1",
-      "seen_at": "2026-10-19T10:01:33.405213+00:00"
-    },
-    {
-      "id": "jobright-85df43d19018",
-      "seen_at": "2026-10-19T10:01:33.405672+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad5b722ebd52f378af908d0",
-      "seen_at": "2026-10-19T10:01:33.406125+00:00"
-    },
-    {
-      "id": "simplify-6bd34346-4e1e-4d5b-8ba1-9f643f4e6571",
-      "seen_at": "2026-10-19T10:01:33.406573+00:00"
-    },
-    {
-      "id": "url:https://www.conviva.ai/careers/job/8036615003",
-      "seen_at": "2026-10-19T10:01:33.407017+00:00"
-    },
-    {
-      "id": "jobright-86e093db01f3",
-      "seen_at": "2026-10-19T10:01:33.407460+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad59d0febd52f378af904a6",
-      "seen_at": "2026-10-19T10:01:33.407896+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5456453008",
-      "seen_at": "2026-10-19T10:01:33.408355+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5456453008",
-      "seen_at": "2026-10-19T10:01:33.408784+00:00"
-    },
-    {
-      "id": "amazon-10582292",
-      "seen_at": "2026-10-19T10:01:33.409239+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10582292/software-development-engineer-international-seller-growth",
-      "seen_at": "2026-10-19T10:01:33.409681+00:00"
-    },
-    {
-      "id": "ashby-clickhouse-1176ec78-e10d-4acd-8af8-47406af929ee",
-      "seen_at": "2026-10-19T10:01:33.410146+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/clickhouse/1176ec78-e10d-4acd-8af8-47406af929ee",
-      "seen_at": "2026-10-19T10:01:33.410588+00:00"
-    },
-    {
-      "id": "jobright-7a6405f522c6",
-      "seen_at": "2026-10-19T10:01:33.411055+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad5beaecfd70948fba46c4f",
-      "seen_at": "2026-10-19T10:01:33.411523+00:00"
-    },
-    {
-      "id": "jobright-13d860532946",
-      "seen_at": "2026-10-19T10:01:37.388811+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a84f9b8c1a3fd7120f74106",
-      "seen_at": "2026-10-19T10:01:37.389389+00:00"
-    },
-    {
-      "id": "zapply-4e1e63383d4e",
-      "seen_at": "2026-10-19T10:31:28.777173+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R73031",
-      "seen_at": "2026-10-19T10:31:28.777689+00:00"
-    },
-    {
       "id": "zapply-307d77d7cda0",
       "seen_at": "2026-10-19T11:01:36.649044+00:00"
     },
@@ -26267,16 +26115,52 @@
     {
       "id": "url:https://go.vansh.nyc/1C5",
       "seen_at": "2026-11-18T04:31:31.810592+00:00"
+    },
+    {
+      "id": "jobright-0ba077db3cb5",
+      "seen_at": "2026-11-18T11:01:13.851589+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afce98be8a9612f4e0dce07",
+      "seen_at": "2026-11-18T11:01:13.851907+00:00"
+    },
+    {
+      "id": "zapply-63f2fc5a8e25",
+      "seen_at": "2026-11-18T11:01:13.852201+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/deshaw-6273",
+      "seen_at": "2026-11-18T11:01:13.852442+00:00"
+    },
+    {
+      "id": "jobright-2f08d2387ba9",
+      "seen_at": "2026-11-18T11:01:13.852673+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afd3e08c9f7ca2bdfb21135",
+      "seen_at": "2026-11-18T11:01:13.852894+00:00"
+    },
+    {
+      "id": "jobright-5ce443a990bd",
+      "seen_at": "2026-11-18T11:01:13.853127+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afd316bc9f7ca2bdfb20ed9",
+      "seen_at": "2026-11-18T11:01:13.853329+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2028023",
+      "seen_at": "2026-11-18T11:01:18.639423+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accelerated-Computing-GPU-Product-Manager_JR2028023",
+      "seen_at": "2026-11-18T11:01:18.639703+00:00"
     }
   ],
-  "last_run": "2026-11-18T04:31:32.001627+00:00",
-  "total_notified": 12840,
+  "last_run": "2026-11-18T11:01:18.900969+00:00",
+  "total_notified": 12845,
   "channels": {
     "pm-jobs": [
-      "jobright-13d860532946",
-      "url:https://jobright.ai/jobs/info/6a84f9b8c1a3fd7120f74106",
-      "zapply-4e1e63383d4e",
-      "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R73031",
       "zapply-307d77d7cda0",
       "url:https://zapply.jobs/l/d/google-136073823404335814",
       "jobright-9510ac8e9378",
@@ -27458,43 +27342,11 @@
       "jobright-e64ac38f8a67",
       "url:https://jobright.ai/jobs/info/6a9afa5e90a313642c657d6b",
       "simplify-7c1a957b-fae2-4bff-91ab-f5acaa6c86e0",
-      "url:https://go.vansh.nyc/1C5"
+      "url:https://go.vansh.nyc/1C5",
+      "workday-nvidia-JR2028023",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accelerated-Computing-GPU-Product-Manager_JR2028023"
     ],
     "swe-ai-full-time": [
-      "jobright-1f1bc4008f25",
-      "url:https://jobright.ai/jobs/info/6a73f26c1ce9647cdbcaa9c2",
-      "jobright-0872f8229d4d",
-      "url:https://jobright.ai/jobs/info/6a7cf4c0d77e8156a8e35419",
-      "jobright-24c0b4154d04",
-      "url:https://jobright.ai/jobs/info/6a8bd807680f314a29d41fe4",
-      "jobright-1d466ee00675",
-      "url:https://jobright.ai/jobs/info/6ad5c270cfd70948fba471e7",
-      "jobright-a79687ae956f",
-      "url:https://jobright.ai/jobs/info/6ad5b72aebd52f378af908d3",
-      "simplify-5a59f0ee-1571-4abb-9f4a-04fb4914313a",
-      "url:https://www.osfcareers.org/jobs/112750",
-      "jobright-ca11ee7cdfb3",
-      "url:https://jobright.ai/jobs/info/6ad5b739f04335fc70ede5b1",
-      "jobright-c281e42fdf4b",
-      "url:https://jobright.ai/jobs/info/6ad5b72c83ada13a9da0edd1",
-      "jobright-a8f20cbafa99",
-      "url:https://jobright.ai/jobs/info/6ad5b72c810010ec72f60fc9",
-      "jobright-abf5b12adeb5",
-      "url:https://jobright.ai/jobs/info/6ad5b725ebd52f378af908d1",
-      "jobright-85df43d19018",
-      "url:https://jobright.ai/jobs/info/6ad5b722ebd52f378af908d0",
-      "simplify-6bd34346-4e1e-4d5b-8ba1-9f643f4e6571",
-      "url:https://www.conviva.ai/careers/job/8036615003",
-      "jobright-86e093db01f3",
-      "url:https://jobright.ai/jobs/info/6ad59d0febd52f378af904a6",
-      "greenhouse-anthropic-5456453008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5456453008",
-      "amazon-10582292",
-      "url:https://www.amazon.jobs/en/jobs/10582292/software-development-engineer-international-seller-growth",
-      "ashby-clickhouse-1176ec78-e10d-4acd-8af8-47406af929ee",
-      "url:https://jobs.ashbyhq.com/clickhouse/1176ec78-e10d-4acd-8af8-47406af929ee",
-      "jobright-7a6405f522c6",
-      "url:https://jobright.ai/jobs/info/6ad5beaecfd70948fba46c4f",
       "jobright-651bc7aad146",
       "url:https://jobright.ai/jobs/info/6a71a42571acd469eeda3932",
       "jobright-11293f972fa7",
@@ -32848,7 +32700,15 @@
       "jobright-e6693e1262f4",
       "url:https://jobright.ai/jobs/info/6afd06c656aa9772e7d5615f",
       "jobright-416c28b4a0f9",
-      "url:https://jobright.ai/jobs/info/6afce9f994232f5ac42d32f6"
+      "url:https://jobright.ai/jobs/info/6afce9f994232f5ac42d32f6",
+      "jobright-0ba077db3cb5",
+      "url:https://jobright.ai/jobs/info/6afce98be8a9612f4e0dce07",
+      "zapply-63f2fc5a8e25",
+      "url:https://zapply.jobs/l/d/deshaw-6273",
+      "jobright-2f08d2387ba9",
+      "url:https://jobright.ai/jobs/info/6afd3e08c9f7ca2bdfb21135",
+      "jobright-5ce443a990bd",
+      "url:https://jobright.ai/jobs/info/6afd316bc9f7ca2bdfb20ed9"
     ]
   }
 }
