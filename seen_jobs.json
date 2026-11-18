@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-307d77d7cda0",
-      "seen_at": "2026-10-19T11:01:36.649044+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/google-136073823404335814",
-      "seen_at": "2026-10-19T11:01:36.649359+00:00"
-    },
-    {
       "id": "jobright-651bc7aad146",
       "seen_at": "2026-10-19T12:01:46.562862+00:00"
     },
@@ -26157,12 +26149,10 @@
       "seen_at": "2026-11-18T11:01:18.639703+00:00"
     }
   ],
-  "last_run": "2026-11-18T11:01:18.900969+00:00",
+  "last_run": "2026-11-18T11:31:09.588209+00:00",
   "total_notified": 12845,
   "channels": {
     "pm-jobs": [
-      "zapply-307d77d7cda0",
-      "url:https://zapply.jobs/l/d/google-136073823404335814",
       "jobright-9510ac8e9378",
       "url:https://jobright.ai/jobs/info/6ad60b2b67bec1d0d9c6aba6",
       "zapply-90618a5c9cfe",
