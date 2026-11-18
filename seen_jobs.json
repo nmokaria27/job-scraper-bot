@@ -26171,10 +26171,66 @@
     {
       "id": "url:https://go.vansh.nyc/1C2",
       "seen_at": "2026-11-18T02:31:09.773381+00:00"
+    },
+    {
+      "id": "jobright-55290bbbbab7",
+      "seen_at": "2026-11-18T03:01:28.149755+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afcf23894232f5ac42d3821",
+      "seen_at": "2026-11-18T03:01:28.150289+00:00"
+    },
+    {
+      "id": "gradtracker-7e433bba92d2",
+      "seen_at": "2026-11-18T03:01:28.150746+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000162190099",
+      "seen_at": "2026-11-18T03:01:28.151161+00:00"
+    },
+    {
+      "id": "jobright-6fd9f9255eca",
+      "seen_at": "2026-11-18T03:01:28.151549+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae66c18c3139b475b5bcab8",
+      "seen_at": "2026-11-18T03:01:28.151956+00:00"
+    },
+    {
+      "id": "gradtracker-be166754e724",
+      "seen_at": "2026-11-18T03:01:28.152330+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446722119778",
+      "seen_at": "2026-11-18T03:01:28.152695+00:00"
+    },
+    {
+      "id": "amazon-10607713",
+      "seen_at": "2026-11-18T03:01:28.153098+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10607713/software-development-engineer-devices-software-services",
+      "seen_at": "2026-11-18T03:01:28.153452+00:00"
+    },
+    {
+      "id": "simplify-304f32e2-fcf6-4a65-9220-0d88ea6a8440",
+      "seen_at": "2026-11-18T03:01:33.372016+00:00"
+    },
+    {
+      "id": "url:https://lifeattiktok.com/search/7704910847553931573",
+      "seen_at": "2026-11-18T03:01:33.372443+00:00"
+    },
+    {
+      "id": "jobright-ee6c83fbf845",
+      "seen_at": "2026-11-18T03:01:33.372871+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afcf27494232f5ac42d3831",
+      "seen_at": "2026-11-18T03:01:33.373232+00:00"
     }
   ],
-  "last_run": "2026-11-18T02:31:12.946038+00:00",
-  "total_notified": 12828,
+  "last_run": "2026-11-18T03:01:33.603731+00:00",
+  "total_notified": 12835,
   "channels": {
     "pm-jobs": [
       "jobright-13d860532946",
@@ -27354,7 +27410,11 @@
       "zapply-6f4b5e56051c",
       "url:https://zapply.jobs/l/d/oracle-oracle-345609",
       "zapply-3deaf1e55552",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2031557"
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2031557",
+      "simplify-304f32e2-fcf6-4a65-9220-0d88ea6a8440",
+      "url:https://lifeattiktok.com/search/7704910847553931573",
+      "jobright-ee6c83fbf845",
+      "url:https://jobright.ai/jobs/info/6afcf27494232f5ac42d3831"
     ],
     "swe-ai-full-time": [
       "jobright-1f1bc4008f25",
@@ -32728,7 +32788,17 @@
       "jobright-45a298107cc4",
       "url:https://jobright.ai/jobs/info/6afcea0094232f5ac42d3301",
       "simplify-9a12e36f-50b3-4517-ac49-7756fc90877d",
-      "url:https://go.vansh.nyc/1C2"
+      "url:https://go.vansh.nyc/1C2",
+      "jobright-55290bbbbab7",
+      "url:https://jobright.ai/jobs/info/6afcf23894232f5ac42d3821",
+      "gradtracker-7e433bba92d2",
+      "url:https://jobs.smartrecruiters.com/servicenow/744000162190099",
+      "jobright-6fd9f9255eca",
+      "url:https://jobright.ai/jobs/info/6ae66c18c3139b475b5bcab8",
+      "gradtracker-be166754e724",
+      "url:https://careers.qualcomm.com/careers/job/446722119778",
+      "amazon-10607713",
+      "url:https://www.amazon.jobs/en/jobs/10607713/software-development-engineer-devices-software-services"
     ]
   }
 }
