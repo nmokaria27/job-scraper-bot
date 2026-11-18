@@ -26123,10 +26123,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6afcd8a194232f5ac42d2a58",
       "seen_at": "2026-11-18T01:01:28.995023+00:00"
+    },
+    {
+      "id": "applyguy-c1059658-3f02-4f07-a877-5489ea1cd3ec",
+      "seen_at": "2026-11-18T01:31:33.903862+00:00"
+    },
+    {
+      "id": "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673458",
+      "seen_at": "2026-11-18T01:31:33.904577+00:00"
+    },
+    {
+      "id": "amazon-10607764",
+      "seen_at": "2026-11-18T01:31:33.905201+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027",
+      "seen_at": "2026-11-18T01:31:33.905757+00:00"
+    },
+    {
+      "id": "zapply-6f4b5e56051c",
+      "seen_at": "2026-11-18T01:31:39.584928+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-oracle-345609",
+      "seen_at": "2026-11-18T01:31:39.585576+00:00"
     }
   ],
-  "last_run": "2026-11-18T01:01:33.669978+00:00",
-  "total_notified": 12819,
+  "last_run": "2026-11-18T01:31:39.919166+00:00",
+  "total_notified": 12822,
   "channels": {
     "pm-jobs": [
       "jobright-13d860532946",
@@ -27302,7 +27326,9 @@
       "zapply-f0dfc8b98bcc",
       "url:https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-559518",
       "simplify-065058c2-54dc-4886-8c9b-b8b3487fa044",
-      "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810015"
+      "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810015",
+      "zapply-6f4b5e56051c",
+      "url:https://zapply.jobs/l/d/oracle-oracle-345609"
     ],
     "swe-ai-full-time": [
       "ashby-perplexity-f3814af2-55a3-49a5-b0cb-67199a2a45fb",
@@ -32668,7 +32694,11 @@
       "jobright-fd96e2c52425",
       "url:https://jobright.ai/jobs/info/6af3fba9fee40b4fffbdd532",
       "jobright-63c5780a78cd",
-      "url:https://jobright.ai/jobs/info/6afcd8a194232f5ac42d2a58"
+      "url:https://jobright.ai/jobs/info/6afcd8a194232f5ac42d2a58",
+      "applyguy-c1059658-3f02-4f07-a877-5489ea1cd3ec",
+      "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673458",
+      "amazon-10607764",
+      "url:https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027"
     ]
   }
 }
