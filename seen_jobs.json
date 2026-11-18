@@ -26083,10 +26083,50 @@
     {
       "id": "url:https://job-boards.greenhouse.io/assemblyai/jobs/4755192005",
       "seen_at": "2026-11-18T00:31:09.813729+00:00"
+    },
+    {
+      "id": "simplify-53061784-9cc7-43c4-bc64-91bf5f781748",
+      "seen_at": "2026-11-18T01:01:28.990515+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1BW",
+      "seen_at": "2026-11-18T01:01:28.991095+00:00"
+    },
+    {
+      "id": "jobright-1ca6bfb4f81b",
+      "seen_at": "2026-11-18T01:01:28.991626+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afce2f2d163750294927e49",
+      "seen_at": "2026-11-18T01:01:28.992070+00:00"
+    },
+    {
+      "id": "applyguy-fe846b19-54fa-445b-90af-9fbdad78f706",
+      "seen_at": "2026-11-18T01:01:28.992588+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/relativity/jobs/8949325002",
+      "seen_at": "2026-11-18T01:01:28.993018+00:00"
+    },
+    {
+      "id": "jobright-fd96e2c52425",
+      "seen_at": "2026-11-18T01:01:28.993569+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af3fba9fee40b4fffbdd532",
+      "seen_at": "2026-11-18T01:01:28.994078+00:00"
+    },
+    {
+      "id": "jobright-63c5780a78cd",
+      "seen_at": "2026-11-18T01:01:28.994583+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afcd8a194232f5ac42d2a58",
+      "seen_at": "2026-11-18T01:01:28.995023+00:00"
     }
   ],
-  "last_run": "2026-11-18T00:31:12.508328+00:00",
-  "total_notified": 12814,
+  "last_run": "2026-11-18T01:01:33.669978+00:00",
+  "total_notified": 12819,
   "channels": {
     "pm-jobs": [
       "jobright-13d860532946",
@@ -32618,7 +32658,17 @@
       "simplify-372dccd9-1f30-4e08-89c6-71ef714dfb33",
       "url:https://qualcomm.eightfold.ai/careers/job/446722177119",
       "greenhouse-assemblyai-4755192005",
-      "url:https://job-boards.greenhouse.io/assemblyai/jobs/4755192005"
+      "url:https://job-boards.greenhouse.io/assemblyai/jobs/4755192005",
+      "simplify-53061784-9cc7-43c4-bc64-91bf5f781748",
+      "url:https://go.vansh.nyc/1BW",
+      "jobright-1ca6bfb4f81b",
+      "url:https://jobright.ai/jobs/info/6afce2f2d163750294927e49",
+      "applyguy-fe846b19-54fa-445b-90af-9fbdad78f706",
+      "url:https://boards.greenhouse.io/relativity/jobs/8949325002",
+      "jobright-fd96e2c52425",
+      "url:https://jobright.ai/jobs/info/6af3fba9fee40b4fffbdd532",
+      "jobright-63c5780a78cd",
+      "url:https://jobright.ai/jobs/info/6afcd8a194232f5ac42d2a58"
     ]
   }
 }
