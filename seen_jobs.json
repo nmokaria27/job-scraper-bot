@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-reddit-8299781",
-      "seen_at": "2026-10-19T00:01:44.711224+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8299781",
-      "seen_at": "2026-10-19T00:01:44.711765+00:00"
-    },
-    {
       "id": "ashby-perplexity-f3814af2-55a3-49a5-b0cb-67199a2a45fb",
       "seen_at": "2026-10-19T01:31:22.439781+00:00"
     },
@@ -26035,10 +26027,66 @@
     {
       "id": "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810015",
       "seen_at": "2026-11-18T00:02:07.303082+00:00"
+    },
+    {
+      "id": "greenhouse-twitch-8949388002",
+      "seen_at": "2026-11-18T00:31:09.807857+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/twitch/jobs/8949388002",
+      "seen_at": "2026-11-18T00:31:09.808445+00:00"
+    },
+    {
+      "id": "simplify-968c6684-23d7-4610-a3a5-dc8cb33e1c8a",
+      "seen_at": "2026-11-18T00:31:09.808929+00:00"
+    },
+    {
+      "id": "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983",
+      "seen_at": "2026-11-18T00:31:09.809387+00:00"
+    },
+    {
+      "id": "simplify-18c9d84f-5ecb-4baf-9233-d8fe94bb803b",
+      "seen_at": "2026-11-18T00:31:09.809835+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/cssmerge/jobs/8948844002",
+      "seen_at": "2026-11-18T00:31:09.810283+00:00"
+    },
+    {
+      "id": "simplify-de4afa09-2c49-4e70-8b0b-5ae5e2b83e2c",
+      "seen_at": "2026-11-18T00:31:09.810724+00:00"
+    },
+    {
+      "id": "url:https://wyetech.applytojob.com/apply/9N1fCIgQkv/SWE-0-Software-Engineer",
+      "seen_at": "2026-11-18T00:31:09.811165+00:00"
+    },
+    {
+      "id": "simplify-ebe664e8-a11a-4c38-bc1e-c5e7c2a55a37",
+      "seen_at": "2026-11-18T00:31:09.811588+00:00"
+    },
+    {
+      "id": "url:https://wyetech.applytojob.com/apply/vH1nr4O9nO/Cloud-Software-Engineer-1",
+      "seen_at": "2026-11-18T00:31:09.812001+00:00"
+    },
+    {
+      "id": "simplify-372dccd9-1f30-4e08-89c6-71ef714dfb33",
+      "seen_at": "2026-11-18T00:31:09.812459+00:00"
+    },
+    {
+      "id": "url:https://qualcomm.eightfold.ai/careers/job/446722177119",
+      "seen_at": "2026-11-18T00:31:09.812877+00:00"
+    },
+    {
+      "id": "greenhouse-assemblyai-4755192005",
+      "seen_at": "2026-11-18T00:31:09.813329+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/assemblyai/jobs/4755192005",
+      "seen_at": "2026-11-18T00:31:09.813729+00:00"
     }
   ],
-  "last_run": "2026-11-18T00:02:07.453632+00:00",
-  "total_notified": 12807,
+  "last_run": "2026-11-18T00:31:12.508328+00:00",
+  "total_notified": 12814,
   "channels": {
     "pm-jobs": [
       "jobright-13d860532946",
@@ -27217,8 +27265,6 @@
       "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810015"
     ],
     "swe-ai-full-time": [
-      "greenhouse-reddit-8299781",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8299781",
       "ashby-perplexity-f3814af2-55a3-49a5-b0cb-67199a2a45fb",
       "url:https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb",
       "jobright-2aa2653c07a7",
@@ -32558,7 +32604,21 @@
       "simplify-3efcc74f-837e-4304-9aeb-354126ca3e5b",
       "url:https://jobs.jobvite.com/redalpha/job/oy0ZpfwG",
       "amazon-10607712",
-      "url:https://www.amazon.jobs/en/jobs/10607712/software-development-engineer-devices-software-services"
+      "url:https://www.amazon.jobs/en/jobs/10607712/software-development-engineer-devices-software-services",
+      "greenhouse-twitch-8949388002",
+      "url:https://job-boards.greenhouse.io/twitch/jobs/8949388002",
+      "simplify-968c6684-23d7-4610-a3a5-dc8cb33e1c8a",
+      "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983",
+      "simplify-18c9d84f-5ecb-4baf-9233-d8fe94bb803b",
+      "url:https://job-boards.greenhouse.io/cssmerge/jobs/8948844002",
+      "simplify-de4afa09-2c49-4e70-8b0b-5ae5e2b83e2c",
+      "url:https://wyetech.applytojob.com/apply/9N1fCIgQkv/SWE-0-Software-Engineer",
+      "simplify-ebe664e8-a11a-4c38-bc1e-c5e7c2a55a37",
+      "url:https://wyetech.applytojob.com/apply/vH1nr4O9nO/Cloud-Software-Engineer-1",
+      "simplify-372dccd9-1f30-4e08-89c6-71ef714dfb33",
+      "url:https://qualcomm.eightfold.ai/careers/job/446722177119",
+      "greenhouse-assemblyai-4755192005",
+      "url:https://job-boards.greenhouse.io/assemblyai/jobs/4755192005"
     ]
   }
 }
