@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-3488452c1267",
-      "seen_at": "2026-10-19T20:31:48.559548+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/apple-200688599",
-      "seen_at": "2026-10-19T20:31:48.559934+00:00"
-    },
-    {
-      "id": "gradtracker-55f41cca5ae2",
-      "seen_at": "2026-10-19T20:31:48.560279+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10583030/software-development-engineer-predictive-targeting",
-      "seen_at": "2026-10-19T20:31:48.560575+00:00"
-    },
-    {
-      "id": "gradtracker-7386248754ee",
-      "seen_at": "2026-10-19T20:31:48.560874+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446721598022",
-      "seen_at": "2026-10-19T20:31:48.561151+00:00"
-    },
-    {
-      "id": "amazon-10583149",
-      "seen_at": "2026-10-19T20:31:48.561490+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10583149/software-development-engineer-creative-asset-library-creativex",
-      "seen_at": "2026-10-19T20:31:48.561757+00:00"
-    },
-    {
-      "id": "zapply-f5a7d581ca0c",
-      "seen_at": "2026-10-19T20:31:48.562030+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604163",
-      "seen_at": "2026-10-19T20:31:48.562332+00:00"
-    },
-    {
       "id": "jobright-7101228d0c60",
       "seen_at": "2026-10-19T21:01:35.852447+00:00"
     },
@@ -26195,10 +26155,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a55b6b1ef22935f2e3f5e86",
       "seen_at": "2026-11-18T20:31:15.989997+00:00"
+    },
+    {
+      "id": "jobright-b5215ebb990d",
+      "seen_at": "2026-11-18T21:01:39.858694+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afdfab18cffea7c97c8ef9c",
+      "seen_at": "2026-11-18T21:01:39.859299+00:00"
+    },
+    {
+      "id": "jobright-3ede0b1d5da0",
+      "seen_at": "2026-11-18T21:01:39.859789+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afdf963758942b6422b620a",
+      "seen_at": "2026-11-18T21:01:39.860224+00:00"
     }
   ],
-  "last_run": "2026-11-18T20:31:18.959383+00:00",
-  "total_notified": 12886,
+  "last_run": "2026-11-18T21:01:42.719765+00:00",
+  "total_notified": 12888,
   "channels": {
     "pm-jobs": [
       "zapply-1733b37173e6",
@@ -27399,16 +27375,6 @@
       "url:https://jobright.ai/jobs/info/6afde4fa0324c008a17e24b1"
     ],
     "swe-ai-full-time": [
-      "zapply-3488452c1267",
-      "url:https://zapply.jobs/l/d/apple-200688599",
-      "gradtracker-55f41cca5ae2",
-      "url:https://www.amazon.jobs/en/jobs/10583030/software-development-engineer-predictive-targeting",
-      "gradtracker-7386248754ee",
-      "url:https://careers.qualcomm.com/careers/job/446721598022",
-      "amazon-10583149",
-      "url:https://www.amazon.jobs/en/jobs/10583149/software-development-engineer-creative-asset-library-creativex",
-      "zapply-f5a7d581ca0c",
-      "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604163",
       "jobright-7101228d0c60",
       "url:https://jobright.ai/jobs/info/6ad667ca3dc655658d8e5b09",
       "applyguy-59309ef8-db81-46ee-b752-a7699fbe97fe",
@@ -32758,7 +32724,11 @@
       "jobright-a43da94c9cbb",
       "url:https://jobright.ai/jobs/info/6a427c5aa5e15b1068379168",
       "jobright-02ca78cd1ce6",
-      "url:https://jobright.ai/jobs/info/6a55b6b1ef22935f2e3f5e86"
+      "url:https://jobright.ai/jobs/info/6a55b6b1ef22935f2e3f5e86",
+      "jobright-b5215ebb990d",
+      "url:https://jobright.ai/jobs/info/6afdfab18cffea7c97c8ef9c",
+      "jobright-3ede0b1d5da0",
+      "url:https://jobright.ai/jobs/info/6afdf963758942b6422b620a"
     ]
   }
 }
