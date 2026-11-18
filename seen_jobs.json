@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-02ca78cd1ce6",
-      "seen_at": "2026-10-19T20:01:36.765983+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a55b6b1ef22935f2e3f5e86",
-      "seen_at": "2026-10-19T20:01:36.766533+00:00"
-    },
-    {
-      "id": "jobright-a43da94c9cbb",
-      "seen_at": "2026-10-19T20:01:36.767049+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a427c5aa5e15b1068379168",
-      "seen_at": "2026-10-19T20:01:36.767491+00:00"
-    },
-    {
-      "id": "jobright-43f921a4c3de",
-      "seen_at": "2026-10-19T20:01:36.767955+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad65cbf3dc655658d8e5333",
-      "seen_at": "2026-10-19T20:01:36.768390+00:00"
-    },
-    {
-      "id": "jobright-439126394493",
-      "seen_at": "2026-10-19T20:01:36.768835+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a0f453b619335383fb2a762",
-      "seen_at": "2026-10-19T20:01:36.769278+00:00"
-    },
-    {
-      "id": "jobright-163b76ec288e",
-      "seen_at": "2026-10-19T20:01:42.963544+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad653d43dc655658d8e4b72",
-      "seen_at": "2026-10-19T20:01:42.964004+00:00"
-    },
-    {
       "id": "zapply-3488452c1267",
       "seen_at": "2026-10-19T20:31:48.559548+00:00"
     },
@@ -26219,14 +26179,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6afde4fa0324c008a17e24b1",
       "seen_at": "2026-11-18T20:01:41.485292+00:00"
+    },
+    {
+      "id": "jobright-a43da94c9cbb",
+      "seen_at": "2026-11-18T20:31:15.988411+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a427c5aa5e15b1068379168",
+      "seen_at": "2026-11-18T20:31:15.989002+00:00"
+    },
+    {
+      "id": "jobright-02ca78cd1ce6",
+      "seen_at": "2026-11-18T20:31:15.989570+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a55b6b1ef22935f2e3f5e86",
+      "seen_at": "2026-11-18T20:31:15.989997+00:00"
     }
   ],
-  "last_run": "2026-11-18T20:01:41.740560+00:00",
-  "total_notified": 12884,
+  "last_run": "2026-11-18T20:31:18.959383+00:00",
+  "total_notified": 12886,
   "channels": {
     "pm-jobs": [
-      "jobright-163b76ec288e",
-      "url:https://jobright.ai/jobs/info/6ad653d43dc655658d8e4b72",
       "zapply-1733b37173e6",
       "url:https://zapply.jobs/l/d/workable-credence-667BAB45F0",
       "zapply-2bc33e1d9dd7",
@@ -27425,14 +27399,6 @@
       "url:https://jobright.ai/jobs/info/6afde4fa0324c008a17e24b1"
     ],
     "swe-ai-full-time": [
-      "jobright-02ca78cd1ce6",
-      "url:https://jobright.ai/jobs/info/6a55b6b1ef22935f2e3f5e86",
-      "jobright-a43da94c9cbb",
-      "url:https://jobright.ai/jobs/info/6a427c5aa5e15b1068379168",
-      "jobright-43f921a4c3de",
-      "url:https://jobright.ai/jobs/info/6ad65cbf3dc655658d8e5333",
-      "jobright-439126394493",
-      "url:https://jobright.ai/jobs/info/6a0f453b619335383fb2a762",
       "zapply-3488452c1267",
       "url:https://zapply.jobs/l/d/apple-200688599",
       "gradtracker-55f41cca5ae2",
@@ -32788,7 +32754,11 @@
       "jobright-b604be983462",
       "url:https://jobright.ai/jobs/info/6afdd900758942b6422b49e1",
       "amazon-10608480",
-      "url:https://www.amazon.jobs/en/jobs/10608480/software-development-engineer-region-reliability-engineering"
+      "url:https://www.amazon.jobs/en/jobs/10608480/software-development-engineer-region-reliability-engineering",
+      "jobright-a43da94c9cbb",
+      "url:https://jobright.ai/jobs/info/6a427c5aa5e15b1068379168",
+      "jobright-02ca78cd1ce6",
+      "url:https://jobright.ai/jobs/info/6a55b6b1ef22935f2e3f5e86"
     ]
   }
 }
