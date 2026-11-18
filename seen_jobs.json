@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10583465",
-      "seen_at": "2026-10-19T22:31:25.516807+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10583465/software-development-engineer-measurement-ad-tech-and-data-science-mads-foundations-traffic",
-      "seen_at": "2026-10-19T22:31:25.517349+00:00"
-    },
-    {
-      "id": "ashby-etched-29b303b2-f1a5-4799-a0b2-e86e28289a9b",
-      "seen_at": "2026-10-19T22:31:25.517728+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b",
-      "seen_at": "2026-10-19T22:31:25.518072+00:00"
-    },
-    {
       "id": "simplify-47e8f9c4-77b2-4538-8f65-ffcd067d9d37",
       "seen_at": "2026-10-19T23:01:30.505700+00:00"
     },
@@ -26139,10 +26123,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801725",
       "seen_at": "2026-11-18T22:31:16.503921+00:00"
+    },
+    {
+      "id": "amazon-10608840",
+      "seen_at": "2026-11-18T23:01:21.684170+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10608840/software-development-engineer-leo-ignition",
+      "seen_at": "2026-11-18T23:01:21.684704+00:00"
+    },
+    {
+      "id": "jobright-cd8cffa4eee6",
+      "seen_at": "2026-11-18T23:01:21.685180+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afe16bf0cde47528ec11a31",
+      "seen_at": "2026-11-18T23:01:21.685646+00:00"
+    },
+    {
+      "id": "jobright-f4151239eb63",
+      "seen_at": "2026-11-18T23:01:25.379013+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afe02e88cffea7c97c8f4c9",
+      "seen_at": "2026-11-18T23:01:25.379533+00:00"
     }
   ],
-  "last_run": "2026-11-18T22:31:16.633628+00:00",
-  "total_notified": 12900,
+  "last_run": "2026-11-18T23:01:25.555616+00:00",
+  "total_notified": 12903,
   "channels": {
     "pm-jobs": [
       "zapply-1733b37173e6",
@@ -27346,13 +27354,11 @@
       "jobright-035132d3adad",
       "url:https://jobright.ai/jobs/info/6afe0b04758942b6422b6c60",
       "zapply-32d1534e62eb",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801725"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801725",
+      "jobright-f4151239eb63",
+      "url:https://jobright.ai/jobs/info/6afe02e88cffea7c97c8f4c9"
     ],
     "swe-ai-full-time": [
-      "amazon-10583465",
-      "url:https://www.amazon.jobs/en/jobs/10583465/software-development-engineer-measurement-ad-tech-and-data-science-mads-foundations-traffic",
-      "ashby-etched-29b303b2-f1a5-4799-a0b2-e86e28289a9b",
-      "url:https://jobs.ashbyhq.com/etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b",
       "simplify-47e8f9c4-77b2-4538-8f65-ffcd067d9d37",
       "url:https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
       "jobright-e519d027f67f",
@@ -32688,7 +32694,11 @@
       "gradtracker-9cffbd68f3b5",
       "url:https://jobs.smartrecruiters.com/servicenow/744000162380039",
       "amazon-10608802",
-      "url:https://www.amazon.jobs/en/jobs/10608802/robotics-software-development-engineer-fauna"
+      "url:https://www.amazon.jobs/en/jobs/10608802/robotics-software-development-engineer-fauna",
+      "amazon-10608840",
+      "url:https://www.amazon.jobs/en/jobs/10608840/software-development-engineer-leo-ignition",
+      "jobright-cd8cffa4eee6",
+      "url:https://jobright.ai/jobs/info/6afe16bf0cde47528ec11a31"
     ]
   }
 }
