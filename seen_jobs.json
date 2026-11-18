@@ -26235,10 +26235,34 @@
     {
       "id": "url:https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027",
       "seen_at": "2026-11-18T03:07:26.145639+00:00"
+    },
+    {
+      "id": "jobright-e6693e1262f4",
+      "seen_at": "2026-11-18T04:01:29.767156+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afd06c656aa9772e7d5615f",
+      "seen_at": "2026-11-18T04:01:29.767658+00:00"
+    },
+    {
+      "id": "jobright-416c28b4a0f9",
+      "seen_at": "2026-11-18T04:01:29.768093+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afce9f994232f5ac42d32f6",
+      "seen_at": "2026-11-18T04:01:29.768459+00:00"
+    },
+    {
+      "id": "jobright-e64ac38f8a67",
+      "seen_at": "2026-11-18T04:01:33.329699+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9afa5e90a313642c657d6b",
+      "seen_at": "2026-11-18T04:01:33.330180+00:00"
     }
   ],
-  "last_run": "2026-11-18T03:31:13.243198+00:00",
-  "total_notified": 12836,
+  "last_run": "2026-11-18T04:01:33.559196+00:00",
+  "total_notified": 12839,
   "channels": {
     "pm-jobs": [
       "jobright-13d860532946",
@@ -27422,7 +27446,9 @@
       "simplify-304f32e2-fcf6-4a65-9220-0d88ea6a8440",
       "url:https://lifeattiktok.com/search/7704910847553931573",
       "jobright-ee6c83fbf845",
-      "url:https://jobright.ai/jobs/info/6afcf27494232f5ac42d3831"
+      "url:https://jobright.ai/jobs/info/6afcf27494232f5ac42d3831",
+      "jobright-e64ac38f8a67",
+      "url:https://jobright.ai/jobs/info/6a9afa5e90a313642c657d6b"
     ],
     "swe-ai-full-time": [
       "jobright-1f1bc4008f25",
@@ -32808,7 +32834,11 @@
       "amazon-10607713",
       "url:https://www.amazon.jobs/en/jobs/10607713/software-development-engineer-devices-software-services",
       "simplify-2ebe6dc0-7a17-40c2-a840-c58c312185d9",
-      "url:https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027"
+      "url:https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027",
+      "jobright-e6693e1262f4",
+      "url:https://jobright.ai/jobs/info/6afd06c656aa9772e7d5615f",
+      "jobright-416c28b4a0f9",
+      "url:https://jobright.ai/jobs/info/6afce9f994232f5ac42d32f6"
     ]
   }
 }
