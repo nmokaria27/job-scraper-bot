@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-559445c26517",
-      "seen_at": "2026-10-19T18:01:34.730150+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad6434154bbabbab06f5efd",
-      "seen_at": "2026-10-19T18:01:34.730755+00:00"
-    },
-    {
-      "id": "jobright-d0a53d1142bd",
-      "seen_at": "2026-10-19T18:01:34.731204+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a0f44fd80bf0430c76322b7",
-      "seen_at": "2026-10-19T18:01:34.731618+00:00"
-    },
-    {
       "id": "amazon-10583039",
       "seen_at": "2026-10-19T18:31:31.693677+00:00"
     },
@@ -26267,10 +26251,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a10bbec69bd827926af02bc",
       "seen_at": "2026-11-18T18:02:01.430113+00:00"
+    },
+    {
+      "id": "ashby-openai-a9a5a979-06a5-49af-95f3-7c537e3105c0",
+      "seen_at": "2026-11-18T18:31:31.612046+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0",
+      "seen_at": "2026-11-18T18:31:31.612414+00:00"
+    },
+    {
+      "id": "ashby-benchling-baa78673-4c25-4d61-8888-2eac4c63d8c5",
+      "seen_at": "2026-11-18T18:31:31.612754+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5",
+      "seen_at": "2026-11-18T18:31:31.613014+00:00"
     }
   ],
-  "last_run": "2026-11-18T18:02:01.734019+00:00",
-  "total_notified": 12877,
+  "last_run": "2026-11-18T18:31:35.689732+00:00",
+  "total_notified": 12879,
   "channels": {
     "pm-jobs": [
       "zapply-90618a5c9cfe",
@@ -27475,10 +27475,6 @@
       "url:https://jobright.ai/jobs/info/6a10bbec69bd827926af02bc"
     ],
     "swe-ai-full-time": [
-      "jobright-559445c26517",
-      "url:https://jobright.ai/jobs/info/6ad6434154bbabbab06f5efd",
-      "jobright-d0a53d1142bd",
-      "url:https://jobright.ai/jobs/info/6a0f44fd80bf0430c76322b7",
       "amazon-10583039",
       "url:https://www.amazon.jobs/en/jobs/10583039/software-development-engineer-amazon-msk-managed-streaming-for-kafka",
       "jobright-552b3895441e",
@@ -32848,7 +32844,11 @@
       "greenhouse-vercel-6264524004",
       "url:https://job-boards.greenhouse.io/vercel/jobs/6264524004",
       "amazon-10607741",
-      "url:https://www.amazon.jobs/en/jobs/10607741/software-dev-engineer-aws-glacier"
+      "url:https://www.amazon.jobs/en/jobs/10607741/software-dev-engineer-aws-glacier",
+      "ashby-openai-a9a5a979-06a5-49af-95f3-7c537e3105c0",
+      "url:https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0",
+      "ashby-benchling-baa78673-4c25-4d61-8888-2eac4c63d8c5",
+      "url:https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5"
     ]
   }
 }
