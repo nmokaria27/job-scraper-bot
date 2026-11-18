@@ -1,134 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-47e8f9c4-77b2-4538-8f65-ffcd067d9d37",
-      "seen_at": "2026-10-19T23:01:30.505700+00:00"
-    },
-    {
-      "id": "url:https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
-      "seen_at": "2026-10-19T23:01:30.506260+00:00"
-    },
-    {
-      "id": "jobright-e519d027f67f",
-      "seen_at": "2026-10-19T23:01:30.506787+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad68371e4b94611ab83fab4",
-      "seen_at": "2026-10-19T23:01:30.507234+00:00"
-    },
-    {
-      "id": "jobright-f4e0f28bd054",
-      "seen_at": "2026-10-19T23:01:30.507697+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad681fb3dc655658d8e6e07",
-      "seen_at": "2026-10-19T23:01:30.508132+00:00"
-    },
-    {
-      "id": "jobright-0c2ab361281f",
-      "seen_at": "2026-10-19T23:01:30.508598+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad67d0e3dc655658d8e68cc",
-      "seen_at": "2026-10-19T23:01:30.509038+00:00"
-    },
-    {
-      "id": "jobright-72124cf04bb7",
-      "seen_at": "2026-10-19T23:01:30.509514+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad676f3950ef68d5183a0f3",
-      "seen_at": "2026-10-19T23:01:30.509948+00:00"
-    },
-    {
-      "id": "jobright-a2204ab4eef2",
-      "seen_at": "2026-10-19T23:01:30.510419+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad686ad950ef68d5183b02c",
-      "seen_at": "2026-10-19T23:01:30.510850+00:00"
-    },
-    {
-      "id": "amazon-10583487",
-      "seen_at": "2026-10-19T23:01:30.511293+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10583487/applied-scientist-creativex",
-      "seen_at": "2026-10-19T23:01:30.511730+00:00"
-    },
-    {
-      "id": "amazon-10583490",
-      "seen_at": "2026-10-19T23:01:30.512163+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10583490/data-engineer-amazon-live-data-engineering-sciences-and-analytics-desa",
-      "seen_at": "2026-10-19T23:01:30.512607+00:00"
-    },
-    {
-      "id": "simplify-013eacd9-f9c6-486a-9f00-5b8a9b46db9b",
-      "seen_at": "2026-10-19T23:01:30.513036+00:00"
-    },
-    {
-      "id": "url:https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/85560",
-      "seen_at": "2026-10-19T23:01:30.513469+00:00"
-    },
-    {
-      "id": "simplify-33f5563b-6820-4803-bd8e-45014015ac0c",
-      "seen_at": "2026-10-19T23:01:30.513908+00:00"
-    },
-    {
-      "id": "url:https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2678",
-      "seen_at": "2026-10-19T23:01:30.514344+00:00"
-    },
-    {
-      "id": "jobright-dfb5da9ed4e9",
-      "seen_at": "2026-10-19T23:01:30.514773+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a904c927c32860d14cf8841",
-      "seen_at": "2026-10-19T23:01:30.515202+00:00"
-    },
-    {
-      "id": "jobright-8020dadda6da",
-      "seen_at": "2026-10-19T23:01:30.515656+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad683f454bbabbab06f920f",
-      "seen_at": "2026-10-19T23:01:30.516091+00:00"
-    },
-    {
-      "id": "zapply-1733b37173e6",
-      "seen_at": "2026-10-19T23:01:34.845685+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workable-credence-667BAB45F0",
-      "seen_at": "2026-10-19T23:01:34.846205+00:00"
-    },
-    {
-      "id": "zapply-2bc33e1d9dd7",
-      "seen_at": "2026-10-19T23:01:34.846715+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026580",
-      "seen_at": "2026-10-19T23:01:34.847159+00:00"
-    },
-    {
-      "id": "zapply-e3f1e8f40e30",
-      "seen_at": "2026-10-19T23:01:34.847576+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027607",
-      "seen_at": "2026-10-19T23:01:34.847969+00:00"
-    },
-    {
-      "id": "jobright-e3b379e3d46c",
-      "seen_at": "2026-10-19T23:01:34.848379+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad6831852aa6152bb69634b",
-      "seen_at": "2026-10-19T23:01:34.848766+00:00"
-    },
-    {
       "id": "simplify-9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
       "seen_at": "2026-10-19T23:31:28.093931+00:00"
     },
@@ -26147,20 +26019,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6afe02e88cffea7c97c8f4c9",
       "seen_at": "2026-11-18T23:01:25.379533+00:00"
+    },
+    {
+      "id": "amazon-10608848",
+      "seen_at": "2026-11-18T23:31:10.965548+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10608848/software-engineer-i",
+      "seen_at": "2026-11-18T23:31:10.965893+00:00"
+    },
+    {
+      "id": "ashby-suno-1735f9af-fbce-4f6c-9fbe-ac42eca09009",
+      "seen_at": "2026-11-18T23:31:15.757871+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/suno/1735f9af-fbce-4f6c-9fbe-ac42eca09009",
+      "seen_at": "2026-11-18T23:31:15.758143+00:00"
     }
   ],
-  "last_run": "2026-11-18T23:01:25.555616+00:00",
-  "total_notified": 12903,
+  "last_run": "2026-11-18T23:31:16.002699+00:00",
+  "total_notified": 12905,
   "channels": {
     "pm-jobs": [
-      "zapply-1733b37173e6",
-      "url:https://zapply.jobs/l/d/workable-credence-667BAB45F0",
-      "zapply-2bc33e1d9dd7",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026580",
-      "zapply-e3f1e8f40e30",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027607",
-      "jobright-e3b379e3d46c",
-      "url:https://jobright.ai/jobs/info/6ad6831852aa6152bb69634b",
       "simplify-238d23dc-3491-42ab-8537-86fa72f66014",
       "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Service-Product-Manager-Product-Line-Management-New-College-Grad--Master-s--Santa-Clara--CA-Austin--TX-_R2629842",
       "jobright-b1c4c58b827c",
@@ -27356,33 +27236,11 @@
       "zapply-32d1534e62eb",
       "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801725",
       "jobright-f4151239eb63",
-      "url:https://jobright.ai/jobs/info/6afe02e88cffea7c97c8f4c9"
+      "url:https://jobright.ai/jobs/info/6afe02e88cffea7c97c8f4c9",
+      "ashby-suno-1735f9af-fbce-4f6c-9fbe-ac42eca09009",
+      "url:https://jobs.ashbyhq.com/suno/1735f9af-fbce-4f6c-9fbe-ac42eca09009"
     ],
     "swe-ai-full-time": [
-      "simplify-47e8f9c4-77b2-4538-8f65-ffcd067d9d37",
-      "url:https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
-      "jobright-e519d027f67f",
-      "url:https://jobright.ai/jobs/info/6ad68371e4b94611ab83fab4",
-      "jobright-f4e0f28bd054",
-      "url:https://jobright.ai/jobs/info/6ad681fb3dc655658d8e6e07",
-      "jobright-0c2ab361281f",
-      "url:https://jobright.ai/jobs/info/6ad67d0e3dc655658d8e68cc",
-      "jobright-72124cf04bb7",
-      "url:https://jobright.ai/jobs/info/6ad676f3950ef68d5183a0f3",
-      "jobright-a2204ab4eef2",
-      "url:https://jobright.ai/jobs/info/6ad686ad950ef68d5183b02c",
-      "amazon-10583487",
-      "url:https://www.amazon.jobs/en/jobs/10583487/applied-scientist-creativex",
-      "amazon-10583490",
-      "url:https://www.amazon.jobs/en/jobs/10583490/data-engineer-amazon-live-data-engineering-sciences-and-analytics-desa",
-      "simplify-013eacd9-f9c6-486a-9f00-5b8a9b46db9b",
-      "url:https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/85560",
-      "simplify-33f5563b-6820-4803-bd8e-45014015ac0c",
-      "url:https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2678",
-      "jobright-dfb5da9ed4e9",
-      "url:https://jobright.ai/jobs/info/6a904c927c32860d14cf8841",
-      "jobright-8020dadda6da",
-      "url:https://jobright.ai/jobs/info/6ad683f454bbabbab06f920f",
       "simplify-9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
       "url:https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
       "simplify-facdc66b-349d-47ae-94f8-cfdd1ffdb70f",
@@ -32698,7 +32556,9 @@
       "amazon-10608840",
       "url:https://www.amazon.jobs/en/jobs/10608840/software-development-engineer-leo-ignition",
       "jobright-cd8cffa4eee6",
-      "url:https://jobright.ai/jobs/info/6afe16bf0cde47528ec11a31"
+      "url:https://jobright.ai/jobs/info/6afe16bf0cde47528ec11a31",
+      "amazon-10608848",
+      "url:https://www.amazon.jobs/en/jobs/10608848/software-engineer-i"
     ]
   }
 }
