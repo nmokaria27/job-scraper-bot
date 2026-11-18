@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-perplexity-f3814af2-55a3-49a5-b0cb-67199a2a45fb",
-      "seen_at": "2026-10-19T01:31:22.439781+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb",
-      "seen_at": "2026-10-19T01:31:22.440425+00:00"
-    },
-    {
       "id": "jobright-2aa2653c07a7",
       "seen_at": "2026-10-19T02:01:36.775708+00:00"
     },
@@ -26147,10 +26139,50 @@
     {
       "id": "url:https://zapply.jobs/l/d/oracle-oracle-345609",
       "seen_at": "2026-11-18T01:31:39.585576+00:00"
+    },
+    {
+      "id": "jobright-0932f98c0c6c",
+      "seen_at": "2026-11-18T02:01:23.309833+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afcceb4d86c15318a38e707",
+      "seen_at": "2026-11-18T02:01:23.310270+00:00"
+    },
+    {
+      "id": "ashby-benchling-c97e5668-29ee-4810-b7cc-35331ac123f5",
+      "seen_at": "2026-11-18T02:01:23.310627+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/benchling/c97e5668-29ee-4810-b7cc-35331ac123f5",
+      "seen_at": "2026-11-18T02:01:23.310932+00:00"
+    },
+    {
+      "id": "jobright-13ba0f9fee29",
+      "seen_at": "2026-11-18T02:01:23.311291+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afcec7994232f5ac42d3546",
+      "seen_at": "2026-11-18T02:01:23.311607+00:00"
+    },
+    {
+      "id": "jobright-45a298107cc4",
+      "seen_at": "2026-11-18T02:01:23.311908+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afcea0094232f5ac42d3301",
+      "seen_at": "2026-11-18T02:01:23.312197+00:00"
+    },
+    {
+      "id": "zapply-3deaf1e55552",
+      "seen_at": "2026-11-18T02:01:26.665582+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2031557",
+      "seen_at": "2026-11-18T02:01:26.665913+00:00"
     }
   ],
-  "last_run": "2026-11-18T01:31:39.919166+00:00",
-  "total_notified": 12822,
+  "last_run": "2026-11-18T02:01:26.912392+00:00",
+  "total_notified": 12827,
   "channels": {
     "pm-jobs": [
       "jobright-13d860532946",
@@ -27328,11 +27360,11 @@
       "simplify-065058c2-54dc-4886-8c9b-b8b3487fa044",
       "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810015",
       "zapply-6f4b5e56051c",
-      "url:https://zapply.jobs/l/d/oracle-oracle-345609"
+      "url:https://zapply.jobs/l/d/oracle-oracle-345609",
+      "zapply-3deaf1e55552",
+      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2031557"
     ],
     "swe-ai-full-time": [
-      "ashby-perplexity-f3814af2-55a3-49a5-b0cb-67199a2a45fb",
-      "url:https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb",
       "jobright-2aa2653c07a7",
       "url:https://jobright.ai/jobs/info/6a714fe2ee751e0c79343362",
       "greenhouse-reddit-8275745",
@@ -32698,7 +32730,15 @@
       "applyguy-c1059658-3f02-4f07-a877-5489ea1cd3ec",
       "url:https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673458",
       "amazon-10607764",
-      "url:https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027"
+      "url:https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027",
+      "jobright-0932f98c0c6c",
+      "url:https://jobright.ai/jobs/info/6afcceb4d86c15318a38e707",
+      "ashby-benchling-c97e5668-29ee-4810-b7cc-35331ac123f5",
+      "url:https://jobs.ashbyhq.com/benchling/c97e5668-29ee-4810-b7cc-35331ac123f5",
+      "jobright-13ba0f9fee29",
+      "url:https://jobright.ai/jobs/info/6afcec7994232f5ac42d3546",
+      "jobright-45a298107cc4",
+      "url:https://jobright.ai/jobs/info/6afcea0094232f5ac42d3301"
     ]
   }
 }
