@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-d4d8c09a9a56",
-      "seen_at": "2026-10-20T18:01:42.692479+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7b2690bc05d77f2bddd2c9",
-      "seen_at": "2026-10-20T18:01:42.692908+00:00"
-    },
-    {
-      "id": "jobright-27a13c9a61b9",
-      "seen_at": "2026-10-20T18:01:42.693271+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad7948ae4b94611ab84660b",
-      "seen_at": "2026-10-20T18:01:42.693592+00:00"
-    },
-    {
-      "id": "jobright-14d2ab04b590",
-      "seen_at": "2026-10-20T18:01:42.693916+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad791603dc655658d8ed781",
-      "seen_at": "2026-10-20T18:01:42.694210+00:00"
-    },
-    {
       "id": "greenhouse-airbnb-8282322",
       "seen_at": "2026-10-20T18:31:33.478244+00:00"
     },
@@ -26171,10 +26147,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac5cb174ac55253f5d78277",
       "seen_at": "2026-11-19T18:03:11.550049+00:00"
+    },
+    {
+      "id": "ashby-ramp-da40ed6e-1c32-4284-89f5-2ad0813b8d49",
+      "seen_at": "2026-11-19T18:32:58.890051+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49",
+      "seen_at": "2026-11-19T18:32:58.890644+00:00"
+    },
+    {
+      "id": "amazon-10608502",
+      "seen_at": "2026-11-19T18:32:58.891121+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10608502/software-development-engineer-leo-telemetry-platform",
+      "seen_at": "2026-11-19T18:32:58.891580+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2019685",
+      "seen_at": "2026-11-19T18:32:58.892011+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685",
+      "seen_at": "2026-11-19T18:32:58.892426+00:00"
     }
   ],
-  "last_run": "2026-11-19T18:03:14.460561+00:00",
-  "total_notified": 13013,
+  "last_run": "2026-11-19T18:33:03.081717+00:00",
+  "total_notified": 13016,
   "channels": {
     "pm-jobs": [
       "greenhouse-airbnb-8282322",
@@ -27371,12 +27371,6 @@
       "url:https://jobright.ai/jobs/info/6aff19f9aea17e3f50ead360"
     ],
     "swe-ai-full-time": [
-      "jobright-d4d8c09a9a56",
-      "url:https://jobright.ai/jobs/info/6a7b2690bc05d77f2bddd2c9",
-      "jobright-27a13c9a61b9",
-      "url:https://jobright.ai/jobs/info/6ad7948ae4b94611ab84660b",
-      "jobright-14d2ab04b590",
-      "url:https://jobright.ai/jobs/info/6ad791603dc655658d8ed781",
       "jobright-e97e6ba55d9d",
       "url:https://jobright.ai/jobs/info/6ad68a0e52aa6152bb696952",
       "greenhouse-coinbase-8304038",
@@ -32678,7 +32672,13 @@
       "jobright-2173239e64bf",
       "url:https://jobright.ai/jobs/info/6aff1c39aea17e3f50ead56a",
       "jobright-c49645309a08",
-      "url:https://jobright.ai/jobs/info/6ac5cb174ac55253f5d78277"
+      "url:https://jobright.ai/jobs/info/6ac5cb174ac55253f5d78277",
+      "ashby-ramp-da40ed6e-1c32-4284-89f5-2ad0813b8d49",
+      "url:https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49",
+      "amazon-10608502",
+      "url:https://www.amazon.jobs/en/jobs/10608502/software-development-engineer-leo-telemetry-platform",
+      "workday-nvidia-JR2019685",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
