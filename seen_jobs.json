@@ -26091,10 +26091,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ac56f944ac55253f5d76a66",
       "seen_at": "2026-11-19T13:03:30.367231+00:00"
+    },
+    {
+      "id": "zapply-cc1e4dfb0a52",
+      "seen_at": "2026-11-19T14:03:41.781048+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26013994",
+      "seen_at": "2026-11-19T14:03:41.781341+00:00"
+    },
+    {
+      "id": "zapply-d3fa0e4e96b1",
+      "seen_at": "2026-11-19T14:03:41.781590+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000138741",
+      "seen_at": "2026-11-19T14:03:41.781818+00:00"
+    },
+    {
+      "id": "zapply-b7e0df70d76c",
+      "seen_at": "2026-11-19T14:03:43.248912+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2606083",
+      "seen_at": "2026-11-19T14:03:43.249278+00:00"
     }
   ],
-  "last_run": "2026-11-19T13:33:02.930808+00:00",
-  "total_notified": 12979,
+  "last_run": "2026-11-19T14:03:45.684061+00:00",
+  "total_notified": 12982,
   "channels": {
     "pm-jobs": [
       "zapply-c38cc57873b6",
@@ -27272,7 +27296,11 @@
       "zapply-43fa7ccae27b",
       "url:https://zapply.jobs/l/d/oracle-oracle-350969",
       "zapply-9b3a70652e54",
-      "url:https://zapply.jobs/l/d/oracle-oracle-350968"
+      "url:https://zapply.jobs/l/d/oracle-oracle-350968",
+      "zapply-cc1e4dfb0a52",
+      "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26013994",
+      "zapply-d3fa0e4e96b1",
+      "url:https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000138741"
     ],
     "swe-ai-full-time": [
       "jobright-ac5caf81df93",
@@ -32584,7 +32612,9 @@
       "jobright-0a5e8bcd28e4",
       "url:https://jobright.ai/jobs/info/6afeaa6597dcc4fc8dca6bac",
       "jobright-745bbb759382",
-      "url:https://jobright.ai/jobs/info/6ac6935cd9621c5b283a997e"
+      "url:https://jobright.ai/jobs/info/6ac6935cd9621c5b283a997e",
+      "zapply-b7e0df70d76c",
+      "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2606083"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
