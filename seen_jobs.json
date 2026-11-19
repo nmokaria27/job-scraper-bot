@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-0a0fde3b959c",
-      "seen_at": "2026-10-20T20:01:33.669700+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad7a42d67bec1d0d9c775fc",
-      "seen_at": "2026-10-20T20:01:33.670281+00:00"
-    },
-    {
-      "id": "amazon-10584555",
-      "seen_at": "2026-10-20T20:01:33.670790+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10584555/pricing-applied-scientist-pricing-science",
-      "seen_at": "2026-10-20T20:01:33.671245+00:00"
-    },
-    {
-      "id": "jobright-24e75f29220f",
-      "seen_at": "2026-10-20T20:01:33.671715+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad7aa1367bec1d0d9c77a65",
-      "seen_at": "2026-10-20T20:01:33.672223+00:00"
-    },
-    {
       "id": "amazon-10584220",
       "seen_at": "2026-10-20T20:31:30.302590+00:00"
     },
@@ -26251,10 +26227,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1",
       "seen_at": "2026-11-19T20:03:35.640526+00:00"
+    },
+    {
+      "id": "amazon-10609667",
+      "seen_at": "2026-11-19T20:33:11.352596+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10609667/applied-scientist-amazon-ads-creativex",
+      "seen_at": "2026-11-19T20:33:11.352973+00:00"
+    },
+    {
+      "id": "jobright-e00a5a066c28",
+      "seen_at": "2026-11-19T20:33:19.423052+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ada472f950ef68d51855d27",
+      "seen_at": "2026-11-19T20:33:19.423348+00:00"
+    },
+    {
+      "id": "jobright-574425f9d22e",
+      "seen_at": "2026-11-19T20:33:19.423607+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae2622eeb7e8f715a60d811",
+      "seen_at": "2026-11-19T20:33:19.423858+00:00"
+    },
+    {
+      "id": "jobright-3e607ce6e40b",
+      "seen_at": "2026-11-19T20:33:19.424093+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af81fb435427cce9bb2b852",
+      "seen_at": "2026-11-19T20:33:19.424310+00:00"
     }
   ],
-  "last_run": "2026-11-19T20:03:35.876294+00:00",
-  "total_notified": 13035,
+  "last_run": "2026-11-19T20:33:19.660275+00:00",
+  "total_notified": 13039,
   "channels": {
     "pm-jobs": [
       "zapply-262834a44c00",
@@ -27465,12 +27473,6 @@
       "url:https://jobright.ai/jobs/info/6aff3bc4b88323bd981bcfcd"
     ],
     "swe-ai-full-time": [
-      "jobright-0a0fde3b959c",
-      "url:https://jobright.ai/jobs/info/6ad7a42d67bec1d0d9c775fc",
-      "amazon-10584555",
-      "url:https://www.amazon.jobs/en/jobs/10584555/pricing-applied-scientist-pricing-science",
-      "jobright-24e75f29220f",
-      "url:https://jobright.ai/jobs/info/6ad7aa1367bec1d0d9c77a65",
       "amazon-10584220",
       "url:https://www.amazon.jobs/en/jobs/10584220/applied-scientist-sponsored-products-off-search-auction",
       "amazon-10584605",
@@ -32774,7 +32776,9 @@
       "jobright-a6391eca0cf9",
       "url:https://jobright.ai/jobs/info/6a8de08225fc4e7ae3dbe4ea",
       "amazon-10607407",
-      "url:https://www.amazon.jobs/en/jobs/10607407/software-development-engineer-ads-ai-core-infra"
+      "url:https://www.amazon.jobs/en/jobs/10607407/software-development-engineer-ads-ai-core-infra",
+      "amazon-10609667",
+      "url:https://www.amazon.jobs/en/jobs/10609667/applied-scientist-amazon-ads-creativex"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -32830,7 +32834,13 @@
       "jobright-3adda0d4120c",
       "url:https://jobright.ai/jobs/info/6aff2a8997dcc4fc8dca94cb",
       "jobright-a213f06847bc",
-      "url:https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1"
+      "url:https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1",
+      "jobright-e00a5a066c28",
+      "url:https://jobright.ai/jobs/info/6ada472f950ef68d51855d27",
+      "jobright-574425f9d22e",
+      "url:https://jobright.ai/jobs/info/6ae2622eeb7e8f715a60d811",
+      "jobright-3e607ce6e40b",
+      "url:https://jobright.ai/jobs/info/6af81fb435427cce9bb2b852"
     ]
   }
 }
