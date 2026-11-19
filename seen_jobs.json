@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-1fac2631-0a51-44d0-9af9-209c670e1742",
-      "seen_at": "2026-10-20T22:37:36.020881+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application",
-      "seen_at": "2026-10-20T22:37:36.021427+00:00"
-    },
-    {
-      "id": "simplify-f1044ef9-7da2-4a5b-a8e5-c26f1e2efd68",
-      "seen_at": "2026-10-20T22:37:36.021888+00:00"
-    },
-    {
-      "id": "url:https://johndeere.eightfold.ai/careers/job/137482532344",
-      "seen_at": "2026-10-20T22:37:36.022327+00:00"
-    },
-    {
       "id": "jobright-3361c4966890",
       "seen_at": "2026-10-20T23:01:23.155779+00:00"
     },
@@ -26347,10 +26331,58 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10608496/software-development-engineer-leo-telemetry-platform",
       "seen_at": "2026-11-19T22:32:58.123337+00:00"
+    },
+    {
+      "id": "jobright-9f27a7df2668",
+      "seen_at": "2026-11-19T23:03:40.224533+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff68c1b47661ae4a62c6a0",
+      "seen_at": "2026-11-19T23:03:40.224932+00:00"
+    },
+    {
+      "id": "jobright-9f6413be4e1e",
+      "seen_at": "2026-11-19T23:03:40.225306+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab55f774873fd3fd8529388",
+      "seen_at": "2026-11-19T23:03:40.225629+00:00"
+    },
+    {
+      "id": "amazon-10609930",
+      "seen_at": "2026-11-19T23:03:40.225940+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10609930/software-development-engineer-amazon-quick",
+      "seen_at": "2026-11-19T23:03:40.226242+00:00"
+    },
+    {
+      "id": "jobright-041a212657cc",
+      "seen_at": "2026-11-19T23:03:40.226522+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff657cb88323bd981be9b8",
+      "seen_at": "2026-11-19T23:03:40.226808+00:00"
+    },
+    {
+      "id": "jobright-36da216f88fe",
+      "seen_at": "2026-11-19T23:03:40.227099+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff69b8c1c02a9acd80bcb8",
+      "seen_at": "2026-11-19T23:03:40.227393+00:00"
+    },
+    {
+      "id": "jobright-1326ccad451c",
+      "seen_at": "2026-11-19T23:03:46.319709+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa991f73387a3d9b67d595d",
+      "seen_at": "2026-11-19T23:03:46.320048+00:00"
     }
   ],
-  "last_run": "2026-11-19T22:33:02.112031+00:00",
-  "total_notified": 13062,
+  "last_run": "2026-11-19T23:03:46.490192+00:00",
+  "total_notified": 13068,
   "channels": {
     "pm-jobs": [
       "zapply-31e9c4eedb0b",
@@ -27553,10 +27585,6 @@
       "url:https://jobright.ai/jobs/info/6aff3bc4b88323bd981bcfcd"
     ],
     "swe-ai-full-time": [
-      "simplify-1fac2631-0a51-44d0-9af9-209c670e1742",
-      "url:https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application",
-      "simplify-f1044ef9-7da2-4a5b-a8e5-c26f1e2efd68",
-      "url:https://johndeere.eightfold.ai/careers/job/137482532344",
       "jobright-3361c4966890",
       "url:https://jobright.ai/jobs/info/6ad7d4efe4b94611ab849498",
       "jobright-5e1a9343bff0",
@@ -32886,7 +32914,17 @@
       "amazon-10608497",
       "url:https://www.amazon.jobs/en/jobs/10608497/software-development-engineer-leo-telemetry-platform",
       "amazon-10608496",
-      "url:https://www.amazon.jobs/en/jobs/10608496/software-development-engineer-leo-telemetry-platform"
+      "url:https://www.amazon.jobs/en/jobs/10608496/software-development-engineer-leo-telemetry-platform",
+      "jobright-9f27a7df2668",
+      "url:https://jobright.ai/jobs/info/6aff68c1b47661ae4a62c6a0",
+      "jobright-9f6413be4e1e",
+      "url:https://jobright.ai/jobs/info/6ab55f774873fd3fd8529388",
+      "amazon-10609930",
+      "url:https://www.amazon.jobs/en/jobs/10609930/software-development-engineer-amazon-quick",
+      "jobright-041a212657cc",
+      "url:https://jobright.ai/jobs/info/6aff657cb88323bd981be9b8",
+      "jobright-36da216f88fe",
+      "url:https://jobright.ai/jobs/info/6aff69b8c1c02a9acd80bcb8"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -32950,7 +32988,9 @@
       "jobright-3e607ce6e40b",
       "url:https://jobright.ai/jobs/info/6af81fb435427cce9bb2b852",
       "jobright-8956f60f3558",
-      "url:https://jobright.ai/jobs/info/6af3873c10c7aed77861b747"
+      "url:https://jobright.ai/jobs/info/6af3873c10c7aed77861b747",
+      "jobright-1326ccad451c",
+      "url:https://jobright.ai/jobs/info/6aa991f73387a3d9b67d595d"
     ]
   }
 }
