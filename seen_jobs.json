@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-b82592abcd51",
-      "seen_at": "2026-10-20T17:01:29.206419+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad78087e4b94611ab845951",
-      "seen_at": "2026-10-20T17:01:29.207218+00:00"
-    },
-    {
-      "id": "jobright-d53ca3ff723a",
-      "seen_at": "2026-10-20T17:01:29.207917+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a4c0a6b5d7b097d2df3f2d2",
-      "seen_at": "2026-10-20T17:01:29.208551+00:00"
-    },
-    {
-      "id": "jobright-6b8220e012fe",
-      "seen_at": "2026-10-20T17:01:29.209187+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5677dde9b77f668bd63855",
-      "seen_at": "2026-10-20T17:01:29.209820+00:00"
-    },
-    {
-      "id": "jobright-104e11f12e98",
-      "seen_at": "2026-10-20T17:01:29.210446+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad777f154bbabbab06fea93",
-      "seen_at": "2026-10-20T17:01:29.211079+00:00"
-    },
-    {
-      "id": "jobright-2e8b81baa3e1",
-      "seen_at": "2026-10-20T17:01:29.211715+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad77f79e4b94611ab84588f",
-      "seen_at": "2026-10-20T17:01:29.212311+00:00"
-    },
-    {
-      "id": "jobright-a0075f6f7f63",
-      "seen_at": "2026-10-20T17:01:29.212834+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad705f552aa6152bb699b3a",
-      "seen_at": "2026-10-20T17:01:29.213355+00:00"
-    },
-    {
       "id": "amazon-10584232",
       "seen_at": "2026-10-20T17:31:21.929392+00:00"
     },
@@ -26139,10 +26091,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6afdd8e20cde47528ec0f0b4",
       "seen_at": "2026-11-19T17:03:59.293201+00:00"
+    },
+    {
+      "id": "zapply-3a13bedb4b02",
+      "seen_at": "2026-11-19T17:32:50.522427+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/ashby-openai-2893060b-3795-4780-b538-48bb7d52254b",
+      "seen_at": "2026-11-19T17:32:50.522934+00:00"
+    },
+    {
+      "id": "jobright-ac37aa040a6d",
+      "seen_at": "2026-11-19T17:32:54.710994+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afdebe20cde47528ec0ffb7",
+      "seen_at": "2026-11-19T17:32:54.711427+00:00"
     }
   ],
-  "last_run": "2026-11-19T17:04:01.719461+00:00",
-  "total_notified": 13000,
+  "last_run": "2026-11-19T17:32:55.202226+00:00",
+  "total_notified": 13002,
   "channels": {
     "pm-jobs": [
       "greenhouse-airbnb-8282322",
@@ -27330,21 +27298,11 @@
       "jobright-bba9751cdf9a",
       "url:https://jobright.ai/jobs/info/6aff08451c42ea8f6b9fc5ec",
       "jobright-0e08bfb57975",
-      "url:https://jobright.ai/jobs/info/6aff0a8d1c42ea8f6b9fc79e"
+      "url:https://jobright.ai/jobs/info/6aff0a8d1c42ea8f6b9fc79e",
+      "zapply-3a13bedb4b02",
+      "url:https://zapply.jobs/l/d/ashby-openai-2893060b-3795-4780-b538-48bb7d52254b"
     ],
     "swe-ai-full-time": [
-      "jobright-b82592abcd51",
-      "url:https://jobright.ai/jobs/info/6ad78087e4b94611ab845951",
-      "jobright-d53ca3ff723a",
-      "url:https://jobright.ai/jobs/info/6a4c0a6b5d7b097d2df3f2d2",
-      "jobright-6b8220e012fe",
-      "url:https://jobright.ai/jobs/info/6a5677dde9b77f668bd63855",
-      "jobright-104e11f12e98",
-      "url:https://jobright.ai/jobs/info/6ad777f154bbabbab06fea93",
-      "jobright-2e8b81baa3e1",
-      "url:https://jobright.ai/jobs/info/6ad77f79e4b94611ab84588f",
-      "jobright-a0075f6f7f63",
-      "url:https://jobright.ai/jobs/info/6ad705f552aa6152bb699b3a",
       "amazon-10584232",
       "url:https://www.amazon.jobs/en/jobs/10584232/data-scientist-cloudtune",
       "amazon-10584229",
@@ -32690,7 +32648,9 @@
       "jobright-658e5192533d",
       "url:https://jobright.ai/jobs/info/6a6e2f7e41b41d325296b0e5",
       "jobright-e0b031ee00de",
-      "url:https://jobright.ai/jobs/info/6a54f2232084cd792b4751f6"
+      "url:https://jobright.ai/jobs/info/6a54f2232084cd792b4751f6",
+      "jobright-ac37aa040a6d",
+      "url:https://jobright.ai/jobs/info/6afdebe20cde47528ec0ffb7"
     ]
   }
 }
