@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-eccb93f4f02e",
-      "seen_at": "2026-10-20T03:31:17.147097+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-statestreet-global-R-786885",
-      "seen_at": "2026-10-20T03:31:17.147450+00:00"
-    },
-    {
       "id": "jobright-52ffed93c135",
       "seen_at": "2026-10-20T10:01:23.161370+00:00"
     },
@@ -25875,14 +25867,20 @@
     {
       "id": "url:https://qualcomm.eightfold.ai/careers/job/446722197774",
       "seen_at": "2026-11-19T03:31:16.067771+00:00"
+    },
+    {
+      "id": "jobright-9a81d0826e4c",
+      "seen_at": "2026-11-19T04:01:26.258557+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afe5a86f3e7976cc610df1f",
+      "seen_at": "2026-11-19T04:01:26.258930+00:00"
     }
   ],
-  "last_run": "2026-11-19T03:31:19.463503+00:00",
-  "total_notified": 12932,
+  "last_run": "2026-11-19T04:01:29.370117+00:00",
+  "total_notified": 12933,
   "channels": {
     "pm-jobs": [
-      "zapply-eccb93f4f02e",
-      "url:https://zapply.jobs/l/d/workday-statestreet-global-R-786885",
       "jobright-c33d3cf012da",
       "url:https://jobright.ai/jobs/info/6ad6a83b52aa6152bb69796a",
       "greenhouse-vercel-6228301004",
@@ -32358,7 +32356,9 @@
       "jobright-c2b4520573cc",
       "url:https://jobright.ai/jobs/info/6afe4baf8cffea7c97c91eca",
       "simplify-05c2c1f1-af4c-4299-9e8a-f24cfcfa0927",
-      "url:https://qualcomm.eightfold.ai/careers/job/446722197774"
+      "url:https://qualcomm.eightfold.ai/careers/job/446722197774",
+      "jobright-9a81d0826e4c",
+      "url:https://jobright.ai/jobs/info/6afe5a86f3e7976cc610df1f"
     ]
   }
 }
