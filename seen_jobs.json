@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10584220",
-      "seen_at": "2026-10-20T20:31:30.302590+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10584220/applied-scientist-sponsored-products-off-search-auction",
-      "seen_at": "2026-10-20T20:31:30.303000+00:00"
-    },
-    {
-      "id": "amazon-10584605",
-      "seen_at": "2026-10-20T20:31:30.303348+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10584605/software-development-engineer-amazon-java-runtime",
-      "seen_at": "2026-10-20T20:31:30.303664+00:00"
-    },
-    {
-      "id": "zapply-262834a44c00",
-      "seen_at": "2026-10-20T20:31:35.190374+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133534",
-      "seen_at": "2026-10-20T20:31:35.190721+00:00"
-    },
-    {
       "id": "jobright-e1586b4ad9e6",
       "seen_at": "2026-10-20T21:01:40.423767+00:00"
     },
@@ -26259,14 +26235,108 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af81fb435427cce9bb2b852",
       "seen_at": "2026-11-19T20:33:19.424310+00:00"
+    },
+    {
+      "id": "greenhouse-vercel-6150691004",
+      "seen_at": "2026-11-19T21:03:15.840205+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vercel/jobs/6150691004",
+      "seen_at": "2026-11-19T21:03:15.840685+00:00"
+    },
+    {
+      "id": "simplify-eb0da105-f983-42b1-85f4-2723187d0458",
+      "seen_at": "2026-11-19T21:03:15.841176+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1D4",
+      "seen_at": "2026-11-19T21:03:15.841593+00:00"
+    },
+    {
+      "id": "simplify-078b6818-fc81-4d2f-a236-ec54696f1971",
+      "seen_at": "2026-11-19T21:03:15.842044+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1D5",
+      "seen_at": "2026-11-19T21:03:15.842455+00:00"
+    },
+    {
+      "id": "jobright-81be456f65bd",
+      "seen_at": "2026-11-19T21:03:15.842873+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff4fdb72b9be3685290876",
+      "seen_at": "2026-11-19T21:03:15.843299+00:00"
+    },
+    {
+      "id": "jobright-8421f3a09cae",
+      "seen_at": "2026-11-19T21:03:15.843721+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac54610064da25272e15d9e",
+      "seen_at": "2026-11-19T21:03:15.844154+00:00"
+    },
+    {
+      "id": "jobright-ec82d29bd714",
+      "seen_at": "2026-11-19T21:03:15.844567+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff4323b88323bd981bd5b4",
+      "seen_at": "2026-11-19T21:03:15.844977+00:00"
+    },
+    {
+      "id": "jobright-dbb950bb8a2a",
+      "seen_at": "2026-11-19T21:03:15.845409+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff430b97dcc4fc8dcaa6a5",
+      "seen_at": "2026-11-19T21:03:15.845834+00:00"
+    },
+    {
+      "id": "jobright-547065025e72",
+      "seen_at": "2026-11-19T21:03:15.846258+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff41cac1c02a9acd80a488",
+      "seen_at": "2026-11-19T21:03:15.846673+00:00"
+    },
+    {
+      "id": "amazon-10609772",
+      "seen_at": "2026-11-19T21:03:15.847093+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10609772/software-development-engineer-creator-marketplace",
+      "seen_at": "2026-11-19T21:03:15.847494+00:00"
+    },
+    {
+      "id": "jobright-b7ecb287bd2a",
+      "seen_at": "2026-11-19T21:03:15.847893+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff40731c42ea8f6b9fec04",
+      "seen_at": "2026-11-19T21:03:15.848306+00:00"
+    },
+    {
+      "id": "jobright-718d8f2eaa70",
+      "seen_at": "2026-11-19T21:03:15.848720+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff4d5572b9be36852906aa",
+      "seen_at": "2026-11-19T21:03:15.849131+00:00"
+    },
+    {
+      "id": "jobright-8956f60f3558",
+      "seen_at": "2026-11-19T21:03:21.393985+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af3873c10c7aed77861b747",
+      "seen_at": "2026-11-19T21:03:21.394540+00:00"
     }
   ],
-  "last_run": "2026-11-19T20:33:19.660275+00:00",
-  "total_notified": 13039,
+  "last_run": "2026-11-19T21:03:21.642384+00:00",
+  "total_notified": 13051,
   "channels": {
     "pm-jobs": [
-      "zapply-262834a44c00",
-      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133534",
       "jobright-148e9e14a3da",
       "url:https://jobright.ai/jobs/info/6ad7b5b254bbabbab0701617",
       "zapply-151ae29b18d1",
@@ -27473,10 +27543,6 @@
       "url:https://jobright.ai/jobs/info/6aff3bc4b88323bd981bcfcd"
     ],
     "swe-ai-full-time": [
-      "amazon-10584220",
-      "url:https://www.amazon.jobs/en/jobs/10584220/applied-scientist-sponsored-products-off-search-auction",
-      "amazon-10584605",
-      "url:https://www.amazon.jobs/en/jobs/10584605/software-development-engineer-amazon-java-runtime",
       "jobright-e1586b4ad9e6",
       "url:https://jobright.ai/jobs/info/6ad7bccf52aa6152bb69ed99",
       "amazon-10584630",
@@ -32778,7 +32844,29 @@
       "amazon-10607407",
       "url:https://www.amazon.jobs/en/jobs/10607407/software-development-engineer-ads-ai-core-infra",
       "amazon-10609667",
-      "url:https://www.amazon.jobs/en/jobs/10609667/applied-scientist-amazon-ads-creativex"
+      "url:https://www.amazon.jobs/en/jobs/10609667/applied-scientist-amazon-ads-creativex",
+      "greenhouse-vercel-6150691004",
+      "url:https://job-boards.greenhouse.io/vercel/jobs/6150691004",
+      "simplify-eb0da105-f983-42b1-85f4-2723187d0458",
+      "url:https://go.vansh.nyc/1D4",
+      "simplify-078b6818-fc81-4d2f-a236-ec54696f1971",
+      "url:https://go.vansh.nyc/1D5",
+      "jobright-81be456f65bd",
+      "url:https://jobright.ai/jobs/info/6aff4fdb72b9be3685290876",
+      "jobright-8421f3a09cae",
+      "url:https://jobright.ai/jobs/info/6ac54610064da25272e15d9e",
+      "jobright-ec82d29bd714",
+      "url:https://jobright.ai/jobs/info/6aff4323b88323bd981bd5b4",
+      "jobright-dbb950bb8a2a",
+      "url:https://jobright.ai/jobs/info/6aff430b97dcc4fc8dcaa6a5",
+      "jobright-547065025e72",
+      "url:https://jobright.ai/jobs/info/6aff41cac1c02a9acd80a488",
+      "amazon-10609772",
+      "url:https://www.amazon.jobs/en/jobs/10609772/software-development-engineer-creator-marketplace",
+      "jobright-b7ecb287bd2a",
+      "url:https://jobright.ai/jobs/info/6aff40731c42ea8f6b9fec04",
+      "jobright-718d8f2eaa70",
+      "url:https://jobright.ai/jobs/info/6aff4d5572b9be36852906aa"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -32840,7 +32928,9 @@
       "jobright-574425f9d22e",
       "url:https://jobright.ai/jobs/info/6ae2622eeb7e8f715a60d811",
       "jobright-3e607ce6e40b",
-      "url:https://jobright.ai/jobs/info/6af81fb435427cce9bb2b852"
+      "url:https://jobright.ai/jobs/info/6af81fb435427cce9bb2b852",
+      "jobright-8956f60f3558",
+      "url:https://jobright.ai/jobs/info/6af3873c10c7aed77861b747"
     ]
   }
 }
