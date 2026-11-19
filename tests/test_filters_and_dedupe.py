@@ -184,6 +184,69 @@ class PmChannelFilterTests(unittest.TestCase):
             self.assertFalse(self._matches(title), f"should NOT match {title!r}")
 
 
+class BeautyFinanceChannelFilterTests(unittest.TestCase):
+    def setUp(self) -> None:
+        self.scraper = GreenhouseScraper()
+
+    def _matches(self, title: str) -> bool:
+        return self.scraper.matches_keywords(
+            title,
+            config.DEFAULT_BEAUTY_FINANCE_KEYWORDS,
+            config.DEFAULT_BEAUTY_FINANCE_EXCLUDED_KEYWORDS,
+        )
+
+    def test_accepts_entry_level_beauty_and_finance_titles(self) -> None:
+        for title in (
+            "Product Development Coordinator",
+            "Product Development Associate",
+            "NPD Coordinator",
+            "PD Coordinator",
+            "Cosmetics Product Development",
+            "Beauty Coordinator",
+            "Skincare Development Associate",
+            "Formulation Coordinator",
+            "Packaging Development Associate",
+            "Packaging Engineer – Body, Lip, & Hair",
+            "Technical Packaging Coordinator",
+            "Product Design/Development - Associate Researcher",
+            "FP&A Analyst, Corporate",
+            "Analyst, Financial Planning & Analysis",
+            "Financial Analyst",
+            "Junior Financial Analyst",
+            "Associate Consultant",
+            "Financial Consultant",
+            "Business Analyst",
+            "Management Consultant",
+            "Consulting Analyst",
+        ):
+            self.assertTrue(self._matches(title), f"should match {title!r}")
+
+    def test_rejects_senior_it_retail_and_description_only_titles(self) -> None:
+        for title in (
+            "Senior Financial Analyst",
+            "Financial Analyst II",
+            "FP&A Manager",
+            "Director, Product Development",
+            "Senior Manager, Packaging Development",
+            "IT Business Analyst",
+            "Salesforce Business Analyst",
+            "Business Systems Analyst",
+            "Technical Business Analyst",
+            "Financial Analyst Intern",
+            "Product Development Intern",
+            "Business Analyst, Contract",
+            "Personal Financial Consultant",
+            "Software Product Development Engineer",
+            "AI & Machine Learning Consultant",
+            "Consultant",
+            "INCI Specialist",
+            "Stage Gate Lead",
+            "Ambassador (Freelancer) - Beauty Sales",
+            "Research & Development Industrial Placement (Associate Researcher - BSc) 2027",
+        ):
+            self.assertFalse(self._matches(title), f"should NOT match {title!r}")
+
+
 class CompanyExclusionTests(unittest.TestCase):
     def _job(self, company: str, title: str = "Software Engineer") -> Job:
         return Job(
@@ -291,6 +354,7 @@ class ChannelLoadingTests(unittest.TestCase):
                 "SWE_WEBHOOK_URL": "https://discord.com/api/webhooks/retired",
                 "PM_WEBHOOK_URL": "https://discord.com/api/webhooks/pm",
                 "FULL_TIME_WEBHOOK_URL": "https://discord.com/api/webhooks/fulltime-env",
+                "BEAUTY_FINANCE_WEBHOOK_URL": "",
                 "CHANNELS_JSON": "",
             },
             clear=False,
@@ -299,9 +363,38 @@ class ChannelLoadingTests(unittest.TestCase):
 
         # The retired SWE_WEBHOOK_URL (internship channel) must be ignored.
         self.assertEqual([channel.name for channel in channels], ["pm-jobs", "swe-ai-full-time"])
-        self.assertEqual(channels[0].jev_profile, "pm")
-        self.assertEqual(channels[1].jev_profile, "swe")
         self.assertEqual(channels[1].webhook_url, "https://discord.com/api/webhooks/fulltime-env")
+        self.assertEqual(channels[0].excluded_locations, config.DEFAULT_EXCLUDED_LOCATIONS)
+        for channel in channels:
+            # Built-in channels get the base exclusions PLUS the US-person-only
+            # defense/federal employers, unless INCLUDE_NON_SPONSORING_COMPANIES.
+            self.assertEqual(
+                channel.excluded_companies, config.effective_excluded_companies()
+            )
+            for name in config.DEFAULT_EXCLUDED_COMPANIES:
+                self.assertIn(name, channel.excluded_companies)
+            self.assertIn("lockheed", channel.excluded_companies)
+
+    def test_beauty_finance_webhook_loads_its_own_channel(self) -> None:
+        with patch.dict(
+            os.environ,
+            {
+                "PM_WEBHOOK_URL": "",
+                "FULL_TIME_WEBHOOK_URL": "",
+                "BEAUTY_FINANCE_WEBHOOK_URL": "https://discord.com/api/webhooks/beauty",
+                "CHANNELS_JSON": "",
+                "DISCORD_WEBHOOK_URL": "",
+            },
+            clear=False,
+        ):
+            channels = config.load_channels(require_webhooks=True)
+
+        self.assertEqual([channel.name for channel in channels], ["beauty-finance"])
+        self.assertIn("financial analyst", channels[0].keywords)
+        self.assertIn("product development", channels[0].keywords)
+        self.assertNotIn("consultant", channels[0].excluded_keywords)
+        self.assertNotIn("consulting", channels[0].excluded_keywords)
+        self.assertIn("senior", channels[0].excluded_keywords)
         self.assertEqual(channels[0].excluded_locations, config.DEFAULT_EXCLUDED_LOCATIONS)
         for channel in channels:
             # Built-in channels get the base exclusions PLUS the US-person-only
@@ -337,6 +430,7 @@ class ChannelLoadingTests(unittest.TestCase):
             {
                 "PM_WEBHOOK_URL": "https://discord.com/api/webhooks/default-pm",
                 "FULL_TIME_WEBHOOK_URL": "",
+                "BEAUTY_FINANCE_WEBHOOK_URL": "",
                 "CHANNELS_JSON": raw_channels,
             },
             clear=False,
@@ -351,7 +445,6 @@ class ChannelLoadingTests(unittest.TestCase):
             channels[0].excluded_companies, config.effective_excluded_companies(["Uber"])
         )
         self.assertIn("lockheed", channels[0].excluded_companies)
-        self.assertEqual(channels[0].jev_profile, "")
         self.assertEqual(channels[1].excluded_locations, [])
         # Omitted excluded_companies gets the full built-in set, not [].
         self.assertEqual(

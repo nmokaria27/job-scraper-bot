@@ -39,6 +39,7 @@ class GreenhouseScraper(BaseScraper):
             # first_published is the true posting date; updated_at moves every
             # time the listing is edited and caused old jobs to re-surface.
             posted_at=raw.get("first_published") or raw.get("updated_at") or "Unknown",
+            description=raw.get("content") or "",
         )
 
     async def fetch_jobs(self, company_slug: str) -> list[Job]:

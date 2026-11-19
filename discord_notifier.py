@@ -19,6 +19,11 @@ PLATFORM_LABELS: dict[str, str] = {
     "simplify":    "\u26a1 SimplifyJobs",
     "speedyapply": "\U0001f4a8 SpeedyApply",
     "jobright":    "\U0001f3af JobRight",
+    "jobright-finance": "Jobright Accounting & Finance",
+    "coty": "Coty Careers",
+    "shiseido": "Shiseido Careers",
+    "manifest": "Manifest Beauty Jobs",
+    "management-consulted": "Employer Careers",
     "zapply":      "\U0001f680 Zapply",
     "applyguy":    "\U0001f9ed ApplyGuy",
     "gradtracker": "\U0001f4cb New-Grad Tracker",
@@ -112,22 +117,10 @@ def _retry_after_seconds(response: httpx.Response) -> float:
         return 2.0
 
 
-def _build_job_embed(
-    job: Job,
-    promoted: bool = False,
-    fit: float | None = None,
-    confidence: float | None = None,
-) -> dict:
-    """`promoted` marks a job Jev surfaced from OUTSIDE the keyword filters, so an
-    admission is always visible rather than silent.
-
-    `fit` and `confidence` are Jev's 0-1 scores. Omit both when the job was
-    not judged so an outage does not render a fake 0%.
-    """
+def _build_job_embed(job: Job) -> dict:
     source_label = PLATFORM_LABELS.get(job.platform, job.platform.capitalize())
     color = PLATFORM_COLORS.get(job.platform, 5814783)
-    icon = "✨" if promoted else "\U0001f680"
-    full_title = f"{icon} {job.title}"
+    full_title = f"🚀 {job.title}"
     title = (full_title[:253] + "...") if len(full_title) > 256 else full_title
     fields = [
         {
@@ -146,14 +139,6 @@ def _build_job_embed(
             "inline": True,
         },
     ]
-    if fit is not None and confidence is not None:
-        fields.append(
-            {
-                "name": "Jev",
-                "value": f"{fit:.0%} fit · {confidence:.0%} confidence",
-                "inline": True,
-            }
-        )
     fields.append(
         {
             "name": "\U0001f517 Apply",
@@ -166,10 +151,7 @@ def _build_job_embed(
         "description": f"**{job.company}**",
         "color": color,
         "fields": fields,
-        "footer": {
-            "text": "Job Scraper Bot"
-            + (" · surfaced by Jev (outside keyword filters)" if promoted else "")
-        },
+        "footer": {"text": "Job Scraper Bot"},
         "timestamp": datetime.now(tz=timezone.utc).isoformat(),
     }
 
@@ -177,39 +159,19 @@ def _build_job_embed(
 async def notify_jobs_batch(
     jobs: list[Job],
     webhook_url: str | None = None,
-    promoted_ids: set[str] | None = None,
-    scores: dict[str, tuple[float, float]] | None = None,
 ) -> list[Job]:
     """
     Send Discord notifications for a list of jobs to a specific webhook.
     Returns the subset of jobs that were successfully notified.
     Posts up to MAX_EMBEDS_PER_POST embeds per call, then sleeps.
 
-    `promoted_ids` holds the ids of jobs Jev surfaced from outside the keyword
-    filters; those embeds are visually marked.
-
-    `scores` maps job id → (fit, confidence), both 0-1. Missing ids are posted
-    without a Jev field.
     """
     notified: list[Job] = []
-    promoted_ids = promoted_ids or set()
-    scores = scores or {}
 
     async with httpx.AsyncClient(timeout=10) as client:
         for start in range(0, len(jobs), MAX_EMBEDS_PER_POST):
             chunk = jobs[start : start + MAX_EMBEDS_PER_POST]
-            embeds = []
-            for job in chunk:
-                fit_conf = scores.get(job.id)
-                fit, confidence = fit_conf if fit_conf is not None else (None, None)
-                embeds.append(
-                    _build_job_embed(
-                        job,
-                        promoted=job.id in promoted_ids,
-                        fit=fit,
-                        confidence=confidence,
-                    )
-                )
+            embeds = [_build_job_embed(job) for job in chunk]
             result = await _post_webhook(client, {"embeds": embeds}, webhook_url)
             if result.success:
                 notified.extend(chunk)
@@ -231,7 +193,6 @@ async def send_summary(
     webhook_url: str | None = None,
     channel_name: str = "",
     force: bool = False,
-    overflow_rerank: bool = False,
 ) -> None:
     """
     Send a summary embed at the end of a run.
@@ -242,12 +203,7 @@ async def send_summary(
 
     import config  # local import to avoid circular dependency at module level
 
-    if capped and overflow_rerank:
-        cap_note = (
-            f"\n\u26a0\ufe0f Capped at {config.MAX_NOTIFICATIONS_PER_RUN} notifications. "
-            "The rest stay eligible and will be re-ranked on the next run."
-        )
-    elif capped:
+    if capped:
         cap_note = (
             f"\n\u26a0\ufe0f Capped at {config.MAX_NOTIFICATIONS_PER_RUN} notifications. "
             "Additional matches were queued and will not re-notify until this channel is quiet."

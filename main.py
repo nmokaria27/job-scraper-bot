@@ -24,12 +24,17 @@ from scrapers.lever import LeverScraper
 from scrapers.ashby import AshbyScraper
 from scrapers.simplify import SimplifyScraper
 from scrapers.hackernews import HackerNewsScraper
-from scrapers.markdown_table import SpeedyApplyScraper, JobRightScraper, ZapplyScraper
+from scrapers.markdown_table import JobRightFinanceScraper, JobRightScraper, SpeedyApplyScraper, ZapplyScraper
+from scrapers.beauty_finance import (
+    CHANNEL as BEAUTY_FINANCE_CHANNEL,
+    PLATFORMS as BEAUTY_FINANCE_PLATFORMS,
+    PublicBeautyFinanceScraper,
+    review_beauty_finance,
+)
 from scrapers.json_sources import JsonSourceScraper
 from scrapers.bigtech import AmazonScraper, WorkdayScraper
 from scrapers.fetch import describe_error
 import discord_notifier
-import jev
 
 
 # ---------------------------------------------------------------------------
@@ -348,6 +353,7 @@ def filter_for_channel(jobs: list[Job], channel: ChannelConfig) -> list[Job]:
     return [
         job for job in jobs
         if job.title
+        and (job.platform not in BEAUTY_FINANCE_PLATFORMS or channel.name == BEAUTY_FINANCE_CHANNEL)
         and not company_is_excluded(job.company, channel.excluded_companies)
         and _filter_scraper.matches_keywords(
             job.title, channel.keywords, channel.excluded_keywords
@@ -358,25 +364,11 @@ def filter_for_channel(jobs: list[Job], channel: ChannelConfig) -> list[Job]:
     ]
 
 
-def promotion_candidates(jobs: list[Job], channel: ChannelConfig) -> list[Job]:
-    """Jobs that pass company + location but FAIL the keyword filter.
-
-    These are exactly what `filter_for_channel` discards. Company and location stay
-    regex because they are preference and geographic fact, not judgement — and Jev
-    is documented as weak at date/place reasoning. Only the keyword decision is
-    handed over, and only under the guards in jev.promote_jobs.
-    """
-    return [
-        job for job in jobs
-        if job.title
-        and not company_is_excluded(job.company, channel.excluded_companies)
-        and _filter_scraper.matches_location(
-            job.location, channel.locations, channel.excluded_locations
-        )
-        and not _filter_scraper.matches_keywords(
-            job.title, channel.keywords, channel.excluded_keywords
-        )
-    ]
+async def match_jobs_for_channel(jobs: list[Job], channel: ChannelConfig) -> list[Job]:
+    matches = filter_for_channel(jobs, channel)
+    if channel.name == BEAUTY_FINANCE_CHANNEL and matches:
+        matches = filter_recent_jobs(await review_beauty_finance(matches))
+    return dedupe_jobs_for_channel(channel.name, matches)
 
 
 # Sources that only know the posting *date* (jobright, Amazon, Workday, the
@@ -424,6 +416,11 @@ PLATFORM_DEDUPE_PRIORITY: dict[str, int] = {
     "simplify": 3,
     "speedyapply": 2,
     "jobright": 2,
+    "jobright-finance": 2,
+    "coty": 4,
+    "shiseido": 4,
+    "manifest": 2,
+    "management-consulted": 2,
     "zapply": 2,
     "applyguy": 2,
     "gradtracker": 2,
@@ -506,76 +503,6 @@ def _newest_first(jobs: list[Job]) -> list[Job]:
     return sorted(jobs, key=sort_key)
 
 
-def _scores_by_id(jobs: list[Job], verdicts: list[jev.Verdict]) -> dict[str, tuple[float, float]]:
-    """job id → (fit, confidence) for judged jobs only."""
-    scores: dict[str, tuple[float, float]] = {}
-    for job, verdict in zip(jobs, verdicts):
-        if verdict.judged:
-            scores[job.id] = (verdict.fit, verdict.confidence)
-    return scores
-
-
-def _leave_overflow_unseen(verdicts: list[jev.Verdict]) -> bool:
-    """Re-rank overflow only when Jev actually scored this batch.
-
-    Ranking-on plus an outage (every verdict unjudged) is recency order. Those
-    leftovers must stay on the quiet-run queue, or a steady stream of newer
-    posts ages them out of the window.
-    """
-    return config.JEV_RANKING and any(verdict.judged for verdict in verdicts)
-
-
-def _channels_for_judging(channels: list[ChannelConfig]) -> list[ChannelConfig]:
-    """SWE profile first when Jev is on, so PM promotion cannot spend the budget."""
-    if not config.JEV_ENABLED:
-        return list(channels)
-    return sorted(channels, key=lambda ch: 0 if jev.profile_for(ch) == "swe" else 1)
-
-
-def _rank_for_notification(
-    jobs: list[Job], verdicts: list[jev.Verdict]
-) -> tuple[list[Job], list[Job]]:
-    """Order jobs for the per-run cap. Returns (ordered_keepers, dropped).
-
-    Invariant: with every verdict unjudged, the ordering is IDENTICAL to
-    _newest_first(jobs). That is what makes a Jev outage invisible, and
-    tests/test_jev.py locks it in. Unjudged jobs sit in a neutral bucket so an
-    outage degrades to today's recency-only behaviour rather than burying them.
-
-    Fit is bucketed rather than sorted raw: a raw sort would let a marginally
-    better but older job outrank a fresher one, undoing the reason _newest_first
-    exists (the cap must not spend its budget on stale postings).
-    """
-    min_dt = datetime.min.replace(tzinfo=timezone.utc)
-    bucket_width = max(config.JEV_FIT_BUCKET, 0.01)
-    # Neutral bucket for unjudged jobs: mid-scale, so they interleave with judged
-    # ones instead of all sinking below them during an outage.
-    neutral_bucket = int(0.5 / bucket_width)
-
-    keepers: list[tuple[Job, jev.Verdict]] = []
-    dropped: list[Job] = []
-    for job, verdict in zip(jobs, verdicts):
-        if config.JEV_ENFORCE and verdict.judged and not verdict.keep:
-            dropped.append(job)
-        else:
-            keepers.append((job, verdict))
-
-    def sort_key(pair: tuple[Job, jev.Verdict]) -> tuple[int, int, float]:
-        job, verdict = pair
-        posted = _parse_dt(job.posted_at)
-        dated = posted != min_dt
-        if config.JEV_RANKING and verdict.judged:
-            bucket = int(verdict.fit / bucket_width)
-        else:
-            bucket = neutral_bucket
-        # Elements 2 and 3 are character-for-character the _newest_first key, so
-        # an all-unjudged run reproduces it exactly.
-        return (-bucket, 0 if dated else 1, -posted.timestamp() if dated else 0.0)
-
-    keepers.sort(key=sort_key)
-    return [job for job, _ in keepers], dropped
-
-
 def _job_dedupe_rank(job: Job) -> tuple[int, bool, datetime, int, int]:
     posted_at = _parse_dt(job.posted_at)
     return (
@@ -639,7 +566,7 @@ def mark_job_seen(data: dict, channel_name: str, job: Job) -> None:
 # Core scraping logic (raw — no filtering)
 # ---------------------------------------------------------------------------
 
-async def scrape_all_raw() -> tuple[list[Job], int]:
+async def scrape_all_raw(*, include_beauty_finance: bool = False) -> tuple[list[Job], int]:
     """
     Run all scrapers across all sources. Returns ALL jobs with NO filtering.
     Bulk scrapers (simplify, hackernews) are called once.
@@ -662,6 +589,9 @@ async def scrape_all_raw() -> tuple[list[Job], int]:
         "amazon": AmazonScraper(),
         "workday": WorkdayScraper(),
     }
+    if include_beauty_finance:
+        bulk_scrapers["jobright-finance"] = JobRightFinanceScraper()
+        bulk_scrapers["beauty-finance-public"] = PublicBeautyFinanceScraper()
 
     all_jobs: list[Job] = []
     total_checked = 0
@@ -737,7 +667,9 @@ async def main(init_mode: bool = False) -> None:
 
     # Scrape all platforms (raw, no filtering)
     print("\n[INFO] Scraping all platforms...")
-    all_jobs, total_checked = await scrape_all_raw()
+    all_jobs, total_checked = await scrape_all_raw(
+        include_beauty_finance=any(ch.name == BEAUTY_FINANCE_CHANNEL for ch in channels),
+    )
     print(f"[INFO] Total postings fetched: {total_checked}")
 
     # --- INIT MODE: seed seen_jobs.json without notifying ---
@@ -746,7 +678,10 @@ async def main(init_mode: bool = False) -> None:
         global_seen = get_seen_ids(seen_data)
 
         for ch in channels:
-            matching = dedupe_jobs_for_channel(ch.name, filter_for_channel(all_jobs, ch))
+            if ch.name == BEAUTY_FINANCE_CHANNEL:
+                matching = await match_jobs_for_channel(filter_recent_jobs(all_jobs), ch)
+            else:
+                matching = dedupe_jobs_for_channel(ch.name, filter_for_channel(all_jobs, ch))
             for job in matching:
                 if not job_was_seen(global_seen, job):
                     seeded += 1
@@ -763,50 +698,22 @@ async def main(init_mode: bool = False) -> None:
             print(f"[ERROR] Failed to save seen_jobs.json: {e}")
         return
 
-    # --- NORMAL MODE: per-channel filter → dedupe → judge → notify ---
+    # --- NORMAL MODE: per-channel filter → dedupe → notify ---
     all_jobs = filter_recent_jobs(all_jobs)
     total_notified = 0
-    # Shared across channels so two channels cannot each spend the full allowance.
-    jev_budget = jev.new_budget()
 
-    for ch in _channels_for_judging(channels):
+    for ch in channels:
         print(f"\n{'='*60}")
         print(f"[CHANNEL] Processing: {ch.name}")
         print(f"{'='*60}")
 
         # Filter jobs for this channel's keywords/exclusions/locations
-        matching = dedupe_jobs_for_channel(ch.name, filter_for_channel(all_jobs, ch))
+        matching = await match_jobs_for_channel(all_jobs, ch)
         ch_seen_ids = get_channel_seen_ids(seen_data, ch.name)
 
-        # Find jobs not yet sent to THIS channel. Judging happens AFTER the
-        # seen-filter on purpose: judging `matching` would spend ~100x the calls
-        # on jobs that were never going to be posted anyway.
-        promoted_ids: set[str] = set()
-        unseen = [job for job in matching if not job_was_seen(ch_seen_ids, job)]
-
-        verdicts = await jev.judge_for_channel(unseen, ch, jev_budget)
-        jev.summarise(ch.name, unseen, verdicts)
-        scores = _scores_by_id(unseen, verdicts)
-        new_for_channel, jev_dropped = _rank_for_notification(unseen, verdicts)
-        if jev_dropped:
-            print(f"[JEV] '{ch.name}': dropped {len(jev_dropped)} of {len(unseen)}")
-
-        # Bounded promotion: only when this channel is UNDER its cap, so we never pay
-        # to judge jobs that could not be posted anyway.
-        free_slots = config.MAX_NOTIFICATIONS_PER_RUN - len(new_for_channel)
-        if config.JEV_PROMOTE and free_slots > 0:
-            candidates = _newest_first(
-                [j for j in promotion_candidates(all_jobs, ch)
-                 if not job_was_seen(ch_seen_ids, j)]
-            )
-            candidates = dedupe_jobs_for_channel(ch.name, candidates)
-            for job, verdict in await jev.promote_jobs(
-                candidates, ch, jev_budget, free_slots
-            ):
-                promoted_ids.add(job.id)
-                if verdict.judged:
-                    scores[job.id] = (verdict.fit, verdict.confidence)
-                new_for_channel.append(job)
+        new_for_channel = _newest_first(
+            [job for job in matching if not job_was_seen(ch_seen_ids, job)]
+        )
 
         print(f"[INFO] Matching: {len(matching)} | New for channel: {len(new_for_channel)}")
 
@@ -816,24 +723,7 @@ async def main(init_mode: bool = False) -> None:
             flushed: list[Job] = []
             if flush_candidates:
                 print(f"[INFO] No new jobs for '{ch.name}'. Flushing {len(flush_candidates)} queued job(s).")
-                flush_verdicts = await jev.judge_for_channel(
-                    flush_candidates, ch, jev_budget
-                )
-                flush_scores = _scores_by_id(flush_candidates, flush_verdicts)
-                if config.JEV_ENFORCE:
-                    rejected = [
-                        job for job, verdict in zip(flush_candidates, flush_verdicts)
-                        if verdict.judged and not verdict.keep
-                    ]
-                    if rejected:
-                        drop_queued_items(queue_data, ch.name, rejected)
-                        flush_candidates = [
-                            job for job in flush_candidates if job not in rejected
-                        ]
-                        print(f"[JEV] '{ch.name}': dropped {len(rejected)} queued job(s) on flush")
-                flushed = await discord_notifier.notify_jobs_batch(
-                    flush_candidates, ch.webhook_url, scores=flush_scores
-                )
+                flushed = await discord_notifier.notify_jobs_batch(flush_candidates, ch.webhook_url)
                 total_notified += len(flushed)
                 removed = drop_queued_items(queue_data, ch.name, flushed)
                 if removed:
@@ -858,9 +748,7 @@ async def main(init_mode: bool = False) -> None:
                   f"(found {len(new_for_channel)} new)")
 
         # Send Discord notifications
-        notified = await discord_notifier.notify_jobs_batch(
-            jobs_to_notify, ch.webhook_url, promoted_ids=promoted_ids, scores=scores
-        )
+        notified = await discord_notifier.notify_jobs_batch(jobs_to_notify, ch.webhook_url)
         total_notified += len(notified)
 
         for job in notified:
@@ -868,19 +756,7 @@ async def main(init_mode: bool = False) -> None:
 
         if len(notified) == len(jobs_to_notify):
             jobs_to_queue = new_for_channel[config.MAX_NOTIFICATIONS_PER_RUN:]
-            if jobs_to_queue and _leave_overflow_unseen(verdicts):
-                # Leave overflow unseen. The next run re-ranks them against new
-                # arrivals, so a high-fit job that missed this cap can still post.
-                # Already-notified jobs stay marked seen, so the same top slice
-                # is not sent again.
-                print(
-                    f"[INFO] {len(jobs_to_queue)} job(s) over the cap left unseen "
-                    f"for '{ch.name}' so the next run can re-rank them"
-                )
-            elif jobs_to_queue:
-                # Recency mode: queue and mark seen, otherwise the same newest
-                # slice refills the cap on every run. Flush only when the
-                # channel later has zero new matches.
+            if jobs_to_queue:
                 enqueue_capped_jobs(queue_data, ch.name, jobs_to_queue)
                 for job in jobs_to_queue:
                     mark_job_seen(seen_data, ch.name, job)
@@ -893,7 +769,6 @@ async def main(init_mode: bool = False) -> None:
             new_count=len(notified),
             total_checked=total_checked,
             capped=capped,
-            overflow_rerank=_leave_overflow_unseen(verdicts),
             webhook_url=ch.webhook_url,
             channel_name=ch.name,
             force=config.SEND_NO_NEW_SUMMARY,

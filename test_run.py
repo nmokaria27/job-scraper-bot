@@ -30,18 +30,21 @@ import config
 from companies import get_companies
 from scrapers.ashby import AshbyScraper
 from scrapers.base import Job
+from scrapers.beauty_finance import PublicBeautyFinanceScraper
 from scrapers.bigtech import AmazonScraper, WorkdayScraper
 from scrapers.greenhouse import GreenhouseScraper
 from scrapers.hackernews import HackerNewsScraper
 from scrapers.json_sources import JsonSourceScraper
 from scrapers.lever import LeverScraper
-from scrapers.markdown_table import JobRightScraper, SpeedyApplyScraper, ZapplyScraper
+from scrapers.markdown_table import JobRightFinanceScraper, JobRightScraper, SpeedyApplyScraper, ZapplyScraper
 from scrapers.simplify import SimplifyScraper
 
 SOURCES = {
     "simplify": SimplifyScraper,
     "speedyapply": SpeedyApplyScraper,
     "jobright": JobRightScraper,
+    "jobright-finance": JobRightFinanceScraper,
+    "beauty-finance-public": PublicBeautyFinanceScraper,
     "zapply": ZapplyScraper,
     "jsonsource": JsonSourceScraper,
     "amazon": AmazonScraper,
@@ -207,6 +210,14 @@ def _dry_run_channels() -> list[config.ChannelConfig]:
             locations=config.DEFAULT_LOCATIONS,
             excluded_locations=config.DEFAULT_EXCLUDED_LOCATIONS,
         ),
+        config.ChannelConfig(
+            name="beauty-finance",
+            webhook_url="",
+            keywords=config.DEFAULT_BEAUTY_FINANCE_KEYWORDS,
+            excluded_keywords=config.DEFAULT_BEAUTY_FINANCE_EXCLUDED_KEYWORDS,
+            locations=config.DEFAULT_LOCATIONS,
+            excluded_locations=config.DEFAULT_EXCLUDED_LOCATIONS,
+        ),
     ]
 
 
@@ -224,13 +235,15 @@ async def test_channels(hours: int | None) -> None:
     print("No Discord notifications. No file writes. Seen-state ignored.")
     print("=" * 60)
 
-    all_jobs, total = await main.scrape_all_raw()
+    all_jobs, total = await main.scrape_all_raw(
+        include_beauty_finance=any(ch.name == main.BEAUTY_FINANCE_CHANNEL for ch in channels),
+    )
     print(f"\n[INFO] Total postings fetched: {total}")
     recent = main.filter_recent_jobs(all_jobs)
     print("[INFO] Recent by platform:", dict(sorted(Counter(j.platform for j in recent).items())))
 
     for ch in channels:
-        matches = main.dedupe_jobs_for_channel(ch.name, main.filter_for_channel(recent, ch))
+        matches = await main.match_jobs_for_channel(recent, ch)
         print(f"\n{'=' * 60}")
         print(f"[{ch.name}] {len(matches)} would-be notification(s)")
         print("=" * 60)

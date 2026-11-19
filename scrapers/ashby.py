@@ -40,6 +40,7 @@ class AshbyScraper(BaseScraper):
             # `publishedDate`, which never existed, so every Ashby job was
             # undated and slipped past the recency filter.
             posted_at=raw.get("publishedAt") or raw.get("publishedDate") or raw.get("updatedAt") or "Unknown",
+            description=raw.get("descriptionPlain") or raw.get("descriptionHtml") or "",
         )
 
     async def fetch_jobs(self, company_slug: str) -> list[Job]:

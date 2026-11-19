@@ -271,6 +271,15 @@ class JobRightScraper(MarkdownTableScraper):
         return parse_month_day(date_str)
 
 
+class JobRightFinanceScraper(JobRightScraper):
+    """Accounting and finance new-grad list for the beauty-finance channel."""
+
+    PLATFORM = "jobright-finance"
+
+    def urls(self) -> list[str]:
+        return [config.JOBRIGHT_FINANCE_URL]
+
+
 class ZapplyScraper(MarkdownTableScraper):
     """zapplyjobs/New-Grad-Jobs-2027 — regenerated every ~15 minutes."""
 

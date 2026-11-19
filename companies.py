@@ -22,6 +22,8 @@ COMPANIES: dict[str, list[str]] = {
     "hackernews": [],    # HN "Ask HN: Who is Hiring?" monthly thread
     "speedyapply": [],   # speedyapply SWE/AI repos (markdown tables)
     "jobright": [],      # jobright-ai PM + SWE new-grad repos (markdown tables)
+    "jobright-finance": [],       # Jobright accounting and finance README
+    "beauty-finance-public": [],  # Beauty employer pages and consulting discovery
     "zapply": [],        # zapplyjobs/New-Grad-Jobs-2027 (markdown table, ~15 min refresh)
     "jsonsource": [],    # ApplyGuy + new-grad-2027-tracker JSON feeds
     "amazon": [],        # amazon.jobs search.json
@@ -142,6 +144,22 @@ COMPANIES: dict[str, list[str]] = {
         "singlestore",             # 40 jobs
         "webflow",                 # 27 jobs
         "yugabyte",                # 14 jobs
+
+        # Beauty / personal care / CPG — verified 2026-11-18.
+        # ilia.greenhouse is a Brazilian IT firm, not ILIA Beauty. Lush is
+        # almost entirely retail. Both are left out on purpose.
+        "glossier",                # 18 jobs
+        "soldejaneiro",            # 47 jobs
+        "supergoop",               # 6 jobs
+        "tatcha",                  # 12 jobs
+        "harrys",                  # 14 jobs
+        "flamingo",                # 10 jobs
+        "dollarshaveclub",         # 8 jobs
+        "grovecollaborative",      # 5 jobs
+        # Consulting. Titles are filtered to associate / analyst phrases;
+        # a bare "Consultant" does not match the beauty-finance channel.
+        "alixpartners",            # 132 jobs
+        "charlesriverassociates",  # 90 jobs
     ],
 
     # -------------------------------------------------------------------------
@@ -168,6 +186,8 @@ COMPANIES: dict[str, list[str]] = {
         # --- added 2026-09-17: verified live, job counts at time of check ---
         "neon",                    # 12 jobs
         "zilliz",                  # 12 jobs
+        # e.l.f. Beauty (also posts rhode and Naturium). Verified 2026-11-18, 65 jobs.
+        "elfbeauty",
     ],
 
     # -------------------------------------------------------------------------

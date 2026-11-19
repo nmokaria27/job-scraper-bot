@@ -71,6 +71,8 @@ jobs:
           # (SWE_WEBHOOK_URL / the internship channel was retired 2026-09-04.)
           PM_WEBHOOK_URL: ${{ secrets.PM_WEBHOOK_URL }}
           FULL_TIME_WEBHOOK_URL: ${{ secrets.FULL_TIME_WEBHOOK_URL }}
+          # Entry-level beauty/CPG development and finance/consulting.
+          BEAUTY_FINANCE_WEBHOOK_URL: ${{ secrets.BEAUTY_FINANCE_WEBHOOK_URL }}
           # Advanced multi-channel mode: JSON list, or {"channels": [...]}
           # Can add extra channels or override built-in channel names.
           CHANNELS_JSON: ${{ secrets.CHANNELS_JSON }}
@@ -95,22 +97,6 @@ jobs:
           JSON_SOURCE_URLS: ${{ vars.JSON_SOURCE_URLS }}
           WORKDAY_TENANTS: ${{ vars.WORKDAY_TENANTS }}
           REQUEST_TIMEOUT: ${{ vars.REQUEST_TIMEOUT }}
-          # Jev second-pass judge (jev.py). JEV_ENFORCE drops rejected jobs.
-          JEV_API_KEY: ${{ secrets.JEV_API_KEY }}
-          JEV_ENABLED: ${{ vars.JEV_ENABLED }}
-          JEV_RANKING: ${{ vars.JEV_RANKING }}
-          JEV_ENFORCE: ${{ vars.JEV_ENFORCE }}
-          JEV_MODEL: ${{ vars.JEV_MODEL }}
-          JEV_CONCURRENCY: ${{ vars.JEV_CONCURRENCY }}
-          JEV_MAX_CALLS_PER_RUN: ${{ vars.JEV_MAX_CALLS_PER_RUN }}
-          JEV_RUN_DEADLINE_SECONDS: ${{ vars.JEV_RUN_DEADLINE_SECONDS }}
-          JEV_FIT_FLOOR: ${{ vars.JEV_FIT_FLOOR }}
-          JEV_MIN_CONFIDENCE: ${{ vars.JEV_MIN_CONFIDENCE }}
-          JEV_CLEARANCE_THRESHOLD: ${{ vars.JEV_CLEARANCE_THRESHOLD }}
-          JEV_FIT_BUCKET: ${{ vars.JEV_FIT_BUCKET }}
-          JEV_PROMOTE: ${{ vars.JEV_PROMOTE }}
-          JEV_PROMOTE_MIN_FIT: ${{ vars.JEV_PROMOTE_MIN_FIT }}
-          JEV_PROMOTE_MAX_CALLS: ${{ vars.JEV_PROMOTE_MAX_CALLS }}
           # HackerNews (optional — defaults to 500 comments)
           HN_MAX_COMMENTS: ${{ vars.HN_MAX_COMMENTS }}
         run: |
@@ -120,7 +106,7 @@ jobs:
           else
             python main.py
             code=$?
-            # Exit 139 is a native segfault (seen once under Jev load). One retry
+            # Exit 139 is a native segfault. One retry
             # recovers the channel that had not started yet.
             if [ "$code" -eq 139 ]; then
               echo "::warning::Scraper segfaulted (exit 139); retrying once"

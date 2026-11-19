@@ -12,6 +12,7 @@ class Job:
     url: str
     platform: str    # "greenhouse", "lever", "ashby", "simplify", "speedyapply", "jobright", "hackernews"
     posted_at: str   # ISO string or "Unknown"
+    description: str = ""  # Optional listing text for qualification checks
 
 
 # Display names for ATS slugs that don't title-case cleanly.
@@ -20,6 +21,14 @@ COMPANY_DISPLAY_NAMES: dict[str, str] = {
     "deepmind": "Google DeepMind",
     "ashby": "Ashby",
     "anyscale": "Anyscale",
+    "soldejaneiro": "Sol de Janeiro",
+    "elfbeauty": "e.l.f. Beauty",
+    "supergoop": "Supergoop!",
+    "grovecollaborative": "Grove Collaborative",
+    "dollarshaveclub": "Dollar Shave Club",
+    "alixpartners": "AlixPartners",
+    "charlesriverassociates": "Charles River Associates",
+    "harrys": "Harry's",
 }
 
 

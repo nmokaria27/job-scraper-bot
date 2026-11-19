@@ -35,6 +35,10 @@ class LeverScraper(BaseScraper):
             url=raw.get("hostedUrl", ""),
             platform=cls.PLATFORM,
             posted_at=posted_at,
+            description="\n".join(filter(None, [raw.get("descriptionPlain"), *(
+                f"{section.get('text', '')}\n{section.get('content', '')}"
+                for section in raw.get("lists") or []
+            ), raw.get("additionalPlain")])),
         )
 
     async def fetch_jobs(self, company_slug: str) -> list[Job]:

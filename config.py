@@ -101,17 +101,16 @@ class ChannelConfig:
     # the job's company name ("meta" hits "Meta" / "Meta Platforms", not
     # "Metabase").
     excluded_companies: list[str] = field(default_factory=list)
-    # Which Jev question profile judges this channel: "swe", "pm", or "off".
-    # Blank falls back to a channel-name map, then "swe". See jev.profile_for.
-    jev_profile: str = ""
 
 
 # ---------------------------------------------------------------------------
 # Built-in channel defaults
 #
-# Two channels are supported out of the box:
-#   PM_WEBHOOK_URL        -> "pm-jobs"          entry-level PM / APM / TPM roles
-#   FULL_TIME_WEBHOOK_URL -> "swe-ai-full-time" new-grad / entry-level SWE, AI, ML
+# Three channels are supported out of the box:
+#   PM_WEBHOOK_URL             -> "pm-jobs"          entry-level PM / APM / TPM roles
+#   FULL_TIME_WEBHOOK_URL      -> "swe-ai-full-time" new-grad / entry-level SWE, AI, ML
+#   BEAUTY_FINANCE_WEBHOOK_URL -> "beauty-finance"   entry-level beauty/CPG development
+#                                                    and finance/consulting roles
 #
 # Keyword matching is whole-word and case-insensitive (see scrapers/base.py).
 # Exclusions block a title unless the excluded word sits inside a matched
@@ -120,9 +119,10 @@ class ChannelConfig:
 
 DISCORD_WEBHOOK_URL: str = os.getenv("DISCORD_WEBHOOK_URL", "")
 
-# Seniority / level terms that mark a role as not entry-level. Shared by both
-# channels. "sr" also matches "Sr." because the matcher uses alphanumeric
-# boundaries.
+# Seniority / level terms that mark a role as not entry-level. Shared by the
+# built-in channels. "sr" also matches "Sr." because the matcher uses
+# alphanumeric boundaries. The beauty/finance channel drops "consultant" and
+# "consulting" from this list; see DEFAULT_BEAUTY_FINANCE_KEYWORDS.
 _SENIORITY_EXCLUSIONS: list[str] = [
     "senior",
     "sr",
@@ -250,6 +250,129 @@ DEFAULT_PM_EXCLUDED_KEYWORDS: list[str] = [
     "polygraph",
 ]
 
+# Entry-level beauty / CPG development and finance / consulting.
+# Titles identify candidate roles. The beauty-finance filter checks job
+# descriptions for industry, business analyst duties, and required experience.
+#
+# "consultant" / "consulting" are NOT exclusions here. On the other channels
+# they mark a senior engagement model; on this one they are the role. A title
+# still has to match a phrase below, so a bare "Consultant" does not pass.
+# Do not add bare "junior" / "entry level" / "new grad" — those flip the
+# matcher into AND mode and would drop "Financial Analyst".
+DEFAULT_BEAUTY_FINANCE_KEYWORDS: list[str] = [
+    # Beauty / CPG development. Phrases, plus the words CPG boards actually use
+    # ("Associate Researcher" at P&G, "Packaging Engineer" at Sol de Janeiro).
+    "product development",
+    "product developer",
+    "product design/development",
+    "product design development",
+    "new product development",
+    "npd",
+    "pd coordinator",
+    "cosmetics",
+    "cosmetic",
+    "beauty coordinator",
+    "skincare development",
+    "skin care development",
+    "formulation",
+    "package development",
+    "packaging development",
+    "packaging coordinator",
+    "packaging engineer",
+    "packaging artwork",
+    # "technical" is an exclusion (IT business analysts). This phrase swallows
+    # that exclusion for "Technical Packaging Coordinator".
+    "technical packaging",
+    "associate researcher",
+    # Finance / consulting
+    "fp&a",
+    "fpa",
+    "financial analyst",
+    "financial planning",
+    "financial consultant",
+    "associate consultant",
+    "management consultant",
+    "management consulting",
+    "consulting analyst",
+    "business analyst",
+    "budget analyst",
+    "forecasting analyst",
+    "variance analysis",
+    "financial modeling",
+    "financial modelling",
+]
+
+_BEAUTY_FINANCE_SENIORITY: list[str] = [
+    term for term in _SENIORITY_EXCLUSIONS if term not in {"consultant", "consulting"}
+]
+
+DEFAULT_BEAUTY_FINANCE_EXCLUDED_KEYWORDS: list[str] = [
+    *_NON_FULL_TIME_EXCLUSIONS,
+    *_BEAUTY_FINANCE_SENIORITY,
+    # UK industrial placements and campus events that reuse entry-level titles.
+    "placement",
+    "phd",
+    "seminar",
+    "freelance",
+    "freelancer",
+    # Retail / store / plant roles that share "beauty", "packaging", "coordinator".
+    "sales",
+    "retail",
+    "store",
+    "ambassador",
+    "cashier",
+    "warehouse",
+    "technician",
+    "operator",
+    "driver",
+    "picker",
+    # Retail-bank "financial consultant" (a sales job) and branch roles.
+    "employee benefits",
+    "employee health",
+    "personal",
+    "wealth",
+    "insurance",
+    "mortgage",
+    "loan",
+    "branch",
+    "banker",
+    # IT / systems business-analyst titles. "software" also vetoes
+    # "Software Product Development Engineer", where "software" sits outside
+    # the matched "product development" phrase.
+    "software",
+    "developer",
+    "salesforce",
+    "sap",
+    "oracle",
+    "servicenow",
+    "workday",
+    "cyber",
+    "cybersecurity",
+    "security",
+    "technical",
+    "erp",
+    "ifs",
+    "technology",
+    "systems",
+    "data",
+    "it",
+    # Clinical / campus, not CPG development or FP&A.
+    "clinical",
+    "nurse",
+    "physician",
+    "pharmacist",
+    "therapist",
+    "recruiter",
+    "recruiting",
+    "talent",
+    "clearance",
+    "cleared",
+    "ts/sci",
+    "top secret",
+    "secret",
+    "polygraph",
+]
+
 DEFAULT_SWE_FULL_TIME_KEYWORDS: list[str] = [
     # Core software
     "software engineer",
@@ -312,7 +435,6 @@ DEFAULT_SWE_FULL_TIME_KEYWORDS: list[str] = [
     "android engineer",
     "quantitative developer",
     "quant developer",
-    # --- Added 2026-09-17 from the first-pass experiment (jev_eval.py --first-pass).
     # The "no bare engineer/developer" rule above made entry-level titles that lean on
     # a LEVEL SUFFIX invisible: "Software Engineer I", "Mobile Developer 1",
     # "Junior Developer", "AI Compiler Engineer". Bare "engineer i" / "engineer 1" are
@@ -719,60 +841,6 @@ ATS_CONCURRENCY: int = _parse_int("ATS_CONCURRENCY", 8)
 SEND_NO_NEW_SUMMARY: bool = _parse_bool("SEND_NO_NEW_SUMMARY", False)
 
 # ---------------------------------------------------------------------------
-# Jev second-pass judge (typesafe.ai)
-#
-# Off by default. The regex filters stay the source of truth and every Jev
-# failure falls back to them (see jev.UNJUDGED). Three independent switches,
-# because they are the phase ladder: shadow -> rank -> enforce, each revertable
-# by flipping a GitHub variable with no deploy.
-#
-# Defaults for the thresholds come from the Phase 0 harness (jev_eval.py),
-# measured over 12h/24h/48h scrape windows on 2026-09-17:
-#   - 0/28 of regex-accepted golden titles wrongly dropped
-#   - explicit new-grad roles filling the 25-cap: 2-3 -> 25 under fit ranking
-# Re-run `python jev_eval.py --golden --sweep` before changing them.
-# ---------------------------------------------------------------------------
-
-JEV_ENABLED: bool = _parse_bool("JEV_ENABLED", False)     # master kill switch
-JEV_RANKING: bool = _parse_bool("JEV_RANKING", False)     # let fit reorder the cap
-JEV_ENFORCE: bool = _parse_bool("JEV_ENFORCE", False)     # let verdicts actually drop
-# The user's key lives in .env as JEV_API_KEY. The SDK would auto-read
-# TYPESAFE_API_KEY, so jev.py passes this explicitly instead.
-JEV_API_KEY: str = os.getenv("JEV_API_KEY", "").strip()
-# Pinned, not "jev-latest": aliases move between versions and the thresholds
-# above are tuned against this one.
-JEV_MODEL: str = os.getenv("JEV_MODEL", "").strip() or "jev-1.13.0"
-# ~0.25s per call, so 5 concurrent is ~20 rps against a 1200 rpm (20 rps) ceiling.
-JEV_CONCURRENCY: int = _parse_int("JEV_CONCURRENCY", 5)
-# Shared across all channels in a run, not per channel.
-JEV_MAX_CALLS_PER_RUN: int = _parse_int("JEV_MAX_CALLS_PER_RUN", 400)
-# The real safety property: a call budget alone still permits
-# max_calls x (timeout + retries) of wall clock. Runs are ~100s against a
-# 15-minute workflow timeout.
-JEV_RUN_DEADLINE_SECONDS: float = _parse_float("JEV_RUN_DEADLINE_SECONDS", 90.0)
-JEV_TIMEOUT_SECONDS: float = _parse_float("JEV_TIMEOUT_SECONDS", 8.0)
-JEV_MAX_RETRIES: int = _parse_int("JEV_MAX_RETRIES", 1)
-# Applied per dimension, never as a min() across answers.
-JEV_MIN_CONFIDENCE: float = _parse_float("JEV_MIN_CONFIDENCE", 0.5)
-# From the Phase 0 sweep: below 0.17 drops 32 golden titles with zero false drops.
-JEV_FIT_FLOOR: float = _parse_float("JEV_FIT_FLOOR", 0.17)
-JEV_CLEARANCE_THRESHOLD: float = _parse_float("JEV_CLEARANCE_THRESHOLD", 0.5)
-# Consecutive errors before the judge gives up for the rest of the run.
-JEV_ERROR_CIRCUIT: int = _parse_int("JEV_ERROR_CIRCUIT", 5)
-# Fit is bucketed to this width before sorting so that near-equal fits stay in
-# recency order — a raw fit sort would let a marginally better older job
-# outrank a fresher one and undo _newest_first.
-JEV_FIT_BUCKET: float = _parse_float("JEV_FIT_BUCKET", 0.1)
-
-# Bounded promotion: the only path where Jev may ADMIT a job the keyword filter
-# rejected. Runs only when a channel is under its notification cap, judges at most
-# JEV_PROMOTE_MAX_CALLS regex-rejected jobs, and requires a positive high-confidence
-# match (see jev.should_promote). Promoted jobs are flagged in Discord.
-JEV_PROMOTE: bool = _parse_bool("JEV_PROMOTE", False)
-JEV_PROMOTE_MIN_FIT: float = _parse_float("JEV_PROMOTE_MIN_FIT", 0.75)
-JEV_PROMOTE_MAX_CALLS: int = _parse_int("JEV_PROMOTE_MAX_CALLS", 150)
-
-# ---------------------------------------------------------------------------
 # Persistence
 # ---------------------------------------------------------------------------
 
@@ -825,7 +893,15 @@ JOBRIGHT_URLS: list[str] = _parse_list(
         "https://raw.githubusercontent.com/jobright-ai/2026-Product-Management-Internship/master/README.md",
         "https://raw.githubusercontent.com/jobright-ai/2026-Product-Management-New-Grad/master/README.md",
         "https://raw.githubusercontent.com/jobright-ai/2026-Software-Engineer-New-Grad/master/README.md",
+        # New-grad only. The internship twins of these repos are not listed:
+        # this channel excludes internships.
+        "https://raw.githubusercontent.com/jobright-ai/2026-Business-Analyst-New-Grad/master/README.md",
+        "https://raw.githubusercontent.com/jobright-ai/2026-Consultant-New-Grad/master/README.md",
     ],
+)
+
+JOBRIGHT_FINANCE_URL = (
+    "https://raw.githubusercontent.com/jobright-ai/2026-Account-New-Grad/master/README.md"
 )
 
 # ---------------------------------------------------------------------------
@@ -884,6 +960,9 @@ AMAZON_QUERIES: list[str] = _parse_list(
         "machine learning",
         "data scientist",
         "product manager",
+        "financial analyst",
+        "business analyst",
+        "product development",
     ],
 )
 
@@ -894,6 +973,12 @@ _DEFAULT_WORKDAY_TENANTS: list[str] = [
     "adobe:wd5:external_experienced:Adobe",
     "capitalone:wd12:Capital_One:Capital One",
     "intel:wd1:External:Intel",
+    # Beauty / CPG and finance boards verified 2026-11-18.
+    # P&G's public site id is the literal path segment "1000".
+    "pg:wd5:1000:P&G",
+    "unilever:wd3:Unilever_Experienced_Professionals:Unilever",
+    "heinz:wd1:KraftHeinz_Careers:Kraft Heinz",
+    "ms:wd5:External:Morgan Stanley",
 ]
 
 
@@ -917,7 +1002,19 @@ def _parse_workday_tenants(env_var: str, default: list[str]) -> list[dict[str, s
 WORKDAY_TENANTS: list[dict[str, str]] = _parse_workday_tenants("WORKDAY_TENANTS", _DEFAULT_WORKDAY_TENANTS)
 WORKDAY_QUERIES: list[str] = _parse_list(
     "WORKDAY_QUERIES",
-    default=["software engineer", "new grad", "machine learning", "product manager"],
+    default=[
+        "software engineer",
+        "new grad",
+        "machine learning",
+        "product manager",
+        "financial analyst",
+        "business analyst",
+        "product development",
+        "packaging development",
+        "formulation",
+        "fp&a",
+        "associate researcher",
+    ],
 )
 WORKDAY_PAGES: int = _parse_int("WORKDAY_PAGES", 2)
 
@@ -943,7 +1040,7 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
     """
     Load channel configurations.  Checked in priority order:
 
-    1. PM_WEBHOOK_URL / FULL_TIME_WEBHOOK_URL — built-in channels
+    1. PM_WEBHOOK_URL / FULL_TIME_WEBHOOK_URL / BEAUTY_FINANCE_WEBHOOK_URL — built-in channels
     2. CHANNELS_JSON env var                  — raw JSON string (adds/overrides)
     3. channels.json file                     — local development
     4. Single-channel fallback                — uses DISCORD_WEBHOOK_URL + filters
@@ -974,7 +1071,6 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                     locations=list(DEFAULT_LOCATIONS),
                     excluded_locations=list(DEFAULT_EXCLUDED_LOCATIONS),
                     excluded_companies=effective_excluded_companies(),
-                    jev_profile="pm",
                 )
             )
         if full_time_webhook_url:
@@ -987,7 +1083,21 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                     locations=list(DEFAULT_LOCATIONS),
                     excluded_locations=list(DEFAULT_EXCLUDED_LOCATIONS),
                     excluded_companies=effective_excluded_companies(),
-                    jev_profile="swe",
+                )
+            )
+        beauty_finance_webhook_url = _normalize_webhook_url(
+            os.getenv("BEAUTY_FINANCE_WEBHOOK_URL", "")
+        )
+        if beauty_finance_webhook_url:
+            default_channels.append(
+                ChannelConfig(
+                    name="beauty-finance",
+                    webhook_url=beauty_finance_webhook_url,
+                    keywords=list(DEFAULT_BEAUTY_FINANCE_KEYWORDS),
+                    excluded_keywords=list(DEFAULT_BEAUTY_FINANCE_EXCLUDED_KEYWORDS),
+                    locations=list(DEFAULT_LOCATIONS),
+                    excluded_locations=list(DEFAULT_EXCLUDED_LOCATIONS),
+                    excluded_companies=effective_excluded_companies(),
                 )
             )
         return default_channels
@@ -1080,7 +1190,11 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
     # --- 1. Built-in channels from webhook env vars ---
     channels = _load_default_channels_from_env()
     if channels:
-        print(f"[INFO] Loaded {len(channels)} channel(s) from PM_WEBHOOK_URL/FULL_TIME_WEBHOOK_URL")
+        print(
+            "[INFO] Loaded "
+            f"{len(channels)} channel(s) from "
+            "PM_WEBHOOK_URL/FULL_TIME_WEBHOOK_URL/BEAUTY_FINANCE_WEBHOOK_URL"
+        )
 
     # --- 2. CHANNELS_JSON env var ---
     raw = os.getenv("CHANNELS_JSON", "").strip()
@@ -1106,7 +1220,8 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
         if require_webhooks and not DISCORD_WEBHOOK_URL:
             raise ValueError(
                 "No channel configuration found. Provide one of:\n"
-                "  1. PM_WEBHOOK_URL and/or FULL_TIME_WEBHOOK_URL env vars\n"
+                "  1. PM_WEBHOOK_URL, FULL_TIME_WEBHOOK_URL, and/or "
+                "BEAUTY_FINANCE_WEBHOOK_URL env vars\n"
                 "  2. CHANNELS_JSON env var  (raw JSON string)\n"
                 "  3. channels.json file\n"
                 "  4. DISCORD_WEBHOOK_URL env var  (single-channel mode)"
@@ -1120,7 +1235,6 @@ def load_channels(require_webhooks: bool = True) -> list[ChannelConfig]:
                 locations=LOCATIONS,
                 excluded_locations=EXCLUDED_LOCATIONS,
                 excluded_companies=effective_excluded_companies(EXCLUDED_COMPANIES),
-                jev_profile="swe",
             )
         ]
         print("[INFO] Using single-channel mode (DISCORD_WEBHOOK_URL)")
