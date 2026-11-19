@@ -26043,10 +26043,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6afda1e852285bd9d8049302",
       "seen_at": "2026-11-19T04:25:50.262054+00:00"
+    },
+    {
+      "id": "zapply-8466d237523f",
+      "seen_at": "2026-11-19T04:33:00.144822+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04623",
+      "seen_at": "2026-11-19T04:33:00.145425+00:00"
+    },
+    {
+      "id": "jobright-38251f281b5c",
+      "seen_at": "2026-11-19T04:33:03.547325+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afdf95cf3e7976cc610ab8b",
+      "seen_at": "2026-11-19T04:33:03.547756+00:00"
+    },
+    {
+      "id": "jobright-a70af31cb196",
+      "seen_at": "2026-11-19T04:33:03.548126+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9f5593387a3d9b67d8353",
+      "seen_at": "2026-11-19T04:33:03.548443+00:00"
+    },
+    {
+      "id": "jobright-bb62cdfd0b16",
+      "seen_at": "2026-11-19T04:33:03.548759+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afde2108cffea7c97c8dc95",
+      "seen_at": "2026-11-19T04:33:03.549090+00:00"
     }
   ],
-  "last_run": "2026-11-19T04:25:50.528602+00:00",
-  "total_notified": 12954,
+  "last_run": "2026-11-19T04:33:03.770719+00:00",
+  "total_notified": 12958,
   "channels": {
     "pm-jobs": [
       "jobright-c33d3cf012da",
@@ -32540,7 +32572,9 @@
       "jobright-bef4b82c26ce",
       "url:https://jobright.ai/jobs/info/6afd64aac287c018be3aaa9f",
       "workday-intel-JR0289213",
-      "url:https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Cloud-Software-Development-Engineer_JR0289213"
+      "url:https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Cloud-Software-Development-Engineer_JR0289213",
+      "zapply-8466d237523f",
+      "url:https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04623"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -32570,7 +32604,13 @@
       "jobright-c1290e28a09b",
       "url:https://jobright.ai/jobs/info/6ad5c67d54bbabbab06ef824",
       "jobright-f5b4c83f8447",
-      "url:https://jobright.ai/jobs/info/6afda1e852285bd9d8049302"
+      "url:https://jobright.ai/jobs/info/6afda1e852285bd9d8049302",
+      "jobright-38251f281b5c",
+      "url:https://jobright.ai/jobs/info/6afdf95cf3e7976cc610ab8b",
+      "jobright-a70af31cb196",
+      "url:https://jobright.ai/jobs/info/6aa9f5593387a3d9b67d8353",
+      "jobright-bb62cdfd0b16",
+      "url:https://jobright.ai/jobs/info/6afde2108cffea7c97c8dc95"
     ]
   }
 }
