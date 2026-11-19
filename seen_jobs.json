@@ -26083,10 +26083,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ad5f30052aa6152bb6900ae",
       "seen_at": "2026-11-19T11:33:02.155876+00:00"
+    },
+    {
+      "id": "zapply-43fa7ccae27b",
+      "seen_at": "2026-11-19T12:03:19.377781+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-oracle-350969",
+      "seen_at": "2026-11-19T12:03:19.378131+00:00"
+    },
+    {
+      "id": "zapply-9b3a70652e54",
+      "seen_at": "2026-11-19T12:03:19.378446+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-oracle-350968",
+      "seen_at": "2026-11-19T12:03:19.378758+00:00"
     }
   ],
-  "last_run": "2026-11-19T11:33:02.391430+00:00",
-  "total_notified": 12970,
+  "last_run": "2026-11-19T12:03:22.676779+00:00",
+  "total_notified": 12972,
   "channels": {
     "pm-jobs": [
       "jobright-4ce693538ad4",
@@ -27268,7 +27284,11 @@
       "jobright-38af2528f7e4",
       "url:https://jobright.ai/jobs/info/6afeb8e397dcc4fc8dca6d3c",
       "zapply-2b51bd514fce",
-      "url:https://zapply.jobs/l/d/google-125251200260940486"
+      "url:https://zapply.jobs/l/d/google-125251200260940486",
+      "zapply-43fa7ccae27b",
+      "url:https://zapply.jobs/l/d/oracle-oracle-350969",
+      "zapply-9b3a70652e54",
+      "url:https://zapply.jobs/l/d/oracle-oracle-350968"
     ],
     "swe-ai-full-time": [
       "jobright-41bf3e3e3515",
