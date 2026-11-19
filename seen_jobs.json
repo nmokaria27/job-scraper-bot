@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
-      "seen_at": "2026-10-19T23:31:28.093931+00:00"
-    },
-    {
-      "id": "url:https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
-      "seen_at": "2026-10-19T23:31:28.094642+00:00"
-    },
-    {
-      "id": "simplify-facdc66b-349d-47ae-94f8-cfdd1ffdb70f",
-      "seen_at": "2026-10-19T23:31:28.095118+00:00"
-    },
-    {
-      "id": "url:https://apply.workable.com/node/j/2E183FDDB9/apply",
-      "seen_at": "2026-10-19T23:31:28.095592+00:00"
-    },
-    {
-      "id": "simplify-de1eceed-6782-43c0-9b0f-1d732c38d6d4",
-      "seen_at": "2026-10-19T23:31:28.096041+00:00"
-    },
-    {
-      "id": "url:https://c3.ai/job-description/8900477002",
-      "seen_at": "2026-10-19T23:31:28.096490+00:00"
-    },
-    {
-      "id": "simplify-e4257972-9082-4e69-82f8-0ddbbe3f79be",
-      "seen_at": "2026-10-19T23:31:28.096933+00:00"
-    },
-    {
-      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
-      "seen_at": "2026-10-19T23:31:28.097377+00:00"
-    },
-    {
-      "id": "simplify-0aa1aad3-c8e3-4cd8-975d-9e1028f0fed2",
-      "seen_at": "2026-10-19T23:31:28.097817+00:00"
-    },
-    {
-      "id": "url:https://kla.wd1.myworkdayjobs.com/UR/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-3",
-      "seen_at": "2026-10-19T23:31:28.098265+00:00"
-    },
-    {
-      "id": "simplify-685e432a-5583-46a1-a7ac-d9819bab8f8d",
-      "seen_at": "2026-10-19T23:31:28.098714+00:00"
-    },
-    {
-      "id": "url:https://jobs.apple.com/en-us/details/200688599",
-      "seen_at": "2026-10-19T23:31:28.099168+00:00"
-    },
-    {
-      "id": "ashby-elevenlabs-9fbd9227-57e0-4221-9255-1a1d967be8ed",
-      "seen_at": "2026-10-19T23:31:28.099649+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed",
-      "seen_at": "2026-10-19T23:31:28.100097+00:00"
-    },
-    {
-      "id": "simplify-05f7dd48-c15c-4144-8a19-8bee502520d4",
-      "seen_at": "2026-10-19T23:31:28.100577+00:00"
-    },
-    {
-      "id": "url:https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296",
-      "seen_at": "2026-10-19T23:31:28.101004+00:00"
-    },
-    {
-      "id": "simplify-238d23dc-3491-42ab-8537-86fa72f66014",
-      "seen_at": "2026-10-19T23:31:32.460843+00:00"
-    },
-    {
-      "id": "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Service-Product-Manager-Product-Line-Management-New-College-Grad--Master-s--Santa-Clara--CA-Austin--TX-_R2629842",
-      "seen_at": "2026-10-19T23:31:32.461556+00:00"
-    },
-    {
       "id": "lever-palantir-90329118-d9b7-4b96-acdf-13377e3196ac",
       "seen_at": "2026-10-20T00:01:40.648881+00:00"
     },
@@ -26035,14 +25963,52 @@
     {
       "id": "url:https://jobs.ashbyhq.com/suno/1735f9af-fbce-4f6c-9fbe-ac42eca09009",
       "seen_at": "2026-11-18T23:31:15.758143+00:00"
+    },
+    {
+      "id": "jobright-6c61d9c1c517",
+      "seen_at": "2026-11-19T00:01:17.320769+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afe1a4a0cde47528ec11c6b",
+      "seen_at": "2026-11-19T00:01:17.321379+00:00"
+    },
+    {
+      "id": "jobright-f48b7f4e19c5",
+      "seen_at": "2026-11-19T00:01:17.321902+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afe2050f3e7976cc610c204",
+      "seen_at": "2026-11-19T00:01:17.322348+00:00"
+    },
+    {
+      "id": "jobright-85278d991491",
+      "seen_at": "2026-11-19T00:01:17.322806+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afe20440cde47528ec11f36",
+      "seen_at": "2026-11-19T00:01:17.323249+00:00"
+    },
+    {
+      "id": "amazon-10606738",
+      "seen_at": "2026-11-19T00:01:17.323756+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10606738/software-development-engineer-robot-data-platform-fauna",
+      "seen_at": "2026-11-19T00:01:17.324196+00:00"
+    },
+    {
+      "id": "zapply-0f9ea2b690ce",
+      "seen_at": "2026-11-19T00:01:21.673593+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/amd-92671",
+      "seen_at": "2026-11-19T00:01:21.674146+00:00"
     }
   ],
-  "last_run": "2026-11-18T23:31:16.002699+00:00",
-  "total_notified": 12905,
+  "last_run": "2026-11-19T00:01:22.050781+00:00",
+  "total_notified": 12910,
   "channels": {
     "pm-jobs": [
-      "simplify-238d23dc-3491-42ab-8537-86fa72f66014",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Service-Product-Manager-Product-Line-Management-New-College-Grad--Master-s--Santa-Clara--CA-Austin--TX-_R2629842",
       "jobright-b1c4c58b827c",
       "url:https://jobright.ai/jobs/info/6ad68c893dc655658d8e7626",
       "jobright-0e3b97637634",
@@ -27238,25 +27204,11 @@
       "jobright-f4151239eb63",
       "url:https://jobright.ai/jobs/info/6afe02e88cffea7c97c8f4c9",
       "ashby-suno-1735f9af-fbce-4f6c-9fbe-ac42eca09009",
-      "url:https://jobs.ashbyhq.com/suno/1735f9af-fbce-4f6c-9fbe-ac42eca09009"
+      "url:https://jobs.ashbyhq.com/suno/1735f9af-fbce-4f6c-9fbe-ac42eca09009",
+      "zapply-0f9ea2b690ce",
+      "url:https://zapply.jobs/l/d/amd-92671"
     ],
     "swe-ai-full-time": [
-      "simplify-9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
-      "url:https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
-      "simplify-facdc66b-349d-47ae-94f8-cfdd1ffdb70f",
-      "url:https://apply.workable.com/node/j/2E183FDDB9/apply",
-      "simplify-de1eceed-6782-43c0-9b0f-1d732c38d6d4",
-      "url:https://c3.ai/job-description/8900477002",
-      "simplify-e4257972-9082-4e69-82f8-0ddbbe3f79be",
-      "url:https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
-      "simplify-0aa1aad3-c8e3-4cd8-975d-9e1028f0fed2",
-      "url:https://kla.wd1.myworkdayjobs.com/UR/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-3",
-      "simplify-685e432a-5583-46a1-a7ac-d9819bab8f8d",
-      "url:https://jobs.apple.com/en-us/details/200688599",
-      "ashby-elevenlabs-9fbd9227-57e0-4221-9255-1a1d967be8ed",
-      "url:https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed",
-      "simplify-05f7dd48-c15c-4144-8a19-8bee502520d4",
-      "url:https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296",
       "lever-palantir-90329118-d9b7-4b96-acdf-13377e3196ac",
       "url:https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
       "jobright-a4b38ed7bc4b",
@@ -32558,7 +32510,15 @@
       "jobright-cd8cffa4eee6",
       "url:https://jobright.ai/jobs/info/6afe16bf0cde47528ec11a31",
       "amazon-10608848",
-      "url:https://www.amazon.jobs/en/jobs/10608848/software-engineer-i"
+      "url:https://www.amazon.jobs/en/jobs/10608848/software-engineer-i",
+      "jobright-6c61d9c1c517",
+      "url:https://jobright.ai/jobs/info/6afe1a4a0cde47528ec11c6b",
+      "jobright-f48b7f4e19c5",
+      "url:https://jobright.ai/jobs/info/6afe2050f3e7976cc610c204",
+      "jobright-85278d991491",
+      "url:https://jobright.ai/jobs/info/6afe20440cde47528ec11f36",
+      "amazon-10606738",
+      "url:https://www.amazon.jobs/en/jobs/10606738/software-development-engineer-robot-data-platform-fauna"
     ]
   }
 }
