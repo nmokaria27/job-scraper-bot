@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-0e32663e50a3",
-      "seen_at": "2026-10-20T01:01:36.594411+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad6a45f67bec1d0d9c71100",
-      "seen_at": "2026-10-20T01:01:36.595031+00:00"
-    },
-    {
-      "id": "jobright-fa0609629c64",
-      "seen_at": "2026-10-20T01:01:36.595624+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa824353a9f0a4fe6f177f4",
-      "seen_at": "2026-10-20T01:01:36.596125+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5455961008",
-      "seen_at": "2026-10-20T01:01:36.596611+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5455961008",
-      "seen_at": "2026-10-20T01:01:36.597048+00:00"
-    },
-    {
-      "id": "jobright-1dba7bbaeace",
-      "seen_at": "2026-10-20T01:01:42.118801+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad6a1f93dc655658d8e817b",
-      "seen_at": "2026-10-20T01:01:42.119316+00:00"
-    },
-    {
       "id": "applyguy-d0b94642-d681-4f08-99d5-2f83fa740105",
       "seen_at": "2026-10-20T01:31:24.788534+00:00"
     },
@@ -25915,14 +25883,44 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6afe320b758942b6422b86f5",
       "seen_at": "2026-11-19T01:01:15.814101+00:00"
+    },
+    {
+      "id": "jobright-fa0609629c64",
+      "seen_at": "2026-11-19T01:28:33.016089+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa824353a9f0a4fe6f177f4",
+      "seen_at": "2026-11-19T01:28:33.016478+00:00"
+    },
+    {
+      "id": "amazon-10607724",
+      "seen_at": "2026-11-19T01:28:33.016834+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10607724/software-engineer-commerce",
+      "seen_at": "2026-11-19T01:28:33.017149+00:00"
+    },
+    {
+      "id": "greenhouse-twitch-8950920002",
+      "seen_at": "2026-11-19T01:28:33.017435+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/twitch/jobs/8950920002",
+      "seen_at": "2026-11-19T01:28:33.017704+00:00"
+    },
+    {
+      "id": "greenhouse-twitch-8949339002",
+      "seen_at": "2026-11-19T01:28:33.017977+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/twitch/jobs/8949339002",
+      "seen_at": "2026-11-19T01:28:33.018229+00:00"
     }
   ],
-  "last_run": "2026-11-19T01:01:19.872111+00:00",
-  "total_notified": 12916,
+  "last_run": "2026-11-19T01:28:35.340409+00:00",
+  "total_notified": 12920,
   "channels": {
     "pm-jobs": [
-      "jobright-1dba7bbaeace",
-      "url:https://jobright.ai/jobs/info/6ad6a1f93dc655658d8e817b",
       "simplify-2d82eac7-1903-473d-8ae7-53561c77688c",
       "url:https://job-boards.greenhouse.io/kikoff/jobs/4458616009",
       "zapply-ccea9f0638b8",
@@ -27113,12 +27111,6 @@
       "url:https://jobs.ashbyhq.com/openai/89959eee-bd3a-4564-9c47-e4771c6c1e0f"
     ],
     "swe-ai-full-time": [
-      "jobright-0e32663e50a3",
-      "url:https://jobright.ai/jobs/info/6ad6a45f67bec1d0d9c71100",
-      "jobright-fa0609629c64",
-      "url:https://jobright.ai/jobs/info/6aa824353a9f0a4fe6f177f4",
-      "greenhouse-anthropic-5455961008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5455961008",
       "applyguy-d0b94642-d681-4f08-99d5-2f83fa740105",
       "url:https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
       "jobright-ee694b219354",
@@ -32408,7 +32400,15 @@
       "greenhouse-coinbase-8400323",
       "url:https://www.coinbase.com/careers/positions/8400323",
       "jobright-4f0b2f250765",
-      "url:https://jobright.ai/jobs/info/6afe320b758942b6422b86f5"
+      "url:https://jobright.ai/jobs/info/6afe320b758942b6422b86f5",
+      "jobright-fa0609629c64",
+      "url:https://jobright.ai/jobs/info/6aa824353a9f0a4fe6f177f4",
+      "amazon-10607724",
+      "url:https://www.amazon.jobs/en/jobs/10607724/software-engineer-commerce",
+      "greenhouse-twitch-8950920002",
+      "url:https://job-boards.greenhouse.io/twitch/jobs/8950920002",
+      "greenhouse-twitch-8949339002",
+      "url:https://job-boards.greenhouse.io/twitch/jobs/8949339002"
     ]
   }
 }
