@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-1583766b-60b6-44e5-b135-0ebadcdcaee0",
-      "seen_at": "2026-10-20T15:31:21.720275+00:00"
-    },
-    {
-      "id": "url:https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Full-Stack-Engineer-Training-Program---June-2027-Cohort_R1066830",
-      "seen_at": "2026-10-20T15:31:21.720804+00:00"
-    },
-    {
       "id": "jobright-8e7755b5dd3b",
       "seen_at": "2026-10-20T16:01:42.866994+00:00"
     },
@@ -26075,10 +26067,98 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a6e2f7e41b41d325296b0e5",
       "seen_at": "2026-11-19T15:03:18.006289+00:00"
+    },
+    {
+      "id": "simplify-976fab88-afe9-480e-a47e-a7c75c416b28",
+      "seen_at": "2026-11-19T16:03:38.879640+00:00"
+    },
+    {
+      "id": "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016885",
+      "seen_at": "2026-11-19T16:03:38.879929+00:00"
+    },
+    {
+      "id": "jobright-b3c8ca197b25",
+      "seen_at": "2026-11-19T16:03:38.880177+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff0a8b72b9be368528dc55",
+      "seen_at": "2026-11-19T16:03:38.880407+00:00"
+    },
+    {
+      "id": "jobright-bba9751cdf9a",
+      "seen_at": "2026-11-19T16:03:38.880635+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff08451c42ea8f6b9fc5ec",
+      "seen_at": "2026-11-19T16:03:38.880840+00:00"
+    },
+    {
+      "id": "jobright-0e08bfb57975",
+      "seen_at": "2026-11-19T16:03:38.881037+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff0a8d1c42ea8f6b9fc79e",
+      "seen_at": "2026-11-19T16:03:38.881226+00:00"
+    },
+    {
+      "id": "ashby-baseten-fddec35f-9dbc-4344-b1df-b8ff6e05472a",
+      "seen_at": "2026-11-19T16:03:40.745902+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a",
+      "seen_at": "2026-11-19T16:03:40.746234+00:00"
+    },
+    {
+      "id": "ashby-notion-0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f",
+      "seen_at": "2026-11-19T16:03:40.746511+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f",
+      "seen_at": "2026-11-19T16:03:40.746759+00:00"
+    },
+    {
+      "id": "simplify-3c7db22b-52a4-42bb-9a52-c6a049a6a76d",
+      "seen_at": "2026-11-19T16:03:40.746994+00:00"
+    },
+    {
+      "id": "url:https://careers.formlabs.com/job/8402093/apply",
+      "seen_at": "2026-11-19T16:03:40.747216+00:00"
+    },
+    {
+      "id": "jobright-c8b2b8e12f2d",
+      "seen_at": "2026-11-19T16:03:40.747429+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff09f41c42ea8f6b9fc723",
+      "seen_at": "2026-11-19T16:03:40.747652+00:00"
+    },
+    {
+      "id": "jobright-ddccc8c52671",
+      "seen_at": "2026-11-19T16:03:40.747861+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff04eb97dcc4fc8dca7e31",
+      "seen_at": "2026-11-19T16:03:40.748064+00:00"
+    },
+    {
+      "id": "jobright-c2b2931e6bd3",
+      "seen_at": "2026-11-19T16:03:40.748271+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac59da4064da25272e17af5",
+      "seen_at": "2026-11-19T16:03:40.748481+00:00"
+    },
+    {
+      "id": "jobright-e0b031ee00de",
+      "seen_at": "2026-11-19T16:03:44.700580+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a54f2232084cd792b4751f6",
+      "seen_at": "2026-11-19T16:03:44.700854+00:00"
     }
   ],
-  "last_run": "2026-11-19T15:33:21.600946+00:00",
-  "total_notified": 12985,
+  "last_run": "2026-11-19T16:03:44.999294+00:00",
+  "total_notified": 12996,
   "channels": {
     "pm-jobs": [
       "zapply-ce0051298cb9",
@@ -27260,11 +27340,17 @@
       "zapply-d3fa0e4e96b1",
       "url:https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000138741",
       "jobright-5b57e2e69558",
-      "url:https://jobright.ai/jobs/info/6a8cabbacde3717f9e9be8d9"
+      "url:https://jobright.ai/jobs/info/6a8cabbacde3717f9e9be8d9",
+      "simplify-976fab88-afe9-480e-a47e-a7c75c416b28",
+      "url:https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016885",
+      "jobright-b3c8ca197b25",
+      "url:https://jobright.ai/jobs/info/6aff0a8b72b9be368528dc55",
+      "jobright-bba9751cdf9a",
+      "url:https://jobright.ai/jobs/info/6aff08451c42ea8f6b9fc5ec",
+      "jobright-0e08bfb57975",
+      "url:https://jobright.ai/jobs/info/6aff0a8d1c42ea8f6b9fc79e"
     ],
     "swe-ai-full-time": [
-      "simplify-1583766b-60b6-44e5-b135-0ebadcdcaee0",
-      "url:https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Full-Stack-Engineer-Training-Program---June-2027-Cohort_R1066830",
       "jobright-8e7755b5dd3b",
       "url:https://jobright.ai/jobs/info/6ac77da00e573df8adc72d50",
       "jobright-875246e06e86",
@@ -32562,7 +32648,19 @@
       "zapply-b7e0df70d76c",
       "url:https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2606083",
       "workday-nvidia-JR2028112",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Developer_JR2028112"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Developer_JR2028112",
+      "ashby-baseten-fddec35f-9dbc-4344-b1df-b8ff6e05472a",
+      "url:https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a",
+      "ashby-notion-0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f",
+      "url:https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f",
+      "simplify-3c7db22b-52a4-42bb-9a52-c6a049a6a76d",
+      "url:https://careers.formlabs.com/job/8402093/apply",
+      "jobright-c8b2b8e12f2d",
+      "url:https://jobright.ai/jobs/info/6aff09f41c42ea8f6b9fc723",
+      "jobright-ddccc8c52671",
+      "url:https://jobright.ai/jobs/info/6aff04eb97dcc4fc8dca7e31",
+      "jobright-c2b2931e6bd3",
+      "url:https://jobright.ai/jobs/info/6ac59da4064da25272e17af5"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -32610,7 +32708,9 @@
       "jobright-c196aa92a3d6",
       "url:https://jobright.ai/jobs/info/6ac56f944ac55253f5d76a66",
       "jobright-658e5192533d",
-      "url:https://jobright.ai/jobs/info/6a6e2f7e41b41d325296b0e5"
+      "url:https://jobright.ai/jobs/info/6a6e2f7e41b41d325296b0e5",
+      "jobright-e0b031ee00de",
+      "url:https://jobright.ai/jobs/info/6a54f2232084cd792b4751f6"
     ]
   }
 }
