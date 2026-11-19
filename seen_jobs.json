@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-airbnb-8282322",
-      "seen_at": "2026-10-20T18:31:33.478244+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8282322",
-      "seen_at": "2026-10-20T18:31:33.478733+00:00"
-    },
-    {
-      "id": "amazon-10584441",
-      "seen_at": "2026-10-20T18:31:33.479158+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10584441/technical-product-manager-aws-aws-emerging-planning-solutions",
-      "seen_at": "2026-10-20T18:31:33.479523+00:00"
-    },
-    {
       "id": "jobright-e97e6ba55d9d",
       "seen_at": "2026-10-20T19:01:29.949952+00:00"
     },
@@ -26171,16 +26155,116 @@
     {
       "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685",
       "seen_at": "2026-11-19T18:32:58.892426+00:00"
+    },
+    {
+      "id": "ashby-openai-efae0a22-24d6-4562-834c-1110c5e7677b",
+      "seen_at": "2026-11-19T19:00:01.342621+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/efae0a22-24d6-4562-834c-1110c5e7677b",
+      "seen_at": "2026-11-19T19:00:01.343268+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2027838",
+      "seen_at": "2026-11-19T19:00:01.343768+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Data-Center-GPU_JR2027838",
+      "seen_at": "2026-11-19T19:00:01.344237+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2025794",
+      "seen_at": "2026-11-19T19:00:01.344703+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Developer-Experience-and-Platform-Excellence---Edge-AI-and-Robotics_JR2025794-1",
+      "seen_at": "2026-11-19T19:00:01.345166+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2027361",
+      "seen_at": "2026-11-19T19:00:01.345605+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Manager---CPU-Hardware-Program_JR2027361",
+      "seen_at": "2026-11-19T19:00:01.346055+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2027699",
+      "seen_at": "2026-11-19T19:00:01.346500+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Product-Manager_JR2027699",
+      "seen_at": "2026-11-19T19:00:01.346928+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2027360",
+      "seen_at": "2026-11-19T19:00:01.347381+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Manager--CPU-Platform-Ecosystem_JR2027360",
+      "seen_at": "2026-11-19T19:00:01.347806+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2027355",
+      "seen_at": "2026-11-19T19:00:01.348258+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analytics-CPU-Workload-Performance-Product-Manager_JR2027355-1",
+      "seen_at": "2026-11-19T19:00:01.348680+00:00"
+    },
+    {
+      "id": "workday-capitalone-R1006215",
+      "seen_at": "2026-11-19T19:00:01.349126+00:00"
+    },
+    {
+      "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Manager---Consumer-Intelligence--Corporate-Strategy-_R1006215-2",
+      "seen_at": "2026-11-19T19:00:01.349545+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2026588",
+      "seen_at": "2026-11-19T19:00:03.357588+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Tegra-System-Software-Engineer_JR2026588",
+      "seen_at": "2026-11-19T19:00:03.358360+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2027551",
+      "seen_at": "2026-11-19T19:00:03.358939+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
+      "seen_at": "2026-11-19T19:00:03.359470+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2027676",
+      "seen_at": "2026-11-19T19:00:03.360009+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--GeForce-G-Assist_JR2027676-1",
+      "seen_at": "2026-11-19T19:00:03.360503+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2028483",
+      "seen_at": "2026-11-19T19:00:03.361008+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Research-Scientist---Nemotron-India_JR2028483",
+      "seen_at": "2026-11-19T19:00:03.361504+00:00"
+    },
+    {
+      "id": "jobright-3adda0d4120c",
+      "seen_at": "2026-11-19T19:00:10.681054+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff2a8997dcc4fc8dca94cb",
+      "seen_at": "2026-11-19T19:00:10.681611+00:00"
     }
   ],
-  "last_run": "2026-11-19T18:33:03.081717+00:00",
-  "total_notified": 13016,
+  "last_run": "2026-11-19T19:00:11.017690+00:00",
+  "total_notified": 13029,
   "channels": {
     "pm-jobs": [
-      "greenhouse-airbnb-8282322",
-      "url:https://careers.airbnb.com/positions/8282322",
-      "amazon-10584441",
-      "url:https://www.amazon.jobs/en/jobs/10584441/technical-product-manager-aws-aws-emerging-planning-solutions",
       "greenhouse-airbnb-8303742",
       "url:https://careers.airbnb.com/positions/8303742",
       "zapply-262834a44c00",
@@ -27368,7 +27452,23 @@
       "jobright-2a8da72542e7",
       "url:https://jobright.ai/jobs/info/6ac6bd040e027c0f3b3b416f",
       "jobright-a9f26f54e9ab",
-      "url:https://jobright.ai/jobs/info/6aff19f9aea17e3f50ead360"
+      "url:https://jobright.ai/jobs/info/6aff19f9aea17e3f50ead360",
+      "ashby-openai-efae0a22-24d6-4562-834c-1110c5e7677b",
+      "url:https://jobs.ashbyhq.com/openai/efae0a22-24d6-4562-834c-1110c5e7677b",
+      "workday-nvidia-JR2027838",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Data-Center-GPU_JR2027838",
+      "workday-nvidia-JR2025794",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager--Developer-Experience-and-Platform-Excellence---Edge-AI-and-Robotics_JR2025794-1",
+      "workday-nvidia-JR2027361",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Manager---CPU-Hardware-Program_JR2027361",
+      "workday-nvidia-JR2027699",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Product-Manager_JR2027699",
+      "workday-nvidia-JR2027360",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Manager--CPU-Platform-Ecosystem_JR2027360",
+      "workday-nvidia-JR2027355",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analytics-CPU-Workload-Performance-Product-Manager_JR2027355-1",
+      "workday-capitalone-R1006215",
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Manager---Consumer-Intelligence--Corporate-Strategy-_R1006215-2"
     ],
     "swe-ai-full-time": [
       "jobright-e97e6ba55d9d",
@@ -32678,7 +32778,15 @@
       "amazon-10608502",
       "url:https://www.amazon.jobs/en/jobs/10608502/software-development-engineer-leo-telemetry-platform",
       "workday-nvidia-JR2019685",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685",
+      "workday-nvidia-JR2026588",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Tegra-System-Software-Engineer_JR2026588",
+      "workday-nvidia-JR2027551",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
+      "workday-nvidia-JR2027676",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--GeForce-G-Assist_JR2027676-1",
+      "workday-nvidia-JR2028483",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Research-Scientist---Nemotron-India_JR2028483"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -32730,7 +32838,9 @@
       "jobright-e0b031ee00de",
       "url:https://jobright.ai/jobs/info/6a54f2232084cd792b4751f6",
       "jobright-ac37aa040a6d",
-      "url:https://jobright.ai/jobs/info/6afdebe20cde47528ec0ffb7"
+      "url:https://jobright.ai/jobs/info/6afdebe20cde47528ec0ffb7",
+      "jobright-3adda0d4120c",
+      "url:https://jobright.ai/jobs/info/6aff2a8997dcc4fc8dca94cb"
     ]
   }
 }
