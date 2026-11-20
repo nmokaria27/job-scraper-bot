@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-1b1e3c23-f9df-47e3-a82a-4d854e26869c",
-      "seen_at": "2026-10-20T23:31:13.061104+00:00"
-    },
-    {
-      "id": "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer--Professional-I_JR103780",
-      "seen_at": "2026-10-20T23:31:13.061444+00:00"
-    },
-    {
-      "id": "gradtracker-873e86d299bb",
-      "seen_at": "2026-10-20T23:31:13.061707+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000156619374",
-      "seen_at": "2026-10-20T23:31:13.061950+00:00"
-    },
-    {
-      "id": "simplify-a5683c5a-9b84-4ff9-972e-b22ba427faed",
-      "seen_at": "2026-10-20T23:31:13.062188+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/Intuitive/744000156658124",
-      "seen_at": "2026-10-20T23:31:13.062428+00:00"
-    },
-    {
-      "id": "amazon-10584780",
-      "seen_at": "2026-10-20T23:31:13.062652+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10584780/software-dev-engineer-antenna-system-validation",
-      "seen_at": "2026-10-20T23:31:13.062870+00:00"
-    },
-    {
-      "id": "zapply-31e9c4eedb0b",
-      "seen_at": "2026-10-20T23:31:17.965870+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69759",
-      "seen_at": "2026-10-20T23:31:17.966139+00:00"
-    },
-    {
       "id": "jobright-3c579b5713ab",
       "seen_at": "2026-10-21T00:01:43.932447+00:00"
     },
@@ -26363,14 +26323,68 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer-Infrastructure-and-Distributed-Systems_JR368687",
       "seen_at": "2026-11-19T23:33:12.235273+00:00"
+    },
+    {
+      "id": "simplify-503772a8-8c8b-473a-b256-7c19df4fd35f",
+      "seen_at": "2026-11-20T00:03:04.037905+00:00"
+    },
+    {
+      "id": "url:https://koch.avature.net/en_US/careers/JobDetail/197657",
+      "seen_at": "2026-11-20T00:03:04.038317+00:00"
+    },
+    {
+      "id": "simplify-cc764a4b-cb50-4162-afaa-5d5dcbc0a454",
+      "seen_at": "2026-11-20T00:03:04.038658+00:00"
+    },
+    {
+      "id": "url:https://jobs.jobvite.com/metaphaseconsulting/job/oaR7Afws",
+      "seen_at": "2026-11-20T00:03:04.038984+00:00"
+    },
+    {
+      "id": "simplify-af19d8f3-e4eb-443f-9668-3e0c5ba8d5f1",
+      "seen_at": "2026-11-20T00:03:04.039284+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/neurohire-dot-a-i/j/59974A3466/apply",
+      "seen_at": "2026-11-20T00:03:04.039570+00:00"
+    },
+    {
+      "id": "simplify-3bee9e34-d504-4a17-b591-85f99471f12e",
+      "seen_at": "2026-11-20T00:03:04.039844+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1DD",
+      "seen_at": "2026-11-20T00:03:04.040121+00:00"
+    },
+    {
+      "id": "simplify-4ca8e85c-0166-4ed6-98aa-1dced50cbae5",
+      "seen_at": "2026-11-20T00:03:04.040398+00:00"
+    },
+    {
+      "id": "url:https://careers.viasat.com/jobs/7077",
+      "seen_at": "2026-11-20T00:03:04.040660+00:00"
+    },
+    {
+      "id": "jobright-e06c3ca23ac6",
+      "seen_at": "2026-11-20T00:03:04.040931+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff73b7dd029d798066c2fc",
+      "seen_at": "2026-11-20T00:03:04.041195+00:00"
+    },
+    {
+      "id": "jobright-96bf79370bdd",
+      "seen_at": "2026-11-20T00:03:04.041469+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff71e26f4ca73dfeb442f3",
+      "seen_at": "2026-11-20T00:03:04.041737+00:00"
     }
   ],
-  "last_run": "2026-11-19T23:33:17.413847+00:00",
-  "total_notified": 13071,
+  "last_run": "2026-11-20T00:03:06.299956+00:00",
+  "total_notified": 13078,
   "channels": {
     "pm-jobs": [
-      "zapply-31e9c4eedb0b",
-      "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69759",
       "jobright-3c579b5713ab",
       "url:https://jobright.ai/jobs/info/6ad7e57e52aa6152bb6a0ace",
       "zapply-3152bc546203",
@@ -27569,14 +27583,6 @@
       "url:https://jobright.ai/jobs/info/6aff3bc4b88323bd981bcfcd"
     ],
     "swe-ai-full-time": [
-      "simplify-1b1e3c23-f9df-47e3-a82a-4d854e26869c",
-      "url:https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer--Professional-I_JR103780",
-      "gradtracker-873e86d299bb",
-      "url:https://jobs.smartrecruiters.com/servicenow/744000156619374",
-      "simplify-a5683c5a-9b84-4ff9-972e-b22ba427faed",
-      "url:https://jobs.smartrecruiters.com/Intuitive/744000156658124",
-      "amazon-10584780",
-      "url:https://www.amazon.jobs/en/jobs/10584780/software-dev-engineer-antenna-system-validation",
       "amazon-10584797",
       "url:https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "zapply-000f836c0e25",
@@ -32904,7 +32910,21 @@
       "amazon-10609907",
       "url:https://www.amazon.jobs/en/jobs/10609907/sdm-aws-glue-genai-for-data-processing-aws-glue-glue-and-genai-for-data-processing",
       "workday-salesforce-JR368687",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer-Infrastructure-and-Distributed-Systems_JR368687"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer-Infrastructure-and-Distributed-Systems_JR368687",
+      "simplify-503772a8-8c8b-473a-b256-7c19df4fd35f",
+      "url:https://koch.avature.net/en_US/careers/JobDetail/197657",
+      "simplify-cc764a4b-cb50-4162-afaa-5d5dcbc0a454",
+      "url:https://jobs.jobvite.com/metaphaseconsulting/job/oaR7Afws",
+      "simplify-af19d8f3-e4eb-443f-9668-3e0c5ba8d5f1",
+      "url:https://apply.workable.com/neurohire-dot-a-i/j/59974A3466/apply",
+      "simplify-3bee9e34-d504-4a17-b591-85f99471f12e",
+      "url:https://go.vansh.nyc/1DD",
+      "simplify-4ca8e85c-0166-4ed6-98aa-1dced50cbae5",
+      "url:https://careers.viasat.com/jobs/7077",
+      "jobright-e06c3ca23ac6",
+      "url:https://jobright.ai/jobs/info/6aff73b7dd029d798066c2fc",
+      "jobright-96bf79370bdd",
+      "url:https://jobright.ai/jobs/info/6aff71e26f4ca73dfeb442f3"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
