@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-4b94233c9704",
-      "seen_at": "2026-10-21T11:01:20.156253+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a6ffdc5cd3bac13d3709520",
-      "seen_at": "2026-10-21T11:01:20.156815+00:00"
-    },
-    {
       "id": "jobright-29ea960400a9",
       "seen_at": "2026-10-21T12:01:28.961478+00:00"
     },
@@ -26501,7 +26493,7 @@
       "seen_at": "2026-11-20T11:03:25.088154+00:00"
     }
   ],
-  "last_run": "2026-11-20T11:03:27.158911+00:00",
+  "last_run": "2026-11-20T11:32:58.053626+00:00",
   "total_notified": 13129,
   "channels": {
     "pm-jobs": [
@@ -27713,8 +27705,6 @@
       "url:https://zapply.jobs/l/d/sr-EVERSANA1-744000162547818"
     ],
     "swe-ai-full-time": [
-      "jobright-4b94233c9704",
-      "url:https://jobright.ai/jobs/info/6a6ffdc5cd3bac13d3709520",
       "jobright-29ea960400a9",
       "url:https://jobright.ai/jobs/info/6a6ffdc1160eda5948e8d14b",
       "jobright-9052d23ba311",
