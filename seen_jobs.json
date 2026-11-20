@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10583596",
-      "seen_at": "2026-10-21T18:32:02.631639+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10583596/software-development-engineer",
-      "seen_at": "2026-10-21T18:32:02.632296+00:00"
-    },
-    {
-      "id": "amazon-10585037",
-      "seen_at": "2026-10-21T18:32:02.632798+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10585037/software-dev-engineer",
-      "seen_at": "2026-10-21T18:32:02.633222+00:00"
-    },
-    {
-      "id": "zapply-8ac67ac66fa4",
-      "seen_at": "2026-10-21T18:32:02.633660+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workable-avalore-F0091679FC",
-      "seen_at": "2026-10-21T18:32:02.634104+00:00"
-    },
-    {
       "id": "zapply-15c77a630feb",
       "seen_at": "2026-10-21T19:01:30.202056+00:00"
     },
@@ -26483,10 +26459,58 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10610482/applied-scientist-advertiser-growth-engine",
       "seen_at": "2026-11-20T18:32:58.945262+00:00"
+    },
+    {
+      "id": "zapply-11b74ca6c414",
+      "seen_at": "2026-11-20T19:03:32.109799+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-philips-jobs-and-careers-595332",
+      "seen_at": "2026-11-20T19:03:32.110342+00:00"
+    },
+    {
+      "id": "zapply-0f8e0e0d3fec",
+      "seen_at": "2026-11-20T19:03:32.110838+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-athenahealth-external-R15686",
+      "seen_at": "2026-11-20T19:03:32.111238+00:00"
+    },
+    {
+      "id": "zapply-414b461bbbc0",
+      "seen_at": "2026-11-20T19:03:32.111636+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-athenahealth-external-R15687",
+      "seen_at": "2026-11-20T19:03:32.112015+00:00"
+    },
+    {
+      "id": "jobright-5275fa0251b7",
+      "seen_at": "2026-11-20T19:03:34.248156+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0083cb89d8ca1e84956cf6",
+      "seen_at": "2026-11-20T19:03:34.248725+00:00"
+    },
+    {
+      "id": "jobright-2049dec5d815",
+      "seen_at": "2026-11-20T19:03:34.249193+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff7a37c1c02a9acd80c63f",
+      "seen_at": "2026-11-20T19:03:34.249700+00:00"
+    },
+    {
+      "id": "jobright-b674ce35906d",
+      "seen_at": "2026-11-20T19:03:39.738779+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa7eee7a77a53f5a1576757",
+      "seen_at": "2026-11-20T19:03:39.739258+00:00"
     }
   ],
-  "last_run": "2026-11-20T18:33:07.214392+00:00",
-  "total_notified": 13164,
+  "last_run": "2026-11-20T19:03:39.886789+00:00",
+  "total_notified": 13170,
   "channels": {
     "pm-jobs": [
       "jobright-e6c16e484e70",
@@ -27694,15 +27718,15 @@
       "zapply-25bbdb1748ea",
       "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR206936",
       "zapply-981284de70c4",
-      "url:https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1319102"
+      "url:https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1319102",
+      "zapply-11b74ca6c414",
+      "url:https://zapply.jobs/l/d/workday-philips-jobs-and-careers-595332",
+      "zapply-0f8e0e0d3fec",
+      "url:https://zapply.jobs/l/d/workday-athenahealth-external-R15686",
+      "zapply-414b461bbbc0",
+      "url:https://zapply.jobs/l/d/workday-athenahealth-external-R15687"
     ],
     "swe-ai-full-time": [
-      "amazon-10583596",
-      "url:https://www.amazon.jobs/en/jobs/10583596/software-development-engineer",
-      "amazon-10585037",
-      "url:https://www.amazon.jobs/en/jobs/10585037/software-dev-engineer",
-      "zapply-8ac67ac66fa4",
-      "url:https://zapply.jobs/l/d/workable-avalore-F0091679FC",
       "zapply-15c77a630feb",
       "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028237",
       "jobright-202e53254f03",
@@ -33030,7 +33054,11 @@
       "zapply-5a0c02a211bb",
       "url:https://zapply.jobs/l/d/oracle-berkshire-hathaway-energy-10006112",
       "amazon-10610482",
-      "url:https://www.amazon.jobs/en/jobs/10610482/applied-scientist-advertiser-growth-engine"
+      "url:https://www.amazon.jobs/en/jobs/10610482/applied-scientist-advertiser-growth-engine",
+      "jobright-5275fa0251b7",
+      "url:https://jobright.ai/jobs/info/6b0083cb89d8ca1e84956cf6",
+      "jobright-2049dec5d815",
+      "url:https://jobright.ai/jobs/info/6aff7a37c1c02a9acd80c63f"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -33120,7 +33148,9 @@
       "jobright-0d2d6b44534a",
       "url:https://jobright.ai/jobs/info/6b006a8dd1fe3bc162e3b5af",
       "jobright-c435797d4dcc",
-      "url:https://jobright.ai/jobs/info/6aa9924910b1cd4f416068c5"
+      "url:https://jobright.ai/jobs/info/6aa9924910b1cd4f416068c5",
+      "jobright-b674ce35906d",
+      "url:https://jobright.ai/jobs/info/6aa7eee7a77a53f5a1576757"
     ]
   }
 }
