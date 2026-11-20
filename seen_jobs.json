@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-figma-6228774004",
-      "seen_at": "2026-10-21T16:31:32.775373+00:00"
-    },
-    {
-      "id": "url:https://boards.greenhouse.io/figma/jobs/6228774004",
-      "seen_at": "2026-10-21T16:31:32.775946+00:00"
-    },
-    {
       "id": "lever-zoox-254559af-8372-403b-8220-9b49af400361",
       "seen_at": "2026-10-21T17:01:35.415714+00:00"
     },
@@ -26459,14 +26451,52 @@
     {
       "id": "url:https://zapply.jobs/l/d/amazon-26da23c5-c25b-4c2f-858e-3ff3bc0cf29b",
       "seen_at": "2026-11-20T16:33:46.689896+00:00"
+    },
+    {
+      "id": "zapply-9130e5265384",
+      "seen_at": "2026-11-20T17:03:51.346448+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-085352",
+      "seen_at": "2026-11-20T17:03:51.346794+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5485188008",
+      "seen_at": "2026-11-20T17:03:53.247895+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5485188008",
+      "seen_at": "2026-11-20T17:03:53.248292+00:00"
+    },
+    {
+      "id": "jobright-dae0f73a3730",
+      "seen_at": "2026-11-20T17:03:53.248653+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b005f7d89d8ca1e849558ae",
+      "seen_at": "2026-11-20T17:03:53.248973+00:00"
+    },
+    {
+      "id": "jobright-9fc24f76c9ec",
+      "seen_at": "2026-11-20T17:03:57.275886+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b006819e0dc9619592809bb",
+      "seen_at": "2026-11-20T17:03:57.276259+00:00"
+    },
+    {
+      "id": "jobright-e92a2290ca0a",
+      "seen_at": "2026-11-20T17:03:57.276580+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adacd23f6e3ea828242812c",
+      "seen_at": "2026-11-20T17:03:57.276874+00:00"
     }
   ],
-  "last_run": "2026-11-20T16:33:50.283445+00:00",
-  "total_notified": 13148,
+  "last_run": "2026-11-20T17:03:57.523771+00:00",
+  "total_notified": 13153,
   "channels": {
     "pm-jobs": [
-      "greenhouse-figma-6228774004",
-      "url:https://boards.greenhouse.io/figma/jobs/6228774004",
       "jobright-b80bb934e1fd",
       "url:https://jobright.ai/jobs/info/6ad8d87d39284cd524280d2d",
       "jobright-896b7a5d2766",
@@ -27670,7 +27700,9 @@
       "zapply-91ca0058cb2a",
       "url:https://zapply.jobs/l/d/workday-spgi-spgi-careers-332919",
       "zapply-6d6fe92640a5",
-      "url:https://zapply.jobs/l/d/eightfold-eaton-687240247485"
+      "url:https://zapply.jobs/l/d/eightfold-eaton-687240247485",
+      "zapply-9130e5265384",
+      "url:https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-085352"
     ],
     "swe-ai-full-time": [
       "lever-zoox-254559af-8372-403b-8220-9b49af400361",
@@ -33008,7 +33040,11 @@
       "jobright-2c6170c75a1b",
       "url:https://jobright.ai/jobs/info/6b0052be3a9a0230ab02655d",
       "zapply-0457d4c1333f",
-      "url:https://zapply.jobs/l/d/amazon-26da23c5-c25b-4c2f-858e-3ff3bc0cf29b"
+      "url:https://zapply.jobs/l/d/amazon-26da23c5-c25b-4c2f-858e-3ff3bc0cf29b",
+      "greenhouse-anthropic-5485188008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5485188008",
+      "jobright-dae0f73a3730",
+      "url:https://jobright.ai/jobs/info/6b005f7d89d8ca1e849558ae"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -33090,7 +33126,11 @@
       "jobright-6ec2f85d233f",
       "url:https://jobright.ai/jobs/info/6aea6b27440b469a1c0addb9",
       "jobright-236327800533",
-      "url:https://jobright.ai/jobs/info/6aaac53a4be87a72913a132d"
+      "url:https://jobright.ai/jobs/info/6aaac53a4be87a72913a132d",
+      "jobright-9fc24f76c9ec",
+      "url:https://jobright.ai/jobs/info/6b006819e0dc9619592809bb",
+      "jobright-e92a2290ca0a",
+      "url:https://jobright.ai/jobs/info/6adacd23f6e3ea828242812c"
     ]
   }
 }
