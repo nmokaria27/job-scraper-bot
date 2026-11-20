@@ -26363,10 +26363,50 @@
     {
       "id": "url:https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer",
       "seen_at": "2026-11-20T03:33:08.102534+00:00"
+    },
+    {
+      "id": "jobright-b3350ec3aa07",
+      "seen_at": "2026-11-20T04:02:56.951031+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6affb132b47661ae4a62ea79",
+      "seen_at": "2026-11-20T04:02:56.951509+00:00"
+    },
+    {
+      "id": "amazon-10610060",
+      "seen_at": "2026-11-20T04:02:58.853909+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10610060/data-scientist-na-operations",
+      "seen_at": "2026-11-20T04:02:58.854487+00:00"
+    },
+    {
+      "id": "jobright-ee55c12845a2",
+      "seen_at": "2026-11-20T04:02:58.854988+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6affb27772b9be3685293ce2",
+      "seen_at": "2026-11-20T04:02:58.855471+00:00"
+    },
+    {
+      "id": "jobright-b8912bb1bf71",
+      "seen_at": "2026-11-20T04:02:58.855895+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6affb003b47661ae4a62ea2a",
+      "seen_at": "2026-11-20T04:02:58.856320+00:00"
+    },
+    {
+      "id": "jobright-8bc4848e512e",
+      "seen_at": "2026-11-20T04:03:15.280999+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6adfbe629a8c91d5c3588cac",
+      "seen_at": "2026-11-20T04:03:15.281454+00:00"
     }
   ],
-  "last_run": "2026-11-20T03:33:10.680081+00:00",
-  "total_notified": 13097,
+  "last_run": "2026-11-20T04:03:15.495029+00:00",
+  "total_notified": 13102,
   "channels": {
     "pm-jobs": [
       "jobright-dd52d5deb163",
@@ -27570,7 +27610,9 @@
       "jobright-b8558ce16521",
       "url:https://jobright.ai/jobs/info/6aff98e81126e09fee091a25",
       "jobright-c6af2a90adf6",
-      "url:https://jobright.ai/jobs/info/6aff98726f4ca73dfeb45caf"
+      "url:https://jobright.ai/jobs/info/6aff98726f4ca73dfeb45caf",
+      "jobright-b3350ec3aa07",
+      "url:https://jobright.ai/jobs/info/6affb132b47661ae4a62ea79"
     ],
     "swe-ai-full-time": [
       "jobright-e0dd84d7142c",
@@ -32898,7 +32940,13 @@
       "jobright-4929a6c146cb",
       "url:https://jobright.ai/jobs/info/6aff42d772b9be368529015b",
       "simplify-a8001fb2-9680-4964-8743-9e22282fe768",
-      "url:https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer"
+      "url:https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer",
+      "amazon-10610060",
+      "url:https://www.amazon.jobs/en/jobs/10610060/data-scientist-na-operations",
+      "jobright-ee55c12845a2",
+      "url:https://jobright.ai/jobs/info/6affb27772b9be3685293ce2",
+      "jobright-b8912bb1bf71",
+      "url:https://jobright.ai/jobs/info/6affb003b47661ae4a62ea2a"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -32970,7 +33018,9 @@
       "jobright-1f3333897dc9",
       "url:https://jobright.ai/jobs/info/6afb683b04af1c9f075c7b10",
       "jobright-3d2a141da4ca",
-      "url:https://jobright.ai/jobs/info/6afe2436758942b6422b7af4"
+      "url:https://jobright.ai/jobs/info/6afe2436758942b6422b7af4",
+      "jobright-8bc4848e512e",
+      "url:https://jobright.ai/jobs/info/6adfbe629a8c91d5c3588cac"
     ]
   }
 }
