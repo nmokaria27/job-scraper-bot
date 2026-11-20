@@ -26491,10 +26491,26 @@
     {
       "id": "url:https://careers.qualcomm.com/careers/job/446722230518",
       "seen_at": "2026-11-20T11:03:25.088154+00:00"
+    },
+    {
+      "id": "jobright-7784c788f542",
+      "seen_at": "2026-11-20T12:03:16.576408+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a8da63ccc0cf270685242ff",
+      "seen_at": "2026-11-20T12:03:16.576960+00:00"
+    },
+    {
+      "id": "jobright-0d64f6a03763",
+      "seen_at": "2026-11-20T12:03:20.712376+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6afdc27ff170d82b3966dadb",
+      "seen_at": "2026-11-20T12:03:20.712830+00:00"
     }
   ],
-  "last_run": "2026-11-20T11:32:58.053626+00:00",
-  "total_notified": 13129,
+  "last_run": "2026-11-20T12:03:20.843261+00:00",
+  "total_notified": 13131,
   "channels": {
     "pm-jobs": [
       "jobright-777743d08c8c",
@@ -33056,7 +33072,9 @@
       "gradtracker-e2995179f612",
       "url:https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
       "gradtracker-b47b4e491a7c",
-      "url:https://careers.qualcomm.com/careers/job/446722230518"
+      "url:https://careers.qualcomm.com/careers/job/446722230518",
+      "jobright-7784c788f542",
+      "url:https://jobright.ai/jobs/info/6a8da63ccc0cf270685242ff"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -33130,7 +33148,9 @@
       "jobright-3d2a141da4ca",
       "url:https://jobright.ai/jobs/info/6afe2436758942b6422b7af4",
       "jobright-8bc4848e512e",
-      "url:https://jobright.ai/jobs/info/6adfbe629a8c91d5c3588cac"
+      "url:https://jobright.ai/jobs/info/6adfbe629a8c91d5c3588cac",
+      "jobright-0d64f6a03763",
+      "url:https://jobright.ai/jobs/info/6afdc27ff170d82b3966dadb"
     ]
   }
 }
