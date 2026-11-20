@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-31fdd9e04d77",
-      "seen_at": "2026-10-21T17:31:20.407754+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR6037",
-      "seen_at": "2026-10-21T17:31:20.408113+00:00"
-    },
-    {
-      "id": "zapply-0afd45b68b51",
-      "seen_at": "2026-10-21T17:31:25.498853+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/phenom-danaher-R1321073",
-      "seen_at": "2026-10-21T17:31:25.499178+00:00"
-    },
-    {
       "id": "workday-nvidia-JR2028237",
       "seen_at": "2026-10-21T18:01:45.872637+00:00"
     },
@@ -26459,14 +26443,68 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10610327/data-engineer-i",
       "seen_at": "2026-11-20T17:33:13.964671+00:00"
+    },
+    {
+      "id": "zapply-25bbdb1748ea",
+      "seen_at": "2026-11-20T18:03:40.250100+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR206936",
+      "seen_at": "2026-11-20T18:03:40.250594+00:00"
+    },
+    {
+      "id": "zapply-981284de70c4",
+      "seen_at": "2026-11-20T18:03:40.250953+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1319102",
+      "seen_at": "2026-11-20T18:03:40.251287+00:00"
+    },
+    {
+      "id": "zapply-73e9df151f7c",
+      "seen_at": "2026-11-20T18:03:42.074182+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523382",
+      "seen_at": "2026-11-20T18:03:42.074727+00:00"
+    },
+    {
+      "id": "zapply-ce274e0070d9",
+      "seen_at": "2026-11-20T18:03:42.075116+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-oracle-350824",
+      "seen_at": "2026-11-20T18:03:42.075495+00:00"
+    },
+    {
+      "id": "jobright-5849b6e49f10",
+      "seen_at": "2026-11-20T18:03:42.075901+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7f97e0e573df8adc755e6",
+      "seen_at": "2026-11-20T18:03:42.076267+00:00"
+    },
+    {
+      "id": "jobright-0d2d6b44534a",
+      "seen_at": "2026-11-20T18:03:45.081570+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b006a8dd1fe3bc162e3b5af",
+      "seen_at": "2026-11-20T18:03:45.082019+00:00"
+    },
+    {
+      "id": "jobright-c435797d4dcc",
+      "seen_at": "2026-11-20T18:03:45.082367+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa9924910b1cd4f416068c5",
+      "seen_at": "2026-11-20T18:03:45.082719+00:00"
     }
   ],
-  "last_run": "2026-11-20T17:33:17.612069+00:00",
-  "total_notified": 13155,
+  "last_run": "2026-11-20T18:03:45.313225+00:00",
+  "total_notified": 13162,
   "channels": {
     "pm-jobs": [
-      "zapply-0afd45b68b51",
-      "url:https://zapply.jobs/l/d/phenom-danaher-R1321073",
       "jobright-e6c16e484e70",
       "url:https://jobright.ai/jobs/info/6aa02a5ba2266b538d22e7ca",
       "jobright-ea78216b0433",
@@ -27668,11 +27706,13 @@
       "zapply-9130e5265384",
       "url:https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-085352",
       "zapply-2df46bf2a453",
-      "url:https://zapply.jobs/l/d/oracle-cummins-2436136"
+      "url:https://zapply.jobs/l/d/oracle-cummins-2436136",
+      "zapply-25bbdb1748ea",
+      "url:https://zapply.jobs/l/d/workday-elevancehealth-ant-JR206936",
+      "zapply-981284de70c4",
+      "url:https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1319102"
     ],
     "swe-ai-full-time": [
-      "zapply-31fdd9e04d77",
-      "url:https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR6037",
       "workday-nvidia-JR2028237",
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
       "jobright-5bdaf5e8f8f9",
@@ -33004,7 +33044,13 @@
       "jobright-dae0f73a3730",
       "url:https://jobright.ai/jobs/info/6b005f7d89d8ca1e849558ae",
       "gradtracker-7a1b43d32b14",
-      "url:https://www.amazon.jobs/en/jobs/10610327/data-engineer-i"
+      "url:https://www.amazon.jobs/en/jobs/10610327/data-engineer-i",
+      "zapply-73e9df151f7c",
+      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523382",
+      "zapply-ce274e0070d9",
+      "url:https://zapply.jobs/l/d/oracle-oracle-350824",
+      "jobright-5849b6e49f10",
+      "url:https://jobright.ai/jobs/info/6ac7f97e0e573df8adc755e6"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -33090,7 +33136,11 @@
       "jobright-9fc24f76c9ec",
       "url:https://jobright.ai/jobs/info/6b006819e0dc9619592809bb",
       "jobright-e92a2290ca0a",
-      "url:https://jobright.ai/jobs/info/6adacd23f6e3ea828242812c"
+      "url:https://jobright.ai/jobs/info/6adacd23f6e3ea828242812c",
+      "jobright-0d2d6b44534a",
+      "url:https://jobright.ai/jobs/info/6b006a8dd1fe3bc162e3b5af",
+      "jobright-c435797d4dcc",
+      "url:https://jobright.ai/jobs/info/6aa9924910b1cd4f416068c5"
     ]
   }
 }
