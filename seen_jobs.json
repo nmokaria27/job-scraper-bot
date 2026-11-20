@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-3496d5d1733b",
-      "seen_at": "2026-10-21T14:01:46.387632+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a700b3b160eda5948e8d2a6",
-      "seen_at": "2026-10-21T14:01:46.388197+00:00"
-    },
-    {
-      "id": "jobright-86ed537561f0",
-      "seen_at": "2026-10-21T14:01:46.388676+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a9eb151dacf777321a93040",
-      "seen_at": "2026-10-21T14:01:46.389115+00:00"
-    },
-    {
-      "id": "gradtracker-cdefed67264b",
-      "seen_at": "2026-10-21T14:01:46.389637+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/servicenow/744000156637254",
-      "seen_at": "2026-10-21T14:01:46.390037+00:00"
-    },
-    {
       "id": "zapply-d5be356fd330",
       "seen_at": "2026-10-21T14:31:40.320371+00:00"
     },
@@ -26475,10 +26451,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ada50423a69033df2257b2a",
       "seen_at": "2026-11-20T14:03:47.071711+00:00"
+    },
+    {
+      "id": "ashby-openai-f6cada21-0f54-4d8a-884e-e3c64edd4789",
+      "seen_at": "2026-11-20T14:33:04.522951+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/f6cada21-0f54-4d8a-884e-e3c64edd4789",
+      "seen_at": "2026-11-20T14:33:04.523639+00:00"
+    },
+    {
+      "id": "amazon-10607195",
+      "seen_at": "2026-11-20T14:33:04.524201+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10607195/software-development-engineer-agentic-ai",
+      "seen_at": "2026-11-20T14:33:04.524632+00:00"
     }
   ],
-  "last_run": "2026-11-20T14:03:47.421783+00:00",
-  "total_notified": 13138,
+  "last_run": "2026-11-20T14:33:07.462355+00:00",
+  "total_notified": 13140,
   "channels": {
     "pm-jobs": [
       "ashby-plaid-94ecbba3-660c-4604-a4f5-071f5c2c74d8",
@@ -27691,12 +27683,6 @@
       "url:https://jobright.ai/jobs/info/6aff73b2b47661ae4a62ca41"
     ],
     "swe-ai-full-time": [
-      "jobright-3496d5d1733b",
-      "url:https://jobright.ai/jobs/info/6a700b3b160eda5948e8d2a6",
-      "jobright-86ed537561f0",
-      "url:https://jobright.ai/jobs/info/6a9eb151dacf777321a93040",
-      "gradtracker-cdefed67264b",
-      "url:https://jobs.smartrecruiters.com/servicenow/744000156637254",
       "zapply-d5be356fd330",
       "url:https://zapply.jobs/l/d/workday-expedia-private-R-110635",
       "simplify-3700f49d-fa9a-4dce-8288-7e828433d6ac",
@@ -33032,7 +33018,11 @@
       "jobright-bb6ca45f5d1f",
       "url:https://jobright.ai/jobs/info/6a50e4340cdd7f5d975ccd85",
       "jobright-6f7c3450d5a2",
-      "url:https://jobright.ai/jobs/info/6aed7accf46c27c797e9cceb"
+      "url:https://jobright.ai/jobs/info/6aed7accf46c27c797e9cceb",
+      "ashby-openai-f6cada21-0f54-4d8a-884e-e3c64edd4789",
+      "url:https://jobs.ashbyhq.com/openai/f6cada21-0f54-4d8a-884e-e3c64edd4789",
+      "amazon-10607195",
+      "url:https://www.amazon.jobs/en/jobs/10607195/software-development-engineer-agentic-ai"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
