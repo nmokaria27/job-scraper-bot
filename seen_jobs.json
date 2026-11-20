@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-3700f49d-fa9a-4dce-8288-7e828433d6ac",
-      "seen_at": "2026-10-21T15:01:56.014952+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/provectus/62394851-693e-47fe-a86c-f8d9acf43ec2/apply",
-      "seen_at": "2026-10-21T15:01:56.015354+00:00"
-    },
-    {
-      "id": "jobright-d7ad6822a3f6",
-      "seen_at": "2026-10-21T15:01:56.015706+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad8b7f6b0725dc268dd54f6",
-      "seen_at": "2026-10-21T15:01:56.016041+00:00"
-    },
-    {
-      "id": "ashby-plaid-94ecbba3-660c-4604-a4f5-071f5c2c74d8",
-      "seen_at": "2026-10-21T15:09:41.932881+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/plaid/94ecbba3-660c-4604-a4f5-071f5c2c74d8",
-      "seen_at": "2026-10-21T15:09:41.933387+00:00"
-    },
-    {
       "id": "simplify-0e335514-6e0b-4932-bba0-5e2e0d8c9375",
       "seen_at": "2026-10-21T15:31:20.396844+00:00"
     },
@@ -26475,14 +26451,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aea6b27440b469a1c0addb9",
       "seen_at": "2026-11-20T15:03:45.460124+00:00"
+    },
+    {
+      "id": "zapply-3c09c4a62406",
+      "seen_at": "2026-11-20T15:33:18.422223+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-ptc-ptc-JR112791",
+      "seen_at": "2026-11-20T15:33:18.422948+00:00"
+    },
+    {
+      "id": "zapply-91ca0058cb2a",
+      "seen_at": "2026-11-20T15:33:18.423594+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-spgi-spgi-careers-332919",
+      "seen_at": "2026-11-20T15:33:18.424118+00:00"
     }
   ],
-  "last_run": "2026-11-20T15:03:45.695992+00:00",
-  "total_notified": 13142,
+  "last_run": "2026-11-20T15:33:22.500193+00:00",
+  "total_notified": 13144,
   "channels": {
     "pm-jobs": [
-      "ashby-plaid-94ecbba3-660c-4604-a4f5-071f5c2c74d8",
-      "url:https://jobs.ashbyhq.com/plaid/94ecbba3-660c-4604-a4f5-071f5c2c74d8",
       "zapply-07323b54b20a",
       "url:https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1321073",
       "zapply-cd43b628ad04",
@@ -27688,13 +27678,13 @@
       "jobright-82d75ffcb4c5",
       "url:https://jobright.ai/jobs/info/6aff73bdb47661ae4a62ca54",
       "jobright-61c47148a26a",
-      "url:https://jobright.ai/jobs/info/6aff73b2b47661ae4a62ca41"
+      "url:https://jobright.ai/jobs/info/6aff73b2b47661ae4a62ca41",
+      "zapply-3c09c4a62406",
+      "url:https://zapply.jobs/l/d/workday-ptc-ptc-JR112791",
+      "zapply-91ca0058cb2a",
+      "url:https://zapply.jobs/l/d/workday-spgi-spgi-careers-332919"
     ],
     "swe-ai-full-time": [
-      "simplify-3700f49d-fa9a-4dce-8288-7e828433d6ac",
-      "url:https://jobs.lever.co/provectus/62394851-693e-47fe-a86c-f8d9acf43ec2/apply",
-      "jobright-d7ad6822a3f6",
-      "url:https://jobright.ai/jobs/info/6ad8b7f6b0725dc268dd54f6",
       "simplify-0e335514-6e0b-4932-bba0-5e2e0d8c9375",
       "url:https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8/application",
       "jobright-cd5e81ec092a",
