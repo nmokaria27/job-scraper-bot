@@ -1,102 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-dfa2d495567d",
-      "seen_at": "2026-10-21T20:01:33.820731+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad8f8f254bbabbab070a8a8",
-      "seen_at": "2026-10-21T20:01:33.821073+00:00"
-    },
-    {
-      "id": "jobright-7881cc9407f1",
-      "seen_at": "2026-10-21T20:01:33.821366+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad9061e39284cd524282fd1",
-      "seen_at": "2026-10-21T20:01:33.821645+00:00"
-    },
-    {
-      "id": "jobright-9ad94cc7d51f",
-      "seen_at": "2026-10-21T20:01:33.821915+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad8fc6267bec1d0d9c818ab",
-      "seen_at": "2026-10-21T20:01:33.822175+00:00"
-    },
-    {
-      "id": "jobright-7a45686ff4d6",
-      "seen_at": "2026-10-21T20:01:33.822444+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a843052d34f700f87fb77ad",
-      "seen_at": "2026-10-21T20:01:33.822693+00:00"
-    },
-    {
-      "id": "jobright-ef3fe2db5c1e",
-      "seen_at": "2026-10-21T20:01:33.822943+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad905f9b0725dc268dd88b9",
-      "seen_at": "2026-10-21T20:01:33.823182+00:00"
-    },
-    {
-      "id": "jobright-6ca89791126d",
-      "seen_at": "2026-10-21T20:01:33.823430+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad9001454bbabbab070b2e0",
-      "seen_at": "2026-10-21T20:01:33.823663+00:00"
-    },
-    {
-      "id": "jobright-937f165f363d",
-      "seen_at": "2026-10-21T20:01:33.823898+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a42b46e6a9c2774b3fa6f87",
-      "seen_at": "2026-10-21T20:01:33.824126+00:00"
-    },
-    {
-      "id": "jobright-5c5b0c9b3608",
-      "seen_at": "2026-10-21T20:01:33.824360+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac69a680e027c0f3b3b363a",
-      "seen_at": "2026-10-21T20:01:33.824595+00:00"
-    },
-    {
-      "id": "jobright-59536bdd1f95",
-      "seen_at": "2026-10-21T20:01:33.824825+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aac7e9e95c707f49dff191d",
-      "seen_at": "2026-10-21T20:01:33.825048+00:00"
-    },
-    {
-      "id": "jobright-675bc3342acd",
-      "seen_at": "2026-10-21T20:01:33.825275+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad8f6d854bbabbab070a79d",
-      "seen_at": "2026-10-21T20:01:33.825505+00:00"
-    },
-    {
-      "id": "jobright-0d33bb102723",
-      "seen_at": "2026-10-21T20:01:33.825731+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad8f34e950ef68d5184bcef",
-      "seen_at": "2026-10-21T20:01:33.825953+00:00"
-    },
-    {
-      "id": "amazon-10585615",
-      "seen_at": "2026-10-21T20:01:33.826182+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10585615/applied-research-scientist-safe-autonomy-frontiers-saf-lab-safe-autonomy-frontiers-saf-lab",
-      "seen_at": "2026-10-21T20:01:33.826406+00:00"
-    },
-    {
       "id": "greenhouse-airbnb-8274152",
       "seen_at": "2026-10-21T20:31:29.566075+00:00"
     },
@@ -26547,10 +26451,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b008ea189d8ca1e849573e8",
       "seen_at": "2026-11-20T20:03:05.933580+00:00"
+    },
+    {
+      "id": "zapply-b68300b5a58b",
+      "seen_at": "2026-11-20T20:32:58.203603+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133701",
+      "seen_at": "2026-11-20T20:32:58.203926+00:00"
+    },
+    {
+      "id": "greenhouse-zscaler-5283494007",
+      "seen_at": "2026-11-20T20:32:59.953987+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
+      "seen_at": "2026-11-20T20:32:59.954301+00:00"
     }
   ],
-  "last_run": "2026-11-20T20:03:10.097775+00:00",
-  "total_notified": 13185,
+  "last_run": "2026-11-20T20:33:02.746961+00:00",
+  "total_notified": 13187,
   "channels": {
     "pm-jobs": [
       "jobright-ea78216b0433",
@@ -27772,33 +27692,11 @@
       "jobright-1e558ffdcc2e",
       "url:https://jobright.ai/jobs/info/6b00868989d8ca1e84956e36",
       "jobright-bc68dcd4c8ba",
-      "url:https://jobright.ai/jobs/info/6b008784e0dc961959281b71"
+      "url:https://jobright.ai/jobs/info/6b008784e0dc961959281b71",
+      "zapply-b68300b5a58b",
+      "url:https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133701"
     ],
     "swe-ai-full-time": [
-      "jobright-dfa2d495567d",
-      "url:https://jobright.ai/jobs/info/6ad8f8f254bbabbab070a8a8",
-      "jobright-7881cc9407f1",
-      "url:https://jobright.ai/jobs/info/6ad9061e39284cd524282fd1",
-      "jobright-9ad94cc7d51f",
-      "url:https://jobright.ai/jobs/info/6ad8fc6267bec1d0d9c818ab",
-      "jobright-7a45686ff4d6",
-      "url:https://jobright.ai/jobs/info/6a843052d34f700f87fb77ad",
-      "jobright-ef3fe2db5c1e",
-      "url:https://jobright.ai/jobs/info/6ad905f9b0725dc268dd88b9",
-      "jobright-6ca89791126d",
-      "url:https://jobright.ai/jobs/info/6ad9001454bbabbab070b2e0",
-      "jobright-937f165f363d",
-      "url:https://jobright.ai/jobs/info/6a42b46e6a9c2774b3fa6f87",
-      "jobright-5c5b0c9b3608",
-      "url:https://jobright.ai/jobs/info/6ac69a680e027c0f3b3b363a",
-      "jobright-59536bdd1f95",
-      "url:https://jobright.ai/jobs/info/6aac7e9e95c707f49dff191d",
-      "jobright-675bc3342acd",
-      "url:https://jobright.ai/jobs/info/6ad8f6d854bbabbab070a79d",
-      "jobright-0d33bb102723",
-      "url:https://jobright.ai/jobs/info/6ad8f34e950ef68d5184bcef",
-      "amazon-10585615",
-      "url:https://www.amazon.jobs/en/jobs/10585615/applied-research-scientist-safe-autonomy-frontiers-saf-lab-safe-autonomy-frontiers-saf-lab",
       "greenhouse-airbnb-8274152",
       "url:https://careers.airbnb.com/positions/8274152",
       "ashby-pinecone-08760530-e6c3-4167-9272-923d85a2388d",
@@ -33108,7 +33006,9 @@
       "jobright-b1df2a4c18c7",
       "url:https://jobright.ai/jobs/info/6ac678f1d9621c5b283a8fa0",
       "jobright-6603072e9539",
-      "url:https://jobright.ai/jobs/info/6b008ea189d8ca1e849573e8"
+      "url:https://jobright.ai/jobs/info/6b008ea189d8ca1e849573e8",
+      "greenhouse-zscaler-5283494007",
+      "url:https://job-boards.greenhouse.io/zscaler/jobs/5283494007"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
