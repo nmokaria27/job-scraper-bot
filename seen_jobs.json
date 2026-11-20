@@ -1,70 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-29ea960400a9",
-      "seen_at": "2026-10-21T12:01:28.961478+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a6ffdc1160eda5948e8d14b",
-      "seen_at": "2026-10-21T12:01:28.962076+00:00"
-    },
-    {
-      "id": "jobright-9052d23ba311",
-      "seen_at": "2026-10-21T12:01:28.962598+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7cf4a6a346cb6c8d5f112b",
-      "seen_at": "2026-10-21T12:01:28.963060+00:00"
-    },
-    {
-      "id": "jobright-079256bd459c",
-      "seen_at": "2026-10-21T12:01:28.963549+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a750bc237da8525e8cdc14d",
-      "seen_at": "2026-10-21T12:01:28.964001+00:00"
-    },
-    {
-      "id": "jobright-c4683eedd43f",
-      "seen_at": "2026-10-21T12:01:28.964478+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7d66bf83621355407ae09e",
-      "seen_at": "2026-10-21T12:01:28.964926+00:00"
-    },
-    {
-      "id": "jobright-332ad207fa9e",
-      "seen_at": "2026-10-21T12:01:28.965384+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a71a429e2b7476e7b20ed8d",
-      "seen_at": "2026-10-21T12:01:28.965856+00:00"
-    },
-    {
-      "id": "jobright-062253bb4a3a",
-      "seen_at": "2026-10-21T12:01:28.966315+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a701a40f5953013637f727b",
-      "seen_at": "2026-10-21T12:01:28.966776+00:00"
-    },
-    {
-      "id": "jobright-7e19f9c8aa7a",
-      "seen_at": "2026-10-21T12:01:28.967234+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad8924e1780f5549d585dc2",
-      "seen_at": "2026-10-21T12:01:28.967690+00:00"
-    },
-    {
-      "id": "jobright-777743d08c8c",
-      "seen_at": "2026-10-21T12:01:33.497507+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a7e7e56e51a1e18a240e3b7",
-      "seen_at": "2026-10-21T12:01:33.498077+00:00"
-    },
-    {
       "id": "jobright-e57f9c5fc9da",
       "seen_at": "2026-10-21T13:01:30.053429+00:00"
     },
@@ -26507,14 +26443,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6afdc27ff170d82b3966dadb",
       "seen_at": "2026-11-20T12:03:20.712830+00:00"
+    },
+    {
+      "id": "simplify-0351cd26-0a2e-4a50-933f-7bf8ca4775ad",
+      "seen_at": "2026-11-20T12:32:56.765010+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1Eq",
+      "seen_at": "2026-11-20T12:32:56.765319+00:00"
+    },
+    {
+      "id": "amazon-10610150",
+      "seen_at": "2026-11-20T12:32:56.765583+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10610150/research-scientist-special-projects",
+      "seen_at": "2026-11-20T12:32:56.765834+00:00"
     }
   ],
-  "last_run": "2026-11-20T12:03:20.843261+00:00",
-  "total_notified": 13131,
+  "last_run": "2026-11-20T12:32:59.273540+00:00",
+  "total_notified": 13133,
   "channels": {
     "pm-jobs": [
-      "jobright-777743d08c8c",
-      "url:https://jobright.ai/jobs/info/6a7e7e56e51a1e18a240e3b7",
       "ashby-plaid-94ecbba3-660c-4604-a4f5-071f5c2c74d8",
       "url:https://jobs.ashbyhq.com/plaid/94ecbba3-660c-4604-a4f5-071f5c2c74d8",
       "zapply-07323b54b20a",
@@ -27721,20 +27671,6 @@
       "url:https://zapply.jobs/l/d/sr-EVERSANA1-744000162547818"
     ],
     "swe-ai-full-time": [
-      "jobright-29ea960400a9",
-      "url:https://jobright.ai/jobs/info/6a6ffdc1160eda5948e8d14b",
-      "jobright-9052d23ba311",
-      "url:https://jobright.ai/jobs/info/6a7cf4a6a346cb6c8d5f112b",
-      "jobright-079256bd459c",
-      "url:https://jobright.ai/jobs/info/6a750bc237da8525e8cdc14d",
-      "jobright-c4683eedd43f",
-      "url:https://jobright.ai/jobs/info/6a7d66bf83621355407ae09e",
-      "jobright-332ad207fa9e",
-      "url:https://jobright.ai/jobs/info/6a71a429e2b7476e7b20ed8d",
-      "jobright-062253bb4a3a",
-      "url:https://jobright.ai/jobs/info/6a701a40f5953013637f727b",
-      "jobright-7e19f9c8aa7a",
-      "url:https://jobright.ai/jobs/info/6ad8924e1780f5549d585dc2",
       "jobright-e57f9c5fc9da",
       "url:https://jobright.ai/jobs/info/6a7ed2b919ce4e6e9d9346e3",
       "jobright-bdf7dff627ce",
@@ -33074,7 +33010,11 @@
       "gradtracker-b47b4e491a7c",
       "url:https://careers.qualcomm.com/careers/job/446722230518",
       "jobright-7784c788f542",
-      "url:https://jobright.ai/jobs/info/6a8da63ccc0cf270685242ff"
+      "url:https://jobright.ai/jobs/info/6a8da63ccc0cf270685242ff",
+      "simplify-0351cd26-0a2e-4a50-933f-7bf8ca4775ad",
+      "url:https://go.vansh.nyc/1Eq",
+      "amazon-10610150",
+      "url:https://www.amazon.jobs/en/jobs/10610150/research-scientist-special-projects"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
