@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-96705002-95d7-4a17-8292-87bbaea60a95",
-      "seen_at": "2026-10-21T02:01:21.081421+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application",
-      "seen_at": "2026-10-21T02:01:21.081843+00:00"
-    },
-    {
-      "id": "simplify-a012a300-cb95-495b-9875-a2f2d0a8a1f0",
-      "seen_at": "2026-10-21T02:01:21.082186+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application",
-      "seen_at": "2026-10-21T02:01:21.082499+00:00"
-    },
-    {
-      "id": "jobright-8150a1e3c679",
-      "seen_at": "2026-10-21T02:01:21.082815+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab30c8730340229a32315dd",
-      "seen_at": "2026-10-21T02:01:21.083109+00:00"
-    },
-    {
-      "id": "jobright-18ad4173fa64",
-      "seen_at": "2026-10-21T02:01:21.083414+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad7fdc454bbabbab0704894",
-      "seen_at": "2026-10-21T02:01:21.083713+00:00"
-    },
-    {
-      "id": "jobright-a0f4c9402edd",
-      "seen_at": "2026-10-21T02:01:21.084009+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad7fdaa54bbabbab0704884",
-      "seen_at": "2026-10-21T02:01:21.084328+00:00"
-    },
-    {
       "id": "simplify-26d84509-a16b-4556-99f7-18329fa61191",
       "seen_at": "2026-10-21T02:31:21.093340+00:00"
     },
@@ -26371,10 +26331,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aff8951b47661ae4a62dc9c",
       "seen_at": "2026-11-20T02:03:03.989512+00:00"
+    },
+    {
+      "id": "ashby-openai-43d75302-2eef-46b6-b991-611e705f9fb1",
+      "seen_at": "2026-11-20T02:32:52.423427+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/43d75302-2eef-46b6-b991-611e705f9fb1",
+      "seen_at": "2026-11-20T02:32:52.424069+00:00"
     }
   ],
-  "last_run": "2026-11-20T02:03:06.959698+00:00",
-  "total_notified": 13089,
+  "last_run": "2026-11-20T02:32:55.914513+00:00",
+  "total_notified": 13090,
   "channels": {
     "pm-jobs": [
       "jobright-dd52d5deb163",
@@ -27572,19 +27540,11 @@
       "greenhouse-airbnb-8231431",
       "url:https://careers.airbnb.com/positions/8231431",
       "jobright-1c6f88fc4574",
-      "url:https://jobright.ai/jobs/info/6acfb15778d51ae69ce077ae"
+      "url:https://jobright.ai/jobs/info/6acfb15778d51ae69ce077ae",
+      "ashby-openai-43d75302-2eef-46b6-b991-611e705f9fb1",
+      "url:https://jobs.ashbyhq.com/openai/43d75302-2eef-46b6-b991-611e705f9fb1"
     ],
     "swe-ai-full-time": [
-      "simplify-96705002-95d7-4a17-8292-87bbaea60a95",
-      "url:https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application",
-      "simplify-a012a300-cb95-495b-9875-a2f2d0a8a1f0",
-      "url:https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application",
-      "jobright-8150a1e3c679",
-      "url:https://jobright.ai/jobs/info/6ab30c8730340229a32315dd",
-      "jobright-18ad4173fa64",
-      "url:https://jobright.ai/jobs/info/6ad7fdc454bbabbab0704894",
-      "jobright-a0f4c9402edd",
-      "url:https://jobright.ai/jobs/info/6ad7fdaa54bbabbab0704884",
       "simplify-26d84509-a16b-4556-99f7-18329fa61191",
       "url:https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "jobright-9c510f624a4e",
