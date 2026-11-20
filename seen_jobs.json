@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-0e335514-6e0b-4932-bba0-5e2e0d8c9375",
-      "seen_at": "2026-10-21T15:31:20.396844+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8/application",
-      "seen_at": "2026-10-21T15:31:20.397387+00:00"
-    },
-    {
-      "id": "zapply-07323b54b20a",
-      "seen_at": "2026-10-21T15:31:25.210769+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1321073",
-      "seen_at": "2026-10-21T15:31:25.211255+00:00"
-    },
-    {
-      "id": "zapply-cd43b628ad04",
-      "seen_at": "2026-10-21T15:31:25.211703+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1504946",
-      "seen_at": "2026-10-21T15:31:25.212097+00:00"
-    },
-    {
       "id": "jobright-cd5e81ec092a",
       "seen_at": "2026-10-21T16:01:54.563733+00:00"
     },
@@ -26467,16 +26443,36 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-spgi-spgi-careers-332919",
       "seen_at": "2026-11-20T15:33:18.424118+00:00"
+    },
+    {
+      "id": "zapply-6d6fe92640a5",
+      "seen_at": "2026-11-20T16:03:36.281856+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/eightfold-eaton-687240247485",
+      "seen_at": "2026-11-20T16:03:36.282323+00:00"
+    },
+    {
+      "id": "jobright-2c6170c75a1b",
+      "seen_at": "2026-11-20T16:03:38.353904+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0052be3a9a0230ab02655d",
+      "seen_at": "2026-11-20T16:03:38.354386+00:00"
+    },
+    {
+      "id": "jobright-236327800533",
+      "seen_at": "2026-11-20T16:03:54.658215+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaac53a4be87a72913a132d",
+      "seen_at": "2026-11-20T16:03:54.658643+00:00"
     }
   ],
-  "last_run": "2026-11-20T15:33:22.500193+00:00",
-  "total_notified": 13144,
+  "last_run": "2026-11-20T16:03:54.921206+00:00",
+  "total_notified": 13147,
   "channels": {
     "pm-jobs": [
-      "zapply-07323b54b20a",
-      "url:https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1321073",
-      "zapply-cd43b628ad04",
-      "url:https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1504946",
       "jobright-bdcae578bcd7",
       "url:https://jobright.ai/jobs/info/6aa084953b5aa83237b09a98",
       "greenhouse-figma-6228774004",
@@ -27682,11 +27678,11 @@
       "zapply-3c09c4a62406",
       "url:https://zapply.jobs/l/d/workday-ptc-ptc-JR112791",
       "zapply-91ca0058cb2a",
-      "url:https://zapply.jobs/l/d/workday-spgi-spgi-careers-332919"
+      "url:https://zapply.jobs/l/d/workday-spgi-spgi-careers-332919",
+      "zapply-6d6fe92640a5",
+      "url:https://zapply.jobs/l/d/eightfold-eaton-687240247485"
     ],
     "swe-ai-full-time": [
-      "simplify-0e335514-6e0b-4932-bba0-5e2e0d8c9375",
-      "url:https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8/application",
       "jobright-cd5e81ec092a",
       "url:https://jobright.ai/jobs/info/6aa5019582e82a31997bb928",
       "lever-zoox-254559af-8372-403b-8220-9b49af400361",
@@ -33020,7 +33016,9 @@
       "amazon-10607195",
       "url:https://www.amazon.jobs/en/jobs/10607195/software-development-engineer-agentic-ai",
       "jobright-53d4d50156b3",
-      "url:https://jobright.ai/jobs/info/6affa53c865dbcc3f26fe29d"
+      "url:https://jobright.ai/jobs/info/6affa53c865dbcc3f26fe29d",
+      "jobright-2c6170c75a1b",
+      "url:https://jobright.ai/jobs/info/6b0052be3a9a0230ab02655d"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -33100,7 +33098,9 @@
       "jobright-1a5e404c579b",
       "url:https://jobright.ai/jobs/info/6ada50423a69033df2257b2a",
       "jobright-6ec2f85d233f",
-      "url:https://jobright.ai/jobs/info/6aea6b27440b469a1c0addb9"
+      "url:https://jobright.ai/jobs/info/6aea6b27440b469a1c0addb9",
+      "jobright-236327800533",
+      "url:https://jobright.ai/jobs/info/6aaac53a4be87a72913a132d"
     ]
   }
 }
