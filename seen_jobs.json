@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "lever-zoox-254559af-8372-403b-8220-9b49af400361",
-      "seen_at": "2026-10-21T17:01:35.415714+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/zoox/254559af-8372-403b-8220-9b49af400361",
-      "seen_at": "2026-10-21T17:01:35.416116+00:00"
-    },
-    {
-      "id": "amazon-10584882",
-      "seen_at": "2026-10-21T17:01:35.416471+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10584882/software-development-engineer",
-      "seen_at": "2026-10-21T17:01:35.416810+00:00"
-    },
-    {
-      "id": "jobright-967c8387b0b4",
-      "seen_at": "2026-10-21T17:01:35.417133+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a0f822183d7144289821054",
-      "seen_at": "2026-10-21T17:01:35.417444+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR357256",
-      "seen_at": "2026-10-21T17:01:35.417786+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256",
-      "seen_at": "2026-10-21T17:01:35.418074+00:00"
-    },
-    {
-      "id": "jobright-b80bb934e1fd",
-      "seen_at": "2026-10-21T17:01:40.088580+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad8d87d39284cd524280d2d",
-      "seen_at": "2026-10-21T17:01:40.088967+00:00"
-    },
-    {
-      "id": "jobright-896b7a5d2766",
-      "seen_at": "2026-10-21T17:01:40.089305+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad8db09e4b94611ab84fc11",
-      "seen_at": "2026-10-21T17:01:40.089614+00:00"
-    },
-    {
       "id": "zapply-31fdd9e04d77",
       "seen_at": "2026-10-21T17:31:20.407754+00:00"
     },
@@ -26491,16 +26443,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6adacd23f6e3ea828242812c",
       "seen_at": "2026-11-20T17:03:57.276874+00:00"
+    },
+    {
+      "id": "zapply-2df46bf2a453",
+      "seen_at": "2026-11-20T17:33:11.679721+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-cummins-2436136",
+      "seen_at": "2026-11-20T17:33:11.680246+00:00"
+    },
+    {
+      "id": "gradtracker-7a1b43d32b14",
+      "seen_at": "2026-11-20T17:33:13.964114+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10610327/data-engineer-i",
+      "seen_at": "2026-11-20T17:33:13.964671+00:00"
     }
   ],
-  "last_run": "2026-11-20T17:03:57.523771+00:00",
-  "total_notified": 13153,
+  "last_run": "2026-11-20T17:33:17.612069+00:00",
+  "total_notified": 13155,
   "channels": {
     "pm-jobs": [
-      "jobright-b80bb934e1fd",
-      "url:https://jobright.ai/jobs/info/6ad8d87d39284cd524280d2d",
-      "jobright-896b7a5d2766",
-      "url:https://jobright.ai/jobs/info/6ad8db09e4b94611ab84fc11",
       "zapply-0afd45b68b51",
       "url:https://zapply.jobs/l/d/phenom-danaher-R1321073",
       "jobright-e6c16e484e70",
@@ -27702,17 +27666,11 @@
       "zapply-6d6fe92640a5",
       "url:https://zapply.jobs/l/d/eightfold-eaton-687240247485",
       "zapply-9130e5265384",
-      "url:https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-085352"
+      "url:https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-085352",
+      "zapply-2df46bf2a453",
+      "url:https://zapply.jobs/l/d/oracle-cummins-2436136"
     ],
     "swe-ai-full-time": [
-      "lever-zoox-254559af-8372-403b-8220-9b49af400361",
-      "url:https://jobs.lever.co/zoox/254559af-8372-403b-8220-9b49af400361",
-      "amazon-10584882",
-      "url:https://www.amazon.jobs/en/jobs/10584882/software-development-engineer",
-      "jobright-967c8387b0b4",
-      "url:https://jobright.ai/jobs/info/6a0f822183d7144289821054",
-      "workday-salesforce-JR357256",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256",
       "zapply-31fdd9e04d77",
       "url:https://zapply.jobs/l/d/workday-etsy-etsy-careers-JR6037",
       "workday-nvidia-JR2028237",
@@ -33044,7 +33002,9 @@
       "greenhouse-anthropic-5485188008",
       "url:https://job-boards.greenhouse.io/anthropic/jobs/5485188008",
       "jobright-dae0f73a3730",
-      "url:https://jobright.ai/jobs/info/6b005f7d89d8ca1e849558ae"
+      "url:https://jobright.ai/jobs/info/6b005f7d89d8ca1e849558ae",
+      "gradtracker-7a1b43d32b14",
+      "url:https://www.amazon.jobs/en/jobs/10610327/data-engineer-i"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
