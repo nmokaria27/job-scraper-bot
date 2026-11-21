@@ -26427,10 +26427,74 @@
     {
       "id": "url:https://apply.workable.com/dsn/j/AAF21352DA/apply",
       "seen_at": "2026-11-21T00:13:00.751466+00:00"
+    },
+    {
+      "id": "simplify-f7c334e4-cf93-44b4-a838-64e47a83f8c1",
+      "seen_at": "2026-11-21T01:03:18.903558+00:00"
+    },
+    {
+      "id": "url:https://laansu.applytojob.com/apply/VlgxKiBUqZ/Junior-Software-Developer",
+      "seen_at": "2026-11-21T01:03:18.904095+00:00"
+    },
+    {
+      "id": "simplify-c9344731-46ee-48eb-bbf4-b01acf1ad7f1",
+      "seen_at": "2026-11-21T01:03:18.904596+00:00"
+    },
+    {
+      "id": "url:https://recruiting.ultipro.com/MIC1007/JobBoard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/OpportunityDetail",
+      "seen_at": "2026-11-21T01:03:18.905060+00:00"
+    },
+    {
+      "id": "jobright-3e90527a1102",
+      "seen_at": "2026-11-21T01:03:18.905532+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b00d9c9a512f514bbde0fb6",
+      "seen_at": "2026-11-21T01:03:18.905994+00:00"
+    },
+    {
+      "id": "jobright-31376fca8cbd",
+      "seen_at": "2026-11-21T01:03:18.906527+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd0c0bd113c967e3c7bd3d",
+      "seen_at": "2026-11-21T01:03:18.906987+00:00"
+    },
+    {
+      "id": "jobright-303b9975971d",
+      "seen_at": "2026-11-21T01:03:18.907483+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abdfedd064da25272dff9c2",
+      "seen_at": "2026-11-21T01:03:18.907939+00:00"
+    },
+    {
+      "id": "jobright-e19b4b97eabc",
+      "seen_at": "2026-11-21T01:03:18.908433+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aff76fab47661ae4a62cd30",
+      "seen_at": "2026-11-21T01:03:18.908886+00:00"
+    },
+    {
+      "id": "jobright-e45ce65a56d4",
+      "seen_at": "2026-11-21T01:03:18.909355+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aaef1adde327d3e210d6315",
+      "seen_at": "2026-11-21T01:03:18.909808+00:00"
+    },
+    {
+      "id": "jobright-f95c6a68d6db",
+      "seen_at": "2026-11-21T01:03:18.910313+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b00cd272ad6cde5ef24f335",
+      "seen_at": "2026-11-21T01:03:18.910774+00:00"
     }
   ],
-  "last_run": "2026-11-21T00:33:01.569921+00:00",
-  "total_notified": 13233,
+  "last_run": "2026-11-21T01:03:22.494115+00:00",
+  "total_notified": 13241,
   "channels": {
     "pm-jobs": [
       "zapply-34772a12840d",
@@ -32942,7 +33006,23 @@
       "simplify-1a6f307a-296e-42d1-96ba-43281eee7644",
       "url:https://recruiting.ultipro.com/EIN1000EINK/JobBoard/a41773f4-adab-4192-88a9-8bc27fbad529/OpportunityDetail",
       "simplify-f7351fa7-b0be-4ecd-bf79-70ccb33ac7f7",
-      "url:https://apply.workable.com/dsn/j/AAF21352DA/apply"
+      "url:https://apply.workable.com/dsn/j/AAF21352DA/apply",
+      "simplify-f7c334e4-cf93-44b4-a838-64e47a83f8c1",
+      "url:https://laansu.applytojob.com/apply/VlgxKiBUqZ/Junior-Software-Developer",
+      "simplify-c9344731-46ee-48eb-bbf4-b01acf1ad7f1",
+      "url:https://recruiting.ultipro.com/MIC1007/JobBoard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/OpportunityDetail",
+      "jobright-3e90527a1102",
+      "url:https://jobright.ai/jobs/info/6b00d9c9a512f514bbde0fb6",
+      "jobright-31376fca8cbd",
+      "url:https://jobright.ai/jobs/info/6acd0c0bd113c967e3c7bd3d",
+      "jobright-303b9975971d",
+      "url:https://jobright.ai/jobs/info/6abdfedd064da25272dff9c2",
+      "jobright-e19b4b97eabc",
+      "url:https://jobright.ai/jobs/info/6aff76fab47661ae4a62cd30",
+      "jobright-e45ce65a56d4",
+      "url:https://jobright.ai/jobs/info/6aaef1adde327d3e210d6315",
+      "jobright-f95c6a68d6db",
+      "url:https://jobright.ai/jobs/info/6b00cd272ad6cde5ef24f335"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
