@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-clerk-847d6d6f-aa7a-4799-ae5d-c89018a479b5",
-      "seen_at": "2026-10-22T16:31:24.939697+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/clerk/847d6d6f-aa7a-4799-ae5d-c89018a479b5",
-      "seen_at": "2026-10-22T16:31:24.940301+00:00"
-    },
-    {
       "id": "jobright-11668b11c178",
       "seen_at": "2026-10-22T17:01:56.385715+00:00"
     },
@@ -26349,7 +26341,7 @@
       "seen_at": "2026-11-21T16:32:54.939091+00:00"
     }
   ],
-  "last_run": "2026-11-21T16:32:57.183395+00:00",
+  "last_run": "2026-11-21T17:03:02.841877+00:00",
   "total_notified": 13272,
   "channels": {
     "pm-jobs": [
@@ -27571,8 +27563,6 @@
       "url:https://zapply.jobs/l/d/workday-amat-external-R2634039"
     ],
     "swe-ai-full-time": [
-      "ashby-clerk-847d6d6f-aa7a-4799-ae5d-c89018a479b5",
-      "url:https://jobs.ashbyhq.com/clerk/847d6d6f-aa7a-4799-ae5d-c89018a479b5",
       "jobright-11668b11c178",
       "url:https://jobright.ai/jobs/info/6ada24ba03d2da7528912179",
       "jobright-b0c8d55e6bdb",
