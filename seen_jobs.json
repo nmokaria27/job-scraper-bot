@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-cerebras-aa63c764-2bca-479f-92eb-e2e2c942e383",
-      "seen_at": "2026-10-22T18:31:33.331641+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/cerebras/aa63c764-2bca-479f-92eb-e2e2c942e383",
-      "seen_at": "2026-10-22T18:31:33.332193+00:00"
-    },
-    {
-      "id": "zapply-b5f958f09202",
-      "seen_at": "2026-10-22T18:31:38.177793+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801678",
-      "seen_at": "2026-10-22T18:31:38.178299+00:00"
-    },
-    {
       "id": "jobright-ca9f9c66b4fe",
       "seen_at": "2026-10-22T19:01:51.036701+00:00"
     },
@@ -26219,14 +26203,20 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b01cad20ae14188d58c4b5b",
       "seen_at": "2026-11-21T18:02:59.881533+00:00"
+    },
+    {
+      "id": "jobright-0a4c95ff4902",
+      "seen_at": "2026-11-21T19:02:54.016569+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b01ce550ae14188d58c4bc0",
+      "seen_at": "2026-11-21T19:02:54.016932+00:00"
     }
   ],
-  "last_run": "2026-11-21T18:32:53.725024+00:00",
-  "total_notified": 13278,
+  "last_run": "2026-11-21T19:02:56.006376+00:00",
+  "total_notified": 13279,
   "channels": {
     "pm-jobs": [
-      "zapply-b5f958f09202",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801678",
       "ashby-substack-32cbda9c-7783-45d1-83b9-73274f2311ba",
       "url:https://jobs.ashbyhq.com/substack/32cbda9c-7783-45d1-83b9-73274f2311ba",
       "jobright-3d6a445a22ef",
@@ -27439,8 +27429,6 @@
       "url:https://zapply.jobs/l/d/workday-amat-external-R2634039"
     ],
     "swe-ai-full-time": [
-      "ashby-cerebras-aa63c764-2bca-479f-92eb-e2e2c942e383",
-      "url:https://jobs.ashbyhq.com/cerebras/aa63c764-2bca-479f-92eb-e2e2c942e383",
       "jobright-ca9f9c66b4fe",
       "url:https://jobright.ai/jobs/info/6ada3fea3a69033df225711b",
       "jobright-7107d547e793",
@@ -32674,7 +32662,9 @@
       "jobright-1ef77dad8f9c",
       "url:https://jobright.ai/jobs/info/6ac96bad6355f8776ff18f79",
       "jobright-d8dac5d491a3",
-      "url:https://jobright.ai/jobs/info/6b01cad20ae14188d58c4b5b"
+      "url:https://jobright.ai/jobs/info/6b01cad20ae14188d58c4b5b",
+      "jobright-0a4c95ff4902",
+      "url:https://jobright.ai/jobs/info/6b01ce550ae14188d58c4bc0"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
