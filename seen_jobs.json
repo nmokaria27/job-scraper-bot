@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-7df9fb83ed03",
-      "seen_at": "2026-10-22T03:01:18.269962+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac6de8f064da25272e1cb27",
-      "seen_at": "2026-10-22T03:01:18.270332+00:00"
-    },
-    {
       "id": "ashby-sierra-ae8a501d-7f79-4398-b858-3d793756dd25",
       "seen_at": "2026-10-22T03:31:18.055190+00:00"
     },
@@ -26541,7 +26533,7 @@
       "seen_at": "2026-11-21T03:03:03.776576+00:00"
     }
   ],
-  "last_run": "2026-11-21T03:03:07.092110+00:00",
+  "last_run": "2026-11-21T03:33:06.412854+00:00",
   "total_notified": 13256,
   "channels": {
     "pm-jobs": [
@@ -27773,8 +27765,6 @@
       "url:https://zapply.jobs/l/d/ashby-openai-43d75302-2eef-46b6-b991-611e705f9fb1"
     ],
     "swe-ai-full-time": [
-      "jobright-7df9fb83ed03",
-      "url:https://jobright.ai/jobs/info/6ac6de8f064da25272e1cb27",
       "ashby-sierra-ae8a501d-7f79-4398-b858-3d793756dd25",
       "url:https://jobs.ashbyhq.com/sierra/ae8a501d-7f79-4398-b858-3d793756dd25",
       "ashby-sierra-688d4d59-23d8-4100-9e2b-2fb11544753e",
