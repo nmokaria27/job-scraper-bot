@@ -26459,10 +26459,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b016fbfa512f514bbde315f",
       "seen_at": "2026-11-21T12:03:08.704079+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5489567008",
+      "seen_at": "2026-11-21T13:02:56.968740+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5489567008",
+      "seen_at": "2026-11-21T13:02:56.969237+00:00"
+    },
+    {
+      "id": "jobright-efe2b2fd7359",
+      "seen_at": "2026-11-21T13:03:00.336582+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac7cd2351a1b3e4219ee923",
+      "seen_at": "2026-11-21T13:03:00.337047+00:00"
     }
   ],
-  "last_run": "2026-11-21T12:32:48.397182+00:00",
-  "total_notified": 13267,
+  "last_run": "2026-11-21T13:03:00.683585+00:00",
+  "total_notified": 13269,
   "channels": {
     "pm-jobs": [
       "zapply-39a798349e2a",
@@ -32976,7 +32992,9 @@
       "jobright-5b5f8edf0fe2",
       "url:https://jobright.ai/jobs/info/6b010aaef6ef85c61a50e560",
       "jobright-355f998b28b2",
-      "url:https://jobright.ai/jobs/info/6a83c46c9b859b2277670aa6"
+      "url:https://jobright.ai/jobs/info/6a83c46c9b859b2277670aa6",
+      "greenhouse-anthropic-5489567008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5489567008"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -33090,7 +33108,9 @@
       "jobright-da7ede3e9619",
       "url:https://jobright.ai/jobs/info/6a56615553b3962b910afb88",
       "jobright-6d537bb523b1",
-      "url:https://jobright.ai/jobs/info/6b016fbfa512f514bbde315f"
+      "url:https://jobright.ai/jobs/info/6b016fbfa512f514bbde315f",
+      "jobright-efe2b2fd7359",
+      "url:https://jobright.ai/jobs/info/6ac7cd2351a1b3e4219ee923"
     ]
   }
 }
