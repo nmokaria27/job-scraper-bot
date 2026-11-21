@@ -1,70 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-de4b6392-8af5-4df9-8875-82c50964fa98",
-      "seen_at": "2026-10-21T23:31:21.674049+00:00"
-    },
-    {
-      "id": "url:https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
-      "seen_at": "2026-10-21T23:31:21.674562+00:00"
-    },
-    {
-      "id": "zapply-7120d55bbba2",
-      "seen_at": "2026-10-21T23:31:21.675066+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/greenhouse-twitch-8906750002",
-      "seen_at": "2026-10-21T23:31:21.675535+00:00"
-    },
-    {
-      "id": "simplify-d9b632c0-c73f-4641-957d-84ac0cdc4acf",
-      "seen_at": "2026-10-21T23:31:21.676016+00:00"
-    },
-    {
-      "id": "url:https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Plantation-FL/Software-Engineer-I_R31182-1",
-      "seen_at": "2026-10-21T23:31:21.676461+00:00"
-    },
-    {
-      "id": "simplify-6df8bd66-e2bc-412e-ab52-7565bcc76ccf",
-      "seen_at": "2026-10-21T23:31:21.676924+00:00"
-    },
-    {
-      "id": "url:https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Software-Engineer_JR14697",
-      "seen_at": "2026-10-21T23:31:21.677366+00:00"
-    },
-    {
-      "id": "greenhouse-airbnb-8280222",
-      "seen_at": "2026-10-21T23:31:21.677814+00:00"
-    },
-    {
-      "id": "url:https://careers.airbnb.com/positions/8280222",
-      "seen_at": "2026-10-21T23:31:21.678284+00:00"
-    },
-    {
-      "id": "simplify-3a1a2560-3ee7-4b44-81e4-8b0a679c2b07",
-      "seen_at": "2026-10-21T23:31:21.678734+00:00"
-    },
-    {
-      "id": "url:https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1",
-      "seen_at": "2026-10-21T23:31:21.679189+00:00"
-    },
-    {
-      "id": "greenhouse-anthropic-5415822008",
-      "seen_at": "2026-10-21T23:31:27.069368+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5415822008",
-      "seen_at": "2026-10-21T23:31:27.069912+00:00"
-    },
-    {
-      "id": "simplify-804c85b0-c6bd-477f-84fb-4324e3053340",
-      "seen_at": "2026-10-21T23:31:27.070366+00:00"
-    },
-    {
-      "id": "url:https://apply.workable.com/fmx/j/D5C8EEABC3/apply",
-      "seen_at": "2026-10-21T23:31:27.070784+00:00"
-    },
-    {
       "id": "jobright-5d83604cfd82",
       "seen_at": "2026-10-22T00:01:24.299591+00:00"
     },
@@ -26427,16 +26363,84 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-baxter-baxter-JR-210052",
       "seen_at": "2026-11-20T23:32:48.848374+00:00"
+    },
+    {
+      "id": "jobright-f1f59f9511fc",
+      "seen_at": "2026-11-21T00:03:17.160770+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b00c93ed1fe3bc162e3edff",
+      "seen_at": "2026-11-21T00:03:17.161103+00:00"
+    },
+    {
+      "id": "jobright-2342c1fd4710",
+      "seen_at": "2026-11-21T00:03:17.161358+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b00c46189d8ca1e84959613",
+      "seen_at": "2026-11-21T00:03:17.161591+00:00"
+    },
+    {
+      "id": "ashby-baseten-7dd86198-2132-4620-8c8d-af3dbcdb86e3",
+      "seen_at": "2026-11-21T00:03:19.867956+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/baseten/7dd86198-2132-4620-8c8d-af3dbcdb86e3",
+      "seen_at": "2026-11-21T00:03:19.868289+00:00"
+    },
+    {
+      "id": "ashby-benchling-0ad40d59-6e70-4081-8123-4864fc1b12d8",
+      "seen_at": "2026-11-21T00:03:19.868560+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/benchling/0ad40d59-6e70-4081-8123-4864fc1b12d8",
+      "seen_at": "2026-11-21T00:03:19.868817+00:00"
+    },
+    {
+      "id": "simplify-36d43e73-83bc-4aec-aebe-320a32e3e033",
+      "seen_at": "2026-11-21T00:03:19.869057+00:00"
+    },
+    {
+      "id": "url:https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail",
+      "seen_at": "2026-11-21T00:03:19.869283+00:00"
+    },
+    {
+      "id": "simplify-edc801c6-bd58-4fa1-a574-fa3e72eef52c",
+      "seen_at": "2026-11-21T00:03:19.869498+00:00"
+    },
+    {
+      "id": "url:https://recruiting.ultipro.com/ecp1000ecpi/JobBoard/e017f5e5-4f5e-4a98-a5d2-83db591e186f/OpportunityDetail",
+      "seen_at": "2026-11-21T00:03:19.869705+00:00"
+    },
+    {
+      "id": "simplify-c339b2ee-361c-42dc-9a66-57e89474841d",
+      "seen_at": "2026-11-21T00:03:19.869913+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4727237006",
+      "seen_at": "2026-11-21T00:03:19.870112+00:00"
+    },
+    {
+      "id": "jobright-a93782ee96e0",
+      "seen_at": "2026-11-21T00:03:19.870309+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b00c2e50f536e0ba727702f",
+      "seen_at": "2026-11-21T00:03:19.870511+00:00"
+    },
+    {
+      "id": "applyguy-b32b9962-2af2-4d08-a4d6-d274971b76a6",
+      "seen_at": "2026-11-21T00:03:19.870718+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5",
+      "seen_at": "2026-11-21T00:03:19.870923+00:00"
     }
   ],
-  "last_run": "2026-11-20T23:32:51.724021+00:00",
-  "total_notified": 13221,
+  "last_run": "2026-11-21T00:03:23.960380+00:00",
+  "total_notified": 13230,
   "channels": {
     "pm-jobs": [
-      "greenhouse-anthropic-5415822008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5415822008",
-      "simplify-804c85b0-c6bd-477f-84fb-4324e3053340",
-      "url:https://apply.workable.com/fmx/j/D5C8EEABC3/apply",
       "jobright-ab240d5d90fe",
       "url:https://jobright.ai/jobs/info/6ad92f55b0725dc268ddabf4",
       "zapply-34772a12840d",
@@ -27656,21 +27660,13 @@
       "greenhouse-figma-6266479004",
       "url:https://boards.greenhouse.io/figma/jobs/6266479004",
       "jobright-5a5c15de4eb8",
-      "url:https://jobright.ai/jobs/info/6b00ae3089d8ca1e8495864f"
+      "url:https://jobright.ai/jobs/info/6b00ae3089d8ca1e8495864f",
+      "jobright-f1f59f9511fc",
+      "url:https://jobright.ai/jobs/info/6b00c93ed1fe3bc162e3edff",
+      "jobright-2342c1fd4710",
+      "url:https://jobright.ai/jobs/info/6b00c46189d8ca1e84959613"
     ],
     "swe-ai-full-time": [
-      "simplify-de4b6392-8af5-4df9-8875-82c50964fa98",
-      "url:https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
-      "zapply-7120d55bbba2",
-      "url:https://zapply.jobs/l/d/greenhouse-twitch-8906750002",
-      "simplify-d9b632c0-c73f-4641-957d-84ac0cdc4acf",
-      "url:https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Plantation-FL/Software-Engineer-I_R31182-1",
-      "simplify-6df8bd66-e2bc-412e-ab52-7565bcc76ccf",
-      "url:https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Software-Engineer_JR14697",
-      "greenhouse-airbnb-8280222",
-      "url:https://careers.airbnb.com/positions/8280222",
-      "simplify-3a1a2560-3ee7-4b44-81e4-8b0a679c2b07",
-      "url:https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1",
       "jobright-5d83604cfd82",
       "url:https://jobright.ai/jobs/info/6ad9328d39284cd52428545d",
       "jobright-7a2d99becdcb",
@@ -32942,7 +32938,21 @@
       "zapply-a89c626467f4",
       "url:https://zapply.jobs/l/d/workday-baxter-baxter-JR-212825",
       "zapply-7f8041a83d3f",
-      "url:https://zapply.jobs/l/d/workday-baxter-baxter-JR-210052"
+      "url:https://zapply.jobs/l/d/workday-baxter-baxter-JR-210052",
+      "ashby-baseten-7dd86198-2132-4620-8c8d-af3dbcdb86e3",
+      "url:https://jobs.ashbyhq.com/baseten/7dd86198-2132-4620-8c8d-af3dbcdb86e3",
+      "ashby-benchling-0ad40d59-6e70-4081-8123-4864fc1b12d8",
+      "url:https://jobs.ashbyhq.com/benchling/0ad40d59-6e70-4081-8123-4864fc1b12d8",
+      "simplify-36d43e73-83bc-4aec-aebe-320a32e3e033",
+      "url:https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail",
+      "simplify-edc801c6-bd58-4fa1-a574-fa3e72eef52c",
+      "url:https://recruiting.ultipro.com/ecp1000ecpi/JobBoard/e017f5e5-4f5e-4a98-a5d2-83db591e186f/OpportunityDetail",
+      "simplify-c339b2ee-361c-42dc-9a66-57e89474841d",
+      "url:https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4727237006",
+      "jobright-a93782ee96e0",
+      "url:https://jobright.ai/jobs/info/6b00c2e50f536e0ba727702f",
+      "applyguy-b32b9962-2af2-4d08-a4d6-d274971b76a6",
+      "url:https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
