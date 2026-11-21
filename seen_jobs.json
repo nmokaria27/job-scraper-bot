@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-lyft-8908005002",
-      "seen_at": "2026-10-22T18:01:30.645303+00:00"
-    },
-    {
-      "id": "url:https://app.careerpuck.com/job-board/lyft/job/8908005002",
-      "seen_at": "2026-10-22T18:01:30.645636+00:00"
-    },
-    {
-      "id": "ashby-baseten-26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4",
-      "seen_at": "2026-10-22T18:01:30.645905+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/baseten/26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4",
-      "seen_at": "2026-10-22T18:01:30.646158+00:00"
-    },
-    {
-      "id": "ashby-baseten-34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
-      "seen_at": "2026-10-22T18:01:30.646396+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/baseten/34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
-      "seen_at": "2026-10-22T18:01:30.646623+00:00"
-    },
-    {
-      "id": "ashby-baseten-86331c05-a6b0-4a9f-991d-b46091b696b5",
-      "seen_at": "2026-10-22T18:01:30.646848+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/baseten/86331c05-a6b0-4a9f-991d-b46091b696b5",
-      "seen_at": "2026-10-22T18:01:30.647071+00:00"
-    },
-    {
       "id": "ashby-cerebras-aa63c764-2bca-479f-92eb-e2e2c942e383",
       "seen_at": "2026-10-22T18:31:33.331641+00:00"
     },
@@ -26253,7 +26221,7 @@
       "seen_at": "2026-11-21T18:02:59.881533+00:00"
     }
   ],
-  "last_run": "2026-11-21T18:03:02.671112+00:00",
+  "last_run": "2026-11-21T18:32:53.725024+00:00",
   "total_notified": 13278,
   "channels": {
     "pm-jobs": [
@@ -27471,14 +27439,6 @@
       "url:https://zapply.jobs/l/d/workday-amat-external-R2634039"
     ],
     "swe-ai-full-time": [
-      "greenhouse-lyft-8908005002",
-      "url:https://app.careerpuck.com/job-board/lyft/job/8908005002",
-      "ashby-baseten-26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4",
-      "url:https://jobs.ashbyhq.com/baseten/26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4",
-      "ashby-baseten-34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
-      "url:https://jobs.ashbyhq.com/baseten/34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
-      "ashby-baseten-86331c05-a6b0-4a9f-991d-b46091b696b5",
-      "url:https://jobs.ashbyhq.com/baseten/86331c05-a6b0-4a9f-991d-b46091b696b5",
       "ashby-cerebras-aa63c764-2bca-479f-92eb-e2e2c942e383",
       "url:https://jobs.ashbyhq.com/cerebras/aa63c764-2bca-479f-92eb-e2e2c942e383",
       "jobright-ca9f9c66b4fe",
