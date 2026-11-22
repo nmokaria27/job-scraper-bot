@@ -25403,10 +25403,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a4629f6c2d11a6a4666ca38",
       "seen_at": "2026-11-22T13:02:59.771953+00:00"
+    },
+    {
+      "id": "jobright-0e6248755c59",
+      "seen_at": "2026-11-22T14:02:51.847119+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b02e318c35a3d9ff8f487de",
+      "seen_at": "2026-11-22T14:02:51.847513+00:00"
+    },
+    {
+      "id": "jobright-0146a6525b02",
+      "seen_at": "2026-11-22T14:02:51.847858+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a764b6e67a1ad0bc53c9c35",
+      "seen_at": "2026-11-22T14:02:51.848177+00:00"
+    },
+    {
+      "id": "jobright-771fe665a010",
+      "seen_at": "2026-11-22T14:02:53.848203+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b02e269f8aac3fb5bbe3766",
+      "seen_at": "2026-11-22T14:02:53.848522+00:00"
     }
   ],
-  "last_run": "2026-11-22T13:32:56.701384+00:00",
-  "total_notified": 13285,
+  "last_run": "2026-11-22T14:02:54.065053+00:00",
+  "total_notified": 13288,
   "channels": {
     "pm-jobs": [
       "zapply-32675b85ad2d",
@@ -31652,7 +31676,11 @@
       "jobright-4ecc185f9837",
       "url:https://jobright.ai/jobs/info/6aa06a51a2266b538d2302df",
       "jobright-b90d823d9862",
-      "url:https://jobright.ai/jobs/info/6ac924e9d4a5a03707410f2e"
+      "url:https://jobright.ai/jobs/info/6ac924e9d4a5a03707410f2e",
+      "jobright-0e6248755c59",
+      "url:https://jobright.ai/jobs/info/6b02e318c35a3d9ff8f487de",
+      "jobright-0146a6525b02",
+      "url:https://jobright.ai/jobs/info/6a764b6e67a1ad0bc53c9c35"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -31770,7 +31798,9 @@
       "jobright-efe2b2fd7359",
       "url:https://jobright.ai/jobs/info/6ac7cd2351a1b3e4219ee923",
       "jobright-7c17e37cb02a",
-      "url:https://jobright.ai/jobs/info/6a4629f6c2d11a6a4666ca38"
+      "url:https://jobright.ai/jobs/info/6a4629f6c2d11a6a4666ca38",
+      "jobright-771fe665a010",
+      "url:https://jobright.ai/jobs/info/6b02e269f8aac3fb5bbe3766"
     ]
   }
 }
