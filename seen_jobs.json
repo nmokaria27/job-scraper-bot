@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-2dc497711235",
-      "seen_at": "2026-10-23T14:01:27.400207+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adb545246a8cabdc1ff2567",
-      "seen_at": "2026-10-23T14:01:27.400561+00:00"
-    },
-    {
-      "id": "jobright-e310cea58c47",
-      "seen_at": "2026-10-23T14:01:27.400862+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a739d94e55c73319eb18689",
-      "seen_at": "2026-10-23T14:01:27.401123+00:00"
-    },
-    {
-      "id": "gradtracker-5e829e10f58d",
-      "seen_at": "2026-10-23T14:01:27.401384+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10587443/software-development-engineer-adc2s",
-      "seen_at": "2026-10-23T14:01:27.401620+00:00"
-    },
-    {
-      "id": "gradtracker-a7a0fd61d089",
-      "seen_at": "2026-10-23T14:01:27.401863+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10587444/software-development-engineer-adc2s",
-      "seen_at": "2026-10-23T14:01:27.402088+00:00"
-    },
-    {
-      "id": "gradtracker-700d3b9a1401",
-      "seen_at": "2026-10-23T14:01:27.402313+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10587463/software-development-engineer-adc2s",
-      "seen_at": "2026-10-23T14:01:27.402529+00:00"
-    },
-    {
-      "id": "greenhouse-drweng-8303364",
-      "seen_at": "2026-10-23T14:01:27.402746+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/drweng/jobs/8303364",
-      "seen_at": "2026-10-23T14:01:27.402961+00:00"
-    },
-    {
-      "id": "greenhouse-sofi-8042391003",
-      "seen_at": "2026-10-23T14:01:27.403175+00:00"
-    },
-    {
-      "id": "url:https://sofi.com/careers/job/8042391003",
-      "seen_at": "2026-10-23T14:01:27.403379+00:00"
-    },
-    {
       "id": "zapply-32675b85ad2d",
       "seen_at": "2026-10-23T14:31:29.356405+00:00"
     },
@@ -25429,7 +25373,7 @@
       "seen_at": "2026-11-22T14:02:53.848522+00:00"
     }
   ],
-  "last_run": "2026-11-22T14:02:54.065053+00:00",
+  "last_run": "2026-11-22T14:32:46.904120+00:00",
   "total_notified": 13288,
   "channels": {
     "pm-jobs": [
@@ -26617,20 +26561,6 @@
       "url:https://zapply.jobs/l/d/workday-amat-external-R2634039"
     ],
     "swe-ai-full-time": [
-      "jobright-2dc497711235",
-      "url:https://jobright.ai/jobs/info/6adb545246a8cabdc1ff2567",
-      "jobright-e310cea58c47",
-      "url:https://jobright.ai/jobs/info/6a739d94e55c73319eb18689",
-      "gradtracker-5e829e10f58d",
-      "url:https://www.amazon.jobs/en/jobs/10587443/software-development-engineer-adc2s",
-      "gradtracker-a7a0fd61d089",
-      "url:https://www.amazon.jobs/en/jobs/10587444/software-development-engineer-adc2s",
-      "gradtracker-700d3b9a1401",
-      "url:https://www.amazon.jobs/en/jobs/10587463/software-development-engineer-adc2s",
-      "greenhouse-drweng-8303364",
-      "url:https://job-boards.greenhouse.io/drweng/jobs/8303364",
-      "greenhouse-sofi-8042391003",
-      "url:https://sofi.com/careers/job/8042391003",
       "jobright-052c287507cf",
       "url:https://jobright.ai/jobs/info/6a5f22f4d5c3a14fb34ec244",
       "jobright-98d5c06c52b8",
