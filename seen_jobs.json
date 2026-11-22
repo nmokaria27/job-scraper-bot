@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-benchling-7c32ac1e-3de3-462b-aa17-7618317f0da0",
-      "seen_at": "2026-10-23T22:01:42.975517+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0",
-      "seen_at": "2026-10-23T22:01:42.975854+00:00"
-    },
-    {
-      "id": "jobright-d3aa7f18663f",
-      "seen_at": "2026-10-23T22:01:48.414174+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adbbb0fc5c64fa3d9cb0e0b",
-      "seen_at": "2026-10-23T22:01:48.414446+00:00"
-    },
-    {
       "id": "ashby-sierra-4b28305d-e601-4328-a8f5-9f236bd718bd",
       "seen_at": "2026-10-23T22:31:21.711301+00:00"
     },
@@ -24891,14 +24875,36 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a427c4d6a9c2774b3fa628c",
       "seen_at": "2026-11-22T21:02:59.754901+00:00"
+    },
+    {
+      "id": "simplify-4b127fdd-f3a4-4234-9247-493a785c3c06",
+      "seen_at": "2026-11-22T22:33:05.053179+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1Gu",
+      "seen_at": "2026-11-22T22:33:05.053459+00:00"
+    },
+    {
+      "id": "simplify-09938999-48a9-4043-9c2e-efc50a18e5a6",
+      "seen_at": "2026-11-22T22:33:05.053702+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1Gw",
+      "seen_at": "2026-11-22T22:33:05.053925+00:00"
+    },
+    {
+      "id": "simplify-ed575980-8cfd-434e-869b-91f8f7eb7908",
+      "seen_at": "2026-11-22T22:33:05.054150+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1Gs",
+      "seen_at": "2026-11-22T22:33:05.054349+00:00"
     }
   ],
-  "last_run": "2026-11-22T22:02:56.908827+00:00",
-  "total_notified": 13312,
+  "last_run": "2026-11-22T22:33:06.209453+00:00",
+  "total_notified": 13315,
   "channels": {
     "pm-jobs": [
-      "jobright-d3aa7f18663f",
-      "url:https://jobright.ai/jobs/info/6adbbb0fc5c64fa3d9cb0e0b",
       "jobright-4c2201557517",
       "url:https://jobright.ai/jobs/info/6adbc8aa46a8cabdc1ff4bbf",
       "ashby-suno-06316e85-61ab-4562-83e2-fb27fad43734",
@@ -26047,8 +26053,6 @@
       "url:https://jobright.ai/jobs/info/6aac877295c707f49dff1aa5"
     ],
     "swe-ai-full-time": [
-      "ashby-benchling-7c32ac1e-3de3-462b-aa17-7618317f0da0",
-      "url:https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0",
       "ashby-sierra-4b28305d-e601-4328-a8f5-9f236bd718bd",
       "url:https://jobs.ashbyhq.com/sierra/4b28305d-e601-4328-a8f5-9f236bd718bd",
       "simplify-4aad94b7-19e6-4d69-8e9d-8fecfc34e591",
@@ -31007,7 +31011,13 @@
       "jobright-9a2f7e3e4062",
       "url:https://jobright.ai/jobs/info/6a4cb2ef35e45603c4bb1b4c",
       "jobright-b9589a3c59fd",
-      "url:https://jobright.ai/jobs/info/6a427c4d6a9c2774b3fa628c"
+      "url:https://jobright.ai/jobs/info/6a427c4d6a9c2774b3fa628c",
+      "simplify-4b127fdd-f3a4-4234-9247-493a785c3c06",
+      "url:https://go.vansh.nyc/1Gu",
+      "simplify-09938999-48a9-4043-9c2e-efc50a18e5a6",
+      "url:https://go.vansh.nyc/1Gw",
+      "simplify-ed575980-8cfd-434e-869b-91f8f7eb7908",
+      "url:https://go.vansh.nyc/1Gs"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
