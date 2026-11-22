@@ -1,94 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-67dece2a9590",
-      "seen_at": "2026-10-23T23:01:33.346216+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526418",
-      "seen_at": "2026-10-23T23:01:33.346759+00:00"
-    },
-    {
-      "id": "zapply-e2e5e90c9032",
-      "seen_at": "2026-10-23T23:01:33.347211+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-45ff7ec7-fec7-4e6e-aa05-8c9653f28c60",
-      "seen_at": "2026-10-23T23:01:33.347634+00:00"
-    },
-    {
-      "id": "jobright-ced5283d7ade",
-      "seen_at": "2026-10-23T23:01:33.348024+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adbd0c2389e06bb41ad45ea",
-      "seen_at": "2026-10-23T23:01:33.348413+00:00"
-    },
-    {
-      "id": "jobright-e01ca75ea887",
-      "seen_at": "2026-10-23T23:01:33.348816+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ada9b9d950ef68d518593e7",
-      "seen_at": "2026-10-23T23:01:33.349229+00:00"
-    },
-    {
-      "id": "amazon-10588066",
-      "seen_at": "2026-10-23T23:01:33.349627+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10588066/data-scientist-i-central-learning-solutions-science",
-      "seen_at": "2026-10-23T23:01:33.349982+00:00"
-    },
-    {
-      "id": "jobright-73700f96e581",
-      "seen_at": "2026-10-23T23:01:33.350340+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adbc8e85dc7953215a34794",
-      "seen_at": "2026-10-23T23:01:33.350726+00:00"
-    },
-    {
-      "id": "jobright-c16df8ca82ac",
-      "seen_at": "2026-10-23T23:01:33.351127+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a0b55fe538d03366dc8426e",
-      "seen_at": "2026-10-23T23:01:33.351512+00:00"
-    },
-    {
-      "id": "greenhouse-mercury-6233910004",
-      "seen_at": "2026-10-23T23:01:33.351913+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/mercury/jobs/6233910004",
-      "seen_at": "2026-10-23T23:01:33.352269+00:00"
-    },
-    {
-      "id": "greenhouse-gitlab-8771512002",
-      "seen_at": "2026-10-23T23:01:33.352636+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
-      "seen_at": "2026-10-23T23:01:33.353005+00:00"
-    },
-    {
-      "id": "jobright-4c2201557517",
-      "seen_at": "2026-10-23T23:01:37.895802+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adbc8aa46a8cabdc1ff4bbf",
-      "seen_at": "2026-10-23T23:01:37.896251+00:00"
-    },
-    {
-      "id": "ashby-suno-06316e85-61ab-4562-83e2-fb27fad43734",
-      "seen_at": "2026-10-23T23:01:37.896664+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/suno/06316e85-61ab-4562-83e2-fb27fad43734",
-      "seen_at": "2026-10-23T23:01:37.897020+00:00"
-    },
-    {
       "id": "simplify-9c419d63-e801-49ea-b32c-d22bcfcd2b97",
       "seen_at": "2026-10-23T23:31:18.249113+00:00"
     },
@@ -24861,14 +24773,10 @@
       "seen_at": "2026-11-22T22:33:05.054349+00:00"
     }
   ],
-  "last_run": "2026-11-22T23:02:52.122658+00:00",
+  "last_run": "2026-11-22T23:32:48.392479+00:00",
   "total_notified": 13315,
   "channels": {
     "pm-jobs": [
-      "jobright-4c2201557517",
-      "url:https://jobright.ai/jobs/info/6adbc8aa46a8cabdc1ff4bbf",
-      "ashby-suno-06316e85-61ab-4562-83e2-fb27fad43734",
-      "url:https://jobs.ashbyhq.com/suno/06316e85-61ab-4562-83e2-fb27fad43734",
       "zapply-f27f66c3cf3f",
       "url:https://zapply.jobs/l/d/oracle-honeywell-153612",
       "jobright-b5d4c435c1e0",
@@ -26013,24 +25921,6 @@
       "url:https://jobright.ai/jobs/info/6aac877295c707f49dff1aa5"
     ],
     "swe-ai-full-time": [
-      "zapply-67dece2a9590",
-      "url:https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526418",
-      "zapply-e2e5e90c9032",
-      "url:https://zapply.jobs/l/d/amazon-45ff7ec7-fec7-4e6e-aa05-8c9653f28c60",
-      "jobright-ced5283d7ade",
-      "url:https://jobright.ai/jobs/info/6adbd0c2389e06bb41ad45ea",
-      "jobright-e01ca75ea887",
-      "url:https://jobright.ai/jobs/info/6ada9b9d950ef68d518593e7",
-      "amazon-10588066",
-      "url:https://www.amazon.jobs/en/jobs/10588066/data-scientist-i-central-learning-solutions-science",
-      "jobright-73700f96e581",
-      "url:https://jobright.ai/jobs/info/6adbc8e85dc7953215a34794",
-      "jobright-c16df8ca82ac",
-      "url:https://jobright.ai/jobs/info/6a0b55fe538d03366dc8426e",
-      "greenhouse-mercury-6233910004",
-      "url:https://job-boards.greenhouse.io/mercury/jobs/6233910004",
-      "greenhouse-gitlab-8771512002",
-      "url:https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
       "simplify-9c419d63-e801-49ea-b32c-d22bcfcd2b97",
       "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
       "gradtracker-7d7254b3f831",
