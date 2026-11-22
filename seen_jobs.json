@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-33b3ae755196",
-      "seen_at": "2026-10-23T17:01:40.036603+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adb750746a8cabdc1ff2edb",
-      "seen_at": "2026-10-23T17:01:40.036935+00:00"
-    },
-    {
-      "id": "amazon-10587677",
-      "seen_at": "2026-10-23T17:01:40.037215+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10587677/software-development-engineer-tax-central-ai-engineering",
-      "seen_at": "2026-10-23T17:01:40.037471+00:00"
-    },
-    {
-      "id": "jobright-05dd6edab406",
-      "seen_at": "2026-10-23T17:01:40.037712+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adb7164c5c64fa3d9caf578",
-      "seen_at": "2026-10-23T17:01:40.037949+00:00"
-    },
-    {
-      "id": "zapply-5a7824ffa120",
-      "seen_at": "2026-10-23T17:01:46.247080+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-emerson-electric-26012426",
-      "seen_at": "2026-10-23T17:01:46.247396+00:00"
-    },
-    {
-      "id": "zapply-09ab46eab8be",
-      "seen_at": "2026-10-23T17:01:46.247641+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-swa-external-R-2026-70458",
-      "seen_at": "2026-10-23T17:01:46.247866+00:00"
-    },
-    {
       "id": "ashby-snowflake-e56587dc-dc46-43e5-a93e-94d479fdb754",
       "seen_at": "2026-10-23T17:31:27.279095+00:00"
     },
@@ -25147,16 +25107,60 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aac877295c707f49dff1aa5",
       "seen_at": "2026-11-22T17:02:52.932961+00:00"
+    },
+    {
+      "id": "ashby-openai-6785d983-8831-46d0-9c81-443f83664948",
+      "seen_at": "2026-11-22T17:33:06.887064+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948",
+      "seen_at": "2026-11-22T17:33:06.887434+00:00"
+    },
+    {
+      "id": "ashby-openai-740b5d1b-f63d-49bb-962d-8e2778e925ef",
+      "seen_at": "2026-11-22T17:33:06.887777+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/740b5d1b-f63d-49bb-962d-8e2778e925ef",
+      "seen_at": "2026-11-22T17:33:06.888079+00:00"
+    },
+    {
+      "id": "ashby-openai-ecfe655c-1369-4bcd-aae0-4a3b75fdf61b",
+      "seen_at": "2026-11-22T17:33:06.888373+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/ecfe655c-1369-4bcd-aae0-4a3b75fdf61b",
+      "seen_at": "2026-11-22T17:33:06.888659+00:00"
+    },
+    {
+      "id": "ashby-openai-bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+      "seen_at": "2026-11-22T17:33:06.888935+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+      "seen_at": "2026-11-22T17:33:06.889189+00:00"
+    },
+    {
+      "id": "ashby-openai-d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+      "seen_at": "2026-11-22T17:33:06.889441+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+      "seen_at": "2026-11-22T17:33:06.889720+00:00"
+    },
+    {
+      "id": "ashby-openai-ce15d226-65db-43f1-98ec-078e96a3a281",
+      "seen_at": "2026-11-22T17:33:06.889998+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/openai/ce15d226-65db-43f1-98ec-078e96a3a281",
+      "seen_at": "2026-11-22T17:33:06.890261+00:00"
     }
   ],
-  "last_run": "2026-11-22T17:02:55.180404+00:00",
-  "total_notified": 13290,
+  "last_run": "2026-11-22T17:33:07.947851+00:00",
+  "total_notified": 13296,
   "channels": {
     "pm-jobs": [
-      "zapply-5a7824ffa120",
-      "url:https://zapply.jobs/l/d/oracle-emerson-electric-26012426",
-      "zapply-09ab46eab8be",
-      "url:https://zapply.jobs/l/d/workday-swa-external-R-2026-70458",
       "simplify-1aca142d-fcc8-4cfe-b6c6-d06c5b55c36f",
       "url:https://job-boards.greenhouse.io/addepar1/jobs/8910404002",
       "jobright-24c347cc75f7",
@@ -26331,12 +26335,6 @@
       "url:https://jobright.ai/jobs/info/6aac877295c707f49dff1aa5"
     ],
     "swe-ai-full-time": [
-      "jobright-33b3ae755196",
-      "url:https://jobright.ai/jobs/info/6adb750746a8cabdc1ff2edb",
-      "amazon-10587677",
-      "url:https://www.amazon.jobs/en/jobs/10587677/software-development-engineer-tax-central-ai-engineering",
-      "jobright-05dd6edab406",
-      "url:https://jobright.ai/jobs/info/6adb7164c5c64fa3d9caf578",
       "ashby-snowflake-e56587dc-dc46-43e5-a93e-94d479fdb754",
       "url:https://jobs.ashbyhq.com/snowflake/e56587dc-dc46-43e5-a93e-94d479fdb754",
       "ashby-openai-191e42f8-cd62-4082-8f72-505c26505e67",
@@ -31328,7 +31326,19 @@
       "jobright-0e6248755c59",
       "url:https://jobright.ai/jobs/info/6b02e318c35a3d9ff8f487de",
       "jobright-0146a6525b02",
-      "url:https://jobright.ai/jobs/info/6a764b6e67a1ad0bc53c9c35"
+      "url:https://jobright.ai/jobs/info/6a764b6e67a1ad0bc53c9c35",
+      "ashby-openai-6785d983-8831-46d0-9c81-443f83664948",
+      "url:https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948",
+      "ashby-openai-740b5d1b-f63d-49bb-962d-8e2778e925ef",
+      "url:https://jobs.ashbyhq.com/openai/740b5d1b-f63d-49bb-962d-8e2778e925ef",
+      "ashby-openai-ecfe655c-1369-4bcd-aae0-4a3b75fdf61b",
+      "url:https://jobs.ashbyhq.com/openai/ecfe655c-1369-4bcd-aae0-4a3b75fdf61b",
+      "ashby-openai-bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+      "url:https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+      "ashby-openai-d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+      "url:https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+      "ashby-openai-ce15d226-65db-43f1-98ec-078e96a3a281",
+      "url:https://jobs.ashbyhq.com/openai/ce15d226-65db-43f1-98ec-078e96a3a281"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
