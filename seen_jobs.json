@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-assemblyai-4747365005",
-      "seen_at": "2026-10-23T21:31:22.944470+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747365005",
-      "seen_at": "2026-10-23T21:31:22.944802+00:00"
-    },
-    {
-      "id": "greenhouse-assemblyai-4747340005",
-      "seen_at": "2026-10-23T21:31:22.945092+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747340005",
-      "seen_at": "2026-10-23T21:31:22.945336+00:00"
-    },
-    {
       "id": "ashby-benchling-7c32ac1e-3de3-462b-aa17-7618317f0da0",
       "seen_at": "2026-10-23T22:01:42.975517+00:00"
     },
@@ -24909,7 +24893,7 @@
       "seen_at": "2026-11-22T21:02:59.754901+00:00"
     }
   ],
-  "last_run": "2026-11-22T21:32:47.296506+00:00",
+  "last_run": "2026-11-22T22:02:56.908827+00:00",
   "total_notified": 13312,
   "channels": {
     "pm-jobs": [
@@ -26063,10 +26047,6 @@
       "url:https://jobright.ai/jobs/info/6aac877295c707f49dff1aa5"
     ],
     "swe-ai-full-time": [
-      "greenhouse-assemblyai-4747365005",
-      "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747365005",
-      "greenhouse-assemblyai-4747340005",
-      "url:https://job-boards.greenhouse.io/assemblyai/jobs/4747340005",
       "ashby-benchling-7c32ac1e-3de3-462b-aa17-7618317f0da0",
       "url:https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0",
       "ashby-sierra-4b28305d-e601-4328-a8f5-9f236bd718bd",
