@@ -24707,10 +24707,58 @@
     {
       "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR365253-1",
       "seen_at": "2026-11-23T17:33:40.986538+00:00"
+    },
+    {
+      "id": "greenhouse-figma-6265726004",
+      "seen_at": "2026-11-23T18:03:12.568628+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/figma/jobs/6265726004",
+      "seen_at": "2026-11-23T18:03:12.569116+00:00"
+    },
+    {
+      "id": "greenhouse-togetherai-5302781007",
+      "seen_at": "2026-11-23T18:03:12.569570+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/togetherai/jobs/5302781007",
+      "seen_at": "2026-11-23T18:03:12.570015+00:00"
+    },
+    {
+      "id": "jobright-c2377e0fa3d3",
+      "seen_at": "2026-11-23T18:03:12.570417+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a52c0efe726ec56126a450c",
+      "seen_at": "2026-11-23T18:03:12.570815+00:00"
+    },
+    {
+      "id": "jobright-2244f7f31609",
+      "seen_at": "2026-11-23T18:03:12.571239+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a93cbf73603630099199105",
+      "seen_at": "2026-11-23T18:03:12.571638+00:00"
+    },
+    {
+      "id": "jobright-ea8d6e979c3a",
+      "seen_at": "2026-11-23T18:03:12.572050+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0464c421f0a1e0c849a720",
+      "seen_at": "2026-11-23T18:03:12.572445+00:00"
+    },
+    {
+      "id": "amazon-10611635",
+      "seen_at": "2026-11-23T18:03:12.572856+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10611635/software-development-engineer-data",
+      "seen_at": "2026-11-23T18:03:12.573241+00:00"
     }
   ],
-  "last_run": "2026-11-23T17:33:42.258986+00:00",
-  "total_notified": 13344,
+  "last_run": "2026-11-23T18:03:14.276256+00:00",
+  "total_notified": 13350,
   "channels": {
     "pm-jobs": [
       "jobright-3ea0fe940a78",
@@ -30767,7 +30815,19 @@
       "amazon-10611508",
       "url:https://www.amazon.jobs/en/jobs/10611508/software-development-engineer",
       "workday-salesforce-JR365253",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR365253-1"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR365253-1",
+      "greenhouse-figma-6265726004",
+      "url:https://boards.greenhouse.io/figma/jobs/6265726004",
+      "greenhouse-togetherai-5302781007",
+      "url:https://job-boards.greenhouse.io/togetherai/jobs/5302781007",
+      "jobright-c2377e0fa3d3",
+      "url:https://jobright.ai/jobs/info/6a52c0efe726ec56126a450c",
+      "jobright-2244f7f31609",
+      "url:https://jobright.ai/jobs/info/6a93cbf73603630099199105",
+      "jobright-ea8d6e979c3a",
+      "url:https://jobright.ai/jobs/info/6b0464c421f0a1e0c849a720",
+      "amazon-10611635",
+      "url:https://www.amazon.jobs/en/jobs/10611635/software-development-engineer-data"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
