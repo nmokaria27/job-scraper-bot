@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-437b7719e9b7",
-      "seen_at": "2026-10-24T00:01:40.895143+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adbd81ec5c64fa3d9cb1d17",
-      "seen_at": "2026-10-24T00:01:40.895750+00:00"
-    },
-    {
       "id": "greenhouse-togetherai-5274195007",
       "seen_at": "2026-10-24T00:31:19.161421+00:00"
     },
@@ -24733,7 +24725,7 @@
       "seen_at": "2026-11-22T22:33:05.054349+00:00"
     }
   ],
-  "last_run": "2026-11-23T00:02:54.245840+00:00",
+  "last_run": "2026-11-23T00:15:07.094379+00:00",
   "total_notified": 13315,
   "channels": {
     "pm-jobs": [
@@ -25879,8 +25871,6 @@
       "url:https://jobright.ai/jobs/info/6aac877295c707f49dff1aa5"
     ],
     "swe-ai-full-time": [
-      "jobright-437b7719e9b7",
-      "url:https://jobright.ai/jobs/info/6adbd81ec5c64fa3d9cb1d17",
       "greenhouse-togetherai-5274195007",
       "url:https://job-boards.greenhouse.io/togetherai/jobs/5274195007",
       "jobright-16ff67e4a844",
