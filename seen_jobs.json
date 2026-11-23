@@ -24755,10 +24755,82 @@
     {
       "id": "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Management--GenAI-Platforms_R1004353-1",
       "seen_at": "2026-11-23T18:33:20.809480+00:00"
+    },
+    {
+      "id": "jobright-07afeafc24ec",
+      "seen_at": "2026-11-23T19:03:19.852595+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b046df4c8533c23e3c35b57",
+      "seen_at": "2026-11-23T19:03:19.853053+00:00"
+    },
+    {
+      "id": "jobright-e36d7de3878c",
+      "seen_at": "2026-11-23T19:03:19.853433+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b046af34c822a415e67076a",
+      "seen_at": "2026-11-23T19:03:19.853761+00:00"
+    },
+    {
+      "id": "jobright-9725b46a3209",
+      "seen_at": "2026-11-23T19:03:21.229668+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0472e3c8533c23e3c35f1a",
+      "seen_at": "2026-11-23T19:03:21.230182+00:00"
+    },
+    {
+      "id": "jobright-8d7be05f2553",
+      "seen_at": "2026-11-23T19:03:21.230595+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a5a6da3686b4755d1e15113",
+      "seen_at": "2026-11-23T19:03:21.230978+00:00"
+    },
+    {
+      "id": "jobright-264a356797f6",
+      "seen_at": "2026-11-23T19:03:21.231380+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a93c868c12c90443efccb0e",
+      "seen_at": "2026-11-23T19:03:21.231730+00:00"
+    },
+    {
+      "id": "amazon-10611895",
+      "seen_at": "2026-11-23T19:03:21.232086+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10611895/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+      "seen_at": "2026-11-23T19:03:21.232451+00:00"
+    },
+    {
+      "id": "jobright-3b3d738faaaa",
+      "seen_at": "2026-11-23T19:03:23.187269+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b046db121f0a1e0c849adba",
+      "seen_at": "2026-11-23T19:03:23.187740+00:00"
+    },
+    {
+      "id": "jobright-e46369edfcde",
+      "seen_at": "2026-11-23T19:03:23.188060+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b046b8d566251ad7b861977",
+      "seen_at": "2026-11-23T19:03:23.188385+00:00"
+    },
+    {
+      "id": "jobright-625b850e73bf",
+      "seen_at": "2026-11-23T19:03:23.188699+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b046f35526905eb2bcf6fd6",
+      "seen_at": "2026-11-23T19:03:23.188986+00:00"
     }
   ],
-  "last_run": "2026-11-23T18:33:23.681192+00:00",
-  "total_notified": 13353,
+  "last_run": "2026-11-23T19:03:23.463435+00:00",
+  "total_notified": 13362,
   "channels": {
     "pm-jobs": [
       "jobright-3ea0fe940a78",
@@ -25908,7 +25980,11 @@
       "zapply-a316ad3ad299",
       "url:https://zapply.jobs/l/d/sr-NBCUniversal3-744000163291799",
       "workday-capitalone-R1004353",
-      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Management--GenAI-Platforms_R1004353-1"
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Management--GenAI-Platforms_R1004353-1",
+      "jobright-07afeafc24ec",
+      "url:https://jobright.ai/jobs/info/6b046df4c8533c23e3c35b57",
+      "jobright-e36d7de3878c",
+      "url:https://jobright.ai/jobs/info/6b046af34c822a415e67076a"
     ],
     "swe-ai-full-time": [
       "jobright-89f635504a1c",
@@ -30829,7 +30905,15 @@
       "amazon-10611635",
       "url:https://www.amazon.jobs/en/jobs/10611635/software-development-engineer-data",
       "workday-capitalone-R1004353",
-      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Management--GenAI-Platforms_R1004353-1"
+      "url:https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Management--GenAI-Platforms_R1004353-1",
+      "jobright-9725b46a3209",
+      "url:https://jobright.ai/jobs/info/6b0472e3c8533c23e3c35f1a",
+      "jobright-8d7be05f2553",
+      "url:https://jobright.ai/jobs/info/6a5a6da3686b4755d1e15113",
+      "jobright-264a356797f6",
+      "url:https://jobright.ai/jobs/info/6a93c868c12c90443efccb0e",
+      "amazon-10611895",
+      "url:https://www.amazon.jobs/en/jobs/10611895/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -30959,7 +31043,13 @@
       "jobright-cc0f5b12a2ac",
       "url:https://jobright.ai/jobs/info/6b044f97c8533c23e3c34a88",
       "jobright-d02762e309a1",
-      "url:https://jobright.ai/jobs/info/6b045c0e21f0a1e0c849a349"
+      "url:https://jobright.ai/jobs/info/6b045c0e21f0a1e0c849a349",
+      "jobright-3b3d738faaaa",
+      "url:https://jobright.ai/jobs/info/6b046db121f0a1e0c849adba",
+      "jobright-e46369edfcde",
+      "url:https://jobright.ai/jobs/info/6b046b8d566251ad7b861977",
+      "jobright-625b850e73bf",
+      "url:https://jobright.ai/jobs/info/6b046f35526905eb2bcf6fd6"
     ]
   }
 }
