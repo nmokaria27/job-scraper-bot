@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-supabase-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
-      "seen_at": "2026-10-24T16:31:18.050889+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
-      "seen_at": "2026-10-24T16:31:18.051294+00:00"
-    },
-    {
-      "id": "ashby-supabase-950e8ffc-79a5-4626-b1dd-115fcbcddad0",
-      "seen_at": "2026-10-24T16:31:18.051630+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
-      "seen_at": "2026-10-24T16:31:18.051945+00:00"
-    },
-    {
-      "id": "zapply-3cc3bd0ddd2b",
-      "seen_at": "2026-10-24T16:31:21.813881+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-emerson-electric-26012178",
-      "seen_at": "2026-10-24T16:31:21.814223+00:00"
-    },
-    {
       "id": "greenhouse-reddit-8319655",
       "seen_at": "2026-10-24T17:01:21.081847+00:00"
     },
@@ -24683,14 +24659,36 @@
     {
       "id": "url:https://go.vansh.nyc/1GR",
       "seen_at": "2026-11-23T16:33:21.754500+00:00"
+    },
+    {
+      "id": "zapply-9b1e95342aeb",
+      "seen_at": "2026-11-23T17:03:19.498702+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR365253",
+      "seen_at": "2026-11-23T17:03:19.499217+00:00"
+    },
+    {
+      "id": "amazon-10611446",
+      "seen_at": "2026-11-23T17:03:19.499660+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10611446/software-development-engineer-region-reliability-engineering",
+      "seen_at": "2026-11-23T17:03:19.500065+00:00"
+    },
+    {
+      "id": "jobright-d02762e309a1",
+      "seen_at": "2026-11-23T17:03:22.114817+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b045c0e21f0a1e0c849a349",
+      "seen_at": "2026-11-23T17:03:22.115280+00:00"
     }
   ],
-  "last_run": "2026-11-23T16:33:23.018258+00:00",
-  "total_notified": 13337,
+  "last_run": "2026-11-23T17:03:22.354267+00:00",
+  "total_notified": 13340,
   "channels": {
     "pm-jobs": [
-      "zapply-3cc3bd0ddd2b",
-      "url:https://zapply.jobs/l/d/oracle-emerson-electric-26012178",
       "jobright-3ea0fe940a78",
       "url:https://jobright.ai/jobs/info/6ac54391372c01f6cd738925",
       "jobright-963bb360f585",
@@ -25837,10 +25835,6 @@
       "url:https://zapply.jobs/l/d/workday-wustl-external-JR98828"
     ],
     "swe-ai-full-time": [
-      "ashby-supabase-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
-      "url:https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
-      "ashby-supabase-950e8ffc-79a5-4626-b1dd-115fcbcddad0",
-      "url:https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
       "greenhouse-reddit-8319655",
       "url:https://job-boards.greenhouse.io/reddit/jobs/8319655",
       "jobright-5299774348f6",
@@ -30739,7 +30733,11 @@
       "simplify-5b7a91e8-86e8-400b-98fc-90a9793ab6e4",
       "url:https://wyetech.applytojob.com/apply/xzmg4UGLyj/SWE-0-Software-Engineer",
       "simplify-63a56c69-391e-4b00-88b2-7112ae12f606",
-      "url:https://go.vansh.nyc/1GR"
+      "url:https://go.vansh.nyc/1GR",
+      "zapply-9b1e95342aeb",
+      "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR365253",
+      "amazon-10611446",
+      "url:https://www.amazon.jobs/en/jobs/10611446/software-development-engineer-region-reliability-engineering"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -30867,7 +30865,9 @@
       "jobright-e60d0206f770",
       "url:https://jobright.ai/jobs/info/6ae81eea77c09cb3bd4b9e0b",
       "jobright-cc0f5b12a2ac",
-      "url:https://jobright.ai/jobs/info/6b044f97c8533c23e3c34a88"
+      "url:https://jobright.ai/jobs/info/6b044f97c8533c23e3c34a88",
+      "jobright-d02762e309a1",
+      "url:https://jobright.ai/jobs/info/6b045c0e21f0a1e0c849a349"
     ]
   }
 }
