@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-89c1a2ba33cc",
-      "seen_at": "2026-10-24T11:31:09.148896+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a3ec06bd261407de98044fa",
-      "seen_at": "2026-10-24T11:31:09.149515+00:00"
-    },
-    {
       "id": "jobright-6395c7fe287a",
       "seen_at": "2026-10-24T12:01:24.287270+00:00"
     },
@@ -24651,10 +24643,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b03e02bba759e898387be68",
       "seen_at": "2026-11-23T11:03:02.824122+00:00"
+    },
+    {
+      "id": "jobright-f9324b42789e",
+      "seen_at": "2026-11-23T12:03:08.761674+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b04188521f0a1e0c8499161",
+      "seen_at": "2026-11-23T12:03:08.762046+00:00"
     }
   ],
-  "last_run": "2026-11-23T11:33:01.734373+00:00",
-  "total_notified": 13319,
+  "last_run": "2026-11-23T12:03:09.878696+00:00",
+  "total_notified": 13320,
   "channels": {
     "pm-jobs": [
       "zapply-3cc3bd0ddd2b",
@@ -25799,8 +25799,6 @@
       "url:https://zapply.jobs/l/d/amd-99629"
     ],
     "swe-ai-full-time": [
-      "jobright-89c1a2ba33cc",
-      "url:https://jobright.ai/jobs/info/6a3ec06bd261407de98044fa",
       "jobright-6395c7fe287a",
       "url:https://jobright.ai/jobs/info/6adc7b109e3e874dbfba43e2",
       "jobright-3ab106532efa",
@@ -30707,7 +30705,9 @@
       "jobright-531943f5bf27",
       "url:https://jobright.ai/jobs/info/6ac8bdcac3a8af9c54a07930",
       "jobright-8c4c3a94f36a",
-      "url:https://jobright.ai/jobs/info/6b03e02bba759e898387be68"
+      "url:https://jobright.ai/jobs/info/6b03e02bba759e898387be68",
+      "jobright-f9324b42789e",
+      "url:https://jobright.ai/jobs/info/6b04188521f0a1e0c8499161"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
