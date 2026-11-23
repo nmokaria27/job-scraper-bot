@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-d763bb06-d48a-42d3-b6b1-c943443fc462",
-      "seen_at": "2026-10-24T03:31:13.674481+00:00"
-    },
-    {
-      "id": "url:https://jobs.smartrecruiters.com/ServiceNow/744000157570319",
-      "seen_at": "2026-10-24T03:31:13.674915+00:00"
-    },
-    {
       "id": "jobright-de428363480d",
       "seen_at": "2026-10-24T10:01:48.313859+00:00"
     },
@@ -24699,10 +24691,18 @@
     {
       "id": "url:https://go.vansh.nyc/1Gs",
       "seen_at": "2026-11-22T22:33:05.054349+00:00"
+    },
+    {
+      "id": "jobright-531943f5bf27",
+      "seen_at": "2026-11-23T04:03:04.729160+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac8bdcac3a8af9c54a07930",
+      "seen_at": "2026-11-23T04:03:04.729668+00:00"
     }
   ],
-  "last_run": "2026-11-23T03:32:52.133975+00:00",
-  "total_notified": 13315,
+  "last_run": "2026-11-23T04:03:05.693425+00:00",
+  "total_notified": 13316,
   "channels": {
     "pm-jobs": [
       "jobright-b5d4c435c1e0",
@@ -25847,8 +25847,6 @@
       "url:https://jobright.ai/jobs/info/6aac877295c707f49dff1aa5"
     ],
     "swe-ai-full-time": [
-      "simplify-d763bb06-d48a-42d3-b6b1-c943443fc462",
-      "url:https://jobs.smartrecruiters.com/ServiceNow/744000157570319",
       "jobright-de428363480d",
       "url:https://jobright.ai/jobs/info/6ac9864a6355f8776ff194e7",
       "jobright-e59bb5bea2fd",
@@ -30767,7 +30765,9 @@
       "simplify-09938999-48a9-4043-9c2e-efc50a18e5a6",
       "url:https://go.vansh.nyc/1Gw",
       "simplify-ed575980-8cfd-434e-869b-91f8f7eb7908",
-      "url:https://go.vansh.nyc/1Gs"
+      "url:https://go.vansh.nyc/1Gs",
+      "jobright-531943f5bf27",
+      "url:https://jobright.ai/jobs/info/6ac8bdcac3a8af9c54a07930"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
