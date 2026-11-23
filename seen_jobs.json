@@ -1,46 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-7fe55291233a",
-      "seen_at": "2026-10-24T16:01:22.267246+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad561ce25289a0b3bf5ee9c",
-      "seen_at": "2026-10-24T16:01:22.267905+00:00"
-    },
-    {
-      "id": "jobright-997cd513b658",
-      "seen_at": "2026-10-24T16:01:22.268491+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a539d338a74e077472f8fa3",
-      "seen_at": "2026-10-24T16:01:22.268939+00:00"
-    },
-    {
-      "id": "jobright-d9c5e16acd60",
-      "seen_at": "2026-10-24T16:01:22.269384+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a445911b156014e414bc46b",
-      "seen_at": "2026-10-24T16:01:22.269840+00:00"
-    },
-    {
-      "id": "jobright-bdc999f8204a",
-      "seen_at": "2026-10-24T16:01:22.270281+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a87a5ab680f314a29d3a0b0",
-      "seen_at": "2026-10-24T16:01:22.270709+00:00"
-    },
-    {
-      "id": "jobright-c349e8f5cc68",
-      "seen_at": "2026-10-24T16:01:22.271182+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ad7d9ce3dc655658d8f0da0",
-      "seen_at": "2026-10-24T16:01:22.271613+00:00"
-    },
-    {
       "id": "ashby-supabase-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
       "seen_at": "2026-10-24T16:31:18.050889+00:00"
     },
@@ -24699,10 +24659,34 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b044f97c8533c23e3c34a88",
       "seen_at": "2026-11-23T16:03:25.312831+00:00"
+    },
+    {
+      "id": "zapply-4b3e94bb64db",
+      "seen_at": "2026-11-23T16:33:20.186212+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-wustl-external-JR98828",
+      "seen_at": "2026-11-23T16:33:20.186493+00:00"
+    },
+    {
+      "id": "simplify-5b7a91e8-86e8-400b-98fc-90a9793ab6e4",
+      "seen_at": "2026-11-23T16:33:21.753679+00:00"
+    },
+    {
+      "id": "url:https://wyetech.applytojob.com/apply/xzmg4UGLyj/SWE-0-Software-Engineer",
+      "seen_at": "2026-11-23T16:33:21.753998+00:00"
+    },
+    {
+      "id": "simplify-63a56c69-391e-4b00-88b2-7112ae12f606",
+      "seen_at": "2026-11-23T16:33:21.754256+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1GR",
+      "seen_at": "2026-11-23T16:33:21.754500+00:00"
     }
   ],
-  "last_run": "2026-11-23T16:03:25.672631+00:00",
-  "total_notified": 13334,
+  "last_run": "2026-11-23T16:33:23.018258+00:00",
+  "total_notified": 13337,
   "channels": {
     "pm-jobs": [
       "zapply-3cc3bd0ddd2b",
@@ -25848,19 +25832,11 @@
       "zapply-9be7dce2ce8a",
       "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10397243",
       "zapply-c83b39eeb56c",
-      "url:https://zapply.jobs/l/d/oracle-oracle-349896"
+      "url:https://zapply.jobs/l/d/oracle-oracle-349896",
+      "zapply-4b3e94bb64db",
+      "url:https://zapply.jobs/l/d/workday-wustl-external-JR98828"
     ],
     "swe-ai-full-time": [
-      "jobright-7fe55291233a",
-      "url:https://jobright.ai/jobs/info/6ad561ce25289a0b3bf5ee9c",
-      "jobright-997cd513b658",
-      "url:https://jobright.ai/jobs/info/6a539d338a74e077472f8fa3",
-      "jobright-d9c5e16acd60",
-      "url:https://jobright.ai/jobs/info/6a445911b156014e414bc46b",
-      "jobright-bdc999f8204a",
-      "url:https://jobright.ai/jobs/info/6a87a5ab680f314a29d3a0b0",
-      "jobright-c349e8f5cc68",
-      "url:https://jobright.ai/jobs/info/6ad7d9ce3dc655658d8f0da0",
       "ashby-supabase-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
       "url:https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
       "ashby-supabase-950e8ffc-79a5-4626-b1dd-115fcbcddad0",
@@ -30759,7 +30735,11 @@
       "jobright-418de2cf2c64",
       "url:https://jobright.ai/jobs/info/6ac53fc3372c01f6cd73875e",
       "jobright-a974527680e4",
-      "url:https://jobright.ai/jobs/info/6b04470aa72582cade08c2d5"
+      "url:https://jobright.ai/jobs/info/6b04470aa72582cade08c2d5",
+      "simplify-5b7a91e8-86e8-400b-98fc-90a9793ab6e4",
+      "url:https://wyetech.applytojob.com/apply/xzmg4UGLyj/SWE-0-Software-Engineer",
+      "simplify-63a56c69-391e-4b00-88b2-7112ae12f606",
+      "url:https://go.vansh.nyc/1GR"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
