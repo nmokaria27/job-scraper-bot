@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-reddit-8319655",
-      "seen_at": "2026-10-24T17:01:21.081847+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/reddit/jobs/8319655",
-      "seen_at": "2026-10-24T17:01:21.082360+00:00"
-    },
-    {
       "id": "jobright-5299774348f6",
       "seen_at": "2026-10-24T18:01:18.038927+00:00"
     },
@@ -24683,10 +24675,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b045c0e21f0a1e0c849a349",
       "seen_at": "2026-11-23T17:03:22.115280+00:00"
+    },
+    {
+      "id": "zapply-e93b960fcaf0",
+      "seen_at": "2026-11-23T17:33:40.983906+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-analogdevices-external-R269503",
+      "seen_at": "2026-11-23T17:33:40.984441+00:00"
+    },
+    {
+      "id": "greenhouse-roblox-8395051",
+      "seen_at": "2026-11-23T17:33:40.984818+00:00"
+    },
+    {
+      "id": "url:https://careers.roblox.com/jobs/8395051",
+      "seen_at": "2026-11-23T17:33:40.985181+00:00"
+    },
+    {
+      "id": "amazon-10611508",
+      "seen_at": "2026-11-23T17:33:40.985524+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10611508/software-development-engineer",
+      "seen_at": "2026-11-23T17:33:40.985851+00:00"
+    },
+    {
+      "id": "workday-salesforce-JR365253",
+      "seen_at": "2026-11-23T17:33:40.986214+00:00"
+    },
+    {
+      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR365253-1",
+      "seen_at": "2026-11-23T17:33:40.986538+00:00"
     }
   ],
-  "last_run": "2026-11-23T17:03:22.354267+00:00",
-  "total_notified": 13340,
+  "last_run": "2026-11-23T17:33:42.258986+00:00",
+  "total_notified": 13344,
   "channels": {
     "pm-jobs": [
       "jobright-3ea0fe940a78",
@@ -25835,8 +25859,6 @@
       "url:https://zapply.jobs/l/d/workday-wustl-external-JR98828"
     ],
     "swe-ai-full-time": [
-      "greenhouse-reddit-8319655",
-      "url:https://job-boards.greenhouse.io/reddit/jobs/8319655",
       "jobright-5299774348f6",
       "url:https://jobright.ai/jobs/info/6adbf2ea46a8cabdc1ff5c8f",
       "jobright-5f53abb6b25f",
@@ -30737,7 +30759,15 @@
       "zapply-9b1e95342aeb",
       "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR365253",
       "amazon-10611446",
-      "url:https://www.amazon.jobs/en/jobs/10611446/software-development-engineer-region-reliability-engineering"
+      "url:https://www.amazon.jobs/en/jobs/10611446/software-development-engineer-region-reliability-engineering",
+      "zapply-e93b960fcaf0",
+      "url:https://zapply.jobs/l/d/workday-analogdevices-external-R269503",
+      "greenhouse-roblox-8395051",
+      "url:https://careers.roblox.com/jobs/8395051",
+      "amazon-10611508",
+      "url:https://www.amazon.jobs/en/jobs/10611508/software-development-engineer",
+      "workday-salesforce-JR365253",
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR365253-1"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
