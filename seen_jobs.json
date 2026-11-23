@@ -24659,10 +24659,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b043a4f4c822a415e66f423",
       "seen_at": "2026-11-23T15:03:23.943515+00:00"
+    },
+    {
+      "id": "zapply-c83b39eeb56c",
+      "seen_at": "2026-11-23T16:03:20.779065+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-oracle-349896",
+      "seen_at": "2026-11-23T16:03:20.779558+00:00"
+    },
+    {
+      "id": "jobright-126b705efe9a",
+      "seen_at": "2026-11-23T16:03:22.779883+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b044bdfc8533c23e3c348a1",
+      "seen_at": "2026-11-23T16:03:22.780417+00:00"
+    },
+    {
+      "id": "jobright-418de2cf2c64",
+      "seen_at": "2026-11-23T16:03:22.780895+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac53fc3372c01f6cd73875e",
+      "seen_at": "2026-11-23T16:03:22.781312+00:00"
+    },
+    {
+      "id": "jobright-a974527680e4",
+      "seen_at": "2026-11-23T16:03:22.781740+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b04470aa72582cade08c2d5",
+      "seen_at": "2026-11-23T16:03:22.782147+00:00"
+    },
+    {
+      "id": "jobright-cc0f5b12a2ac",
+      "seen_at": "2026-11-23T16:03:25.312322+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b044f97c8533c23e3c34a88",
+      "seen_at": "2026-11-23T16:03:25.312831+00:00"
     }
   ],
-  "last_run": "2026-11-23T15:33:15.099437+00:00",
-  "total_notified": 13329,
+  "last_run": "2026-11-23T16:03:25.672631+00:00",
+  "total_notified": 13334,
   "channels": {
     "pm-jobs": [
       "zapply-3cc3bd0ddd2b",
@@ -25806,7 +25846,9 @@
       "zapply-d06457cd35f2",
       "url:https://zapply.jobs/l/d/amd-99629",
       "zapply-9be7dce2ce8a",
-      "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10397243"
+      "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10397243",
+      "zapply-c83b39eeb56c",
+      "url:https://zapply.jobs/l/d/oracle-oracle-349896"
     ],
     "swe-ai-full-time": [
       "jobright-7fe55291233a",
@@ -30711,7 +30753,13 @@
       "jobright-594b93f3051b",
       "url:https://jobright.ai/jobs/info/6a760453a26ccc369f833373",
       "jobright-3cb8f0f8c065",
-      "url:https://jobright.ai/jobs/info/6b043a4f4c822a415e66f423"
+      "url:https://jobright.ai/jobs/info/6b043a4f4c822a415e66f423",
+      "jobright-126b705efe9a",
+      "url:https://jobright.ai/jobs/info/6b044bdfc8533c23e3c348a1",
+      "jobright-418de2cf2c64",
+      "url:https://jobright.ai/jobs/info/6ac53fc3372c01f6cd73875e",
+      "jobright-a974527680e4",
+      "url:https://jobright.ai/jobs/info/6b04470aa72582cade08c2d5"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -30837,7 +30885,9 @@
       "jobright-554ddd4aa1e7",
       "url:https://jobright.ai/jobs/info/6ae861c0a2a252e2194269bb",
       "jobright-e60d0206f770",
-      "url:https://jobright.ai/jobs/info/6ae81eea77c09cb3bd4b9e0b"
+      "url:https://jobright.ai/jobs/info/6ae81eea77c09cb3bd4b9e0b",
+      "jobright-cc0f5b12a2ac",
+      "url:https://jobright.ai/jobs/info/6b044f97c8533c23e3c34a88"
     ]
   }
 }
