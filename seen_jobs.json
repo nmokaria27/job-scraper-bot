@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-perplexity-cc22684f-b419-4ab8-8aa0-b4a393d3beb9",
-      "seen_at": "2026-10-24T14:31:19.272118+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/perplexity/cc22684f-b419-4ab8-8aa0-b4a393d3beb9",
-      "seen_at": "2026-10-24T14:31:19.272664+00:00"
-    },
-    {
       "id": "ashby-perplexity-2a5aa5f6-596b-45c3-84db-ac0b96363f93",
       "seen_at": "2026-10-24T15:01:20.716774+00:00"
     },
@@ -24635,10 +24627,50 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae81eea77c09cb3bd4b9e0b",
       "seen_at": "2026-11-23T14:03:20.918675+00:00"
+    },
+    {
+      "id": "zapply-c4d28a2f4008",
+      "seen_at": "2026-11-23T15:03:23.940000+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-baxter-baxter-JR-213558",
+      "seen_at": "2026-11-23T15:03:23.940456+00:00"
+    },
+    {
+      "id": "greenhouse-anthropic-5487188008",
+      "seen_at": "2026-11-23T15:03:23.940886+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5487188008",
+      "seen_at": "2026-11-23T15:03:23.941270+00:00"
+    },
+    {
+      "id": "ashby-supabase-30cc053e-33dc-4924-a870-2cf41c296b01",
+      "seen_at": "2026-11-23T15:03:23.941656+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
+      "seen_at": "2026-11-23T15:03:23.942032+00:00"
+    },
+    {
+      "id": "jobright-594b93f3051b",
+      "seen_at": "2026-11-23T15:03:23.942430+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a760453a26ccc369f833373",
+      "seen_at": "2026-11-23T15:03:23.942795+00:00"
+    },
+    {
+      "id": "jobright-3cb8f0f8c065",
+      "seen_at": "2026-11-23T15:03:23.943165+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b043a4f4c822a415e66f423",
+      "seen_at": "2026-11-23T15:03:23.943515+00:00"
     }
   ],
-  "last_run": "2026-11-23T14:33:07.046723+00:00",
-  "total_notified": 13324,
+  "last_run": "2026-11-23T15:03:25.333879+00:00",
+  "total_notified": 13329,
   "channels": {
     "pm-jobs": [
       "zapply-3cc3bd0ddd2b",
@@ -25785,8 +25817,6 @@
       "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10397243"
     ],
     "swe-ai-full-time": [
-      "ashby-perplexity-cc22684f-b419-4ab8-8aa0-b4a393d3beb9",
-      "url:https://jobs.ashbyhq.com/perplexity/cc22684f-b419-4ab8-8aa0-b4a393d3beb9",
       "ashby-perplexity-2a5aa5f6-596b-45c3-84db-ac0b96363f93",
       "url:https://jobs.ashbyhq.com/perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93",
       "jobright-7fe55291233a",
@@ -30681,7 +30711,17 @@
       "jobright-8c4c3a94f36a",
       "url:https://jobright.ai/jobs/info/6b03e02bba759e898387be68",
       "jobright-f9324b42789e",
-      "url:https://jobright.ai/jobs/info/6b04188521f0a1e0c8499161"
+      "url:https://jobright.ai/jobs/info/6b04188521f0a1e0c8499161",
+      "zapply-c4d28a2f4008",
+      "url:https://zapply.jobs/l/d/workday-baxter-baxter-JR-213558",
+      "greenhouse-anthropic-5487188008",
+      "url:https://job-boards.greenhouse.io/anthropic/jobs/5487188008",
+      "ashby-supabase-30cc053e-33dc-4924-a870-2cf41c296b01",
+      "url:https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
+      "jobright-594b93f3051b",
+      "url:https://jobright.ai/jobs/info/6a760453a26ccc369f833373",
+      "jobright-3cb8f0f8c065",
+      "url:https://jobright.ai/jobs/info/6b043a4f4c822a415e66f423"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
