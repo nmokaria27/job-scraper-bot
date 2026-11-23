@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-perplexity-2a5aa5f6-596b-45c3-84db-ac0b96363f93",
-      "seen_at": "2026-10-24T15:01:20.716774+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93",
-      "seen_at": "2026-10-24T15:01:20.717478+00:00"
-    },
-    {
       "id": "jobright-7fe55291233a",
       "seen_at": "2026-10-24T16:01:22.267246+00:00"
     },
@@ -24669,7 +24661,7 @@
       "seen_at": "2026-11-23T15:03:23.943515+00:00"
     }
   ],
-  "last_run": "2026-11-23T15:03:25.333879+00:00",
+  "last_run": "2026-11-23T15:33:15.099437+00:00",
   "total_notified": 13329,
   "channels": {
     "pm-jobs": [
@@ -25817,8 +25809,6 @@
       "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10397243"
     ],
     "swe-ai-full-time": [
-      "ashby-perplexity-2a5aa5f6-596b-45c3-84db-ac0b96363f93",
-      "url:https://jobs.ashbyhq.com/perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93",
       "jobright-7fe55291233a",
       "url:https://jobright.ai/jobs/info/6ad561ce25289a0b3bf5ee9c",
       "jobright-997cd513b658",
