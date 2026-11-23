@@ -24883,10 +24883,34 @@
     {
       "id": "url:https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Forward-Deployed-Engineer-Agentic-AI_JR0289535-1",
       "seen_at": "2026-11-23T23:03:27.213029+00:00"
+    },
+    {
+      "id": "zapply-737edb59795a",
+      "seen_at": "2026-11-23T23:33:02.144730+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3167295",
+      "seen_at": "2026-11-23T23:33:02.145199+00:00"
+    },
+    {
+      "id": "amazon-10612257",
+      "seen_at": "2026-11-23T23:33:03.927404+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10612257/product-designer-agentic-ai-experiences-aws-billing",
+      "seen_at": "2026-11-23T23:33:03.927952+00:00"
+    },
+    {
+      "id": "workday-adobe-R173801",
+      "seen_at": "2026-11-23T23:33:03.928397+00:00"
+    },
+    {
+      "id": "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer---Incubation_R173801",
+      "seen_at": "2026-11-23T23:33:03.928826+00:00"
     }
   ],
-  "last_run": "2026-11-23T23:03:29.691906+00:00",
-  "total_notified": 13381,
+  "last_run": "2026-11-23T23:33:05.967443+00:00",
+  "total_notified": 13384,
   "channels": {
     "pm-jobs": [
       "zapply-91bab9ed7f7f",
@@ -26036,7 +26060,9 @@
       "jobright-07afeafc24ec",
       "url:https://jobright.ai/jobs/info/6b046df4c8533c23e3c35b57",
       "jobright-e36d7de3878c",
-      "url:https://jobright.ai/jobs/info/6b046af34c822a415e67076a"
+      "url:https://jobright.ai/jobs/info/6b046af34c822a415e67076a",
+      "zapply-737edb59795a",
+      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3167295"
     ],
     "swe-ai-full-time": [
       "jobright-3c5f9dd6ace0",
@@ -30981,7 +31007,11 @@
       "amazon-10612231",
       "url:https://www.amazon.jobs/en/jobs/10612231/software-dev-engineer-amazon-leo",
       "workday-intel-JR0289535",
-      "url:https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Forward-Deployed-Engineer-Agentic-AI_JR0289535-1"
+      "url:https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Forward-Deployed-Engineer-Agentic-AI_JR0289535-1",
+      "amazon-10612257",
+      "url:https://www.amazon.jobs/en/jobs/10612257/product-designer-agentic-ai-experiences-aws-billing",
+      "workday-adobe-R173801",
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer---Incubation_R173801"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
