@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-01d866a80049",
-      "seen_at": "2026-10-24T19:31:19.456311+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adbafb19e3e874dbfba13f6",
-      "seen_at": "2026-10-24T19:31:19.456897+00:00"
-    },
-    {
-      "id": "jobright-99d8456da0bd",
-      "seen_at": "2026-10-24T19:45:42.199753+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adbe87c0a4cc7090f975a97",
-      "seen_at": "2026-10-24T19:45:42.200338+00:00"
-    },
-    {
-      "id": "jobright-3ea0fe940a78",
-      "seen_at": "2026-10-24T19:45:46.955791+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac54391372c01f6cd738925",
-      "seen_at": "2026-10-24T19:45:46.956280+00:00"
-    },
-    {
       "id": "jobright-5f1694a3adb1",
       "seen_at": "2026-10-24T20:01:14.301027+00:00"
     },
@@ -24819,14 +24795,36 @@
     {
       "id": "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Research-Scientist_R173584",
       "seen_at": "2026-11-23T19:33:10.092760+00:00"
+    },
+    {
+      "id": "jobright-ae90690e8915",
+      "seen_at": "2026-11-23T20:03:15.237648+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a93639ec12c90443efcc07d",
+      "seen_at": "2026-11-23T20:03:15.238244+00:00"
+    },
+    {
+      "id": "jobright-a5d13876b973",
+      "seen_at": "2026-11-23T20:03:15.238673+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0487d5526905eb2bcf7f60",
+      "seen_at": "2026-11-23T20:03:15.239072+00:00"
+    },
+    {
+      "id": "jobright-a35ea3a144de",
+      "seen_at": "2026-11-23T20:03:17.685761+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b048426a72582cade08e4e5",
+      "seen_at": "2026-11-23T20:03:17.686209+00:00"
     }
   ],
-  "last_run": "2026-11-23T19:33:11.419182+00:00",
-  "total_notified": 13363,
+  "last_run": "2026-11-23T20:03:17.970266+00:00",
+  "total_notified": 13366,
   "channels": {
     "pm-jobs": [
-      "jobright-3ea0fe940a78",
-      "url:https://jobright.ai/jobs/info/6ac54391372c01f6cd738925",
       "jobright-963bb360f585",
       "url:https://jobright.ai/jobs/info/6ab4a84de9a8f953ef830b29",
       "zapply-91bab9ed7f7f",
@@ -25979,10 +25977,6 @@
       "url:https://jobright.ai/jobs/info/6b046af34c822a415e67076a"
     ],
     "swe-ai-full-time": [
-      "jobright-01d866a80049",
-      "url:https://jobright.ai/jobs/info/6adbafb19e3e874dbfba13f6",
-      "jobright-99d8456da0bd",
-      "url:https://jobright.ai/jobs/info/6adbe87c0a4cc7090f975a97",
       "jobright-5f1694a3adb1",
       "url:https://jobright.ai/jobs/info/6adc1d8e0a4cc7090f97624c",
       "ashby-perplexity-7e4a95c3-6322-4300-9455-96c511ab2621",
@@ -30903,7 +30897,11 @@
       "amazon-10611895",
       "url:https://www.amazon.jobs/en/jobs/10611895/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
       "workday-adobe-R173584",
-      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Research-Scientist_R173584"
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Research-Scientist_R173584",
+      "jobright-ae90690e8915",
+      "url:https://jobright.ai/jobs/info/6a93639ec12c90443efcc07d",
+      "jobright-a5d13876b973",
+      "url:https://jobright.ai/jobs/info/6b0487d5526905eb2bcf7f60"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -31039,7 +31037,9 @@
       "jobright-e46369edfcde",
       "url:https://jobright.ai/jobs/info/6b046b8d566251ad7b861977",
       "jobright-625b850e73bf",
-      "url:https://jobright.ai/jobs/info/6b046f35526905eb2bcf6fd6"
+      "url:https://jobright.ai/jobs/info/6b046f35526905eb2bcf6fd6",
+      "jobright-a35ea3a144de",
+      "url:https://jobright.ai/jobs/info/6b048426a72582cade08e4e5"
     ]
   }
 }
