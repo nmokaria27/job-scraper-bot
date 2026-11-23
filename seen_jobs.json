@@ -24827,10 +24827,42 @@
     {
       "id": "url:https://careers.qualcomm.com/careers/job/446718486357",
       "seen_at": "2026-11-23T20:33:22.354251+00:00"
+    },
+    {
+      "id": "ashby-perplexity-9e738c21-f2ab-49d7-b545-b519bb2cf8ae",
+      "seen_at": "2026-11-23T21:03:15.935077+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/Perplexity/9e738c21-f2ab-49d7-b545-b519bb2cf8ae",
+      "seen_at": "2026-11-23T21:03:15.935652+00:00"
+    },
+    {
+      "id": "simplify-c041546c-df4d-4126-9f68-7adf4232e660",
+      "seen_at": "2026-11-23T21:03:15.936024+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1Hl",
+      "seen_at": "2026-11-23T21:03:15.936385+00:00"
+    },
+    {
+      "id": "jobright-dead4c65cbec",
+      "seen_at": "2026-11-23T21:03:15.936730+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b048dd97fd2e33bde094f24",
+      "seen_at": "2026-11-23T21:03:15.937059+00:00"
+    },
+    {
+      "id": "jobright-401d2767389d",
+      "seen_at": "2026-11-23T21:03:15.937425+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0489f22d88b678f1177044",
+      "seen_at": "2026-11-23T21:03:15.937761+00:00"
     }
   ],
-  "last_run": "2026-11-23T20:33:24.569160+00:00",
-  "total_notified": 13368,
+  "last_run": "2026-11-23T21:03:17.692747+00:00",
+  "total_notified": 13372,
   "channels": {
     "pm-jobs": [
       "jobright-963bb360f585",
@@ -30911,7 +30943,15 @@
       "gradtracker-59fb19676509",
       "url:https://www.amazon.jobs/en/jobs/10611290/software-development-engineer-playback-insights-optimization",
       "gradtracker-ff81231b038e",
-      "url:https://careers.qualcomm.com/careers/job/446718486357"
+      "url:https://careers.qualcomm.com/careers/job/446718486357",
+      "ashby-perplexity-9e738c21-f2ab-49d7-b545-b519bb2cf8ae",
+      "url:https://jobs.ashbyhq.com/Perplexity/9e738c21-f2ab-49d7-b545-b519bb2cf8ae",
+      "simplify-c041546c-df4d-4126-9f68-7adf4232e660",
+      "url:https://go.vansh.nyc/1Hl",
+      "jobright-dead4c65cbec",
+      "url:https://jobright.ai/jobs/info/6b048dd97fd2e33bde094f24",
+      "jobright-401d2767389d",
+      "url:https://jobright.ai/jobs/info/6b0489f22d88b678f1177044"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
