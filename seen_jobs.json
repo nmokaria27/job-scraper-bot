@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-16ff67e4a844",
-      "seen_at": "2026-10-24T01:01:18.627023+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adbeacf9e3e874dbfba2b4e",
-      "seen_at": "2026-10-24T01:01:18.627408+00:00"
-    },
-    {
-      "id": "jobright-2e7f37261151",
-      "seen_at": "2026-10-24T01:01:18.627788+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adbe832c5c64fa3d9cb220b",
-      "seen_at": "2026-10-24T01:01:18.628099+00:00"
-    },
-    {
       "id": "simplify-d763bb06-d48a-42d3-b6b1-c943443fc462",
       "seen_at": "2026-10-24T03:31:13.674481+00:00"
     },
@@ -24717,7 +24701,7 @@
       "seen_at": "2026-11-22T22:33:05.054349+00:00"
     }
   ],
-  "last_run": "2026-11-23T01:02:58.688100+00:00",
+  "last_run": "2026-11-23T01:32:48.553990+00:00",
   "total_notified": 13315,
   "channels": {
     "pm-jobs": [
@@ -25863,10 +25847,6 @@
       "url:https://jobright.ai/jobs/info/6aac877295c707f49dff1aa5"
     ],
     "swe-ai-full-time": [
-      "jobright-16ff67e4a844",
-      "url:https://jobright.ai/jobs/info/6adbeacf9e3e874dbfba2b4e",
-      "jobright-2e7f37261151",
-      "url:https://jobright.ai/jobs/info/6adbe832c5c64fa3d9cb220b",
       "simplify-d763bb06-d48a-42d3-b6b1-c943443fc462",
       "url:https://jobs.smartrecruiters.com/ServiceNow/744000157570319",
       "jobright-de428363480d",
