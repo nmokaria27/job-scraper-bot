@@ -24995,10 +24995,18 @@
     {
       "id": "url:https://x.company/careers/8959513002",
       "seen_at": "2026-11-24T03:33:01.747719+00:00"
+    },
+    {
+      "id": "jobright-122179ccd86c",
+      "seen_at": "2026-11-24T04:03:11.246311+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a95e03ecabc9f6703e1a824",
+      "seen_at": "2026-11-24T04:03:11.246820+00:00"
     }
   ],
-  "last_run": "2026-11-24T03:33:03.360034+00:00",
-  "total_notified": 13397,
+  "last_run": "2026-11-24T04:03:13.295585+00:00",
+  "total_notified": 13398,
   "channels": {
     "pm-jobs": [
       "zapply-91bab9ed7f7f",
@@ -31121,7 +31129,9 @@
       "gradtracker-ac147164d026",
       "url:https://careers.qualcomm.com/careers/job/446721051165",
       "simplify-96d5032c-7603-4116-af57-e676879a678e",
-      "url:https://x.company/careers/8959513002"
+      "url:https://x.company/careers/8959513002",
+      "jobright-122179ccd86c",
+      "url:https://jobright.ai/jobs/info/6a95e03ecabc9f6703e1a824"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
