@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-1a2f00f298cd",
-      "seen_at": "2026-10-25T16:01:15.691852+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ade181446a8cabdc1ffaeb6",
-      "seen_at": "2026-10-25T16:01:15.692664+00:00"
-    },
-    {
-      "id": "jobright-454841420a6e",
-      "seen_at": "2026-10-25T16:01:15.693278+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa45aa2422289703bd664b6",
-      "seen_at": "2026-10-25T16:01:15.693815+00:00"
-    },
-    {
       "id": "jobright-0c230d93e883",
       "seen_at": "2026-10-25T19:01:34.121532+00:00"
     },
@@ -25107,10 +25091,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae913426c51033758f460b1",
       "seen_at": "2026-11-24T16:03:35.714114+00:00"
+    },
+    {
+      "id": "zapply-2962f20507b0",
+      "seen_at": "2026-11-24T16:33:09.254850+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-cloudflare-8406966",
+      "seen_at": "2026-11-24T16:33:09.255391+00:00"
+    },
+    {
+      "id": "amazon-10612795",
+      "seen_at": "2026-11-24T16:33:11.048288+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10612795/embedded-software-engineer-annapurna-ml-software",
+      "seen_at": "2026-11-24T16:33:11.048887+00:00"
     }
   ],
-  "last_run": "2026-11-24T16:03:35.928330+00:00",
-  "total_notified": 13439,
+  "last_run": "2026-11-24T16:33:14.011729+00:00",
+  "total_notified": 13441,
   "channels": {
     "pm-jobs": [
       "jobright-7880a5ad495d",
@@ -26260,13 +26260,11 @@
       "jobright-a37d50b851c1",
       "url:https://jobright.ai/jobs/info/6b0583a263d280053ef82e82",
       "greenhouse-cloudflare-8406966",
-      "url:https://boards.greenhouse.io/cloudflare/jobs/8406966"
+      "url:https://boards.greenhouse.io/cloudflare/jobs/8406966",
+      "zapply-2962f20507b0",
+      "url:https://zapply.jobs/l/d/greenhouse-cloudflare-8406966"
     ],
     "swe-ai-full-time": [
-      "jobright-1a2f00f298cd",
-      "url:https://jobright.ai/jobs/info/6ade181446a8cabdc1ffaeb6",
-      "jobright-454841420a6e",
-      "url:https://jobright.ai/jobs/info/6aa45aa2422289703bd664b6",
       "jobright-0c230d93e883",
       "url:https://jobright.ai/jobs/info/6addb2b39e3e874dbfba71fb",
       "simplify-3233f8eb-5790-456d-933a-2f15328733fb",
@@ -31223,7 +31221,9 @@
       "zapply-0e254281df2b",
       "url:https://zapply.jobs/l/d/workday-statestreet-global-R-795584",
       "zapply-e2a9d8f2304f",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800132"
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800132",
+      "amazon-10612795",
+      "url:https://www.amazon.jobs/en/jobs/10612795/embedded-software-engineer-annapurna-ml-software"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
