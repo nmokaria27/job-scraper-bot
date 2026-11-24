@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-f1d4561ad868",
-      "seen_at": "2026-10-25T12:01:15.690184+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/google-76908711519363782",
-      "seen_at": "2026-10-25T12:01:15.690526+00:00"
-    },
-    {
       "id": "jobright-b65fa4d74421",
       "seen_at": "2026-10-25T13:01:20.348274+00:00"
     },
@@ -24909,7 +24901,7 @@
       "seen_at": "2026-11-24T12:03:33.446989+00:00"
     }
   ],
-  "last_run": "2026-11-24T12:03:34.819920+00:00",
+  "last_run": "2026-11-24T12:33:00.744380+00:00",
   "total_notified": 13409,
   "channels": {
     "pm-jobs": [
@@ -26061,8 +26053,6 @@
       "url:https://zapply.jobs/l/d/google-88241011804775110"
     ],
     "swe-ai-full-time": [
-      "zapply-f1d4561ad868",
-      "url:https://zapply.jobs/l/d/google-76908711519363782",
       "jobright-b65fa4d74421",
       "url:https://jobright.ai/jobs/info/6addde239e3e874dbfba769d",
       "jobright-53fce5c1e0aa",
