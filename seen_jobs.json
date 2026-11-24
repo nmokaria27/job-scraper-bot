@@ -24907,10 +24907,82 @@
     {
       "id": "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer---Incubation_R173801",
       "seen_at": "2026-11-23T23:33:03.928826+00:00"
+    },
+    {
+      "id": "zapply-66e0a00f4142",
+      "seen_at": "2026-11-24T00:03:09.384458+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-visa-visa-REF090730W",
+      "seen_at": "2026-11-24T00:03:09.384969+00:00"
+    },
+    {
+      "id": "jobright-9afb0ac1808e",
+      "seen_at": "2026-11-24T00:03:09.385472+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b04b23b58147eafa299544a",
+      "seen_at": "2026-11-24T00:03:09.385887+00:00"
+    },
+    {
+      "id": "simplify-51743f42-51e8-4eaa-b657-bf114bf6f2b0",
+      "seen_at": "2026-11-24T00:03:11.061817+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1Hy",
+      "seen_at": "2026-11-24T00:03:11.062326+00:00"
+    },
+    {
+      "id": "simplify-7441ed91-836c-4b97-83ef-304a97f7a752",
+      "seen_at": "2026-11-24T00:03:11.062807+00:00"
+    },
+    {
+      "id": "url:https://wyetech.applytojob.com/apply/Erj5wQF10w/Software-Engineer-Level-1",
+      "seen_at": "2026-11-24T00:03:11.063206+00:00"
+    },
+    {
+      "id": "simplify-3aab0172-a5cf-4ba1-a8bf-10cfdc6defe1",
+      "seen_at": "2026-11-24T00:03:11.063676+00:00"
+    },
+    {
+      "id": "url:https://jobs.keysight.com/jobs/56742",
+      "seen_at": "2026-11-24T00:03:11.064069+00:00"
+    },
+    {
+      "id": "simplify-91e76f54-acbb-48eb-a85d-21784efd168e",
+      "seen_at": "2026-11-24T00:03:11.064460+00:00"
+    },
+    {
+      "id": "url:https://jobs.smartrecruiters.com/AbbVie/3743990017034256",
+      "seen_at": "2026-11-24T00:03:11.064861+00:00"
+    },
+    {
+      "id": "jobright-3945f4933156",
+      "seen_at": "2026-11-24T00:03:11.065247+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b04c09c13646880439e5187",
+      "seen_at": "2026-11-24T00:03:11.065653+00:00"
+    },
+    {
+      "id": "jobright-c94b65e9f386",
+      "seen_at": "2026-11-24T00:03:11.066045+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b04bc617bec27df08f93da1",
+      "seen_at": "2026-11-24T00:03:11.066424+00:00"
+    },
+    {
+      "id": "jobright-27a113355158",
+      "seen_at": "2026-11-24T00:03:11.066820+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b04bb7458147eafa2995989",
+      "seen_at": "2026-11-24T00:03:11.067212+00:00"
     }
   ],
-  "last_run": "2026-11-23T23:33:05.967443+00:00",
-  "total_notified": 13384,
+  "last_run": "2026-11-24T00:03:12.446530+00:00",
+  "total_notified": 13393,
   "channels": {
     "pm-jobs": [
       "zapply-91bab9ed7f7f",
@@ -26062,7 +26134,11 @@
       "jobright-e36d7de3878c",
       "url:https://jobright.ai/jobs/info/6b046af34c822a415e67076a",
       "zapply-737edb59795a",
-      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3167295"
+      "url:https://zapply.jobs/l/d/workday-hp-externalcareersite-3167295",
+      "zapply-66e0a00f4142",
+      "url:https://zapply.jobs/l/d/workday-visa-visa-REF090730W",
+      "jobright-9afb0ac1808e",
+      "url:https://jobright.ai/jobs/info/6b04b23b58147eafa299544a"
     ],
     "swe-ai-full-time": [
       "jobright-3c5f9dd6ace0",
@@ -31011,7 +31087,21 @@
       "amazon-10612257",
       "url:https://www.amazon.jobs/en/jobs/10612257/product-designer-agentic-ai-experiences-aws-billing",
       "workday-adobe-R173801",
-      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer---Incubation_R173801"
+      "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer---Incubation_R173801",
+      "simplify-51743f42-51e8-4eaa-b657-bf114bf6f2b0",
+      "url:https://go.vansh.nyc/1Hy",
+      "simplify-7441ed91-836c-4b97-83ef-304a97f7a752",
+      "url:https://wyetech.applytojob.com/apply/Erj5wQF10w/Software-Engineer-Level-1",
+      "simplify-3aab0172-a5cf-4ba1-a8bf-10cfdc6defe1",
+      "url:https://jobs.keysight.com/jobs/56742",
+      "simplify-91e76f54-acbb-48eb-a85d-21784efd168e",
+      "url:https://jobs.smartrecruiters.com/AbbVie/3743990017034256",
+      "jobright-3945f4933156",
+      "url:https://jobright.ai/jobs/info/6b04c09c13646880439e5187",
+      "jobright-c94b65e9f386",
+      "url:https://jobright.ai/jobs/info/6b04bc617bec27df08f93da1",
+      "jobright-27a113355158",
+      "url:https://jobright.ai/jobs/info/6b04bb7458147eafa2995989"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
