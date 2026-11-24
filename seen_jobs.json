@@ -24987,10 +24987,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b04b6ed13646880439e4a73",
       "seen_at": "2026-11-24T01:03:02.553171+00:00"
+    },
+    {
+      "id": "gradtracker-073d21ae095b",
+      "seen_at": "2026-11-24T02:03:14.159822+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10612303/software-development-engineer-data-communications-tech",
+      "seen_at": "2026-11-24T02:03:14.160362+00:00"
+    },
+    {
+      "id": "gradtracker-ac147164d026",
+      "seen_at": "2026-11-24T02:03:14.160826+00:00"
+    },
+    {
+      "id": "url:https://careers.qualcomm.com/careers/job/446721051165",
+      "seen_at": "2026-11-24T02:03:14.161240+00:00"
     }
   ],
-  "last_run": "2026-11-24T01:33:26.567584+00:00",
-  "total_notified": 13394,
+  "last_run": "2026-11-24T02:03:16.751356+00:00",
+  "total_notified": 13396,
   "channels": {
     "pm-jobs": [
       "zapply-91bab9ed7f7f",
@@ -31111,7 +31127,11 @@
       "jobright-27a113355158",
       "url:https://jobright.ai/jobs/info/6b04bb7458147eafa2995989",
       "jobright-0ee240a60e2e",
-      "url:https://jobright.ai/jobs/info/6b04b6ed13646880439e4a73"
+      "url:https://jobright.ai/jobs/info/6b04b6ed13646880439e4a73",
+      "gradtracker-073d21ae095b",
+      "url:https://www.amazon.jobs/en/jobs/10612303/software-development-engineer-data-communications-tech",
+      "gradtracker-ac147164d026",
+      "url:https://careers.qualcomm.com/careers/job/446721051165"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
