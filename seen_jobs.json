@@ -24955,10 +24955,114 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aec982d3967d67f6359dc56",
       "seen_at": "2026-11-24T13:03:15.125004+00:00"
+    },
+    {
+      "id": "jobright-a37d50b851c1",
+      "seen_at": "2026-11-24T14:04:23.349582+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0583a263d280053ef82e82",
+      "seen_at": "2026-11-24T14:04:23.349908+00:00"
+    },
+    {
+      "id": "zapply-90516caf89fa",
+      "seen_at": "2026-11-24T14:04:25.032083+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803021",
+      "seen_at": "2026-11-24T14:04:25.032480+00:00"
+    },
+    {
+      "id": "jobright-ed7fc4136591",
+      "seen_at": "2026-11-24T14:04:25.032805+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aa898ef82e82a31997c6a19",
+      "seen_at": "2026-11-24T14:04:25.033109+00:00"
+    },
+    {
+      "id": "jobright-bb45faabe54d",
+      "seen_at": "2026-11-24T14:04:25.033420+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b05861a0a025d0ca4ff36f4",
+      "seen_at": "2026-11-24T14:04:25.033731+00:00"
+    },
+    {
+      "id": "jobright-11ddc5d9b93e",
+      "seen_at": "2026-11-24T14:04:25.034023+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b03c415adf53adef40e13d7",
+      "seen_at": "2026-11-24T14:04:25.034317+00:00"
+    },
+    {
+      "id": "jobright-2df8a4adc5fc",
+      "seen_at": "2026-11-24T14:04:27.675558+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae89b17fb2cd420ace66e00",
+      "seen_at": "2026-11-24T14:04:27.675864+00:00"
+    },
+    {
+      "id": "jobright-1efd3fb1b00d",
+      "seen_at": "2026-11-24T14:04:27.676158+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae89b18a2a252e2194278d6",
+      "seen_at": "2026-11-24T14:04:27.676427+00:00"
+    },
+    {
+      "id": "jobright-ba77da3d1fae",
+      "seen_at": "2026-11-24T14:04:27.676676+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae89b1e03f4a1104b254742",
+      "seen_at": "2026-11-24T14:04:27.676916+00:00"
+    },
+    {
+      "id": "jobright-59e1ef034bc0",
+      "seen_at": "2026-11-24T14:04:27.677155+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8421003f4a1104b252ef7",
+      "seen_at": "2026-11-24T14:04:27.677402+00:00"
+    },
+    {
+      "id": "jobright-a7db408f19ef",
+      "seen_at": "2026-11-24T14:04:27.677628+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae89b3503f4a1104b254749",
+      "seen_at": "2026-11-24T14:04:27.677905+00:00"
+    },
+    {
+      "id": "jobright-bf573bf0c4de",
+      "seen_at": "2026-11-24T14:04:27.678148+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae81ef2bad9293a40a4416b",
+      "seen_at": "2026-11-24T14:04:27.678377+00:00"
+    },
+    {
+      "id": "jobright-6f8566fa23ee",
+      "seen_at": "2026-11-24T14:04:27.678597+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae8420e77c09cb3bd4ba9a8",
+      "seen_at": "2026-11-24T14:04:27.678814+00:00"
+    },
+    {
+      "id": "jobright-27a796c1ee7d",
+      "seen_at": "2026-11-24T14:04:27.679052+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae89b1efb2cd420ace66e09",
+      "seen_at": "2026-11-24T14:04:27.679289+00:00"
     }
   ],
-  "last_run": "2026-11-24T13:33:09.524033+00:00",
-  "total_notified": 13417,
+  "last_run": "2026-11-24T14:04:27.992255+00:00",
+  "total_notified": 13430,
   "channels": {
     "pm-jobs": [
       "jobright-c9d8c048ebc6",
@@ -26106,7 +26210,9 @@
       "jobright-9afb0ac1808e",
       "url:https://jobright.ai/jobs/info/6b04b23b58147eafa299544a",
       "zapply-d66ba070f7f0",
-      "url:https://zapply.jobs/l/d/google-88241011804775110"
+      "url:https://zapply.jobs/l/d/google-88241011804775110",
+      "jobright-a37d50b851c1",
+      "url:https://jobright.ai/jobs/info/6b0583a263d280053ef82e82"
     ],
     "swe-ai-full-time": [
       "jobright-53fce5c1e0aa",
@@ -31057,7 +31163,15 @@
       "jobright-da59e5a9d317",
       "url:https://jobright.ai/jobs/info/6b056a2a2835ccc63ff52853",
       "amazon-10611485",
-      "url:https://www.amazon.jobs/en/jobs/10611485/software-development-engineer-device-software-vega-os"
+      "url:https://www.amazon.jobs/en/jobs/10611485/software-development-engineer-device-software-vega-os",
+      "zapply-90516caf89fa",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210803021",
+      "jobright-ed7fc4136591",
+      "url:https://jobright.ai/jobs/info/6aa898ef82e82a31997c6a19",
+      "jobright-bb45faabe54d",
+      "url:https://jobright.ai/jobs/info/6b05861a0a025d0ca4ff36f4",
+      "jobright-11ddc5d9b93e",
+      "url:https://jobright.ai/jobs/info/6b03c415adf53adef40e13d7"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -31209,7 +31323,23 @@
       "jobright-2cca16c70769",
       "url:https://jobright.ai/jobs/info/6ae84210061d6d7ff3d79ade",
       "jobright-079e19bbd601",
-      "url:https://jobright.ai/jobs/info/6aec982d3967d67f6359dc56"
+      "url:https://jobright.ai/jobs/info/6aec982d3967d67f6359dc56",
+      "jobright-2df8a4adc5fc",
+      "url:https://jobright.ai/jobs/info/6ae89b17fb2cd420ace66e00",
+      "jobright-1efd3fb1b00d",
+      "url:https://jobright.ai/jobs/info/6ae89b18a2a252e2194278d6",
+      "jobright-ba77da3d1fae",
+      "url:https://jobright.ai/jobs/info/6ae89b1e03f4a1104b254742",
+      "jobright-59e1ef034bc0",
+      "url:https://jobright.ai/jobs/info/6ae8421003f4a1104b252ef7",
+      "jobright-a7db408f19ef",
+      "url:https://jobright.ai/jobs/info/6ae89b3503f4a1104b254749",
+      "jobright-bf573bf0c4de",
+      "url:https://jobright.ai/jobs/info/6ae81ef2bad9293a40a4416b",
+      "jobright-6f8566fa23ee",
+      "url:https://jobright.ai/jobs/info/6ae8420e77c09cb3bd4ba9a8",
+      "jobright-27a796c1ee7d",
+      "url:https://jobright.ai/jobs/info/6ae89b1efb2cd420ace66e09"
     ]
   }
 }
