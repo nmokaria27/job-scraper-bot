@@ -1,190 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-eba0c81a3a7e",
-      "seen_at": "2026-10-25T10:01:12.844041+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6addc38f46a8cabdc1ffa350",
-      "seen_at": "2026-10-25T10:01:12.844465+00:00"
-    },
-    {
-      "id": "jobright-fc681bc34989",
-      "seen_at": "2026-10-25T10:01:12.844811+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adda11c5dc7953215a39b96",
-      "seen_at": "2026-10-25T10:01:12.845118+00:00"
-    },
-    {
-      "id": "jobright-0a907d3de25d",
-      "seen_at": "2026-10-25T10:01:12.845434+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add9445c5c64fa3d9cb6779",
-      "seen_at": "2026-10-25T10:01:12.845727+00:00"
-    },
-    {
-      "id": "jobright-e1b327bd2848",
-      "seen_at": "2026-10-25T10:01:12.846033+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add9443c5c64fa3d9cb6773",
-      "seen_at": "2026-10-25T10:01:12.846340+00:00"
-    },
-    {
-      "id": "jobright-5be3ad803a77",
-      "seen_at": "2026-10-25T10:01:12.846632+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add944046a8cabdc1ffa048",
-      "seen_at": "2026-10-25T10:01:12.846922+00:00"
-    },
-    {
-      "id": "jobright-57ffb0164ab2",
-      "seen_at": "2026-10-25T10:01:12.847216+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add943b5dc7953215a39a42",
-      "seen_at": "2026-10-25T10:01:12.847532+00:00"
-    },
-    {
-      "id": "jobright-72f4938ee893",
-      "seen_at": "2026-10-25T10:01:12.847858+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add94380a4cc7090f979ffd",
-      "seen_at": "2026-10-25T10:01:12.848176+00:00"
-    },
-    {
-      "id": "jobright-a335409b33d7",
-      "seen_at": "2026-10-25T10:01:12.848548+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add943246a8cabdc1ffa02d",
-      "seen_at": "2026-10-25T10:01:12.848868+00:00"
-    },
-    {
-      "id": "jobright-e1bf288b8968",
-      "seen_at": "2026-10-25T10:01:12.849179+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add94310a4cc7090f979ff1",
-      "seen_at": "2026-10-25T10:01:12.849484+00:00"
-    },
-    {
-      "id": "jobright-1c09548fe748",
-      "seen_at": "2026-10-25T10:01:12.849788+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add943146a8cabdc1ffa025",
-      "seen_at": "2026-10-25T10:01:12.850100+00:00"
-    },
-    {
-      "id": "jobright-ec83fa78ab1b",
-      "seen_at": "2026-10-25T10:01:12.850428+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add942e9e3e874dbfba6f87",
-      "seen_at": "2026-10-25T10:01:12.850718+00:00"
-    },
-    {
-      "id": "jobright-0c236a2b8ca0",
-      "seen_at": "2026-10-25T10:01:12.851006+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add942d9e3e874dbfba6f86",
-      "seen_at": "2026-10-25T10:01:12.851290+00:00"
-    },
-    {
-      "id": "jobright-91d1ecebd9a4",
-      "seen_at": "2026-10-25T10:01:12.851590+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add94239e3e874dbfba6f6c",
-      "seen_at": "2026-10-25T10:01:12.851872+00:00"
-    },
-    {
-      "id": "jobright-fe8779eacd8b",
-      "seen_at": "2026-10-25T10:01:12.852158+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add941d9e3e874dbfba6f5f",
-      "seen_at": "2026-10-25T10:01:12.852458+00:00"
-    },
-    {
-      "id": "jobright-83ebfe948699",
-      "seen_at": "2026-10-25T10:01:12.852757+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6add89749e3e874dbfba6e5f",
-      "seen_at": "2026-10-25T10:01:12.853042+00:00"
-    },
-    {
-      "id": "zapply-3b4c473b5ea0",
-      "seen_at": "2026-10-25T10:01:12.853355+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/google-84680705375642310",
-      "seen_at": "2026-10-25T10:01:12.853637+00:00"
-    },
-    {
-      "id": "zapply-538b20b7ebc4",
-      "seen_at": "2026-10-25T10:01:12.853928+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/bytedance-7672389696568510773",
-      "seen_at": "2026-10-25T10:01:12.854210+00:00"
-    },
-    {
-      "id": "zapply-5f77cff68da2",
-      "seen_at": "2026-10-25T10:01:12.854510+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/bytedance-7673626147481291061",
-      "seen_at": "2026-10-25T10:01:12.854793+00:00"
-    },
-    {
-      "id": "zapply-91bab9ed7f7f",
-      "seen_at": "2026-10-25T10:01:14.153689+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/deshaw-5880",
-      "seen_at": "2026-10-25T10:01:14.154022+00:00"
-    },
-    {
-      "id": "zapply-967d1ee627db",
-      "seen_at": "2026-10-25T10:01:14.154338+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/deshaw-6062",
-      "seen_at": "2026-10-25T10:01:14.154609+00:00"
-    },
-    {
-      "id": "zapply-1911d0c25f04",
-      "seen_at": "2026-10-25T10:01:14.154869+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/deshaw-6035",
-      "seen_at": "2026-10-25T10:01:14.155108+00:00"
-    },
-    {
-      "id": "zapply-d4a51f7558bf",
-      "seen_at": "2026-10-25T10:01:14.155357+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/rippling-aalyria-careers-e1394313-6e36-401f-91ec-1d44fa616ed0",
-      "seen_at": "2026-10-25T10:01:14.155584+00:00"
-    },
-    {
-      "id": "zapply-a4ba873ca68d",
-      "seen_at": "2026-10-25T10:01:14.155815+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/google-123194090509476550",
-      "seen_at": "2026-10-25T10:01:14.156037+00:00"
-    },
-    {
       "id": "zapply-f1d4561ad868",
       "seen_at": "2026-10-25T12:01:15.690184+00:00"
     },
@@ -25003,22 +24819,92 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a95e03ecabc9f6703e1a824",
       "seen_at": "2026-11-24T04:03:11.246820+00:00"
+    },
+    {
+      "id": "zapply-d66ba070f7f0",
+      "seen_at": "2026-11-24T11:03:23.700444+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/google-88241011804775110",
+      "seen_at": "2026-11-24T11:03:23.700878+00:00"
+    },
+    {
+      "id": "simplify-2324a810-93c9-490d-bf45-95f28f9dda1f",
+      "seen_at": "2026-11-24T11:03:25.385514+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply",
+      "seen_at": "2026-11-24T11:03:25.386006+00:00"
+    },
+    {
+      "id": "simplify-63544628-eb67-4de6-ba3c-597d09cbf355",
+      "seen_at": "2026-11-24T11:03:25.386464+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply",
+      "seen_at": "2026-11-24T11:03:25.386862+00:00"
+    },
+    {
+      "id": "applyguy-21c8941c-b85b-4cde-9f65-5c4d3041779f",
+      "seen_at": "2026-11-24T11:03:25.387261+00:00"
+    },
+    {
+      "id": "url:https://apply.workable.com/serko-ltd/j/2BD3D4F4DE",
+      "seen_at": "2026-11-24T11:03:25.387659+00:00"
+    },
+    {
+      "id": "amazon-10611483",
+      "seen_at": "2026-11-24T11:03:25.388047+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10611483/software-development-engineer-device-software-vega-os",
+      "seen_at": "2026-11-24T11:03:25.388440+00:00"
+    },
+    {
+      "id": "jobright-688453a3bc1d",
+      "seen_at": "2026-11-24T11:03:25.388818+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b05239713646880439e7064",
+      "seen_at": "2026-11-24T11:03:25.389199+00:00"
+    },
+    {
+      "id": "jobright-507ccfee8b12",
+      "seen_at": "2026-11-24T11:03:25.389606+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b04fcd42d88b678f117ac46",
+      "seen_at": "2026-11-24T11:03:25.390000+00:00"
+    },
+    {
+      "id": "jobright-61b0fffcba43",
+      "seen_at": "2026-11-24T11:03:25.390402+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0532c5627709666ef62c6e",
+      "seen_at": "2026-11-24T11:03:25.390816+00:00"
+    },
+    {
+      "id": "gradtracker-0ef02133291f",
+      "seen_at": "2026-11-24T11:03:25.391206+00:00"
+    },
+    {
+      "id": "url:https://paypal.eightfold.ai/careers/job/274923558924",
+      "seen_at": "2026-11-24T11:03:25.391594+00:00"
+    },
+    {
+      "id": "jobright-35149b119585",
+      "seen_at": "2026-11-24T11:03:28.803302+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a4819635d7b097d2df39390",
+      "seen_at": "2026-11-24T11:03:28.803859+00:00"
     }
   ],
-  "last_run": "2026-11-24T04:32:55.889384+00:00",
-  "total_notified": 13398,
+  "last_run": "2026-11-24T11:03:29.014287+00:00",
+  "total_notified": 13408,
   "channels": {
     "pm-jobs": [
-      "zapply-91bab9ed7f7f",
-      "url:https://zapply.jobs/l/d/deshaw-5880",
-      "zapply-967d1ee627db",
-      "url:https://zapply.jobs/l/d/deshaw-6062",
-      "zapply-1911d0c25f04",
-      "url:https://zapply.jobs/l/d/deshaw-6035",
-      "zapply-d4a51f7558bf",
-      "url:https://zapply.jobs/l/d/rippling-aalyria-careers-e1394313-6e36-401f-91ec-1d44fa616ed0",
-      "zapply-a4ba873ca68d",
-      "url:https://zapply.jobs/l/d/google-123194090509476550",
       "jobright-c9d8c048ebc6",
       "url:https://jobright.ai/jobs/info/6aa3a930c5a856ac7e33ac26",
       "jobright-7880a5ad495d",
@@ -26162,45 +26048,11 @@
       "zapply-66e0a00f4142",
       "url:https://zapply.jobs/l/d/workday-visa-visa-REF090730W",
       "jobright-9afb0ac1808e",
-      "url:https://jobright.ai/jobs/info/6b04b23b58147eafa299544a"
+      "url:https://jobright.ai/jobs/info/6b04b23b58147eafa299544a",
+      "zapply-d66ba070f7f0",
+      "url:https://zapply.jobs/l/d/google-88241011804775110"
     ],
     "swe-ai-full-time": [
-      "jobright-eba0c81a3a7e",
-      "url:https://jobright.ai/jobs/info/6addc38f46a8cabdc1ffa350",
-      "jobright-fc681bc34989",
-      "url:https://jobright.ai/jobs/info/6adda11c5dc7953215a39b96",
-      "jobright-0a907d3de25d",
-      "url:https://jobright.ai/jobs/info/6add9445c5c64fa3d9cb6779",
-      "jobright-e1b327bd2848",
-      "url:https://jobright.ai/jobs/info/6add9443c5c64fa3d9cb6773",
-      "jobright-5be3ad803a77",
-      "url:https://jobright.ai/jobs/info/6add944046a8cabdc1ffa048",
-      "jobright-57ffb0164ab2",
-      "url:https://jobright.ai/jobs/info/6add943b5dc7953215a39a42",
-      "jobright-72f4938ee893",
-      "url:https://jobright.ai/jobs/info/6add94380a4cc7090f979ffd",
-      "jobright-a335409b33d7",
-      "url:https://jobright.ai/jobs/info/6add943246a8cabdc1ffa02d",
-      "jobright-e1bf288b8968",
-      "url:https://jobright.ai/jobs/info/6add94310a4cc7090f979ff1",
-      "jobright-1c09548fe748",
-      "url:https://jobright.ai/jobs/info/6add943146a8cabdc1ffa025",
-      "jobright-ec83fa78ab1b",
-      "url:https://jobright.ai/jobs/info/6add942e9e3e874dbfba6f87",
-      "jobright-0c236a2b8ca0",
-      "url:https://jobright.ai/jobs/info/6add942d9e3e874dbfba6f86",
-      "jobright-91d1ecebd9a4",
-      "url:https://jobright.ai/jobs/info/6add94239e3e874dbfba6f6c",
-      "jobright-fe8779eacd8b",
-      "url:https://jobright.ai/jobs/info/6add941d9e3e874dbfba6f5f",
-      "jobright-83ebfe948699",
-      "url:https://jobright.ai/jobs/info/6add89749e3e874dbfba6e5f",
-      "zapply-3b4c473b5ea0",
-      "url:https://zapply.jobs/l/d/google-84680705375642310",
-      "zapply-538b20b7ebc4",
-      "url:https://zapply.jobs/l/d/bytedance-7672389696568510773",
-      "zapply-5f77cff68da2",
-      "url:https://zapply.jobs/l/d/bytedance-7673626147481291061",
       "zapply-f1d4561ad868",
       "url:https://zapply.jobs/l/d/google-76908711519363782",
       "jobright-b65fa4d74421",
@@ -31131,7 +30983,23 @@
       "simplify-96d5032c-7603-4116-af57-e676879a678e",
       "url:https://x.company/careers/8959513002",
       "jobright-122179ccd86c",
-      "url:https://jobright.ai/jobs/info/6a95e03ecabc9f6703e1a824"
+      "url:https://jobright.ai/jobs/info/6a95e03ecabc9f6703e1a824",
+      "simplify-2324a810-93c9-490d-bf45-95f28f9dda1f",
+      "url:https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply",
+      "simplify-63544628-eb67-4de6-ba3c-597d09cbf355",
+      "url:https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply",
+      "applyguy-21c8941c-b85b-4cde-9f65-5c4d3041779f",
+      "url:https://apply.workable.com/serko-ltd/j/2BD3D4F4DE",
+      "amazon-10611483",
+      "url:https://www.amazon.jobs/en/jobs/10611483/software-development-engineer-device-software-vega-os",
+      "jobright-688453a3bc1d",
+      "url:https://jobright.ai/jobs/info/6b05239713646880439e7064",
+      "jobright-507ccfee8b12",
+      "url:https://jobright.ai/jobs/info/6b04fcd42d88b678f117ac46",
+      "jobright-61b0fffcba43",
+      "url:https://jobright.ai/jobs/info/6b0532c5627709666ef62c6e",
+      "gradtracker-0ef02133291f",
+      "url:https://paypal.eightfold.ai/careers/job/274923558924"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -31269,7 +31137,9 @@
       "jobright-625b850e73bf",
       "url:https://jobright.ai/jobs/info/6b046f35526905eb2bcf6fd6",
       "jobright-a35ea3a144de",
-      "url:https://jobright.ai/jobs/info/6b048426a72582cade08e4e5"
+      "url:https://jobright.ai/jobs/info/6b048426a72582cade08e4e5",
+      "jobright-35149b119585",
+      "url:https://jobright.ai/jobs/info/6a4819635d7b097d2df39390"
     ]
   }
 }
