@@ -25075,10 +25075,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a55c5572ce8bf79a13a0a74",
       "seen_at": "2026-11-24T15:03:21.143211+00:00"
+    },
+    {
+      "id": "zapply-0e254281df2b",
+      "seen_at": "2026-11-24T15:33:21.692792+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-statestreet-global-R-795584",
+      "seen_at": "2026-11-24T15:33:21.693340+00:00"
+    },
+    {
+      "id": "zapply-e2a9d8f2304f",
+      "seen_at": "2026-11-24T15:33:21.693803+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800132",
+      "seen_at": "2026-11-24T15:33:21.694214+00:00"
     }
   ],
-  "last_run": "2026-11-24T15:03:21.380123+00:00",
-  "total_notified": 13434,
+  "last_run": "2026-11-24T15:33:24.386081+00:00",
+  "total_notified": 13436,
   "channels": {
     "pm-jobs": [
       "jobright-7880a5ad495d",
@@ -31187,7 +31203,11 @@
       "applyguy-80f18c80-5930-4037-96bf-f5f576cc327a",
       "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Engineer-Embedded_JR2026519147-2",
       "applyguy-34e62682-5eac-41c7-829a-bd9d362ac784",
-      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419"
+      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419",
+      "zapply-0e254281df2b",
+      "url:https://zapply.jobs/l/d/workday-statestreet-global-R-795584",
+      "zapply-e2a9d8f2304f",
+      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210800132"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
