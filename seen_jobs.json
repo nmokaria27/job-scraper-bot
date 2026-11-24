@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-53fce5c1e0aa",
-      "seen_at": "2026-10-25T14:01:17.556635+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a4fe2de9469c0662034f404",
-      "seen_at": "2026-10-25T14:01:17.557257+00:00"
-    },
-    {
-      "id": "jobright-c9d8c048ebc6",
-      "seen_at": "2026-10-25T14:01:19.246807+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa3a930c5a856ac7e33ac26",
-      "seen_at": "2026-10-25T14:01:19.247354+00:00"
-    },
-    {
       "id": "jobright-3aec31d40b0d",
       "seen_at": "2026-10-25T15:31:07.547152+00:00"
     },
@@ -25059,14 +25043,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6ae89b1efb2cd420ace66e09",
       "seen_at": "2026-11-24T14:04:27.679289+00:00"
+    },
+    {
+      "id": "applyguy-80f18c80-5930-4037-96bf-f5f576cc327a",
+      "seen_at": "2026-11-24T14:33:27.973263+00:00"
+    },
+    {
+      "id": "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Engineer-Embedded_JR2026519147-2",
+      "seen_at": "2026-11-24T14:33:27.973631+00:00"
+    },
+    {
+      "id": "applyguy-34e62682-5eac-41c7-829a-bd9d362ac784",
+      "seen_at": "2026-11-24T14:33:27.973957+00:00"
+    },
+    {
+      "id": "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419",
+      "seen_at": "2026-11-24T14:33:27.974270+00:00"
     }
   ],
-  "last_run": "2026-11-24T14:04:27.992255+00:00",
-  "total_notified": 13430,
+  "last_run": "2026-11-24T14:33:29.807777+00:00",
+  "total_notified": 13432,
   "channels": {
     "pm-jobs": [
-      "jobright-c9d8c048ebc6",
-      "url:https://jobright.ai/jobs/info/6aa3a930c5a856ac7e33ac26",
       "jobright-7880a5ad495d",
       "url:https://jobright.ai/jobs/info/6ade36179e3e874dbfba81cd",
       "zapply-1644df286506",
@@ -26215,8 +26213,6 @@
       "url:https://jobright.ai/jobs/info/6b0583a263d280053ef82e82"
     ],
     "swe-ai-full-time": [
-      "jobright-53fce5c1e0aa",
-      "url:https://jobright.ai/jobs/info/6a4fe2de9469c0662034f404",
       "jobright-3aec31d40b0d",
       "url:https://jobright.ai/jobs/info/6aa39d834238ea18d430cf2a",
       "jobright-1a2f00f298cd",
@@ -31171,7 +31167,11 @@
       "jobright-bb45faabe54d",
       "url:https://jobright.ai/jobs/info/6b05861a0a025d0ca4ff36f4",
       "jobright-11ddc5d9b93e",
-      "url:https://jobright.ai/jobs/info/6b03c415adf53adef40e13d7"
+      "url:https://jobright.ai/jobs/info/6b03c415adf53adef40e13d7",
+      "applyguy-80f18c80-5930-4037-96bf-f5f576cc327a",
+      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Engineer-Embedded_JR2026519147-2",
+      "applyguy-34e62682-5eac-41c7-829a-bd9d362ac784",
+      "url:https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
