@@ -25147,10 +25147,34 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-cibc-search-2613909",
       "seen_at": "2026-11-24T17:03:37.249073+00:00"
+    },
+    {
+      "id": "greenhouse-drweng-8414528",
+      "seen_at": "2026-11-24T17:33:15.121536+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/drweng/jobs/8414528",
+      "seen_at": "2026-11-24T17:33:15.122039+00:00"
+    },
+    {
+      "id": "amazon-10612878",
+      "seen_at": "2026-11-24T17:33:15.122477+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10612878/software-development-engineer-elasticache",
+      "seen_at": "2026-11-24T17:33:15.122908+00:00"
+    },
+    {
+      "id": "simplify-6892a744-f18f-447c-a687-ff8d35de4e66",
+      "seen_at": "2026-11-24T17:33:15.123304+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/koddi/jobs/8944769002",
+      "seen_at": "2026-11-24T17:33:15.123710+00:00"
     }
   ],
-  "last_run": "2026-11-24T17:03:37.541389+00:00",
-  "total_notified": 13446,
+  "last_run": "2026-11-24T17:33:18.961395+00:00",
+  "total_notified": 13449,
   "channels": {
     "pm-jobs": [
       "jobright-7880a5ad495d",
@@ -31271,7 +31295,13 @@
       "jobright-64e72fe2b623",
       "url:https://jobright.ai/jobs/info/6a4ffe7e1544d7246c0d73f9",
       "workday-salesforce-JR361861",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--MTS---Frontier-Strike--EntSecTech-_JR361861"
+      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--MTS---Frontier-Strike--EntSecTech-_JR361861",
+      "greenhouse-drweng-8414528",
+      "url:https://job-boards.greenhouse.io/drweng/jobs/8414528",
+      "amazon-10612878",
+      "url:https://www.amazon.jobs/en/jobs/10612878/software-development-engineer-elasticache",
+      "simplify-6892a744-f18f-447c-a687-ff8d35de4e66",
+      "url:https://job-boards.greenhouse.io/koddi/jobs/8944769002"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
