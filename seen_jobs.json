@@ -25339,10 +25339,26 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10611894/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
       "seen_at": "2026-11-24T20:33:15.134352+00:00"
+    },
+    {
+      "id": "greenhouse-point72-8959723002",
+      "seen_at": "2026-11-24T20:39:38.660061+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/point72/jobs/8959723002",
+      "seen_at": "2026-11-24T20:39:38.660652+00:00"
+    },
+    {
+      "id": "jobright-86035108047a",
+      "seen_at": "2026-11-24T20:39:42.983459+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b05dd54707ad7f35053b6a7",
+      "seen_at": "2026-11-24T20:39:42.983865+00:00"
     }
   ],
-  "last_run": "2026-11-24T20:33:18.154241+00:00",
-  "total_notified": 13472,
+  "last_run": "2026-11-24T20:39:43.185380+00:00",
+  "total_notified": 13474,
   "channels": {
     "pm-jobs": [
       "zapply-1644df286506",
@@ -31507,7 +31523,9 @@
       "applyguy-3606080c-a67c-46a7-b805-23bbc0414d76",
       "url:https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---El-Segundo-CA/Associate-Software-Engineer-Developer_JR2026527316-1",
       "gradtracker-61ce6ffb14bc",
-      "url:https://www.amazon.jobs/en/jobs/10611894/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid"
+      "url:https://www.amazon.jobs/en/jobs/10611894/software-development-engineer-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+      "greenhouse-point72-8959723002",
+      "url:https://boards.greenhouse.io/point72/jobs/8959723002"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -31689,7 +31707,9 @@
       "jobright-0927cef062e3",
       "url:https://jobright.ai/jobs/info/6b05c1a90a025d0ca4ff5224",
       "jobright-a5ac3f232d1c",
-      "url:https://jobright.ai/jobs/info/6b05c2f563d280053ef84bed"
+      "url:https://jobright.ai/jobs/info/6b05c2f563d280053ef84bed",
+      "jobright-86035108047a",
+      "url:https://jobright.ai/jobs/info/6b05dd54707ad7f35053b6a7"
     ]
   }
 }
