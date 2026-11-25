@@ -25707,10 +25707,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b05fcc5dbad4c4bd25034cc",
       "seen_at": "2026-11-25T03:03:04.253741+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2030526",
+      "seen_at": "2026-11-25T03:32:52.535345+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-AI-Product-Manager_JR2030526",
+      "seen_at": "2026-11-25T03:32:52.535801+00:00"
     }
   ],
-  "last_run": "2026-11-25T03:03:04.548282+00:00",
-  "total_notified": 13522,
+  "last_run": "2026-11-25T03:32:57.342623+00:00",
+  "total_notified": 13523,
   "channels": {
     "pm-jobs": [
       "simplify-d6a611ad-6577-4727-bad6-a4aa05ad24ec",
@@ -26882,7 +26890,9 @@
       "jobright-7e62162043b0",
       "url:https://jobright.ai/jobs/info/6b0632cd71c8f4e3660ec50e",
       "jobright-7d188a2c0af9",
-      "url:https://jobright.ai/jobs/info/6abaf05ad2914e9273eee283"
+      "url:https://jobright.ai/jobs/info/6abaf05ad2914e9273eee283",
+      "workday-nvidia-JR2030526",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-AI-Product-Manager_JR2030526"
     ],
     "swe-ai-full-time": [
       "ashby-perplexity-d865c821-9a27-416c-9c6a-14132a86f760",
