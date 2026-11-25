@@ -25771,10 +25771,34 @@
     {
       "id": "url:https://go.vansh.nyc/1J7",
       "seen_at": "2026-11-25T13:33:06.992373+00:00"
+    },
+    {
+      "id": "jobright-4c616b9e23d2",
+      "seen_at": "2026-11-25T14:03:58.521949+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b06d86ef29eaaf8773f3a45",
+      "seen_at": "2026-11-25T14:03:58.522615+00:00"
+    },
+    {
+      "id": "jobright-a1a6c1e537d2",
+      "seen_at": "2026-11-25T14:03:58.523122+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a56243d53b3962b910ae587",
+      "seen_at": "2026-11-25T14:03:58.523560+00:00"
+    },
+    {
+      "id": "jobright-a4f6bb6526fd",
+      "seen_at": "2026-11-25T14:04:06.967020+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b06cd4ee9f77ff31f6cef8b",
+      "seen_at": "2026-11-25T14:04:06.967517+00:00"
     }
   ],
-  "last_run": "2026-11-25T13:33:09.668409+00:00",
-  "total_notified": 13542,
+  "last_run": "2026-11-25T14:04:07.232142+00:00",
+  "total_notified": 13545,
   "channels": {
     "pm-jobs": [
       "zapply-66ba842b005b",
@@ -32019,7 +32043,11 @@
       "applyguy-ab1ca117-d1a9-44ee-9198-6842ab8bb097",
       "url:https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W",
       "simplify-503767c7-7b3e-45f6-a0e5-ea26492d249a",
-      "url:https://go.vansh.nyc/1J7"
+      "url:https://go.vansh.nyc/1J7",
+      "jobright-4c616b9e23d2",
+      "url:https://jobright.ai/jobs/info/6b06d86ef29eaaf8773f3a45",
+      "jobright-a1a6c1e537d2",
+      "url:https://jobright.ai/jobs/info/6a56243d53b3962b910ae587"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -32229,7 +32257,9 @@
       "jobright-84c3e57e082e",
       "url:https://jobright.ai/jobs/info/6b05fcc5dbad4c4bd25034cc",
       "jobright-916eb706bb18",
-      "url:https://jobright.ai/jobs/info/6b062ebb3e56157448ed41b5"
+      "url:https://jobright.ai/jobs/info/6b062ebb3e56157448ed41b5",
+      "jobright-a4f6bb6526fd",
+      "url:https://jobright.ai/jobs/info/6b06cd4ee9f77ff31f6cef8b"
     ]
   }
 }
