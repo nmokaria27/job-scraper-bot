@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-anthropic-5461863008",
-      "seen_at": "2026-10-26T01:01:17.252196+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/anthropic/jobs/5461863008",
-      "seen_at": "2026-10-26T01:01:17.252709+00:00"
-    },
-    {
       "id": "ashby-perplexity-d865c821-9a27-416c-9c6a-14132a86f760",
       "seen_at": "2026-10-26T10:01:14.025833+00:00"
     },
@@ -25627,10 +25619,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b05fd1cdbad4c4bd25034fc",
       "seen_at": "2026-11-25T01:03:05.910225+00:00"
+    },
+    {
+      "id": "simplify-2565567e-75a7-4ed1-9ff8-0a0d63006997",
+      "seen_at": "2026-11-25T01:33:00.850050+00:00"
+    },
+    {
+      "id": "url:https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999",
+      "seen_at": "2026-11-25T01:33:00.850638+00:00"
+    },
+    {
+      "id": "applyguy-e36e2e83-f495-4b38-896f-a2d1412844b9",
+      "seen_at": "2026-11-25T01:33:00.851191+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/wurljobs/jobs/4731759006",
+      "seen_at": "2026-11-25T01:33:00.851625+00:00"
     }
   ],
-  "last_run": "2026-11-25T01:03:06.205447+00:00",
-  "total_notified": 13511,
+  "last_run": "2026-11-25T01:33:03.613179+00:00",
+  "total_notified": 13513,
   "channels": {
     "pm-jobs": [
       "simplify-d6a611ad-6577-4727-bad6-a4aa05ad24ec",
@@ -26799,8 +26807,6 @@
       "url:https://jobright.ai/jobs/info/6b05fb750e7eacd1ea6450ca"
     ],
     "swe-ai-full-time": [
-      "greenhouse-anthropic-5461863008",
-      "url:https://job-boards.greenhouse.io/anthropic/jobs/5461863008",
       "ashby-perplexity-d865c821-9a27-416c-9c6a-14132a86f760",
       "url:https://jobs.ashbyhq.com/perplexity/d865c821-9a27-416c-9c6a-14132a86f760",
       "simplify-7fb4df11-724b-4388-80ba-7b185189f957",
@@ -31851,7 +31857,11 @@
       "jobright-083e1182603a",
       "url:https://jobright.ai/jobs/info/6b03b5c9adf53adef40e1276",
       "jobright-ad66a3861cdb",
-      "url:https://jobright.ai/jobs/info/6b0617753e56157448ed3625"
+      "url:https://jobright.ai/jobs/info/6b0617753e56157448ed3625",
+      "simplify-2565567e-75a7-4ed1-9ff8-0a0d63006997",
+      "url:https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999",
+      "applyguy-e36e2e83-f495-4b38-896f-a2d1412844b9",
+      "url:https://job-boards.greenhouse.io/wurljobs/jobs/4731759006"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
