@@ -25667,10 +25667,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b06225c45a65b5da366ea9e",
       "seen_at": "2026-11-25T02:03:23.648610+00:00"
+    },
+    {
+      "id": "coty-1451746033",
+      "seen_at": "2026-11-25T02:33:06.474448+00:00"
+    },
+    {
+      "id": "url:https://careers.coty.com/job/New-York-Global-Leader%2C-Product-Performance-&-Insights-%28Color-Cosmetics-and-Nail%29-NY-10118/1451746033",
+      "seen_at": "2026-11-25T02:33:06.474721+00:00"
     }
   ],
-  "last_run": "2026-11-25T02:03:23.900463+00:00",
-  "total_notified": 13517,
+  "last_run": "2026-11-25T02:33:06.836283+00:00",
+  "total_notified": 13518,
   "channels": {
     "pm-jobs": [
       "simplify-d6a611ad-6577-4727-bad6-a4aa05ad24ec",
@@ -32099,7 +32107,9 @@
       "jobright-a3366c50f81f",
       "url:https://jobright.ai/jobs/info/6ae96650a291a1db4de23cc8",
       "jobright-124f25eaee4d",
-      "url:https://jobright.ai/jobs/info/6b06225c45a65b5da366ea9e"
+      "url:https://jobright.ai/jobs/info/6b06225c45a65b5da366ea9e",
+      "coty-1451746033",
+      "url:https://careers.coty.com/job/New-York-Global-Leader%2C-Product-Performance-&-Insights-%28Color-Cosmetics-and-Nail%29-NY-10118/1451746033"
     ]
   }
 }
