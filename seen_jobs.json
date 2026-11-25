@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-a8af7781cf7d",
-      "seen_at": "2026-10-26T14:01:55.169506+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adf43bbc5c64fa3d9cba3f0",
-      "seen_at": "2026-10-26T14:01:55.170182+00:00"
-    },
-    {
       "id": "amazon-10587013",
       "seen_at": "2026-10-26T14:31:28.896532+00:00"
     },
@@ -25797,7 +25789,7 @@
       "seen_at": "2026-11-25T14:04:06.967517+00:00"
     }
   ],
-  "last_run": "2026-11-25T14:04:07.232142+00:00",
+  "last_run": "2026-11-25T14:33:15.135439+00:00",
   "total_notified": 13545,
   "channels": {
     "pm-jobs": [
@@ -26971,8 +26963,6 @@
       "url:https://jobright.ai/jobs/info/6b0674f108cc74812e5e8e7f"
     ],
     "swe-ai-full-time": [
-      "jobright-a8af7781cf7d",
-      "url:https://jobright.ai/jobs/info/6adf43bbc5c64fa3d9cba3f0",
       "amazon-10587013",
       "url:https://www.amazon.jobs/en/jobs/10587013/data-scientist-amazon-ads-marketing-decision-science",
       "jobright-772fa6e08705",
