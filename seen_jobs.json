@@ -1,78 +1,6 @@
 {
   "jobs": [
     {
-      "id": "gradtracker-fa9f304a78b4",
-      "seen_at": "2026-10-26T20:31:17.827909+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10588676/software-development-engineer-amazon-quick",
-      "seen_at": "2026-10-26T20:31:17.828418+00:00"
-    },
-    {
-      "id": "gradtracker-fade589503c4",
-      "seen_at": "2026-10-26T20:31:17.828891+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10588790/software-development-engineer-playback-team",
-      "seen_at": "2026-10-26T20:31:17.829323+00:00"
-    },
-    {
-      "id": "gradtracker-72bf0aae6928",
-      "seen_at": "2026-10-26T20:31:17.829751+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10588977/data-engineer-i",
-      "seen_at": "2026-10-26T20:31:17.830168+00:00"
-    },
-    {
-      "id": "gradtracker-d790bf0f1fc1",
-      "seen_at": "2026-10-26T20:31:17.830610+00:00"
-    },
-    {
-      "id": "url:https://paypal.eightfold.ai/careers/job/274922972416",
-      "seen_at": "2026-10-26T20:31:17.831031+00:00"
-    },
-    {
-      "id": "amazon-10586895",
-      "seen_at": "2026-10-26T20:31:17.831489+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10586895/software-development-engineer-leo-telemetry-platform",
-      "seen_at": "2026-10-26T20:31:17.831908+00:00"
-    },
-    {
-      "id": "amazon-10586894",
-      "seen_at": "2026-10-26T20:31:17.832343+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10586894/software-development-engineer-leo-telemetry-platform",
-      "seen_at": "2026-10-26T20:31:17.832757+00:00"
-    },
-    {
-      "id": "amazon-10587870",
-      "seen_at": "2026-10-26T20:31:17.833183+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10587870/applied-scientist-agentic-ai-aws-governance",
-      "seen_at": "2026-10-26T20:31:17.833660+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR364682",
-      "seen_at": "2026-10-26T20:31:17.834102+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR364682-1",
-      "seen_at": "2026-10-26T20:31:17.834530+00:00"
-    },
-    {
-      "id": "greenhouse-verkada-5235933007",
-      "seen_at": "2026-10-26T20:31:19.949111+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/verkada/jobs/5235933007",
-      "seen_at": "2026-10-26T20:31:19.949569+00:00"
-    },
-    {
       "id": "jobright-e17e6d8ab178",
       "seen_at": "2026-10-26T21:01:22.618622+00:00"
     },
@@ -25691,14 +25619,76 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b0728d3b624dcc57de77e8e",
       "seen_at": "2026-11-25T20:33:10.535081+00:00"
+    },
+    {
+      "id": "zapply-778869fa50c2",
+      "seen_at": "2026-11-25T21:03:23.572751+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1216553",
+      "seen_at": "2026-11-25T21:03:23.573175+00:00"
+    },
+    {
+      "id": "greenhouse-robinhood-8355577",
+      "seen_at": "2026-11-25T21:03:23.573527+00:00"
+    },
+    {
+      "id": "url:https://boards.greenhouse.io/robinhood/jobs/8355577",
+      "seen_at": "2026-11-25T21:03:23.573830+00:00"
+    },
+    {
+      "id": "zapply-9a481cc1432f",
+      "seen_at": "2026-11-25T21:03:23.574112+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/greenhouse-xpengmotors-8962912002",
+      "seen_at": "2026-11-25T21:03:23.574391+00:00"
+    },
+    {
+      "id": "simplify-7ae6fd19-c6d8-4ba8-9c35-ccc5dd237326",
+      "seen_at": "2026-11-25T21:03:23.574676+00:00"
+    },
+    {
+      "id": "url:https://go.vansh.nyc/1Jt",
+      "seen_at": "2026-11-25T21:03:23.574939+00:00"
+    },
+    {
+      "id": "jobright-08efc4b72791",
+      "seen_at": "2026-11-25T21:03:23.575198+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0735c0fbcb892eea5e15df",
+      "seen_at": "2026-11-25T21:03:23.575481+00:00"
+    },
+    {
+      "id": "applyguy-3669db57-a8c1-4e28-94db-7b1590b188f9",
+      "seen_at": "2026-11-25T21:03:23.575746+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5308625007",
+      "seen_at": "2026-11-25T21:03:23.576034+00:00"
+    },
+    {
+      "id": "jobright-3bbeb2cebd2a",
+      "seen_at": "2026-11-25T21:03:28.530068+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b07321e6c5083822fdc7a0d",
+      "seen_at": "2026-11-25T21:03:28.530416+00:00"
+    },
+    {
+      "id": "jobright-0ca152082f11",
+      "seen_at": "2026-11-25T21:03:28.530723+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b07299f20135524ca72a4ad",
+      "seen_at": "2026-11-25T21:03:28.531004+00:00"
     }
   ],
-  "last_run": "2026-11-25T20:33:10.802880+00:00",
-  "total_notified": 13584,
+  "last_run": "2026-11-25T21:03:28.845865+00:00",
+  "total_notified": 13592,
   "channels": {
     "pm-jobs": [
-      "greenhouse-verkada-5235933007",
-      "url:https://job-boards.greenhouse.io/verkada/jobs/5235933007",
       "zapply-60bf15d7cbbb",
       "url:https://zapply.jobs/l/d/workday-fiserv-ext-R-10405180",
       "jobright-0b2b6c941ba7",
@@ -26857,22 +26847,6 @@
       "url:https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR104093"
     ],
     "swe-ai-full-time": [
-      "gradtracker-fa9f304a78b4",
-      "url:https://www.amazon.jobs/en/jobs/10588676/software-development-engineer-amazon-quick",
-      "gradtracker-fade589503c4",
-      "url:https://www.amazon.jobs/en/jobs/10588790/software-development-engineer-playback-team",
-      "gradtracker-72bf0aae6928",
-      "url:https://www.amazon.jobs/en/jobs/10588977/data-engineer-i",
-      "gradtracker-d790bf0f1fc1",
-      "url:https://paypal.eightfold.ai/careers/job/274922972416",
-      "amazon-10586895",
-      "url:https://www.amazon.jobs/en/jobs/10586895/software-development-engineer-leo-telemetry-platform",
-      "amazon-10586894",
-      "url:https://www.amazon.jobs/en/jobs/10586894/software-development-engineer-leo-telemetry-platform",
-      "amazon-10587870",
-      "url:https://www.amazon.jobs/en/jobs/10587870/applied-scientist-agentic-ai-aws-governance",
-      "workday-salesforce-JR364682",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR364682-1",
       "jobright-e17e6d8ab178",
       "url:https://jobright.ai/jobs/info/6adfa1b59e3e874dbfbae84a",
       "jobright-9b3f9685506c",
@@ -31901,7 +31875,19 @@
       "ashby-perplexity-8fe61c73-0daf-4432-a47d-44714c1ef764",
       "url:https://jobs.ashbyhq.com/Perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764",
       "workday-nvidia-JR2022783",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783",
+      "zapply-778869fa50c2",
+      "url:https://zapply.jobs/l/d/workday-hpe-jobsathpe-1216553",
+      "greenhouse-robinhood-8355577",
+      "url:https://boards.greenhouse.io/robinhood/jobs/8355577",
+      "zapply-9a481cc1432f",
+      "url:https://zapply.jobs/l/d/greenhouse-xpengmotors-8962912002",
+      "simplify-7ae6fd19-c6d8-4ba8-9c35-ccc5dd237326",
+      "url:https://go.vansh.nyc/1Jt",
+      "jobright-08efc4b72791",
+      "url:https://jobright.ai/jobs/info/6b0735c0fbcb892eea5e15df",
+      "applyguy-3669db57-a8c1-4e28-94db-7b1590b188f9",
+      "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5308625007"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -32129,7 +32115,11 @@
       "zapply-853d4d507379",
       "url:https://zapply.jobs/l/d/workday-statestreet-global-R-795220",
       "jobright-8b96e5f22283",
-      "url:https://jobright.ai/jobs/info/6b0728d3b624dcc57de77e8e"
+      "url:https://jobright.ai/jobs/info/6b0728d3b624dcc57de77e8e",
+      "jobright-3bbeb2cebd2a",
+      "url:https://jobright.ai/jobs/info/6b07321e6c5083822fdc7a0d",
+      "jobright-0ca152082f11",
+      "url:https://jobright.ai/jobs/info/6b07299f20135524ca72a4ad"
     ]
   }
 }
