@@ -25675,10 +25675,42 @@
     {
       "id": "url:https://careers.coty.com/job/New-York-Global-Leader%2C-Product-Performance-&-Insights-%28Color-Cosmetics-and-Nail%29-NY-10118/1451746033",
       "seen_at": "2026-11-25T02:33:06.474721+00:00"
+    },
+    {
+      "id": "zapply-245096846f7f",
+      "seen_at": "2026-11-25T03:03:00.235901+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2030526",
+      "seen_at": "2026-11-25T03:03:00.236370+00:00"
+    },
+    {
+      "id": "jobright-7e62162043b0",
+      "seen_at": "2026-11-25T03:03:00.236737+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0632cd71c8f4e3660ec50e",
+      "seen_at": "2026-11-25T03:03:00.237063+00:00"
+    },
+    {
+      "id": "jobright-7d188a2c0af9",
+      "seen_at": "2026-11-25T03:03:00.237410+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abaf05ad2914e9273eee283",
+      "seen_at": "2026-11-25T03:03:00.237745+00:00"
+    },
+    {
+      "id": "jobright-84c3e57e082e",
+      "seen_at": "2026-11-25T03:03:04.253218+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b05fcc5dbad4c4bd25034cc",
+      "seen_at": "2026-11-25T03:03:04.253741+00:00"
     }
   ],
-  "last_run": "2026-11-25T02:33:06.836283+00:00",
-  "total_notified": 13518,
+  "last_run": "2026-11-25T03:03:04.548282+00:00",
+  "total_notified": 13522,
   "channels": {
     "pm-jobs": [
       "simplify-d6a611ad-6577-4727-bad6-a4aa05ad24ec",
@@ -26844,7 +26876,13 @@
       "zapply-42006e693e12",
       "url:https://zapply.jobs/l/d/workday-broadcom-external-career-R026191",
       "jobright-9a40622069f7",
-      "url:https://jobright.ai/jobs/info/6b05fb750e7eacd1ea6450ca"
+      "url:https://jobright.ai/jobs/info/6b05fb750e7eacd1ea6450ca",
+      "zapply-245096846f7f",
+      "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2030526",
+      "jobright-7e62162043b0",
+      "url:https://jobright.ai/jobs/info/6b0632cd71c8f4e3660ec50e",
+      "jobright-7d188a2c0af9",
+      "url:https://jobright.ai/jobs/info/6abaf05ad2914e9273eee283"
     ],
     "swe-ai-full-time": [
       "ashby-perplexity-d865c821-9a27-416c-9c6a-14132a86f760",
@@ -32109,7 +32147,9 @@
       "jobright-124f25eaee4d",
       "url:https://jobright.ai/jobs/info/6b06225c45a65b5da366ea9e",
       "coty-1451746033",
-      "url:https://careers.coty.com/job/New-York-Global-Leader%2C-Product-Performance-&-Insights-%28Color-Cosmetics-and-Nail%29-NY-10118/1451746033"
+      "url:https://careers.coty.com/job/New-York-Global-Leader%2C-Product-Performance-&-Insights-%28Color-Cosmetics-and-Nail%29-NY-10118/1451746033",
+      "jobright-84c3e57e082e",
+      "url:https://jobright.ai/jobs/info/6b05fcc5dbad4c4bd25034cc"
     ]
   }
 }
