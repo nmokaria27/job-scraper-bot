@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-4cc2474f4aa6",
-      "seen_at": "2026-10-26T18:31:25.189986+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-pnc-external-R239236",
-      "seen_at": "2026-10-26T18:31:25.190548+00:00"
-    },
-    {
-      "id": "zapply-c4cc3902345e",
-      "seen_at": "2026-10-26T18:31:25.190982+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/amazon-a36de39b-8910-4703-b3d9-f936fd86e2d2",
-      "seen_at": "2026-10-26T18:31:25.191390+00:00"
-    },
-    {
-      "id": "amazon-10588978",
-      "seen_at": "2026-10-26T18:31:26.983719+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10588978/product-manager-learning-experience-designer-amazon-stores-learning-development-asld",
-      "seen_at": "2026-10-26T18:31:26.984235+00:00"
-    },
-    {
       "id": "jobright-907b60c230c5",
       "seen_at": "2026-10-26T19:01:30.472471+00:00"
     },
@@ -25811,14 +25787,68 @@
     {
       "id": "url:https://zapply.jobs/l/d/workday-statestreet-global-R-795220",
       "seen_at": "2026-11-25T18:33:29.059884+00:00"
+    },
+    {
+      "id": "zapply-176c08422164",
+      "seen_at": "2026-11-25T19:03:11.542739+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-sonos-sonos-R2912",
+      "seen_at": "2026-11-25T19:03:11.543238+00:00"
+    },
+    {
+      "id": "jobright-6b1a1961a350",
+      "seen_at": "2026-11-25T19:03:11.543683+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b071d66fbcb892eea5e0755",
+      "seen_at": "2026-11-25T19:03:11.544109+00:00"
+    },
+    {
+      "id": "jobright-53aa5f146a63",
+      "seen_at": "2026-11-25T19:03:11.544522+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a950e359864261ccd2a4dd6",
+      "seen_at": "2026-11-25T19:03:11.545143+00:00"
+    },
+    {
+      "id": "gradtracker-ab43985c5de1",
+      "seen_at": "2026-11-25T19:03:11.545779+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10603491/software-development-engineer-opensearch-platform-team",
+      "seen_at": "2026-11-25T19:03:11.546361+00:00"
+    },
+    {
+      "id": "gradtracker-4e585ae59531",
+      "seen_at": "2026-11-25T19:03:11.546970+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10614118/software-development-engineer-bigmesh-traffic-engineering",
+      "seen_at": "2026-11-25T19:03:11.547566+00:00"
+    },
+    {
+      "id": "amazon-10614341",
+      "seen_at": "2026-11-25T19:03:11.548176+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10614341/software-development-engineer",
+      "seen_at": "2026-11-25T19:03:11.548788+00:00"
+    },
+    {
+      "id": "amazon-10614355",
+      "seen_at": "2026-11-25T19:03:11.549391+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10614355/software-dev-engineer-antenna-system-validation",
+      "seen_at": "2026-11-25T19:03:11.549998+00:00"
     }
   ],
-  "last_run": "2026-11-25T18:33:29.308188+00:00",
-  "total_notified": 13574,
+  "last_run": "2026-11-25T19:03:16.541415+00:00",
+  "total_notified": 13581,
   "channels": {
     "pm-jobs": [
-      "amazon-10588978",
-      "url:https://www.amazon.jobs/en/jobs/10588978/product-manager-learning-experience-designer-amazon-stores-learning-development-asld",
       "greenhouse-verkada-5235933007",
       "url:https://job-boards.greenhouse.io/verkada/jobs/5235933007",
       "zapply-60bf15d7cbbb",
@@ -26979,10 +27009,6 @@
       "url:https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR104093"
     ],
     "swe-ai-full-time": [
-      "zapply-4cc2474f4aa6",
-      "url:https://zapply.jobs/l/d/workday-pnc-external-R239236",
-      "zapply-c4cc3902345e",
-      "url:https://zapply.jobs/l/d/amazon-a36de39b-8910-4703-b3d9-f936fd86e2d2",
       "jobright-907b60c230c5",
       "url:https://jobright.ai/jobs/info/6adf8b55c5c64fa3d9cbcbd7",
       "jobright-b6c62e919550",
@@ -32053,7 +32079,21 @@
       "jobright-cb855dfdb87c",
       "url:https://jobright.ai/jobs/info/6b07115db624dcc57de7719a",
       "workday-nvidia-JR2007081",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Tegra_JR2007081"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Tegra_JR2007081",
+      "zapply-176c08422164",
+      "url:https://zapply.jobs/l/d/workday-sonos-sonos-R2912",
+      "jobright-6b1a1961a350",
+      "url:https://jobright.ai/jobs/info/6b071d66fbcb892eea5e0755",
+      "jobright-53aa5f146a63",
+      "url:https://jobright.ai/jobs/info/6a950e359864261ccd2a4dd6",
+      "gradtracker-ab43985c5de1",
+      "url:https://www.amazon.jobs/en/jobs/10603491/software-development-engineer-opensearch-platform-team",
+      "gradtracker-4e585ae59531",
+      "url:https://www.amazon.jobs/en/jobs/10614118/software-development-engineer-bigmesh-traffic-engineering",
+      "amazon-10614341",
+      "url:https://www.amazon.jobs/en/jobs/10614341/software-development-engineer",
+      "amazon-10614355",
+      "url:https://www.amazon.jobs/en/jobs/10614355/software-dev-engineer-antenna-system-validation"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
