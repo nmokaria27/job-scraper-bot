@@ -1,70 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-d17a76de02a1",
-      "seen_at": "2026-10-26T15:31:45.102124+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R67475",
-      "seen_at": "2026-10-26T15:31:45.102547+00:00"
-    },
-    {
-      "id": "zapply-b14248d02a07",
-      "seen_at": "2026-10-26T15:31:45.102952+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/lever-thinkahead-4adc622d-3611-4707-a996-cff0c313b106",
-      "seen_at": "2026-10-26T15:31:45.103320+00:00"
-    },
-    {
-      "id": "jobright-a44de27af7fc",
-      "seen_at": "2026-10-26T16:01:32.642156+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adf5d015dc7953215a3e217",
-      "seen_at": "2026-10-26T16:01:32.642481+00:00"
-    },
-    {
-      "id": "jobright-c03e69542dfd",
-      "seen_at": "2026-10-26T16:01:32.642767+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adf5ac10a4cc7090f97e598",
-      "seen_at": "2026-10-26T16:01:32.643005+00:00"
-    },
-    {
-      "id": "jobright-8fb40d3645d0",
-      "seen_at": "2026-10-26T16:01:32.643241+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac43cf08ff3fb9b3bc8504b",
-      "seen_at": "2026-10-26T16:01:32.643460+00:00"
-    },
-    {
-      "id": "zapply-1294965a216f",
-      "seen_at": "2026-10-26T16:01:33.933305+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210771926",
-      "seen_at": "2026-10-26T16:01:33.933616+00:00"
-    },
-    {
-      "id": "jobright-ce7f19bd3b88",
-      "seen_at": "2026-10-26T16:01:33.933866+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab51669c6fe0dec8119f4da",
-      "seen_at": "2026-10-26T16:01:33.934089+00:00"
-    },
-    {
-      "id": "amazon-10588615",
-      "seen_at": "2026-10-26T16:01:33.934310+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10588615/technical-program-manager-tech-deployment-systems-integration",
-      "seen_at": "2026-10-26T16:01:33.934510+00:00"
-    },
-    {
       "id": "greenhouse-roblox-8259453",
       "seen_at": "2026-10-26T16:31:21.566494+00:00"
     },
@@ -25779,22 +25715,60 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6af504501b2c5dcbbcd6638d",
       "seen_at": "2026-11-25T15:03:21.412260+00:00"
+    },
+    {
+      "id": "jobright-720a39500c63",
+      "seen_at": "2026-11-25T16:33:14.569981+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a95fbc4cabc9f6703e1b604",
+      "seen_at": "2026-11-25T16:33:14.570543+00:00"
+    },
+    {
+      "id": "jobright-c99181bb16e4",
+      "seen_at": "2026-11-25T16:33:14.570970+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd4d283c831dc4086c1a6e",
+      "seen_at": "2026-11-25T16:33:14.571372+00:00"
+    },
+    {
+      "id": "jobright-5becd34d52ec",
+      "seen_at": "2026-11-25T16:33:14.571769+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b06e5aaf29eaaf8773f3e76",
+      "seen_at": "2026-11-25T16:33:14.572156+00:00"
+    },
+    {
+      "id": "amazon-10614043",
+      "seen_at": "2026-11-25T16:33:14.572536+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10614043/software-development-engineer-annapurna-labs-libnvme",
+      "seen_at": "2026-11-25T16:33:14.572894+00:00"
+    },
+    {
+      "id": "jobright-8c8ef7115d23",
+      "seen_at": "2026-11-25T16:33:18.475373+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b06f2c02662686ad8e05890",
+      "seen_at": "2026-11-25T16:33:18.475805+00:00"
+    },
+    {
+      "id": "jobright-6bd6db960f67",
+      "seen_at": "2026-11-25T16:33:18.476176+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b06e6dbf29eaaf8773f3eae",
+      "seen_at": "2026-11-25T16:33:18.476502+00:00"
     }
   ],
-  "last_run": "2026-11-25T15:33:11.757680+00:00",
-  "total_notified": 13549,
+  "last_run": "2026-11-25T16:33:18.706360+00:00",
+  "total_notified": 13555,
   "channels": {
     "pm-jobs": [
-      "zapply-d17a76de02a1",
-      "url:https://zapply.jobs/l/d/workday-motorolasolutions-careers-R67475",
-      "zapply-b14248d02a07",
-      "url:https://zapply.jobs/l/d/lever-thinkahead-4adc622d-3611-4707-a996-cff0c313b106",
-      "zapply-1294965a216f",
-      "url:https://zapply.jobs/l/d/oracle-jpmorgan-chase-210771926",
-      "jobright-ce7f19bd3b88",
-      "url:https://jobright.ai/jobs/info/6ab51669c6fe0dec8119f4da",
-      "amazon-10588615",
-      "url:https://www.amazon.jobs/en/jobs/10588615/technical-program-manager-tech-deployment-systems-integration",
       "zapply-f62db54860c2",
       "url:https://zapply.jobs/l/d/workday-workday-workday-JR-0110855",
       "zapply-f32750f39206",
@@ -26949,12 +26923,6 @@
       "url:https://jobright.ai/jobs/info/6b0674f108cc74812e5e8e7f"
     ],
     "swe-ai-full-time": [
-      "jobright-a44de27af7fc",
-      "url:https://jobright.ai/jobs/info/6adf5d015dc7953215a3e217",
-      "jobright-c03e69542dfd",
-      "url:https://jobright.ai/jobs/info/6adf5ac10a4cc7090f97e598",
-      "jobright-8fb40d3645d0",
-      "url:https://jobright.ai/jobs/info/6ac43cf08ff3fb9b3bc8504b",
       "greenhouse-roblox-8259453",
       "url:https://careers.roblox.com/jobs/8259453",
       "amazon-10588672",
@@ -32025,7 +31993,15 @@
       "jobright-b6b580fbd344",
       "url:https://jobright.ai/jobs/info/6a95fac09fcec54423730908",
       "jobright-7a2a18178520",
-      "url:https://jobright.ai/jobs/info/6b06e162e9f77ff31f6cf449"
+      "url:https://jobright.ai/jobs/info/6b06e162e9f77ff31f6cf449",
+      "jobright-720a39500c63",
+      "url:https://jobright.ai/jobs/info/6a95fbc4cabc9f6703e1b604",
+      "jobright-c99181bb16e4",
+      "url:https://jobright.ai/jobs/info/6acd4d283c831dc4086c1a6e",
+      "jobright-5becd34d52ec",
+      "url:https://jobright.ai/jobs/info/6b06e5aaf29eaaf8773f3e76",
+      "amazon-10614043",
+      "url:https://www.amazon.jobs/en/jobs/10614043/software-development-engineer-annapurna-labs-libnvme"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -32239,7 +32215,11 @@
       "jobright-a4f6bb6526fd",
       "url:https://jobright.ai/jobs/info/6b06cd4ee9f77ff31f6cef8b",
       "jobright-ae9ce2db7e11",
-      "url:https://jobright.ai/jobs/info/6af504501b2c5dcbbcd6638d"
+      "url:https://jobright.ai/jobs/info/6af504501b2c5dcbbcd6638d",
+      "jobright-8c8ef7115d23",
+      "url:https://jobright.ai/jobs/info/6b06f2c02662686ad8e05890",
+      "jobright-6bd6db960f67",
+      "url:https://jobright.ai/jobs/info/6b06e6dbf29eaaf8773f3eae"
     ]
   }
 }
