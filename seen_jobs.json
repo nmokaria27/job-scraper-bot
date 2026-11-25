@@ -1,62 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-1f07993a-5e6f-4e09-8236-942da5e6d9e3",
-      "seen_at": "2026-10-26T23:01:33.232099+00:00"
-    },
-    {
-      "id": "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770",
-      "seen_at": "2026-10-26T23:01:33.232639+00:00"
-    },
-    {
-      "id": "simplify-1b08972f-0916-4069-b9dd-f0b3063ba9f2",
-      "seen_at": "2026-10-26T23:01:33.233125+00:00"
-    },
-    {
-      "id": "url:https://jobs.lever.co/reply/790c1fc7-d76c-4603-b879-922e61fc7a90/apply",
-      "seen_at": "2026-10-26T23:01:33.233570+00:00"
-    },
-    {
-      "id": "simplify-dffcfc23-8cbd-490a-8145-fcefb06961ad",
-      "seen_at": "2026-10-26T23:01:33.234017+00:00"
-    },
-    {
-      "id": "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1",
-      "seen_at": "2026-10-26T23:01:33.234444+00:00"
-    },
-    {
-      "id": "jobright-ea943f433e4a",
-      "seen_at": "2026-10-26T23:01:33.234905+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ac03a1d0e027c0f3b3a08d7",
-      "seen_at": "2026-10-26T23:01:33.235338+00:00"
-    },
-    {
-      "id": "jobright-46df07ca5f39",
-      "seen_at": "2026-10-26T23:01:33.235803+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adfc0499e3e874dbfbafd87",
-      "seen_at": "2026-10-26T23:01:33.236234+00:00"
-    },
-    {
-      "id": "jobright-e647d23bafab",
-      "seen_at": "2026-10-26T23:01:33.236690+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adfbb390a4cc7090f982847",
-      "seen_at": "2026-10-26T23:01:33.237133+00:00"
-    },
-    {
-      "id": "zapply-6fc0bda8b040",
-      "seen_at": "2026-10-26T23:01:35.222289+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091963",
-      "seen_at": "2026-10-26T23:01:35.222808+00:00"
-    },
-    {
       "id": "simplify-ba817379-8019-4183-a9eb-c66d9bf0075e",
       "seen_at": "2026-10-26T23:31:11.049756+00:00"
     },
@@ -25643,14 +25587,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b074a6820135524ca72b96e",
       "seen_at": "2026-11-25T23:03:00.314733+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2029995",
+      "seen_at": "2026-11-25T23:33:00.490467+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Platform-Software-Product-Manager_JR2029995",
+      "seen_at": "2026-11-25T23:33:00.490965+00:00"
+    },
+    {
+      "id": "gradtracker-2ea7ffe174f0",
+      "seen_at": "2026-11-25T23:33:02.351506+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10614461/software-development-engineer-aws-console",
+      "seen_at": "2026-11-25T23:33:02.352111+00:00"
     }
   ],
-  "last_run": "2026-11-25T23:03:06.262011+00:00",
-  "total_notified": 13603,
+  "last_run": "2026-11-25T23:33:05.268485+00:00",
+  "total_notified": 13605,
   "channels": {
     "pm-jobs": [
-      "zapply-6fc0bda8b040",
-      "url:https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091963",
       "zapply-c8ece098c9ef",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023445",
       "simplify-ff28280e-f670-4bb7-94f3-f7a0238e6a38",
@@ -26796,21 +26754,11 @@
       "zapply-0cfaf547e29e",
       "url:https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR104093",
       "jobright-46d848a9a927",
-      "url:https://jobright.ai/jobs/info/6b0748756c5083822fdc86fd"
+      "url:https://jobright.ai/jobs/info/6b0748756c5083822fdc86fd",
+      "workday-nvidia-JR2029995",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Platform-Software-Product-Manager_JR2029995"
     ],
     "swe-ai-full-time": [
-      "simplify-1f07993a-5e6f-4e09-8236-942da5e6d9e3",
-      "url:https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770",
-      "simplify-1b08972f-0916-4069-b9dd-f0b3063ba9f2",
-      "url:https://jobs.lever.co/reply/790c1fc7-d76c-4603-b879-922e61fc7a90/apply",
-      "simplify-dffcfc23-8cbd-490a-8145-fcefb06961ad",
-      "url:https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1",
-      "jobright-ea943f433e4a",
-      "url:https://jobright.ai/jobs/info/6ac03a1d0e027c0f3b3a08d7",
-      "jobright-46df07ca5f39",
-      "url:https://jobright.ai/jobs/info/6adfc0499e3e874dbfbafd87",
-      "jobright-e647d23bafab",
-      "url:https://jobright.ai/jobs/info/6adfbb390a4cc7090f982847",
       "simplify-ba817379-8019-4183-a9eb-c66d9bf0075e",
       "url:https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869",
       "simplify-f5c56e74-6403-4a4b-9708-7ec43edb0886",
@@ -31837,7 +31785,9 @@
       "jobright-bc4a59573ba8",
       "url:https://jobright.ai/jobs/info/6af4d0ba9144106c56a21980",
       "jobright-46ca38a5a01a",
-      "url:https://jobright.ai/jobs/info/6b074a6820135524ca72b96e"
+      "url:https://jobright.ai/jobs/info/6b074a6820135524ca72b96e",
+      "gradtracker-2ea7ffe174f0",
+      "url:https://www.amazon.jobs/en/jobs/10614461/software-development-engineer-aws-console"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
