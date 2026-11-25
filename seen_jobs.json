@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-79f54b4f58ae",
-      "seen_at": "2026-10-26T12:01:56.085260+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adf20be0a4cc7090f97d579",
-      "seen_at": "2026-10-26T12:01:56.085898+00:00"
-    },
-    {
       "id": "jobright-6ff2e5ec0f73",
       "seen_at": "2026-10-26T13:01:26.673821+00:00"
     },
@@ -25781,12 +25773,10 @@
       "seen_at": "2026-11-25T12:03:15.244478+00:00"
     }
   ],
-  "last_run": "2026-11-25T12:03:18.402492+00:00",
+  "last_run": "2026-11-25T12:32:57.854158+00:00",
   "total_notified": 13540,
   "channels": {
     "pm-jobs": [
-      "jobright-79f54b4f58ae",
-      "url:https://jobright.ai/jobs/info/6adf20be0a4cc7090f97d579",
       "zapply-66ba842b005b",
       "url:https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_053256",
       "zapply-7e6ef429da86",
