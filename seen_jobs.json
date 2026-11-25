@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-ae6d44137de8",
-      "seen_at": "2026-10-26T21:31:28.110520+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/ashby-swarmaero-7d3783c5-f98c-4def-8c33-6de907aab30e",
-      "seen_at": "2026-10-26T21:31:28.111167+00:00"
-    },
-    {
-      "id": "amazon-10589280",
-      "seen_at": "2026-10-26T21:31:28.111737+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10589280/data-scientist-ots-data-anchor-team",
-      "seen_at": "2026-10-26T21:31:28.112167+00:00"
-    },
-    {
-      "id": "zapply-4dc1c9328f52",
-      "seen_at": "2026-10-26T21:37:16.876385+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028152",
-      "seen_at": "2026-10-26T21:37:16.876807+00:00"
-    },
-    {
       "id": "jobright-72097335e03f",
       "seen_at": "2026-10-26T22:01:37.766416+00:00"
     },
@@ -25643,14 +25619,76 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b07299f20135524ca72a4ad",
       "seen_at": "2026-11-25T21:03:28.531004+00:00"
+    },
+    {
+      "id": "jobright-46d848a9a927",
+      "seen_at": "2026-11-25T22:03:02.641368+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0748756c5083822fdc86fd",
+      "seen_at": "2026-11-25T22:03:02.642214+00:00"
+    },
+    {
+      "id": "zapply-15b01c2e7f6d",
+      "seen_at": "2026-11-25T22:03:07.386931+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1216553",
+      "seen_at": "2026-11-25T22:03:07.388005+00:00"
+    },
+    {
+      "id": "jobright-45efa6cf52eb",
+      "seen_at": "2026-11-25T22:03:07.389043+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0746e1fbcb892eea5e1f3e",
+      "seen_at": "2026-11-25T22:03:07.390105+00:00"
+    },
+    {
+      "id": "jobright-25ec403baabb",
+      "seen_at": "2026-11-25T22:03:07.391251+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b073b3e20135524ca72b1a7",
+      "seen_at": "2026-11-25T22:03:07.392291+00:00"
+    },
+    {
+      "id": "jobright-ce111cb159b6",
+      "seen_at": "2026-11-25T22:03:07.393304+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b073a54b624dcc57de78b31",
+      "seen_at": "2026-11-25T22:03:07.394303+00:00"
+    },
+    {
+      "id": "jobright-9929a0336a01",
+      "seen_at": "2026-11-25T22:03:07.395308+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6acd5f0c002e496d4bef209a",
+      "seen_at": "2026-11-25T22:03:07.396300+00:00"
+    },
+    {
+      "id": "amazon-10614480",
+      "seen_at": "2026-11-25T22:03:07.397317+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10614480/software-development-engineer-amazon-quick",
+      "seen_at": "2026-11-25T22:03:07.398290+00:00"
+    },
+    {
+      "id": "jobright-8078ad6b839a",
+      "seen_at": "2026-11-25T22:03:07.399264+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b07487420135524ca72b7b0",
+      "seen_at": "2026-11-25T22:03:07.400313+00:00"
     }
   ],
-  "last_run": "2026-11-25T21:33:16.235945+00:00",
-  "total_notified": 13592,
+  "last_run": "2026-11-25T22:03:12.830487+00:00",
+  "total_notified": 13600,
   "channels": {
     "pm-jobs": [
-      "zapply-4dc1c9328f52",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028152",
       "jobright-a5ff7cc32ae4",
       "url:https://jobright.ai/jobs/info/6adfac2d065c4e77efafa475",
       "jobright-750688f21cc6",
@@ -26800,13 +26838,11 @@
       "jobright-e559a9b70571",
       "url:https://jobright.ai/jobs/info/6ace620fbb78de94580d5c77",
       "zapply-0cfaf547e29e",
-      "url:https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR104093"
+      "url:https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR104093",
+      "jobright-46d848a9a927",
+      "url:https://jobright.ai/jobs/info/6b0748756c5083822fdc86fd"
     ],
     "swe-ai-full-time": [
-      "zapply-ae6d44137de8",
-      "url:https://zapply.jobs/l/d/ashby-swarmaero-7d3783c5-f98c-4def-8c33-6de907aab30e",
-      "amazon-10589280",
-      "url:https://www.amazon.jobs/en/jobs/10589280/data-scientist-ots-data-anchor-team",
       "jobright-72097335e03f",
       "url:https://jobright.ai/jobs/info/6adfac2a9e3e874dbfbaefb1",
       "jobright-a59d53875770",
@@ -31837,7 +31873,21 @@
       "jobright-08efc4b72791",
       "url:https://jobright.ai/jobs/info/6b0735c0fbcb892eea5e15df",
       "applyguy-3669db57-a8c1-4e28-94db-7b1590b188f9",
-      "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5308625007"
+      "url:https://job-boards.greenhouse.io/freedomconsulting/jobs/5308625007",
+      "zapply-15b01c2e7f6d",
+      "url:https://zapply.jobs/l/d/workday-hpe-acjobsite-1216553",
+      "jobright-45efa6cf52eb",
+      "url:https://jobright.ai/jobs/info/6b0746e1fbcb892eea5e1f3e",
+      "jobright-25ec403baabb",
+      "url:https://jobright.ai/jobs/info/6b073b3e20135524ca72b1a7",
+      "jobright-ce111cb159b6",
+      "url:https://jobright.ai/jobs/info/6b073a54b624dcc57de78b31",
+      "jobright-9929a0336a01",
+      "url:https://jobright.ai/jobs/info/6acd5f0c002e496d4bef209a",
+      "amazon-10614480",
+      "url:https://www.amazon.jobs/en/jobs/10614480/software-development-engineer-amazon-quick",
+      "jobright-8078ad6b839a",
+      "url:https://jobright.ai/jobs/info/6b07487420135524ca72b7b0"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
