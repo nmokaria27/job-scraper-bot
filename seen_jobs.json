@@ -25715,10 +25715,26 @@
     {
       "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-AI-Product-Manager_JR2030526",
       "seen_at": "2026-11-25T03:32:52.535801+00:00"
+    },
+    {
+      "id": "jobright-f4e1f4022236",
+      "seen_at": "2026-11-25T03:46:50.731872+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0642e90e7eacd1ea647129",
+      "seen_at": "2026-11-25T03:46:50.732246+00:00"
+    },
+    {
+      "id": "jobright-274d1dac7ac6",
+      "seen_at": "2026-11-25T03:46:50.732592+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0642e83e56157448ed479e",
+      "seen_at": "2026-11-25T03:46:50.732900+00:00"
     }
   ],
-  "last_run": "2026-11-25T03:32:57.342623+00:00",
-  "total_notified": 13523,
+  "last_run": "2026-11-25T03:46:53.673533+00:00",
+  "total_notified": 13525,
   "channels": {
     "pm-jobs": [
       "simplify-d6a611ad-6577-4727-bad6-a4aa05ad24ec",
@@ -31951,7 +31967,11 @@
       "applyguy-e36e2e83-f495-4b38-896f-a2d1412844b9",
       "url:https://job-boards.greenhouse.io/wurljobs/jobs/4731759006",
       "jobright-f07c3b76a871",
-      "url:https://jobright.ai/jobs/info/6afd656eaf5227454a93cdbc"
+      "url:https://jobright.ai/jobs/info/6afd656eaf5227454a93cdbc",
+      "jobright-f4e1f4022236",
+      "url:https://jobright.ai/jobs/info/6b0642e90e7eacd1ea647129",
+      "jobright-274d1dac7ac6",
+      "url:https://jobright.ai/jobs/info/6b0642e83e56157448ed479e"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
