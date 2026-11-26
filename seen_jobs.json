@@ -1,110 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-harvey-0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
-      "seen_at": "2026-10-27T10:01:18.991878+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
-      "seen_at": "2026-10-27T10:01:18.992700+00:00"
-    },
-    {
-      "id": "simplify-6f13a743-47ce-489b-8a21-ebca0f8116e1",
-      "seen_at": "2026-10-27T10:01:18.993412+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application",
-      "seen_at": "2026-10-27T10:01:18.994058+00:00"
-    },
-    {
-      "id": "jobright-ad5914e87548",
-      "seen_at": "2026-10-27T10:01:18.994641+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae0145ec5c64fa3d9cc1f54",
-      "seen_at": "2026-10-27T10:01:18.995197+00:00"
-    },
-    {
-      "id": "amazon-10584176",
-      "seen_at": "2026-10-27T10:01:18.995754+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10584176/software-development-engineer-aws-agentic-ai",
-      "seen_at": "2026-10-27T10:01:18.996245+00:00"
-    },
-    {
-      "id": "amazon-10584164",
-      "seen_at": "2026-10-27T10:01:18.996726+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10584164/software-development-engineer-aws-agentic-ai-foundations",
-      "seen_at": "2026-10-27T10:01:18.997182+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR347341",
-      "seen_at": "2026-10-27T10:01:18.997625+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-SMTS---MTS----Platform-Engineering--Backend--Kubernetes---Cloud-_JR347341",
-      "seen_at": "2026-10-27T10:01:18.998047+00:00"
-    },
-    {
-      "id": "jobright-f1547991f2c0",
-      "seen_at": "2026-10-27T10:01:18.998486+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae04b105dc7953215a46641",
-      "seen_at": "2026-10-27T10:01:18.998912+00:00"
-    },
-    {
-      "id": "jobright-26bf5c0353da",
-      "seen_at": "2026-10-27T10:01:18.999347+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae041a10a4cc7090f986699",
-      "seen_at": "2026-10-27T10:01:18.999804+00:00"
-    },
-    {
-      "id": "jobright-3a267a308fa4",
-      "seen_at": "2026-10-27T10:01:19.000247+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae03c569a8c91d5c358c5eb",
-      "seen_at": "2026-10-27T10:01:19.000694+00:00"
-    },
-    {
-      "id": "jobright-8dacad845792",
-      "seen_at": "2026-10-27T10:01:19.001140+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a310b4c524fd5657fe12c80",
-      "seen_at": "2026-10-27T10:01:19.001580+00:00"
-    },
-    {
-      "id": "jobright-4777fa30eeff",
-      "seen_at": "2026-10-27T10:01:19.002019+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adfffa19a8c91d5c358b516",
-      "seen_at": "2026-10-27T10:01:19.002462+00:00"
-    },
-    {
-      "id": "jobright-b1419256efb4",
-      "seen_at": "2026-10-27T10:01:19.002903+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ab3f95464816213f2d963dc",
-      "seen_at": "2026-10-27T10:01:19.003329+00:00"
-    },
-    {
-      "id": "zapply-a5f186e53c17",
-      "seen_at": "2026-10-27T10:31:14.750884+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/google-131536174081548998",
-      "seen_at": "2026-10-27T10:31:14.751163+00:00"
-    },
-    {
       "id": "jobright-2cfe6bb5e353",
       "seen_at": "2026-10-27T11:01:36.181537+00:00"
     },
@@ -25659,14 +25555,68 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b079b02c9ff508d93ffa007",
       "seen_at": "2026-11-26T04:03:03.956445+00:00"
+    },
+    {
+      "id": "amazon-10614336",
+      "seen_at": "2026-11-26T11:03:07.098571+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10614336/product-manager-commerce",
+      "seen_at": "2026-11-26T11:03:07.098904+00:00"
+    },
+    {
+      "id": "applyguy-98f1ca91-f9f6-4eb7-b077-335908258422",
+      "seen_at": "2026-11-26T11:03:08.526471+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897",
+      "seen_at": "2026-11-26T11:03:08.526843+00:00"
+    },
+    {
+      "id": "jobright-49b5f146af06",
+      "seen_at": "2026-11-26T11:03:08.527111+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b07cb0d94adb9811965c5c3",
+      "seen_at": "2026-11-26T11:03:08.527382+00:00"
+    },
+    {
+      "id": "jobright-a288131fba34",
+      "seen_at": "2026-11-26T11:03:08.527641+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0769776c5083822fdc96bf",
+      "seen_at": "2026-11-26T11:03:08.527888+00:00"
+    },
+    {
+      "id": "jobright-e9b2e802d18d",
+      "seen_at": "2026-11-26T11:03:08.528144+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b07a5aee68b15bbbb56092e",
+      "seen_at": "2026-11-26T11:03:08.528380+00:00"
+    },
+    {
+      "id": "jobright-d9e428e4ef2f",
+      "seen_at": "2026-11-26T11:03:08.528597+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b07d6920bb3d71a62319020",
+      "seen_at": "2026-11-26T11:03:08.528800+00:00"
+    },
+    {
+      "id": "jobright-69838b966a55",
+      "seen_at": "2026-11-26T11:03:08.529000+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b07d62beb234df35222461d",
+      "seen_at": "2026-11-26T11:03:08.529192+00:00"
     }
   ],
-  "last_run": "2026-11-26T04:32:55.687286+00:00",
-  "total_notified": 13640,
+  "last_run": "2026-11-26T11:03:11.923378+00:00",
+  "total_notified": 13647,
   "channels": {
     "pm-jobs": [
-      "zapply-a5f186e53c17",
-      "url:https://zapply.jobs/l/d/google-131536174081548998",
       "jobright-ad9a65dfc776",
       "url:https://jobright.ai/jobs/info/6aa863cb2ed333b4ea5cf36c",
       "jobright-33d6cf6cff3f",
@@ -26804,33 +26754,11 @@
       "zapply-34e91400c649",
       "url:https://zapply.jobs/l/d/rippling-forterra-85bd401e-27ea-480a-ba30-71707e04eb80",
       "jobright-963bb360f585",
-      "url:https://jobright.ai/jobs/info/6ab4a84de9a8f953ef830b29"
+      "url:https://jobright.ai/jobs/info/6ab4a84de9a8f953ef830b29",
+      "amazon-10614336",
+      "url:https://www.amazon.jobs/en/jobs/10614336/product-manager-commerce"
     ],
     "swe-ai-full-time": [
-      "ashby-harvey-0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
-      "url:https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
-      "simplify-6f13a743-47ce-489b-8a21-ebca0f8116e1",
-      "url:https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application",
-      "jobright-ad5914e87548",
-      "url:https://jobright.ai/jobs/info/6ae0145ec5c64fa3d9cc1f54",
-      "amazon-10584176",
-      "url:https://www.amazon.jobs/en/jobs/10584176/software-development-engineer-aws-agentic-ai",
-      "amazon-10584164",
-      "url:https://www.amazon.jobs/en/jobs/10584164/software-development-engineer-aws-agentic-ai-foundations",
-      "workday-salesforce-JR347341",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-SMTS---MTS----Platform-Engineering--Backend--Kubernetes---Cloud-_JR347341",
-      "jobright-f1547991f2c0",
-      "url:https://jobright.ai/jobs/info/6ae04b105dc7953215a46641",
-      "jobright-26bf5c0353da",
-      "url:https://jobright.ai/jobs/info/6ae041a10a4cc7090f986699",
-      "jobright-3a267a308fa4",
-      "url:https://jobright.ai/jobs/info/6ae03c569a8c91d5c358c5eb",
-      "jobright-8dacad845792",
-      "url:https://jobright.ai/jobs/info/6a310b4c524fd5657fe12c80",
-      "jobright-4777fa30eeff",
-      "url:https://jobright.ai/jobs/info/6adfffa19a8c91d5c358b516",
-      "jobright-b1419256efb4",
-      "url:https://jobright.ai/jobs/info/6ab3f95464816213f2d963dc",
       "jobright-2cfe6bb5e353",
       "url:https://jobright.ai/jobs/info/6aa81cb8930bff471a2a5247",
       "jobright-19761e75f07e",
@@ -31851,7 +31779,19 @@
       "simplify-9c007171-49c7-45fe-ae89-8fbe69996d96",
       "url:https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application",
       "jobright-c556f440e2b8",
-      "url:https://jobright.ai/jobs/info/6af4c91b1b2c5dcbbcd6415e"
+      "url:https://jobright.ai/jobs/info/6af4c91b1b2c5dcbbcd6415e",
+      "applyguy-98f1ca91-f9f6-4eb7-b077-335908258422",
+      "url:https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897",
+      "jobright-49b5f146af06",
+      "url:https://jobright.ai/jobs/info/6b07cb0d94adb9811965c5c3",
+      "jobright-a288131fba34",
+      "url:https://jobright.ai/jobs/info/6b0769776c5083822fdc96bf",
+      "jobright-e9b2e802d18d",
+      "url:https://jobright.ai/jobs/info/6b07a5aee68b15bbbb56092e",
+      "jobright-d9e428e4ef2f",
+      "url:https://jobright.ai/jobs/info/6b07d6920bb3d71a62319020",
+      "jobright-69838b966a55",
+      "url:https://jobright.ai/jobs/info/6b07d62beb234df35222461d"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
