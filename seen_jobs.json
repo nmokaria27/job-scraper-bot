@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-baseten-7c0ba27d-2f09-42f2-9277-1b756076b00b",
-      "seen_at": "2026-10-27T00:01:26.670097+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/baseten/7c0ba27d-2f09-42f2-9277-1b756076b00b",
-      "seen_at": "2026-10-27T00:01:26.670455+00:00"
-    },
-    {
-      "id": "jobright-c823d0fb70d8",
-      "seen_at": "2026-10-27T00:01:26.670727+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa80ee52ed333b4ea5ccfe9",
-      "seen_at": "2026-10-27T00:01:26.670983+00:00"
-    },
-    {
-      "id": "jobright-20b1119eb513",
-      "seen_at": "2026-10-27T00:01:28.257945+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adfceeac5c64fa3d9cbfc57",
-      "seen_at": "2026-10-27T00:01:28.258286+00:00"
-    },
-    {
-      "id": "jobright-2a44313af8cb",
-      "seen_at": "2026-10-27T00:01:28.258542+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adfcef19a8c91d5c358973e",
-      "seen_at": "2026-10-27T00:01:28.258770+00:00"
-    },
-    {
       "id": "ashby-baseten-ed8ab178-e7a4-4524-8714-7ef55d574c7d",
       "seen_at": "2026-10-27T00:31:10.657552+00:00"
     },
@@ -25595,16 +25563,44 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b075a332c2b1d2eebe1437a",
       "seen_at": "2026-11-26T00:02:58.708592+00:00"
+    },
+    {
+      "id": "zapply-2c96b19cf1c4",
+      "seen_at": "2026-11-26T00:32:59.597560+00:00"
+    },
+    {
+      "id": "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R74547",
+      "seen_at": "2026-11-26T00:32:59.597898+00:00"
+    },
+    {
+      "id": "simplify-5d0adbaf-c34b-4c5b-bcb0-cab03a0c3297",
+      "seen_at": "2026-11-26T00:32:59.598183+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002",
+      "seen_at": "2026-11-26T00:32:59.598444+00:00"
+    },
+    {
+      "id": "applyguy-f89169ea-5ad1-49cf-a578-d2df8f4519bc",
+      "seen_at": "2026-11-26T00:32:59.598691+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51",
+      "seen_at": "2026-11-26T00:32:59.598952+00:00"
+    },
+    {
+      "id": "applyguy-1a7cd59b-e91e-4aec-9e5e-08742896d5fc",
+      "seen_at": "2026-11-26T00:32:59.599215+00:00"
+    },
+    {
+      "id": "url:https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c",
+      "seen_at": "2026-11-26T00:32:59.599451+00:00"
     }
   ],
-  "last_run": "2026-11-26T00:03:01.826299+00:00",
-  "total_notified": 13610,
+  "last_run": "2026-11-26T00:33:02.463684+00:00",
+  "total_notified": 13614,
   "channels": {
     "pm-jobs": [
-      "jobright-20b1119eb513",
-      "url:https://jobright.ai/jobs/info/6adfceeac5c64fa3d9cbfc57",
-      "jobright-2a44313af8cb",
-      "url:https://jobright.ai/jobs/info/6adfcef19a8c91d5c358973e",
       "jobright-04f8109e7abf",
       "url:https://jobright.ai/jobs/info/6adfbc409a8c91d5c3588aec",
       "jobright-128464e5e6af",
@@ -26747,10 +26743,6 @@
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Platform-Software-Product-Manager_JR2029995"
     ],
     "swe-ai-full-time": [
-      "ashby-baseten-7c0ba27d-2f09-42f2-9277-1b756076b00b",
-      "url:https://jobs.ashbyhq.com/baseten/7c0ba27d-2f09-42f2-9277-1b756076b00b",
-      "jobright-c823d0fb70d8",
-      "url:https://jobright.ai/jobs/info/6aa80ee52ed333b4ea5ccfe9",
       "ashby-baseten-ed8ab178-e7a4-4524-8714-7ef55d574c7d",
       "url:https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d",
       "gradtracker-0651fd3ae32b",
@@ -31777,7 +31769,15 @@
       "jobright-ab0c0b6b7d32",
       "url:https://jobright.ai/jobs/info/6b075b0d20135524ca72bf37",
       "jobright-db0be1517965",
-      "url:https://jobright.ai/jobs/info/6b075a332c2b1d2eebe1437a"
+      "url:https://jobright.ai/jobs/info/6b075a332c2b1d2eebe1437a",
+      "zapply-2c96b19cf1c4",
+      "url:https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R74547",
+      "simplify-5d0adbaf-c34b-4c5b-bcb0-cab03a0c3297",
+      "url:https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002",
+      "applyguy-f89169ea-5ad1-49cf-a578-d2df8f4519bc",
+      "url:https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51",
+      "applyguy-1a7cd59b-e91e-4aec-9e5e-08742896d5fc",
+      "url:https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
