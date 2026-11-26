@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-ba817379-8019-4183-a9eb-c66d9bf0075e",
-      "seen_at": "2026-10-26T23:31:11.049756+00:00"
-    },
-    {
-      "id": "url:https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869",
-      "seen_at": "2026-10-26T23:31:11.050140+00:00"
-    },
-    {
-      "id": "simplify-f5c56e74-6403-4a4b-9708-7ec43edb0886",
-      "seen_at": "2026-10-26T23:31:11.050469+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c/application",
-      "seen_at": "2026-10-26T23:31:11.050786+00:00"
-    },
-    {
-      "id": "simplify-2f49a679-e4b5-41e5-9ff7-7c3cf645c769",
-      "seen_at": "2026-10-26T23:31:11.051087+00:00"
-    },
-    {
-      "id": "url:https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927",
-      "seen_at": "2026-10-26T23:31:11.051376+00:00"
-    },
-    {
-      "id": "amazon-10589426",
-      "seen_at": "2026-10-26T23:31:11.051668+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10589426/software-development-engineer-leo-secure-communications-team",
-      "seen_at": "2026-10-26T23:31:11.051979+00:00"
-    },
-    {
-      "id": "zapply-c8ece098c9ef",
-      "seen_at": "2026-10-26T23:31:12.969171+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023445",
-      "seen_at": "2026-10-26T23:31:12.969477+00:00"
-    },
-    {
-      "id": "simplify-ff28280e-f670-4bb7-94f3-f7a0238e6a38",
-      "seen_at": "2026-10-26T23:31:12.969770+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/jerry.ai/0de2cc4d-8ddc-41a9-adc7-321560f57b9a/application",
-      "seen_at": "2026-10-26T23:31:12.970026+00:00"
-    },
-    {
       "id": "ashby-baseten-7c0ba27d-2f09-42f2-9277-1b756076b00b",
       "seen_at": "2026-10-27T00:01:26.670097+00:00"
     },
@@ -25603,16 +25555,52 @@
     {
       "id": "url:https://www.amazon.jobs/en/jobs/10614461/software-development-engineer-aws-console",
       "seen_at": "2026-11-25T23:33:02.352111+00:00"
+    },
+    {
+      "id": "simplify-3b02378c-9648-415b-b534-23055904c610",
+      "seen_at": "2026-11-26T00:02:58.705884+00:00"
+    },
+    {
+      "id": "url:https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply",
+      "seen_at": "2026-11-26T00:02:58.706272+00:00"
+    },
+    {
+      "id": "simplify-73abdb25-d3db-4ec4-8ebd-2716bebe3cae",
+      "seen_at": "2026-11-26T00:02:58.706597+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/vestwell/jobs/8209363003",
+      "seen_at": "2026-11-26T00:02:58.706904+00:00"
+    },
+    {
+      "id": "jobright-23a05bb41272",
+      "seen_at": "2026-11-26T00:02:58.707180+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b075cea08b131a5c6579d63",
+      "seen_at": "2026-11-26T00:02:58.707458+00:00"
+    },
+    {
+      "id": "jobright-ab0c0b6b7d32",
+      "seen_at": "2026-11-26T00:02:58.707732+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b075b0d20135524ca72bf37",
+      "seen_at": "2026-11-26T00:02:58.708020+00:00"
+    },
+    {
+      "id": "jobright-db0be1517965",
+      "seen_at": "2026-11-26T00:02:58.708314+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b075a332c2b1d2eebe1437a",
+      "seen_at": "2026-11-26T00:02:58.708592+00:00"
     }
   ],
-  "last_run": "2026-11-25T23:33:05.268485+00:00",
-  "total_notified": 13605,
+  "last_run": "2026-11-26T00:03:01.826299+00:00",
+  "total_notified": 13610,
   "channels": {
     "pm-jobs": [
-      "zapply-c8ece098c9ef",
-      "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2023445",
-      "simplify-ff28280e-f670-4bb7-94f3-f7a0238e6a38",
-      "url:https://jobs.ashbyhq.com/jerry.ai/0de2cc4d-8ddc-41a9-adc7-321560f57b9a/application",
       "jobright-20b1119eb513",
       "url:https://jobright.ai/jobs/info/6adfceeac5c64fa3d9cbfc57",
       "jobright-2a44313af8cb",
@@ -26759,14 +26747,6 @@
       "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Platform-Software-Product-Manager_JR2029995"
     ],
     "swe-ai-full-time": [
-      "simplify-ba817379-8019-4183-a9eb-c66d9bf0075e",
-      "url:https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869",
-      "simplify-f5c56e74-6403-4a4b-9708-7ec43edb0886",
-      "url:https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c/application",
-      "simplify-2f49a679-e4b5-41e5-9ff7-7c3cf645c769",
-      "url:https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927",
-      "amazon-10589426",
-      "url:https://www.amazon.jobs/en/jobs/10589426/software-development-engineer-leo-secure-communications-team",
       "ashby-baseten-7c0ba27d-2f09-42f2-9277-1b756076b00b",
       "url:https://jobs.ashbyhq.com/baseten/7c0ba27d-2f09-42f2-9277-1b756076b00b",
       "jobright-c823d0fb70d8",
@@ -31787,7 +31767,17 @@
       "jobright-46ca38a5a01a",
       "url:https://jobright.ai/jobs/info/6b074a6820135524ca72b96e",
       "gradtracker-2ea7ffe174f0",
-      "url:https://www.amazon.jobs/en/jobs/10614461/software-development-engineer-aws-console"
+      "url:https://www.amazon.jobs/en/jobs/10614461/software-development-engineer-aws-console",
+      "simplify-3b02378c-9648-415b-b534-23055904c610",
+      "url:https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply",
+      "simplify-73abdb25-d3db-4ec4-8ebd-2716bebe3cae",
+      "url:https://job-boards.greenhouse.io/vestwell/jobs/8209363003",
+      "jobright-23a05bb41272",
+      "url:https://jobright.ai/jobs/info/6b075cea08b131a5c6579d63",
+      "jobright-ab0c0b6b7d32",
+      "url:https://jobright.ai/jobs/info/6b075b0d20135524ca72bf37",
+      "jobright-db0be1517965",
+      "url:https://jobright.ai/jobs/info/6b075a332c2b1d2eebe1437a"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
