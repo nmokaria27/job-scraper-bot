@@ -1,54 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-0771caed2644",
-      "seen_at": "2026-10-27T17:01:27.361016+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6a5f65eab0f20036bc630b44",
-      "seen_at": "2026-10-27T17:01:27.361747+00:00"
-    },
-    {
-      "id": "jobright-0a0b34931bf9",
-      "seen_at": "2026-10-27T17:01:27.362339+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae0bc641f9d9308370a36a4",
-      "seen_at": "2026-10-27T17:01:27.362796+00:00"
-    },
-    {
-      "id": "jobright-13ed80806c34",
-      "seen_at": "2026-10-27T17:01:27.363275+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae0bad0de23f466ec8b7f5e",
-      "seen_at": "2026-10-27T17:01:27.363717+00:00"
-    },
-    {
-      "id": "jobright-52864312eda5",
-      "seen_at": "2026-10-27T17:01:27.364182+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae0c0431f9d9308370a384e",
-      "seen_at": "2026-10-27T17:01:27.364627+00:00"
-    },
-    {
-      "id": "jobright-77b67b1ccda1",
-      "seen_at": "2026-10-27T17:01:27.365095+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae0bcc45a5afc94bd2c6967",
-      "seen_at": "2026-10-27T17:01:27.365621+00:00"
-    },
-    {
-      "id": "zapply-2ceb79f9baaf",
-      "seen_at": "2026-10-27T17:01:29.604902+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-troweprice-troweprice-82054",
-      "seen_at": "2026-10-27T17:01:29.605455+00:00"
-    },
-    {
       "id": "jobright-dd268f8b8fb9",
       "seen_at": "2026-10-27T18:01:38.644213+00:00"
     },
@@ -25469,12 +25421,10 @@
       "seen_at": "2026-11-26T17:03:05.722806+00:00"
     }
   ],
-  "last_run": "2026-11-26T17:03:06.098902+00:00",
+  "last_run": "2026-11-26T17:32:53.812669+00:00",
   "total_notified": 13658,
   "channels": {
     "pm-jobs": [
-      "zapply-2ceb79f9baaf",
-      "url:https://zapply.jobs/l/d/workday-troweprice-troweprice-82054",
       "zapply-b73fc275d5f6",
       "url:https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028754",
       "ashby-sierra-869dc7e3-56a1-4e70-aa56-5f8f0c67974e",
@@ -26597,16 +26547,6 @@
       "url:https://www.amazon.jobs/en/jobs/10614336/product-manager-commerce"
     ],
     "swe-ai-full-time": [
-      "jobright-0771caed2644",
-      "url:https://jobright.ai/jobs/info/6a5f65eab0f20036bc630b44",
-      "jobright-0a0b34931bf9",
-      "url:https://jobright.ai/jobs/info/6ae0bc641f9d9308370a36a4",
-      "jobright-13ed80806c34",
-      "url:https://jobright.ai/jobs/info/6ae0bad0de23f466ec8b7f5e",
-      "jobright-52864312eda5",
-      "url:https://jobright.ai/jobs/info/6ae0c0431f9d9308370a384e",
-      "jobright-77b67b1ccda1",
-      "url:https://jobright.ai/jobs/info/6ae0bcc45a5afc94bd2c6967",
       "jobright-dd268f8b8fb9",
       "url:https://jobright.ai/jobs/info/6aa460281d92e2d05d1148ad",
       "jobright-b9ca495f1b11",
