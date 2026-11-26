@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-2187443072ed",
-      "seen_at": "2026-10-27T20:31:26.411719+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-athenahealth-external-R15614",
-      "seen_at": "2026-10-27T20:31:26.412165+00:00"
-    },
-    {
       "id": "jobright-d789636a6ea0",
       "seen_at": "2026-10-27T21:01:24.132418+00:00"
     },
@@ -25269,12 +25261,10 @@
       "seen_at": "2026-11-26T19:32:57.843849+00:00"
     }
   ],
-  "last_run": "2026-11-26T20:33:08.805081+00:00",
+  "last_run": "2026-11-26T21:03:03.571868+00:00",
   "total_notified": 13668,
   "channels": {
     "pm-jobs": [
-      "zapply-2187443072ed",
-      "url:https://zapply.jobs/l/d/workday-athenahealth-external-R15614",
       "jobright-700ed6e4b4b4",
       "url:https://jobright.ai/jobs/info/6ae0f2af5a5afc94bd2c919b",
       "zapply-b7c0296b0aa8",
