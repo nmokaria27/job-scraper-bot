@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-33d6cf6cff3f",
-      "seen_at": "2026-10-27T12:01:56.310935+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae080d35dc7953215a474ea",
-      "seen_at": "2026-10-27T12:01:56.311463+00:00"
-    },
-    {
       "id": "jobright-06b4fc445acd",
       "seen_at": "2026-10-27T13:01:44.861259+00:00"
     },
@@ -25573,12 +25565,10 @@
       "seen_at": "2026-11-26T12:03:11.969929+00:00"
     }
   ],
-  "last_run": "2026-11-26T12:03:15.346201+00:00",
+  "last_run": "2026-11-26T12:19:02.162790+00:00",
   "total_notified": 13648,
   "channels": {
     "pm-jobs": [
-      "jobright-33d6cf6cff3f",
-      "url:https://jobright.ai/jobs/info/6ae080d35dc7953215a474ea",
       "zapply-12a10fa19cf5",
       "url:https://zapply.jobs/l/d/workday-capitalone-capital-one-R1000786",
       "zapply-66e4059fed50",
