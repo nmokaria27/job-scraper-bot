@@ -25539,10 +25539,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aeb7711fbe13dfb53df44ae",
       "seen_at": "2026-11-26T13:03:28.406360+00:00"
+    },
+    {
+      "id": "jobright-fd4e2f6d1c2e",
+      "seen_at": "2026-11-26T14:03:06.180243+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a798c5bb17cba5690362eeb",
+      "seen_at": "2026-11-26T14:03:06.180678+00:00"
+    },
+    {
+      "id": "jobright-2083f59b5451",
+      "seen_at": "2026-11-26T14:03:06.181025+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ab1a0eb191d8c340dbdbf57",
+      "seen_at": "2026-11-26T14:03:06.181329+00:00"
     }
   ],
-  "last_run": "2026-11-26T13:32:59.239389+00:00",
-  "total_notified": 13650,
+  "last_run": "2026-11-26T14:03:09.474948+00:00",
+  "total_notified": 13652,
   "channels": {
     "pm-jobs": [
       "zapply-4fa53e532661",
@@ -31701,7 +31717,11 @@
       "jobright-226b78f8face",
       "url:https://jobright.ai/jobs/info/6b0817e8aa59d5ea1da50543",
       "jobright-e18415c45e5b",
-      "url:https://jobright.ai/jobs/info/6aeb7711fbe13dfb53df44ae"
+      "url:https://jobright.ai/jobs/info/6aeb7711fbe13dfb53df44ae",
+      "jobright-fd4e2f6d1c2e",
+      "url:https://jobright.ai/jobs/info/6a798c5bb17cba5690362eeb",
+      "jobright-2083f59b5451",
+      "url:https://jobright.ai/jobs/info/6ab1a0eb191d8c340dbdbf57"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
