@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-baseten-ed8ab178-e7a4-4524-8714-7ef55d574c7d",
-      "seen_at": "2026-10-27T00:31:10.657552+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d",
-      "seen_at": "2026-10-27T00:31:10.657954+00:00"
-    },
-    {
-      "id": "gradtracker-0651fd3ae32b",
-      "seen_at": "2026-10-27T00:31:10.658286+00:00"
-    },
-    {
-      "id": "url:https://morganstanley.eightfold.ai/careers/job/549800858274",
-      "seen_at": "2026-10-27T00:31:10.658585+00:00"
-    },
-    {
-      "id": "jobright-04f8109e7abf",
-      "seen_at": "2026-10-27T00:31:12.436999+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adfbc409a8c91d5c3588aec",
-      "seen_at": "2026-10-27T00:31:12.437331+00:00"
-    },
-    {
-      "id": "jobright-36f5b70a5f24",
-      "seen_at": "2026-10-27T00:49:58.992649+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6adfda0c9e3e874dbfbb0ebb",
-      "seen_at": "2026-10-27T00:49:58.993392+00:00"
-    },
-    {
       "id": "simplify-83774569-427b-4fdc-8cdf-d17695ad5ae4",
       "seen_at": "2026-10-27T02:01:25.189850+00:00"
     },
@@ -25595,14 +25563,44 @@
     {
       "id": "url:https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c",
       "seen_at": "2026-11-26T00:32:59.599451+00:00"
+    },
+    {
+      "id": "jobright-4bfb3e70b012",
+      "seen_at": "2026-11-26T01:02:58.743073+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b076be820135524ca72c9bb",
+      "seen_at": "2026-11-26T01:02:58.743544+00:00"
+    },
+    {
+      "id": "simplify-aa031ee1-e663-49f6-9e69-d617595a1032",
+      "seen_at": "2026-11-26T01:03:00.589759+00:00"
+    },
+    {
+      "id": "url:https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300003",
+      "seen_at": "2026-11-26T01:03:00.590253+00:00"
+    },
+    {
+      "id": "jobright-cbdca782e90e",
+      "seen_at": "2026-11-26T01:03:00.590698+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b076c46fbcb892eea5e31f7",
+      "seen_at": "2026-11-26T01:03:00.591116+00:00"
+    },
+    {
+      "id": "jobright-e91ffdbb2ad0",
+      "seen_at": "2026-11-26T01:03:00.591538+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0765d7b624dcc57de79f66",
+      "seen_at": "2026-11-26T01:03:00.591956+00:00"
     }
   ],
-  "last_run": "2026-11-26T00:33:02.463684+00:00",
-  "total_notified": 13614,
+  "last_run": "2026-11-26T01:03:03.741103+00:00",
+  "total_notified": 13618,
   "channels": {
     "pm-jobs": [
-      "jobright-04f8109e7abf",
-      "url:https://jobright.ai/jobs/info/6adfbc409a8c91d5c3588aec",
       "jobright-128464e5e6af",
       "url:https://jobright.ai/jobs/info/6a55ce0014f1040fa611c1f9",
       "jobright-e0d6a90e1de2",
@@ -26740,15 +26738,11 @@
       "jobright-46d848a9a927",
       "url:https://jobright.ai/jobs/info/6b0748756c5083822fdc86fd",
       "workday-nvidia-JR2029995",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Platform-Software-Product-Manager_JR2029995"
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Platform-Software-Product-Manager_JR2029995",
+      "jobright-4bfb3e70b012",
+      "url:https://jobright.ai/jobs/info/6b076be820135524ca72c9bb"
     ],
     "swe-ai-full-time": [
-      "ashby-baseten-ed8ab178-e7a4-4524-8714-7ef55d574c7d",
-      "url:https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d",
-      "gradtracker-0651fd3ae32b",
-      "url:https://morganstanley.eightfold.ai/careers/job/549800858274",
-      "jobright-36f5b70a5f24",
-      "url:https://jobright.ai/jobs/info/6adfda0c9e3e874dbfbb0ebb",
       "simplify-83774569-427b-4fdc-8cdf-d17695ad5ae4",
       "url:https://boards.greenhouse.io/abacusinsights/jobs/8917379002",
       "jobright-d6981cb550f0",
@@ -31777,7 +31771,13 @@
       "applyguy-f89169ea-5ad1-49cf-a578-d2df8f4519bc",
       "url:https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51",
       "applyguy-1a7cd59b-e91e-4aec-9e5e-08742896d5fc",
-      "url:https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c"
+      "url:https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c",
+      "simplify-aa031ee1-e663-49f6-9e69-d617595a1032",
+      "url:https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300003",
+      "jobright-cbdca782e90e",
+      "url:https://jobright.ai/jobs/info/6b076c46fbcb892eea5e31f7",
+      "jobright-e91ffdbb2ad0",
+      "url:https://jobright.ai/jobs/info/6b0765d7b624dcc57de79f66"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
