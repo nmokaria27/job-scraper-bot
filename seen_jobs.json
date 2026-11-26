@@ -25419,10 +25419,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b0847fb58da992a6cc0bf56",
       "seen_at": "2026-11-26T17:03:05.722806+00:00"
+    },
+    {
+      "id": "jobright-63215bd6a0ea",
+      "seen_at": "2026-11-26T18:03:08.592314+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a9e2ab52c964816f65ebd51",
+      "seen_at": "2026-11-26T18:03:08.592957+00:00"
+    },
+    {
+      "id": "jobright-a8dd753c4beb",
+      "seen_at": "2026-11-26T18:03:08.593489+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aebc98b82f0ac077443d0e7",
+      "seen_at": "2026-11-26T18:03:08.594012+00:00"
+    },
+    {
+      "id": "jobright-0f4247d6cf5a",
+      "seen_at": "2026-11-26T18:03:08.594509+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6aeb6544a0b134121d99a285",
+      "seen_at": "2026-11-26T18:03:08.595018+00:00"
+    },
+    {
+      "id": "jobright-b307dcee59a4",
+      "seen_at": "2026-11-26T18:03:08.595509+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ae980812b0b1eb5805b34a1",
+      "seen_at": "2026-11-26T18:03:08.596028+00:00"
     }
   ],
-  "last_run": "2026-11-26T17:32:53.812669+00:00",
-  "total_notified": 13658,
+  "last_run": "2026-11-26T18:03:08.814556+00:00",
+  "total_notified": 13662,
   "channels": {
     "pm-jobs": [
       "zapply-b73fc275d5f6",
@@ -31789,7 +31821,15 @@
       "jobright-eb0de9fe31ab",
       "url:https://jobright.ai/jobs/info/6aec204480cb7b32eb76e6c0",
       "jobright-97778288242b",
-      "url:https://jobright.ai/jobs/info/6b0847fb58da992a6cc0bf56"
+      "url:https://jobright.ai/jobs/info/6b0847fb58da992a6cc0bf56",
+      "jobright-63215bd6a0ea",
+      "url:https://jobright.ai/jobs/info/6a9e2ab52c964816f65ebd51",
+      "jobright-a8dd753c4beb",
+      "url:https://jobright.ai/jobs/info/6aebc98b82f0ac077443d0e7",
+      "jobright-0f4247d6cf5a",
+      "url:https://jobright.ai/jobs/info/6aeb6544a0b134121d99a285",
+      "jobright-b307dcee59a4",
+      "url:https://jobright.ai/jobs/info/6ae980812b0b1eb5805b34a1"
     ]
   }
 }
