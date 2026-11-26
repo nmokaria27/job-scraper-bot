@@ -25595,10 +25595,18 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b0765d7b624dcc57de79f66",
       "seen_at": "2026-11-26T01:03:00.591956+00:00"
+    },
+    {
+      "id": "greenhouse-discord-8942144002",
+      "seen_at": "2026-11-26T01:33:06.078989+00:00"
+    },
+    {
+      "id": "url:https://job-boards.greenhouse.io/discord/jobs/8942144002",
+      "seen_at": "2026-11-26T01:33:06.079506+00:00"
     }
   ],
-  "last_run": "2026-11-26T01:03:03.741103+00:00",
-  "total_notified": 13618,
+  "last_run": "2026-11-26T01:33:08.583906+00:00",
+  "total_notified": 13619,
   "channels": {
     "pm-jobs": [
       "jobright-128464e5e6af",
@@ -31777,7 +31785,9 @@
       "jobright-cbdca782e90e",
       "url:https://jobright.ai/jobs/info/6b076c46fbcb892eea5e31f7",
       "jobright-e91ffdbb2ad0",
-      "url:https://jobright.ai/jobs/info/6b0765d7b624dcc57de79f66"
+      "url:https://jobright.ai/jobs/info/6b0765d7b624dcc57de79f66",
+      "greenhouse-discord-8942144002",
+      "url:https://job-boards.greenhouse.io/discord/jobs/8942144002"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
