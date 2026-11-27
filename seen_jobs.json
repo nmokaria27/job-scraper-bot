@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-5f37d7ff3dbd",
-      "seen_at": "2026-10-28T13:01:29.229406+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae1d5f205a39c3e2c714463",
-      "seen_at": "2026-10-28T13:01:29.229818+00:00"
-    },
-    {
-      "id": "jobright-aa808418afff",
-      "seen_at": "2026-10-28T13:01:29.230185+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6aa9bed310b1cd4f416077e3",
-      "seen_at": "2026-10-28T13:01:29.230505+00:00"
-    },
-    {
       "id": "lever-palantir-491a0133-b580-45c3-9fd4-2314faf82fb9",
       "seen_at": "2026-10-28T14:02:10.570103+00:00"
     },
@@ -24853,7 +24837,7 @@
       "seen_at": "2026-11-27T12:03:12.863381+00:00"
     }
   ],
-  "last_run": "2026-11-27T13:03:20.621385+00:00",
+  "last_run": "2026-11-27T13:32:57.794161+00:00",
   "total_notified": 13688,
   "channels": {
     "pm-jobs": [
@@ -25945,10 +25929,6 @@
       "url:https://jobright.ai/jobs/info/6b088fd60bd5d5fe945f4e2d"
     ],
     "swe-ai-full-time": [
-      "jobright-5f37d7ff3dbd",
-      "url:https://jobright.ai/jobs/info/6ae1d5f205a39c3e2c714463",
-      "jobright-aa808418afff",
-      "url:https://jobright.ai/jobs/info/6aa9bed310b1cd4f416077e3",
       "lever-palantir-491a0133-b580-45c3-9fd4-2314faf82fb9",
       "url:https://jobs.lever.co/palantir/491a0133-b580-45c3-9fd4-2314faf82fb9",
       "jobright-4b3d3238e142",
