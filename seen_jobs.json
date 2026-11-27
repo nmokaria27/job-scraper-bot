@@ -24835,10 +24835,42 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6b08f4c44a2300cd85fbcd99",
       "seen_at": "2026-11-27T11:03:07.986843+00:00"
+    },
+    {
+      "id": "jobright-f9926f1d0239",
+      "seen_at": "2026-11-27T12:03:12.860547+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b095c8faaf0c31c7c96e87e",
+      "seen_at": "2026-11-27T12:03:12.861057+00:00"
+    },
+    {
+      "id": "jobright-7328213f106b",
+      "seen_at": "2026-11-27T12:03:12.861475+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b095c53b80cc2b409d843b3",
+      "seen_at": "2026-11-27T12:03:12.861826+00:00"
+    },
+    {
+      "id": "jobright-91cae40dbb1a",
+      "seen_at": "2026-11-27T12:03:12.862204+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ad1466318608b6f36f82eca",
+      "seen_at": "2026-11-27T12:03:12.862603+00:00"
+    },
+    {
+      "id": "jobright-7e80f9850168",
+      "seen_at": "2026-11-27T12:03:12.862995+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b095488b80cc2b409d84165",
+      "seen_at": "2026-11-27T12:03:12.863381+00:00"
     }
   ],
-  "last_run": "2026-11-27T11:32:54.012755+00:00",
-  "total_notified": 13684,
+  "last_run": "2026-11-27T12:03:13.815886+00:00",
+  "total_notified": 13688,
   "channels": {
     "pm-jobs": [
       "zapply-5296cd88565d",
@@ -30793,7 +30825,15 @@
       "jobright-5f72db20cd1e",
       "url:https://jobright.ai/jobs/info/6a874f3ad34f700f87fc4b78",
       "jobright-8bc5a3ea501f",
-      "url:https://jobright.ai/jobs/info/6a704c27d4735b7dbbccdc76"
+      "url:https://jobright.ai/jobs/info/6a704c27d4735b7dbbccdc76",
+      "jobright-f9926f1d0239",
+      "url:https://jobright.ai/jobs/info/6b095c8faaf0c31c7c96e87e",
+      "jobright-7328213f106b",
+      "url:https://jobright.ai/jobs/info/6b095c53b80cc2b409d843b3",
+      "jobright-91cae40dbb1a",
+      "url:https://jobright.ai/jobs/info/6ad1466318608b6f36f82eca",
+      "jobright-7e80f9850168",
+      "url:https://jobright.ai/jobs/info/6b095488b80cc2b409d84165"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
