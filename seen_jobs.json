@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-1e8bafb98155",
-      "seen_at": "2026-10-28T01:01:16.169942+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae12c2567c31ab3489a132e",
-      "seen_at": "2026-10-28T01:01:16.170359+00:00"
-    },
-    {
       "id": "zapply-75170a5b3931",
       "seen_at": "2026-10-28T01:31:08.593018+00:00"
     },
@@ -25037,7 +25029,7 @@
       "seen_at": "2026-11-27T01:02:55.850958+00:00"
     }
   ],
-  "last_run": "2026-11-27T01:02:57.186185+00:00",
+  "last_run": "2026-11-27T01:32:51.694965+00:00",
   "total_notified": 13678,
   "channels": {
     "pm-jobs": [
@@ -26133,8 +26125,6 @@
       "url:https://jobright.ai/jobs/info/6b088fd60bd5d5fe945f4e2d"
     ],
     "swe-ai-full-time": [
-      "jobright-1e8bafb98155",
-      "url:https://jobright.ai/jobs/info/6ae12c2567c31ab3489a132e",
       "zapply-75170a5b3931",
       "url:https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363327",
       "jobright-73ea31fae493",
