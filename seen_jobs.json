@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-73ea31fae493",
-      "seen_at": "2026-10-28T02:01:19.088543+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae13bfc829a3bada15fbb9e",
-      "seen_at": "2026-10-28T02:01:19.088881+00:00"
-    },
-    {
-      "id": "jobright-79360f99d42f",
-      "seen_at": "2026-10-28T02:01:19.089181+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae139a967c31ab3489a19f0",
-      "seen_at": "2026-10-28T02:01:19.089455+00:00"
-    },
-    {
-      "id": "jobright-10d5303559bf",
-      "seen_at": "2026-10-28T02:01:19.089711+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae10f4667c31ab3489a0275",
-      "seen_at": "2026-10-28T02:01:19.089951+00:00"
-    },
-    {
-      "id": "zapply-507629dcf151",
-      "seen_at": "2026-10-28T02:01:21.026609+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26012191",
-      "seen_at": "2026-10-28T02:01:21.026895+00:00"
-    },
-    {
       "id": "ashby-perplexity-886f4ab3-e691-45ed-b2db-069edf6f5413",
       "seen_at": "2026-10-28T03:01:26.034885+00:00"
     },
@@ -25021,12 +24989,10 @@
       "seen_at": "2026-11-27T01:02:55.850958+00:00"
     }
   ],
-  "last_run": "2026-11-27T02:03:12.658564+00:00",
+  "last_run": "2026-11-27T02:32:54.914420+00:00",
   "total_notified": 13678,
   "channels": {
     "pm-jobs": [
-      "zapply-507629dcf151",
-      "url:https://zapply.jobs/l/d/workday-cigna-cignacareers-26012191",
       "zapply-1bd41af42bb6",
       "url:https://zapply.jobs/l/d/deshaw-5910",
       "zapply-5296cd88565d",
@@ -26117,12 +26083,6 @@
       "url:https://jobright.ai/jobs/info/6b088fd60bd5d5fe945f4e2d"
     ],
     "swe-ai-full-time": [
-      "jobright-73ea31fae493",
-      "url:https://jobright.ai/jobs/info/6ae13bfc829a3bada15fbb9e",
-      "jobright-79360f99d42f",
-      "url:https://jobright.ai/jobs/info/6ae139a967c31ab3489a19f0",
-      "jobright-10d5303559bf",
-      "url:https://jobright.ai/jobs/info/6ae10f4667c31ab3489a0275",
       "ashby-perplexity-886f4ab3-e691-45ed-b2db-069edf6f5413",
       "url:https://jobs.ashbyhq.com/perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413",
       "jobright-65a96821e0f5",
