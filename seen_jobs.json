@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10591860",
-      "seen_at": "2026-10-28T22:31:16.604625+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10591860/software-development-engineer-amazon-cloud-management-foundations",
-      "seen_at": "2026-10-28T22:31:16.605239+00:00"
-    },
-    {
       "id": "simplify-4b410012-08f3-48f8-8a2a-d71ca89a4191",
       "seen_at": "2026-10-28T23:01:17.209785+00:00"
     },
@@ -24117,7 +24109,7 @@
       "seen_at": "2026-11-27T21:32:56.459067+00:00"
     }
   ],
-  "last_run": "2026-11-27T22:32:52.416779+00:00",
+  "last_run": "2026-11-27T23:02:59.387931+00:00",
   "total_notified": 13705,
   "channels": {
     "pm-jobs": [
@@ -25175,8 +25167,6 @@
       "url:https://jobright.ai/jobs/info/6ae24028de23f466ec8c464b"
     ],
     "swe-ai-full-time": [
-      "amazon-10591860",
-      "url:https://www.amazon.jobs/en/jobs/10591860/software-development-engineer-amazon-cloud-management-foundations",
       "simplify-4b410012-08f3-48f8-8a2a-d71ca89a4191",
       "url:https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store",
       "simplify-d60e31f1-2334-4b39-aa53-c45bed4cc0f8",
