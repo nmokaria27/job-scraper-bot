@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "greenhouse-gleanwork-4748567005",
-      "seen_at": "2026-10-28T17:31:21.254604+00:00"
-    },
-    {
-      "id": "url:https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
-      "seen_at": "2026-10-28T17:31:21.254932+00:00"
-    },
-    {
-      "id": "amazon-10591363",
-      "seen_at": "2026-10-28T17:31:21.255241+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10591363/software-development-engineer-amazon-private-brands",
-      "seen_at": "2026-10-28T17:31:21.255497+00:00"
-    },
-    {
-      "id": "amazon-10591365",
-      "seen_at": "2026-10-28T17:31:21.255747+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10591365/software-development-engineer-amazon-leo-live",
-      "seen_at": "2026-10-28T17:31:21.255987+00:00"
-    },
-    {
       "id": "zapply-491b0e3d2ce6",
       "seen_at": "2026-10-28T18:02:06.318194+00:00"
     },
@@ -24717,7 +24693,7 @@
       "seen_at": "2026-11-27T17:02:59.402281+00:00"
     }
   ],
-  "last_run": "2026-11-27T17:32:57.268667+00:00",
+  "last_run": "2026-11-27T18:03:23.223727+00:00",
   "total_notified": 13696,
   "channels": {
     "pm-jobs": [
@@ -25795,12 +25771,6 @@
       "url:https://jobright.ai/jobs/info/6b088fd60bd5d5fe945f4e2d"
     ],
     "swe-ai-full-time": [
-      "greenhouse-gleanwork-4748567005",
-      "url:https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
-      "amazon-10591363",
-      "url:https://www.amazon.jobs/en/jobs/10591363/software-development-engineer-amazon-private-brands",
-      "amazon-10591365",
-      "url:https://www.amazon.jobs/en/jobs/10591365/software-development-engineer-amazon-leo-live",
       "zapply-491b0e3d2ce6",
       "url:https://zapply.jobs/l/d/workday-comcast-comcast-careers-R446112",
       "zapply-fc0983b22849",
