@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-fed52e110974",
-      "seen_at": "2026-10-28T17:01:35.023437+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae20e2005a39c3e2c715fef",
-      "seen_at": "2026-10-28T17:01:35.024053+00:00"
-    },
-    {
-      "id": "jobright-5e688e24cbdc",
-      "seen_at": "2026-10-28T17:01:35.024608+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae2086c829a3bada1600431",
-      "seen_at": "2026-10-28T17:01:35.025083+00:00"
-    },
-    {
       "id": "greenhouse-gleanwork-4748567005",
       "seen_at": "2026-10-28T17:31:21.254604+00:00"
     },
@@ -24733,7 +24717,7 @@
       "seen_at": "2026-11-27T17:02:59.402281+00:00"
     }
   ],
-  "last_run": "2026-11-27T17:03:01.485396+00:00",
+  "last_run": "2026-11-27T17:32:57.268667+00:00",
   "total_notified": 13696,
   "channels": {
     "pm-jobs": [
@@ -25811,10 +25795,6 @@
       "url:https://jobright.ai/jobs/info/6b088fd60bd5d5fe945f4e2d"
     ],
     "swe-ai-full-time": [
-      "jobright-fed52e110974",
-      "url:https://jobright.ai/jobs/info/6ae20e2005a39c3e2c715fef",
-      "jobright-5e688e24cbdc",
-      "url:https://jobright.ai/jobs/info/6ae2086c829a3bada1600431",
       "greenhouse-gleanwork-4748567005",
       "url:https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
       "amazon-10591363",
