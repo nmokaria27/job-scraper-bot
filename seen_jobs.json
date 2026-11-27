@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "workday-nvidia-JR2012979",
-      "seen_at": "2026-10-28T00:01:18.224221+00:00"
-    },
-    {
-      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
-      "seen_at": "2026-10-28T00:01:18.224627+00:00"
-    },
-    {
-      "id": "jobright-72810a1366f2",
-      "seen_at": "2026-10-28T00:01:18.224993+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae11cc667c31ab3489a0a96",
-      "seen_at": "2026-10-28T00:01:18.225318+00:00"
-    },
-    {
-      "id": "gradtracker-450fde00391c",
-      "seen_at": "2026-10-28T00:01:18.225642+00:00"
-    },
-    {
-      "id": "url:https://careers.qualcomm.com/careers/job/446721756080",
-      "seen_at": "2026-10-28T00:01:18.225946+00:00"
-    },
-    {
       "id": "jobright-1e8bafb98155",
       "seen_at": "2026-10-28T01:01:16.169942+00:00"
     },
@@ -25035,10 +25011,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6aeb780082f0ac077443a0c9",
       "seen_at": "2026-11-27T00:02:57.982966+00:00"
+    },
+    {
+      "id": "workday-nvidia-JR2012979",
+      "seen_at": "2026-11-27T00:32:48.111244+00:00"
+    },
+    {
+      "id": "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
+      "seen_at": "2026-11-27T00:32:48.111655+00:00"
+    },
+    {
+      "id": "jobright-bbe35e44c06e",
+      "seen_at": "2026-11-27T00:32:50.985219+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b089b7f0bd5d5fe945f5032",
+      "seen_at": "2026-11-27T00:32:50.985560+00:00"
     }
   ],
-  "last_run": "2026-11-27T00:02:59.471126+00:00",
-  "total_notified": 13675,
+  "last_run": "2026-11-27T00:32:51.130360+00:00",
+  "total_notified": 13677,
   "channels": {
     "pm-jobs": [
       "zapply-507629dcf151",
@@ -26133,12 +26125,6 @@
       "url:https://jobright.ai/jobs/info/6b088fd60bd5d5fe945f4e2d"
     ],
     "swe-ai-full-time": [
-      "workday-nvidia-JR2012979",
-      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
-      "jobright-72810a1366f2",
-      "url:https://jobright.ai/jobs/info/6ae11cc667c31ab3489a0a96",
-      "gradtracker-450fde00391c",
-      "url:https://careers.qualcomm.com/careers/job/446721756080",
       "jobright-1e8bafb98155",
       "url:https://jobright.ai/jobs/info/6ae12c2567c31ab3489a132e",
       "zapply-75170a5b3931",
@@ -31047,7 +31033,9 @@
       "jobright-f33f20047068",
       "url:https://jobright.ai/jobs/info/6b08a65703dd5bd15ba47db5",
       "jobright-21e18dda56e6",
-      "url:https://jobright.ai/jobs/info/6aeb780082f0ac077443a0c9"
+      "url:https://jobright.ai/jobs/info/6aeb780082f0ac077443a0c9",
+      "workday-nvidia-JR2012979",
+      "url:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -31309,7 +31297,9 @@
       "jobright-e2331c5b4006",
       "url:https://jobright.ai/jobs/info/6aec51ae55daad9c1f547c63",
       "jobright-d7e4850f41b2",
-      "url:https://jobright.ai/jobs/info/6b089f610bd5d5fe945f50d2"
+      "url:https://jobright.ai/jobs/info/6b089f610bd5d5fe945f50d2",
+      "jobright-bbe35e44c06e",
+      "url:https://jobright.ai/jobs/info/6b089b7f0bd5d5fe945f5032"
     ]
   }
 }
