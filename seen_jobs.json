@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ashby-perplexity-5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
-      "seen_at": "2026-10-28T03:31:20.363524+00:00"
-    },
-    {
-      "id": "url:https://jobs.ashbyhq.com/perplexity/5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
-      "seen_at": "2026-10-28T03:31:20.364210+00:00"
-    },
-    {
       "id": "simplify-22ce9849-b0be-4484-be20-b79a507e2c6f",
       "seen_at": "2026-10-28T10:01:44.919247+00:00"
     },
@@ -24981,7 +24973,7 @@
       "seen_at": "2026-11-27T03:32:54.208310+00:00"
     }
   ],
-  "last_run": "2026-11-27T03:32:56.169021+00:00",
+  "last_run": "2026-11-27T04:03:14.352668+00:00",
   "total_notified": 13680,
   "channels": {
     "pm-jobs": [
@@ -26075,8 +26067,6 @@
       "url:https://jobright.ai/jobs/info/6b088fd60bd5d5fe945f4e2d"
     ],
     "swe-ai-full-time": [
-      "ashby-perplexity-5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
-      "url:https://jobs.ashbyhq.com/perplexity/5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
       "simplify-22ce9849-b0be-4484-be20-b79a507e2c6f",
       "url:https://job-boards.greenhouse.io/startree/jobs/6235909004",
       "simplify-4673c10a-17a5-43a2-8cf9-4072cb2048e6",
