@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-48c3f3e49612",
-      "seen_at": "2026-10-29T18:01:22.012057+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae37590d45dc30fb7d2993a",
-      "seen_at": "2026-10-29T18:01:22.012481+00:00"
-    },
-    {
-      "id": "jobright-1d92dd383d17",
-      "seen_at": "2026-10-29T18:01:23.815241+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae375e3fb2cd420ace50fee",
-      "seen_at": "2026-10-29T18:01:23.815579+00:00"
-    },
-    {
-      "id": "jobright-2200d3c51378",
-      "seen_at": "2026-10-29T18:01:23.815888+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae374cbd7424a2a828dfd5f",
-      "seen_at": "2026-10-29T18:01:23.816180+00:00"
-    },
-    {
-      "id": "jobright-c9abd13570dd",
-      "seen_at": "2026-10-29T18:01:23.816454+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae36ca1d45dc30fb7d2947a",
-      "seen_at": "2026-10-29T18:01:23.816714+00:00"
-    },
-    {
       "id": "zapply-5c355c201a9f",
       "seen_at": "2026-10-29T18:31:35.714225+00:00"
     },
@@ -23669,16 +23637,10 @@
       "seen_at": "2026-11-28T18:02:51.593123+00:00"
     }
   ],
-  "last_run": "2026-11-28T18:02:51.816710+00:00",
+  "last_run": "2026-11-28T18:32:51.930886+00:00",
   "total_notified": 13723,
   "channels": {
     "pm-jobs": [
-      "jobright-1d92dd383d17",
-      "url:https://jobright.ai/jobs/info/6ae375e3fb2cd420ace50fee",
-      "jobright-2200d3c51378",
-      "url:https://jobright.ai/jobs/info/6ae374cbd7424a2a828dfd5f",
-      "jobright-c9abd13570dd",
-      "url:https://jobright.ai/jobs/info/6ae36ca1d45dc30fb7d2947a",
       "zapply-5c355c201a9f",
       "url:https://zapply.jobs/l/d/workday-relx-relx-R119974",
       "zapply-34774e131cea",
@@ -24707,8 +24669,6 @@
       "url:https://jobright.ai/jobs/info/6af97c4f9501ee962015e9d6"
     ],
     "swe-ai-full-time": [
-      "jobright-48c3f3e49612",
-      "url:https://jobright.ai/jobs/info/6ae37590d45dc30fb7d2993a",
       "greenhouse-motional-8081593003",
       "url:https://motional.com/open-positions",
       "jobright-c61b8f33ee9d",
