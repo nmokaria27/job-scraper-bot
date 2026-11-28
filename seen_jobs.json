@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "amazon-10591904",
-      "seen_at": "2026-10-29T00:01:36.103182+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10591904/software-development-engineer-devices-software-services",
-      "seen_at": "2026-10-29T00:01:36.103720+00:00"
-    },
-    {
       "id": "gradtracker-bc5cca3250ba",
       "seen_at": "2026-10-29T00:31:07.567694+00:00"
     },
@@ -23989,7 +23981,7 @@
       "seen_at": "2026-11-28T00:02:55.073867+00:00"
     }
   ],
-  "last_run": "2026-11-28T00:02:56.092763+00:00",
+  "last_run": "2026-11-28T00:32:51.846855+00:00",
   "total_notified": 13706,
   "channels": {
     "pm-jobs": [
@@ -25043,8 +25035,6 @@
       "url:https://jobright.ai/jobs/info/6ae24028de23f466ec8c464b"
     ],
     "swe-ai-full-time": [
-      "amazon-10591904",
-      "url:https://www.amazon.jobs/en/jobs/10591904/software-development-engineer-devices-software-services",
       "gradtracker-bc5cca3250ba",
       "url:https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer--Admin-Central_JR-0111194",
       "gradtracker-5c38665c9f50",
