@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "zapply-5c355c201a9f",
-      "seen_at": "2026-10-29T18:31:35.714225+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-relx-relx-R119974",
-      "seen_at": "2026-10-29T18:31:35.714646+00:00"
-    },
-    {
-      "id": "zapply-34774e131cea",
-      "seen_at": "2026-10-29T18:31:35.715055+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-relx-risksolutions-R119974",
-      "seen_at": "2026-10-29T18:31:35.715410+00:00"
-    },
-    {
       "id": "greenhouse-motional-8081593003",
       "seen_at": "2026-10-29T19:01:38.638312+00:00"
     },
@@ -23635,16 +23619,28 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a75577eb17cba5690359f95",
       "seen_at": "2026-11-28T18:02:51.593123+00:00"
+    },
+    {
+      "id": "jobright-6754af499682",
+      "seen_at": "2026-11-28T18:54:49.681147+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6af8203c34e2d29dcb752fff",
+      "seen_at": "2026-11-28T18:54:49.681541+00:00"
+    },
+    {
+      "id": "jobright-9a9c2818d3fa",
+      "seen_at": "2026-11-28T18:54:49.681864+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0b1361dd884ad2cc5910a4",
+      "seen_at": "2026-11-28T18:54:49.682150+00:00"
     }
   ],
-  "last_run": "2026-11-28T18:32:51.930886+00:00",
-  "total_notified": 13723,
+  "last_run": "2026-11-28T18:54:51.178024+00:00",
+  "total_notified": 13725,
   "channels": {
     "pm-jobs": [
-      "zapply-5c355c201a9f",
-      "url:https://zapply.jobs/l/d/workday-relx-relx-R119974",
-      "zapply-34774e131cea",
-      "url:https://zapply.jobs/l/d/workday-relx-risksolutions-R119974",
       "zapply-fd6bdb8d9483",
       "url:https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026770",
       "zapply-e0895d02f8fe",
@@ -29273,7 +29269,11 @@
       "jobright-fd48ecdcbb5f",
       "url:https://jobright.ai/jobs/info/6ad17439e2d41540d4a70d2a",
       "jobright-396f3e7361df",
-      "url:https://jobright.ai/jobs/info/6ac09c70372c01f6cd72c5af"
+      "url:https://jobright.ai/jobs/info/6ac09c70372c01f6cd72c5af",
+      "jobright-6754af499682",
+      "url:https://jobright.ai/jobs/info/6af8203c34e2d29dcb752fff",
+      "jobright-9a9c2818d3fa",
+      "url:https://jobright.ai/jobs/info/6b0b1361dd884ad2cc5910a4"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
