@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-756f5acb-ee83-4d78-8f4b-7cbbdaff4b18",
-      "seen_at": "2026-10-29T15:01:24.681239+00:00"
-    },
-    {
-      "id": "url:https://www.thoughtworks.com/careers/jobs/8333235",
-      "seen_at": "2026-10-29T15:01:24.682045+00:00"
-    },
-    {
-      "id": "simplify-acd5ae34-a51b-4708-8bce-8729a7850f54",
-      "seen_at": "2026-10-29T15:01:24.682764+00:00"
-    },
-    {
-      "id": "url:https://go.vansh.nyc/Z2",
-      "seen_at": "2026-10-29T15:01:24.683379+00:00"
-    },
-    {
-      "id": "jobright-57b6226471f7",
-      "seen_at": "2026-10-29T15:01:24.683920+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae34520c3139b475b5abaa4",
-      "seen_at": "2026-10-29T15:01:24.684424+00:00"
-    },
-    {
-      "id": "jobright-8a8fb0d7a249",
-      "seen_at": "2026-10-29T15:01:24.684918+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae34372eab1f96730972a1c",
-      "seen_at": "2026-10-29T15:01:24.685373+00:00"
-    },
-    {
       "id": "simplify-a0303bf2-78ec-4e3f-88ed-874ac7a7aaca",
       "seen_at": "2026-10-29T15:31:26.615181+00:00"
     },
@@ -23773,7 +23741,7 @@
       "seen_at": "2026-11-28T15:02:51.830790+00:00"
     }
   ],
-  "last_run": "2026-11-28T15:02:52.008574+00:00",
+  "last_run": "2026-11-28T15:32:49.403168+00:00",
   "total_notified": 13716,
   "channels": {
     "pm-jobs": [
@@ -24821,14 +24789,6 @@
       "url:https://jobright.ai/jobs/info/6ae24028de23f466ec8c464b"
     ],
     "swe-ai-full-time": [
-      "simplify-756f5acb-ee83-4d78-8f4b-7cbbdaff4b18",
-      "url:https://www.thoughtworks.com/careers/jobs/8333235",
-      "simplify-acd5ae34-a51b-4708-8bce-8729a7850f54",
-      "url:https://go.vansh.nyc/Z2",
-      "jobright-57b6226471f7",
-      "url:https://jobright.ai/jobs/info/6ae34520c3139b475b5abaa4",
-      "jobright-8a8fb0d7a249",
-      "url:https://jobright.ai/jobs/info/6ae34372eab1f96730972a1c",
       "simplify-a0303bf2-78ec-4e3f-88ed-874ac7a7aaca",
       "url:https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
       "jobright-b2c32915c384",
