@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "simplify-a0303bf2-78ec-4e3f-88ed-874ac7a7aaca",
-      "seen_at": "2026-10-29T15:31:26.615181+00:00"
-    },
-    {
-      "id": "url:https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
-      "seen_at": "2026-10-29T15:31:26.615708+00:00"
-    },
-    {
       "id": "zapply-85064355dacc",
       "seen_at": "2026-10-29T16:31:37.401872+00:00"
     },
@@ -23739,10 +23731,26 @@
     {
       "id": "url:https://jobright.ai/jobs/info/6a9893b4dd171c7285793152",
       "seen_at": "2026-11-28T15:02:51.830790+00:00"
+    },
+    {
+      "id": "jobright-396f3e7361df",
+      "seen_at": "2026-11-28T16:02:53.286695+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ac09c70372c01f6cd72c5af",
+      "seen_at": "2026-11-28T16:02:53.287267+00:00"
+    },
+    {
+      "id": "jobright-251ba8c02149",
+      "seen_at": "2026-11-28T16:02:55.528226+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6ade335ec5c64fa3d9cb786b",
+      "seen_at": "2026-11-28T16:02:55.528766+00:00"
     }
   ],
-  "last_run": "2026-11-28T15:32:49.403168+00:00",
-  "total_notified": 13716,
+  "last_run": "2026-11-28T16:02:55.978035+00:00",
+  "total_notified": 13718,
   "channels": {
     "pm-jobs": [
       "zapply-85064355dacc",
@@ -24789,8 +24797,6 @@
       "url:https://jobright.ai/jobs/info/6ae24028de23f466ec8c464b"
     ],
     "swe-ai-full-time": [
-      "simplify-a0303bf2-78ec-4e3f-88ed-874ac7a7aaca",
-      "url:https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
       "jobright-b2c32915c384",
       "url:https://jobright.ai/jobs/info/6a8da5a2d34f700f87fd4f60",
       "jobright-e5ab6ca3384d",
@@ -29413,7 +29419,9 @@
       "jobright-413d6cf6126b",
       "url:https://jobright.ai/jobs/info/6a5216648576ec69c014a596",
       "jobright-fd48ecdcbb5f",
-      "url:https://jobright.ai/jobs/info/6ad17439e2d41540d4a70d2a"
+      "url:https://jobright.ai/jobs/info/6ad17439e2d41540d4a70d2a",
+      "jobright-396f3e7361df",
+      "url:https://jobright.ai/jobs/info/6ac09c70372c01f6cd72c5af"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -29689,7 +29697,9 @@
       "jobright-4d2f0ab5a64a",
       "url:https://jobright.ai/jobs/info/6b0a47890dcf7f64923b694e",
       "jobright-c181224e485e",
-      "url:https://jobright.ai/jobs/info/6a9893b4dd171c7285793152"
+      "url:https://jobright.ai/jobs/info/6a9893b4dd171c7285793152",
+      "jobright-251ba8c02149",
+      "url:https://jobright.ai/jobs/info/6ade335ec5c64fa3d9cb786b"
     ]
   }
 }
