@@ -1,86 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobright-803261146ce3",
-      "seen_at": "2026-10-29T10:01:22.042622+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae2ca89d52406f6fbf738af",
-      "seen_at": "2026-10-29T10:01:22.043006+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR307116",
-      "seen_at": "2026-10-29T10:01:22.043291+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116",
-      "seen_at": "2026-10-29T10:01:22.043538+00:00"
-    },
-    {
-      "id": "jobright-c4d03b7ae0d6",
-      "seen_at": "2026-10-29T10:01:22.043797+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae2e46f0adb76f2a7a7a945",
-      "seen_at": "2026-10-29T10:01:22.044039+00:00"
-    },
-    {
-      "id": "jobright-a66a4d6ced8f",
-      "seen_at": "2026-10-29T10:01:22.044279+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae2e2f1e37c39926d3b4159",
-      "seen_at": "2026-10-29T10:01:22.044507+00:00"
-    },
-    {
-      "id": "jobright-a1d8aa2084c1",
-      "seen_at": "2026-10-29T10:01:22.044748+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae2dc12e37c39926d3b4079",
-      "seen_at": "2026-10-29T10:01:22.044967+00:00"
-    },
-    {
-      "id": "jobright-4036e7a8bbbc",
-      "seen_at": "2026-10-29T10:01:22.045192+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae2d684a33a3dfa7359350c",
-      "seen_at": "2026-10-29T10:01:22.045406+00:00"
-    },
-    {
-      "id": "jobright-c84c4cd99b17",
-      "seen_at": "2026-10-29T10:01:22.045623+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae2d61c0adb76f2a7a7a6d1",
-      "seen_at": "2026-10-29T10:01:22.045845+00:00"
-    },
-    {
-      "id": "jobright-767f6180d372",
-      "seen_at": "2026-10-29T10:01:22.046062+00:00"
-    },
-    {
-      "id": "url:https://jobright.ai/jobs/info/6ae2a9f6829a3bada160674c",
-      "seen_at": "2026-10-29T10:01:22.046272+00:00"
-    },
-    {
-      "id": "workday-salesforce-JR363327",
-      "seen_at": "2026-10-29T10:01:22.046489+00:00"
-    },
-    {
-      "id": "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR363327",
-      "seen_at": "2026-10-29T10:01:22.046704+00:00"
-    },
-    {
-      "id": "zapply-b63a8f5ccd2b",
-      "seen_at": "2026-10-29T10:31:25.688978+00:00"
-    },
-    {
-      "id": "url:https://zapply.jobs/l/d/workday-amat-external-R2623165",
-      "seen_at": "2026-10-29T10:31:25.689443+00:00"
-    },
-    {
       "id": "simplify-92bf3646-4a8c-41d1-b24c-c18e53318dfd",
       "seen_at": "2026-10-29T11:01:21.894559+00:00"
     },
@@ -23891,14 +23811,36 @@
     {
       "id": "url:https://zapply.jobs/l/d/amazon-69339374-aade-4d6f-aa6c-a6cbe6ae8547",
       "seen_at": "2026-11-28T04:02:57.285115+00:00"
+    },
+    {
+      "id": "jobright-ecb13b996461",
+      "seen_at": "2026-11-28T11:02:47.134019+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6a83c45e9b859b2277670aa4",
+      "seen_at": "2026-11-28T11:02:47.134465+00:00"
+    },
+    {
+      "id": "gradtracker-fc85d50b2866",
+      "seen_at": "2026-11-28T11:02:47.134935+00:00"
+    },
+    {
+      "id": "url:https://www.amazon.jobs/en/jobs/10616076/data-engineer-i-spiv-data-engineering",
+      "seen_at": "2026-11-28T11:02:47.135330+00:00"
+    },
+    {
+      "id": "jobright-4d2f0ab5a64a",
+      "seen_at": "2026-11-28T11:02:49.382475+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6b0a47890dcf7f64923b694e",
+      "seen_at": "2026-11-28T11:02:49.382888+00:00"
     }
   ],
-  "last_run": "2026-11-28T04:32:49.770564+00:00",
-  "total_notified": 13709,
+  "last_run": "2026-11-28T11:02:49.601344+00:00",
+  "total_notified": 13712,
   "channels": {
     "pm-jobs": [
-      "zapply-b63a8f5ccd2b",
-      "url:https://zapply.jobs/l/d/workday-amat-external-R2623165",
       "jobright-855d884effdb",
       "url:https://jobright.ai/jobs/info/6ae308e0684c93aab88cbd12",
       "zapply-32b728ef0b07",
@@ -24947,24 +24889,6 @@
       "url:https://jobright.ai/jobs/info/6ae24028de23f466ec8c464b"
     ],
     "swe-ai-full-time": [
-      "jobright-803261146ce3",
-      "url:https://jobright.ai/jobs/info/6ae2ca89d52406f6fbf738af",
-      "workday-salesforce-JR307116",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-AMTS_JR307116",
-      "jobright-c4d03b7ae0d6",
-      "url:https://jobright.ai/jobs/info/6ae2e46f0adb76f2a7a7a945",
-      "jobright-a66a4d6ced8f",
-      "url:https://jobright.ai/jobs/info/6ae2e2f1e37c39926d3b4159",
-      "jobright-a1d8aa2084c1",
-      "url:https://jobright.ai/jobs/info/6ae2dc12e37c39926d3b4079",
-      "jobright-4036e7a8bbbc",
-      "url:https://jobright.ai/jobs/info/6ae2d684a33a3dfa7359350c",
-      "jobright-c84c4cd99b17",
-      "url:https://jobright.ai/jobs/info/6ae2d61c0adb76f2a7a7a6d1",
-      "jobright-767f6180d372",
-      "url:https://jobright.ai/jobs/info/6ae2a9f6829a3bada160674c",
-      "workday-salesforce-JR363327",
-      "url:https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR363327",
       "simplify-92bf3646-4a8c-41d1-b24c-c18e53318dfd",
       "url:https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720",
       "jobright-403bcbab7800",
@@ -29607,7 +29531,11 @@
       "applyguy-9bb12c0f-6316-4f02-845c-5ad34a9051a0",
       "url:https://jobs.workable.com/view/tYMFUP84Ychfr8o5RbAFJu/associate-software-engineer-(remote)-%7C-united-states-in-portland-at-hirehawk",
       "zapply-2430d009df54",
-      "url:https://zapply.jobs/l/d/amazon-69339374-aade-4d6f-aa6c-a6cbe6ae8547"
+      "url:https://zapply.jobs/l/d/amazon-69339374-aade-4d6f-aa6c-a6cbe6ae8547",
+      "jobright-ecb13b996461",
+      "url:https://jobright.ai/jobs/info/6a83c45e9b859b2277670aa4",
+      "gradtracker-fc85d50b2866",
+      "url:https://www.amazon.jobs/en/jobs/10616076/data-engineer-i-spiv-data-engineering"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
@@ -29879,7 +29807,9 @@
       "jobright-cfda3db731de",
       "url:https://jobright.ai/jobs/info/6aecdf7da2661405dc2c7169",
       "jobright-99e643227be0",
-      "url:https://jobright.ai/jobs/info/6afbcf2c8074edef8dd60790"
+      "url:https://jobright.ai/jobs/info/6afbcf2c8074edef8dd60790",
+      "jobright-4d2f0ab5a64a",
+      "url:https://jobright.ai/jobs/info/6b0a47890dcf7f64923b694e"
     ]
   }
 }
