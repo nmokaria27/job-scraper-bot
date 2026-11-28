@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "gradtracker-bc5cca3250ba",
-      "seen_at": "2026-10-29T00:31:07.567694+00:00"
-    },
-    {
-      "id": "url:https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer--Admin-Central_JR-0111194",
-      "seen_at": "2026-10-29T00:31:07.568006+00:00"
-    },
-    {
-      "id": "gradtracker-5c38665c9f50",
-      "seen_at": "2026-10-29T00:31:07.568266+00:00"
-    },
-    {
-      "id": "url:https://www.amazon.jobs/en/jobs/10588976/software-development-engineer-amazon-quick",
-      "seen_at": "2026-10-29T00:31:07.568511+00:00"
-    },
-    {
       "id": "jobright-2ffd7da0a876",
       "seen_at": "2026-10-29T01:01:25.651578+00:00"
     },
@@ -23979,10 +23963,26 @@
     {
       "id": "url:https://apply.workable.com/hirehawk/j/E300AE4F78/apply",
       "seen_at": "2026-11-28T00:02:55.073867+00:00"
+    },
+    {
+      "id": "jobright-60b7075432e1",
+      "seen_at": "2026-11-28T01:03:03.566767+00:00"
+    },
+    {
+      "id": "url:https://jobright.ai/jobs/info/6abde2d84ac55253f5d5f16f",
+      "seen_at": "2026-11-28T01:03:03.567048+00:00"
+    },
+    {
+      "id": "applyguy-9bb12c0f-6316-4f02-845c-5ad34a9051a0",
+      "seen_at": "2026-11-28T01:03:03.567317+00:00"
+    },
+    {
+      "id": "url:https://jobs.workable.com/view/tYMFUP84Ychfr8o5RbAFJu/associate-software-engineer-(remote)-%7C-united-states-in-portland-at-hirehawk",
+      "seen_at": "2026-11-28T01:03:03.567540+00:00"
     }
   ],
-  "last_run": "2026-11-28T00:32:51.846855+00:00",
-  "total_notified": 13706,
+  "last_run": "2026-11-28T01:03:04.423852+00:00",
+  "total_notified": 13708,
   "channels": {
     "pm-jobs": [
       "zapply-b63a8f5ccd2b",
@@ -25035,10 +25035,6 @@
       "url:https://jobright.ai/jobs/info/6ae24028de23f466ec8c464b"
     ],
     "swe-ai-full-time": [
-      "gradtracker-bc5cca3250ba",
-      "url:https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer--Admin-Central_JR-0111194",
-      "gradtracker-5c38665c9f50",
-      "url:https://www.amazon.jobs/en/jobs/10588976/software-development-engineer-amazon-quick",
       "jobright-2ffd7da0a876",
       "url:https://jobright.ai/jobs/info/6ae27ecb05a39c3e2c71af3f",
       "jobright-098b3d6f69da",
@@ -29717,7 +29713,11 @@
       "amazon-10598808",
       "url:https://www.amazon.jobs/en/jobs/10598808/data-scientist-aws-infrastructure-services-science",
       "simplify-f41572e6-04cd-4d41-9f8e-e95b73b9724b",
-      "url:https://apply.workable.com/hirehawk/j/E300AE4F78/apply"
+      "url:https://apply.workable.com/hirehawk/j/E300AE4F78/apply",
+      "jobright-60b7075432e1",
+      "url:https://jobright.ai/jobs/info/6abde2d84ac55253f5d5f16f",
+      "applyguy-9bb12c0f-6316-4f02-845c-5ad34a9051a0",
+      "url:https://jobs.workable.com/view/tYMFUP84Ychfr8o5RbAFJu/associate-software-engineer-(remote)-%7C-united-states-in-portland-at-hirehawk"
     ],
     "beauty-finance": [
       "jobright-6068615809b2",
